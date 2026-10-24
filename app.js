@@ -198,7 +198,7 @@
     if (v.confidence === 'laag') meta.push(`<span class="pill warn">Indicatief</span>`);
     $('#v-meta').innerHTML = meta.join('');
     const el = $('#v-rooms');
-    el.innerHTML = `<h3>Zalen</h3>` + rooms.map((r, i) => `<button class="room-card" data-i="${i}">${Plan.render(v, r, { noFooter: true })}<div class="cap">${esc(r.name)}</div></button>`).join('')
+    el.innerHTML = `<h3>Zalen</h3>` + rooms.map((r, i) => `<button class="room-card" data-i="${i}"><div class="thumb">${Plan.render(v, r, { mini: true })}</div><div class="cap">${esc(r.name)}</div></button>`).join('')
       + (v.note || v.confidence === 'laag' ? `<div class="note">${v.confidence === 'laag' ? 'Indicatieve plattegrond, geen officiële tekening gevonden. ' : ''}${esc(v.note || '')}</div>` : '');
     $$('#v-rooms .room-card').forEach(b => b.addEventListener('click', () => openPlan(v, rooms[+b.dataset.i], 'venue')));
     $('.venue-body').scrollTop = 0;

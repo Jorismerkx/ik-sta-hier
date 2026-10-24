@@ -65,17 +65,20 @@
 
   function render(venue, room, opts = {}) {
     const color = room.color || venue.color || colorFor(venue.name);
-    const m = makeMapper(room, BOX);
+    const mini = !!opts.mini;
+    const H2 = mini ? 1200 : H;
+    const m = makeMapper(room, mini ? { x: 80, y: 80, w: 740, h: 1040 } : BOX);
     const sw = 7;      // muurdikte
     const out = [];
     const T = (x, y, text, size, weight = 800, anchor = 'middle', extra = '') =>
       `<text x="${anchor === 'middle' ? Math.max(30 + String(text).length * size * 0.3, Math.min(W - 30 - String(text).length * size * 0.3, x)) : x}" y="${y}" fill="#fff" font-size="${size}" font-weight="${weight}" text-anchor="${anchor}" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif" ${extra}>${esc(text)}</text>`;
 
-    out.push(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">`);
-    out.push(`<rect width="${W}" height="${H}" fill="${color}"/>`);
+    out.push(`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H2}" width="${W}" height="${H2}">`);
+    out.push(`<rect width="${W}" height="${H2}" fill="${color}"/>`);
 
     // kop
     const vn = (venue.name || '').toUpperCase();
+    if (mini) { /* geen kop in miniatuur */ } else {
     const maxW = W - 180;
     const fit = (s, max) => Math.max(26, Math.min(max, maxW / (s.length * 0.66)));
     let vsize = fit(vn, 64);
@@ -91,6 +94,7 @@
     }
     const rn = room.name || '';
     out.push(T(90, 215, rn, fit(rn, 40), 400, 'start'));
+    }
 
     // muren
     if (room.round) {
@@ -167,7 +171,7 @@
     });
 
     // voet
-    if (!opts.noFooter) {
+    if (!opts.noFooter && !mini) {
       out.push(T(W / 2, H - 100, 'IK STA HIER', 28, 800));
     }
     out.push('</svg>');
