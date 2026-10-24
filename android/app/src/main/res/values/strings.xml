@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Ik sta hier</string>
+    <string name="title_activity_main">Ik sta hier</string>
+    <string name="package_name">nl.ikstahier.app</string>
+    <string name="custom_url_scheme">nl.ikstahier.app</string>
+</resources>

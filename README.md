@@ -42,3 +42,15 @@ in de desktopbrowser wordt het plaatje gedownload.
 Open de URL in Safari op iPhone en kies "Zet op beginscherm". `manifest.webmanifest` + `sw.js` zorgen dat schil, data,
 foto's en bekeken kaarttegels offline beschikbaar zijn. Hosten kan op elke statische host (GitHub Pages, Netlify, Render);
 Web Share (WhatsApp) vereist https.
+
+## Echte app (iOS en Android) via Capacitor
+
+Dezelfde code draait als native app in een WebView, met native deelvenster (WhatsApp) via `@capacitor/share`.
+
+- `python tools/build-www.py` kopieert de webapp naar `www/`; `npx cap sync` zet dat in `android/` en `ios/`.
+- Iconen en splash: `resources/` → `npx @capacitor/assets generate`.
+- **Android**: GitHub Actions (`.github/workflows/apps.yml`) bouwt bij elke push een debug-APK (artifact "ik-sta-hier-android-debug.apk").
+  Lokaal: Android Studio openen op `android/`. Voor de Play Store: signed release-build + Google Play-account (25 dollar eenmalig).
+- **iOS**: bouwen kan alleen met Xcode (Mac) of de macOS-runner in GitHub Actions. Op een iPhone zetten en in de App Store
+  vereist een Apple Developer-account (99 dollar per jaar). Workflow: `ios/App/App.xcworkspace` openen in Xcode, team kiezen, Run.
+- **Website/PWA**: `.github/workflows/pages.yml` zet `www/` op GitHub Pages (Settings > Pages > Source: GitHub Actions).

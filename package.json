@@ -1,0 +1,21 @@
+{
+  "name": "ik-sta-hier",
+  "version": "1.0.0",
+  "description": "Versimpelde plattegronden (Lowlands-stijl) van alle clubs en dance-venues in Amsterdam. Zet je puntje op de zaal, deel het plaatje via WhatsApp. Werkt ook met slecht bereik: de plattegronden zitten in de app, delen gaat als gewoon plaatje.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/cli": "^8.5.3",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/filesystem": "^8.1.5",
+    "@capacitor/ios": "^8.5.3",
+    "@capacitor/share": "^8.0.3"
+  }
+}

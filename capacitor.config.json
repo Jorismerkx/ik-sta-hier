@@ -1,0 +1,9 @@
+{
+  "appId": "nl.ikstahier.app",
+  "appName": "Ik sta hier",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "ios": { "contentInset": "never", "backgroundColor": "#000000" },
+  "android": { "backgroundColor": "#000000" },
+  "plugins": { "SplashScreen": { "backgroundColor": "#000000", "launchAutoHide": true } }
+}

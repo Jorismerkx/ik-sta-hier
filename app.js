@@ -282,7 +282,13 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
       const blob = await composeImage();
       const file = new File([blob], `ik-sta-hier-${v.id}.png`, { type: 'image/png' });
       const text = `Ik sta hier: ${v.name} · ${r.name}`;
-      if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      const cap = window.Capacitor && window.Capacitor.isNativePlatform && window.Capacitor.isNativePlatform() ? window.Capacitor.Plugins : null;
+      if (cap && cap.Share && cap.Filesystem) {
+        // native app: PNG naar cache schrijven en via het systeem-deelvenster (WhatsApp enz.) delen
+        const b64 = await new Promise(res => { const fr = new FileReader(); fr.onload = () => res(fr.result.split(',')[1]); fr.readAsDataURL(blob); });
+        const w = await cap.Filesystem.writeFile({ path: file.name, data: b64, directory: 'CACHE' });
+        await cap.Share.share({ title: text, text, files: [w.uri], dialogTitle: 'Deel je plek' });
+      } else if (navigator.canShare && navigator.canShare({ files: [file] })) {
         await navigator.share({ files: [file], title: text, text });
       } else {
         const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = file.name; a.click();
