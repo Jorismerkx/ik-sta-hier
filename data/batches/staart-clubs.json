@@ -1,0 +1,1088 @@
+[
+  {
+    "id": "panama",
+    "name": "Panama",
+    "address": "Oostelijke Handelskade 4, 1019 BM Amsterdam",
+    "area": "Oost",
+    "website": "https://www.panama.nl",
+    "status": "open",
+    "capacity": 1050,
+    "source": "Officiële brochure panama.nl (plattegrond met m2 + beschrijving) en venue-hire pagina: entreehal met kassa, rechtdoor de Studio, links daarvan de Theater-Nachtclub (295 m2) met podium 7m breed, DJ-booth aan het podium, hoofdbar + champagnebar beneden, balkon met eigen bar via trappen links en rechts",
+    "confidence": "hoog",
+    "note": "Vanuit de entreehal (kassa, kluisjes beneden) rechtdoor is de Studio; de Grote Zaal ligt links daarvan. Balkon (150) via trappen links en rechts, met eigen bar. Roken alleen buiten.",
+    "rooms": [
+      {
+        "name": "Grote Zaal (Theater-Nachtclub)",
+        "outline": [[0,0],[100,0],[100,120],[0,120]],
+        "features": [
+          {"t":"stage","x":22,"y":4,"w":56,"h":14,"label":"PODIUM"},
+          {"t":"dj","x":38,"y":18,"w":24,"h":8},
+          {"t":"poly","pts":[[0,0],[14,0],[14,120],[0,120]],"o":0.5},
+          {"t":"label","x":7,"y":60,"text":"BALKON","size":14},
+          {"t":"bar","a":[30,120],"b":[62,120],"label":"HOOFDBAR"},
+          {"t":"bar","a":[100,45],"b":[100,85],"side":-1,"label":"CHAMPAGNEBAR"},
+          {"t":"in","a":[16,120],"b":[27,120],"label":"IN (HAL)"},
+          {"t":"in","a":[100,102],"b":[100,114],"side":-1,"label":"STUDIO"},
+          {"t":"stairs","x":22,"y":108,"label":"TRAP BALKON"},
+          {"t":"stairs","x":88,"y":110,"label":"TRAP BALKON"}
+        ]
+      },
+      {
+        "name": "Studio",
+        "outline": [[0,0],[100,0],[100,70],[0,70]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[0,18],"b":[0,52]},
+          {"t":"in","a":[40,70],"b":[60,70],"label":"IN (HAL)"},
+          {"t":"in","a":[100,12],"b":[100,28],"side":-1,"label":"GROTE ZAAL"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "raw-factory",
+    "name": "RAW Factory",
+    "address": "Joan Muyskenweg 39, 1114 AN Amsterdam",
+    "area": "Overamstel",
+    "status": "unsure",
+    "capacity": 2500,
+    "source": "trifec.one, followthebeat.nl, festivalinfo.nl, ADE-programma 2026: G-Star RAW hoofdkantoor (OMA), flexibele indeling tot 2500, twee verdiepingen; Audio Obscura speelt hier ADE 2026 (22-24 okt) als laatste editie. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Twee vloeren: hoofdvloer beneden en een tweede ruimte (Garage) op de verdieping. Audio Obscura verlaat de locatie na ADE 2026; gebruik daarna onzeker.",
+    "rooms": [
+      {
+        "name": "Main Floor",
+        "outline": [[0,0],[100,0],[100,130],[0,130]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[0,40],"b":[0,90]},
+          {"t":"bar","a":[100,40],"b":[100,90],"side":-1},
+          {"t":"in","a":[40,130],"b":[60,130]},
+          {"t":"stairs","x":90,"y":120,"label":"TRAP 2E VLOER"},
+          {"t":"pillar","x":30,"y":50},{"t":"pillar","x":70,"y":50},{"t":"pillar","x":30,"y":95},{"t":"pillar","x":70,"y":95}
+        ]
+      },
+      {
+        "name": "Garage (2e vloer)",
+        "outline": [[0,0],[100,0],[100,80],[0,80]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[0,25],"b":[0,60]},
+          {"t":"in","a":[80,80],"b":[95,80],"label":"TRAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bajes-amsterdam",
+    "name": "Bajes Amsterdam",
+    "address": "H.J.E. Wenckebachweg 48, 1096 AN Amsterdam",
+    "area": "Oost",
+    "website": "https://www.bajes.amsterdam",
+    "status": "open",
+    "capacity": 2900,
+    "source": "Bajes B2B-infodeck (locaties.nl), RA-nieuws 6 okt 2026, bajes.amsterdam/bezoekersinfo: tijdelijke venue (2 jaar) in de Bijlmerbajes, open sinds 21 okt 2026. Levenslang is gesloten en gaat op in Bajes als 'De Ketel' (Blok K). Keukengebouw (Blok C, 1800 m2, 2000 staand), De Ketel (420 m2, 550), De Expo (Blok E, 250 m2, 500), Courtyard (220 m2). Rookruimte en kluisjes aanwezig. Indeling per zaal indicatief",
+    "confidence": "middel",
+    "note": "Opvolger van Levenslang: de oude Levenslang-ketelruimte is nu 'De Ketel' (Blok K). Blok C (Keukengebouw) en Blok K hebben elk een eigen ingang; welke zalen open zijn verschilt per avond. Kluisjes bij de ingang (geen garderobe), rookruimte binnen.",
+    "rooms": [
+      {
+        "name": "Keukengebouw (Blok C)",
+        "outline": [[0,0],[100,0],[100,140],[0,140]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[0,45],"b":[0,95]},
+          {"t":"bar","a":[100,45],"b":[100,95],"side":-1},
+          {"t":"in","a":[40,140],"b":[60,140]},
+          {"t":"cloak","x":15,"y":130},
+          {"t":"smoke","x":85,"y":130},
+          {"t":"pillar","x":33,"y":45},{"t":"pillar","x":67,"y":45},{"t":"pillar","x":33,"y":85},{"t":"pillar","x":67,"y":85}
+        ]
+      },
+      {
+        "name": "De Ketel (Blok K, voorheen Levenslang)",
+        "outline": [[0,0],[100,0],[100,100],[0,100]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[100,30],"b":[100,70],"side":-1},
+          {"t":"in","a":[40,100],"b":[60,100]},
+          {"t":"in","a":[0,70],"b":[0,88],"label":"COURTYARD"},
+          {"t":"smoke","x":15,"y":92},
+          {"t":"pillar","x":30,"y":40},{"t":"pillar","x":70,"y":40},{"t":"pillar","x":30,"y":70},{"t":"pillar","x":70,"y":70}
+        ]
+      },
+      {
+        "name": "De Expo (Blok E)",
+        "outline": [[0,0],[60,0],[60,130],[0,130]],
+        "features": [
+          {"t":"dj","x":15,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[60,60],"b":[60,100],"side":-1},
+          {"t":"in","a":[20,130],"b":[40,130]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tillatec",
+    "name": "TILLATEC",
+    "address": "Dr. Jan van Breemenstraat 1, 1056 AB Amsterdam",
+    "area": "West",
+    "website": "https://www.tillatec.com",
+    "status": "open",
+    "capacity": 900,
+    "source": "DJ Mag / RA (juni 2026): sluiting aangekondigd, Grand Finale Closing Weekender in november 2026; 900 capaciteit over twee zalen in het oude De School-gebouw (clubzaal in de voormalige gymzaal in het souterrain). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Sluit definitief na de closing weekender in november 2026. Twee zalen: de grote clubzaal (oude gymzaal, souterrain) en een kleinere zaal; tuin buiten.",
+    "rooms": [
+      {
+        "name": "Main Hall",
+        "outline": [[0,0],[100,0],[100,120],[0,120]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[100,40],"b":[100,85],"side":-1},
+          {"t":"in","a":[0,100],"b":[0,114],"label":"IN"},
+          {"t":"stairs","x":15,"y":110,"label":"TRAP"},
+          {"t":"smoke","x":85,"y":110}
+        ]
+      },
+      {
+        "name": "Kleine Zaal",
+        "outline": [[0,0],[100,0],[100,70],[0,70]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[0,20],"b":[0,55]},
+          {"t":"in","a":[40,70],"b":[60,70]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "h7-warehouse",
+    "name": "H7 Warehouse",
+    "address": "Humberweg 7, 1043 AC Amsterdam",
+    "area": "Sloterdijk",
+    "status": "open",
+    "capacity": 812,
+    "source": "trifec.one/h7-warehouse (hal met ingebouwde bar, kluisjes, groot balkon met zicht op de vloer, backstage; 600 m2 binnentuin buiten; capaciteit 812), iamsterdam/discotech eventlistings. Naast Club RAUM. Posities indicatief",
+    "confidence": "middel",
+    "note": "Een hal met balkon boven de bar-kant; 600 m2 binnentuin (rookplek) buiten. 5 min lopen van station Sloterdijk.",
+    "rooms": [
+      {
+        "name": "Warehouse",
+        "outline": [[0,0],[100,0],[100,120],[0,120]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[100,40],"b":[100,90],"side":-1},
+          {"t":"poly","pts":[[0,90],[100,90],[100,120],[0,120]],"dash":true,"text":"BALKON (BOVEN)"},
+          {"t":"in","a":[0,100],"b":[0,114],"label":"IN"},
+          {"t":"cloak","x":15,"y":80},
+          {"t":"in","a":[40,120],"b":[60,120],"label":"BINNENTUIN"},
+          {"t":"smoke","x":50,"y":130}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toekomstmuziek",
+    "name": "Toekomstmuziek",
+    "address": "Danzigerbocht 29, 1013 AM Amsterdam",
+    "area": "Houthavens",
+    "website": "https://toekomstmuziek.com",
+    "status": "open",
+    "source": "iamsterdam.com, toekomstmuziek.com, songkick: warehouse-achtige zaal voor concerten en clubnachten (ADE 2026: Obscuur, Kapsule), food & drinks. Geen plattegrond of capaciteit gevonden; indicatief",
+    "confidence": "laag",
+    "note": "Eén hal. Indeling indicatief.",
+    "rooms": [
+      {
+        "name": "Zaal",
+        "outline": [[0,0],[100,0],[100,110],[0,110]],
+        "features": [
+          {"t":"stage","x":25,"y":4,"w":50,"h":14},
+          {"t":"bar","a":[100,40],"b":[100,85],"side":-1},
+          {"t":"in","a":[0,90],"b":[0,104],"label":"IN"},
+          {"t":"smoke","x":15,"y":100}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "the-other-side",
+    "name": "The Other Side",
+    "address": "Rigakade 10, 1013 BC Amsterdam",
+    "area": "Houthavens",
+    "website": "https://the-other-side.nl",
+    "status": "open",
+    "capacity": 1100,
+    "source": "the-other-side.nl (spatial audio venue, L-Acoustics L-ISA; 'Room 2 by Sidequest' in programma), skiddle (hoofdzaal 900, totaal 1100-1200), amsterdamnow (36 speakers, thuisbasis Breakfast Club), iamsterdam (vr/za 22-05). Voormalige fietswerkplaats. Indeling indicatief",
+    "confidence": "laag",
+    "note": "Hoofdzaal met speakers rondom (L-ISA) plus een tweede, kleinere Room 2. Vr/za 22:00-05:00.",
+    "rooms": [
+      {
+        "name": "Main Room",
+        "outline": [[0,0],[100,0],[100,120],[0,120]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[0,40],"b":[0,90]},
+          {"t":"in","a":[40,120],"b":[60,120]},
+          {"t":"in","a":[100,95],"b":[100,110],"side":-1,"label":"ROOM 2"},
+          {"t":"smoke","x":85,"y":110}
+        ]
+      },
+      {
+        "name": "Room 2",
+        "outline": [[0,0],[100,0],[100,70],[0,70]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[100,20],"b":[100,55],"side":-1},
+          {"t":"in","a":[0,50],"b":[0,64],"label":"MAIN ROOM"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "theater-amsterdam",
+    "name": "Theater Amsterdam",
+    "address": "Danzigerkade 5, 1013 AP Amsterdam",
+    "area": "Houthavens",
+    "website": "https://theateramsterdam.nl",
+    "status": "open",
+    "capacity": 2000,
+    "source": "theateramsterdam.nl (Auditorium 926 stoelen / tot 1100, 60x50 m, projectiescherm 50x10 m; Blackbox 1200 m2 tot 2000 staand, leeg te bouwen; Foyer; Mezzanine), iamsterdam venue-finder. Bars/ingangen indicatief",
+    "confidence": "middel",
+    "note": "Auditorium = tribunezaal met enorm scherm achter het podium; Blackbox = lege hal van 1200 m2 die per event wordt ingericht. Beide via de foyer.",
+    "rooms": [
+      {
+        "name": "Auditorium",
+        "outline": [[0,0],[100,0],[100,110],[0,110]],
+        "features": [
+          {"t":"stage","x":10,"y":4,"w":80,"h":18},
+          {"t":"label","x":50,"y":2,"text":"SCHERM 50M","size":12},
+          {"t":"poly","pts":[[8,30],[92,30],[92,100],[8,100]],"dash":true,"text":"TRIBUNE"},
+          {"t":"in","a":[30,110],"b":[42,110],"label":"FOYER"},
+          {"t":"in","a":[58,110],"b":[70,110],"label":"FOYER"}
+        ]
+      },
+      {
+        "name": "Blackbox",
+        "outline": [[0,0],[100,0],[100,100],[0,100]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[0,30],"b":[0,75]},
+          {"t":"in","a":[40,100],"b":[60,100],"label":"FOYER"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "northbound",
+    "name": "Northbound",
+    "address": "Gedempt Hamerkanaal 86, 1021 KP Amsterdam",
+    "area": "Noord",
+    "status": "unsure",
+    "capacity": 550,
+    "source": "Enige bron: amsterdamnow.com 'nieuwe clubs in Amsterdam' (voormalige scheepswerf, techno, 550). Geen eigen site, ticketpagina of tweede bron gevonden; indicatief",
+    "confidence": "laag",
+    "note": "Slechts één bron gevonden; bestaan/status onzeker. Eén hal in een oude werfloods.",
+    "rooms": [
+      {
+        "name": "Hal",
+        "outline": [[0,0],[100,0],[100,120],[0,120]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[100,40],"b":[100,85],"side":-1},
+          {"t":"in","a":[40,120],"b":[60,120]},
+          {"t":"smoke","x":15,"y":110}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parallel",
+    "name": "Parallel",
+    "address": "Buiksloterweg 5C, 1031 CC Amsterdam",
+    "area": "Noord",
+    "website": "https://www.paradiso.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "DJ Mag / Mixmag (maart 2022: nieuwe club achter het Tolhuistuin-gebouw, voormalige Paradiso Noord-zaal, onder beheer van Paradiso), paradiso.nl programma (Feels Right, Terra). Eén zaal; indeling indicatief",
+    "confidence": "laag",
+    "note": "Achterkant van het Tolhuistuin-gebouw, 2 min van de pont Buiksloterweg. Eén zaal.",
+    "rooms": [
+      {
+        "name": "Club",
+        "outline": [[0,0],[100,0],[100,100],[0,100]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[100,35],"b":[100,75],"side":-1},
+          {"t":"in","a":[40,100],"b":[60,100]},
+          {"t":"smoke","x":15,"y":90}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "channel40",
+    "name": "Channel40 / kanaal40",
+    "address": "Beursstraat 1, 1012 JZ Amsterdam",
+    "area": "Centrum",
+    "status": "unsure",
+    "source": "amsterdamnow.com (intieme kelderclub met pub erboven, team Garage Noord, Beursstraat 1), RA-nieuws okt 2022 (opening, 'Warmoesstraat'; hoek Beursstraat/Warmoesstraat), iamsterdam (vermeldt 'voorheen'/digitaal). Fysieke status onzeker; indicatief",
+    "confidence": "laag",
+    "note": "Kelderclub onder een pub, trap naar beneden bij de ingang. iamsterdam noemt kanaal40 'voorlopig digitaal': check vooraf of de kelder open is.",
+    "rooms": [
+      {
+        "name": "Kelder",
+        "outline": [[0,0],[100,0],[100,80],[0,80]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[100,25],"b":[100,60],"side":-1},
+          {"t":"in","a":[0,60],"b":[0,74],"label":"TRAP (PUB)"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "50-hertz",
+    "name": "50:HERTZ House & Techno Cafe",
+    "address": "Halvemaansteeg 14, 1017 CR Amsterdam",
+    "area": "Centrum",
+    "status": "open",
+    "source": "ADE 2026 / iamsterdam listings (Groove Kitchen, Deep Stories, Animarum: 'Halvemaansteeg 14, 1017 CR, Rembrandt Square'), beschreven als compact house/techno-café; runt ook de 50:HERTZ Club Train. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Klein café aan de Halvemaansteeg (zijstraat Rembrandtplein), één ruimte met bar en DJ.",
+    "rooms": [
+      {
+        "name": "Café",
+        "outline": [[0,0],[60,0],[60,100],[0,100]],
+        "features": [
+          {"t":"dj","x":15,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[60,30],"b":[60,75],"side":-1},
+          {"t":"in","a":[20,100],"b":[40,100]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mewe",
+    "name": "MEWE",
+    "address": "Korte Leidsedwarsstraat 14, 1017 RC Amsterdam",
+    "area": "Centrum",
+    "website": "https://mewe.amsterdam",
+    "status": "open",
+    "source": "amsterdamnow.com (maart 2025: boutique club over twee verdiepingen, bites tot middernacht, Jeffrey van Alphen/Vladimir Orelio/Saïd Bardan), mastersexpo.com (2025). Zelfde adres als het vroegere Club Maïa. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Nieuw (2025), twee verdiepingen: beneden bar/dining, boven club. Zit waar vroeger Club Maïa zat.",
+    "rooms": [
+      {
+        "name": "Club",
+        "outline": [[0,0],[70,0],[70,100],[0,100]],
+        "features": [
+          {"t":"dj","x":20,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[70,30],"b":[70,70],"side":-1},
+          {"t":"in","a":[0,80],"b":[0,94],"label":"TRAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "club-8",
+    "name": "Club 8",
+    "address": "Admiraal de Ruijterweg 56B, 1056 GL Amsterdam",
+    "area": "De Baarsjes",
+    "website": "https://www.club-8.nl",
+    "status": "unsure",
+    "capacity": 300,
+    "source": "inyourpocket (restaurant + poolhal beneden, graffiti-dansclub boven, elektro-nachten), cityzeum (juni 2026: boven bar + pooltafels, rock/indie). Of de bovenverdieping nog als club draait is onzeker; indicatief",
+    "confidence": "laag",
+    "note": "Club op de bovenverdieping, boven het restaurant/poolcafé. Programma onzeker, check vooraf.",
+    "rooms": [
+      {
+        "name": "Club (boven)",
+        "outline": [[0,0],[100,0],[100,80],[0,80]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[100,20],"b":[100,60],"side":-1},
+          {"t":"in","a":[0,60],"b":[0,74],"label":"TRAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cue",
+    "name": "CUE",
+    "address": "Utrechtsestraat 30A, 1017 VN Amsterdam",
+    "area": "Centrum",
+    "website": "https://cue-amsterdam.com",
+    "status": "open",
+    "capacity": 100,
+    "source": "theinfatuation.com, iamsterdam best vinyl bars, ADE-venuepagina (open sinds okt 2024): vinyl listening bar in de kelder, Michelin-restaurant boven; wo-za 18-01. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Listening bar in de kelder (trap bij de ingang), restaurant boven. Geen echte dansvloer.",
+    "rooms": [
+      {
+        "name": "Listening bar (kelder)",
+        "outline": [[0,0],[60,0],[60,100],[0,100]],
+        "features": [
+          {"t":"dj","x":15,"y":4,"w":30,"h":10,"label":"DJ / VINYL"},
+          {"t":"bar","a":[60,25],"b":[60,70],"side":-1},
+          {"t":"in","a":[0,80],"b":[0,94],"label":"TRAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bar-twenty-two",
+    "name": "Bar Twenty Two",
+    "address": "Leidseplein 20-22, 1017 PT Amsterdam",
+    "area": "Centrum",
+    "status": "open",
+    "capacity": 150,
+    "source": "ADE-venuepagina, iamsterdam (Visions, Housetribe ADE-showcases), werkzoeken.nl (do-za club met DJ's): bar met DJ's aan het Leidseplein. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Eén bar/zaal aan het plein, DJ achterin.",
+    "rooms": [
+      {
+        "name": "Bar",
+        "outline": [[0,0],[60,0],[60,110],[0,110]],
+        "features": [
+          {"t":"dj","x":15,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[60,30],"b":[60,80],"side":-1},
+          {"t":"in","a":[20,110],"b":[40,110],"label":"IN (PLEIN)"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cafe-de-duivel",
+    "name": "Café de Duivel",
+    "address": "Reguliersdwarsstraat 87, 1017 BK Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.cafededuivel.nl",
+    "status": "open",
+    "capacity": 100,
+    "source": "patta.nl (sinds 1992, kleine hiphopbar), cityzeum, thesource.com (showcase feb 2026), schlouk-map (20:00-03/04:00). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Klein, smal café: bar langs de zijwand, DJ achterin.",
+    "rooms": [
+      {
+        "name": "Café",
+        "outline": [[0,0],[50,0],[50,110],[0,110]],
+        "features": [
+          {"t":"dj","x":10,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[50,25],"b":[50,80],"side":-1},
+          {"t":"in","a":[15,110],"b":[35,110]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eagle-amsterdam",
+    "name": "Eagle Amsterdam",
+    "address": "Warmoesstraat 90, 1012 JH Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.eagleamsterdam.com",
+    "status": "open",
+    "capacity": 200,
+    "source": "eagleamsterdam.com (intieme dansvloer, DJ's elk weekend, darkroom boven en in de kelder; do-zo vanaf 22:00), travelgay/nighttours/timeout (begane grond bar + dansvloer voorin, boven zitruimte/pooltafel, kelder darkroom en rookruimte). Posities indicatief",
+    "confidence": "middel",
+    "note": "Drie lagen: begane grond = bar en dansvloer, boven = cruising/zitruimte met pooltafel, kelder = darkroom en rookruimte. Hier staat de begane grond.",
+    "rooms": [
+      {
+        "name": "Begane grond (bar + dansvloer)",
+        "outline": [[0,0],[50,0],[50,120],[0,120]],
+        "features": [
+          {"t":"dj","x":10,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[50,30],"b":[50,90],"side":-1},
+          {"t":"in","a":[15,120],"b":[35,120]},
+          {"t":"stairs","x":10,"y":108,"label":"TRAP BOVEN"},
+          {"t":"stairs","x":40,"y":108,"label":"TRAP KELDER"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spijker-bar",
+    "name": "Spijker Bar",
+    "address": "Kerkstraat 4, 1017 GL Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.spijkerbar.nl",
+    "status": "open",
+    "capacity": 100,
+    "source": "inyourpocket, misterb&b, travelgay: donkere souterrainbar (sinds 1978), pooltafel achterin, schermen bij de bar, kleine rookruimte en darkroom boven. Geen DJ-info; indicatief",
+    "confidence": "laag",
+    "note": "Bar in het souterrain, pooltafel helemaal achterin; rookruimte en darkroom via de trap boven.",
+    "rooms": [
+      {
+        "name": "Bar (souterrain)",
+        "outline": [[0,0],[50,0],[50,120],[0,120]],
+        "features": [
+          {"t":"label","x":25,"y":12,"text":"POOLTAFEL","size":12},
+          {"t":"poly","pts":[[10,4],[40,4],[40,20],[10,20]],"dash":true},
+          {"t":"bar","a":[50,35],"b":[50,95],"side":-1},
+          {"t":"in","a":[15,120],"b":[35,120]},
+          {"t":"stairs","x":10,"y":108,"label":"TRAP ROOKRUIMTE"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vrankrijk",
+    "name": "Vrankrijk",
+    "address": "Spuistraat 216, 1012 VT Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.vrankrijk.org",
+    "status": "open",
+    "capacity": 150,
+    "source": "Wikipedia (gelegaliseerd kraakpand, evenementenruimte op de begane grond sinds 1984, punk/queer feesten), vrankrijk.org agenda (Punk Night vr, WTF Queer Wednesday), cityzeum. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Eén zaal op de begane grond met bar en klein podium/DJ; ingang aan de Spuistraat.",
+    "rooms": [
+      {
+        "name": "Zaal",
+        "outline": [[0,0],[70,0],[70,110],[0,110]],
+        "features": [
+          {"t":"stage","x":15,"y":4,"w":40,"h":12,"label":"PODIUM / DJ"},
+          {"t":"bar","a":[70,30],"b":[70,80],"side":-1},
+          {"t":"in","a":[25,110],"b":[45,110]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "under-hans",
+    "name": "Under Hans (Onder Hans)",
+    "address": "Kerkstraat 136-138, 1017 GR Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.hansbrinker.com/club/",
+    "status": "open",
+    "source": "hansbrinker.com/club (agenda t/m dec 2026, events soms gesplitst in UPSTAIRS en BASEMENT), amsterdamnow (rauwe kelderclub onder Hans Brinker Hostel, eigen bar en sound), hostelworld (open okt-apr), tixel. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Kelder onder het Hans Brinker Hostel, trap naar beneden vanaf de hostel-ingang; seizoen oktober-april.",
+    "rooms": [
+      {
+        "name": "Basement",
+        "outline": [[0,0],[100,0],[100,80],[0,80]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[100,20],"b":[100,60],"side":-1},
+          {"t":"in","a":[0,60],"b":[0,74],"label":"TRAP (HOSTEL)"},
+          {"t":"pillar","x":35,"y":40},{"t":"pillar","x":65,"y":40}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hannekes-boom",
+    "name": "Hannekes Boom",
+    "address": "Dijksgracht 4, 1019 BS Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.hannekesboom.nl",
+    "status": "open",
+    "capacity": 400,
+    "source": "hannekesboom.nl (vr/za tot 03:00, binnenruimte, terras aan het water met steiger), iamsterdam (huis-DJ elke vr/za, terras, dakterras, haven), thevendry (terras 100, dakterras 120). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Houten paviljoen: binnen bar en DJ, groot terras aan het water met steiger. 's Zomers speelt alles buiten.",
+    "rooms": [
+      {
+        "name": "Binnen + terras",
+        "outline": [[0,0],[80,0],[80,80],[0,80]],
+        "features": [
+          {"t":"dj","x":25,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[80,20],"b":[80,60],"side":-1},
+          {"t":"in","a":[30,80],"b":[50,80],"label":"TERRAS"},
+          {"t":"poly","pts":[[0,80],[80,80],[80,130],[0,130]],"dash":true,"text":"TERRAS (WATER)"},
+          {"t":"in","a":[0,20],"b":[0,34],"label":"IN"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maloe-melo",
+    "name": "Maloe Melo",
+    "address": "Lijnbaansgracht 163, 1016 VX Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.maloemelo.com",
+    "status": "open",
+    "capacity": 150,
+    "source": "maloemelo.com (oudste blues/rockcafé, wo-za 21-03/04), vanupied/cityzeum (twee ruimtes: café met bar bij de ingang, betaalde concertzaal met podium verder naar achteren), timeout. Posities indicatief",
+    "confidence": "middel",
+    "note": "Voorin het café met de bar, achterin (door een deur) de kleine concertzaal met podium.",
+    "rooms": [
+      {
+        "name": "Café (voor)",
+        "outline": [[0,0],[50,0],[50,90],[0,90]],
+        "features": [
+          {"t":"bar","a":[50,25],"b":[50,75],"side":-1},
+          {"t":"in","a":[15,90],"b":[35,90]},
+          {"t":"in","a":[15,0],"b":[35,0],"side":-1,"label":"NAAR ZAAL"}
+        ]
+      },
+      {
+        "name": "Concertzaal (achter)",
+        "outline": [[0,0],[60,0],[60,80],[0,80]],
+        "features": [
+          {"t":"stage","x":12,"y":4,"w":36,"h":14},
+          {"t":"bar","a":[60,30],"b":[60,60],"side":-1},
+          {"t":"in","a":[20,80],"b":[40,80],"label":"CAFÉ"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "club-baggerbeest",
+    "name": "Club Baggerbeest",
+    "address": "Rudi van Dantzigstraat 1-15, 1095 PK Amsterdam",
+    "area": "Zeeburgereiland",
+    "website": "https://www.baggerbeest.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "baggerbeest.nl (broedplaats met Bar Baggerbeest, di-zo, vr/za tot 04:00, en een zaal voor programma), ADE 2026-listings (10+ events, Pompstation x Club Baggerbeest dagfeest). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Bar en aparte zaal in de broedplaats op Zeeburgereiland; club-avonden in de zaal.",
+    "rooms": [
+      {
+        "name": "Zaal",
+        "outline": [[0,0],[100,0],[100,90],[0,90]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[0,25],"b":[0,65]},
+          {"t":"in","a":[40,90],"b":[60,90],"label":"BAR / IN"}
+        ]
+      },
+      {
+        "name": "Bar",
+        "outline": [[0,0],[80,0],[80,70],[0,70]],
+        "features": [
+          {"t":"bar","a":[80,15],"b":[80,55],"side":-1},
+          {"t":"in","a":[30,70],"b":[50,70]},
+          {"t":"in","a":[30,0],"b":[50,0],"side":-1,"label":"ZAAL"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kompaszaal",
+    "name": "Kompaszaal",
+    "address": "KNSM-laan 311, 1019 LE Amsterdam",
+    "area": "Oost",
+    "website": "https://www.kompaszaal.nl",
+    "status": "open",
+    "capacity": 250,
+    "source": "kompaszaal.nl (balzaal ca. 500 m2 op de verdieping van de oude KNSM-aankomsthal, karakteristieke bar, podium/piano, lobby, terras met zicht op het IJ; swing/salsa/rock-'n-roll-avonden), eventlocations.com (200 zittend / 250 staand), Google-reviews (grote zaal boven via twee trappen). Posities indicatief",
+    "confidence": "middel",
+    "note": "Balzaal op de eerste verdieping (twee trappen omhoog); bar in de zaal, terras aan de IJ-kant.",
+    "rooms": [
+      {
+        "name": "Balzaal (1e verdieping)",
+        "outline": [[0,0],[100,0],[100,110],[0,110]],
+        "features": [
+          {"t":"stage","x":30,"y":4,"w":40,"h":12},
+          {"t":"bar","a":[100,40],"b":[100,85],"side":-1},
+          {"t":"in","a":[0,20],"b":[0,40],"label":"TERRAS (IJ)"},
+          {"t":"in","a":[40,110],"b":[60,110],"label":"LOBBY / TRAP"},
+          {"t":"stairs","x":20,"y":100,"label":"TRAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "loods-6",
+    "name": "Loods 6",
+    "address": "KNSM-laan 143, 1019 LB Amsterdam",
+    "area": "Oost",
+    "website": "https://www.loods6.nl",
+    "status": "unsure",
+    "capacity": 600,
+    "source": "loods6.nl (Bagagehal als culturele evenementenhal; CURRENTS ADE 2026), hirespace (Bagagehal ca. 397 m2, 600 staand, eigen ingang), locaties.nl (Bagagehal ca. 880 m2, 2-600). Vooral expo/events, geen vaste club; indicatief",
+    "confidence": "laag",
+    "note": "Bagagehal op de begane grond van Loods 6 met eigen ingang; per event ingericht.",
+    "rooms": [
+      {
+        "name": "Bagagehal",
+        "outline": [[0,0],[100,0],[100,70],[0,70]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[0,20],"b":[0,55]},
+          {"t":"in","a":[40,70],"b":[60,70]},
+          {"t":"pillar","x":30,"y":35},{"t":"pillar","x":70,"y":35}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ijland",
+    "name": "IJland",
+    "address": "Tt. Vasumweg 171, 1033 SG Amsterdam",
+    "area": "Noord",
+    "website": "https://ijland.nl",
+    "status": "open",
+    "capacity": 1100,
+    "source": "ijland.nl/location (grote zaal 500 m2, kleine zaal 105 m2, waterterras 300 m2, klein terras 200 m2; feest beide zalen 800+, totaal tot 1500), amsterdamnow (tot 1100, Bay House), tixel. Posities indicatief",
+    "confidence": "laag",
+    "note": "Industriële hal aan het IJ bij NDSM: grote zaal, kleine zaal en groot waterterras (boten kunnen aanleggen).",
+    "rooms": [
+      {
+        "name": "Grote zaal",
+        "outline": [[0,0],[100,0],[100,110],[0,110]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[100,35],"b":[100,80],"side":-1},
+          {"t":"in","a":[40,110],"b":[60,110]},
+          {"t":"in","a":[0,30],"b":[0,60],"label":"TERRAS (IJ)"},
+          {"t":"in","a":[100,95],"b":[100,108],"side":-1,"label":"KLEINE ZAAL"}
+        ]
+      },
+      {
+        "name": "Kleine zaal",
+        "outline": [[0,0],[70,0],[70,70],[0,70]],
+        "features": [
+          {"t":"dj","x":20,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[70,20],"b":[70,50],"side":-1},
+          {"t":"in","a":[0,50],"b":[0,64],"label":"GROTE ZAAL"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bar-benelux",
+    "name": "Bar Benelux",
+    "address": "Gedempt Hamerkanaal 83, 1021 KP Amsterdam",
+    "area": "Noord",
+    "website": "https://be-ne-lux.bar",
+    "status": "open",
+    "capacity": 350,
+    "source": "amsterdamnow.com (cocktailbar in oud schoolgebouw met ruwe muren en plek voor een dansvloer, vr/za tot 03:00; overdag Eurosoft Café), yourlittleblackbook. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Eén ruimte: bar aan de zijkant, dansvloer achterin bij de DJ.",
+    "rooms": [
+      {
+        "name": "Bar",
+        "outline": [[0,0],[80,0],[80,100],[0,100]],
+        "features": [
+          {"t":"dj","x":25,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[80,30],"b":[80,75],"side":-1},
+          {"t":"in","a":[30,100],"b":[50,100]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "klaproos",
+    "name": "Klaproos",
+    "address": "Papaverhoek 39, 1032 JZ Amsterdam",
+    "area": "Noord",
+    "website": "https://klaproosamsterdam.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "iamsterdam (Papaverhoek 39; pizzeria/wijnbar, DJ's vr/za, vr/za tot 03:00, meerdere ruimtes), amsterdamnow (vr/za wordt het restaurant een bar met DJ en dansen), ADE-listings 2024-2026. Masterlijst-adres Papaverweg 40 klopt niet. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Restaurant dat vr/za ombouwt tot bar met DJ; meerdere kleine ruimtes, hoofdruimte met pizzaoven en bar.",
+    "rooms": [
+      {
+        "name": "Hoofdruimte",
+        "outline": [[0,0],[100,0],[100,80],[0,80]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[100,20],"b":[100,60],"side":-1},
+          {"t":"in","a":[40,80],"b":[60,80]},
+          {"t":"label","x":15,"y":15,"text":"PIZZAOVEN","size":11}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ijver",
+    "name": "IJver",
+    "address": "Scheepsbouwkade 72, 1033 WM Amsterdam",
+    "area": "Noord",
+    "website": "https://www.ijveramsterdam.nl",
+    "status": "open",
+    "capacity": 1000,
+    "source": "ijveramsterdam.nl (café-restaurant in de NDSM-loods, 20 tapkranen, binnen-buitenterras, feestzalen; ADE-programma 22-25 okt 2026), eventlocations (250 zittend / 1000 staand), locaties.nl (5 ruimtes). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Groot café-restaurant in de NDSM-loods met lange bar; bij events DJ achterin, overdekt terras aan de voorkant.",
+    "rooms": [
+      {
+        "name": "Café / zaal",
+        "outline": [[0,0],[100,0],[100,110],[0,110]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[100,25],"b":[100,85],"side":-1},
+          {"t":"in","a":[40,110],"b":[60,110],"label":"TERRAS / IN"},
+          {"t":"pillar","x":30,"y":40},{"t":"pillar","x":70,"y":40},{"t":"pillar","x":30,"y":80},{"t":"pillar","x":70,"y":80}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "murmur",
+    "name": "murmur",
+    "address": "Aambeeldstraat 60, 1021 KB Amsterdam",
+    "area": "Noord",
+    "status": "open",
+    "capacity": 100,
+    "source": "amsterdamnow.com en tablejourney (listening bar in industrieel pand, zelfgebouwd speakersysteem, natuurwijn, vinylsets van 6+ uur; geen dansvloer of DJ-booth, wel een klein podium; vr/za 19-01). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Listening bar: speakers en platenhoek centraal, geen dansvloer. Vr/za.",
+    "rooms": [
+      {
+        "name": "Listening bar",
+        "outline": [[0,0],[80,0],[80,90],[0,90]],
+        "features": [
+          {"t":"dj","x":25,"y":4,"w":30,"h":10,"label":"VINYL"},
+          {"t":"bar","a":[80,25],"b":[80,65],"side":-1},
+          {"t":"in","a":[30,90],"b":[50,90]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sissis",
+    "name": "Sissi's",
+    "address": "Anthony Fokkerweg 3, 1059 CM Amsterdam",
+    "area": "Zuid (De Schinkel)",
+    "website": "https://www.sissisamsterdam.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "sissisamsterdam.nl (vr/za 18-04, resto + club + karaoke; ADE 2026-avonden), amsterdamnow (oude fabriekshal in De Schinkel: twee clubzalen, bruin café, terras Sunny Side, deli). Masterlijst-adres Theophile de Bockstraat klopt niet. Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Fabriekshal: restaurant/bruin café voorin, twee clubzalen achterin, terras Sunny Side buiten.",
+    "rooms": [
+      {
+        "name": "Zaal 1",
+        "outline": [[0,0],[100,0],[100,100],[0,100]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":12},
+          {"t":"bar","a":[0,30],"b":[0,70]},
+          {"t":"in","a":[40,100],"b":[60,100],"label":"RESTO / IN"},
+          {"t":"in","a":[100,80],"b":[100,95],"side":-1,"label":"ZAAL 2"}
+        ]
+      },
+      {
+        "name": "Zaal 2",
+        "outline": [[0,0],[70,0],[70,70],[0,70]],
+        "features": [
+          {"t":"dj","x":20,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[70,20],"b":[70,50],"side":-1},
+          {"t":"in","a":[0,50],"b":[0,64],"label":"ZAAL 1"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plantage-dok",
+    "name": "Plantage Dok",
+    "address": "Plantage Doklaan 8-12, 1018 CM Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.plantagedok.nl",
+    "status": "unsure",
+    "capacity": 200,
+    "source": "plantagedok.nl (kunstcollectief in voormalige kerk: Dokzaal als evenementenruimte, Dokhuis Galerie, volkskeuken do/wo; muziekavonden Subbacultcha etc.), RA (Desert Flower 2025). Geen vaste clubnachten; indicatief",
+    "confidence": "laag",
+    "note": "Dokzaal in een oude kerk; incidentele feesten en concerten, geen vast clubprogramma.",
+    "rooms": [
+      {
+        "name": "Dokzaal",
+        "outline": [[0,0],[80,0],[80,110],[0,110]],
+        "features": [
+          {"t":"stage","x":20,"y":4,"w":40,"h":14},
+          {"t":"bar","a":[80,40],"b":[80,85],"side":-1},
+          {"t":"in","a":[30,110],"b":[50,110]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cafe-smokey",
+    "name": "Club Smokey",
+    "address": "Rembrandtplein 18-20, 1017 CV Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.clubsmokey.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "clubsmokey.nl (vr/za vanaf 21:00, Rembrandtplein 18-20, DJ's en themanachten), clubbable, lastnightoffreedom (meerdere niveaus, neon, naast coffeeshop Smokey). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Feestcafé/club aan het Rembrandtplein naast coffeeshop Smokey; meerdere niveaus, hoofdvloer beneden.",
+    "rooms": [
+      {
+        "name": "Club",
+        "outline": [[0,0],[70,0],[70,110],[0,110]],
+        "features": [
+          {"t":"dj","x":20,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[70,30],"b":[70,80],"side":-1},
+          {"t":"in","a":[25,110],"b":[45,110],"label":"IN (PLEIN)"},
+          {"t":"stairs","x":10,"y":100,"label":"TRAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "club-john-doe",
+    "name": "Club John Doe",
+    "address": "Rembrandtplein 31, 1017 CT Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.clubjohndoe.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "iamsterdam (technoclub sinds 2014, wo-zo, vr/za tot 07:00, industrieel), technoairlines (garderobe verplicht), directory-hub (meerdere verdiepingen). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Smal pand aan het Rembrandtplein, garderobe verplicht bij de ingang; hoofdvloer met DJ achterin.",
+    "rooms": [
+      {
+        "name": "Club",
+        "outline": [[0,0],[60,0],[60,120],[0,120]],
+        "features": [
+          {"t":"dj","x":15,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[60,35],"b":[60,85],"side":-1},
+          {"t":"in","a":[20,120],"b":[40,120],"label":"IN (PLEIN)"},
+          {"t":"cloak","x":12,"y":108}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chin-chin-club",
+    "name": "Chin Chin Club",
+    "address": "Rozengracht 133, 1016 LV Amsterdam",
+    "area": "Centrum (Jordaan)",
+    "website": "https://www.chinchinclub.nl",
+    "status": "open",
+    "capacity": 750,
+    "source": "chinchinclub.nl (kelder 'Le Souterrain': restaurant/dinnershow, cocktailbar, karaoke, nightclub do-za; 4 ruimtes 900 m2), locaties.nl (club/restaurant 367 m2 tot 500, cocktailbar 85 m2, Peacock bar 70 m2, verlichte dansvloer, DJ-booth), iamsterdam (bar is het middelpunt). Posities indicatief",
+    "confidence": "middel",
+    "note": "Alles in de kelder (trap bij de ingang): grote zaal met bar als middelpunt, na het diner dansvloer; aparte cocktailbar, Peacock bar en karaoke.",
+    "rooms": [
+      {
+        "name": "Club / Le Souterrain",
+        "outline": [[0,0],[100,0],[100,100],[0,100]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[30,55],"b":[70,55],"label":"BAR"},
+          {"t":"in","a":[40,100],"b":[60,100],"label":"TRAP (IN)"},
+          {"t":"in","a":[100,80],"b":[100,94],"side":-1,"label":"COCKTAILBAR"},
+          {"t":"in","a":[0,80],"b":[0,94],"label":"PEACOCK BAR"},
+          {"t":"label","x":85,"y":12,"text":"KARAOKE","size":11}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "supperclub",
+    "name": "Supperclub",
+    "address": "Singel 460, 1017 AW Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.supper.nl",
+    "status": "open",
+    "capacity": 500,
+    "source": "supper.nl (Odeon-gebouw; dinnershow op bedden met optreden, club ma/do/vr/za vanaf 23:00, bar Chapter 21), RA-listings t/m okt 2026, afar (bovenlounge met zicht op de zaal), technoairlines. Posities indicatief",
+    "confidence": "laag",
+    "note": "Hoofdzaal met witte bedden langs de wanden en podium/DJ voorin; lounge/balkon boven kijkt op de zaal.",
+    "rooms": [
+      {
+        "name": "Hoofdzaal",
+        "outline": [[0,0],[80,0],[80,120],[0,120]],
+        "features": [
+          {"t":"stage","x":15,"y":4,"w":50,"h":14,"label":"PODIUM / DJ"},
+          {"t":"poly","pts":[[0,25],[12,25],[12,105],[0,105]],"dash":true,"text":"BEDDEN"},
+          {"t":"poly","pts":[[68,25],[80,25],[80,105],[68,105]],"dash":true,"text":"BEDDEN"},
+          {"t":"bar","a":[25,120],"b":[55,120]},
+          {"t":"in","a":[60,120],"b":[72,120]},
+          {"t":"stairs","x":8,"y":112,"label":"TRAP LOUNGE"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "de-kroon",
+    "name": "De Kroon",
+    "address": "Rembrandtplein 17-1, 1017 CT Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.dekroon.nl",
+    "status": "open",
+    "capacity": 400,
+    "source": "iamsterdam (restaurant, bar en lounge met zicht op het Rembrandtplein; na middernacht club vr/za, Latin Nights), fodors (U-vormige bar rond vitrinekasten, op de verdieping boven de clubs), escape.nl jobs (zelfde verdieping als Escape deLuxe/Studio). Posities indicatief",
+    "confidence": "laag",
+    "note": "Op de eerste verdieping (trap/lift vanaf het plein): U-vormige bar in het midden, lounge aan de pleinkant wordt na 24:00 dansvloer.",
+    "rooms": [
+      {
+        "name": "Lounge / club (1e verdieping)",
+        "outline": [[0,0],[100,0],[100,90],[0,90]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[35,50],"b":[65,50],"label":"U-BAR"},
+          {"t":"label","x":50,"y":16,"text":"ZICHT OP PLEIN","size":11},
+          {"t":"in","a":[0,70],"b":[0,84],"label":"TRAP"},
+          {"t":"label","x":85,"y":75,"text":"RESTAURANT","size":11}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "soulkitchen",
+    "name": "SoulKitchen",
+    "address": "Amstelstraat 30, 1017 DA Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.soulkitchenamsterdam.nl",
+    "status": "open",
+    "capacity": 300,
+    "source": "amsterdamnow (mei 2024: restaurant-cocktailbar-club in het oude Club Abe/Blue Ivy-pand naast AIR, Nikkei-keuken, na het eten dansen), iamsterdam dine & dance (ombouw naar club rond 23:30), RA (REECORDS ADE). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Nieuw (2024) op het adres van het gesloten Club Abe. Eén ruimte: eerst restaurant, na 23:30 club met DJ.",
+    "rooms": [
+      {
+        "name": "Restaurant / club",
+        "outline": [[0,0],[80,0],[80,110],[0,110]],
+        "features": [
+          {"t":"dj","x":25,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[80,30],"b":[80,80],"side":-1},
+          {"t":"in","a":[30,110],"b":[50,110]}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "club-prime",
+    "name": "Club Prime",
+    "address": "Rembrandtplein 22, 1017 CV Amsterdam",
+    "area": "Centrum",
+    "website": "https://www.clubprime.nl",
+    "status": "unsure",
+    "source": "iamsterdam clubpagina (Rembrandtplein 22, elke avond, tot 03/05:00, VIP-tafels), clubprime.nl (onderhoudspagina: 'elke avond vanaf 22:00', Instagram primeclubamsterdam). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Commerciële club aan het Rembrandtplein; site tijdelijk offline, programma via Instagram.",
+    "rooms": [
+      {
+        "name": "Club",
+        "outline": [[0,0],[70,0],[70,110],[0,110]],
+        "features": [
+          {"t":"dj","x":20,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[70,30],"b":[70,80],"side":-1},
+          {"t":"in","a":[25,110],"b":[45,110],"label":"IN (PLEIN)"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": "waterkant",
+    "name": "Waterkant",
+    "address": "Marnixstraat 246, 1016 TL Amsterdam",
+    "area": "Centrum (Jordaan)",
+    "website": "https://www.waterkantamsterdam.nl",
+    "status": "open",
+    "capacity": 400,
+    "source": "iamexpat (Surinaamse bar-restaurant met dansvloer), suitcasemag 'drink + dance Amsterdam', enprimeurclub (groot terras aan het water onder de parkeergarage). Geen plattegrond; indicatief",
+    "confidence": "laag",
+    "note": "Onder parkeergarage Marnix: binnen bar met dansvloer, groot terras aan de Singelgracht.",
+    "rooms": [
+      {
+        "name": "Binnen + terras",
+        "outline": [[0,0],[100,0],[100,70],[0,70]],
+        "features": [
+          {"t":"dj","x":35,"y":4,"w":30,"h":10},
+          {"t":"bar","a":[0,20],"b":[0,55]},
+          {"t":"in","a":[30,70],"b":[70,70],"label":"TERRAS"},
+          {"t":"poly","pts":[[0,70],[100,70],[100,120],[0,120]],"dash":true,"text":"TERRAS (WATER)"}
+        ]
+      }
+    ]
+  }
+]

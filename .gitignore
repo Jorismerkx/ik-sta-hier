@@ -1,0 +1,5 @@
+_shots/
+data/photos-log.json
+tools/_geocache.json
+__pycache__/
+.DS_Store

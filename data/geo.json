@@ -1,0 +1,602 @@
+{
+ "50-hertz": {
+  "lat": 52.36655,
+  "lng": 4.89573,
+  "q": "Halvemaansteeg 14, 1017 CR Amsterdam"
+ },
+ "amsterdam-roest": {
+  "lat": 52.37196,
+  "lng": 4.92652,
+  "q": "Jacob Bontiusplaats 1, 1018 LL Amsterdam"
+ },
+ "bajes-amsterdam": {
+  "lat": 52.33725,
+  "lng": 4.92533,
+  "q": "H.J.E. Wenckebachweg 48, 1096 AN Amsterdam"
+ },
+ "bar-benelux": {
+  "lat": 52.38391,
+  "lng": 4.92176,
+  "q": "Gedempt Hamerkanaal 83, 1021 KP Amsterdam"
+ },
+ "bar-twenty-two": {
+  "lat": 52.36452,
+  "lng": 4.88255,
+  "q": "Leidseplein 20-22, 1017 PT Amsterdam"
+ },
+ "bret": {
+  "lat": 52.38985,
+  "lng": 4.83676,
+  "q": "Orlyplein 76, 1043 DP Amsterdam"
+ },
+ "cafe-de-ceuvel": {
+  "lat": 52.39315,
+  "lng": 4.91076,
+  "q": "Korte Papaverweg 4, 1032 KB Amsterdam"
+ },
+ "cafe-de-duivel": {
+  "lat": 52.36609,
+  "lng": 4.89354,
+  "q": "Reguliersdwarsstraat 87, 1017 BK Amsterdam"
+ },
+ "channel40": {
+  "lat": 52.37519,
+  "lng": 4.89734,
+  "q": "Beursstraat 1, 1012 JZ Amsterdam"
+ },
+ "chin-chin-club": {
+  "lat": 52.37277,
+  "lng": 4.87884,
+  "q": "Rozengracht 133, 1016 LV Amsterdam"
+ },
+ "cinetol": {
+  "lat": 52.35274,
+  "lng": 4.90667,
+  "q": "Tolstraat 182, 1074 VM Amsterdam"
+ },
+ "club-8": {
+  "lat": 52.37124,
+  "lng": 4.86195,
+  "q": "Admiraal de Ruijterweg 56B, Amsterdam"
+ },
+ "club-baggerbeest": {
+  "lat": 52.37491,
+  "lng": 4.95999,
+  "q": "Rudi van Dantzigstraat 1-15, 1095 PK Amsterdam"
+ },
+ "club-john-doe": {
+  "lat": 52.36648,
+  "lng": 4.8976,
+  "q": "Rembrandtplein 31, 1017 CT Amsterdam"
+ },
+ "club-lite": {
+  "lat": 52.37579,
+  "lng": 4.86508,
+  "q": "Jan van Galenstraat 24, 1051 KM Amsterdam"
+ },
+ "club-prime": {
+  "lat": 52.36563,
+  "lng": 4.89631,
+  "q": "Rembrandtplein 22, 1017 CV Amsterdam"
+ },
+ "club-raum": {
+  "lat": 52.39133,
+  "lng": 4.83105,
+  "q": "Humberweg 3, 1043 AC Amsterdam"
+ },
+ "cafe-smokey": {
+  "lat": 52.36582,
+  "lng": 4.89672,
+  "q": "Rembrandtplein 18-20, 1017 CV Amsterdam"
+ },
+ "cue": {
+  "lat": 52.36443,
+  "lng": 4.89793,
+  "q": "Utrechtsestraat 30A, Amsterdam"
+ },
+ "de-kroon": {
+  "lat": 52.36642,
+  "lng": 4.89679,
+  "q": "Rembrandtplein 17-1, 1017 CT Amsterdam"
+ },
+ "de-nieuwe-anita": {
+  "lat": 52.37416,
+  "lng": 4.87269,
+  "q": "Frederik Hendrikstraat 111, 1052 HN Amsterdam"
+ },
+ "de-wester": {
+  "lat": 52.38682,
+  "lng": 4.86979,
+  "q": "Klönneplein 2, 1014 DD Amsterdam"
+ },
+ "eagle-amsterdam": {
+  "lat": 52.37465,
+  "lng": 4.89702,
+  "q": "Warmoesstraat 90, 1012 JH Amsterdam"
+ },
+ "fc-hyena": {
+  "lat": 52.38341,
+  "lng": 4.92893,
+  "q": "Aambeeldstraat 24, 1021 KB Amsterdam"
+ },
+ "garage-noord": {
+  "lat": 52.38557,
+  "lng": 4.92572,
+  "q": "Gedempt Hamerkanaal 40, 1021 KM Amsterdam"
+ },
+ "h7-warehouse": {
+  "lat": 52.3905,
+  "lng": 4.83089,
+  "q": "Humberweg 7, 1043 AC Amsterdam"
+ },
+ "hangar": {
+  "lat": 52.38373,
+  "lng": 4.93093,
+  "q": "Aambeeldstraat 36, 1021 KB Amsterdam"
+ },
+ "hannekes-boom": {
+  "lat": 52.37629,
+  "lng": 4.91162,
+  "q": "Dijksgracht 4, 1019 BS Amsterdam"
+ },
+ "havenpark": {
+  "lat": 52.39294,
+  "lng": 4.77484,
+  "q": "Wethouder van Essenweg, 1046 AV Amsterdam"
+ },
+ "hemkade-48": {
+  "lat": 52.42219,
+  "lng": 4.81964,
+  "q": "Hemkade 48, 1506 PS Zaandam"
+ },
+ "het-hem": {
+  "lat": 52.42035,
+  "lng": 4.83585,
+  "q": "Hemkade 18, 1506 PR Zaandam"
+ },
+ "het-sieraad": {
+  "lat": 52.36436,
+  "lng": 4.85704,
+  "q": "Postjesweg 1, 1057 DT Amsterdam"
+ },
+ "het-veronicaschip": {
+  "lat": 52.40138,
+  "lng": 4.89022,
+  "q": "NDSM-Pier 1, 1033 RG Amsterdam"
+ },
+ "ijland": {
+  "lat": 52.41113,
+  "lng": 4.87723,
+  "q": "Tt. Vasumweg 171, 1033 SG Amsterdam"
+ },
+ "ijver": {
+  "lat": 52.40137,
+  "lng": 4.89512,
+  "q": "Scheepsbouwkade 72, 1033 WM Amsterdam"
+ },
+ "kanarie-club": {
+  "lat": 52.36654,
+  "lng": 4.86858,
+  "q": "Hannie Dankbaarpassage 33, 1053 RT Amsterdam"
+ },
+ "klaproos": {
+  "lat": 52.39368,
+  "lng": 4.91209,
+  "q": "Papaverhoek 39, 1032 JZ Amsterdam"
+ },
+ "kompaszaal": {
+  "lat": 52.3773,
+  "lng": 4.93978,
+  "q": "KNSM-laan 311, 1019 LE Amsterdam"
+ },
+ "kromhouthal": {
+  "lat": 52.3833,
+  "lng": 4.92049,
+  "q": "Gedempt Hamerkanaal 231, 1021 KP Amsterdam"
+ },
+ "lofi": {
+  "lat": 52.39125,
+  "lng": 4.82422,
+  "q": "Basisweg 63, 1043 AN Amsterdam"
+ },
+ "loods-6": {
+  "lat": 52.37727,
+  "lng": 4.93877,
+  "q": "KNSM-laan 143, 1019 LB Amsterdam"
+ },
+ "machinegebouw": {
+  "lat": 52.38604,
+  "lng": 4.8743,
+  "q": "Pazzanistraat 1, 1014 DB Amsterdam"
+ },
+ "madam": {
+  "lat": 52.38377,
+  "lng": 4.90214,
+  "q": "Overhoeksplein 5, 1031 KS Amsterdam"
+ },
+ "maloe-melo": {
+  "lat": 52.37006,
+  "lng": 4.87772,
+  "q": "Lijnbaansgracht 163, 1016 VX Amsterdam"
+ },
+ "mediahaven": {
+  "lat": 52.39944,
+  "lng": 4.87168,
+  "q": "Moermanskkade 107, 1013 BC Amsterdam"
+ },
+ "mewe": {
+  "lat": 52.36492,
+  "lng": 4.88221,
+  "q": "Korte Leidsedwarsstraat 14, 1017 RC Amsterdam"
+ },
+ "mezrab": {
+  "lat": 52.376,
+  "lng": 4.92759,
+  "q": "Veemkade 576, 1019 BL Amsterdam"
+ },
+ "murmur": {
+  "lat": 52.38543,
+  "lng": 4.92798,
+  "q": "Aambeeldstraat 60, 1021 KB Amsterdam"
+ },
+ "ndsm-loods": {
+  "lat": 52.40129,
+  "lng": 4.8957,
+  "q": "NDSM-Plein 93, 1033 WC Amsterdam"
+ },
+ "noorderlicht-cafe": {
+  "lat": 52.39957,
+  "lng": 4.89698,
+  "q": "NDSM-Plein 102, 1033 WB Amsterdam"
+ },
+ "northbound": {
+  "lat": 52.38416,
+  "lng": 4.921,
+  "q": "Gedempt Hamerkanaal 86, 1021 KP Amsterdam"
+ },
+ "nxt-museum": {
+  "lat": 52.39119,
+  "lng": 4.90404,
+  "q": "Asterweg 22, 1031 HP Amsterdam"
+ },
+ "occii": {
+  "lat": 52.35434,
+  "lng": 4.85534,
+  "q": "Amstelveenseweg 134, 1075 XL Amsterdam"
+ },
+ "oceandiva": {
+  "lat": 52.37826,
+  "lng": 4.91593,
+  "q": "Passenger Terminal Amsterdam, Amsterdam"
+ },
+ "oedipus-craft-space": {
+  "lat": 52.38523,
+  "lng": 4.92368,
+  "q": "Schaafstraat 21, 1021 KL Amsterdam"
+ },
+ "oosterbar": {
+  "lat": 52.36088,
+  "lng": 4.91891,
+  "q": "Mauritskade 57, 1092 AD Amsterdam"
+ },
+ "p60": {
+  "lat": 52.3027,
+  "lng": 4.85876,
+  "q": "Stadsplein 100a, 1181 ZM Amstelveen"
+ },
+ "pacific": {
+  "lat": 52.38647,
+  "lng": 4.87566,
+  "q": "handmatig: Polonceaukade 23 Westergas"
+ },
+ "panama": {
+  "lat": 52.37494,
+  "lng": 4.93043,
+  "q": "Oostelijke Handelskade 4, 1019 BM Amsterdam"
+ },
+ "parallel": {
+  "lat": 52.38335,
+  "lng": 4.90365,
+  "q": "Buiksloterweg 5C, 1031 CC Amsterdam"
+ },
+ "plantage-dok": {
+  "lat": 52.3683,
+  "lng": 4.91117,
+  "q": "Plantage Doklaan 8-12, 1018 CM Amsterdam"
+ },
+ "pllek": {
+  "lat": 52.39913,
+  "lng": 4.8931,
+  "q": "TT Neveritaweg 59, 1033 WB Amsterdam"
+ },
+ "podium-mozaiek": {
+  "lat": 52.38008,
+  "lng": 4.85413,
+  "q": "Bos en Lommerweg 191, 1055 DT Amsterdam"
+ },
+ "q-factory": {
+  "lat": 52.35767,
+  "lng": 4.9305,
+  "q": "Atlantisplein 1, 1093 NE Amsterdam"
+ },
+ "radio-radio": {
+  "lat": 52.38607,
+  "lng": 4.87405,
+  "q": "Pazzanistraat 3, 1014 DB Amsterdam"
+ },
+ "radion": {
+  "lat": 52.34563,
+  "lng": 4.82554,
+  "q": "Louwesweg 1, 1066 EA Amsterdam"
+ },
+ "raw-factory": {
+  "lat": 52.33349,
+  "lng": 4.91469,
+  "q": "Joan Muyskenweg 39, 1114 AN Amsterdam"
+ },
+ "ruigoord": {
+  "lat": 52.41031,
+  "lng": 4.74911,
+  "q": "Ruigoord 76, 1047 HH Amsterdam"
+ },
+ "sissis": {
+  "lat": 52.34483,
+  "lng": 4.84258,
+  "q": "Anthony Fokkerweg 3, 1059 CM Amsterdam"
+ },
+ "skatecafe": {
+  "lat": 52.38545,
+  "lng": 4.9256,
+  "q": "Gedempt Hamerkanaal 42, 1021 KM Amsterdam"
+ },
+ "soulkitchen": {
+  "lat": 52.3661,
+  "lng": 4.89971,
+  "q": "Amstelstraat 30, 1017 DA Amsterdam"
+ },
+ "spijker-bar": {
+  "lat": 52.36624,
+  "lng": 4.88395,
+  "q": "Kerkstraat 4, 1017 GL Amsterdam"
+ },
+ "studio-k": {
+  "lat": 52.36514,
+  "lng": 4.9359,
+  "q": "Timorplein 62, 1094 CC Amsterdam"
+ },
+ "supperclub": {
+  "lat": 52.36755,
+  "lng": 4.88883,
+  "q": "Singel 460, 1017 AW Amsterdam"
+ },
+ "the-loft-adam": {
+  "lat": 52.38362,
+  "lng": 4.90225,
+  "q": "Overhoeksplein 1, 1031 KS Amsterdam"
+ },
+ "the-other-side": {
+  "lat": 52.39532,
+  "lng": 4.87483,
+  "q": "Rigakade 10, 1013 BC Amsterdam"
+ },
+ "theater-amsterdam": {
+  "lat": 52.39695,
+  "lng": 4.87726,
+  "q": "Danzigerkade 5, 1013 AP Amsterdam"
+ },
+ "thomaskerk": {
+  "lat": 52.34209,
+  "lng": 4.87483,
+  "q": "Prinses Irenestraat 36, 1077 WX Amsterdam"
+ },
+ "thuishaven": {
+  "lat": 52.39676,
+  "lng": 4.85639,
+  "q": "Contactweg 68, 1014 BW Amsterdam"
+ },
+ "tillatec": {
+  "lat": 52.36995,
+  "lng": 4.84371,
+  "q": "Dr. Jan van Breemenstraat 1, 1056 AB Amsterdam"
+ },
+ "toekomstmuziek": {
+  "lat": 52.39663,
+  "lng": 4.87552,
+  "q": "Danzigerbocht 29, 1013 AM Amsterdam"
+ },
+ "under-hans": {
+  "lat": 52.36321,
+  "lng": 4.89008,
+  "q": "Kerkstraat 136-138, 1017 GR Amsterdam"
+ },
+ "undercurrent": {
+  "lat": 52.40988,
+  "lng": 4.8812,
+  "q": "tt. Vasumweg 93, 1033 SG Amsterdam"
+ },
+ "vondelpark3": {
+  "lat": 52.36108,
+  "lng": 4.875,
+  "q": "Vondelpark 3, 1071 AA Amsterdam"
+ },
+ "vrankrijk": {
+  "lat": 52.37167,
+  "lng": 4.8892,
+  "q": "Spuistraat 216, 1012 VT Amsterdam"
+ },
+ "warehouse-elementenstraat": {
+  "lat": 52.39397,
+  "lng": 4.85148,
+  "q": "Elementenstraat 25, 1014 AR Amsterdam"
+ },
+ "waterkant": {
+  "lat": 52.36972,
+  "lng": 4.87619,
+  "q": "Marnixstraat 246, 1016 TL Amsterdam"
+ },
+ "westergas-machinegebouw": {
+  "lat": 52.38611,
+  "lng": 4.87214,
+  "q": "Pazzanistraat 37, 1014 DB Amsterdam"
+ },
+ "westweelde": {
+  "lat": 52.38716,
+  "lng": 4.86943,
+  "q": "Klönneplein 4-6, 1014 DD Amsterdam"
+ },
+ "yellow-house": {
+  "lat": 52.39638,
+  "lng": 4.87439,
+  "q": "Danzigerbocht 45-R, 1013 AM Amsterdam"
+ },
+ "zaal-100": {
+  "lat": 52.38302,
+  "lng": 4.87806,
+  "q": "De Wittenstraat 100, 1052 BA Amsterdam"
+ },
+ "zuiveringshal-west": {
+  "lat": 52.38611,
+  "lng": 4.87214,
+  "q": "Pazzanistraat 37, 1014 DB Amsterdam"
+ },
+ "beurs-van-berlage": {
+  "lat": 52.37502,
+  "lng": 4.89626,
+  "q": "Damrak 243, 1012 ZJ Amsterdam"
+ },
+ "bitterzoet": {
+  "lat": 52.37736,
+  "lng": 4.89414,
+  "q": "Spuistraat 2, 1012 TS Amsterdam"
+ },
+ "bourbon-street": {
+  "lat": 52.36388,
+  "lng": 4.88535,
+  "q": "Leidsekruisstraat 6-8, 1017 RH Amsterdam"
+ },
+ "lux": {
+  "lat": 52.36487,
+  "lng": 4.88074,
+  "q": "Marnixstraat 403, 1017 PJ Amsterdam"
+ },
+ "weber": {
+  "lat": 52.36497,
+  "lng": 4.88059,
+  "q": "Marnixstraat 397, 1017 PJ Amsterdam"
+ },
+ "chicago-social-club": {
+  "lat": 52.36464,
+  "lng": 4.8826,
+  "q": "Leidseplein 12, 1017 PT Amsterdam"
+ },
+ "club-church": {
+  "lat": 52.36521,
+  "lng": 4.8856,
+  "q": "Kerkstraat 52, 1017 GM Amsterdam"
+ },
+ "john-doe": {
+  "lat": 52.36648,
+  "lng": 4.8976,
+  "q": "Rembrandtplein 31, 1017 CT Amsterdam"
+ },
+ "club-nyx": {
+  "lat": 52.36627,
+  "lng": 4.89132,
+  "q": "Reguliersdwarsstraat 42, 1017 BM Amsterdam"
+ },
+ "club-smokey": {
+  "lat": 52.36582,
+  "lng": 4.89672,
+  "q": "Rembrandtplein 18-20, 1017 CV Amsterdam"
+ },
+ "club-up": {
+  "lat": 52.3651,
+  "lng": 4.88206,
+  "q": "Korte Leidsedwarsstraat 26-1, 1017 RC Amsterdam"
+ },
+ "de-brakke-grond": {
+  "lat": 52.37115,
+  "lng": 4.89386,
+  "q": "Nes 45, 1012 KD Amsterdam"
+ },
+ "disco-dolly": {
+  "lat": 52.36809,
+  "lng": 4.89024,
+  "q": "Handboogstraat 11, 1012 XM Amsterdam"
+ },
+ "escape": {
+  "lat": 52.36642,
+  "lng": 4.89632,
+  "q": "Rembrandtplein 11, 1017 CT Amsterdam"
+ },
+ "exit-cafe": {
+  "lat": 52.36627,
+  "lng": 4.89132,
+  "q": "Reguliersdwarsstraat 42, 1017 BM Amsterdam"
+ },
+ "frascati": {
+  "lat": 52.37034,
+  "lng": 4.89365,
+  "q": "Nes 63, 1012 KD Amsterdam"
+ },
+ "hotel-arena": {
+  "lat": 52.36123,
+  "lng": 4.9163,
+  "q": "'s-Gravesandestraat 55, 1092 AA Amsterdam"
+ },
+ "jimmy-woo": {
+  "lat": 52.3648,
+  "lng": 4.88237,
+  "q": "Korte Leidsedwarsstraat 18, 1017 RC Amsterdam"
+ },
+ "melkweg": {
+  "lat": 52.36478,
+  "lng": 4.88107,
+  "q": "Lijnbaansgracht 234A, 1017 PH Amsterdam"
+ },
+ "montmartre-xl": {
+  "lat": 52.3662,
+  "lng": 4.89171,
+  "q": "Reguliersdwarsstraat 48, 1017 BM Amsterdam"
+ },
+ "muziekgebouw": {
+  "lat": 52.37827,
+  "lng": 4.91311,
+  "q": "Piet Heinkade 1, 1019 BR Amsterdam"
+ },
+ "nachbar": {
+  "lat": 52.3721,
+  "lng": 4.89098,
+  "q": "Nieuwezijds Voorburgwal 169, 1012 RK Amsterdam"
+ },
+ "pakhuis-de-zwijger": {
+  "lat": 52.37678,
+  "lng": 4.92215,
+  "q": "Piet Heinkade 179, 1019 HC Amsterdam"
+ },
+ "posthoornkerk": {
+  "lat": 52.3814,
+  "lng": 4.88946,
+  "q": "Haarlemmerstraat 124-126, 1013 EX Amsterdam"
+ },
+ "prik": {
+  "lat": 52.37471,
+  "lng": 4.89084,
+  "q": "Spuistraat 109, 1012 SV Amsterdam"
+ },
+ "soho": {
+  "lat": 52.36629,
+  "lng": 4.89096,
+  "q": "Reguliersdwarsstraat 36, 1017 BM Amsterdam"
+ },
+ "taboo": {
+  "lat": 52.36646,
+  "lng": 4.89099,
+  "q": "Reguliersdwarsstraat 45, 1017 BK Amsterdam"
+ },
+ "the-waterhole": {
+  "lat": 52.36486,
+  "lng": 4.88252,
+  "q": "Korte Leidsedwarsstraat 49, 1017 PW Amsterdam"
+ }
+}

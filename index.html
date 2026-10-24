@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Ik sta hier">
+<meta name="theme-color" content="#000000">
+<meta name="description" content="Plattegronden van alle clubs in Amsterdam. Zet je puntje, stuur door.">
+<title>Ik sta hier</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="img/icon-192.png">
+<link rel="apple-touch-icon" href="img/icon-180.png">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="desk">
+  <div id="phone">
+    <div id="screen">
+
+      <!-- WELKOM -->
+      <section id="view-welcome" class="view">
+        <div class="wall" id="wall"></div>
+        <div class="welcome">
+          <h1 class="big">Ik sta<br>hier<span class="dot">.</span></h1>
+          <p class="lead">Slecht bereik in de club? Wijs op de plattegrond aan waar je staat en stuur dat door.</p>
+          <ol class="steps">
+            <li><span>1</span>Kies je club en zaal</li>
+            <li><span>2</span>Zet je puntje</li>
+            <li><span>3</span>Deel via WhatsApp</li>
+          </ol>
+          <button id="start" class="cta">Begin</button>
+          <p class="fine" id="welcome-count"></p>
+        </div>
+      </section>
+
+      <!-- HOME: lijst + kaart -->
+      <section id="view-home" class="view">
+        <header class="top">
+          <div class="brand"><h1>Ik sta hier<span class="dot">.</span></h1><button id="info" aria-label="Over">i</button></div>
+          <div class="search">
+            <svg viewBox="0 0 24 24" width="18" height="18"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            <input id="q" type="search" placeholder="Zoek een club of zaal" autocomplete="off" autocorrect="off" autocapitalize="off" enterkeyhint="search">
+            <button id="q-clear" aria-label="Wis">×</button>
+          </div>
+          <nav class="tabs">
+            <button class="tab active" data-tab="list">Lijst</button>
+            <button class="tab" data-tab="map">Kaart</button>
+          </nav>
+        </header>
+        <div id="chips"></div>
+        <div id="pane-list" class="pane active">
+          <div id="list"></div>
+        </div>
+        <div id="pane-map" class="pane">
+          <div id="map"></div>
+          <button id="locate" aria-label="Mijn locatie"><svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="3" fill="currentColor"/><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 1v4M12 19v4M1 12h4M19 12h4" stroke="currentColor" stroke-width="2"/></svg></button>
+          <div id="map-card" class="hidden"></div>
+        </div>
+      </section>
+
+      <!-- VENUE: zalen -->
+      <section id="view-venue" class="view">
+        <div class="hero" id="v-hero">
+          <button class="back" data-back="home" aria-label="Terug">‹</button>
+          <div class="hero-text">
+            <h2 id="v-name"></h2>
+            <p id="v-addr"></p>
+          </div>
+        </div>
+        <div class="venue-body">
+          <div class="venue-meta" id="v-meta"></div>
+          <div id="v-rooms" class="rooms"></div>
+        </div>
+      </section>
+
+      <!-- PLAN: plattegrond + pen + delen -->
+      <section id="view-plan" class="view">
+        <header class="top plan-top">
+          <button class="back" data-back="venue" aria-label="Terug">‹</button>
+          <div class="venue-title">
+            <h2 id="p-name"></h2>
+            <p id="p-room" class="sub"></p>
+          </div>
+          <button id="p-share" class="share">Deel</button>
+        </header>
+        <div id="plan-wrap">
+          <div id="plan-card">
+            <div id="plan-svg"></div>
+            <canvas id="plan-ink"></canvas>
+            <div id="plan-hint">Tik waar je staat</div>
+          </div>
+        </div>
+        <div class="tools">
+          <button class="tool active" data-tool="dot" title="Puntje">
+            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" fill="currentColor"/></svg><span>Punt</span>
+          </button>
+          <button class="tool" data-tool="pen" title="Pen">
+            <svg viewBox="0 0 24 24"><path d="M4 20l4-1 10-10-3-3L5 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Pen</span>
+          </button>
+          <button class="tool" data-tool="undo" title="Ongedaan">
+            <svg viewBox="0 0 24 24"><path d="M9 7H4v5M4.5 12A8 8 0 1 1 6 17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Terug</span>
+          </button>
+          <button class="tool" data-tool="clear" title="Wis">
+            <svg viewBox="0 0 24 24"><path d="M5 7h14M9 7V4h6v3M7 7l1 13h8l1-13" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Wis</span>
+          </button>
+          <button class="tool" data-tool="report" title="Klopt niet">
+            <svg viewBox="0 0 24 24"><path d="M12 3 2 21h20L12 3z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M12 10v5M12 18v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Klopt niet</span>
+          </button>
+        </div>
+      </section>
+
+      <!-- OVER -->
+      <section id="view-about" class="view">
+        <header class="top plan-top">
+          <button class="back" data-back="home" aria-label="Terug">‹</button>
+          <div class="venue-title"><h2>Over</h2></div>
+        </header>
+        <div class="about">
+          <p><strong>Ik sta hier</strong> is een plattegrond-app voor het uitgaan in Amsterdam. Elke zaal is versimpeld tot wat je nodig hebt om aan te wijzen waar je staat: podium of DJ, bars, ingang, trap.</p>
+          <p>Zet je puntje, deel het plaatje. Werkt ook zonder bereik: de plattegronden zitten in de app.</p>
+          <p>Plattegronden zijn gemaakt op basis van zaaltekeningen, foto's en beschrijvingen. Staat er <em>indicatief</em> bij, dan is de indeling een schatting. Klopt iets niet? Stuur een foto van de zaal.</p>
+          <p id="about-stats" class="fine"></p>
+          <p class="fine">Foto's: websites van de venues, Amsterdam Dance Event en Wikimedia Commons. Kaart: OpenStreetMap. Plattegrond fout of foto niet oké? <a id="about-mail" href="#">Mail</a>.</p>
+          <div id="install-tip" class="tip hidden"><strong>Zet op je beginscherm</strong><br>Safari: tik op <span class="ios-share">⎙</span> en kies "Zet op beginscherm". Dan opent het als app en werkt het offline.</div>
+        </div>
+      </section>
+
+      <div id="offline" class="hidden">Offline, plattegronden werken gewoon</div>
+      <div id="toast"></div>
+    </div>
+  </div>
+  <div id="desk-note">
+    <strong>Ik sta hier</strong><br>Lokale testversie in iPhone-frame. Op een echte telefoon opent de deelknop WhatsApp; hier wordt het plaatje gedownload.
+  </div>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="plan.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

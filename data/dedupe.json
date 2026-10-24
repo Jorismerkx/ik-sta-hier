@@ -1,0 +1,12 @@
+{
+ "drop": [
+  "machinegebouw",
+  "wereldmuseum-lichthal",
+  "cafe-smokey",
+  "john-doe"
+ ],
+ "rename": {
+  "westergas-machinegebouw": "Machinegebouw (Westergas)",
+  "wereldmuseum": "Wereldmuseum (Tropenmuseum)"
+ }
+}

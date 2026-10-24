@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="nl"><head><meta charset="utf-8"><title>Contactsheet</title>
+<style>
+body{margin:0;background:#111;color:#fff;font-family:Arial,sans-serif}
+#grid{display:grid;grid-template-columns:repeat(6,1fr);gap:8px;padding:8px}
+.c{position:relative}
+.c svg{width:100%;height:auto;display:block;border-radius:6px}
+.c .n{position:absolute;left:6px;top:6px;font-size:10px;background:rgba(0,0,0,.6);padding:2px 5px;border-radius:4px}
+</style></head><body>
+<div id="grid"></div>
+<script src="../plan.js"></script>
+<script>
+const p = new URLSearchParams(location.search);
+const from = +(p.get('from')||0), n = +(p.get('n')||60);
+fetch('../data/venues.json').then(r=>r.json()).then(vs=>{
+  const all=[]; vs.forEach(v=>(v.rooms||[]).forEach(r=>all.push([v,r])));
+  const g=document.getElementById('grid');
+  all.slice(from,from+n).forEach(([v,r],i)=>{ const d=document.createElement('div'); d.className='c'; d.innerHTML=Plan.render(v,r,{noFooter:true})+`<div class="n">${from+i} · ${v.confidence||'?'}</div>`; g.appendChild(d); });
+  document.title = `sheet ${from}-${from+n} van ${all.length}`;
+  window.TOTAL = all.length;
+});
+</script></body></html>
