@@ -66,10 +66,25 @@ h2 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line
 .search input::-webkit-search-cancel-button { display: none; }
 #q-clear { width: 24px; height: 24px; border-radius: 50%; background: #333; color: #fff; font-size: 16px; line-height: 1; display: none; }
 .search.has-q #q-clear { display: block; }
-.tabs { display: flex; gap: 4px; margin-top: 12px; background: var(--panel2); border-radius: 12px; padding: 4px; }
-.tab { flex: 1; height: 34px; border-radius: 9px; font-weight: 600; color: var(--muted); }
-.tab.active { background: #333; color: #fff; }
-#chips { display: flex; gap: 6px; padding: 0 20px 10px; overflow-x: auto; scrollbar-width: none; flex: none; }
+.tabbar { flex: none; display: flex; justify-content: space-around; padding: 6px 10px calc(10px + var(--safe-bottom)); background: rgba(10,10,10,.92); backdrop-filter: blur(16px); border-top: 1px solid var(--line); }
+.tab { display: flex; flex-direction: column; align-items: center; gap: 3px; color: var(--muted); font-size: 11px; font-weight: 600; width: 84px; padding: 6px 0; border-radius: 12px; }
+.tab svg { width: 24px; height: 24px; }
+.tab.active { color: #fff; }
+.tab[data-tab="favs"].active { color: #f5b400; }
+.tab[data-tab="favs"].active svg path { fill: #f5b400; }
+.fav { width: 38px; height: 38px; border-radius: 50%; background: var(--panel2); display: grid; place-items: center; color: #fff; flex: none; }
+.fav svg { width: 22px; height: 22px; }
+.fav svg path { fill: none; }
+.fav.on { background: rgba(245,180,0,.18); color: #f5b400; }
+.fav.on svg path { fill: #f5b400; }
+.fav:active { transform: scale(.9); }
+.hero .fav { position: absolute; right: 16px; top: calc(52px + var(--safe-top)); z-index: 2; background: rgba(0,0,0,.45); backdrop-filter: blur(10px); }
+.hero .fav.on { background: rgba(0,0,0,.55); }
+@media (max-width: 760px) { .hero .fav { top: calc(14px + var(--safe-top)); } }
+#favs { height: 100%; overflow-y: auto; -webkit-overflow-scrolling: touch; padding: 8px 20px calc(30px + var(--safe-bottom)); }
+#favs .empty { padding-top: 60px; line-height: 1.6; }
+#favs .empty svg { width: 44px; height: 44px; color: #f5b400; margin-bottom: 10px; }
+#chips { display: flex; gap: 6px; padding: 10px 20px 10px; overflow-x: auto; scrollbar-width: none; flex: none; }
 #chips::-webkit-scrollbar { display: none; }
 .chip { flex: none; padding: 7px 12px; border-radius: 999px; background: var(--panel2); color: var(--muted); font-size: 13px; font-weight: 600; }
 .chip.active { background: #fff; color: #000; }

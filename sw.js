@@ -1,5 +1,5 @@
 /* Service worker: app-schil + data + foto's offline. Kaarttegels worden gecachet zodra ze gezien zijn. */
-const VERSION = 'ish-e4f512f70d';
+const VERSION = 'ish-8977a546ce';
 const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'plan.js', 'data/venues.json', 'manifest.webmanifest',
   'img/icon-192.png', 'img/icon-512.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'];

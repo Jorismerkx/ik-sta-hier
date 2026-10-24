@@ -4,7 +4,7 @@ from playwright.async_api import async_playwright
 
 OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(os.path.dirname(__file__), '..', '_shots')
 os.makedirs(OUT, exist_ok=True)
-BASE = 'http://localhost:8765/'
+BASE = os.environ.get('ISH_BASE', 'http://localhost:8765/')
 errors = []
 
 async def main():
@@ -32,7 +32,14 @@ async def main():
         await pg.click('.tab[data-tab="map"]')
         await pg.wait_for_timeout(2500)
         await pg.screenshot(path=os.path.join(OUT, '2-kaart.png'))
-        await pg.click('.pin >> nth=10'); await pg.wait_for_timeout(500)
+        mb = await pg.locator('#map').bounding_box()
+        pins = await pg.locator('.pin').all()
+        for pin in pins:
+            bb = await pin.bounding_box()
+            if bb and mb['x']+40 < bb['x'] < mb['x']+mb['width']-40 and mb['y']+60 < bb['y'] < mb['y']+mb['height']-120:
+                await pin.click(force=True); break
+        await pg.wait_for_timeout(500)
+        assert await pg.locator('#map-card:not(.hidden)').count(), 'kaartkaartje niet open'
         await pg.screenshot(path=os.path.join(OUT, '2b-kaart-kaartje.png'))
         await pg.click('.tab[data-tab="list"]')
         # venue met meerdere zalen (Paradiso)
@@ -55,12 +62,21 @@ async def main():
         d = await dl.value
         await d.save_as(os.path.join(OUT, '5-gedeeld.png'))
         # terug, terug, over
+        # favoriet via planscherm
+        await pg.click('#p-fav'); await pg.wait_for_timeout(200)
+        assert 'on' in (await pg.get_attribute('#p-fav', 'class')), 'ster niet goud'
         await pg.click('.plan-top .back'); await pg.wait_for_timeout(200)
         assert await pg.locator('#view-venue.active').count(), 'terug naar venue faalt'
+        assert 'on' in (await pg.get_attribute('#v-fav', 'class')), 'ster venue niet goud'
+        await pg.screenshot(path=os.path.join(OUT, '3b-venue-fav.png'))
         await pg.click('.hero .back'); await pg.wait_for_timeout(200)
         assert await pg.locator('#view-home.active').count(), 'terug naar home faalt'
         await pg.click('#q-clear'); await pg.wait_for_timeout(200)
         assert await pg.locator('#list .recent').count() >= 1, 'recent ontbreekt'
+        await pg.click('.tab[data-tab="favs"]'); await pg.wait_for_timeout(200)
+        assert await pg.locator('#favs .row').count() == 1, 'favorietenlijst leeg'
+        await pg.screenshot(path=os.path.join(OUT, '3c-favorieten.png'))
+        await pg.click('.tab[data-tab="list"]')
         await pg.click('#info'); await pg.wait_for_timeout(200)
         await pg.screenshot(path=os.path.join(OUT, '6-over.png'))
         # deep link

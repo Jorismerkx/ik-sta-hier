@@ -46,10 +46,6 @@
             <input id="q" type="search" placeholder="Zoek een club of zaal" autocomplete="off" autocorrect="off" autocapitalize="off" enterkeyhint="search">
             <button id="q-clear" aria-label="Wis">×</button>
           </div>
-          <nav class="tabs">
-            <button class="tab active" data-tab="list">Lijst</button>
-            <button class="tab" data-tab="map">Kaart</button>
-          </nav>
         </header>
         <div id="chips"></div>
         <div id="pane-list" class="pane active">
@@ -60,12 +56,21 @@
           <button id="locate" aria-label="Mijn locatie"><svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="3" fill="currentColor"/><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 1v4M12 19v4M1 12h4M19 12h4" stroke="currentColor" stroke-width="2"/></svg></button>
           <div id="map-card" class="hidden"></div>
         </div>
+        <div id="pane-favs" class="pane">
+          <div id="favs"></div>
+        </div>
+        <nav class="tabbar">
+          <button class="tab active" data-tab="list"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Lijst</span></button>
+          <button class="tab" data-tab="map"><svg viewBox="0 0 24 24"><path d="M12 21s-6-5.3-6-10a6 6 0 0 1 12 0c0 4.7-6 10-6 10z" fill="none" stroke="currentColor" stroke-width="2.2"/><circle cx="12" cy="11" r="2.2" fill="currentColor"/></svg><span>Kaart</span></button>
+          <button class="tab" data-tab="favs"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Favorieten</span></button>
+        </nav>
       </section>
 
       <!-- VENUE: zalen -->
       <section id="view-venue" class="view">
         <div class="hero" id="v-hero">
           <button class="back" data-back="home" aria-label="Terug">‹</button>
+          <button class="fav" id="v-fav" aria-label="Favoriet"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></button>
           <div class="hero-text">
             <h2 id="v-name"></h2>
             <p id="v-addr"></p>
@@ -85,6 +90,7 @@
             <h2 id="p-name"></h2>
             <p id="p-room" class="sub"></p>
           </div>
+          <button class="fav" id="p-fav" aria-label="Favoriet"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></button>
           <button id="p-share" class="share">Deel</button>
         </header>
         <div id="plan-wrap">

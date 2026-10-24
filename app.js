@@ -36,7 +36,7 @@
   // ---------- views ----------
   function show(id) {
     $$('.view').forEach(v => v.classList.toggle('active', v.id === 'view-' + id));
-    if (id === 'home') { renderList(); if (map) setTimeout(() => map.invalidateSize(), 50); }
+    if (id === 'home') { renderList(); renderFavs(); if (map) setTimeout(() => map.invalidateSize(), 50); }
     if (id !== 'venue' && id !== 'plan') history.replaceState(null, '', location.pathname);
   }
   $$('.back').forEach(b => b.addEventListener('click', () => show(b.dataset.back)));
@@ -51,13 +51,48 @@
   }
   $('#start').addEventListener('click', () => { store.set('welcomed', true); show('home'); });
 
-  // ---------- tabs ----------
+  // ---------- tabs (onderbalk) ----------
   $$('.tab').forEach(t => t.addEventListener('click', () => {
     $$('.tab').forEach(x => x.classList.toggle('active', x === t));
     $$('.pane').forEach(p => p.classList.toggle('active', p.id === 'pane-' + t.dataset.tab));
+    $('#chips').classList.toggle('hidden', t.dataset.tab === 'favs');
     store.set('tab', t.dataset.tab);
     if (t.dataset.tab === 'map') { ensureMap(); setTimeout(() => map.invalidateSize(), 30); }
+    if (t.dataset.tab === 'favs') renderFavs();
   }));
+
+  // ---------- favorieten ----------
+  const favs = () => store.get('favs', []);
+  const isFav = v => favs().includes(v.id);
+  function toggleFav(v) {
+    if (!v) return;
+    const f = favs().filter(id => id !== v.id);
+    if (!isFav(v)) { f.unshift(v.id); toast('Opgeslagen bij favorieten'); if (navigator.vibrate) navigator.vibrate(15); }
+    else toast('Uit favorieten gehaald');
+    store.set('favs', f); syncFavButtons(); renderFavs();
+  }
+  function syncFavButtons() {
+    const v = current.venue; if (!v) return;
+    $$('#v-fav, #p-fav').forEach(b => b.classList.toggle('on', isFav(v)));
+  }
+  $('#v-fav').addEventListener('click', () => toggleFav(current.venue));
+  $('#p-fav').addEventListener('click', () => toggleFav(current.venue));
+  function renderFavs() {
+    const el = $('#favs');
+    const s = norm(q.value.trim());
+    const items = favs().map(id => VENUES.find(v => v.id === id)).filter(Boolean).filter(v => !s || norm(v.name).includes(s) || norm(v.aka).includes(s));
+    if (!items.length) {
+      el.innerHTML = `<div class="empty"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><br>${s ? 'Niets gevonden in je favorieten.' : 'Nog geen favorieten.<br>Open een club en tik op de ster, dan staat hij hier de hele avond klaar.'}</div>`;
+      return;
+    }
+    el.innerHTML = `<div class="letter">Favorieten</div>` + items.map(v => `
+      <button class="row" data-id="${v.id}">
+        ${swatch(v)}
+        <div class="meta"><div class="name">${esc(v.name)}</div><div class="info">${esc(v.area || '')} · ${roomsLabel(v)}</div></div>
+        <div class="chev">›</div>
+      </button>`).join('');
+    $$('#favs .row').forEach(r => r.addEventListener('click', () => openVenue(r.dataset.id)));
+  }
 
   // ---------- chips ----------
   function renderChips() {
@@ -68,7 +103,7 @@
 
   // ---------- search ----------
   const q = $('#q');
-  q.addEventListener('input', () => { $('.search').classList.toggle('has-q', !!q.value); renderList(); applyMapFilter(); });
+  q.addEventListener('input', () => { $('.search').classList.toggle('has-q', !!q.value); renderList(); applyMapFilter(); renderFavs(); });
   $('#q-clear').addEventListener('click', () => { q.value = ''; q.dispatchEvent(new Event('input')); q.blur(); });
 
   function filtered() {
@@ -168,6 +203,7 @@
     $$('#v-rooms .room-card').forEach(b => b.addEventListener('click', () => openPlan(v, rooms[+b.dataset.i], 'venue')));
     $('.venue-body').scrollTop = 0;
     location.hash = v.id;
+    syncFavButtons();
     show('venue');
   }
 
@@ -186,6 +222,7 @@
     $('#plan-svg').innerHTML = Plan.render(v, r);
     strokes = []; $('#plan-hint').classList.remove('off');
     location.hash = v.id + '/' + v.rooms.indexOf(r);
+    syncFavButtons();
     show('plan');
     sizeInk(); setTimeout(sizeInk, 30);
   }
@@ -319,7 +356,7 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
     $('#about-stats').textContent = `${VENUES.length} venues, ${nr} zalen. Gesloten clubs staan er niet in.`;
     renderChips(); renderList(); buildWall(); netState();
     const tab = store.get('tab', 'list');
-    if (tab === 'map') $('.tab[data-tab="map"]').click();
+    if (tab !== 'list') $(`.tab[data-tab="${tab}"]`).click();
     const hash = location.hash.slice(1);
     const [vid, ri] = hash.split('/');
     if (vid && VENUES.find(v => v.id === vid)) {
