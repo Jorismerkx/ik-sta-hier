@@ -1,0 +1,904 @@
+[
+ {
+  "id": "doka",
+  "name": "Doka",
+  "aka": "Volkshotel",
+  "address": "Wibautstraat 150, 1091 GR Amsterdam",
+  "area": "Oost",
+  "lat": 52.3521,
+  "lng": 4.9118,
+  "website": "https://www.volkshotel.nl/nl/doka",
+  "rooms": [
+   {
+    "name": "Doka (kelder)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      55.9,
+      0.0
+     ],
+     [
+      55.9,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 8.3,
+      "y": 0.7,
+      "w": 39.3,
+      "h": 13.1,
+      "label": "PODIUM"
+     },
+     {
+      "t": "dj",
+      "x": 17.9,
+      "y": 16.6,
+      "w": 20.0,
+      "h": 8.3
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        38.6,
+        31.7
+       ],
+       [
+        55.9,
+        31.7
+       ],
+       [
+        55.9,
+        82.8
+       ],
+       [
+        38.6,
+        82.8
+       ]
+      ],
+      "text": "BOOTHS"
+     },
+     {
+      "t": "bar",
+      "a": [
+       6.9,
+       89.7
+      ],
+      "b": [
+       41.4,
+       89.7
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       45.5,
+       100.0
+      ],
+      "b": [
+       55.2,
+       100.0
+      ],
+      "label": "TRAP"
+     }
+    ]
+   }
+  ],
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Maat van de zaal officieel 8,1 x 14,5 m (118 m2, staand 100) uit de Volkshotel events-brochure 2024; BAG-pand is het hele Volkshotel (alleen referentie). Indeling uit foto's van volkshotel.nl (2014, 2015, 2022) en de brochure: DJ-booth (houten \"Doka Studio Booth\") met klein podium en gordijn aan de korte kant, verhoogd plateau met drie booths langs de lange wand, bar met krukken aan de andere korte kant. Onzeker: precieze plek van de trap/ingang (afgeleid uit een foto met trapleuning naast de bar).",
+  "bronnen": [
+   "https://www.locaties.nl/media/2u3bsxf0/vh_events-brochure-2024-en.pdf",
+   "https://www.volkshotel.nl/nl/doka",
+   "https://www.volkshotel.nl/content/uploads/2015/05/Volkshotel_Doka_Tom-van-Huisstede_113.jpg",
+   "https://www.volkshotel.nl/content/uploads/2014/05/Volkshotel-Doka-web-4-LR-e1626780438986.jpg",
+   "https://www.volkshotel.nl/content/uploads/2014/04/Volkshotel-Doka-web-2-LR.jpg"
+  ],
+  "note": "Kelder van het Volkshotel (Wibautstraat 150). Langwerpige ruimte: DJ-booth en klein podium aan de ene korte kant, bar aan de andere; de booths staan op een verhoging langs de wand. Alleen pin, beperkte capaciteit."
+ },
+ {
+  "id": "canvas",
+  "name": "Canvas",
+  "aka": "Volkshotel",
+  "address": "Wibautstraat 150, 1091 GR Amsterdam",
+  "area": "Oost",
+  "lat": 52.3521,
+  "lng": 4.9118,
+  "website": "https://www.volkshotel.nl/nl/canvas",
+  "rooms": [
+   {
+    "name": "Canvas (7e verdieping)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      53.8,
+      0.0
+     ],
+     [
+      53.8,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.0,
+        -25.0
+       ],
+       [
+        53.8,
+        -25.0
+       ],
+       [
+        53.8,
+        0.0
+       ],
+       [
+        0.0,
+        0.0
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "in",
+      "a": [
+       33.1,
+       0.0
+      ],
+      "b": [
+       42.3,
+       0.0
+      ],
+      "side": -1,
+      "label": "TERRAS / ROKEN"
+     },
+     {
+      "t": "dj",
+      "x": 7.7,
+      "y": 3.8,
+      "w": 13.1,
+      "h": 6.2
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        34.6,
+        59.6
+       ],
+       [
+        34.2,
+        65.3
+       ],
+       [
+        33.2,
+        70.5
+       ],
+       [
+        31.5,
+        74.5
+       ],
+       [
+        29.3,
+        77.2
+       ],
+       [
+        26.9,
+        78.1
+       ],
+       [
+        24.5,
+        77.2
+       ],
+       [
+        22.4,
+        74.5
+       ],
+       [
+        20.7,
+        70.5
+       ],
+       [
+        19.6,
+        65.3
+       ],
+       [
+        19.2,
+        59.6
+       ],
+       [
+        19.6,
+        53.9
+       ],
+       [
+        20.7,
+        48.8
+       ],
+       [
+        22.4,
+        44.7
+       ],
+       [
+        24.5,
+        42.0
+       ],
+       [
+        26.9,
+        41.2
+       ],
+       [
+        29.3,
+        42.0
+       ],
+       [
+        31.5,
+        44.7
+       ],
+       [
+        33.2,
+        48.8
+       ],
+       [
+        34.2,
+        53.9
+       ]
+      ],
+      "w": 9,
+      "o": 1,
+      "text": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       21.5,
+       100.0
+      ],
+      "b": [
+       32.3,
+       100.0
+      ],
+      "label": "LIFT / TRAP"
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "Geen plattegrond gevonden (events-brochure geeft alleen Klein Canvas 12,1 x 6,7 m + dakterras 109 m2). Basis: BAG-toren Volkshotel (ca. 15 x 51 m) en luchtfoto (terrassen aan beide kopse kanten van de 7e laag), foto's op volkshotel.nl: ovale eilandbar met rode ring midden in de zaal, glazen gevels aan beide lange zijden, DJ bij de glazen terrasdeur, treden vanuit de liftlobby recht op de bar af. Onzeker: lengte van de zaal, kant van de liftlobby en precieze plek van de DJ.",
+  "bronnen": [
+   "https://www.volkshotel.nl/nl/canvas",
+   "https://www.volkshotel.nl/content/uploads/2014/05/Volkshotel-Canvas-web-1-LR.jpg",
+   "https://www.volkshotel.nl/content/uploads/2014/05/Volkshotel-Canvas-web-6-LR.jpg",
+   "https://www.volkshotel.nl/content/uploads/2014/05/Volkshotel-Canvas-web-8-LR.jpg",
+   "https://www.volkshotel.nl/content/uploads/2014/05/VH_Canvas-w_-Radical-Rupert_Tom-van-Huisstede_22.jpg",
+   "https://www.locaties.nl/media/2u3bsxf0/vh_events-brochure-2024-en.pdf"
+  ],
+  "note": "Met de lift naar de 7e verdieping; via een paar treden sta je recht voor de ronde bar. Na ca. 23:00 worden de tafels opzij gezet en is het hele restaurant dansvloer; de DJ staat bij de deur naar het terras. Terras om af te koelen en te roken. Klein Canvas is een aparte zaal voor besloten feesten."
+ },
+ {
+  "id": "q-factory",
+  "name": "Q-Factory",
+  "address": "Atlantisplein 1, 1093 NE Amsterdam",
+  "area": "Oost",
+  "lat": 52.35767,
+  "lng": 4.9305,
+  "website": "https://q-factory.com",
+  "rooms": [
+   {
+    "name": "Grote Zaal (Main Hall)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      63.3,
+      0.0
+     ],
+     [
+      63.3,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 1.3,
+      "y": 0.8,
+      "w": 60.8,
+      "h": 19.0,
+      "label": "PODIUM"
+     },
+     {
+      "t": "bar",
+      "a": [
+       9.7,
+       42.6
+      ],
+      "b": [
+       9.7,
+       77.2
+      ]
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        7.6,
+        80.6
+       ],
+       [
+        53.2,
+        80.6
+       ],
+       [
+        53.2,
+        100.0
+       ],
+       [
+        7.6,
+        100.0
+       ]
+      ],
+      "text": "VERHOGING"
+     },
+     {
+      "t": "in",
+      "a": [
+       63.3,
+       66.2
+      ],
+      "b": [
+       63.3,
+       93.7
+      ],
+      "side": -1,
+      "label": "IN (FOYER)"
+     }
+    ]
+   },
+   {
+    "name": "Kleine Zaal (Q-Club)",
+    "outline": [
+     [
+      -15.6,
+      -11.5
+     ],
+     [
+      -1.6,
+      -11.5
+     ],
+     [
+      -1.6,
+      0.0
+     ],
+     [
+      52.1,
+      0.0
+     ],
+     [
+      52.1,
+      88.5
+     ],
+     [
+      -15.6,
+      88.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 11.5,
+      "y": 0.8,
+      "w": 31.3,
+      "h": 25.3,
+      "label": "PODIUM"
+     },
+     {
+      "t": "line",
+      "a": [
+       -0.8,
+       0.0
+      ],
+      "b": [
+       -0.8,
+       16.7
+      ],
+      "w": 7,
+      "o": 1
+     },
+     {
+      "t": "line",
+      "a": [
+       -0.8,
+       28.1
+      ],
+      "b": [
+       -0.8,
+       41.7
+      ],
+      "w": 7,
+      "o": 1
+     },
+     {
+      "t": "line",
+      "a": [
+       -0.8,
+       53.1
+      ],
+      "b": [
+       -0.8,
+       65.6
+      ],
+      "w": 7,
+      "o": 1
+     },
+     {
+      "t": "line",
+      "a": [
+       -0.8,
+       77.6
+      ],
+      "b": [
+       -0.8,
+       88.5
+      ],
+      "w": 7,
+      "o": 1
+     },
+     {
+      "t": "label",
+      "x": -8.6,
+      "y": 38.5,
+      "text": "BALKON",
+      "size": 22
+     },
+     {
+      "t": "in",
+      "a": [
+       52.1,
+       74.5
+      ],
+      "b": [
+       52.1,
+       85.9
+      ],
+      "side": -1,
+      "label": "IN (FOYER)"
+     }
+    ]
+   }
+  ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiële floorplans Grote Zaal (2021/22) en Kleine Zaal van Q-Factory (technische pagina oude site q-factory-amsterdam.nl, via archive.org) met maten: GZ 19 x 15 m + podium 4,7 m, bar 9 m, verhoging 4,2 x 9,5 m; KZ 10 x 17 m, podium 6 x 5 m, balkon 2,7 x 19 m. Capaciteit 850 / 275 (q-factory.com/zakelijk, brochure 2026). Oude tekening met balkon in de Grote Zaal vervalt: staat niet op de plattegrond.",
+  "bronnen": [
+   "https://web.archive.org/web/20220528082333/https://q-factory-amsterdam.nl/uploads/content/file/tech/gz/Q-GZ-floorplan21_22.pdf",
+   "https://web.archive.org/web/20220528080248/https://q-factory-amsterdam.nl/uploads/content/file/tech/kz/Q-KZ-floorplan.pdf",
+   "https://web.archive.org/web/20220528073628/https://q-factory-amsterdam.nl/uploads/content/file/tech/kz/Q-KZ-tech.pdf",
+   "https://q-factory.com/nl/zakelijk",
+   "https://heyzine.com/flip-book/070db2a761.html"
+  ],
+  "note": "Beide zalen liggen op de eerste verdieping aan het foyerdeck (centrale trap of lift vanuit het atrium; foyerbar, lockers en wc op het deck). Grote Zaal: bar links langs de wand, verhoging achterin; Kleine Zaal heeft geen eigen bar maar een balkon over de hele lengte (deuren links). Tijdens ADE draaien Main Hall en Q-Club tegelijk. Roken alleen buiten."
+ },
+ {
+  "id": "panama",
+  "name": "Panama",
+  "address": "Oostelijke Handelskade 4, 1019 BM Amsterdam",
+  "area": "Oost",
+  "lat": 52.37494,
+  "lng": 4.93043,
+  "website": "https://www.panama.nl",
+  "capacity": 1050,
+  "status": "open",
+  "rooms": [
+   {
+    "name": "Grote Zaal (Theater-Nachtclub)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      67.0,
+      0.0
+     ],
+     [
+      67.0,
+      20.2
+     ],
+     [
+      100.0,
+      20.2
+     ],
+     [
+      100.0,
+      92.7
+     ],
+     [
+      0.0,
+      92.7
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 17.9,
+      "y": 0.7,
+      "w": 32.1,
+      "h": 12.2,
+      "label": "PODIUM"
+     },
+     {
+      "t": "dj",
+      "x": 23.6,
+      "y": 12.8,
+      "w": 20.6,
+      "h": 6.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.0,
+        92.7
+       ],
+       [
+        0.0,
+        0.0
+       ],
+       [
+        10.6,
+        0.0
+       ],
+       [
+        10.6,
+        51.8
+       ],
+       [
+        11.0,
+        54.1
+       ],
+       [
+        12.3,
+        56.1
+       ],
+       [
+        14.2,
+        57.3
+       ],
+       [
+        16.5,
+        57.8
+       ],
+       [
+        51.8,
+        57.8
+       ],
+       [
+        54.1,
+        57.3
+       ],
+       [
+        56.1,
+        56.1
+       ],
+       [
+        57.3,
+        54.1
+       ],
+       [
+        57.8,
+        51.8
+       ],
+       [
+        57.8,
+        0.0
+       ],
+       [
+        67.0,
+        0.0
+       ],
+       [
+        67.0,
+        92.7
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 33.5,
+      "y": 64.2,
+      "text": "BALKON (boven, eigen bar)",
+      "size": 20
+     },
+     {
+      "t": "bar",
+      "a": [
+       21.1,
+       81.7
+      ],
+      "b": [
+       43.1,
+       81.7
+      ],
+      "side": -1,
+      "label": "HOOFDBAR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       91.3,
+       34.4
+      ],
+      "b": [
+       91.3,
+       71.1
+      ],
+      "side": -1,
+      "label": "CHAMPAGNEBAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       57.8,
+       92.7
+      ],
+      "b": [
+       67.0,
+       92.7
+      ],
+      "label": "IN (HAL)"
+     },
+     {
+      "t": "stairs",
+      "x": 56.0,
+      "y": 86.7,
+      "label": "TRAP BALKON"
+     },
+     {
+      "t": "stairs",
+      "x": 5.5,
+      "y": 7.3,
+      "label": "TRAP"
+     },
+     {
+      "t": "stairs",
+      "x": 61.5,
+      "y": 7.3,
+      "label": "TRAP"
+     },
+     {
+      "t": "pillar",
+      "x": 67.0,
+      "y": 75.2
+     },
+     {
+      "t": "pillar",
+      "x": 67.0,
+      "y": 56.0
+     },
+     {
+      "t": "pillar",
+      "x": 67.0,
+      "y": 36.7
+     }
+    ]
+   },
+   {
+    "name": "Studio",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      100.0,
+      96.0
+     ],
+     [
+      0.0,
+      96.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 37.8,
+      "y": 4.0,
+      "w": 25.9,
+      "h": 10.9
+     },
+     {
+      "t": "bar",
+      "a": [
+       12.9,
+       15.9
+      ],
+      "b": [
+       12.9,
+       80.6
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       100.0,
+       51.7
+      ],
+      "b": [
+       100.0,
+       66.7
+      ],
+      "label": "IN (HAL)"
+     }
+    ]
+   }
+  ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiële plattegrond in de Panama-brochure (panama.nl, met m2 per ruimte) + lichtplan club room van Luxonos in de technical rider 2025 (balkonrand, hoofdbar, trappen, ingang) + rider/brochure-tekst (podium 7 x 2,8 m, DJ-booth vast aan het podium, 3 bars, balkon 150 p.). BAG-pand (Oostelijke Handelskade 4) bevestigt de maten. Studio: bar langs de raamwand en DJ tegen de achterwand uit de foto's op panama.nl/venue-hire.",
+  "bronnen": [
+   "https://panama.nl/wp-content/uploads/2023/07/PANAMA-brochure-1.pdf",
+   "https://panama.nl/wp-content/uploads/2025/08/TECHNICAL-RIDER-PANAMA-2025.pdf",
+   "https://panama.nl/venue-hire/"
+  ],
+  "note": "Vanuit de entreehal (kassa; garderobe, kluisjes en wc beneden) loop je via de kleine entree links achterin de Grote Zaal in; rechtdoor is de Studio. Het balkon (U-vorm boven de achterkant en zijkanten, eigen bar) bereik je via de trap direct bij de ingang of de trappen naast het podium. Hoofdbar achterin onder het balkon, champagnebar in de uitbouw rechts. Roken alleen buiten."
+ },
+ {
+  "id": "occii",
+  "name": "OCCII",
+  "address": "Amstelveenseweg 134, 1075 XL Amsterdam",
+  "area": "Zuid",
+  "lat": 52.35434,
+  "lng": 4.85534,
+  "website": "https://occii.org",
+  "rooms": [
+   {
+    "name": "Zaal",
+    "outline": [
+     [
+      5.9,
+      0.0
+     ],
+     [
+      33.0,
+      0.0
+     ],
+     [
+      33.0,
+      100.0
+     ],
+     [
+      0.0,
+      95.2
+     ],
+     [
+      0.0,
+      61.5
+     ],
+     [
+      6.2,
+      61.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 10.3,
+      "y": 0.7,
+      "w": 18.3,
+      "h": 16.5,
+      "label": "PODIUM"
+     },
+     {
+      "t": "bar",
+      "a": [
+       7.7,
+       52.4
+      ],
+      "b": [
+       17.9,
+       52.4
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        22.7,
+        46.2
+       ],
+       [
+        31.5,
+        46.2
+       ],
+       [
+        31.5,
+        53.5
+       ],
+       [
+        22.7,
+        53.5
+       ]
+      ],
+      "text": "GELUID"
+     },
+     {
+      "t": "line",
+      "a": [
+       6.0,
+       61.2
+      ],
+      "b": [
+       33.0,
+       61.2
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 16.8,
+      "y": 78.0,
+      "text": "FOYER",
+      "size": 22
+     },
+     {
+      "t": "in",
+      "a": [
+       9.9,
+       96.7
+      ],
+      "b": [
+       23.1,
+       98.6
+      ],
+      "label": "IN (HOGE DEUREN)"
+     }
+    ]
+   }
+  ],
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Buitenmuren uit het BAG-pand (strook van de voormalige paardentramremise, 1884) + luchtfoto; deel van OCCII volgens de plattegrond van De Binnenpret (OCCII aan de straatkant, verderop ateliers). Binnen: occii.org/tech-info (podium 5 x 4,5 m, 60 cm hoog, klein hok achter het podium), zaalfoto's op occii.org (bar en geluidstafel achterin de zaal, foyer met bar richting straat), occii.org/info (hoge deuren = hoofdingang) en FAQ (capaciteit 225). Onzeker: exacte grens zaal/foyer en lengte van de bar.",
+  "bronnen": [
+   "https://occii.org/tech-info/",
+   "https://occii.org/info/",
+   "https://occii.org/faq/",
+   "https://www.binnenpret.org/bereik.htm",
+   "https://occii.org/wp-content/uploads/2017/11/IMG_5221a.jpg"
+  ],
+  "note": "Binnen via de hoge houten deuren aan de Amstelveenseweg (tegenover de zuidingang van het Vondelpark); door de foyer loop je de lange zaal in, het podium staat helemaal achterin. Bar en geluidstafel staan achter in de zaal, aan de kant van de ingang. Capaciteit ca. 225, roken buiten."
+ }
+]

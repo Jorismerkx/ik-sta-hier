@@ -53,7 +53,7 @@
 
   function makeMapper(room, box) {
     const b = bounds(room);
-    const pad = 6;
+    const pad = Math.max(b.maxx - b.minx, b.maxy - b.miny) * 0.06 || 6;
     const bw = (b.maxx - b.minx) + pad * 2, bh = (b.maxy - b.miny) + pad * 2;
     const s = Math.min(box.w / bw, box.h / bh);
     const ox = box.x + (box.w - bw * s) / 2 - (b.minx - pad) * s;

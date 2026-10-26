@@ -139,6 +139,7 @@ h2 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line
 .venue-meta { display: flex; gap: 8px; flex-wrap: wrap; padding: 12px 20px 4px; }
 .pill { font-size: 12px; font-weight: 600; color: #ccc; background: var(--panel2); padding: 6px 10px; border-radius: 999px; text-decoration: none; }
 .pill.warn { color: #ffb84d; }
+.pill.ok { color: #5fe08a; }
 .back { width: 36px; height: 36px; border-radius: 50%; background: var(--panel2); font-size: 28px; line-height: 1; display: grid; place-items: center; padding-bottom: 4px; flex: none; }
 .venue-title { flex: 1; min-width: 0; }
 .venue-title h2, .venue-title .sub { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }

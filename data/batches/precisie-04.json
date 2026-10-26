@@ -1,0 +1,1092 @@
+[
+ {
+  "id": "gashouder",
+  "name": "Gashouder",
+  "address": "Klönneplein 1, 1014 DD Amsterdam",
+  "area": "West",
+  "lat": 52.3862,
+  "lng": 4.8767,
+  "website": "https://gashouder.nl",
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "BAG-pand + PDOK-luchtfoto (ronde gashouder; binnendiameter 54 m volgens technical specs) + gashouder.nl/technical-specs (podium 18 x 9 m, aparte backstage- en frontstage-laaddeur, goederenlift naar de kelder) + FAQ (hoofdingang, personenlift naar lobby op -1 en naar het balkon). Podium aan de westkant: daar liggen de backstage-aanbouwen en het laadterrein; ingang aan het Klönneplein (oost). Ligging van de twee bars, FOH, trap naar -1 en het nieuwe balkon is niet bevestigd (geen plattegrond gepubliceerd). Heropend als cultuurpodium per 30 okt 2026.",
+  "bronnen": [
+   "https://gashouder.nl/technical-specs",
+   "https://gashouder.nl/faq",
+   "https://gashouder.nl/business",
+   "https://www.amsterdamnow.com/en/wp-json/wp/v2/posts/85241",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Ronde zaal van 54 m zonder palen; het podium staat aan de westkant, de ingang aan het Klönneplein. Lobby, lockers en wc's zitten sinds de verbouwing op -1 (trap en lift). Er is een klein balkon. Roken alleen buiten op de aangewezen plek.",
+  "rooms": [
+   {
+    "name": "Main Hall",
+    "round": {
+     "cx": 50,
+     "cy": 50,
+     "r": 50
+    },
+    "features": [
+     {
+      "t": "stage",
+      "x": 33.3,
+      "y": 2.9,
+      "w": 33.3,
+      "h": 16.7,
+      "label": "PODIUM / DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        44,
+        58
+       ],
+       [
+        56,
+        58
+       ],
+       [
+        56,
+        65
+       ],
+       [
+        44,
+        65
+       ]
+      ],
+      "text": "FOH",
+      "dash": true
+     },
+     {
+      "t": "bar",
+      "a": [
+       3.5,
+       64
+      ],
+      "b": [
+       10.5,
+       79
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       96.5,
+       64
+      ],
+      "b": [
+       89.5,
+       79
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       43,
+       99.5
+      ],
+      "b": [
+       57,
+       99.5
+      ],
+      "label": "IN (KLÖNNEPLEIN)"
+     },
+     {
+      "t": "stairs",
+      "x": 50,
+      "y": 88,
+      "label": "TRAP/LIFT ↓ LOBBY -1"
+     },
+     {
+      "t": "label",
+      "x": 50,
+      "y": 40,
+      "text": "54 M ROND, GEEN PALEN",
+      "size": 18
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "westweelde",
+  "name": "WestWeelde",
+  "address": "Klönneplein 4-6, 1014 DD Amsterdam",
+  "area": "West",
+  "website": "https://westweelde.nl",
+  "aka": "WesterUnie / WesterLiefde",
+  "lat": 52.38716,
+  "lng": 4.86943,
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiële plattegronden van WestWeelde (westweelde.nl/locaties: De Unie niveau 1 en balkon, De Liefde, Het Restaurant) op schaal overgetrokken (Unie 24 x 21,7 m, Liefde 12 x 22 m, Restaurant 20 x 9,5 m, maten volgens site en brochure 2025). Podium Unie = podiumdeck op de plattegrond + lichtplot Westerunie (nov 2024); podium Liefde aan de raamkant volgens lichtplot Westerliefde (feb 2025) en foto's (bar met boot rechts, raam boven het podium). De Unie is de clubzaal (850 pers.); De Liefde en Het Restaurant gaan open bij grotere clubnachten. Niet bevestigd: de tweede bar in De Unie (smalle balie aan de servicekant), dat de publieksingang via de ronde trap in de hoek tegenover het podium loopt, en welke deur van De Liefde de hoofdingang is.",
+  "bronnen": [
+   "https://westweelde.nl/locaties/de-unie",
+   "https://westweelde.nl/locaties/de-liefde",
+   "https://westweelde.nl/locaties/het-restaurant",
+   "https://westweelde.nl/club",
+   "https://cdn.sanity.io/images/qcf0k7mi/production/0a3e2fa704070cca83ab267e94cabd716908de8d-1080x1350.png",
+   "https://cdn.sanity.io/images/qcf0k7mi/production/082ea22ae6582eeacbef5c5d17ec45cf9c114313-1080x1350.png",
+   "https://cdn.sanity.io/images/qcf0k7mi/production/8a5ba9a7d97e875bc2bbbacaf09900381f70a44c-1080x1350.png",
+   "https://cdn.sanity.io/images/qcf0k7mi/production/882a155cc4c766378b252114b460020bc235c84a-1080x1350.png",
+   "https://indd.adobe.com/view/4c551351-486d-44ca-b78d-9036096eab94",
+   "https://indd.adobe.com/view/c02100b5-314e-499a-bf99-d25d93c6266e",
+   "https://cdn.sanity.io/files/qcf0k7mi/production/9585b9d9eb83570f60a2aa16747503d00da5e45c.pdf"
+  ],
+  "note": "Clubnachten zijn vooral in De Unie op de eerste verdieping: podium aan de korte kant, de grote bar staat onder het balkon tussen de twee trappen naar boven. De wc's zitten op het balkon. De Liefde (houten vloer, bar met de oude boot) en Het Restaurant met terras aan het Klönneplein gaan open bij grote edities.",
+  "rooms": [
+   {
+    "name": "De Unie (club, 1e verdieping)",
+    "outline": [
+     [
+      24.0,
+      21.7
+     ],
+     [
+      5.5,
+      21.7
+     ],
+     [
+      5.5,
+      18.5
+     ],
+     [
+      0.0,
+      18.5
+     ],
+     [
+      0.0,
+      3.1
+     ],
+     [
+      5.5,
+      3.1
+     ],
+     [
+      5.5,
+      0.0
+     ],
+     [
+      17.7,
+      0.0
+     ],
+     [
+      17.7,
+      6.8
+     ],
+     [
+      19.1,
+      6.8
+     ],
+     [
+      19.1,
+      15.1
+     ],
+     [
+      24.0,
+      15.1
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 9.2,
+      "y": 0.1,
+      "w": 6.1,
+      "h": 4.3,
+      "label": "PODIUM"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        17.7,
+        18.3
+       ],
+       [
+        13.6,
+        18.3
+       ],
+       [
+        13.6,
+        16.9
+       ],
+       [
+        10.6,
+        16.9
+       ],
+       [
+        10.6,
+        18.3
+       ],
+       [
+        4.0,
+        18.3
+       ],
+       [
+        4.0,
+        0.1
+       ],
+       [
+        17.7,
+        0.1
+       ]
+      ],
+      "dash": true,
+      "o": 0.5
+     },
+     {
+      "t": "label",
+      "x": 13.0,
+      "y": 20.2,
+      "text": "BALKON BOVEN",
+      "size": 18
+     },
+     {
+      "t": "bar",
+      "a": [
+       4.3,
+       14.8
+      ],
+      "b": [
+       4.3,
+       6.3
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       19.1,
+       11.2
+      ],
+      "b": [
+       19.1,
+       6.7
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "stairs",
+      "x": 5.2,
+      "y": 17.6,
+      "label": "TRAP BALKON"
+     },
+     {
+      "t": "stairs",
+      "x": 5.2,
+      "y": 3.8,
+      "label": "TRAP BALKON"
+     },
+     {
+      "t": "stairs",
+      "x": 19.9,
+      "y": 17.3,
+      "label": "TRAP ↓ INGANG"
+     }
+    ]
+   },
+   {
+    "name": "De Unie – balkon",
+    "outline": [
+     [
+      24.0,
+      21.6
+     ],
+     [
+      0.0,
+      21.6
+     ],
+     [
+      0.0,
+      0.0
+     ],
+     [
+      24.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        17.7,
+        18.3
+       ],
+       [
+        13.6,
+        18.3
+       ],
+       [
+        13.6,
+        16.8
+       ],
+       [
+        10.6,
+        16.8
+       ],
+       [
+        10.6,
+        18.3
+       ],
+       [
+        4.0,
+        18.3
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        17.7,
+        0.0
+       ]
+      ],
+      "text": "VIDE (ZICHT OP ZAAL)"
+     },
+     {
+      "t": "label",
+      "x": 12.0,
+      "y": 1.6,
+      "text": "PODIUM ↓",
+      "size": 20
+     },
+     {
+      "t": "wc",
+      "x": 21.5,
+      "y": 11.0
+     },
+     {
+      "t": "stairs",
+      "x": 5.2,
+      "y": 17.5,
+      "label": "TRAP ↓"
+     },
+     {
+      "t": "stairs",
+      "x": 5.2,
+      "y": 3.8,
+      "label": "TRAP ↓"
+     },
+     {
+      "t": "stairs",
+      "x": 21.9,
+      "y": 19.9,
+      "label": "TRAP"
+     }
+    ]
+   },
+   {
+    "name": "De Liefde",
+    "outline": [
+     [
+      8.1,
+      22.3
+     ],
+     [
+      0.0,
+      22.3
+     ],
+     [
+      0.0,
+      0.0
+     ],
+     [
+      12.0,
+      0.0
+     ],
+     [
+      12.0,
+      19.2
+     ],
+     [
+      8.1,
+      19.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 3.0,
+      "y": 0.0,
+      "w": 6.0,
+      "h": 4.0,
+      "label": "PODIUM"
+     },
+     {
+      "t": "bar",
+      "a": [
+       8.5,
+       17.4
+      ],
+      "b": [
+       8.5,
+       12.0
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        10.5,
+        9.9
+       ],
+       [
+        9.2,
+        11.0
+       ],
+       [
+        8.6,
+        9.2
+       ]
+      ],
+      "text": "BOOT",
+      "o": 0.9
+     },
+     {
+      "t": "in",
+      "a": [
+       12.0,
+       8.8
+      ],
+      "b": [
+       12.0,
+       6.3
+      ],
+      "side": -1,
+      "label": "TERRAS"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       12.1
+      ],
+      "b": [
+       0.0,
+       10.1
+      ],
+      "side": -1,
+      "label": "WC"
+     },
+     {
+      "t": "in",
+      "a": [
+       3.1,
+       22.3
+      ],
+      "b": [
+       1.2,
+       22.3
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       2.2,
+       0.0
+      ],
+      "b": [
+       1.2,
+       0.0
+      ],
+      "label": "ZIJINGANG"
+     }
+    ]
+   },
+   {
+    "name": "Het Restaurant",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      20,
+      0
+     ],
+     [
+      20,
+      9.5
+     ],
+     [
+      0,
+      9.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        7.7,
+        1.9
+       ],
+       [
+        13.1,
+        1.9
+       ],
+       [
+        13.1,
+        4.7
+       ],
+       [
+        7.7,
+        4.7
+       ]
+      ],
+      "text": "BAR",
+      "o": 0.95,
+      "w": 5
+     },
+     {
+      "t": "in",
+      "a": [
+       5.4,
+       0.0
+      ],
+      "b": [
+       7.4,
+       0.0
+      ],
+      "side": -1,
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       13.1,
+       0.0
+      ],
+      "b": [
+       15.1,
+       0.0
+      ],
+      "side": -1,
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       5.4,
+       9.5
+      ],
+      "b": [
+       7.4,
+       9.5
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       13.1,
+       9.5
+      ],
+      "b": [
+       15.1,
+       9.5
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "wc",
+      "x": 2.2,
+      "y": 7.6
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.4,
+        -7.1
+       ],
+       [
+        20.0,
+        -7.1
+       ],
+       [
+        20.0,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ]
+      ],
+      "text": "TERRAS (KLÖNNEPLEIN)",
+      "dash": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "radio-radio",
+  "name": "Radio Radio",
+  "address": "Pazzanistraat 3, 1014 DB Amsterdam",
+  "area": "West",
+  "website": "https://www.radioradio.radio",
+  "lat": 52.38607,
+  "lng": 4.87405,
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Footprint opnieuw gedraaid op het juiste gebouw (oud: los BAG-pandje van 84 m2): de kop aan de oostkant van de lange hal aan Pazzanistraat/Polonceaukade. Radio Radio zit in de noordvleugel: BAG-pand 6627 (Pazzanistraat 1, 552 m2 bijeenkomstfunctie = club + bovenbar) plus pand 6566 (Pazzanistraat 3), samen 24,5 x 11 m. Binnenindeling uit de rental deck 2026 en venuefoto's op radioradio.radio: lange lage zaal, dj-booth tegen de korte kopgevel onder de ronde 'zon' met nooddeur ernaast, lange tegelbar langs de lange wand achterin, trap naar de Upstairs Music Bar (80 pers.). Dat de dj aan de westkant (tegen de lange hal) staat en de ingang aan de oostkant is afgeleid uit de ligging, niet bevestigd.",
+  "bronnen": [
+   "https://www.radioradio.radio/partnerships",
+   "https://www.datocms-assets.com/106004/1774972040-rental-deck-radio-radio-2026-pptx-2.pdf",
+   "https://www.datocms-assets.com/106004/1768831972-241130_radioradio-venue_borderlineatacan_012-2-1.jpg",
+   "https://www.datocms-assets.com/106004/1710870061-radio-radio-zakelijk.jpg",
+   "https://westergas.nl/whats-here/",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0"
+  ],
+  "note": "Lange, lage clubzaal: de dj staat aan de korte kant onder de ronde zon, de bar loopt langs de lange wand achterin. Via de trap achterin kom je bij de Upstairs Music Bar. Roken buiten.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      10.5,
+      0.0
+     ],
+     [
+      10.5,
+      8.0
+     ],
+     [
+      10.5,
+      24.2
+     ],
+     [
+      0.0,
+      24.2
+     ],
+     [
+      0.0,
+      8.0
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 3.5,
+      "y": 0.4,
+      "w": 3.6,
+      "h": 1.6,
+      "label": "DJ"
+     },
+     {
+      "t": "label",
+      "x": 5.2,
+      "y": 3.0,
+      "text": "RONDE ZON",
+      "size": 16
+     },
+     {
+      "t": "bar",
+      "a": [
+       2.4,
+       11.0
+      ],
+      "b": [
+       2.4,
+       20.5
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "stairs",
+      "x": 6.2,
+      "y": 19.5,
+      "label": "TRAP ↑ MUSIC BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       6.0,
+       24.2
+      ],
+      "b": [
+       8.5,
+       24.2
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       8.1,
+       0.0
+      ],
+      "b": [
+       9.5,
+       0.0
+      ],
+      "side": -1,
+      "label": "NOODUITGANG"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pacific",
+  "name": "Pacific",
+  "address": "Polonceaukade 23, 1014 DA Amsterdam",
+  "area": "West",
+  "website": "https://www.pacificamsterdam.nl",
+  "aka": "Westerpark",
+  "lat": 52.38594,
+  "lng": 4.87144,
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Buitenmuren uit BAG + luchtfoto: de westelijke kop van de lange hal aan de Polonceaukade, vier panden met bijeenkomstfunctie (Polonceaukade 22-23, Pazzanistraat 45-47), samen ca. 24 x 21,5 m in twee vleugels, met groot terras aan de west- en zuidkant. Hele afkoop 450 staand (pacificamsterdam.nl). Binnenindeling (bar, dj-plek, privéruimte onder glazen dak) niet gevonden in plattegronden of riders; dj en ingang zijn indicatief. Coördinaten gecorrigeerd naar het gebouw (oude lat/lng lag op het plein bij de oostelijke kop).",
+  "bronnen": [
+   "https://www.pacificamsterdam.nl/groepen/bedrijfsfeest",
+   "https://www.pacificamsterdam.nl/faq",
+   "https://www.pacificamsterdam.nl/gallery",
+   "https://westergas.nl/whats-here/",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0"
+  ],
+  "note": "Restaurant in de westelijke kop van de lange hal aan de Polonceaukade, met groot terras aan de parkkant. In het weekend gaan de tafels aan de kant en draait er een dj. Indeling binnen is indicatief.",
+  "rooms": [
+   {
+    "name": "Restaurant / bar",
+    "outline": [
+     [
+      0.0,
+      24.3
+     ],
+     [
+      0.0,
+      0.0
+     ],
+     [
+      2.0,
+      0.0
+     ],
+     [
+      10.5,
+      0.0
+     ],
+     [
+      19.2,
+      0.0
+     ],
+     [
+      21.1,
+      0.0
+     ],
+     [
+      21.1,
+      7.9
+     ],
+     [
+      21.1,
+      24.2
+     ],
+     [
+      10.6,
+      24.3
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 3.3,
+      "y": 0.6,
+      "w": 4.0,
+      "h": 2.0,
+      "label": "DJ"
+     },
+     {
+      "t": "line",
+      "a": [
+       10.6,
+       24.3
+      ],
+      "b": [
+       10.5,
+       0.0
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 5.3,
+      "y": 13.4,
+      "text": "NOORDVLEUGEL",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 15.8,
+      "y": 13.4,
+      "text": "ZUIDVLEUGEL",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       8.4,
+       24.3
+      ],
+      "b": [
+       11.6,
+       24.3
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.0,
+        24.1
+       ],
+       [
+        -0.0,
+        33.5
+       ],
+       [
+        30.3,
+        33.6
+       ],
+       [
+        30.5,
+        24.4
+       ]
+      ],
+      "text": "TERRAS",
+      "dash": true
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "het-sieraad",
+  "name": "Het Sieraad",
+  "address": "Postjesweg 1, 1057 DT Amsterdam",
+  "area": "West",
+  "website": "https://www.het-sieraad.nl",
+  "lat": 52.36436,
+  "lng": 4.85704,
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Atrium: vorm van het glazen dak (waaier, ca. 27 m breed aan de noordkant, smal aan de zuidpunt) overgetrokken van de PDOK-luchtfoto binnen het BAG-pand en 2 m ingekort tot de opgegeven 755 m2. Brochure Het Sieraad (3D-plattegrond met zalen 1-7 rond het atrium) + foto's hetsieraadevents.nl: podium voor het hoge glas-in-loodraam aan de smalle kant; bij zakelijke events staat het podium soms aan de brede noordgevel. Ingang vanaf de Postjesweg (noord) aangenomen. Plaatwerkerij (140 m2, vaste koperen bar) en Timmerlokaal (140 m2, aan de gracht, cashcards volgens de huisregels) zijn indicatieve rechthoeken: ligging en vorm niet uit een plattegrond.",
+  "bronnen": [
+   "https://www.locaties.nl/media/qnyantd3/hetsieraad-brochure-gecomprimeerd.pdf",
+   "https://hetsieraadevents.nl/spaces/atrium",
+   "https://hetsieraadevents.nl/spaces/de-plaatwerkerij",
+   "https://hetsieraadevents.nl/spaces/timmerlokaal",
+   "https://hetsieraad.nl/information",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Clubnachten in het Atrium onder het glazen dak; de dj staat aan de smalle kant voor het hoge glas-in-loodraam. Cashcards haal je in het Timmerlokaal. Lockers aanwezig, roken alleen buiten.",
+  "rooms": [
+   {
+    "name": "Atrium",
+    "outline": [
+     [
+      28.1,
+      41.5
+     ],
+     [
+      6.2,
+      36.3
+     ],
+     [
+      7.9,
+      29.3
+     ],
+     [
+      4.0,
+      22.0
+     ],
+     [
+      0.0,
+      17.6
+     ],
+     [
+      15.1,
+      0.0
+     ],
+     [
+      19.2,
+      3.4
+     ],
+     [
+      23.6,
+      8.2
+     ],
+     [
+      27.5,
+      16.4
+     ],
+     [
+      28.7,
+      26.2
+     ],
+     [
+      28.6,
+      34.8
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 13.0,
+      "y": 2.8,
+      "w": 5.2,
+      "h": 3.0,
+      "label": "DJ"
+     },
+     {
+      "t": "label",
+      "x": 14.3,
+      "y": 22.8,
+      "text": "GLAZEN DAK",
+      "size": 20
+     },
+     {
+      "t": "in",
+      "a": [
+       19.4,
+       39.4
+      ],
+      "b": [
+       15.9,
+       38.6
+      ],
+      "label": "IN"
+     }
+    ]
+   },
+   {
+    "name": "De Plaatwerkerij",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      10,
+      0
+     ],
+     [
+      10,
+      14
+     ],
+     [
+      0,
+      14
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       10,
+       4.5
+      ],
+      "b": [
+       10,
+       10.5
+      ],
+      "side": -1,
+      "label": "KOPEREN BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       3.5,
+       14
+      ],
+      "b": [
+       6.0,
+       14
+      ],
+      "label": "NAAR ATRIUM"
+     }
+    ]
+   },
+   {
+    "name": "Het Timmerlokaal",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      9,
+      0
+     ],
+     [
+      9,
+      15.5
+     ],
+     [
+      0,
+      15.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       9,
+       4
+      ],
+      "b": [
+       9,
+       11
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "label",
+      "x": 6.3,
+      "y": 7.5,
+      "text": "CASHCARDS",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 2.4,
+      "y": 7.8,
+      "text": "RAMEN (GRACHT)",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       3.5,
+       15.5
+      ],
+      "b": [
+       6.0,
+       15.5
+      ],
+      "label": "NAAR ATRIUM"
+     }
+    ]
+   }
+  ]
+ }
+]

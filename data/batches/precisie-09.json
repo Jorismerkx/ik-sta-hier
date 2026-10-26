@@ -1,0 +1,1369 @@
+[
+ {
+  "id": "escape",
+  "name": "Escape",
+  "address": "Rembrandtplein 11, 1017 CT Amsterdam",
+  "area": "Centrum",
+  "website": "https://escape.nl",
+  "lat": 52.36642,
+  "lng": 4.89632,
+  "capacity": 1500,
+  "rooms": [
+   {
+    "name": "Escape Club (main)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      47.8,
+      0.0
+     ],
+     [
+      52.4,
+      45.5
+     ],
+     [
+      52.7,
+      100.0
+     ],
+     [
+      2.6,
+      100.0
+     ],
+     [
+      4.0,
+      44.4
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 6.3,
+      "y": 0.0,
+      "w": 39.2,
+      "h": 15.3,
+      "label": "MAIN STAGE (VIP)"
+     },
+     {
+      "t": "dj",
+      "x": 21.9,
+      "y": 15.3,
+      "w": 9.2,
+      "h": 5.2,
+      "label": "DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        1.4,
+        16.7
+       ],
+       [
+        11.0,
+        16.7
+       ],
+       [
+        11.0,
+        49.9
+       ],
+       [
+        4.3,
+        49.9
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 21.9,
+      "y": 29.7,
+      "text": "← SKY LOUNGE",
+      "size": 22
+     },
+     {
+      "t": "label",
+      "x": 20.2,
+      "y": 34.3,
+      "text": "(VERHOOGD)",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        42.9,
+        16.7
+       ],
+       [
+        50.4,
+        16.7
+       ],
+       [
+        52.4,
+        45.5
+       ],
+       [
+        52.4,
+        64.3
+       ],
+       [
+        42.9,
+        64.3
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 35.7,
+      "y": 41.2,
+      "text": "VIP →",
+      "size": 22
+     },
+     {
+      "t": "label",
+      "x": 27.1,
+      "y": 55.6,
+      "text": "DANSVLOER",
+      "size": 26
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        2.6,
+        77.2
+       ],
+       [
+        52.7,
+        77.2
+       ],
+       [
+        52.7,
+        100.0
+       ],
+       [
+        2.6,
+        100.0
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 27.7,
+      "y": 83.3,
+      "text": "BALKON BOVEN (VIP)",
+      "size": 20
+     },
+     {
+      "t": "bar",
+      "a": [
+       34.0,
+       100.0
+      ],
+      "b": [
+       50.7,
+       100.0
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       14.1,
+       100.0
+      ],
+      "b": [
+       29.1,
+       100.0
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       3.7,
+       100.0
+      ],
+      "b": [
+       11.0,
+       100.0
+      ],
+      "label": "IN (FOYER)"
+     }
+    ]
+   },
+   {
+    "name": "Escape deLux (verdieping, Amstel-kant)",
+    "outline": [
+     [
+      0.0,
+      10.8
+     ],
+     [
+      19.3,
+      5.7
+     ],
+     [
+      72.2,
+      0.0
+     ],
+     [
+      92.0,
+      1.7
+     ],
+     [
+      100.0,
+      78.4
+     ],
+     [
+      5.7,
+      78.4
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 46.6,
+      "y": 11.9,
+      "w": 22.7,
+      "h": 9.7,
+      "label": "DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        26.7,
+        4.5
+       ],
+       [
+        83.5,
+        0.6
+       ],
+       [
+        83.5,
+        10.8
+       ],
+       [
+        26.7,
+        10.8
+       ]
+      ],
+      "text": "TREDEN",
+      "dash": true
+     },
+     {
+      "t": "bar",
+      "a": [
+       4.0,
+       29.0
+      ],
+      "b": [
+       7.4,
+       68.8
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "label",
+      "x": 55.1,
+      "y": 46.0,
+      "text": "DANSVLOER",
+      "size": 24
+     },
+     {
+      "t": "stairs",
+      "x": 75.0,
+      "y": 68.8,
+      "label": "TRAP"
+     }
+    ]
+   }
+  ],
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Hal uit BAG-pand 0363100012171128 (1290 m2, incl. Heck's op nr 15) + luchtfoto: hoofdzaal is het lange dak van ca. 17 x 35 m achter de foyer (ex-bioscoop Rembrandtpleintheater 1966-1986, zaal + balkon). Indeling uit escape.nl (VIP-tafelvideo: Main Stage, Main Floor, Sky Lounge, Balcony; techniek: bar 1 en bar 2), zaalfoto's op locaties.nl (theateropstelling: podium voorin, verhoogde Sky Lounge langs de zijmuur) en brochures Rembrandtplein/deLux (deLux op de verdieping, ingang Amstel 70). Geen echte plattegrond gevonden; zijkant van Sky Lounge/VIP en plaats van de bars zijn van foto's afgeleid.",
+  "bronnen": [
+   "https://escape.nl/en/info/vip-tables/",
+   "https://escape.nl/en/info/events/",
+   "https://web.archive.org/web/20260214231000/https://events.escape.nl/en/club/delux/",
+   "https://www.locaties.nl/en-US/space/escape_club_-109768",
+   "https://www.locaties.nl/media/rdvfv5to/2025-brochure-rembrandtplein_nl-escape.pdf",
+   "https://www.locaties.nl/media/zzap20ws/2025-brochure-escape-delux.pdf",
+   "https://cinematreasures.org/theaters/44745",
+   "https://nl.wikipedia.org/wiki/Rembrandtplein_(Amsterdam)"
+  ],
+  "note": "Je komt via de foyer achterin de zaal binnen, onder het balkon bij de bars. Het main stage met DJ en LED-wall is aan de overkant (Amstel-kant); de Sky Lounge is de verhoogde VIP-strook langs de linkermuur richting podium. deLux (za, eigen DJ) zit op de verdieping aan de Amstel-kant, ook bereikbaar via Amstel 70."
+ },
+ {
+  "id": "club-john-doe",
+  "name": "Club John Doe",
+  "address": "Rembrandtplein 31, 1017 CT Amsterdam",
+  "area": "Centrum",
+  "website": "https://www.clubjohndoe.nl",
+  "status": "open",
+  "capacity": 300,
+  "lat": 52.36648,
+  "lng": 4.8976,
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      75.7,
+      0.0
+     ],
+     [
+      75.7,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 26.4,
+      "y": 2.7,
+      "w": 23.0,
+      "h": 10.1,
+      "label": "DJ"
+     },
+     {
+      "t": "label",
+      "x": 36.5,
+      "y": 43.9,
+      "text": "DANSVLOER",
+      "size": 26
+     },
+     {
+      "t": "bar",
+      "a": [
+       75.7,
+       30.4
+      ],
+      "b": [
+       75.7,
+       70.9
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "cloak",
+      "x": 21.6,
+      "y": 87.8
+     },
+     {
+      "t": "in",
+      "a": [
+       51.4,
+       100.0
+      ],
+      "b": [
+       68.9,
+       100.0
+      ],
+      "label": "IN (PLEIN)"
+     },
+     {
+      "t": "label",
+      "x": 24.3,
+      "y": 107.4,
+      "text": "ROKEN: BUITEN",
+      "size": 20
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "BAG: het 1800 m2-pand is een gemengd complex uit 1985 (kantoren nr 33-35, winkels, horeca). De club is alleen verblijfsobject Rembrandtplein 31 (170 m2, bijeenkomstfunctie), begane grond van het lage middendeel aan het pleintje naast het glazen paviljoen (luchtfoto + gevelfoto met John Doe-neon en ENTREE-luifel). Eén zaal; clubjohndoe.nl: garderobe verplicht, roken alleen buiten. Positie van DJ en bar geschat.",
+  "bronnen": [
+   "https://www.clubjohndoe.nl/",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0 (verblijfsobject Rembrandtplein 31, 170 m2)",
+   "https://www.technoairlines.com/club/john-doe-amsterdam",
+   "https://xceed.me/en/amsterdam/venue/john-doe",
+   "https://directory-hub.onrender.com/nl/amsterdam/venues/club-john-doe"
+  ],
+  "note": "Eén zaal van ca. 170 m2 op de begane grond, ingang onder de zwarte ENTREE-luifel naast het glazen paviljoen. Garderobe is verplicht (bij de ingang), roken alleen buiten. Plek van DJ en bar is geschat."
+ },
+ {
+  "id": "club-smokey",
+  "name": "Club Smokey",
+  "address": "Rembrandtplein 18-20, 1017 CV Amsterdam",
+  "area": "Centrum",
+  "website": "https://clubsmokey.nl",
+  "lat": 52.36582,
+  "lng": 4.89672,
+  "rooms": [
+   {
+    "name": "Club (begane grond + balkon)",
+    "outline": [
+     [
+      8.5,
+      100.0
+     ],
+     [
+      79.4,
+      100.0
+     ],
+     [
+      75.9,
+      43.3
+     ],
+     [
+      62.4,
+      41.8
+     ],
+     [
+      61.7,
+      30.5
+     ],
+     [
+      46.8,
+      28.4
+     ],
+     [
+      47.5,
+      6.4
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 9.9,
+      "y": 6.4,
+      "w": 25.5,
+      "h": 10.6,
+      "label": "DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        2.8,
+        2.8
+       ],
+       [
+        45.4,
+        2.8
+       ],
+       [
+        45.4,
+        28.4
+       ],
+       [
+        2.8,
+        28.4
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 24.1,
+      "y": 35.5,
+      "text": "BALKON BOVEN",
+      "size": 18
+     },
+     {
+      "t": "stairs",
+      "x": 61.0,
+      "y": 48.9,
+      "label": "TRAP"
+     },
+     {
+      "t": "label",
+      "x": 30.5,
+      "y": 58.9,
+      "text": "DANSVLOER",
+      "size": 24
+     },
+     {
+      "t": "bar",
+      "a": [
+       78.7,
+       56.7
+      ],
+      "b": [
+       79.4,
+       89.4
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       25.5,
+       99.3
+      ],
+      "b": [
+       44.0,
+       99.3
+      ],
+      "label": "IN (PLEIN)"
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "Buitenmuren uit BAG-pand 0363100012171125 (121 m2 grondvlak, gevel ca. 10 m aan het plein, 8-14 m diep); club = verblijfsobject Rembrandtplein 20 (180 m2, dus begane grond + mezzanine), woningen 18A-F erboven. Foto's op clubsmokey.nl tonen DJ-booth met SMOKEY-neon, een bar met flessenwand en een balkon met sierhek. Plaats van DJ, bar, trap en balkon is geschat.",
+  "bronnen": [
+   "https://clubsmokey.nl/",
+   "https://clubsmokey.nl/1356-2/",
+   "https://clubsmokey.nl/about/",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0 (verblijfsobject Rembrandtplein 20, 180 m2)"
+  ],
+  "note": "Klein pand (ca. 120 m2) met de ingang aan het plein en een balkon (mezzanine) boven. Plek van DJ, bar en trap is geschat: kijk naar het blauwe SMOKEY-neon achter de DJ."
+ },
+ {
+  "id": "club-nyx",
+  "name": "Club NYX",
+  "address": "Reguliersdwarsstraat 42, 1017 BM Amsterdam",
+  "area": "Centrum",
+  "website": "https://clubnyx.nl",
+  "lat": 52.36627,
+  "lng": 4.89132,
+  "capacity": 700,
+  "rooms": [
+   {
+    "name": "1e verdieping: Main room",
+    "outline": [
+     [
+      0.0,
+      24.3
+     ],
+     [
+      49.3,
+      24.3
+     ],
+     [
+      49.3,
+      0.0
+     ],
+     [
+      89.2,
+      0.0
+     ],
+     [
+      89.2,
+      100.0
+     ],
+     [
+      41.9,
+      100.0
+     ],
+     [
+      41.9,
+      83.8
+     ],
+     [
+      0.0,
+      83.8
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 54.7,
+      "y": 9.5,
+      "w": 20.9,
+      "h": 4.7,
+      "label": "DJ"
+     },
+     {
+      "t": "bar",
+      "a": [
+       10.1,
+       27.7
+      ],
+      "b": [
+       10.1,
+       72.3
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       52.0,
+       88.5
+      ],
+      "b": [
+       66.9,
+       88.5
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        47.3,
+        33.8
+       ],
+       [
+        51.4,
+        33.8
+       ],
+       [
+        51.4,
+        63.5
+       ],
+       [
+        47.3,
+        63.5
+       ]
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "pillar",
+      "x": 49.3,
+      "y": 74.3
+     },
+     {
+      "t": "in",
+      "a": [
+       22.3,
+       24.3
+      ],
+      "b": [
+       30.4,
+       24.3
+      ],
+      "label": "TRAP ↑↓",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       41.9,
+       86.5
+      ],
+      "b": [
+       41.9,
+       91.9
+      ],
+      "label": "TRAP",
+      "side": 1
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        51.4,
+        24.3
+       ],
+       [
+        60.1,
+        24.3
+       ],
+       [
+        60.1,
+        86.5
+       ],
+       [
+        51.4,
+        86.5
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 74.3,
+      "y": 44.6,
+      "text": "← BALKON BOVEN",
+      "size": 16
+     },
+     {
+      "t": "stairs",
+      "x": 77.7,
+      "y": 80.4,
+      "label": "TRAP BALKON"
+     },
+     {
+      "t": "label",
+      "x": 73.6,
+      "y": 63.5,
+      "text": "DANSVLOER",
+      "size": 24
+     }
+    ]
+   },
+   {
+    "name": "2e verdieping: Small room + balkon",
+    "outline": [
+     [
+      0.0,
+      22.3
+     ],
+     [
+      49.3,
+      22.3
+     ],
+     [
+      49.3,
+      0.0
+     ],
+     [
+      89.2,
+      0.0
+     ],
+     [
+      89.2,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 4.1,
+      "y": 25.0,
+      "w": 14.9,
+      "h": 4.1,
+      "label": "DJ"
+     },
+     {
+      "t": "bar",
+      "a": [
+       34.5,
+       39.2
+      ],
+      "b": [
+       34.5,
+       72.3
+      ],
+      "side": 1,
+      "label": "LANGE BAR"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        45.9,
+        33.8
+       ],
+       [
+        50.7,
+        33.8
+       ],
+       [
+        50.7,
+        76.4
+       ],
+       [
+        45.9,
+        76.4
+       ]
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        60.1,
+        6.8
+       ],
+       [
+        87.2,
+        6.8
+       ],
+       [
+        87.2,
+        87.8
+       ],
+       [
+        60.1,
+        87.8
+       ]
+      ],
+      "dash": true,
+      "text": "VIDE"
+     },
+     {
+      "t": "label",
+      "x": 73.6,
+      "y": 51.4,
+      "text": "(MAIN ROOM)",
+      "size": 18
+     },
+     {
+      "t": "line",
+      "a": [
+       59.5,
+       6.8
+      ],
+      "b": [
+       59.5,
+       87.8
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "label",
+      "x": 54.7,
+      "y": 83.8,
+      "text": "BALKON",
+      "size": 16
+     },
+     {
+      "t": "stairs",
+      "x": 68.9,
+      "y": 92.6,
+      "label": "TRAP ↓"
+     },
+     {
+      "t": "in",
+      "a": [
+       22.3,
+       22.3
+      ],
+      "b": [
+       30.4,
+       22.3
+      ],
+      "label": "TRAP",
+      "side": 1
+     },
+     {
+      "t": "stairs",
+      "x": 35.1,
+      "y": 93.2,
+      "label": "TRAP 1E/3E"
+     }
+    ]
+   },
+   {
+    "name": "3e verdieping: Relax + WC (met DJ)",
+    "outline": [
+     [
+      9.7,
+      9.0
+     ],
+     [
+      64.8,
+      9.0
+     ],
+     [
+      64.8,
+      0.7
+     ],
+     [
+      89.0,
+      0.7
+     ],
+     [
+      89.0,
+      100.7
+     ],
+     [
+      75.2,
+      100.7
+     ],
+     [
+      75.2,
+      93.1
+     ],
+     [
+      9.7,
+      93.1
+     ],
+     [
+      9.7,
+      60.0
+     ],
+     [
+      31.0,
+      60.0
+     ],
+     [
+      31.0,
+      40.0
+     ],
+     [
+      9.7,
+      40.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 65.5,
+      "y": 22.8,
+      "w": 9.7,
+      "h": 9.7,
+      "label": "DJ"
+     },
+     {
+      "t": "wc",
+      "x": 45.5,
+      "y": 15.2
+     },
+     {
+      "t": "label",
+      "x": 48.3,
+      "y": 26.9,
+      "text": "WASTAFELS",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        38.6,
+        40.7
+       ],
+       [
+        75.9,
+        40.7
+       ],
+       [
+        75.9,
+        60.0
+       ],
+       [
+        38.6,
+        60.0
+       ]
+      ],
+      "o": 0.5
+     },
+     {
+      "t": "bar",
+      "a": [
+       17.2,
+       22.1
+      ],
+      "b": [
+       30.3,
+       32.4
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "label",
+      "x": 42.1,
+      "y": 76.6,
+      "text": "RELAX (EX-ROOKRUIMTE)",
+      "size": 20
+     },
+     {
+      "t": "stairs",
+      "x": 20.0,
+      "y": 86.2,
+      "label": "TRAP"
+     },
+     {
+      "t": "stairs",
+      "x": 18.6,
+      "y": 13.8,
+      "label": "TRAP"
+     },
+     {
+      "t": "label",
+      "x": 34.5,
+      "y": 50.3,
+      "text": "↕",
+      "size": 26
+     }
+    ]
+   },
+   {
+    "name": "Begane grond (ingang, garderobe, Exit)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      89.5,
+      0.0
+     ],
+     [
+      89.5,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       12.9
+      ],
+      "b": [
+       0.0,
+       29.8
+      ],
+      "label": "IN",
+      "side": 1
+     },
+     {
+      "t": "stairs",
+      "x": 12.9,
+      "y": 6.8,
+      "label": "TRAP NAAR NYX"
+     },
+     {
+      "t": "cloak",
+      "x": 39.3,
+      "y": 25.8
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       40.7
+      ],
+      "b": [
+       88.1,
+       40.7
+      ],
+      "o": 0.9,
+      "w": 4
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       59.7
+      ],
+      "b": [
+       88.1,
+       59.7
+      ],
+      "o": 0.9,
+      "w": 4
+     },
+     {
+      "t": "wc",
+      "x": 44.7,
+      "y": 52.9
+     },
+     {
+      "t": "label",
+      "x": 75.9,
+      "y": 32.5,
+      "text": "LUSTIGE LOLA",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 45.4,
+      "y": 67.1,
+      "text": "EXIT CAFÉ",
+      "size": 22
+     },
+     {
+      "t": "bar",
+      "a": [
+       27.1,
+       82.0
+      ],
+      "b": [
+       71.2,
+       82.0
+      ],
+      "side": -1,
+      "label": "BAR EXIT"
+     },
+     {
+      "t": "dj",
+      "x": 78.6,
+      "y": 71.9,
+      "w": 8.8,
+      "h": 12.9,
+      "label": "DJ"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       73.2
+      ],
+      "b": [
+       0.0,
+       83.4
+      ],
+      "label": "IN EXIT",
+      "side": 1
+     }
+    ]
+   }
+  ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Overgetrokken van de plattegronden (begane grond t/m 3e verdieping) in de Club NYX venue-brochure (nov 2024), op maat gezet op het BAG-pand 0363100012175806 (14,8 x 13,2 m, 600 m2). Straatgevel links, tuinkant rechts (gecontroleerd met de dakvorm op de luchtfoto). Main room 450, small room 150, 3e verdieping ca. 50-100.",
+  "bronnen": [
+   "https://clubnyx.nl/venue/",
+   "https://clubnyx.nl/wp-content/uploads/2024/11/ClubNYX_Venue_Brochure_english_kleinv2.pdf"
+  ],
+  "note": "Ingang en garderobe op de begane grond (gedeeld pand met Exit Café). Trap linksboven naar de Main room op de 1e verdieping (DJ achterin, lange bar langs de straatkant). Small room op de 2e, bereikbaar via de trap of via het balkon boven de dansvloer. Bovenin: relax-ruimte en de toiletten met eigen DJ."
+ },
+ {
+  "id": "soho",
+  "name": "Soho",
+  "address": "Reguliersdwarsstraat 36, 1017 BM Amsterdam",
+  "area": "Centrum",
+  "website": "https://www.soho-amsterdam.com",
+  "lat": 52.36629,
+  "lng": 4.89096,
+  "capacity": 400,
+  "rooms": [
+   {
+    "name": "Begane grond",
+    "outline": [
+     [
+      0.0,
+      100.0
+     ],
+     [
+      57.9,
+      100.0
+     ],
+     [
+      58.5,
+      23.4
+     ],
+     [
+      64.3,
+      0.0
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 37.4,
+      "y": 21.1,
+      "w": 11.7,
+      "h": 7.6,
+      "label": "DJ"
+     },
+     {
+      "t": "stairs",
+      "x": 49.1,
+      "y": 14.6,
+      "label": "TRAP BOVEN"
+     },
+     {
+      "t": "wc",
+      "x": 51.5,
+      "y": 5.8
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        7.6,
+        4.7
+       ],
+       [
+        32.7,
+        4.7
+       ],
+       [
+        32.7,
+        18.7
+       ],
+       [
+        7.6,
+        18.7
+       ]
+      ],
+      "dash": true,
+      "text": "LOUNGE (HOOG)"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        55.0,
+        32.7
+       ],
+       [
+        63.2,
+        32.7
+       ],
+       [
+        63.2,
+        62.0
+       ],
+       [
+        55.0,
+        62.0
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 46.2,
+      "y": 40.9,
+      "text": "PODIUM →",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 37.4,
+      "y": 59.6,
+      "text": "DANSVLOER",
+      "size": 24
+     },
+     {
+      "t": "bar",
+      "a": [
+       21.1,
+       26.9
+      ],
+      "b": [
+       21.1,
+       79.5
+      ],
+      "side": 1,
+      "label": "CENTRALE BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       22.2,
+       100.0
+      ],
+      "b": [
+       38.6,
+       100.0
+      ],
+      "label": "IN",
+      "side": 1
+     },
+     {
+      "t": "label",
+      "x": 32.2,
+      "y": 112.9,
+      "text": "TERRAS",
+      "size": 18
+     }
+    ]
+   },
+   {
+    "name": "Boven (1e verdieping)",
+    "outline": [
+     [
+      0.0,
+      100.0
+     ],
+     [
+      57.9,
+      100.0
+     ],
+     [
+      58.5,
+      23.4
+     ],
+     [
+      64.3,
+      0.0
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stairs",
+      "x": 50.3,
+      "y": 14.6,
+      "label": "TRAP"
+     },
+     {
+      "t": "bar",
+      "a": [
+       0.6,
+       23.4
+      ],
+      "b": [
+       0.6,
+       64.3
+      ],
+      "side": -1,
+      "label": "LANGE BAR"
+     },
+     {
+      "t": "label",
+      "x": 35.1,
+      "y": 85.4,
+      "text": "COCKTAILHOEK",
+      "size": 20
+     },
+     {
+      "t": "wc",
+      "x": 52.6,
+      "y": 35.1
+     },
+     {
+      "t": "cloak",
+      "x": 50.3,
+      "y": 49.1
+     },
+     {
+      "t": "smoke",
+      "x": 17.5,
+      "y": 8.2
+     }
+    ]
+   }
+  ],
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Buitenmuren uit BAG-pand 0363100012175623 (11 x 17 m, 443 m2 over drie lagen). Begane grond uit de officiële rondgang-video op soho-amsterdam.com (ingang midden aan de straat, ovale centrale bar aan de oostkant, dansvloer met podiumrand langs de westmuur, achterin verhoogde lounge met rode banken, trap en DJ-meubel linksachter, toilet naast de trap) en de beschrijving op dezelfde site (centrale bar, dansvloer erachter, trap naar tweede niveau met bar en cocktailhoek). Bovenverdieping alleen uit beschrijvingen (nighttours, amsterdam.info): posities daar geschat.",
+  "bronnen": [
+   "https://www.soho-amsterdam.com/",
+   "https://cdn.prod.website-files.com/69bd0cd0d5124bfad29c06b2%2F6a2d129e5182a5b586ade627_SOHO%20in%20drone%20%281%29%20%281%29%20%281%29_mp4.mp4",
+   "https://www.soho-amsterdam.com/our/club",
+   "https://www.soho-amsterdam.com/our/history"
+  ],
+  "note": "Beneden: binnen recht vooruit de ronde kop van de centrale bar, dansvloer links ervan en erachter. De trap naar boven staat achterin rechts, naast de DJ en het toilet. Boven: tweede (lange) bar en cocktailhoek; de indeling boven is geschat."
+ }
+]

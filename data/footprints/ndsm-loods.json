@@ -1,0 +1,131 @@
+{
+ "id": "ndsm-loods",
+ "name": "NDSM Loods",
+ "address": "NDSM-Plein 93, 1033 WC Amsterdam",
+ "lookup": "NDSM-plein 93, 1033WC Amsterdam",
+ "pand": {
+  "bag_id": "0363100012062886",
+  "bouwjaar": 1900,
+  "gebruiksdoel": "bijeenkomstfunctie,industriefunctie,kantoorfunctie",
+  "oppervlakte_vbo_m2": 603,
+  "footprint_m2": 20277,
+  "breedte_m": 204.2,
+  "diepte_m": 196.7,
+  "polygon_m": [
+   [
+    9.32,
+    32.51
+   ],
+   [
+    10.86,
+    30.45
+   ],
+   [
+    14.13,
+    32.96
+   ],
+   [
+    17.28,
+    35.39
+   ],
+   [
+    32.08,
+    46.71
+   ],
+   [
+    48.76,
+    59.5
+   ],
+   [
+    65.05,
+    71.98
+   ],
+   [
+    141.78,
+    -27.01
+   ],
+   [
+    62.2,
+    -88.2
+   ],
+   [
+    58.9,
+    -90.73
+   ],
+   [
+    14.57,
+    -124.72
+   ],
+   [
+    -58.12,
+    -31.24
+   ],
+   [
+    -58.13,
+    -31.22
+   ],
+   [
+    -62.41,
+    -25.67
+   ],
+   [
+    -57.58,
+    -21.98
+   ],
+   [
+    -52.7,
+    -18.24
+   ],
+   [
+    -55.24,
+    -14.96
+   ],
+   [
+    -35.96,
+    -0.14
+   ],
+   [
+    -33.41,
+    -3.5
+   ],
+   [
+    -26.78,
+    1.57
+   ],
+   [
+    -19.68,
+    7.01
+   ],
+   [
+    -13.49,
+    11.74
+   ],
+   [
+    -10.28,
+    14.21
+   ],
+   [
+    -9.59,
+    14.73
+   ],
+   [
+    2.23,
+    23.83
+   ],
+   [
+    -0.92,
+    27.91
+   ],
+   [
+    7.83,
+    34.61
+   ],
+   [
+    9.32,
+    32.51
+   ]
+  ]
+ },
+ "buurpanden": [],
+ "uitleg": "Coordinaten in meters rond het midden van het hoofdpand. x = oost, y = zuid (noord is boven). Footprint is de buitenomtrek van het hele pand op maaiveld, niet per se de zaal."
+}

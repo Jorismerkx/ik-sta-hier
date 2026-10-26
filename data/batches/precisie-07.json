@@ -1,0 +1,1599 @@
+[
+ {
+  "id": "ot301",
+  "name": "OT301",
+  "address": "Overtoom 301, 1054 HW Amsterdam",
+  "area": "West",
+  "lat": 52.3602,
+  "lng": 4.8657,
+  "website": "https://www.ot301.nl",
+  "source": "ot301.nl/public-spaces: Studios op de begane grond, Studio 1 (podium, hoog plafond, groot videoscherm) met daaraan Studio 2 (lager, bar en chill), samen ca. 230 m2 voor 300-400 man; Ventilator cinema en bar op de 2e verdieping (bar in de voormalige ventilatiekamer, geen lift). Studio 301 tech list (Google Doc): podiumdelen 2x1 m, scherm 5x4 m in Studio 1. BAG/3D BAG: hoofdblok 18,9 x 16 m (dak 21 m) plus lagere westvleugel; geen aparte lage hal, de studio zit dus in het hoofdblok. Geen plattegrond gevonden: maten op schaal van 230 m2, posities van podium, bar en ingang geschat.",
+  "confidence": "laag",
+  "note": "Voormalige Filmacademie. De clubzalen (Studio 1 met podium, Studio 2 met bar en chill) liggen op de begane grond; Café Gilde zit direct bij de voordeur. Ventilator cinema en bar zijn op de 2e verdieping (trap, geen lift). Onzeker: exacte plek van podium, bar en doorgang tussen Studio 1 en 2 (geschat).",
+  "rooms": [
+   {
+    "name": "Studio 1 + 2 (begane grond)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      19,
+      0
+     ],
+     [
+      19,
+      12
+     ],
+     [
+      0,
+      12
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 3.5,
+      "y": 0.4,
+      "w": 6,
+      "h": 3.2,
+      "label": "PODIUM"
+     },
+     {
+      "t": "label",
+      "x": 6.5,
+      "y": 4.6,
+      "text": "SCHERM 5x4 M BOVEN PODIUM",
+      "size": 14
+     },
+     {
+      "t": "line",
+      "a": [
+       13,
+       0
+      ],
+      "b": [
+       13,
+       4.5
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "line",
+      "a": [
+       13,
+       8.5
+      ],
+      "b": [
+       13,
+       12
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "label",
+      "x": 6.5,
+      "y": 7.6,
+      "text": "STUDIO 1 (HOOG)",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 16,
+      "y": 6.3,
+      "text": "STUDIO 2",
+      "size": 18
+     },
+     {
+      "t": "bar",
+      "a": [
+       19,
+       2.5
+      ],
+      "b": [
+       19,
+       9.5
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       4.0,
+       12
+      ],
+      "b": [
+       6.5,
+       12
+      ],
+      "label": "IN (HAL OVERTOOM)",
+      "side": 1
+     },
+     {
+      "t": "cloak",
+      "x": 2.4,
+      "y": 10.8
+     }
+    ]
+   },
+   {
+    "name": "Ventilator cinema + bar (2e verdieping)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      9,
+      0
+     ],
+     [
+      9,
+      12
+     ],
+     [
+      0,
+      12
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 1.5,
+      "y": 0.3,
+      "w": 6,
+      "h": 1.2,
+      "label": "SCHERM"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        1,
+        5.5
+       ],
+       [
+        8,
+        5.5
+       ],
+       [
+        8,
+        10
+       ],
+       [
+        1,
+        10
+       ]
+      ],
+      "dash": true,
+      "text": "TRIBUNE (BIOSSTOELEN)"
+     },
+     {
+      "t": "in",
+      "a": [
+       9,
+       9.5
+      ],
+      "b": [
+       9,
+       11.5
+      ],
+      "label": "NAAR VENTILATOR BAR",
+      "side": -1
+     },
+     {
+      "t": "stairs",
+      "x": 3.5,
+      "y": 11.2,
+      "label": "TRAP ↓",
+      "size": 18
+     }
+    ]
+   }
+  ],
+  "photo": true,
+  "basis": "schatting",
+  "bronnen": [
+   "https://www.ot301.nl/public-spaces/1010/stichting-studio-301",
+   "https://www.ot301.nl/public-spaces/1009/ventilator-cinemabar",
+   "https://www.ot301.nl/public-spaces",
+   "https://docs.google.com/document/d/1eAP6nNXyp1d10tfphTEaynUPyEuRgRb1BqpM1s0n_Ug/edit",
+   "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012138646"
+  ]
+ },
+ {
+  "id": "de-nieuwe-anita",
+  "name": "De Nieuwe Anita",
+  "address": "Frederik Hendrikstraat 111, 1052 HN Amsterdam",
+  "area": "West",
+  "website": "https://www.denieuweanita.nl",
+  "source": "denieuweanita.nl/about (café op de begane grond; de zaal achter voor concerten, film en literatuur ligt onder de grond en is via de trap bereikbaar; vanaf het balkon op de begane grond kijk je erin; toiletten twee treden omhoog), Mediamatic (bar dient ook als podium), Artstalk/TimeOut (deur vermomd als boekenkast naar het balkon boven het podium), NH Nieuws (balkon), foto Cinemanita vanaf het balkon (lange zaal, scherm/podium langs de lange wand, techtafel aan de kopse kant). BAG/3D BAG: café in de plint van het woonblok uit 1992 aan de straat, met direct erachter een laag volume (dak 4-6 m) dat past bij een verdiepte zaal met balkon; de precieze muren van de zaal zijn niet vast te stellen. Maten en posities geschat.",
+  "confidence": "laag",
+  "note": "Boven: huiskamercafé met ronde bar (die soms podium is), toiletten twee treden omhoog. De zaal ligt achter het café onder de grond: trap naar beneden, of kijk vanaf het balkon (achter de boekenkast-deur) op het podium. Onzeker: exacte maten en plek van trap en bar (geschat).",
+  "rooms": [
+   {
+    "name": "Café (begane grond)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      10,
+      0
+     ],
+     [
+      10,
+      12
+     ],
+     [
+      0,
+      12
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       2.5,
+       0
+      ],
+      "b": [
+       5.0,
+       0
+      ],
+      "label": "BOEKENKAST-DEUR → BALKON",
+      "side": 1
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        3.0,
+        5.0
+       ],
+       [
+        4.6,
+        4.4
+       ],
+       [
+        6.2,
+        5.0
+       ],
+       [
+        6.8,
+        6.5
+       ],
+       [
+        6.2,
+        8.0
+       ],
+       [
+        4.6,
+        8.6
+       ],
+       [
+        3.0,
+        8.0
+       ],
+       [
+        2.4,
+        6.5
+       ]
+      ],
+      "o": 1,
+      "w": 5
+     },
+     {
+      "t": "label",
+      "x": 4.6,
+      "y": 6.5,
+      "text": "RONDE BAR",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 4.6,
+      "y": 9.6,
+      "text": "(ook podiumpje)",
+      "size": 14
+     },
+     {
+      "t": "stairs",
+      "x": 8.3,
+      "y": 1.6,
+      "label": "TRAP ↓ ZAAL",
+      "size": 18
+     },
+     {
+      "t": "wc",
+      "x": 8.6,
+      "y": 6.5
+     },
+     {
+      "t": "label",
+      "x": 8.6,
+      "y": 7.6,
+      "text": "2 TREDEN OP",
+      "size": 12
+     },
+     {
+      "t": "in",
+      "a": [
+       4.0,
+       12
+      ],
+      "b": [
+       6.5,
+       12
+      ],
+      "label": "IN (FREDERIK HENDRIKSTRAAT)",
+      "side": 1
+     }
+    ]
+   },
+   {
+    "name": "Zaal (kelder)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      11,
+      0
+     ],
+     [
+      11,
+      7
+     ],
+     [
+      0,
+      7
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 1.5,
+      "y": 0.3,
+      "w": 8,
+      "h": 2.0,
+      "label": "PODIUM / SCHERM"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0,
+        5.6
+       ],
+       [
+        11,
+        5.6
+       ],
+       [
+        11,
+        7
+       ],
+       [
+        0,
+        7
+       ]
+      ],
+      "dash": true,
+      "text": "BALKON (BEGANE GROND)"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0,
+        0
+       ],
+       [
+        1.4,
+        0
+       ],
+       [
+        1.4,
+        7
+       ],
+       [
+        0,
+        7
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 9.6,
+      "y": 3.6,
+      "text": "TECH",
+      "size": 16
+     },
+     {
+      "t": "stairs",
+      "x": 2.6,
+      "y": 4.6,
+      "label": "TRAP ↑ CAFÉ",
+      "size": 16
+     }
+    ]
+   }
+  ],
+  "lat": 52.37416,
+  "lng": 4.87269,
+  "photo": true,
+  "basis": "schatting",
+  "bronnen": [
+   "https://denieuweanita.nl/about/",
+   "https://mediamatic.net/ar/id/782",
+   "https://artstalkmagazine.nl/?p=2669",
+   "https://www.nhnieuws.nl/nieuws/349784/cultureel-cafe-de-nieuwe-anita-bestaat-20-jaar-was-nooit-de-bedoeling",
+   "https://denieuweanita.nl/wp-content/uploads/2026/03/DNA-breien-49-1024x683.jpg",
+   "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012136487"
+  ]
+ },
+ {
+  "id": "kanarie-club",
+  "name": "Kanarie Club",
+  "address": "Bellamyplein 51, 1053 AT Amsterdam",
+  "area": "West",
+  "website": "https://www.kanarieclub.nl",
+  "source": "Plattegronden Level 0 en Level 1 van Studio Modijefsky (yatzer.com), op schaal gezet met de BAG-omtrek van De Hallen (annex 3,2 m + twee tramhallen van 9,7 en 9,6 m, getrapte kop 6 m) en gecontroleerd op de luchtfoto (hal aan de noordwestkop bij het Bellamyplein, Garden op de binnenplaats aan de westkant). Ruimtes: kanarieclub.nl/groepen (Poolbar 120 m2 op de vide, Kanarie Garden).",
+  "confidence": "hoog",
+  "note": "Hoofdingang via de Garden (binnenplaats aan het Bellamyplein), zij-ingang vanaf het terras aan de kop. De grote eilandbar staat op een verhoging midden in de hal; de trap naar de Poolbar (vide met zitbad) staat achterin naast de lounge. Toiletten via de gang achter links, die ook naar De Hallen loopt. Geen vaste DJ-plek.",
+  "rooms": [
+   {
+    "name": "Hal (begane grond)",
+    "outline": [
+     [
+      0.0,
+      24.63
+     ],
+     [
+      0.0,
+      11.84
+     ],
+     [
+      3.48,
+      11.84
+     ],
+     [
+      3.48,
+      6.37
+     ],
+     [
+      12.79,
+      6.37
+     ],
+     [
+      12.79,
+      0.0
+     ],
+     [
+      22.49,
+      0.0
+     ],
+     [
+      22.49,
+      36.87
+     ],
+     [
+      12.79,
+      36.87
+     ],
+     [
+      12.79,
+      24.63
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        5.67,
+        19.05
+       ],
+       [
+        5.67,
+        12.34
+       ],
+       [
+        17.01,
+        12.34
+       ],
+       [
+        17.01,
+        19.05
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        8.01,
+        16.67
+       ],
+       [
+        8.01,
+        12.69
+       ],
+       [
+        16.72,
+        12.69
+       ],
+       [
+        16.72,
+        16.67
+       ]
+      ],
+      "text": "BAR",
+      "o": 1,
+      "w": 5
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       15.97
+      ],
+      "b": [
+       0.0,
+       12.94
+      ],
+      "label": "IN",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       12.79,
+       2.74
+      ],
+      "b": [
+       12.79,
+       4.63
+      ],
+      "label": "IN",
+      "side": 1
+     },
+     {
+      "t": "in",
+      "a": [
+       4.48,
+       24.63
+      ],
+      "b": [
+       6.32,
+       24.63
+      ],
+      "label": "WC / DE HALLEN",
+      "side": 1
+     },
+     {
+      "t": "line",
+      "a": [
+       16.77,
+       36.87
+      ],
+      "b": [
+       16.77,
+       0.0
+      ],
+      "dash": true,
+      "o": 0.45
+     },
+     {
+      "t": "line",
+      "a": [
+       18.16,
+       36.87
+      ],
+      "b": [
+       18.16,
+       0.0
+      ],
+      "dash": true,
+      "o": 0.45
+     },
+     {
+      "t": "label",
+      "x": 17.46,
+      "y": 34.23,
+      "text": "TRAMRAILS",
+      "size": 14
+     },
+     {
+      "t": "stairs",
+      "x": 16.6,
+      "y": 25.4,
+      "label": "TRAP POOLBAR",
+      "size": 18
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        21.0,
+        18.06
+       ],
+       [
+        21.0,
+        7.11
+       ],
+       [
+        22.49,
+        7.11
+       ],
+       [
+        22.49,
+        18.06
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 20.2,
+      "y": 18.6,
+      "text": "ZITBOXEN",
+      "size": 14
+     }
+    ]
+   },
+   {
+    "name": "Poolbar (vide)",
+    "outline": [
+     [
+      3.62,
+      36.87
+     ],
+     [
+      3.62,
+      22.98
+     ],
+     [
+      10.4,
+      22.98
+     ],
+     [
+      10.4,
+      21.72
+     ],
+     [
+      12.91,
+      21.72
+     ],
+     [
+      12.91,
+      36.87
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        5.88,
+        31.85
+       ],
+       [
+        5.88,
+        26.07
+       ],
+       [
+        10.31,
+        26.07
+       ],
+       [
+        10.31,
+        31.85
+       ]
+      ],
+      "text": "THE POOL",
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "bar",
+      "a": [
+       10.73,
+       33.52
+      ],
+      "b": [
+       6.05,
+       33.52
+      ],
+      "side": 1
+     },
+     {
+      "t": "stairs",
+      "x": 10.0,
+      "y": 24.4,
+      "label": "TRAP ↓ HAL"
+     },
+     {
+      "t": "label",
+      "x": 6.6,
+      "y": 23.9,
+      "text": "RAND VIDE",
+      "size": 16
+     }
+    ]
+   },
+   {
+    "name": "Garden & terras (buiten)",
+    "outline": [
+     [
+      -0.3,
+      30.15
+     ],
+     [
+      -4.13,
+      30.15
+     ],
+     [
+      -7.61,
+      22.54
+     ],
+     [
+      -9.1,
+      14.08
+     ],
+     [
+      -9.75,
+      4.13
+     ],
+     [
+      11.54,
+      -3.83
+     ],
+     [
+      22.49,
+      -7.31
+     ],
+     [
+      22.49,
+      0.0
+     ],
+     [
+      12.79,
+      0.0
+     ],
+     [
+      12.79,
+      6.37
+     ],
+     [
+      0.0,
+      6.37
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       12.94
+      ],
+      "b": [
+       0.0,
+       15.97
+      ],
+      "label": "NAAR HAL",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       12.79,
+       4.63
+      ],
+      "b": [
+       12.79,
+       2.74
+      ],
+      "label": "NAAR HAL",
+      "side": -1
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        -0.3,
+        24.78
+       ],
+       [
+        -4.88,
+        24.78
+       ],
+       [
+        -4.88,
+        15.82
+       ],
+       [
+        -0.3,
+        15.82
+       ]
+      ],
+      "dash": true,
+      "text": "LOUNGE"
+     },
+     {
+      "t": "in",
+      "a": [
+       -9.75,
+       4.13
+      ],
+      "b": [
+       -5.12,
+       2.39
+      ],
+      "label": "IN (PLEIN)",
+      "side": -1
+     },
+     {
+      "t": "label",
+      "x": 17.51,
+      "y": -1.84,
+      "text": "TERRAS",
+      "size": 18
+     }
+    ]
+   }
+  ],
+  "lat": 52.36654,
+  "lng": 4.86858,
+  "photo": true,
+  "basis": "plattegrond",
+  "bronnen": [
+   "https://www.yatzer.com/kanarie-club-studio-modijefsky",
+   "https://media.yatzer.com/f1_kanarie_club_amsterdam_studio_modijefsky_level_0_yatzer-1.jpg",
+   "https://media.yatzer.com/f2_kanarie_club_amsterdam_studio_modijefsky_level_1_yatzer-1.jpg",
+   "https://kanarieclub.nl/groepen/",
+   "BAG pand 0363100012236693 (PDOK) + PDOK luchtfoto"
+  ]
+ },
+ {
+  "id": "thuishaven",
+  "name": "Thuishaven",
+  "address": "Contactweg 68, 1014 BW Amsterdam",
+  "area": "Westpoort",
+  "website": "https://thuishaven.nl",
+  "source": "Terreinplattegrond van thuishavenb2b.nl (OUTLINE-PLATTEGROND-THUISHAVEN, met hotspots Loods, Mainstage, Circustent, Stier Container, Barhuis), passend gelegd op BAG (Loods 2017, Circustent 2017 met twee zeecontainers) en de PDOK-luchtfoto (afwijking < 1,5 m). Ingang west via de wachtrij-hekken en het entreehuisje (luchtfoto). Binnenindeling Loods (DJ, bar, lounge-vide), podium Circustent en podium Mainstage zijn geschat uit beschrijvingen en foto’s.",
+  "confidence": "middel",
+  "note": "Ingang aan de westkant (parkeerterrein Contactweg), kluisjes te huur op het terrein. Alle nachtshows zijn in De Loods (de hangar links na de ingang). De Circustent (geel-rood) betreed je via een zeecontainer; het Barhuis ligt tussen Circustent en Mainstage, de Stiercontainer midden op het terrein aan de kanaalkant. Mainstage is open-air in de zomer (op de luchtfoto staat er een blauw-gele tent overheen). Posities van DJ, bars en podia binnen de area’s zijn indicatief.",
+  "rooms": [
+   {
+    "name": "Terrein (overzicht)",
+    "outline": [
+     [
+      -63.4,
+      -71.2
+     ],
+     [
+      -45.8,
+      -60.1
+     ],
+     [
+      -28.5,
+      -45.5
+     ],
+     [
+      1.5,
+      -27.8
+     ],
+     [
+      18.5,
+      -20.0
+     ],
+     [
+      41.6,
+      -4.2
+     ],
+     [
+      45.3,
+      0.7
+     ],
+     [
+      46.6,
+      6.5
+     ],
+     [
+      45.4,
+      12.4
+     ],
+     [
+      43.1,
+      15.8
+     ],
+     [
+      36.1,
+      20.4
+     ],
+     [
+      -55.9,
+      28.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        -53.7,
+        -25.8
+       ],
+       [
+        -21.3,
+        -27.1
+       ],
+       [
+        -20.8,
+        -16.1
+       ],
+       [
+        -36.8,
+        -15.4
+       ],
+       [
+        -36.8,
+        -8.7
+       ],
+       [
+        -53.0,
+        -8.1
+       ]
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "label",
+      "x": -37.1,
+      "y": -19.9,
+      "text": "LOODS"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        -7.7,
+        7.7
+       ],
+       [
+        -8.2,
+        11.3
+       ],
+       [
+        -9.6,
+        14.6
+       ],
+       [
+        -11.8,
+        17.5
+       ],
+       [
+        -14.7,
+        19.7
+       ],
+       [
+        -18.1,
+        21.1
+       ],
+       [
+        -21.6,
+        21.6
+       ],
+       [
+        -25.2,
+        21.1
+       ],
+       [
+        -28.6,
+        19.7
+       ],
+       [
+        -31.5,
+        17.5
+       ],
+       [
+        -33.7,
+        14.6
+       ],
+       [
+        -35.1,
+        11.3
+       ],
+       [
+        -35.5,
+        7.7
+       ],
+       [
+        -35.1,
+        4.1
+       ],
+       [
+        -33.7,
+        0.8
+       ],
+       [
+        -31.5,
+        -2.1
+       ],
+       [
+        -28.6,
+        -4.3
+       ],
+       [
+        -25.2,
+        -5.7
+       ],
+       [
+        -21.7,
+        -6.2
+       ],
+       [
+        -18.1,
+        -5.7
+       ],
+       [
+        -14.7,
+        -4.3
+       ],
+       [
+        -11.8,
+        -2.1
+       ],
+       [
+        -9.6,
+        0.7
+       ],
+       [
+        -8.2,
+        4.1
+       ]
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "label",
+      "x": -21.7,
+      "y": 7.7,
+      "text": "CIRCUSTENT"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        32.9,
+        -4.8
+       ],
+       [
+        44.3,
+        1.6
+       ],
+       [
+        44.8,
+        4.3
+       ],
+       [
+        36.0,
+        18.3
+       ],
+       [
+        34.4,
+        18.8
+       ],
+       [
+        22.8,
+        12.1
+       ]
+      ],
+      "o": 1,
+      "w": 4
+     },
+     {
+      "t": "label",
+      "x": 35.9,
+      "y": 8.4,
+      "text": "MAINSTAGE"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        4.1,
+        15.4
+       ],
+       [
+        18.8,
+        14.5
+       ],
+       [
+        19.3,
+        22.2
+       ],
+       [
+        4.5,
+        23.3
+       ]
+      ],
+      "o": 1,
+      "w": 3
+     },
+     {
+      "t": "label",
+      "x": 11.7,
+      "y": 11.9,
+      "text": "BARHUIS",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        -2.9,
+        -28.2
+       ],
+       [
+        6.2,
+        -23.8
+       ],
+       [
+        3.9,
+        -18.8
+       ],
+       [
+        -5.4,
+        -23.4
+       ]
+      ],
+      "o": 1,
+      "w": 3
+     },
+     {
+      "t": "label",
+      "x": 0.4,
+      "y": -29.6,
+      "text": "STIERCONTAINER",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       -59.6,
+       -7.0
+      ],
+      "b": [
+       -59.4,
+       -2.0
+      ],
+      "label": "IN",
+      "side": 1
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        -59.2,
+        -1.4
+       ],
+       [
+        -45.7,
+        -2.0
+       ],
+       [
+        -43.4,
+        27.0
+       ],
+       [
+        -55.9,
+        28.2
+       ]
+      ],
+      "dash": true
+     }
+    ]
+   },
+   {
+    "name": "Loods (hangar, nachtshows)",
+    "outline": [
+     [
+      11.0,
+      0.0
+     ],
+     [
+      11.0,
+      32.4
+     ],
+     [
+      0.0,
+      32.5
+     ],
+     [
+      0.0,
+      0.1
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 3.1,
+      "y": 0.6,
+      "w": 5.7,
+      "h": 3.3
+     },
+     {
+      "t": "bar",
+      "a": [
+       -0.0,
+       6.3
+      ],
+      "b": [
+       -0.0,
+       16.3
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        10.9,
+        26.7
+       ],
+       [
+        10.9,
+        32.5
+       ],
+       [
+        0.2,
+        32.4
+       ],
+       [
+        0.1,
+        26.3
+       ]
+      ],
+      "dash": true,
+      "text": "LOUNGE-VIDE"
+     },
+     {
+      "t": "in",
+      "a": [
+       7.9,
+       32.5
+      ],
+      "b": [
+       2.9,
+       32.5
+      ],
+      "label": "IN (TERREIN)",
+      "side": -1
+     }
+    ]
+   },
+   {
+    "name": "Circustent",
+    "round": {
+     "cx": 14,
+     "cy": 14,
+     "r": 13.9
+    },
+    "features": [
+     {
+      "t": "stage",
+      "x": 9,
+      "y": 2.2,
+      "w": 10,
+      "h": 3.8,
+      "label": "PODIUM"
+     },
+     {
+      "t": "label",
+      "x": 14,
+      "y": 15,
+      "text": "DISCOBAL",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       25.5,
+       21.9
+      ],
+      "b": [
+       23.8,
+       23.9
+      ],
+      "label": "IN",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       5.0,
+       24.7
+      ],
+      "b": [
+       3.2,
+       22.8
+      ],
+      "label": "IN",
+      "side": -1
+     }
+    ]
+   },
+   {
+    "name": "Mainstage (buiten, zomer)",
+    "outline": [
+     [
+      0.5,
+      0.0
+     ],
+     [
+      13.6,
+      0.0
+     ],
+     [
+      15.4,
+      2.1
+     ],
+     [
+      14.5,
+      18.6
+     ],
+     [
+      13.4,
+      19.8
+     ],
+     [
+      0.0,
+      19.7
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 2.1,
+      "y": 0.5,
+      "w": 10.0,
+      "h": 4.0
+     },
+     {
+      "t": "label",
+      "x": 9.6,
+      "y": 13.0,
+      "text": "DAMWAND RONDOM",
+      "size": 16
+     }
+    ]
+   }
+  ],
+  "lat": 52.39676,
+  "lng": 4.85639,
+  "photo": true,
+  "basis": "plattegrond",
+  "bronnen": [
+   "https://www.thuishavenb2b.nl/",
+   "https://www.thuishavenb2b.nl/wp-content/uploads/2024/04/OUTLINE-PLATTEGROND-THUISHAVEN.png",
+   "https://thuishaven.nl/veelgestelde-vragen/",
+   "BAG panden 0363100012248225 (Loods) en 0363100012250577 (Circustent) via PDOK + PDOK luchtfoto"
+  ]
+ },
+ {
+  "id": "club-church",
+  "name": "Club Church",
+  "address": "Kerkstraat 52, 1017 GM Amsterdam",
+  "area": "Centrum",
+  "website": "https://www.clubchurch.nl",
+  "source": "Muren uit BAG-pand 0363100012172459 en 3D BAG: aan de Kerkstraat een voorhuis (8,5 x 8 m, dak 14-16 m) met daarachter een hoge achterzaal (ca. 9 x 8,3 m plus nis, dak 10,7 m); samen ca. 170 m2, gelijk aan het BAG-verblijfsobject Kerkstraat 52 (171 m2). Indeling: nighttours (begane grond bar + dansvloer, balkon erboven voor cruising, kelder met toiletten, douche, cabines en darkroom, binnenkomst via de garderobe), clubchurch.nl (5 cabines, darkroom, 2 douches, smoking lounge naast de bar) en interieurfoto’s clubchurch.nl (dansvloer met stalen balkon en trap, podium met CHURCH-neon tegen de achterwand, bar achter de balkonwand). Plek van bar, rookruimte, garderobe en keldertrap in het voorhuis is afgeleid, niet ingemeten.",
+  "confidence": "middel",
+  "note": "Binnenkomst via de garderobe aan de Kerkstraat; voorin de bar met de smoking lounge ernaast. Daarachter de hoge zaal met dansvloer en podium tegen de achterwand; het stalen balkon (cruising) loopt boven de doorgang naar de bar, trap aan de zijkant. Toiletten, douches, cabines en darkroom in de kelder. Posities in het voorhuis zijn indicatief.",
+  "rooms": [
+   {
+    "name": "Begane grond (bar + dansvloer)",
+    "outline": [
+     [
+      9.5,
+      21.6
+     ],
+     [
+      1.0,
+      21.6
+     ],
+     [
+      0.7,
+      13.6
+     ],
+     [
+      0.2,
+      5.4
+     ],
+     [
+      5.8,
+      5.2
+     ],
+     [
+      6.5,
+      0.2
+     ],
+     [
+      11.5,
+      0.3
+     ],
+     [
+      11.0,
+      4.6
+     ],
+     [
+      9.5,
+      4.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "label": "PODIUM",
+      "x": 0.8,
+      "y": 5.5,
+      "w": 4.1,
+      "h": 1.7
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        9.1,
+        7.6
+       ],
+       [
+        0.7,
+        7.6
+       ],
+       [
+        0.7,
+        11.0
+       ],
+       [
+        9.1,
+        11.0
+       ]
+      ],
+      "dash": true,
+      "text": "DANSVLOER"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        9.5,
+        13.6
+       ],
+       [
+        0.7,
+        13.6
+       ],
+       [
+        0.7,
+        11.2
+       ],
+       [
+        9.5,
+        11.2
+       ]
+      ],
+      "dash": true,
+      "text": "BALKON (BOVEN)"
+     },
+     {
+      "t": "stairs",
+      "x": 7.5,
+      "y": 10.4,
+      "label": "TRAP BALKON",
+      "size": 16
+     },
+     {
+      "t": "line",
+      "a": [
+       9.5,
+       13.6
+      ],
+      "b": [
+       6.9,
+       13.6
+      ],
+      "o": 1,
+      "w": 3
+     },
+     {
+      "t": "line",
+      "a": [
+       3.5,
+       13.6
+      ],
+      "b": [
+       0.7,
+       13.6
+      ],
+      "o": 1,
+      "w": 3
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.2,
+       20.1
+      ],
+      "b": [
+       1.2,
+       15.1
+      ],
+      "side": 1
+     },
+     {
+      "t": "smoke",
+      "x": 7.9,
+      "y": 15.2
+     },
+     {
+      "t": "cloak",
+      "x": 6.8,
+      "y": 19.2
+     },
+     {
+      "t": "stairs",
+      "x": 5.9,
+      "y": 17.2,
+      "label": "TRAP ↓ KELDER",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 5.9,
+      "y": 16.3,
+      "text": "WC · DOUCHES · DARKROOM",
+      "size": 12
+     },
+     {
+      "t": "in",
+      "a": [
+       3.9,
+       21.6
+      ],
+      "b": [
+       6.1,
+       21.6
+      ],
+      "label": "IN (KERKSTRAAT)",
+      "side": 1
+     }
+    ]
+   }
+  ],
+  "lat": 52.36521,
+  "lng": 4.8856,
+  "photo": true,
+  "basis": "bag+fotos",
+  "bronnen": [
+   "https://clubchurch.nl/",
+   "https://clubchurch.nl/images/gallery/interior-3.jpg",
+   "https://clubchurch.nl/images/gallery/interior-9.jpg",
+   "https://www.nighttours.com/amsterdam/gayguide/club-church.html",
+   "https://www.timeout.com/amsterdam/nightlife/church",
+   "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012172459"
+  ]
+ }
+]

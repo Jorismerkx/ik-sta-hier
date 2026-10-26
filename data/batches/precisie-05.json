@@ -1,0 +1,893 @@
+[
+ {
+  "id": "lofi",
+  "name": "Lofi",
+  "address": "Basisweg 63, 1043 AN Amsterdam",
+  "area": "Sloterdijk",
+  "lat": 52.39125,
+  "lng": 4.82422,
+  "website": "https://lofi.amsterdam",
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond openbaar (lofi.amsterdam heeft alleen video-impressies). Pand uit BAG (Basisweg 63, L-vorm 36,5 x 35,8 m, 1523 m2 vloer, dus deels twee lagen) + luchtfoto: noordoostblok met eigen dak (waarschijnlijk twee lagen, wc's boven), zuidblok 24 x 21 m met daklichten, westvleugel 12 x 23 m, courtyard ten zuiden. Courtyard uit luchtfoto + dronebeelden (YouTube, Marlon Hoffstadt @ Lofi 2026): dansvloer onder een cortenstalen pergola, DJ-booth aan de oostkant onder een terras op containers, sculptuur aan de westkant, containers langs de gevel. Binnen: booth voor een wand met glas/ramen (video Massano @ Lofi 2026). Zalen 2026 (Club, Colorfloor, Courtyard) uit lofi.amsterdam/events en technoairlines. Club = zuidblok en Colorfloor = westvleugel is een aanname; DJ-plek binnen en bars zijn geschat.",
+  "bronnen": [
+   "https://lofi.amsterdam/information/",
+   "https://lofi.amsterdam/events/",
+   "https://www.technoairlines.com/club/lofi-amsterdam",
+   "https://www.youtube.com/watch?v=USfhu927Sxw",
+   "https://www.youtube.com/watch?v=WrTRIyuyXQ0",
+   "https://vimeo.com/841833483",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Drie delen: Club (de grote loods), Colorfloor (kleinere zaal ernaast) en de Courtyard buiten, met de DJ onder het containerterras en een stalen pergola boven de dansvloer. Wc's in de Club via de trap; tweede wc-groep en invalidentoilet achterin de courtyard. Roken alleen buiten. Indeling binnen is geschat.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      24.2,
+      0.0
+     ],
+     [
+      24.1,
+      20.7
+     ],
+     [
+      0.0,
+      20.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 8.5,
+      "y": 0.6,
+      "w": 7.0,
+      "h": 2.8
+     },
+     {
+      "t": "bar",
+      "a": [
+       24.1,
+       7.0
+      ],
+      "b": [
+       24.1,
+       16.0
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       9.5,
+       20.7
+      ],
+      "b": [
+       14.5,
+       20.7
+      ],
+      "label": "COURTYARD"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       2.0
+      ],
+      "b": [
+       0.0,
+       6.0
+      ],
+      "label": "COLORFLOOR"
+     },
+     {
+      "t": "in",
+      "a": [
+       22.5,
+       0.0
+      ],
+      "b": [
+       19.0,
+       0.0
+      ],
+      "label": "ENTREE"
+     },
+     {
+      "t": "stairs",
+      "x": 20.0,
+      "y": 2.8,
+      "label": "TRAP ↑ WC"
+     }
+    ]
+   },
+   {
+    "name": "Colorfloor",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      12.1,
+      0.0
+     ],
+     [
+      12.2,
+      22.8
+     ],
+     [
+      0.0,
+      22.8
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 3.5,
+      "y": 0.5,
+      "w": 5.2,
+      "h": 2.2
+     },
+     {
+      "t": "in",
+      "a": [
+       12.2,
+       21.1
+      ],
+      "b": [
+       12.2,
+       17.1
+      ],
+      "label": "CLUB"
+     }
+    ]
+   },
+   {
+    "name": "Courtyard (buiten)",
+    "outline": [
+     [
+      0.0,
+      29.2
+     ],
+     [
+      0.0,
+      0.0
+     ],
+     [
+      36.8,
+      0.0
+     ],
+     [
+      36.8,
+      29.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 17.8,
+      "y": 3.0,
+      "w": 6.5,
+      "h": 3.0
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        13.3,
+        2.8
+       ],
+       [
+        13.3,
+        0.0
+       ],
+       [
+        35.8,
+        0.0
+       ],
+       [
+        35.8,
+        2.8
+       ]
+      ],
+      "dash": true,
+      "text": "TERRAS"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        12.5,
+        25.6
+       ],
+       [
+        12.5,
+        7.2
+       ],
+       [
+        31.3,
+        7.2
+       ],
+       [
+        31.3,
+        25.6
+       ]
+      ],
+      "dash": true,
+      "text": "PERGOLA"
+     },
+     {
+      "t": "bar",
+      "a": [
+       3.9,
+       17.2
+      ],
+      "b": [
+       3.9,
+       3.2
+      ]
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.3,
+        29.2
+       ],
+       [
+        0.3,
+        19.2
+       ],
+       [
+        8.3,
+        19.2
+       ],
+       [
+        8.3,
+        29.2
+       ]
+      ],
+      "dash": true,
+      "text": "FOOD"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       9.2
+      ],
+      "b": [
+       0.0,
+       14.2
+      ],
+      "label": "CLUB"
+     },
+     {
+      "t": "wc",
+      "x": 32.8,
+      "y": 26.2
+     },
+     {
+      "t": "smoke",
+      "x": 32.3,
+      "y": 12.2
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "h7-warehouse",
+  "name": "H7 Warehouse",
+  "address": "Humberweg 7, 1043 AC Amsterdam",
+  "area": "Sloterdijk",
+  "lat": 52.3905,
+  "lng": 4.83089,
+  "capacity": 812,
+  "status": "open",
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond openbaar. De hal is niet het BAG-pand Humberweg 5/7 maar het buurpand Rhôneweg 12 (BAG 0363100012075700, bijeenkomstfunctie, 30 x 39,7 m; de venue heette tot 2013 Rhone Warehouse); footprint daarom opnieuw gedraaid op dat pand. Buitenmuren uit BAG + luchtfoto (hoog hallendeel met twee daklichtstroken aan de noordkant, lager voorhuis aan de Rhôneweg). Indeling: trifec.one (zaal 812, ingebouwde bar, lockers, backstage, groot balkon met zicht op de vloer, binnentuin 600 m2), partyflock (Rhone Warehouse, 'De Binnenplaats', 'Black Box met groot balkon'), foto's h7.nl 2022 en intravel (podium/booth aan de kopse kant, balkon er tegenover). Binnentuin = ommuurd BAG-perceel met bijeenkomstfunctie tussen Humberweg 7 en de hal. Podium op de noordwand afgeleid uit het dak; plek van bar en lockers geschat.",
+  "bronnen": [
+   "https://h7.nl/",
+   "https://trifec.one/h7-warehouse",
+   "https://partyflock.nl/location/16534:H7-Warehouse",
+   "https://intravel.net/images/places/large/2025/05/23/31426-383619-h7-warehouse-amsterdam.webp",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Je komt binnen via Humberweg 7 en loopt over de binnentuin (rookplek) naar de hal. Podium/DJ aan de kopse kant tegenover het balkon; vanaf het balkon overzie je de hele vloer. Bar en lockers in het voorste deel (indicatief).",
+  "website": "https://h7.nl",
+  "rooms": [
+   {
+    "name": "Warehouse",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      29.9,
+      0.0
+     ],
+     [
+      30.0,
+      39.7
+     ],
+     [
+      17.4,
+      39.7
+     ],
+     [
+      17.4,
+      37.2
+     ],
+     [
+      13.9,
+      37.2
+     ],
+     [
+      13.9,
+      39.7
+     ],
+     [
+      0.0,
+      39.7
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 8.3,
+      "y": 0.5,
+      "w": 14.0,
+      "h": 4.4,
+      "label": "PODIUM / DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.0,
+        19.9
+       ],
+       [
+        30.0,
+        19.9
+       ],
+       [
+        30.0,
+        24.9
+       ],
+       [
+        0.0,
+        24.9
+       ]
+      ],
+      "dash": true,
+      "text": "BALKON (BOVEN)"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       28.9
+      ],
+      "b": [
+       0.0,
+       33.9
+      ],
+      "label": "TUIN"
+     },
+     {
+      "t": "bar",
+      "a": [
+       30.0,
+       26.9
+      ],
+      "b": [
+       30.0,
+       35.9
+      ]
+     },
+     {
+      "t": "cloak",
+      "x": 7.8,
+      "y": 34.9,
+      "label": "LOCKERS"
+     }
+    ]
+   },
+   {
+    "name": "Binnentuin (buiten)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      19.9,
+      0.0
+     ],
+     [
+      19.9,
+      25.1
+     ],
+     [
+      0.0,
+      25.1
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       0.6
+      ],
+      "b": [
+       0.0,
+       5.6
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "label",
+      "x": 6.7,
+      "y": 3.1,
+      "text": "HUMBERWEG 7",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       19.9,
+       19.1
+      ],
+      "b": [
+       19.9,
+       14.1
+      ],
+      "label": "HAL"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.0,
+        19.6
+       ],
+       [
+        19.9,
+        19.6
+       ],
+       [
+        19.9,
+        25.1
+       ],
+       [
+        0.0,
+        25.1
+       ]
+      ],
+      "dash": true,
+      "text": "OVERDEKT"
+     },
+     {
+      "t": "smoke",
+      "x": 10.2,
+      "y": 11.1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "club-raum",
+  "name": "Club RAUM",
+  "address": "Humberweg 3, 1043 AC Amsterdam",
+  "area": "Sloterdijk",
+  "lat": 52.39133,
+  "lng": 4.83105,
+  "website": "https://clubraum.nl",
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond openbaar en fotoverbod binnen. Pand uit BAG (Basisweg 35 = Humberweg 3, voormalige boekbinderij, 49 x 50 m, 2683 m2 vloer, dus maar een klein deel op een verdieping) + luchtfoto (westhelft met apart noordblok, hogere oosthal). Zalen 2026 uit het timetable van SPIELRAUM 55HRS (clubraum.nl): STUDIO, NEXUS, ARENA; bars 'Studio bar' en 'Expo bar'; café The Boutique. ADE-artikel 2026: Studio boven, Expo was de dansvloer beneden en is vervangen door Nexus (meer volume en hoogte, eigen bar en wc's, gangen). clubraum.nl/news: booth als altaar in een kathedraal-indeling. 10 Magazine (2025): Arena = amfitheater met glazen wanden, lockers en wc's in rood licht, betonnen café. Welk deel van het pand welke zaal is, en alle posities binnen, zijn geschat.",
+  "bronnen": [
+   "https://www.clubraum.nl/events/ade-spielraum-55-hrs",
+   "https://www.clubraum.nl/news/the-official-opening-of-our-new-room",
+   "https://www.amsterdam-dance-event.nl/en/news/30-years-ade-iconic-venues-club-raum-and-its-ever-evolving-community/2832422/",
+   "https://10magazine.com/club-raum-people-to-meet-club-amsterdam/",
+   "https://www.amsterdamnow.com/en/?p=83394",
+   "https://mixmag.net/read/amsterdams-club-raum-to-launch-new-room-nexus-news",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Drie dansvloeren: Studio (boven), Nexus (beneden, donker en hoog, met gangen eromheen en een eigen bar) en Arena (amfitheater met glazen wanden). Café The Boutique beneden. Geen foto's: je camera wordt afgeplakt. Roken buiten. Ligging van de zalen in het pand is geschat.",
+  "rooms": [
+   {
+    "name": "Begane grond (Nexus, Arena)",
+    "outline": [
+     [
+      49.1,
+      49.7
+     ],
+     [
+      0.1,
+      49.7
+     ],
+     [
+      0.0,
+      0.1
+     ],
+     [
+      49.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        24.0,
+        34.2
+       ],
+       [
+        0.1,
+        34.2
+       ],
+       [
+        0.1,
+        0.1
+       ],
+       [
+        24.0,
+        0.1
+       ]
+      ],
+      "dash": true,
+      "text": "NEXUS"
+     },
+     {
+      "t": "dj",
+      "x": 9.0,
+      "y": 0.9,
+      "w": 6.0,
+      "h": 3.0
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        46.0,
+        15.9
+       ],
+       [
+        33.0,
+        15.9
+       ],
+       [
+        33.0,
+        2.9
+       ],
+       [
+        46.0,
+        2.9
+       ]
+      ],
+      "dash": true,
+      "text": "ARENA"
+     },
+     {
+      "t": "bar",
+      "a": [
+       24.0,
+       26.9
+      ],
+      "b": [
+       24.0,
+       18.9
+      ],
+      "side": -1,
+      "label": "EXPO BAR"
+     },
+     {
+      "t": "label",
+      "x": 38.0,
+      "y": 26.9,
+      "text": "BOUTIQUE",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 40.5,
+      "y": 35.9,
+      "text": "LOCKERS + WC",
+      "size": 18
+     },
+     {
+      "t": "stairs",
+      "x": 28.0,
+      "y": 43.9,
+      "label": "TRAP ↑ STUDIO"
+     },
+     {
+      "t": "in",
+      "a": [
+       40.0,
+       49.7
+      ],
+      "b": [
+       34.0,
+       49.7
+      ],
+      "label": "IN"
+     }
+    ]
+   },
+   {
+    "name": "Studio (boven)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      25.1,
+      0.0
+     ],
+     [
+      25.1,
+      15.5
+     ],
+     [
+      0.0,
+      15.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 10.1,
+      "y": 0.5,
+      "w": 5.0,
+      "h": 2.0
+     },
+     {
+      "t": "bar",
+      "a": [
+       4.1,
+       15.5
+      ],
+      "b": [
+       14.1,
+       15.5
+      ],
+      "side": -1,
+      "label": "STUDIO BAR"
+     },
+     {
+      "t": "stairs",
+      "x": 21.6,
+      "y": 12.3,
+      "label": "TRAP ↓"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bret",
+  "name": "BRET",
+  "address": "Orlyplein 76, 1043 DP Amsterdam",
+  "area": "Sloterdijk",
+  "lat": 52.38985,
+  "lng": 4.83676,
+  "website": "https://bret.bar",
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond openbaar. Pand uit BAG (Orlyplein 76, 12,2 x 12,1 m, 277 m2 over twee lagen) + luchtfoto: rode containerkubus, luifel met BRET-letters aan de zuidkant (biertuin met picknicktafels), aanbouw aan de westkant, dakterras midden op het dak. bret.bar: club in het weekend, garderobe of locker verplicht, roken alleen buiten, dakterras met glazen wanden, biertuin als amfitheater. Video (YouTube, Sven Väth @ BRET): één clubzaal met vide en een galerij erboven, booth midden tussen het publiek. Plek van DJ, bar, galerij en trap geschat.",
+  "bronnen": [
+   "https://www.bret.bar/club",
+   "https://www.bret.bar/entry-house-rules",
+   "https://www.bret.bar/copy-of-muto-studio",
+   "https://www.bret.bar/copy-of-muto-studio-3",
+   "https://www.technoairlines.com/club/bret",
+   "https://www.amsterdamnow.com/en/restaurants/bret-amsterdam-sloterdijk-craftbier-restaurant-club/",
+   "https://www.youtube.com/watch?v=J95wfv2RsHM",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Klein: één clubzaal in de rode containerkubus, met een galerij boven de vloer. Ingang aan de biertuinkant onder de luifel; garderobe of locker is verplicht. Roken buiten in de biertuin. Posities binnen indicatief.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      12.2,
+      0.0
+     ],
+     [
+      12.2,
+      12.1
+     ],
+     [
+      0.0,
+      12.1
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 4.1,
+      "y": 0.6,
+      "w": 4.0,
+      "h": 1.6
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        9.2,
+        0.0
+       ],
+       [
+        12.2,
+        0.0
+       ],
+       [
+        12.2,
+        12.1
+       ],
+       [
+        9.2,
+        12.1
+       ]
+      ],
+      "dash": true,
+      "text": "GALERIJ"
+     },
+     {
+      "t": "bar",
+      "a": [
+       0.0,
+       4.3
+      ],
+      "b": [
+       0.0,
+       10.3
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       3.4,
+       12.1
+      ],
+      "b": [
+       7.4,
+       12.1
+      ],
+      "label": "IN / BIERTUIN"
+     },
+     {
+      "t": "stairs",
+      "x": 10.7,
+      "y": 10.7,
+      "label": "TRAP"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "warehouse-elementenstraat",
+  "name": "Warehouse Elementenstraat",
+  "address": "Elementenstraat 25, 1014 AR Amsterdam",
+  "area": "Westpoort",
+  "lat": 52.39397,
+  "lng": 4.85148,
+  "website": "https://www.elementenstraat.nl",
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond openbaar (elementenstraat.nl heeft alleen events, about en gallery). Pand uit BAG (Isolatorweg 36 / Elementenstraat 25, 81 x 52 m, 7827 m2 vloer over meerdere lagen, deels kantoor) + luchtfoto. elementenstraat.nl/about en amsterdamnow: in 2014 gestript tot een 'modular concrete maze' met meerdere zalen, 3000 bezoekers; iamsterdam: vier zalen, ca. 2500; zaalnamen wisselen per event (Intercell: Core/Vortex/Nano, elders 'Main room'). Sinds 2023 zit ook AMAZE (ID&T, acht belevingsruimtes) op Elementenstraat 25. Daarom alleen het pand met ingang getekend en de zalen niet ingedeeld. Ingang bij het adrespunt aan de Elementenstraat; rookplein = buitenterrein in de zuidoosthoek (luchtfoto), niet bevestigd.",
+  "bronnen": [
+   "https://elementenstraat.nl/about",
+   "https://elementenstraat.nl/terms-conditions",
+   "https://elementenstraat.nl/events",
+   "https://www.iamsterdam.com/uit/agenda/nachtleven/clubbing/warehouse-elementenstraat",
+   "https://www.amsterdamnow.com/en/uitgaan/the-warehouse-elementenstraat-nachtclub-sloterdijk/",
+   "https://www.amsterdamnow.com/en/uitgaan/amaze-by-idt-audiovisuele-belevenis/",
+   "https://festivalfans.nl/event/intercell-indoor/",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Groot betonnen complex (oude pindabranderij) met drie à vier zalen die per event anders heten en anders worden ingedeeld: check het timetable van je event. Ingang aan de Elementenstraat, lockers aanwezig, roken alleen buiten. Indeling binnen onbekend.",
+  "rooms": [
+   {
+    "name": "Warehouse (alle zalen)",
+    "outline": [
+     [
+      4.8,
+      80.8
+     ],
+     [
+      51.8,
+      79.5
+     ],
+     [
+      50.0,
+      14.4
+     ],
+     [
+      30.1,
+      14.9
+     ],
+     [
+      29.7,
+      0.0
+     ],
+     [
+      0.0,
+      0.8
+     ],
+     [
+      2.0,
+      80.9
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       35.8,
+       80.0
+      ],
+      "b": [
+       29.8,
+       80.0
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "label",
+      "x": 26.3,
+      "y": 38.1,
+      "text": "3-4 ZALEN",
+      "size": 26
+     },
+     {
+      "t": "label",
+      "x": 26.3,
+      "y": 42.6,
+      "text": "INDELING PER EVENT",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       36.3,
+       14.6
+      ],
+      "b": [
+       42.3,
+       14.6
+      ],
+      "label": "ROKEN"
+     }
+    ]
+   }
+  ]
+ }
+]

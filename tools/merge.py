@@ -43,10 +43,14 @@ for b in BATCHES:
         if not v.get('rooms'): errs.append(f'{v["name"]}: geen zalen'); continue
         for r in v['rooms']: check_room(v['name'], r, errs)
         if vid in venues:
-            # hoogste confidence wint; bij gelijk het latere bestand
+            # precisie-batches (stap 1-2: BAG + echte plattegronden) winnen altijd;
+            # verder wint de hoogste confidence, bij gelijk het latere bestand
             RANK = {'hoog': 3, 'middel': 2, 'laag': 1}
             old = venues[vid]
-            if RANK.get(old.get('confidence'), 0) > RANK.get(v.get('confidence'), 0):
+            is_prec = os.path.basename(b).startswith('precisie')
+            if not is_prec and seen[vid].startswith('precisie'):
+                continue
+            if not is_prec and RANK.get(old.get('confidence'), 0) > RANK.get(v.get('confidence'), 0):
                 print('dubbel:', vid, '(', os.path.basename(b), 'verliest van', seen[vid], ')'); continue
             print('dubbel:', vid, '(', seen[vid], '->', os.path.basename(b), ')')
         venues[vid] = v; seen[vid] = os.path.basename(b)

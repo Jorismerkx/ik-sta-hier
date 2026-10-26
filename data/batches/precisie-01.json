@@ -1,0 +1,1057 @@
+[
+ {
+  "id": "shelter",
+  "name": "Shelter",
+  "address": "Overhoeksplein 3, 1031 KS Amsterdam",
+  "area": "Noord",
+  "lat": 52.3843,
+  "lng": 4.9014,
+  "website": "https://www.shelteramsterdam.nl",
+  "source": "Geen plattegrond openbaar; de club ligt in de kelder naast/onder de A'DAM Toren (KIVI-presentaties 2015: 'kelder - club' onder de plint, plafond ca. 2,9 m), dus de BAG-omtrek van de toren is geen clubmuur. Indeling uit beschrijvingen: DJ Mag 2026 (twee Funktion-One-zalen Club en Restroom, lage plafonds, centrale booth, 360-graden LED-plafond, 1000 cap.), LSI (vier speakerpunten rond de dansvloer, ruimte naast/achter de DJ, speakers bij de bar, rookruimte en toiletten), shelteramsterdam.nl (luik op het Overhoeksplein, kluisjes, rookruimte). Maten en posities van bar, wc en rookruimte geschat.",
+  "confidence": "laag",
+  "note": "Ingang via het opengeklapte luik op het Overhoeksplein, daarna trap en gang naar beneden. Club: DJ-booth centraal voor de dansvloer onder het LED-plafond. Restroom is de kleine tweede zaal (sinds 2024). Geen telefoons op de dansvloer. Let op: indeling geschat, alleen DJ-booth en LED-plafond zijn zeker.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      24,
+      0
+     ],
+     [
+      24,
+      20
+     ],
+     [
+      0,
+      20
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 10.5,
+      "y": 1.6,
+      "w": 3,
+      "h": 2
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        4.5,
+        4.5
+       ],
+       [
+        19.5,
+        4.5
+       ],
+       [
+        19.5,
+        15
+       ],
+       [
+        4.5,
+        15
+       ]
+      ],
+      "text": "DANSVLOER",
+      "dash": true
+     },
+     {
+      "t": "bar",
+      "a": [
+       24,
+       6
+      ],
+      "b": [
+       24,
+       15
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       3,
+       20
+      ],
+      "b": [
+       7,
+       20
+      ],
+      "label": "TRAP NAAR LUIK"
+     },
+     {
+      "t": "wc",
+      "x": 11,
+      "y": 18.3
+     },
+     {
+      "t": "label",
+      "x": 16,
+      "y": 18.3,
+      "text": "KLUISJES",
+      "size": 18
+     },
+     {
+      "t": "smoke",
+      "x": 21.5,
+      "y": 18.3
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       1.5
+      ],
+      "b": [
+       0,
+       4
+      ],
+      "side": -1,
+      "label": "RESTROOM"
+     }
+    ]
+   },
+   {
+    "name": "Restroom",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      11,
+      0
+     ],
+     [
+      11,
+      8
+     ],
+     [
+      0,
+      8
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 4,
+      "y": 0.8,
+      "w": 3,
+      "h": 1.6
+     },
+     {
+      "t": "in",
+      "a": [
+       4,
+       8
+      ],
+      "b": [
+       7,
+       8
+      ],
+      "label": "NAAR CLUB"
+     }
+    ]
+   }
+  ],
+  "photo": true,
+  "capacity": 1000,
+  "basis": "schatting",
+  "bronnen": [
+   "https://shelteramsterdam.nl/",
+   "https://shelteramsterdam.nl/faq",
+   "https://shelteramsterdam.nl/contact",
+   "https://lsionline.co.uk/news/shelter-raises-the-game-with-funktion-one",
+   "https://djmag.com/top100clubs/2026/90/shelter-amsterdam",
+   "https://mixmag.net/read/amsterdam-club-shelter-reopen-month-long-renovation-work-news",
+   "https://kivi.nl/_Resources/Persistent/e/9/b/c/e9bc776aac349ef98789f303f82efc25caec02f9/DGMR%20-%20KIVI%20Bouw%20-%20A%27DAM%20Toren.pdf",
+   "https://www.locaties.nl/en-US/space/vault_amsterdam-203845"
+  ],
+  "aka": "A'DAM Toren"
+ },
+ {
+  "id": "the-loft-adam",
+  "name": "The Loft",
+  "address": "Overhoeksplein 1, 1031 KS Amsterdam",
+  "area": "Noord",
+  "website": "https://theloftamsterdam.com",
+  "source": "Buitenmaat en kern uit het stramien van architectentekening T-99-20 van de A'DAM Toren (torenschacht 14 x 1,75 m = 24,5 m, kern stramien 5-11 x E-K, ca. 10,5 x 10,5 m; zelfde kern loopt door alle verdiepingen). A'DAM Events-brochure: 400 m2, hoogte 7 m en 3 m, 50-450 personen, 16e alleen in zijn geheel te huur. DJ voor de 7 m hoge ramen uit eventfoto's (A'DAM Events 2025, brochure). Geen plattegrond van de 16e gevonden.",
+  "confidence": "laag",
+  "note": "16e verdieping (Madam is de 20e). Met de lift van de torenlobby naar boven; de liftkern staat midden op de vloer. De DJ staat voor de 7 m hoge ramen aan de stadskant (uitzicht op IJ en Centraal), daar is het plafond dubbelhoog. Achter de kern is het plafond laag (17e verdieping erboven). Barposities wisselen per event en zijn niet getekend. Alleen open op eventdagen (vooral ADE).",
+  "rooms": [
+   {
+    "name": "The Loft (16e verdieping)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      24.5,
+      0
+     ],
+     [
+      24.5,
+      24.5
+     ],
+     [
+      0,
+      24.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        7.02,
+        7.0
+       ],
+       [
+        17.43,
+        7.0
+       ],
+       [
+        17.43,
+        17.5
+       ],
+       [
+        7.02,
+        17.5
+       ]
+      ],
+      "text": "LIFTEN"
+     },
+     {
+      "t": "dj",
+      "x": 10.75,
+      "y": 0.7,
+      "w": 3.0,
+      "h": 1.5
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.4,
+        0.4
+       ],
+       [
+        24.1,
+        0.4
+       ],
+       [
+        24.1,
+        6.4
+       ],
+       [
+        0.4,
+        6.4
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 12.25,
+      "y": 4.6,
+      "text": "VIDE 7 M + HOGE RAMEN",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 12.25,
+      "y": 21.0,
+      "text": "LAAG PLAFOND (17E BOVEN)",
+      "size": 18
+     }
+    ]
+   }
+  ],
+  "aka": "A'DAM Toren",
+  "lat": 52.38362,
+  "lng": 4.90225,
+  "photo": true,
+  "capacity": 450,
+  "basis": "schatting",
+  "bronnen": [
+   "https://www.locaties.nl/media/2chj24c3/adam-toren_t-99-20_20e-verdieping.pdf",
+   "https://adam-events.nl/ruimtes/the-loft/",
+   "https://www.locaties.nl/media/lbaafq4s/theloft-party.pdf",
+   "https://www.locaties.nl/en-US/space/the_loft-32088",
+   "https://www.archilovers.com/projects/191690/the-loft.html",
+   "https://kivi.nl/_Resources/Persistent/5/6/d/9/56d999510202dc8c0ccf5cdb7aba9a9bceaaaae4/JPvanEesteren%20-%20ADAM%20presentatie%20stichting%20hoogbouw.pdf"
+  ]
+ },
+ {
+  "id": "madam",
+  "name": "Madam",
+  "address": "Overhoeksplein 5, 1031 KS Amsterdam",
+  "area": "Noord",
+  "website": "https://www.madamamsterdam.nl",
+  "source": "Gevel (29 x 29 m, diagonaal gedraaid), kern met liften en toiletten, bar en VR-ruimte overgetrokken van architectentekening T-99-20 '20e verdieping - Panoramadeck' (Claus en Kaan / OeverZaaijer, 19-10-2022, 1:50) zoals gepubliceerd op locaties.nl. DJ-plek tegenover de bar bij het raam afgeleid uit Madam-by-Night-foto's (madamamsterdam.nl, 2026); de tekening zelf toont geen DJ.",
+  "confidence": "hoog",
+  "note": "Madam by Night (vr/za) gaat via de ingang IJpromenade 4 met de lift naar de 20e; je stapt uit naast de lange bar. Daar tussen de bar en de DJ bij het raam is de dansvloer. De toiletten zitten aan de andere kant van de liftkern. Let op: The Loft is de 16e, Madam de 20e verdieping. DJ-plek uit foto's afgeleid.",
+  "rooms": [
+   {
+    "name": "Skybar & dansvloer (20e)",
+    "outline": [
+     [
+      20.27,
+      40.54
+     ],
+     [
+      0.0,
+      20.27
+     ],
+     [
+      20.27,
+      0.0
+     ],
+     [
+      40.54,
+      20.27
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        25.54,
+        31.54
+       ],
+       [
+        24.22,
+        33.13
+       ],
+       [
+        16.37,
+        33.13
+       ],
+       [
+        15.05,
+        31.8
+       ],
+       [
+        15.05,
+        28.72
+       ],
+       [
+        12.05,
+        28.72
+       ],
+       [
+        11.34,
+        28.01
+       ],
+       [
+        11.34,
+        14.87
+       ],
+       [
+        25.54,
+        14.87
+       ]
+      ],
+      "text": "KERN"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        11.34,
+        24.66
+       ],
+       [
+        8.96,
+        25.63
+       ],
+       [
+        6.4,
+        22.98
+       ],
+       [
+        11.34,
+        17.96
+       ]
+      ],
+      "text": "VR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       25.77,
+       12.12
+      ],
+      "b": [
+       15.28,
+       12.12
+      ],
+      "side": 1
+     },
+     {
+      "t": "bar",
+      "a": [
+       25.53,
+       14.43
+      ],
+      "b": [
+       25.53,
+       12.12
+      ],
+      "label": " "
+     },
+     {
+      "t": "dj",
+      "x": 18.77,
+      "y": 2.61,
+      "w": 3.0,
+      "h": 1.5
+     },
+     {
+      "t": "label",
+      "x": 20.27,
+      "y": 6.32,
+      "text": "DANSVLOER",
+      "size": 20
+     },
+     {
+      "t": "in",
+      "a": [
+       12.14,
+       14.87
+      ],
+      "b": [
+       13.99,
+       14.87
+      ],
+      "side": 1,
+      "label": "LIFT"
+     },
+     {
+      "t": "wc",
+      "x": 20.27,
+      "y": 34.72
+     }
+    ]
+   }
+  ],
+  "aka": "A'DAM Toren",
+  "lat": 52.38377,
+  "lng": 4.90214,
+  "photo": true,
+  "capacity": 500,
+  "basis": "plattegrond",
+  "bronnen": [
+   "https://www.locaties.nl/media/2chj24c3/adam-toren_t-99-20_20e-verdieping.pdf",
+   "https://www.locaties.nl/en-US/space/madam-203825",
+   "https://www.locaties.nl/media/x3ufsxqq/plattegrond_tafelindeling_madam.pdf",
+   "https://madamamsterdam.nl/madam-by-night/",
+   "https://madamamsterdam.nl/groups/",
+   "https://madamamsterdam.nl/visit/",
+   "https://kivi.nl/_Resources/Persistent/4/8/c/5/48c599d6c32b299f9a51c22f217a06c8668f41bc/RoyalHaskoning-%20Amsterdam%20Overhoeks%20KIVI%2022%20oktober%202015.pdf"
+  ]
+ },
+ {
+  "id": "tolhuistuin",
+  "name": "Tolhuistuin",
+  "address": "IJpromenade 2, 1031 KT Amsterdam",
+  "area": "Noord",
+  "lat": 52.3838,
+  "lng": 4.9036,
+  "website": "https://tolhuistuin.nl",
+  "source": "Club en Balkon overgetrokken van de officiele Paradiso-plattegrond 'Tolhuistuin - Club, nights' (apr 2022, schaal 1:100, maten in meters omgerekend) en gecheckt met de concertversie, rider mei 2026 (podium 1 m hoog, 550 staand) en tolhuistuin.nl (zaal 12 x 22 x 7 m). Zonzij (14 x 14 m, podium 6 x 4 m) en Tuin indicatief.",
+  "confidence": "hoog",
+  "note": "Club: je komt binnen via de foyer, rechts achterin. DJ staat op het 1 m hoge podium, midden voorin. De bar zit links achterin onder het balkon, de FOH-tafel midden achter. Het balkon loopt in een U langs beide zijkanten en de achterwand; trappen langs beide zijmuren en rechts achterin. Clubnachten zijn van Paradiso en Parallel. Zonzij (alleen zittende shows) en Tuin (mei-sept) zijn indicatief getekend.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      12.12,
+      0
+     ],
+     [
+      12.12,
+      22.0
+     ],
+     [
+      0,
+      22.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 0,
+      "y": 0,
+      "w": 12.12,
+      "h": 6.49,
+      "label": " "
+     },
+     {
+      "t": "dj",
+      "x": 3.83,
+      "y": 3.09,
+      "w": 4.53,
+      "h": 3.4
+     },
+     {
+      "t": "label",
+      "x": 6.06,
+      "y": 1.5,
+      "text": "PODIUM",
+      "size": 22
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0,
+        8.7
+       ],
+       [
+        2.19,
+        8.7
+       ],
+       [
+        2.19,
+        17.17
+       ],
+       [
+        9.93,
+        17.17
+       ],
+       [
+        9.93,
+        8.7
+       ],
+       [
+        12.12,
+        8.7
+       ],
+       [
+        12.12,
+        22.0
+       ],
+       [
+        0,
+        22.0
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 6.06,
+      "y": 16.47,
+      "text": "BALKONRAND",
+      "size": 18
+     },
+     {
+      "t": "bar",
+      "a": [
+       0,
+       20.17
+      ],
+      "b": [
+       3.45,
+       20.17
+      ],
+      "side": -1
+     },
+     {
+      "t": "dj",
+      "x": 4.96,
+      "y": 17.73,
+      "w": 2.28,
+      "h": 1.28,
+      "label": "FOH"
+     },
+     {
+      "t": "stairs",
+      "x": 1.25,
+      "y": 11.96
+     },
+     {
+      "t": "stairs",
+      "x": 10.87,
+      "y": 11.96
+     },
+     {
+      "t": "stairs",
+      "x": 9.36,
+      "y": 21.15
+     },
+     {
+      "t": "in",
+      "a": [
+       12.12,
+       15.37
+      ],
+      "b": [
+       12.12,
+       18.82
+      ],
+      "side": -1,
+      "label": "FOYER"
+     }
+    ]
+   },
+   {
+    "name": "Balkon",
+    "outline": [
+     [
+      0,
+      8.7
+     ],
+     [
+      2.19,
+      8.7
+     ],
+     [
+      2.19,
+      17.17
+     ],
+     [
+      9.93,
+      17.17
+     ],
+     [
+      9.93,
+      8.7
+     ],
+     [
+      12.12,
+      8.7
+     ],
+     [
+      12.12,
+      22.0
+     ],
+     [
+      0,
+      22.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 0,
+      "y": 0,
+      "w": 12.12,
+      "h": 6.49,
+      "label": " "
+     },
+     {
+      "t": "dj",
+      "x": 3.83,
+      "y": 3.09,
+      "w": 4.53,
+      "h": 3.4
+     },
+     {
+      "t": "label",
+      "x": 6.06,
+      "y": 1.5,
+      "text": "PODIUM",
+      "size": 22
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       0
+      ],
+      "b": [
+       0,
+       8.7
+      ],
+      "dash": true
+     },
+     {
+      "t": "line",
+      "a": [
+       12.12,
+       0
+      ],
+      "b": [
+       12.12,
+       8.7
+      ],
+      "dash": true
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       0
+      ],
+      "b": [
+       12.12,
+       0
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 6.06,
+      "y": 12.94,
+      "text": "VIDE (DANSVLOER)",
+      "size": 20
+     },
+     {
+      "t": "stairs",
+      "x": 1.1,
+      "y": 11.96
+     },
+     {
+      "t": "stairs",
+      "x": 11.02,
+      "y": 11.96
+     },
+     {
+      "t": "stairs",
+      "x": 9.36,
+      "y": 21.15
+     }
+    ]
+   },
+   {
+    "name": "Zonzij",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      14,
+      0
+     ],
+     [
+      14,
+      14
+     ],
+     [
+      0,
+      14
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 4,
+      "y": 0.4,
+      "w": 6,
+      "h": 4
+     },
+     {
+      "t": "bar",
+      "a": [
+       14,
+       6.5
+      ],
+      "b": [
+       14,
+       10.5
+      ],
+      "side": 1
+     },
+     {
+      "t": "line",
+      "a": [
+       13.6,
+       0.5
+      ],
+      "b": [
+       13.6,
+       6
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 11.6,
+      "y": 5.0,
+      "text": "RAMEN TUIN",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       2,
+       14
+      ],
+      "b": [
+       5,
+       14
+      ],
+      "label": "FOYER"
+     }
+    ]
+   },
+   {
+    "name": "Tuin",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      40,
+      0
+     ],
+     [
+      40,
+      48
+     ],
+     [
+      0,
+      48
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 14,
+      "y": 1.5,
+      "w": 12,
+      "h": 6,
+      "label": "PODIUM"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        27,
+        26
+       ],
+       [
+        39,
+        26
+       ],
+       [
+        39,
+        36
+       ],
+       [
+        27,
+        36
+       ]
+      ],
+      "text": "TUINHUIS"
+     },
+     {
+      "t": "bar",
+      "a": [
+       27,
+       36
+      ],
+      "b": [
+       35,
+       36
+      ],
+      "side": 1
+     },
+     {
+      "t": "label",
+      "x": 15,
+      "y": 30,
+      "text": "TERRAS",
+      "size": 20
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       38
+      ],
+      "b": [
+       0,
+       46
+      ],
+      "side": -1,
+      "label": "PAVILJOEN"
+     }
+    ]
+   }
+  ],
+  "aka": "Paradiso Noord",
+  "photo": true,
+  "capacity": 550,
+  "basis": "plattegrond",
+  "bronnen": [
+   "https://www.paradiso.nl/en/info/specs-paradiso-venues/venue-specs-for-tolhuistuin",
+   "https://assets.paradiso.nl/images/info/Tolhuistuin_Layout_Club_bynight_2204.pdf",
+   "https://assets.paradiso.nl/images/info/Tolhuistuin_Layout_Club_concerts_2204.pdf",
+   "https://assets.paradiso.nl/downloads/Tolhuistuin-Rider-2026-V2.pdf",
+   "https://assets.paradiso.nl/downloads/floor.jpg",
+   "https://assets.paradiso.nl/downloads/balcony.jpg",
+   "https://tolhuistuin.nl/verhuur/concertzaal",
+   "https://tolhuistuin.nl/verhuur/tuinzaal",
+   "https://tolhuistuin.nl/verhuur/tuin"
+  ]
+ },
+ {
+  "id": "nxt-museum",
+  "name": "Nxt Museum",
+  "address": "Asterweg 22, 1031 HP Amsterdam",
+  "area": "Noord",
+  "website": "https://nxtmuseum.com",
+  "source": "Zaalmaten uit iamsterdam venue finder (Nxt Stage 359 m2, 21,3 x 12,7 m, 8,5 m hoog; Entrance Hall 128 m2, 25 x 4,5 m; hele museum 1300 m2, 2000 pers.) en nxtmuseum.com (Stage 400 staand). BAG: hoofdhal ca. 43,6 x 30,4 m plus smalle aanbouw aan de Asterweg, maar de plek van de Stage in de hal is niet bekend. DJ voor de lange projectiewand uit eventfoto's; verbinding Entreehal-Stage geschat. Venue-hire-brochure (PDF) gaf 403.",
+  "confidence": "laag",
+  "note": "Clubnachten (ADE) in de Nxt Stage, een zwarte doos van 8,5 m hoog met projecties op wand en vloer; de DJ staat voor de grote projectiewand. Je komt binnen via de lange Entreehal met LED-wand aan de Asterweg. Plek van bars en de route door het museum zijn niet bekend (indeling geschat).",
+  "rooms": [
+   {
+    "name": "Nxt Stage",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      21.3,
+      0
+     ],
+     [
+      21.3,
+      12.7
+     ],
+     [
+      0,
+      12.7
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 9.15,
+      "y": 0.9,
+      "w": 3,
+      "h": 1.6
+     },
+     {
+      "t": "line",
+      "a": [
+       0.4,
+       0.35
+      ],
+      "b": [
+       20.9,
+       0.35
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 4.6,
+      "y": 1.6,
+      "text": "PROJECTIEWAND",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       8.6,
+       12.7
+      ],
+      "b": [
+       12.7,
+       12.7
+      ],
+      "label": "NAAR ENTREEHAL"
+     }
+    ]
+   },
+   {
+    "name": "Entreehal",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      4.5,
+      0
+     ],
+     [
+      4.5,
+      25
+     ],
+     [
+      0,
+      25
+     ]
+    ],
+    "features": [
+     {
+      "t": "line",
+      "a": [
+       0.3,
+       0.35
+      ],
+      "b": [
+       4.2,
+       0.35
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 2.25,
+      "y": 1.6,
+      "text": "LED-WAND",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       4.5,
+       3
+      ],
+      "b": [
+       4.5,
+       6.5
+      ],
+      "side": -1,
+      "label": "NAAR STAGE"
+     },
+     {
+      "t": "in",
+      "a": [
+       1,
+       25
+      ],
+      "b": [
+       3.5,
+       25
+      ],
+      "label": "IN (ASTERWEG)"
+     }
+    ]
+   }
+  ],
+  "lat": 52.39119,
+  "lng": 4.90404,
+  "photo": true,
+  "basis": "schatting",
+  "bronnen": [
+   "https://www.iamsterdam.com/en/conventions/venue-finder/nxt-museum",
+   "https://nxtmuseum.com/b2b/plan-an-event/",
+   "https://nxtmuseum.com/ade/",
+   "http://nxtmuseum.com/ade-house-rules"
+  ]
+ }
+]

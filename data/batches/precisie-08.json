@@ -1,0 +1,1701 @@
+[
+ {
+  "id": "paradiso",
+  "name": "Paradiso",
+  "address": "Weteringschans 6-8, 1017 SG Amsterdam",
+  "area": "Centrum",
+  "lat": 52.3624,
+  "lng": 4.8838,
+  "website": "https://www.paradiso.nl",
+  "note": "Grote Zaal: je komt binnen via de hal achterin, het podium staat voorin in de ronde apsis. Links en rechts loopt een verhoging; de bar staat rechtsachter op de verhoging, de mengtafel (FOH) linksachter. Balkon via de trappen achter de zaal (alleen open bij uitverkochte shows), met eigen balkonbar. Bovenzaal: 1e verdieping, deur links naast de lift, DJ en mengtafel achterin links, bar achterin. Kelder: café voor en na concerten, soms clubzaal. Roken alleen buiten (stempel vragen bij de portier).",
+  "rooms": [
+   {
+    "name": "Grote Zaal",
+    "outline": [
+     [
+      7.1,
+      10.5
+     ],
+     [
+      11.4,
+      10.5
+     ],
+     [
+      15.3,
+      7.4
+     ],
+     [
+      19.7,
+      4.8
+     ],
+     [
+      24.3,
+      2.7
+     ],
+     [
+      29.1,
+      1.2
+     ],
+     [
+      34.1,
+      0.3
+     ],
+     [
+      39.2,
+      0.0
+     ],
+     [
+      44.2,
+      0.3
+     ],
+     [
+      49.2,
+      1.2
+     ],
+     [
+      54.0,
+      2.7
+     ],
+     [
+      58.6,
+      4.8
+     ],
+     [
+      63.0,
+      7.4
+     ],
+     [
+      67.0,
+      10.5
+     ],
+     [
+      78.5,
+      10.5
+     ],
+     [
+      78.5,
+      100.0
+     ],
+     [
+      50.7,
+      100.0
+     ],
+     [
+      50.7,
+      94.0
+     ],
+     [
+      28.1,
+      94.0
+     ],
+     [
+      28.1,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ],
+     [
+      0.0,
+      23.6
+     ],
+     [
+      7.1,
+      23.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 17.6,
+      "y": 6.8,
+      "w": 43.2,
+      "h": 16.8
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        0.0,
+        23.6
+       ],
+       [
+        15.5,
+        23.6
+       ],
+       [
+        15.5,
+        55.7
+       ],
+       [
+        14.3,
+        57.0
+       ],
+       [
+        0.0,
+        57.0
+       ]
+      ]
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        63.0,
+        23.6
+       ],
+       [
+        78.5,
+        23.6
+       ],
+       [
+        78.5,
+        57.0
+       ],
+       [
+        64.1,
+        57.0
+       ],
+       [
+        63.0,
+        55.7
+       ]
+      ]
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        0.0,
+        67.7
+       ],
+       [
+        21.8,
+        67.7
+       ],
+       [
+        25.0,
+        68.3
+       ],
+       [
+        27.8,
+        70.2
+       ],
+       [
+        29.6,
+        72.9
+       ],
+       [
+        30.2,
+        76.1
+       ],
+       [
+        30.2,
+        86.7
+       ],
+       [
+        28.7,
+        94.0
+       ],
+       [
+        28.1,
+        94.0
+       ],
+       [
+        28.1,
+        100.0
+       ],
+       [
+        0.0,
+        100.0
+       ]
+      ]
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        78.5,
+        67.7
+       ],
+       [
+        56.7,
+        67.7
+       ],
+       [
+        53.5,
+        68.3
+       ],
+       [
+        50.7,
+        70.2
+       ],
+       [
+        48.9,
+        72.9
+       ],
+       [
+        48.2,
+        76.1
+       ],
+       [
+        48.2,
+        86.7
+       ],
+       [
+        49.8,
+        94.0
+       ],
+       [
+        50.7,
+        94.0
+       ],
+       [
+        50.7,
+        100.0
+       ],
+       [
+        78.5,
+        100.0
+       ]
+      ]
+     },
+     {
+      "t": "label",
+      "x": 7.8,
+      "y": 40.5,
+      "text": "VERHOGING",
+      "size": 15
+     },
+     {
+      "t": "label",
+      "x": 70.7,
+      "y": 40.5,
+      "text": "VERHOGING",
+      "size": 15
+     },
+     {
+      "t": "bar",
+      "a": [
+       69.7,
+       71.6
+      ],
+      "b": [
+       69.7,
+       90.4
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "bar",
+      "a": [
+       54.2,
+       90.4
+      ],
+      "b": [
+       69.7,
+       90.4
+      ],
+      "side": -1,
+      "label": " "
+     },
+     {
+      "t": "dj",
+      "x": 12.7,
+      "y": 85.1,
+      "w": 15.1,
+      "h": 4.8,
+      "label": "FOH"
+     },
+     {
+      "t": "in",
+      "a": [
+       29.2,
+       94.0
+      ],
+      "b": [
+       49.5,
+       94.0
+      ],
+      "side": 1,
+      "label": "IN (HAL)"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       59.0
+      ],
+      "b": [
+       0.0,
+       65.8
+      ],
+      "side": 1,
+      "label": "NOOD"
+     }
+    ]
+   },
+   {
+    "name": "Balkon Grote Zaal (1e verdieping)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      22.4,
+      0.0
+     ],
+     [
+      22.4,
+      71.6
+     ],
+     [
+      45.6,
+      71.6
+     ],
+     [
+      46.1,
+      69.5
+     ],
+     [
+      47.7,
+      67.8
+     ],
+     [
+      49.9,
+      67.3
+     ],
+     [
+      52.1,
+      67.8
+     ],
+     [
+      53.7,
+      69.5
+     ],
+     [
+      54.3,
+      71.6
+     ],
+     [
+      77.4,
+      71.6
+     ],
+     [
+      77.4,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      100.0,
+      97.3
+     ],
+     [
+      0.0,
+      97.3
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 22.4,
+      "y": -16.7,
+      "w": 55.0,
+      "h": 16.7,
+      "label": "PODIUM"
+     },
+     {
+      "t": "label",
+      "x": 49.9,
+      "y": 35.4,
+      "text": "VIDE (ZAAL)",
+      "size": 20
+     },
+     {
+      "t": "label",
+      "x": 11.2,
+      "y": 35.4,
+      "text": "BALKON",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 88.7,
+      "y": 35.4,
+      "text": "BALKON",
+      "size": 16
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       84.3
+      ],
+      "b": [
+       100.0,
+       84.3
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 49.9,
+      "y": 90.4,
+      "text": "2E BALKON (HOGER)",
+      "size": 15
+     },
+     {
+      "t": "in",
+      "a": [
+       2.6,
+       97.3
+      ],
+      "b": [
+       15.5,
+       97.3
+      ],
+      "side": 1,
+      "label": "TRAP"
+     },
+     {
+      "t": "in",
+      "a": [
+       84.5,
+       97.3
+      ],
+      "b": [
+       97.4,
+       97.3
+      ],
+      "side": 1,
+      "label": "TRAP"
+     }
+    ]
+   },
+   {
+    "name": "Kleine Zaal (Bovenzaal, 1e verdieping)",
+    "outline": [
+     [
+      0.0,
+      4.2
+     ],
+     [
+      4.2,
+      0.0
+     ],
+     [
+      45.5,
+      0.0
+     ],
+     [
+      45.5,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 0.0,
+      "y": 0.0,
+      "w": 37.7,
+      "h": 25.7
+     },
+     {
+      "t": "dj",
+      "x": 0.3,
+      "y": 79.1,
+      "w": 14.9,
+      "h": 20.6,
+      "label": "DJ"
+     },
+     {
+      "t": "in",
+      "a": [
+       16.6,
+       100.0
+      ],
+      "b": [
+       29.9,
+       100.0
+      ],
+      "side": 1,
+      "label": "IN"
+     },
+     {
+      "t": "bar",
+      "a": [
+       31.5,
+       100.0
+      ],
+      "b": [
+       44.9,
+       100.0
+      ],
+      "side": -1,
+      "label": "BAR"
+     },
+     {
+      "t": "label",
+      "x": 4.3,
+      "y": 50.8,
+      "text": "RAMEN",
+      "size": 14
+     }
+    ]
+   },
+   {
+    "name": "Kelder (café / clubzaal)",
+    "outline": [
+     [
+      61.8,
+      0.0
+     ],
+     [
+      61.8,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       61.8,
+       50.5
+      ],
+      "b": [
+       61.8,
+       91.9
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       37.8,
+       100.0
+      ],
+      "b": [
+       24.5,
+       100.0
+      ],
+      "side": -1,
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       32.4
+      ],
+      "b": [
+       0.0,
+       43.0
+      ],
+      "side": 1,
+      "label": "NOOD"
+     },
+     {
+      "t": "label",
+      "x": 31.0,
+      "y": 4.1,
+      "text": "SCHERM + LIFT",
+      "size": 16
+     },
+     {
+      "t": "pillar",
+      "x": 49.2,
+      "y": 25.1
+     },
+     {
+      "t": "pillar",
+      "x": 12.9,
+      "y": 25.1
+     },
+     {
+      "t": "pillar",
+      "x": 49.2,
+      "y": 50.2
+     },
+     {
+      "t": "pillar",
+      "x": 12.9,
+      "y": 50.2
+     },
+     {
+      "t": "pillar",
+      "x": 49.2,
+      "y": 75.7
+     },
+     {
+      "t": "pillar",
+      "x": 12.9,
+      "y": 75.7
+     }
+    ]
+   }
+  ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiële zaaltekeningen van Paradiso (assets.paradiso.nl, venue specs): Main Hall layout okt 2022, Upstairs/small hall jan 2022 en Basement jan 2022, op schaal gezet met de maatlijnen (o.a. 10,25 m tussen de balkons, podium 3,20 + 2,55 m, small hall 7,31 x 11,68 m, kelder 14,40 m). Balkonrand (stippellijn) en verhogingen uit dezelfde tekening. Houserider maart 2025 (1500 / 210, podium 9,8 x 5,75 m) en toegankelijkheidspagina (balkon met balkonbar, alleen open bij uitverkochte shows; Bovenzaal-deur links naast de lift, bar achterin; kelder-café). BAG-pand (1880) bevestigt zaalbreedte ca. 20 m en de apsis aan de Singelgrachtkant. Verbouwing '100 Jaar Paradiso' (jan 2026) is nog alleen een visie; de nieuwe nachtingang rechts van het gebouw (oude fietsenkelder) is gerealiseerd. Niet op de tekeningen: plek van de balkonbar, de balkondeuren (trappenhuizen achter de zaal, links en rechts aangenomen) en de DJ-plek in de kelder.",
+  "bronnen": [
+   "https://www.paradiso.nl/en/info/specs-paradiso-venues/venue-specs-for-paradiso",
+   "https://assets.paradiso.nl/images/info/Paradiso_MainHall_Layout_22-10-1.pdf",
+   "https://assets.paradiso.nl/images/info/Paradiso_Upstairs_Hall_Layout-22-01.pdf",
+   "https://assets.paradiso.nl/images/info/Paradiso_Kelder_Layout_22-01.pdf",
+   "https://assets.paradiso.nl/downloads/Houserider-Paradiso_March-2025.pdf",
+   "https://assets.paradiso.nl/downloads/parBasement-Jan-2026.pdf",
+   "https://www.paradiso.nl/info/praktische-informatie-voor-je-bezoek-aan-de-locaties-van-paradiso/toegankelijkheid",
+   "https://www.paradiso.nl/info/praktische-informatie-voor-je-bezoek-aan-de-locaties-van-paradiso/praktische-info-voor-jouw-bezoek-aan-paradiso",
+   "https://www.paradiso.nl/info/buren/verslag-burenbijeenkomst-30-juni-2025",
+   "https://www.paradiso.nl/nieuws/vrienden-van-paradiso-ontvangen-stukje-van-het-gebouw/2892279",
+   "https://www.paradiso.nl/nieuws/paradiso-presenteert-visie-voor-renovatie-en-nieuwbouw/2819660",
+   "https://assets.paradiso.nl/downloads/2026_100_jaar_Paradiso_BidBoek-1770128070.pdf"
+  ]
+ },
+ {
+  "id": "melkweg",
+  "name": "Melkweg",
+  "address": "Lijnbaansgracht 234A, 1017 PH Amsterdam",
+  "area": "Centrum",
+  "lat": 52.36478,
+  "lng": 4.88107,
+  "website": "https://www.melkweg.nl",
+  "note": "Hoofdingang Lijnbaansgracht 234A: de Max is direct links (foyer met lockers en servicebalie), de OZ rechts. Max: lagere middenvloer met verhoogde zijkanten, balkons langs beide zijkanten en achterin (trappen in de vier hoeken), bar rechts onder het balkon. OZ: hoefijzerbalkon achterin met de trap linksachter, bar rechtsachter onder het balkon. UP zit op de 2e verdieping; de bar en lockers zitten in de foyer die UP deelt met de Cinema. Roken alleen buiten.",
+  "rooms": [
+   {
+    "name": "Max",
+    "outline": [
+     [
+      0.0,
+      24.0
+     ],
+     [
+      2.8,
+      24.0
+     ],
+     [
+      2.8,
+      0.0
+     ],
+     [
+      54.8,
+      0.0
+     ],
+     [
+      54.8,
+      24.0
+     ],
+     [
+      58.3,
+      24.0
+     ],
+     [
+      58.3,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 2.9,
+      "y": 0.0,
+      "w": 51.7,
+      "h": 24.0
+     },
+     {
+      "t": "poly",
+      "text": "DANSVLOER",
+      "pts": [
+       [
+        10.3,
+        24.0
+       ],
+       [
+        47.8,
+        24.0
+       ],
+       [
+        47.8,
+        42.0
+       ],
+       [
+        44.3,
+        47.5
+       ],
+       [
+        44.3,
+        91.0
+       ],
+       [
+        13.8,
+        91.0
+       ],
+       [
+        13.8,
+        47.5
+       ],
+       [
+        10.3,
+        42.0
+       ]
+      ]
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        0.0,
+        32.5
+       ],
+       [
+        6.8,
+        32.5
+       ],
+       [
+        9.8,
+        89.0
+       ],
+       [
+        47.8,
+        89.0
+       ],
+       [
+        51.5,
+        32.5
+       ],
+       [
+        58.3,
+        32.5
+       ],
+       [
+        58.3,
+        100.0
+       ],
+       [
+        0.0,
+        100.0
+       ]
+      ]
+     },
+     {
+      "t": "label",
+      "x": 3.4,
+      "y": 41.0,
+      "text": "BALKON",
+      "size": 14
+     },
+     {
+      "t": "label",
+      "x": 54.9,
+      "y": 41.0,
+      "text": "BALKON",
+      "size": 14
+     },
+     {
+      "t": "bar",
+      "a": [
+       51.0,
+       52.2
+      ],
+      "b": [
+       51.0,
+       81.7
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "dj",
+      "x": 23.1,
+      "y": 78.4,
+      "w": 11.1,
+      "h": 11.1,
+      "label": "FOH"
+     },
+     {
+      "t": "stairs",
+      "x": 3.2,
+      "y": 28.2,
+      "size": 16
+     },
+     {
+      "t": "stairs",
+      "x": 55.2,
+      "y": 28.2,
+      "size": 16
+     },
+     {
+      "t": "stairs",
+      "x": 2.8,
+      "y": 97.2,
+      "size": 16
+     },
+     {
+      "t": "stairs",
+      "x": 55.3,
+      "y": 97.2,
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       5.8,
+       100.0
+      ],
+      "b": [
+       12.3,
+       100.0
+      ],
+      "side": 1,
+      "label": "IN (FOYER)"
+     }
+    ]
+   },
+   {
+    "name": "OZ (Oude Zaal)",
+    "outline": [
+     [
+      12.2,
+      0.0
+     ],
+     [
+      65.8,
+      0.0
+     ],
+     [
+      68.8,
+      30.8
+     ],
+     [
+      78.1,
+      61.6
+     ],
+     [
+      78.1,
+      80.6
+     ],
+     [
+      70.5,
+      94.9
+     ],
+     [
+      62.9,
+      100.0
+     ],
+     [
+      12.2,
+      100.0
+     ],
+     [
+      0.0,
+      92.4
+     ],
+     [
+      0.0,
+      61.2
+     ],
+     [
+      9.3,
+      30.8
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 12.2,
+      "y": 0.0,
+      "w": 53.6,
+      "h": 30.8
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        0.9,
+        58.2
+       ],
+       [
+        5.1,
+        58.6
+       ],
+       [
+        15.6,
+        67.5
+       ],
+       [
+        24.1,
+        78.9
+       ],
+       [
+        34.2,
+        85.7
+       ],
+       [
+        43.5,
+        85.7
+       ],
+       [
+        52.7,
+        78.9
+       ],
+       [
+        62.9,
+        68.8
+       ],
+       [
+        73.0,
+        58.6
+       ],
+       [
+        77.0,
+        58.2
+       ],
+       [
+        78.1,
+        61.6
+       ],
+       [
+        78.1,
+        80.6
+       ],
+       [
+        70.5,
+        94.9
+       ],
+       [
+        62.9,
+        100.0
+       ],
+       [
+        12.2,
+        100.0
+       ],
+       [
+        0.0,
+        92.4
+       ],
+       [
+        0.0,
+        61.2
+       ]
+      ]
+     },
+     {
+      "t": "label",
+      "x": 39.0,
+      "y": 94.5,
+      "text": "BALKON (BOVEN)",
+      "size": 15
+     },
+     {
+      "t": "bar",
+      "a": [
+       78.1,
+       65.4
+      ],
+      "b": [
+       78.1,
+       80.2
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "stairs",
+      "x": 9.0,
+      "y": 86.9,
+      "label": "TRAP"
+     },
+     {
+      "t": "dj",
+      "x": 35.0,
+      "y": 75.7,
+      "w": 8.0,
+      "h": 10.0,
+      "label": "FOH"
+     },
+     {
+      "t": "in",
+      "a": [
+       30.8,
+       100.0
+      ],
+      "b": [
+       51.1,
+       100.0
+      ],
+      "side": 1,
+      "label": "IN (FOYER)"
+     },
+     {
+      "t": "pillar",
+      "x": 12.2,
+      "y": 54.0
+     },
+     {
+      "t": "pillar",
+      "x": 65.6,
+      "y": 54.0
+     },
+     {
+      "t": "pillar",
+      "x": 12.2,
+      "y": 82.3
+     },
+     {
+      "t": "pillar",
+      "x": 65.6,
+      "y": 82.3
+     }
+    ]
+   },
+   {
+    "name": "UP (2e verdieping)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      96.0,
+      0.0
+     ],
+     [
+      96.0,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 24.0,
+      "y": 0.0,
+      "w": 48.0,
+      "h": 32.0
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "text": "TRIBUNE",
+      "pts": [
+       [
+        4.8,
+        64.0
+       ],
+       [
+        91.2,
+        64.0
+       ],
+       [
+        91.2,
+        100.0
+       ],
+       [
+        4.8,
+        100.0
+       ]
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       96.0,
+       41.6
+      ],
+      "b": [
+       96.0,
+       54.4
+      ],
+      "side": -1,
+      "label": "IN (FOYER)"
+     }
+    ]
+   }
+  ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiële patch & views 2026-27 (melkweg.nl/technical-specs): 'THE MAX hall plot', 'THE MAX stage roof' en 'OUDE ZAAL plot' zijn bovenaanzichten met muren, balkons, trappen, FOH en pilaren. Schaal (1:80) geijkt op de house riders 2026-27: Max-podium totaal 14 x 6,5 m, OZ-podium 8 x 4,75 m met 2 x 1 m zijpodium, Max-balkons 2 x 17 m. Toegankelijkheidspagina's: Max direct links na de hoofdingang (2 bars, beide begane grond, balkon via trap), OZ rechts (1 bar begane grond, balkon ook via lift/1e verdieping), UP op de 2e verdieping (tribune, foyer met bar gedeeld met Cinema). De Max-bar rechts onder het balkon staat op de tekening; de tweede Max-bar staat niet op de tekening en is daarom niet getekend. OZ-bar rechtsachter onder het balkon volgens de foto vanaf het podium op melkweg.nl. Ingang van Max en OZ vanuit de foyer achterin aangenomen. UP: geen tekening gevonden, schematisch uit de rider (podium 6 x 4 m + 3 m zijpodium, tribune achterin).",
+  "bronnen": [
+   "https://www.melkweg.nl/nl/technical-specs/",
+   "https://assets.melkweg.nl/nova-media-library-docs/2.%20MELKWEG%20MAX%20light%20views%202026-27.pdf",
+   "https://assets.melkweg.nl/nova-media-library-docs/2.%20MELKWEG%20OZ%20light%20views%202026-27.pdf",
+   "https://assets.melkweg.nl/nova-media-library-docs/MELKWEG%20MAX%20SPECS%202026-27.pdf",
+   "https://assets.melkweg.nl/nova-media-library-docs/MELKWEG%20OZ%20SPECS%202026-27.pdf",
+   "https://assets.melkweg.nl/nova-media-library-docs/MELKWEG%20UP%20SPECS%202026-27.pdf",
+   "https://www.melkweg.nl/nl/bezoekersinfo/toegankelijkheid/",
+   "https://www.melkweg.nl/nl/bezoekersinfo/toegankelijkheid/-max/",
+   "https://www.melkweg.nl/nl/bezoekersinfo/toegankelijkheid/-oz/",
+   "https://www.melkweg.nl/nl/bezoekersinfo/toegankelijkheid/-up/",
+   "https://assets.melkweg.nl/pages/259e5413-1846-4c81-a82b-3d7b3d7c5ee8/toegankelijkheid-oz.jpg",
+   "https://www.melkweg.nl/nl/zaalverhuur/",
+   "https://www.melkweg.nl/nl/praktische-info/"
+  ]
+ },
+ {
+  "id": "chicago-social-club",
+  "name": "Chicago Social Club",
+  "address": "Leidseplein 12, 1017 PT Amsterdam",
+  "area": "Centrum",
+  "lat": 52.36464,
+  "lng": 4.8826,
+  "website": "https://chicagosocialclub.nl",
+  "note": "Voormalig Leidsepleintheater. Vanaf het Leidseplein kom je in de smalle bar; de clubzaal ligt daarachter, met het podium voorin en het balkon met bar 2 achterin. De plek van bar 1 en de trap naar het balkon is geschat. Kluisjes werken met een munt van 2 euro.",
+  "rooms": [
+   {
+    "name": "Club (main hall)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      83.3,
+      0.0
+     ],
+     [
+      83.3,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 13.9,
+      "y": 2.2,
+      "w": 55.6,
+      "h": 22.2
+     },
+     {
+      "t": "bar",
+      "a": [
+       83.3,
+       44.4
+      ],
+      "b": [
+       83.3,
+       69.4
+      ],
+      "side": 1,
+      "label": "BAR 1"
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        0.0,
+        75.0
+       ],
+       [
+        83.3,
+        75.0
+       ],
+       [
+        83.3,
+        100.0
+       ],
+       [
+        0.0,
+        100.0
+       ]
+      ]
+     },
+     {
+      "t": "label",
+      "x": 41.7,
+      "y": 84.4,
+      "text": "BALKON + BAR 2 (BOVEN)",
+      "size": 15
+     },
+     {
+      "t": "stairs",
+      "x": 8.9,
+      "y": 93.9
+     },
+     {
+      "t": "in",
+      "a": [
+       58.3,
+       100.0
+      ],
+      "b": [
+       75.0,
+       100.0
+      ],
+      "side": 1,
+      "label": "IN (VIA BAR)"
+     }
+    ]
+   },
+   {
+    "name": "Bar (Leidseplein-kant)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      34.0,
+      0.0
+     ],
+     [
+      34.0,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       6.8,
+       0.0
+      ],
+      "b": [
+       27.2,
+       0.0
+      ],
+      "side": -1,
+      "label": "NAAR CLUB"
+     },
+     {
+      "t": "bar",
+      "a": [
+       0.0,
+       27.2
+      ],
+      "b": [
+       0.0,
+       71.4
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       6.8,
+       100.0
+      ],
+      "b": [
+       27.2,
+       100.0
+      ],
+      "side": 1,
+      "label": "IN (LEIDSEPLEIN)"
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "chicagosocialclub.nl/rental (2026: Main Hall 500 staand met groot podium, Bar 1 op de begane grond in de zaal, Bar 2 op het balkon; Bar Area 150) en /about (bar ook doordeweeks, op clubavonden via de clubingang); foto's op de homepage (podium met truss, opname vanaf het balkon). BAG: Leidseplein 12 (Chicago) en Korte Leidsedwarsstraat 18 (Jimmy Woo) liggen in hetzelfde pand 0363100012168737 (1862), samen met sportschool Splash (Lijnbaansgracht 241); footprint.py opnieuw draaien geeft geen ander pand. De smalle staart van dat pand aan het Leidseplein (ca. 5 x 15 m, met het adrespunt Leidseplein 12) is gebruikt voor de bar. Geen plattegrond gevonden: maat en indeling van de clubzaal (plek bar 1, trap, balkondiepte) zijn geschat.",
+  "bronnen": [
+   "https://chicagosocialclub.nl/rental/",
+   "https://chicagosocialclub.nl/about/",
+   "https://chicagosocialclub.nl/",
+   "https://www.technoairlines.com/club/chicago-social-club-amsterdam",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0"
+  ]
+ },
+ {
+  "id": "jimmy-woo",
+  "name": "Jimmy Woo",
+  "address": "Korte Leidsedwarsstraat 18, 1017 RC Amsterdam",
+  "area": "Centrum",
+  "lat": 52.3648,
+  "lng": 4.88237,
+  "website": "https://jimmywoo.com",
+  "note": "Je komt eerst boven in de lounge (trap langs de garderobe en kluisjes). Daar staat de verlichte dansvloer in het midden en de bar aan de kopse kant. Een tweede trap gaat naar beneden naar de club met het lampjesplafond; de VIP-tafel staat naast de DJ-booth. Posities zijn geschat.",
+  "rooms": [
+   {
+    "name": "Lounge (boven)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      52.9,
+      0.0
+     ],
+     [
+      52.9,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       14.7,
+       0.0
+      ],
+      "b": [
+       38.2,
+       0.0
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "poly",
+      "text": "LICHTVLOER",
+      "pts": [
+       [
+        15.3,
+        32.4
+       ],
+       [
+        37.6,
+        32.4
+       ],
+       [
+        37.6,
+        61.8
+       ],
+       [
+        15.3,
+        61.8
+       ]
+      ]
+     },
+     {
+      "t": "pillar",
+      "x": 11.8,
+      "y": 47.1
+     },
+     {
+      "t": "pillar",
+      "x": 41.2,
+      "y": 47.1
+     },
+     {
+      "t": "label",
+      "x": 5.9,
+      "y": 47.1,
+      "text": "VIP",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 47.1,
+      "y": 47.1,
+      "text": "VIP",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       5.9,
+       100.0
+      ],
+      "b": [
+       21.2,
+       100.0
+      ],
+      "side": 1,
+      "label": "TRAP (IN)"
+     },
+     {
+      "t": "stairs",
+      "x": 36.5,
+      "y": 91.8,
+      "label": "TRAP NAAR CLUB"
+     }
+    ]
+   },
+   {
+    "name": "Club (beneden)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      62.5,
+      0.0
+     ],
+     [
+      62.5,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 21.9,
+      "y": 2.5,
+      "w": 18.8,
+      "h": 9.4
+     },
+     {
+      "t": "label",
+      "x": 9.4,
+      "y": 8.8,
+      "text": "VIP",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "text": "LICHTPLAFOND",
+      "pts": [
+       [
+        9.4,
+        20.0
+       ],
+       [
+        53.1,
+        20.0
+       ],
+       [
+        53.1,
+        75.0
+       ],
+       [
+        9.4,
+        75.0
+       ]
+      ]
+     },
+     {
+      "t": "bar",
+      "a": [
+       62.5,
+       31.2
+      ],
+      "b": [
+       62.5,
+       65.6
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "in",
+      "a": [
+       5.0,
+       100.0
+      ],
+      "b": [
+       21.2,
+       100.0
+      ],
+      "side": 1,
+      "label": "TRAP"
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "jimmywoo.com/rental en /business (2026: twee verdiepingen, lounge boven met verlichte dansvloer, club beneden met 12.000 lampjes, op beide verdiepingen DJ-booth, bar en VIP-tafels, ca. 600) en de foto van de lounge op /rental (verlichte vloer in het midden, bar aan de kopse kant, banken langs beide wanden, twee pilaren). technoairlines: trap langs de garderobe omhoog naar de lounge, tweede trap omlaag naar de club. BAG: Korte Leidsedwarsstraat 18 ligt in hetzelfde pand als Chicago Social Club en sportschool Splash (0363100012168737, 1862); de clubs zijn delen van dat complex, dus het pand levert geen eigen buitenmuren en footprint.py opnieuw draaien helpt niet. Maten, DJ-plek boven, plek van de bar beneden en van de trap naar de club zijn geschat.",
+  "bronnen": [
+   "https://www.jimmywoo.com/rental",
+   "https://www.jimmywoo.com/business",
+   "https://www.jimmywoo.com/about",
+   "https://www.technoairlines.com/club/jimmy-woo-amsterdam",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0"
+  ]
+ },
+ {
+  "id": "club-up",
+  "name": "Club Up",
+  "aka": "De Kring",
+  "address": "Korte Leidsedwarsstraat 26-1, 1017 RC Amsterdam",
+  "area": "Centrum",
+  "lat": 52.3651,
+  "lng": 4.88206,
+  "website": "https://www.clubup.nl",
+  "note": "Smalle deur aan de Korte Leidsedwarsstraat, dan de trap omhoog. De DJ-booth staat tegen de bakstenen achterwand, de lange bar rechts daarvan; langs de linkerwand loopt een verhoogde lounge met statafels. Kluisjes zijn verplicht. Op sommige avonden kun je door naar De Kring.",
+  "rooms": [
+   {
+    "name": "Club Up (1e verdieping)",
+    "outline": [
+     [
+      80.1,
+      99.8
+     ],
+     [
+      81.2,
+      13.9
+     ],
+     [
+      62.5,
+      13.7
+     ],
+     [
+      62.7,
+      0.5
+     ],
+     [
+      42.4,
+      0.0
+     ],
+     [
+      42.1,
+      12.7
+     ],
+     [
+      6.0,
+      8.7
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 19.1,
+      "y": 14.0,
+      "w": 17.9,
+      "h": 8.3
+     },
+     {
+      "t": "bar",
+      "a": [
+       44.0,
+       20.4
+      ],
+      "b": [
+       80.4,
+       20.4
+      ],
+      "side": 1,
+      "label": "BAR"
+     },
+     {
+      "t": "pillar",
+      "x": 46.6,
+      "y": 35.7
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "pts": [
+       [
+        5.4,
+        23.0
+       ],
+       [
+        19.1,
+        23.0
+       ],
+       [
+        19.1,
+        90.6
+       ],
+       [
+        0.6,
+        90.6
+       ]
+      ]
+     },
+     {
+      "t": "label",
+      "x": 11.8,
+      "y": 57.4,
+      "text": "LOUNGE",
+      "size": 14
+     },
+     {
+      "t": "label",
+      "x": 48.5,
+      "y": 58.7,
+      "text": "DANSVLOER",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       7.7,
+       9.4
+      ],
+      "b": [
+       17.2,
+       10.5
+      ],
+      "side": -1,
+      "label": "NAAR DE KRING"
+     },
+     {
+      "t": "in",
+      "a": [
+       54.9,
+       99.9
+      ],
+      "b": [
+       70.2,
+       99.8
+      ],
+      "side": 1,
+      "label": "TRAP (IN)"
+     }
+    ]
+   }
+  ],
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "BAG-pand Korte Leidsedwarsstraat 26 (0363100012174394, 1868, ca. 12,5 x 15,7 m) als buitenmuur van de clubverdieping, straatgevel onder. Indeling uit de foto's op clubup.nl/rental (DJ-booth tegen de bakstenen achterwand, lange bar rechts daarvan, verhoogde lounge met statafels langs de linkerwand, pilaar bij de bar), clubup.nl/aboutus (club in het pand achter De Kring, altijd met de trap omhoog, op sommige avonden doorloop naar De Kring), clubup.nl/for-promoters-and-collectives (225), amsterdamsights (laag plafond, lounges naast de dansvloer) en In Your Pocket (smalle ingang tussen twee hoge panden). Dat de DJ tegen de achterwand aan de kant van De Kring staat is afgeleid, niet bevestigd; plek van de straattrap en de doorgang naar De Kring geschat.",
+  "bronnen": [
+   "https://www.clubup.nl/rental",
+   "https://www.clubup.nl/aboutus",
+   "https://www.clubup.nl/for-promoters-and-collectives",
+   "https://www.clubup.nl/info",
+   "https://www.amsterdamsights.com/nightlife/clubup.html",
+   "https://www.inyourpocket.com/Amsterdam/Club-Up_93458v",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0"
+  ]
+ }
+]

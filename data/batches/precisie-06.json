@@ -1,0 +1,918 @@
+[
+ {
+  "id": "radion",
+  "name": "RADION",
+  "address": "Louwesweg 1, 1066 EA Amsterdam",
+  "area": "Nieuw-West",
+  "lat": 52.34563,
+  "lng": 4.82554,
+  "website": "https://radion.amsterdam",
+  "note": "Oud ACTA-gebouw (tandheelkunde) met veel trappen. Twee zalen: de main room en de Bovenkamer. De Club Care-booth staat naast de ingang van de Bovenkamer: goed afspreekpunt. Betalen met tokens (tokenbalie). Indeling verder niet bevestigd.",
+  "rooms": [
+   {
+    "name": "Main room",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      75.0,
+      0.0
+     ],
+     [
+      75.0,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 23.4,
+      "y": 3.1,
+      "w": 28.1,
+      "h": 9.4,
+      "label": "DJ"
+     },
+     {
+      "t": "bar",
+      "a": [
+       75.0,
+       37.5
+      ],
+      "b": [
+       75.0,
+       81.2
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       25.0,
+       100.0
+      ],
+      "b": [
+       50.0,
+       100.0
+      ],
+      "label": "IN / LOCKERS"
+     }
+    ]
+   },
+   {
+    "name": "Bovenkamer",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      90.9,
+      0.0
+     ],
+     [
+      90.9,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 22.7,
+      "y": 3.6,
+      "w": 45.5,
+      "h": 10.9,
+      "label": "DJ"
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       31.8
+      ],
+      "b": [
+       90.9,
+       31.8
+      ],
+      "dash": true
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       45.5
+      ],
+      "b": [
+       90.9,
+       45.5
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 45.5,
+      "y": 39.1,
+      "text": "TREDEN"
+     },
+     {
+      "t": "bar",
+      "a": [
+       0.0,
+       54.5
+      ],
+      "b": [
+       0.0,
+       86.4
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       59.1,
+       100.0
+      ],
+      "b": [
+       81.8,
+       100.0
+      ],
+      "label": "IN / CLUB CARE"
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "Geen plattegrond gevonden. radion.amsterdam (2026): main room met VOID-systeem, tweede zaal (Bovenkamer) met Prof Sound-stack, Club Care-booth naast de ingang van de Bovenkamer, lockers en tokenbalies; foto op radion.amsterdam toont een lange DJ-booth langs de wand met treden in de vloer. BAG-pand is het hele ACTA-complex (toren + laagbouw, 1969), dus geen bruikbare zaalmuren. Vorm en maten van beide zalen geschat.",
+  "bronnen": [
+   "https://radion.amsterdam/our-policies/",
+   "https://radion.amsterdam/safer-clubbing/",
+   "https://radion.amsterdam/news/this-is-the-sound-system-we-stand-behind/",
+   "https://radion.amsterdam/program/club-night/",
+   "https://www.technoairlines.com/club/radion-amsterdam"
+  ]
+ },
+ {
+  "id": "mediahaven",
+  "name": "Mediahaven",
+  "address": "Moermanskkade 107, 1013 BC Amsterdam",
+  "area": "West",
+  "lat": 52.39944,
+  "lng": 4.87168,
+  "website": "https://loveland.nl/ade/mediahaven/",
+  "note": "Tv-studiocomplex in de Houthavens, alleen open bij events (Loveland ADE e.a.). Studio 1 is de grote hal (12 m hoog), Studio 2 is kleiner met ramen naar het IJ, de basement is de rauwe derde ruimte met de wc's. DJ-posities wisselen per event.",
+  "rooms": [
+   {
+    "name": "Studio 1 (Mediahaven 1)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      86.6,
+      0.0
+     ],
+     [
+      86.6,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 27.6,
+      "y": 2.6,
+      "w": 31.6,
+      "h": 10.5,
+      "label": "DJ"
+     },
+     {
+      "t": "in",
+      "a": [
+       31.6,
+       100.0
+      ],
+      "b": [
+       55.3,
+       100.0
+      ],
+      "label": "NAAR STUDIO 2 / IN"
+     },
+     {
+      "t": "label",
+      "x": 43.2,
+      "y": 52.6,
+      "text": "GROTE STUDIO, 12 M HOOG"
+     }
+    ]
+   },
+   {
+    "name": "Studio 2 (Mediahaven 2)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      100.0,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 30.0,
+      "y": 4.0,
+      "w": 40.0,
+      "h": 14.0,
+      "label": "DJ"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       70.0
+      ],
+      "b": [
+       0.0,
+       90.0
+      ],
+      "label": "STUDIO 1"
+     },
+     {
+      "t": "label",
+      "x": 65.0,
+      "y": 55.0,
+      "text": "GLAZEN GEVEL"
+     },
+     {
+      "t": "in",
+      "a": [
+       40.0,
+       100.0
+      ],
+      "b": [
+       65.0,
+       100.0
+      ],
+      "label": "ENTREE (TRAP)"
+     }
+    ]
+   },
+   {
+    "name": "Basement",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      100.0,
+      77.8
+     ],
+     [
+      0.0,
+      77.8
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 33.3,
+      "y": 3.9,
+      "w": 33.3,
+      "h": 12.2,
+      "label": "DJ"
+     },
+     {
+      "t": "stairs",
+      "x": 27.8,
+      "y": 63.9,
+      "label": "TRAP NAAR BOVEN"
+     },
+     {
+      "t": "wc",
+      "x": 80.6,
+      "y": 63.9
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "BAG-pand 0363100012240348 (2012, 79,5 x 32,9 m) + luchtfoto: westblok met groen dak ca. 38 x 33 m = Mediahaven 1 (1.200 m2, 12,15 m hoog volgens Gravity Media), oostblok aan het IJ met Mediahaven 2 (400 m2). Loveland: drie verbonden ruimtes, van 12 m hoog tot een basement; festivalfans 2018: grote en kleinere zaal, klein zaaltje en wc's in de basement. Locatiefoto Loveland: donker studioblok, ernaast een studio achter een glazen gevel en de entree met trap. Geen plattegrond (site Gravity Media/EMG achter Cloudflare); posities DJ, ingang en maat Studio 2/basement geschat.",
+  "bronnen": [
+   "https://loveland.nl/ade/mediahaven/",
+   "https://loveland.nl/ade/faq/",
+   "https://loveland.nl/ade/wp-content/uploads/sites/4/2019/06/loc-2-1239x400.jpg",
+   "https://www.gravitymedia.com/facilities/studios-mediahaven/",
+   "https://festivalfans.nl/report-circoloco-x-loveland-ade-2018/"
+  ]
+ },
+ {
+  "id": "toekomstmuziek",
+  "name": "Toekomstmuziek",
+  "address": "Danzigerbocht 29, 1013 AM Amsterdam",
+  "area": "Houthavens",
+  "lat": 52.39663,
+  "lng": 4.87552,
+  "website": "https://toekomstmuziek.com",
+  "note": "Kleine loods (ca. 15 x 22 m) met een lage aanbouw aan de straatkant. Positie van podium en bar is niet bevestigd; spreek af bij de ingang of bij het podium.",
+  "status": "open",
+  "rooms": [
+   {
+    "name": "Zaal",
+    "outline": [
+     [
+      5.4,
+      0.0
+     ],
+     [
+      58.8,
+      0.0
+     ],
+     [
+      58.8,
+      79.2
+     ],
+     [
+      53.4,
+      79.2
+     ],
+     [
+      53.4,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ],
+     [
+      0.0,
+      79.2
+     ],
+     [
+      5.4,
+      79.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 17.9,
+      "y": 2.2,
+      "w": 28.7,
+      "h": 11.5,
+      "label": "PODIUM"
+     },
+     {
+      "t": "line",
+      "a": [
+       5.4,
+       79.2
+      ],
+      "b": [
+       53.4,
+       79.2
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 26.9,
+      "y": 89.6,
+      "text": "AANBOUW (ENTREE)"
+     },
+     {
+      "t": "label",
+      "x": 32.3,
+      "y": 43.0,
+      "text": "HAL MET LICHTSTRATEN"
+     },
+     {
+      "t": "in",
+      "a": [
+       19.7,
+       100.0
+      ],
+      "b": [
+       30.5,
+       100.0
+      ],
+      "label": "IN (STRAATKANT)"
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "Buitenmuren uit BAG-pand 0363100012110275 (417 m2): hal ca. 15 x 22 m met drie lichtstraten plus lage aanbouw ca. 15 x 6 m aan de straatkant (luchtfoto PDOK). Geen plattegrond, rider of bruikbare interieurfoto gevonden; podium, bar en ingang zijn geschat.",
+  "bronnen": [
+   "https://www.toekomstmuziek.com/",
+   "https://www.toekomstmuziek.com/about/",
+   "https://www.iamsterdam.com/en/whats-on/calendar/concerts-and-music/concerts/toekomstmuziek"
+  ]
+ },
+ {
+  "id": "the-other-side",
+  "name": "The Other Side",
+  "address": "Rigakade 10, 1013 BC Amsterdam",
+  "area": "Houthavens",
+  "lat": 52.39532,
+  "lng": 4.87483,
+  "website": "https://the-other-side.nl",
+  "capacity": 1200,
+  "note": "Ingang aan de westkant via security en de sluis; lockers in de gang naast Room 2. Main Room via de dubbele deur in de foyer, Room 2 via de gang rechts in de foyer. Bar 1 links, Bar 2 rechts naast de toiletten. Roken op The Outer Side: deur rechts in de Main Room, boven Bar 2.",
+  "status": "open",
+  "rooms": [
+   {
+    "name": "Main Room",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      74.9,
+      0.0
+     ],
+     [
+      74.9,
+      7.1
+     ],
+     [
+      80.0,
+      7.1
+     ],
+     [
+      80.0,
+      18.8
+     ],
+     [
+      89.4,
+      18.8
+     ],
+     [
+      89.4,
+      32.9
+     ],
+     [
+      100.0,
+      32.9
+     ],
+     [
+      100.0,
+      75.3
+     ],
+     [
+      74.5,
+      75.3
+     ],
+     [
+      74.5,
+      99.6
+     ],
+     [
+      68.2,
+      99.6
+     ],
+     [
+      63.9,
+      76.5
+     ],
+     [
+      35.3,
+      76.5
+     ],
+     [
+      35.3,
+      99.6
+     ],
+     [
+      0.0,
+      99.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 32.2,
+      "y": 0.8,
+      "w": 23.9,
+      "h": 15.3,
+      "label": "STAGE"
+     },
+     {
+      "t": "dj",
+      "x": 32.2,
+      "y": 16.5,
+      "w": 15.7,
+      "h": 5.1,
+      "label": "DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        11.8,
+        12.5
+       ],
+       [
+        24.3,
+        12.5
+       ],
+       [
+        24.3,
+        36.5
+       ],
+       [
+        11.8,
+        36.5
+       ]
+      ],
+      "text": "PLATFORM"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        56.1,
+        0.8
+       ],
+       [
+        68.6,
+        0.8
+       ],
+       [
+        68.6,
+        36.5
+       ],
+       [
+        56.1,
+        36.5
+       ]
+      ],
+      "text": "PLATFORM"
+     },
+     {
+      "t": "bar",
+      "a": [
+       9.8,
+       57.3
+      ],
+      "b": [
+       9.8,
+       88.6
+      ],
+      "label": "BAR 1"
+     },
+     {
+      "t": "bar",
+      "a": [
+       85.5,
+       53.3
+      ],
+      "b": [
+       85.5,
+       75.3
+      ],
+      "side": -1,
+      "label": "BAR 2"
+     },
+     {
+      "t": "in",
+      "a": [
+       20.4,
+       99.6
+      ],
+      "b": [
+       27.8,
+       99.6
+      ],
+      "label": "IN / ROOM 2"
+     },
+     {
+      "t": "in",
+      "a": [
+       100.0,
+       47.1
+      ],
+      "b": [
+       100.0,
+       51.8
+      ],
+      "side": -1,
+      "label": "ROKEN"
+     },
+     {
+      "t": "in",
+      "a": [
+       68.2,
+       99.6
+      ],
+      "b": [
+       74.5,
+       99.6
+      ],
+      "label": "WC 2"
+     },
+     {
+      "t": "wc",
+      "x": 78.4,
+      "y": 71.4
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0.0,
+        89.0
+       ],
+       [
+        12.9,
+        89.0
+       ],
+       [
+        12.9,
+        99.6
+       ],
+       [
+        0.0,
+        99.6
+       ]
+      ],
+      "text": "CABANA"
+     },
+     {
+      "t": "label",
+      "x": 49.4,
+      "y": 87.8,
+      "text": "FOH"
+     }
+    ]
+   },
+   {
+    "name": "Room 2",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      62.0,
+      0.0
+     ],
+     [
+      62.0,
+      20.4
+     ],
+     [
+      88.9,
+      20.4
+     ],
+     [
+      88.9,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 22.2,
+      "y": 5.6,
+      "w": 26.9,
+      "h": 11.1,
+      "label": "DJ"
+     },
+     {
+      "t": "in",
+      "a": [
+       67.6,
+       20.4
+      ],
+      "b": [
+       84.3,
+       20.4
+      ],
+      "label": "NAAR MAIN"
+     },
+     {
+      "t": "label",
+      "x": 44.4,
+      "y": 60.2,
+      "text": "GEEN BAR: BARS IN MAIN ROOM",
+      "size": 18
+     }
+    ]
+   },
+   {
+    "name": "The Outer Side (buiten)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      67.1,
+      0.0
+     ],
+     [
+      67.1,
+      100.0
+     ],
+     [
+      32.9,
+      100.0
+     ],
+     [
+      32.9,
+      52.1
+     ],
+     [
+      0.0,
+      52.1
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       32.9,
+       94.1
+      ],
+      "b": [
+       32.9,
+       98.3
+      ],
+      "side": -1,
+      "label": "MAIN"
+     },
+     {
+      "t": "smoke",
+      "x": 33.6,
+      "y": 25.9
+     },
+     {
+      "t": "wc",
+      "x": 58.0,
+      "y": 78.7,
+      "label": "DIXIES"
+     }
+    ]
+   }
+  ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiele plattegrond \"TOS Clubdesign 2025 - standaardsetup\" op the-other-side.nl/business (Floorplan), geschaald op de BAG-hal (25,5 m breed; Main Room ca. 25,5 x 25,4 m). Capaciteit 900 / 200 / buiten 100 (zelfde pagina).",
+  "bronnen": [
+   "https://the-other-side.nl/business/",
+   "https://the-other-side.nl/wp-content/uploads/2025/02/TOSClubdesign2025-Standaardsetup-white-1.png",
+   "https://the-other-side.nl/about/"
+  ]
+ },
+ {
+  "id": "tillatec",
+  "name": "TILLATEC",
+  "address": "Dr. Jan van Breemenstraat 1, 1056 AB Amsterdam",
+  "area": "West",
+  "lat": 52.36995,
+  "lng": 4.84371,
+  "website": "https://www.tillatec.com",
+  "capacity": 900,
+  "note": "Sluit na de Closing Weekender (6-9 november 2026). Main room is een lange zaal met de DJ aan de kopse kant; tweede zaal kleiner. Tuin en binnenplaatsen voor roken en afspreken. Indeling geschat.",
+  "status": "open",
+  "rooms": [
+   {
+    "name": "Main room",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      53.6,
+      0.0
+     ],
+     [
+      53.6,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 16.1,
+      "y": 2.9,
+      "w": 21.4,
+      "h": 8.6,
+      "label": "DJ"
+     },
+     {
+      "t": "label",
+      "x": 26.8,
+      "y": 46.4,
+      "text": "LANGE ZAAL, TONGEWELF"
+     },
+     {
+      "t": "in",
+      "a": [
+       19.6,
+       100.0
+      ],
+      "b": [
+       33.9,
+       100.0
+      ],
+      "label": "IN"
+     }
+    ]
+   },
+   {
+    "name": "Room 2",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      100.0,
+      78.6
+     ],
+     [
+      0.0,
+      78.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 32.1,
+      "y": 5.0,
+      "w": 35.7,
+      "h": 14.3,
+      "label": "DJ"
+     },
+     {
+      "t": "in",
+      "a": [
+       35.7,
+       78.6
+      ],
+      "b": [
+       64.3,
+       78.6
+      ]
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "schatting",
+  "source": "Geen plattegrond gevonden. BAG-pand 0363100012195030 is het hele voormalige schoolcomplex (1966-67, sheddaken rond een binnentuin), dus niet bruikbaar als zaalmuren. Foto's op tillatec.com: lange zaal met tongewelf, hangende speakerclusters en de DJ-booth aan de kopse kant voor een raampartij. De School-tijd (RA/thespaces 2016): club in de oude fietsenstalling in de kelder, wc, rookplek en tuin boven. DJ Mag 2026: 900 capaciteit over twee zalen. Welke ruimtes Tillatec precies gebruikt, en vorm en maat, zijn geschat.",
+  "bronnen": [
+   "https://www.tillatec.com/about",
+   "https://www.tillatec.com/",
+   "https://de.ra.co/reviews/18363",
+   "https://thespaces.com/amsterdams-de-school-club-to-open-in-january-2016/",
+   "https://djmag.com/news/amsterdam-venue-tilla-tec-closing-down",
+   "https://hetarchief.deschoolamsterdam.nl/about/"
+  ]
+ }
+]

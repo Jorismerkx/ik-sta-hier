@@ -1,0 +1,1121 @@
+[
+ {
+  "id": "bitterzoet",
+  "name": "Bitterzoet",
+  "address": "Spuistraat 2, 1012 TS Amsterdam",
+  "area": "Centrum",
+  "website": "https://www.bitterzoet.com",
+  "source": "Overgetrokken van de venue map (p. 9) in 'Bitterzoet General & Technical Details 2026 v2.2' (assets.paradiso.nl): stramien 2x4,5 m, assen 1-7 om de 3 m, podium 6x3 m tussen as 5 en 6, bar langs de linkermuur, kolommen, schuine en geknikte rechtergevel. Buitenmuren gecontroleerd met de BAG-omtrek (25,4 x 10-12 m, knik in de gevel valt samen). Balkon/lounge boven en de verhoging rechts uit de venue-foto's in dezelfde PDF en de toegankelijkheidspagina.",
+  "confidence": "hoog",
+  "note": "Je komt binnen aan de Spuistraat en loopt rechtsvoor de zaal in, langs de ramen. Podium/DJ achterin, de lange bar links onder het balkon. Trap naar het balkon (lounge met eigen bar) aan het eind van de bar bij de ingang. Kluisjes (verplicht) en wc's zijn beneden (-1). Roken alleen in de rookruimte.",
+  "rooms": [
+   {
+    "name": "Zaal",
+    "outline": [
+     [
+      0.0,
+      6.0
+     ],
+     [
+      28.7,
+      6.0
+     ],
+     [
+      28.7,
+      0.0
+     ],
+     [
+      71.3,
+      0.0
+     ],
+     [
+      78.0,
+      60.7
+     ],
+     [
+      80.7,
+      80.7
+     ],
+     [
+      78.7,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 31.3,
+      "y": 0.0,
+      "w": 39.3,
+      "h": 20.0,
+      "label": "PODIUM / DJ"
+     },
+     {
+      "t": "bar",
+      "a": [
+       22.0,
+       10.0
+      ],
+      "b": [
+       22.0,
+       70.7
+      ],
+      "side": -1
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        2.0,
+        6.0
+       ],
+       [
+        32.0,
+        6.0
+       ],
+       [
+        32.0,
+        74.7
+       ],
+       [
+        2.0,
+        74.7
+       ]
+      ],
+      "dash": true,
+      "o": 0.45
+     },
+     {
+      "t": "label",
+      "x": 11.0,
+      "y": 69.3,
+      "text": "BALKON BOVEN",
+      "size": 14
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        32.0,
+        20.0
+       ],
+       [
+        62.0,
+        20.0
+       ],
+       [
+        62.0,
+        58.7
+       ],
+       [
+        32.0,
+        64.7
+       ]
+      ],
+      "dash": true,
+      "text": "DANSVLOER"
+     },
+     {
+      "t": "pillar",
+      "x": 32.0,
+      "y": 40.0
+     },
+     {
+      "t": "pillar",
+      "x": 32.0,
+      "y": 60.0
+     },
+     {
+      "t": "pillar",
+      "x": 62.0,
+      "y": 40.0
+     },
+     {
+      "t": "pillar",
+      "x": 62.0,
+      "y": 60.0
+     },
+     {
+      "t": "label",
+      "x": 68.7,
+      "y": 34.0,
+      "text": "VERHOGING",
+      "size": 13
+     },
+     {
+      "t": "stairs",
+      "x": 24.0,
+      "y": 84.0,
+      "label": "TRAP BALKON"
+     },
+     {
+      "t": "stairs",
+      "x": 11.3,
+      "y": 92.0,
+      "label": "TRAP -1"
+     },
+     {
+      "t": "in",
+      "a": [
+       64.0,
+       100.0
+      ],
+      "b": [
+       76.0,
+       100.0
+      ],
+      "label": "IN"
+     }
+    ]
+   },
+   {
+    "name": "Balkon (boven)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      46.6,
+      0.0
+     ],
+     [
+      46.6,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       46.6,
+       4.9
+      ],
+      "b": [
+       46.6,
+       95.1
+      ],
+      "label": " "
+     },
+     {
+      "t": "line",
+      "a": [
+       46.6,
+       0.0
+      ],
+      "b": [
+       46.6,
+       100.0
+      ],
+      "dash": true,
+      "o": 0.9,
+      "w": 4
+     },
+     {
+      "t": "label",
+      "x": 64.1,
+      "y": 48.5,
+      "text": "RELING",
+      "size": 20
+     },
+     {
+      "t": "label",
+      "x": 64.1,
+      "y": 55.3,
+      "text": "ZICHT OP ZAAL",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 64.1,
+      "y": 6.8,
+      "text": "PODIUM",
+      "size": 18
+     },
+     {
+      "t": "bar",
+      "a": [
+       4.9,
+       0.0
+      ],
+      "b": [
+       37.9,
+       0.0
+      ]
+     },
+     {
+      "t": "label",
+      "x": 12.6,
+      "y": 48.5,
+      "text": "BANKEN",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       29.1,
+       100.0
+      ],
+      "b": [
+       44.7,
+       100.0
+      ],
+      "label": "TRAP NAAR ZAAL"
+     }
+    ]
+   }
+  ],
+  "lat": 52.37736,
+  "lng": 4.89414,
+  "photo": true,
+  "capacity": 350,
+  "status": "open",
+  "basis": "plattegrond",
+  "bronnen": [
+   "https://assets.paradiso.nl/downloads/Bitterzoet-General-Technical-Info-2026-V2.2.pdf",
+   "https://www.paradiso.nl/en/info/specs-paradiso-venues/venue-specs-for-bitterzoet",
+   "https://www.paradiso.nl/info/praktische-informatie-voor-je-bezoek-aan-de-locaties-van-paradiso/toegankelijkheid-bitterzoet",
+   "https://www.bitterzoet.com/info/",
+   "BAG pand 0363100012171035 (PDOK)"
+  ]
+ },
+ {
+  "id": "supperclub",
+  "name": "Supperclub",
+  "address": "Singel 460, 1017 AW Amsterdam",
+  "area": "Centrum",
+  "website": "https://supper.nl",
+  "source": "Breedte en richting van de zaal uit BAG + luchtfoto (hoofdvolume 9,5 m breed onder één lange nok); indeling uit de projectbeschrijving van concrete (e-architect: ovale Salle Neige, DJ-booth en podium tegenover de ingang, binnenkomst via de keuken onder L'Entresol, marmeren bar op de dansvloer, bedden langs de wanden, L'Entresol met eigen bar en rookruimte Le Fumoir) plus foto's, supper.nl/private-events (La Salle Neige 500, L'Entresol 30-65 met eigen bar) en het restaurant (begane vloer + balkon). Le Bar Rouge bestaat hier niet meer (hing in het oude pand). Lengte van de zaal en kant van de trap geschat.",
+  "confidence": "middel",
+  "note": "Club op de eerste verdieping van het Odeon-pand. Je komt binnen via de open keuken (bar rechts) en kijkt zo de witte zaal in: DJ in de ronde kop aan het eind, marmeren bar rechts vlak voor de DJ, bedden langs beide wanden. L'Entresol is het balkon boven de keuken, met eigen bar en de rookruimte Le Fumoir.",
+  "rooms": [
+   {
+    "name": "La Salle Neige",
+    "outline": [
+     [
+      0.0,
+      18.0
+     ],
+     [
+      1.7,
+      11.1
+     ],
+     [
+      6.3,
+      5.2
+     ],
+     [
+      13.2,
+      1.4
+     ],
+     [
+      21.5,
+      0.0
+     ],
+     [
+      29.8,
+      1.4
+     ],
+     [
+      36.7,
+      5.2
+     ],
+     [
+      41.3,
+      11.1
+     ],
+     [
+      43.0,
+      18.0
+     ],
+     [
+      43.0,
+      90.0
+     ],
+     [
+      41.3,
+      93.8
+     ],
+     [
+      36.7,
+      97.0
+     ],
+     [
+      29.8,
+      99.2
+     ],
+     [
+      21.5,
+      100.0
+     ],
+     [
+      13.2,
+      99.2
+     ],
+     [
+      6.3,
+      97.0
+     ],
+     [
+      1.7,
+      93.8
+     ],
+     [
+      0.0,
+      90.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 17.0,
+      "y": 4.5,
+      "w": 9.0,
+      "h": 6.5
+     },
+     {
+      "t": "bar",
+      "a": [
+       34.5,
+       26.0
+      ],
+      "b": [
+       34.5,
+       42.0
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        1.0,
+        25.0
+       ],
+       [
+        10.0,
+        25.0
+       ],
+       [
+        10.0,
+        76.0
+       ],
+       [
+        1.0,
+        76.0
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 5.5,
+      "y": 50.0,
+      "text": "BEDDEN",
+      "size": 13
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        33.0,
+        46.0
+       ],
+       [
+        42.0,
+        46.0
+       ],
+       [
+        42.0,
+        76.0
+       ],
+       [
+        33.0,
+        76.0
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 37.5,
+      "y": 61.0,
+      "text": "BEDDEN",
+      "size": 13
+     },
+     {
+      "t": "label",
+      "x": 21.5,
+      "y": 53.0,
+      "text": "DANSVLOER",
+      "size": 20
+     },
+     {
+      "t": "pillar",
+      "x": 11.5,
+      "y": 78.5
+     },
+     {
+      "t": "pillar",
+      "x": 31.5,
+      "y": 78.5
+     },
+     {
+      "t": "bar",
+      "a": [
+       37.0,
+       81.5
+      ],
+      "b": [
+       37.0,
+       94.0
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "label",
+      "x": 18.0,
+      "y": 85.5,
+      "text": "KEUKEN",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 18.0,
+      "y": 92.0,
+      "text": "ENTRESOL BOVEN",
+      "size": 14
+     },
+     {
+      "t": "in",
+      "a": [
+       16.5,
+       99.2
+      ],
+      "b": [
+       26.5,
+       99.2
+      ],
+      "label": "IN"
+     }
+    ]
+   },
+   {
+    "name": "L'Entresol (balkon)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      100.0,
+      53.5
+     ],
+     [
+      0.0,
+      53.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       3.5,
+       0.0
+      ],
+      "b": [
+       96.5,
+       0.0
+      ],
+      "label": "RELING: ZICHT OP DE ZAAL",
+      "side": -1
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       0.0
+      ],
+      "b": [
+       100.0,
+       0.0
+      ],
+      "dash": true,
+      "o": 0.9,
+      "w": 4
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        4.7,
+        5.8
+       ],
+       [
+        95.3,
+        5.8
+       ],
+       [
+        95.3,
+        26.7
+       ],
+       [
+        4.7,
+        26.7
+       ]
+      ],
+      "dash": true,
+      "text": "BEDDEN OP TREDEN"
+     },
+     {
+      "t": "bar",
+      "a": [
+       39.5,
+       53.5
+      ],
+      "b": [
+       67.4,
+       53.5
+      ],
+      "side": -1
+     },
+     {
+      "t": "smoke",
+      "x": 84.9,
+      "y": 43.0,
+      "label": "LE FUMOIR"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       33.7
+      ],
+      "b": [
+       0.0,
+       48.8
+      ],
+      "label": "TRAP"
+     }
+    ]
+   }
+  ],
+  "lat": 52.36755,
+  "lng": 4.88883,
+  "photo": true,
+  "capacity": 500,
+  "status": "open",
+  "basis": "bag+fotos",
+  "bronnen": [
+   "https://e-architect.com/amsterdam/the-supperclub-amsterdam",
+   "https://supper.nl/private-events/",
+   "https://supper.nl/restaurant/",
+   "https://supper.nl/club/",
+   "https://www.locaties.nl/en-US/venue/supperclub-14670",
+   "https://nl.wikipedia.org/wiki/Odeon_(Amsterdam)",
+   "BAG pand 0363100012171740 (PDOK)"
+  ]
+ },
+ {
+  "id": "akhnaton",
+  "name": "Akhnaton",
+  "address": "Nieuwezijds Kolk 25, 1012 PV Amsterdam",
+  "area": "Centrum",
+  "lat": 52.3761,
+  "lng": 4.8942,
+  "website": "https://www.akhnaton.nl",
+  "source": "Buitenmuren uit BAG (pand 0363100012179320, 11,4 x 23,3 m, twee smalle huizen) + luchtfoto. Indeling: akhnaton.nl/verhuur (club ~200 met podium en DJ-booth, bar ~50 grenzend aan de club met openslaande deuren naar het terras op de Kolk, vide op de 1e verdieping met raam naar het terras), oude verhuurtekst 2009/2012 (zaal + aangrenzend café + entree met garderobe + vide = ~230 m2) en de venue-foto's (lange bar langs de zijwand richting podium, DJ-booth tegenover het podium). Geen plattegrond; plek van club en bar binnen het pand en de zijde van de bar zijn afgeleid. Let op: buurpand nr. 23 (BAG, bouwjaar 1995) heeft 492 m2 bijeenkomstfunctie; mogelijk loopt de club daarin door.",
+  "confidence": "laag",
+  "note": "Indicatief. Binnen via het café aan de Kolk (terras voor de deur); de club ligt erachter met het podium achterin en de lange bar langs de zijwand. De vide (lounge) is boven het café, met zicht op het terras.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      10.4,
+      8.9
+     ],
+     [
+      54.1,
+      0.0
+     ],
+     [
+      95.6,
+      4.4
+     ],
+     [
+      84.4,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 25.2,
+      "y": 9.6,
+      "w": 44.4,
+      "h": 17.8
+     },
+     {
+      "t": "bar",
+      "a": [
+       18.5,
+       34.1
+      ],
+      "b": [
+       13.3,
+       83.0
+      ]
+     },
+     {
+      "t": "dj",
+      "x": 50.4,
+      "y": 78.5,
+      "w": 19.3,
+      "h": 11.1,
+      "label": "DJ"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        25.2,
+        32.6
+       ],
+       [
+        77.0,
+        32.6
+       ],
+       [
+        74.1,
+        72.6
+       ],
+       [
+        25.2,
+        72.6
+       ]
+      ],
+      "dash": true,
+      "text": "DANSVLOER"
+     },
+     {
+      "t": "in",
+      "a": [
+       5.9,
+       100.0
+      ],
+      "b": [
+       25.2,
+       100.0
+      ],
+      "label": "NAAR BAR / IN"
+     },
+     {
+      "t": "label",
+      "x": 45.9,
+      "y": 93.3,
+      "text": "INDICATIEF",
+      "size": 14
+     }
+    ]
+   },
+   {
+    "name": "Bar + terras",
+    "outline": [
+     [
+      9.5,
+      0.0
+     ],
+     [
+      100.0,
+      0.0
+     ],
+     [
+      90.5,
+      82.5
+     ],
+     [
+      0.0,
+      84.9
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       15.9,
+       0.0
+      ],
+      "b": [
+       36.5,
+       0.0
+      ],
+      "label": "NAAR CLUB",
+      "side": -1
+     },
+     {
+      "t": "bar",
+      "a": [
+       50.8,
+       0.0
+      ],
+      "b": [
+       92.1,
+       0.0
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       23.8,
+       83.7
+      ],
+      "b": [
+       63.5,
+       82.9
+      ],
+      "label": "TERRAS / IN"
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        7.9,
+        35.7
+       ],
+       [
+        94.4,
+        35.7
+       ],
+       [
+        90.5,
+        82.5
+       ],
+       [
+        0.0,
+        84.9
+       ]
+      ],
+      "dash": true,
+      "o": 0.45
+     },
+     {
+      "t": "label",
+      "x": 47.6,
+      "y": 62.7,
+      "text": "VIDE BOVEN",
+      "size": 20
+     },
+     {
+      "t": "stairs",
+      "x": 20.6,
+      "y": 23.0,
+      "label": "TRAP VIDE"
+     },
+     {
+      "t": "label",
+      "x": 58.7,
+      "y": 27.8,
+      "text": "INDICATIEF",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "photo": true,
+  "capacity": 300,
+  "status": "open",
+  "basis": "bag+fotos",
+  "bronnen": [
+   "https://akhnaton.nl/verhuur/",
+   "https://web.archive.org/web/2012/http://www.akhnaton.nl:80/verhuur.php",
+   "https://akhnaton.nl/wp-content/uploads/2025/10/Akhnaton-club-bar.webp",
+   "https://akhnaton.nl/wp-content/uploads/2025/10/Akhnaton-dj-booth-uitzicht.webp",
+   "https://akhnaton.nl/wp-content/uploads/2025/10/Akhnaton-vide.webp",
+   "BAG pand 0363100012179320 (PDOK)"
+  ]
+ },
+ {
+  "id": "nachbar",
+  "name": "Nachbar",
+  "address": "Nieuwezijds Voorburgwal 169, 1012 RK Amsterdam",
+  "area": "Centrum",
+  "website": "https://linktr.ee/nachbar169",
+  "source": "Vorm uit BAG: L-vormig pand 0363100012167527 met een vleugel van ~6 m breed vanaf de NZ Voorburgwal; de club (BAG nr. 169A, bijeenkomstfunctie 220 m2) is hier getekend als de 6 m brede strook van ~30 m diep (oppervlak klopt). Indeling uit de beschrijving van voorganger Club NL in hetzelfde pand (lange bar bij binnenkomst, DJ en dansvloer aan het eind) en AmsterdamNow over Nachbar (350, één donkere zaal). Kant van de bar en precieze diepte onbevestigd.",
+  "confidence": "laag",
+  "note": "Indicatief: lange smalle club. Bar vanaf de ingang langs de wand, dansvloer en DJ helemaal achterin.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0.0,
+      1.0
+     ],
+     [
+      19.1,
+      0.0
+     ],
+     [
+      23.4,
+      100.0
+     ],
+     [
+      4.3,
+      95.3
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 5.7,
+      "y": 3.7,
+      "w": 9.4,
+      "h": 4.7
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        1.3,
+        10.4
+       ],
+       [
+        19.7,
+        9.7
+       ],
+       [
+        20.7,
+        36.8
+       ],
+       [
+        2.3,
+        36.8
+       ]
+      ],
+      "dash": true,
+      "text": "DANSVLOER"
+     },
+     {
+      "t": "bar",
+      "a": [
+       7.4,
+       43.5
+      ],
+      "b": [
+       8.7,
+       85.3
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       9.7,
+       96.7
+      ],
+      "b": [
+       17.7,
+       98.7
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "label",
+      "x": 15.7,
+      "y": 79.3,
+      "text": "INDICATIEF",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "lat": 52.3721,
+  "lng": 4.89098,
+  "photo": true,
+  "capacity": 350,
+  "status": "open",
+  "basis": "bag+fotos",
+  "bronnen": [
+   "https://www.amsterdamnow.com/en/?p=81668",
+   "https://amsterdamnow.com/en/going-out-entertainment/club-nl/",
+   "https://zoek.officielebekendmakingen.nl/gmb-2026-1109.pdf",
+   "https://linktr.ee/nachbar169",
+   "BAG pand 0363100012167527 (PDOK)"
+  ]
+ },
+ {
+  "id": "disco-dolly",
+  "name": "Tuftuf",
+  "address": "Handboogstraat 11, 1012 XM Amsterdam",
+  "area": "Centrum",
+  "website": "https://tuftuf.nl",
+  "source": "Disco Dolly (2013-eind 2023, in het pand van Dansen bij Jansen) is op 14-02-2025 heropend als Tuftuf, after-dinner club 25+ (vr/za vanaf 21:00). Buitenmuren uit BAG (pand 0363100012167923, 8,6 x 17 m; Handboogstraat 11 = bijeenkomstfunctie 210 m2). locaties.nl: hoofdzaal ~200 m2 (10-250) en boven ~80 m2 (20-100) met tweede bar; Bart's Boekje: dansvloer beneden, boven vaak privéfeesten. Foto's (locaties.nl): lange bar met achterwand vol flessen, plafond vol discoballen boven de dansvloer, DJ-booth, zitjes. Posities binnen de zalen geschat.",
+  "confidence": "laag",
+  "note": "Disco Dolly heet sinds februari 2025 Tuftuf (zelfde pand, Handboogstraat 11). Indicatief: bar langs de wand vanaf de ingang, dansvloer onder de discoballen achterin. Boven een tweede bar, vaak voor privéfeesten.",
+  "rooms": [
+   {
+    "name": "Benedenzaal",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      39.4,
+      3.5
+     ],
+     [
+      53.5,
+      4.1
+     ],
+     [
+      50.6,
+      99.4
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 20.0,
+      "y": 5.3,
+      "w": 14.1,
+      "h": 7.6
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        15.3,
+        16.5
+       ],
+       [
+        50.6,
+        16.5
+       ],
+       [
+        50.0,
+        52.9
+       ],
+       [
+        15.3,
+        52.9
+       ]
+      ],
+      "dash": true,
+      "text": "DANSVLOER"
+     },
+     {
+      "t": "bar",
+      "a": [
+       9.4,
+       38.2
+      ],
+      "b": [
+       9.4,
+       82.4
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       15.3,
+       100.0
+      ],
+      "b": [
+       27.1,
+       100.0
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "label",
+      "x": 34.1,
+      "y": 73.5,
+      "text": "INDICATIEF",
+      "size": 14
+     }
+    ]
+   },
+   {
+    "name": "Boven",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      91.5,
+      0.0
+     ],
+     [
+      91.5,
+      100.0
+     ],
+     [
+      0.0,
+      100.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "label",
+      "x": 45.7,
+      "y": 42.6,
+      "text": "BAR 2 + ZITHOEKEN",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 45.7,
+      "y": 57.4,
+      "text": "VAAK PRIVE-EVENTS",
+      "size": 15
+     },
+     {
+      "t": "label",
+      "x": 45.7,
+      "y": 89.4,
+      "text": "INDICATIEF",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "lat": 52.36809,
+  "lng": 4.89024,
+  "photo": true,
+  "aka": "Disco Dolly, Tuf Tuf",
+  "capacity": 400,
+  "status": "open",
+  "basis": "bag+fotos",
+  "bronnen": [
+   "https://tuftuf.nl",
+   "https://www.locaties.nl/en-US/venue/tuftuf-179639",
+   "https://www.bartsboekje.com/en/clubs-amsterdam/",
+   "https://www.nhnieuws.nl/nieuws/328564/disco-dolly-bloemenbar-stopt-amsterdam/",
+   "BAG pand 0363100012167923 (PDOK)"
+  ]
+ }
+]

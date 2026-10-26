@@ -8,3 +8,5 @@ www/
 android/app/build/
 ios/App/Pods/
 ios/App/build/
+_preview/
+data/sources/
