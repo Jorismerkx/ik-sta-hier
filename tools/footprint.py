@@ -117,8 +117,9 @@ def run(arg):
     aerial(lat, lon, mr, [r for _, r in others if r], os.path.join(OUT, vid + '.png'))
     print(f"ok  {vid:28} pand {out['pand']['bag_id']} {out['pand']['footprint_m2']} m2 {out['pand']['breedte_m']}x{out['pand']['diepte_m']} m  ({src})")
 
-ids = sys.argv[1:] or list(venues)
-for vid in ids:
+if __name__ == '__main__':
+  ids = sys.argv[1:] or list(venues)
+  for vid in ids:
     try: run(vid)
     except Exception as e: print('FOUT', vid, e)
     time.sleep(0.3)

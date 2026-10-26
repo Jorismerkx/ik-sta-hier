@@ -1,0 +1,349 @@
+{
+ "id": "bitterzoet",
+ "naam": "Bitterzoet",
+ "adres": "Spuistraat 2, 1012 TS Amsterdam",
+ "uitleg": "Alle *_m coordinaten in meters rond het midden van het hoofdpand: x = oost, y = zuid (noord boven), zelfde stelsel als gebouw.polygon_m.",
+ "gebouw": {
+  "bag_id": "0363100012171035",
+  "bouwjaar": 1905,
+  "gebruiksdoel": "bijeenkomstfunctie,kantoorfunctie",
+  "footprint_m2": 281,
+  "breedte_m": 26.4,
+  "diepte_m": 24.2,
+  "polygon_m": [
+   [
+    -6.2,
+    -10.0
+   ],
+   [
+    -14.1,
+    -4.0
+   ],
+   [
+    -14.3,
+    -3.9
+   ],
+   [
+    3.5,
+    14.2
+   ],
+   [
+    12.2,
+    6.7
+   ],
+   [
+    11.9,
+    6.3
+   ],
+   [
+    7.8,
+    1.3
+   ],
+   [
+    5.4,
+    -0.5
+   ],
+   [
+    -6.2,
+    -10.0
+   ]
+  ],
+  "hoogtes_3dbag": {
+   "b3_dak_type": "slanted",
+   "b3_h_maaiveld": 0.3,
+   "b3_h_dak_min": 11.25,
+   "b3_h_dak_50p": 17.36,
+   "b3_h_dak_max": 19.92,
+   "b3_h_nok": 17.9,
+   "b3_opp_grond": 283.47,
+   "b3_volume_lod22": 4590.43,
+   "b3_bouwlagen": null
+  }
+ },
+ "adrespunt_m": [
+  6.1,
+  9.4
+ ],
+ "units_bag": [
+  {
+   "adres": "Kattengat 10",
+   "gebruiksdoel": "bijeenkomstfunctie",
+   "oppervlakte_m2": 1,
+   "punt_m": [
+    2.0,
+    -0.5
+   ]
+  },
+  {
+   "adres": "Spuistraat 2",
+   "gebruiksdoel": "bijeenkomstfunctie",
+   "oppervlakte_m2": 836,
+   "punt_m": [
+    6.0,
+    9.4
+   ]
+  },
+  {
+   "adres": "Teerketelsteeg 1",
+   "gebruiksdoel": "kantoorfunctie",
+   "oppervlakte_m2": 412,
+   "punt_m": [
+    -10.0,
+    -4.4
+   ]
+  }
+ ],
+ "osm": [
+  {
+   "type": "node",
+   "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "2",
+    "addr:postcode": "1012TS",
+    "addr:street": "Spuistraat",
+    "amenity": "nightclub",
+    "contact:facebook": "https://www.facebook.com/BitterzoetAmsterdam/",
+    "contact:instagram": "https://www.instagram.com/bitterzoet/",
+    "min_age": "18",
+    "name": "Bitterzoet",
+    "phone": "+31 20 421 2318",
+    "source": "BAG",
+    "source:date": "2014-02-11",
+    "website": "https://www.bitterzoet.com",
+    "wheelchair": "yes"
+   },
+   "punt_m": [
+    6.1,
+    9.4
+   ]
+  },
+  {
+   "type": "node",
+   "tags": {
+    "amenity": "bar",
+    "name": "CIMA"
+   },
+   "punt_m": [
+    64.4,
+    -29.6
+   ]
+  }
+ ],
+ "straatbeelden": [
+  {
+   "bestand": "street_00.jpg",
+   "punt_m": [
+    6.5,
+    23.9
+   ],
+   "kijkrichting_graden": 253,
+   "panorama_360": true,
+   "datum": "2025-07-07T10:41:02.858000+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_01.jpg",
+   "punt_m": [
+    12.3,
+    -18.5
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T02:02:37+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_02.jpg",
+   "punt_m": [
+    11.3,
+    20.3
+   ],
+   "kijkrichting_graden": 213,
+   "panorama_360": true,
+   "datum": "2025-07-07T10:41:00.756000+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_03.jpg",
+   "punt_m": [
+    1.9,
+    27.9
+   ],
+   "kijkrichting_graden": 248,
+   "panorama_360": true,
+   "datum": "2025-07-07T10:41:04.760000+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_04.jpg",
+   "punt_m": [
+    16.3,
+    -12.2
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-13T07:46:58.258710+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_05.jpg",
+   "punt_m": [
+    16.2,
+    16.6
+   ],
+   "kijkrichting_graden": 221,
+   "panorama_360": true,
+   "datum": "2025-07-07T10:40:58.587000+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_06.jpg",
+   "punt_m": [
+    11.4,
+    -26.2
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-13T07:47:01.278640+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_07.jpg",
+   "punt_m": [
+    -2.8,
+    31.8
+   ],
+   "kijkrichting_graden": 230,
+   "panorama_360": true,
+   "datum": "2025-07-07T10:41:06.461000+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  }
+ ],
+ "videos": [
+  {
+   "id": "wfbmUGYU-bk",
+   "titel": "Ginton - Live at Bitterzoet Amsterdam (Full set)",
+   "duur_s": 5374,
+   "kanaal": "Ginton and Woody Trees",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v00_s0_01.jpg",
+    "v00_s0_02.jpg",
+    "v00_s0_03.jpg",
+    "v00_s1_01.jpg",
+    "v00_s1_02.jpg",
+    "v00_s2_01.jpg",
+    "v00_s2_02.jpg",
+    "v00_s2_03.jpg",
+    "v00_s3_01.jpg",
+    "v00_s3_02.jpg",
+    "v00_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "aEpUn0wUtwU",
+   "titel": "The Vibes Are Unreal 🔥 | Baeman Live at Bitterzoet Amsterdam (R&B x Hip-Hop Classics)",
+   "duur_s": 3594,
+   "kanaal": "Baeman⛷️",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v01_s0_01.jpg",
+    "v01_s1_01.jpg",
+    "v01_s2_01.jpg",
+    "v01_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "V6id8tqGJJ0",
+   "titel": "Amapiano, Afro & Hiphop Mix | Charlizeh | Bitterzoet Amsterdam | Sounds by After Hours",
+   "duur_s": 3360,
+   "kanaal": "AfterHours",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v02_s0_01.jpg",
+    "v02_s0_02.jpg",
+    "v02_s0_03.jpg",
+    "v02_s1_01.jpg",
+    "v02_s1_02.jpg",
+    "v02_s1_03.jpg",
+    "v02_s2_01.jpg",
+    "v02_s2_02.jpg",
+    "v02_s2_03.jpg",
+    "v02_s3_01.jpg",
+    "v02_s3_02.jpg",
+    "v02_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "IF6mDM8Ma2Y",
+   "titel": "BesefietsTv DjDrivah Slog #1 Bitterzoet",
+   "duur_s": 310,
+   "kanaal": "Akeyah444",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v03_s0_01.jpg",
+    "v03_s0_02.jpg",
+    "v03_s0_03.jpg",
+    "v03_s1_01.jpg",
+    "v03_s1_02.jpg",
+    "v03_s2_01.jpg",
+    "v03_s3_01.jpg",
+    "v03_s3_02.jpg",
+    "v03_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "v_CY9ZYUOok",
+   "titel": "Baeman – Live at FUEGO (Bitterzoet Amsterdam) 🔥 | Hip-Hop x Dancehall x R&B Energy 2025",
+   "duur_s": 3678,
+   "kanaal": "Baeman⛷️",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v04_s0_01.jpg",
+    "v04_s1_01.jpg",
+    "v04_s2_01.jpg",
+    "v04_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "tHxESSyKP3I",
+   "titel": "SHUFFLEMODE 02: NIRO DIAZ | AFRO, SALSA, EDITS, TAMBU, UK GARAGE | LIVE AT BITTERZOET",
+   "duur_s": 3582,
+   "kanaal": "Shufflemode and NIRO DIAZ",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v05_s0_01.jpg",
+    "v05_s1_01.jpg",
+    "v05_s2_01.jpg",
+    "v05_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "_j8P26rU1MA",
+   "titel": "CHELSEA SLOAN | Amapiano Worldwide @ Bitterzoet, Amsterdam (22-11-2025)",
+   "duur_s": 3774,
+   "kanaal": "Amapiano Worldwide and Chelsea - Sloan Samuels",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": [
+    "v06_s0_01.jpg",
+    "v06_s0_02.jpg",
+    "v06_s0_03.jpg",
+    "v06_s1_01.jpg",
+    "v06_s1_02.jpg",
+    "v06_s1_03.jpg",
+    "v06_s2_01.jpg",
+    "v06_s2_02.jpg",
+    "v06_s2_03.jpg",
+    "v06_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "7SrSPex_AoI",
+   "titel": "NOMTAH | Amapiano Worldwide @ Bitterzoet, Amsterdam (22-11-2025)",
+   "duur_s": 3652,
+   "kanaal": "Amapiano Worldwide and Nomtha Gocina",
+   "query": "Bitterzoet amsterdam dj set",
+   "frames": []
+  }
+ ]
+}

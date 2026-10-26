@@ -1,0 +1,241 @@
+[
+ {
+  "id": "panama",
+  "name": "Panama",
+  "address": "Oostelijke Handelskade 4, 1019 BM Amsterdam",
+  "source": "auto-blind: BAG/3D BAG, luchtfoto, AHN-hoogtekaart, Panoramax-straatbeelden, YouTube-keyframes",
+  "confidence": "laag",
+  "rooms": [
+   {
+    "name": "Grote zaal",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      16.3,
+      0.0
+     ],
+     [
+      16.3,
+      33.9
+     ],
+     [
+      0.0,
+      33.9
+     ]
+    ],
+    "maat_m": [
+     16.3,
+     33.9
+    ],
+    "conf": "middel",
+    "bewijs": [
+     "context.json polygon_m (hoofdblok tussen westvleugel en oostgevel)",
+     "luchtfoto.png (schilddak met nok-lantaarn)",
+     "hoogte.png (hoge nok over het hoofdblok)",
+     "units_bag: 1 unit bijeenkomstfunctie 2152 m2",
+     "OSM-punt nightclub midden onder de lantaarn"
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "x": 2.5,
+      "y": 0,
+      "w": 11.3,
+      "h": 5.0,
+      "label": "PODIUM",
+      "conf": "laag",
+      "bewijs": [
+       "v04_s3_01",
+       "v04_s1_02",
+       "v00_s2_02",
+       "v00_s3_01",
+       "keuze oostkop = tegenover luifelingang (street_07); niet in beeld bevestigd"
+      ]
+     },
+     {
+      "t": "dj",
+      "x": 5.4,
+      "y": 3.9,
+      "w": 5.5,
+      "h": 1.1,
+      "conf": "middel",
+      "bewijs": [
+       "v00_s2_02",
+       "v00_s3_01",
+       "v07_s1_01",
+       "v02_s1_02"
+      ]
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0,
+        27.9
+       ],
+       [
+        16.3,
+        27.9
+       ],
+       [
+        16.3,
+        33.9
+       ],
+       [
+        0,
+        33.9
+       ]
+      ],
+      "text": "BALKON + GALERIJEN",
+      "dash": true,
+      "conf": "middel",
+      "bewijs": [
+       "v00_s0_01",
+       "v00_s2_02",
+       "v01_s2_01",
+       "v04_s3_01 (camera op achterbalkon)",
+       "diepte 6 m geschat"
+      ]
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0,
+        0
+       ],
+       [
+        2.5,
+        0
+       ],
+       [
+        2.5,
+        27.9
+       ],
+       [
+        0,
+        27.9
+       ]
+      ],
+      "dash": true,
+      "conf": "middel",
+      "bewijs": [
+       "v04_s3_01",
+       "v04_s1_03",
+       "v00_s0_01",
+       "breedte geschat"
+      ]
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        13.8,
+        0
+       ],
+       [
+        16.3,
+        0
+       ],
+       [
+        16.3,
+        27.9
+       ],
+       [
+        13.8,
+        27.9
+       ]
+      ],
+      "dash": true,
+      "conf": "middel",
+      "bewijs": [
+       "v04_s3_01",
+       "v04_s1_03",
+       "v06_s0_01",
+       "breedte geschat"
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       31.0
+      ],
+      "b": [
+       0,
+       33.0
+      ],
+      "side": -1,
+      "conf": "middel",
+      "bewijs": [
+       "street/street_07.jpg",
+       "street/street_04.jpg",
+       "luifel met PANAMA aan noordgevel, ca. 2 m oost van westvleugel (panoramahoek)"
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       14.8
+      ],
+      "b": [
+       0,
+       16.8
+      ],
+      "side": -1,
+      "label": "DEUR",
+      "conf": "laag",
+      "bewijs": [
+       "street/street_07.jpg",
+       "street/street_04.jpg",
+       "deur in middenrisaliet noordgevel; BAG-adrespunt ligt vlakbij; functie onbekend"
+      ]
+     },
+     {
+      "t": "bar",
+      "a": [
+       4.0,
+       33.9
+      ],
+      "b": [
+       12.3,
+       33.9
+      ],
+      "side": -1,
+      "conf": "laag",
+      "bewijs": [
+       "v00_s0_01 (verlichte strook onder achterbalkon)",
+       "v01_s2_02 (verlichte glazen zone onder balkon)"
+      ]
+     },
+     {
+      "t": "pillar",
+      "x": 2.5,
+      "y": 27.9,
+      "conf": "laag",
+      "bewijs": [
+       "v01_s2_02 (kolom onder balkonrand)",
+       "v06_s0_02"
+      ]
+     },
+     {
+      "t": "pillar",
+      "x": 13.8,
+      "y": 27.9,
+      "conf": "laag",
+      "bewijs": [
+       "v01_s2_02",
+       "v06_s0_02"
+      ]
+     }
+    ]
+   }
+  ],
+  "methode": "auto-blind",
+  "samenvatting": "De zaal is het hoofdblok van het pand (ca. 34 x 16 m, schilddak met nok-lantaarn, tussen de hoge westvleugel en de oostgevel), met de clubingang onder de PANAMA-luifel aan de noordgevel vlak naast de westvleugel (straatbeelden 04 en 07). Uit de frames: podium met DJ aan een korte kopwand, een balkon tegenover het podium en smalle galerijen langs beide langswanden (v00, v04, v06). Het zwakst: dat het podium aan de oostkop staat is afgeleid uit de ingang aan de westkant en niet in beeld bevestigd; balkon- en galerijdieptes, bar en kolommen zijn geschat."
+ }
+]

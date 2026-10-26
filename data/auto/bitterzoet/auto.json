@@ -1,0 +1,71 @@
+[
+  {
+    "id": "bitterzoet",
+    "name": "Bitterzoet",
+    "address": "Spuistraat 2, 1012 TS Amsterdam",
+    "methode": "auto-blind",
+    "rooms": [
+      {
+        "name": "Zaal",
+        "outline": [[0, 0], [10.1, 1.3], [11.7, 16.2], [12.1, 19.2], [11.5, 26.1], [0, 25.4]],
+        "outline_conf": "middel",
+        "outline_bewijs": [
+          "context.json gebouw.polygon_m (BAG, 281 m2), 44,5 graden gedraaid zodat de NW-kopgevel boven ligt",
+          "hoogte.png: hele pand is een egale hoge bouwmassa (dak 11-20 m), geen aparte hoge hal; zaal dus binnen de bouwlagen, aangenomen begane grond over vrijwel de hele footprint",
+          "units_bag: Spuistraat 2 bijeenkomstfunctie 836 m2 (circa 3 lagen van 283 m2)"
+        ],
+        "features": [
+          {
+            "t": "stage", "x": 0.5, "y": 1.5, "w": 9.4, "h": 4.2,
+            "conf": "middel",
+            "bewijs": [
+              "v00_s0_01..03, v00_s3_02: laag houten podium over bijna de hele breedte aan een korte kopwand, DJ-tafel achterin, percussie links, sax/keys rechts",
+              "keuze NW-kop: rode (boog)ramen/panelen zitten links van de DJ (v03_s2_01, v02_s0_01, v02_s2_01, v06_s0_02); de enige lange gevel met ramen is de NO-gevel aan het plein (street_01, street_04, street_06), de ZW-zijde is een bouwmuur met buren",
+              "ingang zit aan de andere kop (Spuistraat, street_05)"
+            ]
+          },
+          {
+            "t": "dj", "x": 3.7, "y": 4.65, "w": 2.8, "h": 0.95,
+            "conf": "middel",
+            "bewijs": [
+              "v06_s1_01, v06_s2_01..03, v02_s2_01: DJ-booth midden voorop het podium, publiek direct ervoor, mensen en projectiescherm erachter",
+              "v00_s0_01, v00_s2_02: bij een liveset staat de DJ-tafel midden achter op het podium; de positie wisselt dus per avond"
+            ]
+          },
+          {
+            "t": "poly",
+            "pts": [[0, 10.6], [3.0, 11.6], [6.0, 11.9], [9.0, 11.5], [11.1, 10.6], [11.7, 16.2], [12.1, 19.2], [11.5, 26.1], [0, 25.4]],
+            "text": "BALKON",
+            "dash": true,
+            "conf": "laag",
+            "bewijs": [
+              "bestaan hoog: v00_s2_02, v00_s2_03, v01_s0_01, v01_s1_01, v05_s0_01, v05_s1_01 tonen vanaf de DJ een balkon met hekwerk tegenover het podium, met lager plafond en verlichting eronder",
+              "v01_s0_01: balkonrand loopt gebogen en komt links (rechterwand in de tekening) dichter bij het podium",
+              "diepte geschat: rand op circa 6-8 m van de DJ (hoek naar balkonrand in v00_s2_02) en v00_s0_01 lijkt vanaf het balkon op circa 8 m van de DJ-tafel gefilmd; vorm en diepte zijn een schatting"
+            ]
+          },
+          {
+            "t": "pillar", "x": 3.4, "y": 11.8,
+            "conf": "laag",
+            "bewijs": ["v05_s0_01, v05_s1_01: twee pilaren met paarse ledstrip onder de balkonrand", "v00_s2_02: pilaar onder de balkonrand links van het midden", "positie langs de rand geschat"]
+          },
+          {
+            "t": "pillar", "x": 8.0, "y": 11.8,
+            "conf": "laag",
+            "bewijs": ["v05_s0_01, v05_s3_01: tweede pilaar met paarse ledstrip bij de balkonrand", "positie geschat (symmetrisch)"]
+          },
+          {
+            "t": "in", "a": [4.4, 25.7], "b": [7.0, 25.8], "side": -1,
+            "conf": "middel",
+            "bewijs": [
+              "street_05 (en street_00, street_02): luifel met BITTERZOET en het B-logo boven twee glazen deuren midden in de Spuistraatgevel",
+              "adrespunt_m en BAG-punt Spuistraat 2 (836 m2 bijeenkomst) liggen aan deze gevel",
+              "deuren op circa 3,6-7,8 m vanaf de zuidhoek (gecorrigeerd voor perspectief via de vensterassen); of de straatdeur direct in de zaal uitkomt of via een foyer onder het balkon is niet te zien"
+            ]
+          }
+        ]
+      }
+    ],
+    "samenvatting": "Omtrek is de BAG-footprint (circa 25 x 10-12 m), gedraaid met het podium aan de NW-kop en de Spuistraat-ingang (straatbeeld met BITTERZOET-luifel) onderaan; de keuze voor de NW-kop rust op de rode ramen die in vier video's links van de DJ zitten en de NO-gevel die als enige lange gevel ramen heeft. Podium met DJ midden en een balkon met hekwerk tegenover het podium zijn in meerdere frames duidelijk te zien. Zwakst: diepte en vorm van het balkon, de positie van de pilaren, en of de zaal echt de hele footprint beslaat; de bar is in geen enkel frame herkenbaar en is daarom niet getekend."
+  }
+]

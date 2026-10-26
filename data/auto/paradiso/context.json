@@ -1,0 +1,466 @@
+{
+ "id": "paradiso",
+ "naam": "Paradiso",
+ "adres": "Weteringschans 6-8, 1017 SG Amsterdam",
+ "uitleg": "Alle *_m coordinaten in meters rond het midden van het hoofdpand: x = oost, y = zuid (noord boven), zelfde stelsel als gebouw.polygon_m.",
+ "gebouw": {
+  "bag_id": "0363100012169473",
+  "bouwjaar": 1880,
+  "gebruiksdoel": "bijeenkomstfunctie",
+  "footprint_m2": 737,
+  "breedte_m": 37.0,
+  "diepte_m": 39.2,
+  "polygon_m": [
+   [
+    18.4,
+    -6.7
+   ],
+   [
+    18.6,
+    -6.9
+   ],
+   [
+    23.3,
+    -13.0
+   ],
+   [
+    17.3,
+    -17.6
+   ],
+   [
+    17.4,
+    -17.7
+   ],
+   [
+    13.1,
+    -21.0
+   ],
+   [
+    13.0,
+    -20.9
+   ],
+   [
+    7.0,
+    -25.5
+   ],
+   [
+    6.9,
+    -25.4
+   ],
+   [
+    2.2,
+    -19.3
+   ],
+   [
+    2.3,
+    -19.2
+   ],
+   [
+    0.2,
+    -16.5
+   ],
+   [
+    0.2,
+    -16.5
+   ],
+   [
+    -4.3,
+    -10.8
+   ],
+   [
+    -6.9,
+    -7.4
+   ],
+   [
+    -8.5,
+    -5.5
+   ],
+   [
+    -13.7,
+    1.3
+   ],
+   [
+    -12.1,
+    2.5
+   ],
+   [
+    -12.5,
+    2.9
+   ],
+   [
+    -12.3,
+    3.1
+   ],
+   [
+    -12.2,
+    4.0
+   ],
+   [
+    -12.1,
+    4.9
+   ],
+   [
+    -11.9,
+    5.7
+   ],
+   [
+    -11.7,
+    6.6
+   ],
+   [
+    -11.3,
+    7.4
+   ],
+   [
+    -10.9,
+    8.2
+   ],
+   [
+    -10.4,
+    8.9
+   ],
+   [
+    -9.8,
+    9.6
+   ],
+   [
+    -9.2,
+    10.2
+   ],
+   [
+    -8.5,
+    10.8
+   ],
+   [
+    -7.8,
+    11.3
+   ],
+   [
+    -7.0,
+    11.7
+   ],
+   [
+    -6.2,
+    12.1
+   ],
+   [
+    -5.4,
+    12.4
+   ],
+   [
+    -4.5,
+    12.6
+   ],
+   [
+    -3.7,
+    12.7
+   ],
+   [
+    -2.8,
+    12.8
+   ],
+   [
+    -1.9,
+    12.8
+   ],
+   [
+    -1.0,
+    12.7
+   ],
+   [
+    -0.2,
+    12.5
+   ],
+   [
+    0.1,
+    12.6
+   ],
+   [
+    0.4,
+    12.2
+   ],
+   [
+    2.3,
+    13.6
+   ],
+   [
+    2.4,
+    13.4
+   ],
+   [
+    9.1,
+    4.9
+   ],
+   [
+    11.8,
+    1.4
+   ],
+   [
+    16.3,
+    -4.3
+   ],
+   [
+    18.2,
+    -6.9
+   ],
+   [
+    18.4,
+    -6.7
+   ]
+  ],
+  "hoogtes_3dbag": {
+   "b3_dak_type": "slanted",
+   "b3_h_maaiveld": 0.47,
+   "b3_h_dak_min": 14.29,
+   "b3_h_dak_50p": 17.22,
+   "b3_h_dak_max": 21.73,
+   "b3_h_nok": 21.4,
+   "b3_opp_grond": 742.8,
+   "b3_volume_lod22": 12686.1,
+   "b3_bouwlagen": null
+  }
+ },
+ "adrespunt_m": [
+  13.3,
+  -16.3
+ ],
+ "units_bag": [
+  {
+   "adres": "Weteringschans 6",
+   "gebruiksdoel": "bijeenkomstfunctie",
+   "oppervlakte_m2": 3044,
+   "punt_m": [
+    13.3,
+    -16.3
+   ]
+  }
+ ],
+ "osm": [
+  {
+   "fout": "Expecting value: line 1 column 1 (char 0)"
+  }
+ ],
+ "straatbeelden": [
+  {
+   "bestand": "street_00.jpg",
+   "punt_m": [
+    14.3,
+    -20.2
+   ],
+   "kijkrichting_graden": 102,
+   "panorama_360": false,
+   "datum": "2023-02-18T16:24:25+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_01.jpg",
+   "punt_m": [
+    10.6,
+    -27.2
+   ],
+   "kijkrichting_graden": 112,
+   "panorama_360": false,
+   "datum": "2024-08-30T07:39:06+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_02.jpg",
+   "punt_m": [
+    3.9,
+    -32.5
+   ],
+   "kijkrichting_graden": 113,
+   "panorama_360": false,
+   "datum": "2024-08-30T07:39:04+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_03.jpg",
+   "punt_m": [
+    -2.5,
+    -34.1
+   ],
+   "kijkrichting_graden": 92,
+   "panorama_360": false,
+   "datum": "2024-08-30T07:39:03+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_04.jpg",
+   "punt_m": [
+    -9.4,
+    -32.8
+   ],
+   "kijkrichting_graden": 245,
+   "panorama_360": false,
+   "datum": "2024-08-30T07:39:01+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_05.jpg",
+   "punt_m": [
+    2.0,
+    -39.3
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-07-14T04:44:57+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_06.jpg",
+   "punt_m": [
+    -16.1,
+    -29.5
+   ],
+   "kijkrichting_graden": 73,
+   "panorama_360": false,
+   "datum": "2024-08-30T07:39:00+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_07.jpg",
+   "punt_m": [
+    20.1,
+    -23.9
+   ],
+   "kijkrichting_graden": 218,
+   "panorama_360": false,
+   "datum": "2025-07-05T06:06:01.038000+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  }
+ ],
+ "videos": [
+  {
+   "id": "18ZDTmHIxxQ",
+   "titel": "DJ Tarkan - Live @ Paradiso, Amsterdam",
+   "duur_s": 3484,
+   "kanaal": "DJ TARKAN",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v00_s0_01.jpg",
+    "v00_s1_01.jpg",
+    "v00_s2_01.jpg",
+    "v00_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "TasedQE0FOA",
+   "titel": "BASSHALL SOUND SYSTEM at Paradiso in Amsterdam | 2022 DANCEHALL, AFROBEATS, REGGAETON live mix",
+   "duur_s": 2368,
+   "kanaal": "Basshall TV",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v01_s0_01.jpg",
+    "v01_s1_01.jpg",
+    "v01_s1_02.jpg",
+    "v01_s2_01.jpg",
+    "v01_s2_02.jpg",
+    "v01_s2_03.jpg",
+    "v01_s3_01.jpg",
+    "v01_s3_02.jpg"
+   ]
+  },
+  {
+   "id": "tRvEpOnhKH4",
+   "titel": "Joris Voorn SEROTONIN Live at Paradiso Amsterdam [Full Set]",
+   "duur_s": 5793,
+   "kanaal": "Joris Voorn",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v02_s0_01.jpg",
+    "v02_s0_02.jpg",
+    "v02_s0_03.jpg",
+    "v02_s1_01.jpg",
+    "v02_s1_02.jpg",
+    "v02_s1_03.jpg",
+    "v02_s2_01.jpg",
+    "v02_s2_02.jpg",
+    "v02_s2_03.jpg",
+    "v02_s3_01.jpg",
+    "v02_s3_02.jpg",
+    "v02_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "nTZnpkbHMGw",
+   "titel": "RAINVILLE B2B SIROLF | LIVE AT VYBZ | PARADISO  - AMSTERDAM NL | 27 JUNE 2026",
+   "duur_s": 3942,
+   "kanaal": "RAINVILLE",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v03_s0_01.jpg",
+    "v03_s1_01.jpg",
+    "v03_s2_01.jpg",
+    "v03_s2_02.jpg",
+    "v03_s2_03.jpg",
+    "v03_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "37wYv7q0vZw",
+   "titel": "Bun Xapa - Live at Paradiso Amsterdam, The Netherlands",
+   "duur_s": 3263,
+   "kanaal": "Bun Xapa",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v04_s0_01.jpg",
+    "v04_s1_01.jpg",
+    "v04_s1_02.jpg",
+    "v04_s2_01.jpg",
+    "v04_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "I1R1iclxorY",
+   "titel": "Laidback Luke | Super You & Me at Paradiso | Amsterdam (Netherlands)",
+   "duur_s": 3131,
+   "kanaal": "Dance TV",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v05_s0_01.jpg",
+    "v05_s0_02.jpg",
+    "v05_s0_03.jpg",
+    "v05_s1_01.jpg",
+    "v05_s1_02.jpg",
+    "v05_s1_03.jpg",
+    "v05_s2_01.jpg",
+    "v05_s2_02.jpg",
+    "v05_s2_03.jpg",
+    "v05_s3_01.jpg",
+    "v05_s3_02.jpg",
+    "v05_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "PPyV2qaxqg4",
+   "titel": "Seb_h 1-Hour DJ Set Live at Paradiso Amsterdam 2026",
+   "duur_s": 4968,
+   "kanaal": "In Session Ibiza by Seb_h",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v06_s0_01.jpg",
+    "v06_s1_01.jpg",
+    "v06_s2_01.jpg",
+    "v06_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "lHg_8uP7HWw",
+   "titel": "CHAMOS live at Club Newroz 2026 - Paradiso Amsterdam",
+   "duur_s": 6890,
+   "kanaal": "CHAMOS",
+   "query": "Paradiso amsterdam dj set",
+   "frames": [
+    "v07_s0_01.jpg",
+    "v07_s1_01.jpg",
+    "v07_s1_02.jpg",
+    "v07_s1_03.jpg",
+    "v07_s2_01.jpg",
+    "v07_s3_01.jpg",
+    "v07_s3_02.jpg",
+    "v07_s3_03.jpg"
+   ]
+  }
+ ]
+}

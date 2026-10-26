@@ -1,0 +1,34 @@
+[
+  {
+    "id": "q-factory",
+    "name": "Q-Factory",
+    "address": "Atlantisplein 1, 1093 NE Amsterdam",
+    "methode": "auto-blind",
+    "confidence": "laag",
+    "rooms": [
+      {
+        "name": "Grote zaal",
+        "outline": [[0, 0], [17, 0], [17, 24.5], [0, 24.5]],
+        "conf": "laag",
+        "bewijs": [
+          "luchtfoto.png: verdiept dakveld met rijen zonnepanelen in de kern van het pand, ca. 24,5 x 17 m (pand-assen x 16,5-41 / y 10-27 m; in polygon_m de hoeken (-21.1,-11.7) (2.0,-19.9) (7.6,-3.9) (-15.5,4.3)), aan alle kanten omringd door hogere randbebouwing",
+          "street_03/05/06 en street_00/01: hotelramen op 3-4 lagen langs noord-, plein- en oostgevel, dus de hoge zaal kan alleen in de kern liggen",
+          "hoogte.png en 3D BAG: dak overal 17-20 m, geen apart hoger zaaldeel; alleen de lichthoven in de westvleugel zijn laag",
+          "v05_s0_01 / v05_s1_01: afstand tot het podium van ca. 10-13 m (midden) tot ca. 17-22 m (achterin) wijst op een diepe zaal met het podium aan de korte kant"
+        ],
+        "features": [
+          {"t": "stage", "x": 3.5, "y": 0, "w": 10, "h": 5.5, "label": "PODIUM",
+           "conf": "middel",
+           "bewijs": ["v05_s0_01 (podium ca. 8-10 m breed met lichttruss en ruimte ernaast)", "v03_s0_01, v07_s0_01 (verhoogd theaterpodium met zijdoek)", "kant van de zaal (west) is een aanname: zie samenvatting"]},
+          {"t": "dj", "x": 6.5, "y": 3.8, "w": 4, "h": 1.4,
+           "conf": "middel",
+           "bewijs": ["v00_s0_01, v00_s2_01 (lange DJ-tafel aan de podiumvoorrand, publiek er direct voor)", "v03_s1_01, v03_s3_02 (DJ-tafel voorin midden op het podium)"]},
+          {"t": "in", "a": [0, 17], "b": [0, 21.5], "side": -1, "label": "IN (FOYER)",
+           "conf": "laag",
+           "bewijs": ["street_00 en street_02: hoofdingang midden in de pleingevel (zuid), ca. 29-30 m vanaf de westhoek", "luchtfoto.png: lichtstraat/atrium (x 16-45 / y 27-34 m) tussen pleingevel en zaal = foyer", "v07_s0_02: daglichtfoyer met trap", "precieze plek van de zaaldeur langs de foyerzijde is geschat (achterste helft, tegenover het podium)"]}
+        ]
+      }
+    ],
+    "samenvatting": "Hoofdzaal geplaatst in de kern van het pand: het verdiepte dakveld met zonnepanelen op de luchtfoto (ca. 24,5 x 17 m), omringd door hotelvleugels met kamerramen op alle gevels. De foyer zit onder de lichtstraat langs de pleingevel, de hoofdingang midden in die gevel (gepeild uit twee straatpanorama's). Podium en DJ-tafel komen uit de videoframes. De afstanden tot het podium in v05 wijzen op een diepe zaal met het podium aan een korte wand. Het zwakst: of het podium aan de west- of de oostkant staat (west gekozen, de zaal kan dus gespiegeld zijn), de plek van de zaaldeur, en bars en een eventueel balkon, die in geen enkel frame te zien zijn en daarom niet getekend zijn."
+  }
+]

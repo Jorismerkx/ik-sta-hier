@@ -1,0 +1,364 @@
+{
+ "id": "panama",
+ "naam": "Panama",
+ "adres": "Oostelijke Handelskade 4, 1019 BM Amsterdam",
+ "uitleg": "Alle *_m coordinaten in meters rond het midden van het hoofdpand: x = oost, y = zuid (noord boven), zelfde stelsel als gebouw.polygon_m.",
+ "gebouw": {
+  "bag_id": "0363100012078164",
+  "bouwjaar": 1885,
+  "gebruiksdoel": "bijeenkomstfunctie",
+  "footprint_m2": 1124,
+  "breedte_m": 50.2,
+  "diepte_m": 39.3,
+  "polygon_m": [
+   [
+    29.9,
+    -3.3
+   ],
+   [
+    4.3,
+    -10.5
+   ],
+   [
+    -2.8,
+    -12.5
+   ],
+   [
+    -2.4,
+    -13.7
+   ],
+   [
+    -2.1,
+    -14.7
+   ],
+   [
+    -1.7,
+    -16.1
+   ],
+   [
+    -14.5,
+    -19.8
+   ],
+   [
+    -20.3,
+    0.3
+   ],
+   [
+    -12.7,
+    2.5
+   ],
+   [
+    -14.1,
+    7.5
+   ],
+   [
+    -14.3,
+    8.1
+   ],
+   [
+    -13.9,
+    9.0
+   ],
+   [
+    -12.2,
+    12.1
+   ],
+   [
+    -9.9,
+    12.8
+   ],
+   [
+    14.1,
+    19.6
+   ],
+   [
+    17.1,
+    9.8
+   ],
+   [
+    25.4,
+    12.3
+   ],
+   [
+    29.9,
+    -3.3
+   ]
+  ],
+  "hoogtes_3dbag": {
+   "b3_dak_type": "slanted",
+   "b3_h_maaiveld": 1.53,
+   "b3_h_dak_min": 7.43,
+   "b3_h_dak_50p": 9.18,
+   "b3_h_dak_max": 13.71,
+   "b3_h_nok": 13.9,
+   "b3_opp_grond": 1133.7,
+   "b3_volume_lod22": 9111.0,
+   "b3_bouwlagen": null
+  }
+ },
+ "adrespunt_m": [
+  11.4,
+  -7.6
+ ],
+ "units_bag": [
+  {
+   "adres": "Oostelijke Handelskade 4",
+   "gebruiksdoel": "bijeenkomstfunctie",
+   "oppervlakte_m2": 2152,
+   "punt_m": [
+    11.4,
+    -7.6
+   ]
+  }
+ ],
+ "osm": [
+  {
+   "type": "node",
+   "tags": {
+    "addr:city": "Amsterdam",
+    "addr:housenumber": "4",
+    "addr:postcode": "1019BM",
+    "addr:street": "Oostelijke Handelskade",
+    "amenity": "nightclub",
+    "email": "info@panama.nl",
+    "name": "Panama",
+    "phone": "+31 20 311 8686",
+    "source": "BAG",
+    "source:date": "2014-03-24",
+    "website": "https://www.panama.nl"
+   },
+   "punt_m": [
+    11.4,
+    -0.1
+   ]
+  }
+ ],
+ "straatbeelden": [
+  {
+   "bestand": "street_00.jpg",
+   "punt_m": [
+    -6.6,
+    18.9
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T06:46:41+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_01.jpg",
+   "punt_m": [
+    1.8,
+    24.2
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T06:46:39+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_02.jpg",
+   "punt_m": [
+    -14.6,
+    12.8
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T06:46:43+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_03.jpg",
+   "punt_m": [
+    -5.7,
+    28.1
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T08:30:22+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_04.jpg",
+   "punt_m": [
+    1.3,
+    -31.3
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T08:25:26+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_05.jpg",
+   "punt_m": [
+    -14.2,
+    22.9
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T08:30:23+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_06.jpg",
+   "punt_m": [
+    2.7,
+    33.4
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T08:30:21+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_07.jpg",
+   "punt_m": [
+    11.0,
+    -28.6
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2025-06-16T08:25:24+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  }
+ ],
+ "videos": [
+  {
+   "id": "-_WaRaXoYjI",
+   "titel": "ReOrder live @ Luminosity Trance Gathering - Panama, Amsterdam 22. Feb 2019",
+   "duur_s": 4398,
+   "kanaal": "ReOrder",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v00_s0_01.jpg",
+    "v00_s1_01.jpg",
+    "v00_s2_01.jpg",
+    "v00_s2_02.jpg",
+    "v00_s3_01.jpg",
+    "v00_s3_02.jpg",
+    "v00_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "YsjuVhjZ-AM",
+   "titel": "Roger Sanchez | Smirnoff Experience at Panama | Amsterdam (Netherlands)",
+   "duur_s": 2041,
+   "kanaal": "Dance TV",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v01_s0_01.jpg",
+    "v01_s0_02.jpg",
+    "v01_s0_03.jpg",
+    "v01_s1_01.jpg",
+    "v01_s1_02.jpg",
+    "v01_s1_03.jpg",
+    "v01_s2_01.jpg",
+    "v01_s2_02.jpg",
+    "v01_s2_03.jpg",
+    "v01_s3_01.jpg",
+    "v01_s3_02.jpg",
+    "v01_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "fT1DAR98Ln8",
+   "titel": "Deep House Mix AMSTERDAM (Panama Club 2018)",
+   "duur_s": 3245,
+   "kanaal": "Black Diamond",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v02_s0_01.jpg",
+    "v02_s0_02.jpg",
+    "v02_s0_03.jpg",
+    "v02_s1_01.jpg",
+    "v02_s1_02.jpg",
+    "v02_s2_01.jpg",
+    "v02_s2_02.jpg",
+    "v02_s3_01.jpg",
+    "v02_s3_02.jpg"
+   ]
+  },
+  {
+   "id": "Xno6jE010a0",
+   "titel": "D-Unity live @ Panama, Amsterdam",
+   "duur_s": 5396,
+   "kanaal": "Unity Records",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v03_s0_01.jpg",
+    "v03_s0_02.jpg",
+    "v03_s0_03.jpg",
+    "v03_s1_01.jpg",
+    "v03_s2_01.jpg",
+    "v03_s3_01.jpg",
+    "v03_s3_02.jpg",
+    "v03_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "r-5Y8quRHpU",
+   "titel": "KUZIO B2B Zeyvers at Raving Charlie (Panama Amsterdam) (Hardtechno, Reverse Bass DJ Set)",
+   "duur_s": 4499,
+   "kanaal": "KUZIO and 2 more",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v04_s0_01.jpg",
+    "v04_s0_02.jpg",
+    "v04_s1_01.jpg",
+    "v04_s1_02.jpg",
+    "v04_s1_03.jpg",
+    "v04_s2_01.jpg",
+    "v04_s2_02.jpg",
+    "v04_s2_03.jpg",
+    "v04_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "M2LMIjym7TQ",
+   "titel": "Deborah De Luca - Set@ Panama Amsterdam - 31.12.2016",
+   "duur_s": 4957,
+   "kanaal": "CREATIVe Official",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v05_s0_01.jpg",
+    "v05_s1_01.jpg",
+    "v05_s2_01.jpg",
+    "v05_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "T-bFWRAB8Gc",
+   "titel": "Secret Cinema Live For Panama, Amsterdam as part of the #Top100Clubs Virtual World Tour",
+   "duur_s": 3553,
+   "kanaal": "DJ Mag",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v06_s0_01.jpg",
+    "v06_s0_02.jpg",
+    "v06_s0_03.jpg",
+    "v06_s1_01.jpg",
+    "v06_s1_02.jpg",
+    "v06_s1_03.jpg",
+    "v06_s2_01.jpg",
+    "v06_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "q6ScFdwqyBs",
+   "titel": "Alessandra Roncone - Sogno  FSOE Club Nights  @Panama Amsterdam",
+   "duur_s": 278,
+   "kanaal": "Alessandra Roncone",
+   "query": "Panama amsterdam dj set",
+   "frames": [
+    "v07_s0_01.jpg",
+    "v07_s0_02.jpg",
+    "v07_s0_03.jpg",
+    "v07_s1_01.jpg",
+    "v07_s2_01.jpg",
+    "v07_s2_02.jpg",
+    "v07_s2_03.jpg"
+   ]
+  }
+ ]
+}

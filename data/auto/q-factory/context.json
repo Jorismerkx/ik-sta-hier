@@ -1,0 +1,281 @@
+{
+ "id": "q-factory",
+ "naam": "Q-Factory",
+ "adres": "Atlantisplein 1, 1093 NE Amsterdam",
+ "uitleg": "Alle *_m coordinaten in meters rond het midden van het hoofdpand: x = oost, y = zuid (noord boven), zelfde stelsel als gebouw.polygon_m.",
+ "gebouw": {
+  "bag_id": "0363100012158881",
+  "bouwjaar": 2009,
+  "gebruiksdoel": "bijeenkomstfunctie,logiesfunctie",
+  "footprint_m2": 2690,
+  "breedte_m": 75.2,
+  "diepte_m": 65.5,
+  "polygon_m": [
+   [
+    24.5,
+    -20.3
+   ],
+   [
+    18.8,
+    -36.4
+   ],
+   [
+    -40.0,
+    -15.7
+   ],
+   [
+    -39.4,
+    -14.0
+   ],
+   [
+    -24.1,
+    29.1
+   ],
+   [
+    -17.1,
+    26.6
+   ],
+   [
+    -19.6,
+    19.4
+   ],
+   [
+    17.1,
+    6.4
+   ],
+   [
+    20.2,
+    15.3
+   ],
+   [
+    35.2,
+    10.0
+   ],
+   [
+    24.5,
+    -20.3
+   ]
+  ],
+  "hoogtes_3dbag": {
+   "b3_dak_type": "slanted",
+   "b3_h_maaiveld": 0.76,
+   "b3_h_dak_min": 17.03,
+   "b3_h_dak_50p": 18.74,
+   "b3_h_dak_max": 20.34,
+   "b3_h_nok": 19.34,
+   "b3_opp_grond": 2711.79,
+   "b3_volume_lod22": 48450.68,
+   "b3_bouwlagen": null
+  }
+ },
+ "adrespunt_m": [
+  -2.7,
+  2.2
+ ],
+ "units_bag": [
+  {
+   "adres": "Atlantisplein 1",
+   "gebruiksdoel": "bijeenkomstfunctie,logiesfunctie",
+   "oppervlakte_m2": 10620,
+   "punt_m": [
+    -2.8,
+    2.1
+   ]
+  }
+ ],
+ "osm": [
+  {
+   "fout": "Expecting value: line 1 column 1 (char 0)"
+  }
+ ],
+ "straatbeelden": [
+  {
+   "bestand": "street_00.jpg",
+   "punt_m": [
+    6.1,
+    31.6
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:13.900300+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_01.jpg",
+   "punt_m": [
+    14.9,
+    26.0
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:15.945270+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_02.jpg",
+   "punt_m": [
+    -3.4,
+    35.9
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:11.705330+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_03.jpg",
+   "punt_m": [
+    -6.8,
+    -40.7
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:38.535080+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_04.jpg",
+   "punt_m": [
+    23.7,
+    20.1
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:18.035470+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_05.jpg",
+   "punt_m": [
+    2.6,
+    -43.5
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:37.235090+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_06.jpg",
+   "punt_m": [
+    -15.9,
+    -37.3
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:39.840040+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  },
+  {
+   "bestand": "street_07.jpg",
+   "punt_m": [
+    -6.3,
+    44.4
+   ],
+   "kijkrichting_graden": 360,
+   "panorama_360": true,
+   "datum": "2023-01-02T07:31:07.580350+00:00",
+   "licentie": "CC-BY-SA-4.0 (Panoramax)"
+  }
+ ],
+ "videos": [
+  {
+   "id": "VtielrWHoNY",
+   "titel": "ACID-X @Ouwe Stijl Is Botergeil Q-Factory Amsterdam 09 02 2019",
+   "duur_s": 3369,
+   "kanaal": "ACID-X ",
+   "query": "Q-Factory amsterdam dj set",
+   "frames": [
+    "v00_s0_01.jpg",
+    "v00_s1_01.jpg",
+    "v00_s2_01.jpg",
+    "v00_s3_01.jpg"
+   ]
+  },
+  {
+   "id": "hdiAH3sYPMI",
+   "titel": "PLACID K @ Ouwe Stijl Is Botergeil - Q Factory Amsterdam - 09.02.2019",
+   "duur_s": 1834,
+   "kanaal": "ACMPHOTO.NET",
+   "query": "Q-Factory amsterdam dj set",
+   "fout": "Command '['yt-dlp', 'https://www.youtube.com/watch?v=hdiAH3sYPMI', '-f', '231/230/135/134/229/18', '--no-warnings', '--quiet', '-o', 'C:\\\\Users\\\\JorisMerkx\\\\OneDrive - Agyle\\\\Documenten\\\\Hassan RSA\\\\ik-sta-hier\\\\data\\\\auto\\\\q-factory\\\\frames\\\\_tmp\\\\v01_%(section_start)s.%(ext)s', '--download-sections', '*220-235', '--download-sections', '*696-711', '--download-sections', '*1137-1152', '--download-sections', '*1577-1592']' timed out after 180 seconds",
+   "frames": []
+  },
+  {
+   "id": "BDzkVqbuD-o",
+   "titel": "Live VJ Clips from Q-Factory Amsterdam - June 23, 2023",
+   "duur_s": 176,
+   "kanaal": "YOVOZOL",
+   "query": "Q-Factory amsterdam dj set",
+   "frames": [
+    "v02_s0_01.jpg",
+    "v02_s1_01.jpg",
+    "v02_s1_02.jpg",
+    "v02_s1_03.jpg"
+   ]
+  },
+  {
+   "id": "Xj-9UXKCXzQ",
+   "titel": "Lost & Found @ 2017-10-19 » Ade - Q-Factory Amesterdam",
+   "duur_s": 841,
+   "kanaal": "- pLA",
+   "query": "Q-Factory amsterdam dj set",
+   "frames": [
+    "v03_s0_01.jpg",
+    "v03_s1_01.jpg",
+    "v03_s2_01.jpg",
+    "v03_s3_01.jpg",
+    "v03_s3_02.jpg",
+    "v03_s3_03.jpg"
+   ]
+  },
+  {
+   "id": "wfnyDU_7_jo",
+   "titel": "Acid X @ Ouwe Stijl Is Botergeil   Q Factory Amsterdam 09 02 2019",
+   "duur_s": 3375,
+   "kanaal": "ACMPHOTO.NET",
+   "query": "Q-Factory amsterdam dj set",
+   "fout": "Command '['yt-dlp', 'https://www.youtube.com/watch?v=wfnyDU_7_jo', '-f', '231/230/135/134/229/18', '--no-warnings', '--quiet', '-o', 'C:\\\\Users\\\\JorisMerkx\\\\OneDrive - Agyle\\\\Documenten\\\\Hassan RSA\\\\ik-sta-hier\\\\data\\\\auto\\\\q-factory\\\\frames\\\\_tmp\\\\v04_%(section_start)s.%(ext)s', '--download-sections', '*405-420', '--download-sections', '*1282-1297', '--download-sections', '*2092-2107', '--download-sections', '*2902-2917']' timed out after 180 seconds",
+   "frames": []
+  },
+  {
+   "id": "Xj7GogxuAB4",
+   "titel": "Grandmaster Flash - The Message (Live @ Q-Factory, Amsterdam 2019)",
+   "duur_s": 146,
+   "kanaal": "Wouter Grevink",
+   "query": "Q-Factory amsterdam dj set",
+   "frames": [
+    "v05_s0_01.jpg",
+    "v05_s1_01.jpg"
+   ]
+  },
+  {
+   "id": "4N0PK_Gc2wo",
+   "titel": "Dj Orkidea - Luminosity Events Presents VII @ Club Q-Factory Amsterdam 30.11.2019 Pt.1",
+   "duur_s": 81,
+   "kanaal": "Omega Drive Official",
+   "query": "Q-Factory amsterdam dj set",
+   "frames": [
+    "v06_s0_01.jpg",
+    "v06_s0_02.jpg",
+    "v06_s0_03.jpg",
+    "v06_s1_01.jpg"
+   ]
+  },
+  {
+   "id": "DVRE4WjGQgA",
+   "titel": "Revealed Day ADE 2017 - Hardwell @ Q-Factory",
+   "duur_s": 95,
+   "kanaal": "Q-Factory Amsterdam",
+   "query": "Q-Factory amsterdam dj set",
+   "frames": [
+    "v07_s0_01.jpg",
+    "v07_s0_02.jpg",
+    "v07_s0_03.jpg",
+    "v07_s1_01.jpg",
+    "v07_s1_02.jpg",
+    "v07_s1_03.jpg"
+   ]
+  }
+ ]
+}

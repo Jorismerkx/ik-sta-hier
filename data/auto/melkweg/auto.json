@@ -1,0 +1,302 @@
+[
+ {
+  "id": "melkweg",
+  "name": "Melkweg",
+  "address": "Lijnbaansgracht 234A, 1017 PH Amsterdam",
+  "source": "auto-blind: BAG/3D BAG-polygon, AHN-hoogtekaart, luchtfoto, 8 straatbeelden Marnixstraat, 70 videoframes (8 video's)",
+  "confidence": "laag",
+  "note": "Indicatief. Hoofdzaal geplaatst in het hoge blok aan de zuidoostkant; ingang en podiumrichting zijn aannames.",
+  "rooms": [
+   {
+    "name": "Grote zaal (hoge hal, zuidoostkant)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      28.3,
+      0.0
+     ],
+     [
+      28.3,
+      30.7
+     ],
+     [
+      0.0,
+      30.7
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "label": "PODIUM",
+      "conf": "middel",
+      "bewijs": [
+       "v02_s2_02 (podium + LED-wand over grootste deel breedte)",
+       "v03_s0_01",
+       "v03_s0_02",
+       "v04_s0_01",
+       "plek aan ZO-kopse kant is aanname: ingang/foyer zit aan NW-kant (oud pand, adres Lijnbaansgracht)"
+      ],
+      "x": 5.2,
+      "y": 0.0,
+      "w": 18.0,
+      "h": 7.0
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "conf": "middel",
+      "bewijs": [
+       "v02_s2_02 (galerij met reling, links)",
+       "v03_s0_01 (balkon links bij podium op stalen draagconstructie)",
+       "lengte geschat"
+      ],
+      "pts": [
+       [
+        0.0,
+        25.0
+       ],
+       [
+        0.0,
+        7.0
+       ],
+       [
+        3.0,
+        7.0
+       ],
+       [
+        3.0,
+        25.0
+       ]
+      ]
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "conf": "middel",
+      "bewijs": [
+       "v02_s2_02 (galerij met reling en publiek, rechts)",
+       "lengte geschat"
+      ],
+      "pts": [
+       [
+        25.3,
+        25.0
+       ],
+       [
+        25.3,
+        7.0
+       ],
+       [
+        28.3,
+        7.0
+       ],
+       [
+        28.3,
+        25.0
+       ]
+      ]
+     },
+     {
+      "t": "poly",
+      "dash": true,
+      "conf": "laag",
+      "bewijs": [
+       "v01_s3_01 (verhoogd plateau met reling aan de verre kant)",
+       "v01_s3_02 (verlicht hoger niveau)",
+       "v05_s0_01 (camera hoog achterin, zaal onzeker)"
+      ],
+      "pts": [
+       [
+        0.0,
+        30.7
+       ],
+       [
+        0.0,
+        26.2
+       ],
+       [
+        28.3,
+        26.2
+       ],
+       [
+        28.3,
+        30.7
+       ]
+      ]
+     },
+     {
+      "t": "label",
+      "text": "BALKON",
+      "size": 16,
+      "conf": "middel",
+      "bewijs": [
+       "zie balkon-poly links (v02_s2_02, v03_s0_01)"
+      ],
+      "x": 1.6,
+      "y": 16.0
+     },
+     {
+      "t": "label",
+      "text": "BALKON",
+      "size": 16,
+      "conf": "middel",
+      "bewijs": [
+       "zie balkon-poly rechts (v02_s2_02)"
+      ],
+      "x": 26.6,
+      "y": 16.0
+     },
+     {
+      "t": "label",
+      "text": "BALKON",
+      "size": 18,
+      "conf": "laag",
+      "bewijs": [
+       "zie balkon-poly achter (v01_s3_01, v01_s3_02)"
+      ],
+      "x": 22.2,
+      "y": 28.4
+     },
+     {
+      "t": "in",
+      "label": "IN",
+      "conf": "laag",
+      "bewijs": [
+       "BAG-polygon: enige verbinding van het hoge blok met de rest van het pand loopt via de zone u36-49 (vertex 17-18 / 9-10)",
+       "adrespunt Lijnbaansgracht 234A en laag aanbouwtje liggen aan de grachtkant (NO), dus ingang links-achter gekozen; exacte plek geschat"
+      ],
+      "a": [
+       15.2,
+       30.7
+      ],
+      "b": [
+       10.2,
+       30.7
+      ]
+     }
+    ],
+    "conf": "laag",
+    "bewijs": [
+     "BAG-polygon: NO-wand = rand 15-16, ZW-wand = rand 10-12, NW-wand = rand 16-17/10 (28,3 m breed)",
+     "hoogte.png + 3D BAG: hoogste, vlakke deel van het pand (dak max 32,6 m) begint precies op u=49,5 en loopt buiten het BAG-pand door naar het ZO",
+     "luchtfoto: één doorlopende dakconstructie met ribben van u≈50 tot u≈91",
+     "ZO-wand (diepte 30,7 m) geschat uit de diepte die v02_s2_02/v05 laten zien; niet gemeten"
+    ]
+   },
+   {
+    "name": "Zaal 2 (oud pand, kolommen)",
+    "outline": [
+     [
+      15.0,
+      0.0
+     ],
+     [
+      15.0,
+      24.6
+     ],
+     [
+      0.0,
+      24.6
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "stage",
+      "label": "PODIUM",
+      "conf": "laag",
+      "bewijs": [
+       "v06_s1_01, v06_s2_02, v06_s2_03 (laag podium aan verre wand)",
+       "v06_s3_02 (DJ nauwelijks verhoogd)",
+       "plek aan NW-kop is aanname"
+      ],
+      "x": 3.0,
+      "y": 0.0,
+      "w": 9.0,
+      "h": 4.0
+     },
+     {
+      "t": "pillar",
+      "conf": "laag",
+      "bewijs": [
+       "v06_s2_03 (kolom links, ~halve diepte, dicht bij zijwand)",
+       "v06_s2_02",
+       "positie geschat"
+      ],
+      "x": 12.5,
+      "y": 12.0
+     },
+     {
+      "t": "pillar",
+      "conf": "laag",
+      "bewijs": [
+       "v06_s2_03 (kolom rechts)",
+       "v06_s1_01",
+       "positie geschat"
+      ],
+      "x": 2.5,
+      "y": 12.0
+     },
+     {
+      "t": "poly",
+      "text": "BALKON",
+      "dash": true,
+      "conf": "middel",
+      "bewijs": [
+       "v06_s1_01, v06_s2_02, v06_s2_03 (camera hoog achterin, kijkt omlaag over de vloer)"
+      ],
+      "pts": [
+       [
+        15.0,
+        20.0
+       ],
+       [
+        15.0,
+        24.6
+       ],
+       [
+        0.0,
+        24.6
+       ],
+       [
+        0.0,
+        20.0
+       ]
+      ]
+     },
+     {
+      "t": "in",
+      "label": "IN",
+      "conf": "laag",
+      "bewijs": [
+       "adrespunt/BAG-unit Lijnbaansgracht 234A (u23.7, v3.1)",
+       "laag aanbouwtje aan de grachtgevel u24.6-35 (hoogte.png)"
+      ],
+      "a": [
+       14.0,
+       24.6
+      ],
+      "b": [
+       10.0,
+       24.6
+      ]
+     }
+    ],
+    "conf": "laag",
+    "bewijs": [
+     "BAG-polygon: NO-gevel (rand 24-23) en NW-gevel (rand 24-30) van het oude pand, bouwjaar 1905",
+     "hoogte.png: oud pand 15 m breed (v 0-15) met hellend dak, dal op v 16-21 richting woonstrook Marnixstraat",
+     "v06: kolommen + stalen dakliggers passen bij oud industrieel pand; ZO-grens op vertex 23 (begin laag aanbouwtje) is aanname"
+    ]
+   }
+  ],
+  "methode": "auto-blind",
+  "samenvatting": "Hoofdzaal = de hoge, platte nieuwbouwhal aan de zuidoostkant (hoogste deel in AHN/3D BAG, 28 m breed volgens de BAG-polygon, diepte ~31 m geschat omdat het hoge dak buiten het BAG-pand doorloopt); podium over de kopse kant en zijgalerijen links/rechts komen uit v02_s2_02 en v03_s0_01. Zaal 2 met twee kolommen, stalen dak en balkon achterin (v06) is in het oude pand langs de gracht gezet. Zwakst: welke video in welk deel van het gebouw is opgenomen, de diepte van de hoofdzaal, de podiumkant en de ingangen; geen bars gezien."
+ }
+]
