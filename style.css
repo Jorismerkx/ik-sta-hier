@@ -97,7 +97,7 @@ h2 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line
 .chip { flex: none; padding: 7px 12px; border-radius: 999px; background: var(--panel2); color: var(--muted); font-size: 13px; font-weight: 600; }
 .chip.active { background: #fff; color: #000; }
 
-.pane { flex: 1; min-height: 0; display: none; position: relative; }
+.pane { flex: 1; min-height: 0; display: none; position: relative; z-index: 0; } /* eigen laag: kaartlagen (Leaflet, z 400+) blijven onder de knop in de tabbalk */
 .pane.active { display: block; }
 
 /* ---------- list ---------- */
@@ -128,7 +128,7 @@ h2 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line
 .pin.sel { transform: scale(1.6); }
 .me { width: 16px; height: 16px; border-radius: 50%; background: #2f7bff; border: 3px solid #fff; box-shadow: 0 0 0 6px rgba(47,123,255,.3); }
 #locate { position: absolute; right: 14px; top: 14px; z-index: 500; width: 40px; height: 40px; border-radius: 50%; background: var(--panel); color: #fff; display: grid; place-items: center; box-shadow: 0 4px 16px rgba(0,0,0,.6); }
-#map-card { position: absolute; left: 14px; right: 14px; bottom: calc(16px + var(--safe-bottom)); background: var(--panel); border-radius: 18px; padding: 12px; display: flex; align-items: center; gap: 12px; z-index: 500; box-shadow: 0 10px 40px rgba(0,0,0,.7); }
+#map-card { position: absolute; left: 14px; right: 14px; bottom: 44px; background: var(--panel); border-radius: 18px; padding: 12px; display: flex; align-items: center; gap: 12px; z-index: 500; box-shadow: 0 10px 40px rgba(0,0,0,.7); }
 #map-card .swatch { width: 56px; height: 56px; border-radius: 14px; }
 #map-card .meta { flex: 1; min-width: 0; }
 #map-card .name { font-weight: 700; font-size: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
