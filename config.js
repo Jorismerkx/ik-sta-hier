@@ -1,7 +1,11 @@
-/* config.js — waar de server van Ik sta hier staat (vrienden, events, meldingen).
-   Leeg = dezelfde server die de app levert (node server/server.js). Voor GitHub Pages of de iOS/Android-app:
-   het volledige adres van de server, bv. 'https://ik-sta-hier.example.com'. */
-window.ISH_CONFIG = {
-  api: '',
-  web: ''   // publiek adres van de app voor uitnodigingslinks; leeg = de pagina zelf
-};
+/* config.js — waar de server van Ik sta hier staat (accounts, vrienden, events, meldingen).
+   Lokaal (node server/server.js) en op Render levert dezelfde server de app en de API: dan blijft api leeg.
+   Op GitHub Pages en in de iOS/Android-app praat de app met de server op Render. */
+(function () {
+  const lokaal = !window.Capacitor && /^(localhost|127\.0\.0\.1)$/.test(location.hostname);
+  const render = /\.onrender\.com$/.test(location.hostname);
+  window.ISH_CONFIG = {
+    api: lokaal || render ? '' : 'https://ik-sta-hier.onrender.com',
+    web: lokaal ? '' : 'https://jorismerkx.github.io/ik-sta-hier/', // uitnodigingslinks wijzen naar de app op GitHub Pages
+  };
+})();

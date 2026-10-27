@@ -1,0 +1,21 @@
+# Render-blueprint: de server van Ik sta hier (API, live updates, meldingen). De app zelf staat op GitHub Pages.
+# Starter-plan met een vaste schijf op /data: daar staan de database en de VAPID-sleutels. Op het gratis plan zou
+# de server in slaap vallen en bij elke herstart alle accounts en events kwijtraken.
+services:
+  - type: web
+    name: ik-sta-hier
+    runtime: docker
+    plan: starter
+    region: frankfurt
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    autoDeploy: true
+    disk:
+      name: data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: DATA_DIR
+        value: /data
+      - key: PUBLIC_URL
+        value: https://jorismerkx.github.io/ik-sta-hier/
