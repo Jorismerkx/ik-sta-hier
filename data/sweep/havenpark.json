@@ -1,0 +1,708 @@
+{
+ "id": "havenpark",
+ "naam": "Havenpark",
+ "adres": "Wethouder van Essenweg, 1046 AV Amsterdam",
+ "termen": [
+  "Havenpark",
+  "N1-terrein"
+ ],
+ "pand": "0363100012105787",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 62,
+  "gezocht": [
+   "Wethouder Van Essenweg 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-323136",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Wethouder van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-07",
+    "onderwerp": "afwijken van de regels in het omgevingsplan ten behoeve van het evenement SONA presents Pawsa in the Park",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-323136.html",
+    "zaak": "Z2026-019761"
+   },
+   {
+    "id": "gmb-2026-248225",
+    "titel": "Aanvraag omgevingsvergunning Wethouder van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "afwijken van de regels in het omgevingsplan ten behoeve van het evenement SONA presents Pawsa in the Park",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-248225.html",
+    "zaak": "Z2026-019761"
+   },
+   {
+    "id": "gmb-2026-248152",
+    "titel": "Aanvraag omgevingsvergunning Wethouder van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "afwijken van de regels in het omgevingsplan ten behoeve van het evenement Zamna x Free Your Mind festival",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-248152.html",
+    "zaak": "Z2026-015666"
+   },
+   {
+    "id": "gmb-2025-453929",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "tijdelijk afwijken van de regels in het omgevingsplan t.b.v. het evenement Dockyard Festival ADE",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-453929.html",
+    "zaak": "Z2025-035474"
+   },
+   {
+    "id": "gmb-2025-372020",
+    "titel": "Aanvraag omgevingsvergunning Wethouder van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-27",
+    "onderwerp": "Dockyard Festival ADE 2025",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-372020.html",
+    "zaak": "Z2025-035474"
+   },
+   {
+    "id": "gmb-2024-419259",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-03",
+    "onderwerp": "afwijken van de regels in het omgevingsplan t.b.v. het evenement 'Dockyard Festival'",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-419259.html",
+    "zaak": "Z2024-023028"
+   },
+   {
+    "id": "gmb-2024-354425",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-15",
+    "onderwerp": "afwijken van de regels in het omgevingsplan t.b.v. het evenement 'Dockyard Festival'",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-354425.html",
+    "zaak": "Z2024-023028"
+   },
+   {
+    "id": "gmb-2024-355297",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam,",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-15",
+    "onderwerp": "handelen in strijd met het bestemmingplan t.b.v. het evenement 'Strafwerk 2024', OLO8314497",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-355297.html",
+    "zaak": "Z2023-A000447"
+   },
+   {
+    "id": "gmb-2024-287053",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-02",
+    "onderwerp": "afwijken van de regels in het omgevingsplan t.b.v. het evenement 'The Reggaeton & Latin Fest' op de N1-kavel",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-287053.html",
+    "zaak": "Z2024-008648"
+   },
+   {
+    "id": "gmb-2024-180627",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-24",
+    "onderwerp": "afwijken van de regels in het omgevingsplan t.b.v. het evenement 'The Reggeaton & Latin Fest' op de N1 kavel",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-180627.html",
+    "zaak": "Z2024-008648"
+   },
+   {
+    "id": "gmb-2024-145163",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam, Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-03",
+    "onderwerp": "handelen in strijd met het bestemmingplan t.b.v. het evenement 'Strafwerk 2024', OLO8314497",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-145163.html",
+    "zaak": "Z2023-A000447"
+   },
+   {
+    "id": "gmb-2024-27021",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-16",
+    "onderwerp": "Afwijken van het bestemmingplan i.v.m. evenement Strafwerk 2024",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-27021.html",
+    "zaak": "Z2023-A000447"
+   },
+   {
+    "id": "gmb-2023-419009",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam,  [STN02A01821]Straatnaam  Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-02",
+    "onderwerp": "handelingen in strijd met bestemmingsplan tbv Dockyard Festival ADE nabij Wethouder van Essenweg 1",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-419009.html",
+    "zaak": "Z2023-NW002178"
+   },
+   {
+    "id": "gmb-2023-372630",
+    "titel": "Verlenging beslistermijn omgevingsvergunning nabij Wethouder Van Essenweg 1 1047AV Amsterdam, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-28",
+    "onderwerp": "4 juli uitgezet bij rd handelingen in strijd met bestemmingsplan tbv Dockyard Festival ADE nabij Wethouder van Essenweg 1",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-372630.html",
+    "zaak": "Z2023-NW002178"
+   },
+   {
+    "id": "gmb-2023-365153",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam,",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-22",
+    "onderwerp": "handelen in strijd met het bestemmingsplan voor het evenement Strafwerk Festival 2023 (N1 kavel)",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-365153.html",
+    "zaak": "Z2023-NW002188"
+   },
+   {
+    "id": "gmb-2023-322699",
+    "titel": "Aanvraag omgevingsvergunning nabij Wethouder Van Essenweg 1 1047AV Amsterdam, N1 kavel [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-21",
+    "onderwerp": "NIET GEPUBLICEERD: GRAAG ADRES DOORGEVEN AAN ADMI OM TE KUNNEN PUBLICEREN handelen in strijd met bestemmingsplan tbv Strafwerk Festival 2023",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-322699.html",
+    "zaak": "Z2023-NW002188"
+   },
+   {
+    "id": "gmb-2023-295290",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam,  [STN02A01821]Straatnaam  Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-06",
+    "onderwerp": "handelingen in strijd met bestemmingsplan tbv Dockyard Festival ADE nabij Wethouder van Essenweg 1",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-295290.html",
+    "zaak": "Z2023-NW002178"
+   },
+   {
+    "id": "gmb-2023-295248",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam,  [STN02A01821]Straatnaam  Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-06",
+    "onderwerp": "handelingen in strijd met bestemmingsplan tbv Dockyard Festival ADE nabij Wethouder van Essenweg 1",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-295248.html",
+    "zaak": "Z2023-NW002178"
+   },
+   {
+    "id": "gmb-2022-489566",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-03",
+    "onderwerp": "plaatsen tijdelijke damwand ten behoeve van tijdelijk droogzetten waterbodem t.b.v. het versterken van de fundatie van het boezemgemaal,  OLO 7258183",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-489566.html",
+    "zaak": "Z2022-NW002970"
+   },
+   {
+    "id": "gmb-2022-466013",
+    "titel": "Besluit omgevingsvergunning reguliere procedure nabij Wethouder Van Essenweg 1 1047AV Amsterdam, N1-kavel, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-19",
+    "onderwerp": "handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Dockyard Festival ADE' op de N1-kavel, OLO 7101179",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466013.html",
+    "zaak": "Z2022-NW002139"
+   },
+   {
+    "id": "gmb-2022-441915",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-04",
+    "onderwerp": "handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Dockyard Festival ADE' op de N1-kavel, OLO 7101179",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-441915.html",
+    "zaak": "Z2022-NW002139"
+   },
+   {
+    "id": "gmb-2022-421895",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-21",
+    "onderwerp": "plaatsen tijdelijke damwand ten behoeve van tijdelijk droogzetten waterbodem t.b.v. het versterken van de fundatie van het boezemgemaal,  OLO 7258183",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-421895.html",
+    "zaak": "Z2022-NW002970"
+   },
+   {
+    "id": "gmb-2022-372160",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-15",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Strafwerk Festival', OLO 7015063",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-372160.html",
+    "zaak": "Z2022-NW001664"
+   },
+   {
+    "id": "gmb-2022-348674",
+    "titel": "Verlenging beslistermijn omgevingsvergunning nabij Wethouder Van Essenweg 1 1047AV Amsterdam, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-29",
+    "onderwerp": "handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Strafwerk Festival', OLO 7015063",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-348674.html",
+    "zaak": "Z2022-NW001664"
+   },
+   {
+    "id": "gmb-2022-348672",
+    "titel": "Aanvraag omgevingsvergunning nabij Wethouder Van Essenweg 1 1047AV Amsterdam, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-29",
+    "onderwerp": "handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Strafwerk Festival', OLO 7015063",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-348672.html",
+    "zaak": "Z2022-NW001664"
+   },
+   {
+    "id": "gmb-2022-308599",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam, [STN02A01821]Straatnaam Sloten (N.H.) A 1821",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-07",
+    "onderwerp": "het handelen in strijd met bestemmingsplan tbv Dockyard Festival ADE, nabij Wethouder van Essenweg 1 Havenpark, OLO 7101179",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-308599.html",
+    "zaak": "Z2022-NW002139"
+   },
+   {
+    "id": "gmb-2022-198372",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-03",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het tweedaagse evenement 'Music On festival 2022', OLO 6673111",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-198372.html",
+    "zaak": "Z2022-NW000189"
+   },
+   {
+    "id": "gmb-2022-178867",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-21",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het tweedaagse evenement 'Music On festival 2022', OLO 6673111",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-178867.html",
+    "zaak": "Z2022-NW000189"
+   },
+   {
+    "id": "gmb-2022-30334",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-25",
+    "onderwerp": "het handelen in strijd met bestemmingsplan tbv een tweedaags dance evenement Music On festival 2022, Wethouder Van Essenweg 1, OLO 6673111",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-30334.html",
+    "zaak": "Z2022-NW000189"
+   },
+   {
+    "id": "gmb-2021-369148",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-20",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Dockyard Festival ADE', OLO 6298445",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-369148.html",
+    "zaak": "Z2021-NW002147"
+   },
+   {
+    "id": "gmb-2021-362734",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-15",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het evenement 'Dockyard Festival ADE', OLO 6298445",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-362734.html",
+    "zaak": "Z2021-NW002147"
+   },
+   {
+    "id": "gmb-2021-333912",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-28",
+    "onderwerp": "het handelen in strijd met bestemmingsplan t.b.v. het evenement 'elrow Town Festival', OLO 6334437",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-333912.html",
+    "zaak": "Z2021-NW002304"
+   },
+   {
+    "id": "gmb-2021-296700",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-01",
+    "onderwerp": "het handelen in strijd met bestemmingsplan tbv elrow town festival, OLO 6334437",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-296700.html",
+    "zaak": "Z2021-NW002304"
+   },
+   {
+    "id": "gmb-2021-284939",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2021-08-23",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het eendaagse evenement 'Strafwerk Festival 2021', OLO 6183711",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-284939.html",
+    "zaak": "Z2021-NW001733"
+   },
+   {
+    "id": "gmb-2021-281793",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-19",
+    "onderwerp": "het handelen in strijd met het bestemmingsplan t.b.v. het eendaagse evenement 'Strafwerk Festival 2021', OLO 6183711",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-281793.html",
+    "zaak": "Z2021-NW001733"
+   },
+   {
+    "id": "gmb-2021-281755",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-19",
+    "onderwerp": "het handelen in strijd met bestemmingsplan t.b.v. het tweedaagse evenement 'Music On presents: Marco Carola & Guests', OLO6225423",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-281755.html",
+    "zaak": "Z2021-NW001898"
+   },
+   {
+    "id": "gmb-2021-223660",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-12",
+    "onderwerp": "het handelen in strijd met bestemmingsplan tbv een tweedaags dance-evenement ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-223660.html",
+    "zaak": "Z2021-NW001898"
+   },
+   {
+    "id": "gmb-2021-200536",
+    "titel": "Aanvraag omgevingsvergunning Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-24",
+    "onderwerp": "het plaatsen van een tijdelijke bouwwerken voor straf werk festival 2021, OLO 6183711",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-200536.html"
+   },
+   {
+    "id": "prb-2021-3853",
+    "titel": "Vuurwerk, Wethouder Van Essenweg 1, Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-19",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-3853.html",
+    "zaak": "1264144"
+   },
+   {
+    "id": "stcrt-2016-5028",
+    "titel": "ontwerp-omgevingsvergunning",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2016-02-03",
+    "onderwerp": "de aanleg van een gasleiding naar een nieuw gasontvangststation",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2016-5028.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-323136",
+   "gmb-2026-248225",
+   "gmb-2026-248152",
+   "gmb-2025-453929",
+   "gmb-2025-372020",
+   "gmb-2024-419259",
+   "gmb-2024-354425",
+   "gmb-2024-355297",
+   "gmb-2024-287053",
+   "gmb-2024-180627",
+   "gmb-2024-27021",
+   "gmb-2023-419009",
+   "gmb-2023-365153",
+   "gmb-2023-322699",
+   "gmb-2023-295290",
+   "gmb-2023-295248",
+   "gmb-2022-489566",
+   "gmb-2022-466013",
+   "gmb-2022-421895",
+   "gmb-2022-372160",
+   "gmb-2022-348672",
+   "gmb-2022-308599",
+   "gmb-2022-198372",
+   "gmb-2022-30334",
+   "gmb-2021-369148",
+   "gmb-2021-333912",
+   "gmb-2021-296700",
+   "gmb-2021-284939",
+   "gmb-2021-281755",
+   "gmb-2021-223660",
+   "gmb-2021-200536"
+  ],
+  "zaaknummers": [
+   "Z2021-NW001733",
+   "Z2021-NW001898",
+   "Z2021-NW002147",
+   "Z2021-NW002304",
+   "Z2022-NW000189",
+   "Z2022-NW001664",
+   "Z2022-NW002139",
+   "Z2022-NW002970",
+   "Z2023-A000447",
+   "Z2023-NW002178",
+   "Z2023-NW002188",
+   "Z2024-008648",
+   "Z2024-023028",
+   "Z2025-035474",
+   "Z2026-015666",
+   "Z2026-019761"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-428830",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-428830.html"
+   },
+   {
+    "id": "gmb-2026-309849",
+    "titel": "Aanvraag evenementenvergunning Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-309849.html"
+   },
+   {
+    "id": "gmb-2026-306915",
+    "titel": "Aanvraag evenementenvergunning Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-306915.html"
+   },
+   {
+    "id": "gmb-2026-306927",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-306927.html"
+   },
+   {
+    "id": "gmb-2026-306911",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-306911.html"
+   },
+   {
+    "id": "gmb-2026-299310",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-299310.html"
+   },
+   {
+    "id": "gmb-2026-113333",
+    "titel": "Aanvraag evenementenvergunning Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-113333.html"
+   },
+   {
+    "id": "gmb-2026-93472",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Nieuw-West tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Nieuw-West [Besluit ter bekrachtiging geldende afvalregels stadsdeel Nieuw-West]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-93472.html"
+   },
+   {
+    "id": "gmb-2026-75739",
+    "titel": "Aanvraag evenementenvergunning Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-75739.html"
+   },
+   {
+    "id": "gmb-2025-397057",
+    "titel": "Besluit evenementenvergunning Verleend - Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397057.html"
+   },
+   {
+    "id": "gmb-2025-267478",
+    "titel": "Aanvraag evenementenvergunning Wethouder Van Essenweg 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-267478.html"
+   },
+   {
+    "id": "gmb-2023-387818",
+    "titel": "Besluit evenementenvergunning VerleendWethouder Van Essenweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-387818.html"
+   },
+   {
+    "id": "gmb-2023-145038",
+    "titel": "Besluit apv vergunning Verleend - Wethouder Van Essenweg 1",
+    "soort": "andere vergunning",
+    "datum": "2023-04-04",
+    "onderwerp": "TVM-8xPV Rhôneweg 2 + Objecten / Wethouder Van Essenweg 1, Kastrupstraat 2,, Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-145038.html"
+   },
+   {
+    "id": "gmb-2023-68871",
+    "titel": "Aanvraag evenementenvergunning",
+    "soort": "evenementenvergunning",
+    "datum": "2023-02-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1 1047AV Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-68871.html"
+   },
+   {
+    "id": "gmb-2022-477857",
+    "titel": "Besluit evenementenvergunning Verleend Wethouder Van Essenweg 1",
+    "soort": "evenementenvergunning",
+    "datum": "2022-10-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-477857.html"
+   },
+   {
+    "id": "gmb-2022-406489",
+    "titel": "Besluit evenementenvergunning Verleend Wethouder Van Essenweg 1",
+    "soort": "evenementenvergunning",
+    "datum": "2022-09-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-406489.html"
+   },
+   {
+    "id": "gmb-2022-310678",
+    "titel": "Aanvraag evenementenvergunning",
+    "soort": "evenementenvergunning",
+    "datum": "2022-07-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-310678.html"
+   },
+   {
+    "id": "gmb-2022-300715",
+    "titel": "Besluit evenementenvergunning  Wethouder Van Essenweg 1",
+    "soort": "evenementenvergunning",
+    "datum": "2022-07-04",
+    "onderwerp": ": evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-300715.html"
+   },
+   {
+    "id": "gmb-2021-339754",
+    "titel": "Besluit evenementenvergunning Verleend Wethouder Van Essenweg 1",
+    "soort": "evenementenvergunning",
+    "datum": "2021-10-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-339754.html"
+   },
+   {
+    "id": "gmb-2021-320477",
+    "titel": "Besluit evenementenvergunning Geweigerd",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-17",
+    "onderwerp": "Geweigerd: evenementenvergunning ter hoogte van adres Wethouder van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-320477.html"
+   },
+   {
+    "id": "gmb-2021-304577",
+    "titel": "Besluit evenementenvergunning Geweigerd Wethouder Van Essenweg 1",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-07",
+    "onderwerp": "Geweigerd: evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-304577.html"
+   },
+   {
+    "id": "gmb-2021-285899",
+    "titel": "Aanvraag evenementenvergunning Wethouder Van Essenweg 1",
+    "soort": "evenementenvergunning",
+    "datum": "2021-08-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wethouder Van Essenweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-285899.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B1101BPGST-VG02",
+   "naam": "Sloterdijk IV",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-07-03",
+   "opp_m2": 1060187,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 14,
+  "bekendmakingen": 0,
+  "plannen": 163,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 219,
+ "pand_adressen": [
+  "Wethouder Van Essenweg 1"
+ ]
+}

@@ -1,0 +1,500 @@
+{
+ "id": "noorderlicht-cafe",
+ "naam": "Noorderlicht Café",
+ "adres": "NDSM-Plein 102, 1033 WB Amsterdam",
+ "termen": [
+  "NDSM-Plein 102",
+  "1033WB",
+  "1033 WB",
+  "Noorderlicht Café"
+ ],
+ "pand": "0363100012571266",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 2,
+  "openbaar": 1,
+  "laatste": "2017-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_03813",
+    "titel": "NDSM-plein 17 - 167; Scheepsbouwkade 6 - 8; Scheepsbouwkade 7; Scheepsbouwkade 12 - 18; Scheepsbouwkade 22 - 34; Scheepsbouwkade 72",
+    "datum": "2017-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03813"
+   },
+   {
+    "dossier": "SN_02273",
+    "titel": "NDSM-plein 76; NDSM-plein 84; NDSM-plein 102 - 104",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02273"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 72,
+  "gezocht": [
+   "NDSM-Plein 102",
+   "NDSM-plein 102"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-93511",
+    "titel": "Besluit buiten behandeling stellen omgevingsvergunning reguliere procedure NDSM-plein 102 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-05",
+    "onderwerp": "vernieuwbouw Noorderlicht cafe' Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-93511.html",
+    "zaak": "Z2020-N009153"
+   },
+   {
+    "id": "gmb-2024-214163",
+    "titel": "Beschikking, Bodem - NDSM-plein 102 (restaurant Noorderlicht), Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-05-16",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-214163.html",
+    "zaak": "1372946"
+   },
+   {
+    "id": "gmb-2023-165403",
+    "titel": "Besluit omgevingsvergunning reguliere procedure NDSM-plein 102 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-14",
+    "onderwerp": "plaatsen van een tijdelijk zomerterras met bijbehorende containers en tent",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-165403.html",
+    "zaak": "Z2023-N000515"
+   },
+   {
+    "id": "gmb-2023-96355",
+    "titel": "Aanvraag omgevingsvergunning NDSM-plein 102 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-06",
+    "onderwerp": "plaatsen van een tijdelijk zomerterras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-96355.html",
+    "zaak": "Z2023-N000515"
+   },
+   {
+    "id": "gmb-2022-542888",
+    "titel": "Beschikking, Bodem - NDSM-plein 102, locatie Noorderlicht, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2022-12-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-542888.html"
+   },
+   {
+    "id": "gmb-2022-372072",
+    "titel": "Besluit omgevingsvergunning reguliere procedure NDSM-plein 102 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-15",
+    "onderwerp": "kappen van 12 bomen ten behoeve van nieuwbouw Noorderlicht",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-372072.html",
+    "zaak": "Z2022-N002063"
+   },
+   {
+    "id": "gmb-2022-341164",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) NDSM-plein 102 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-26",
+    "onderwerp": "kappen van 12 bomen ten behoeve van nieuwbouw Noorderlicht",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-341164.html",
+    "zaak": "Z2022-N002063"
+   },
+   {
+    "id": "gmb-2021-29059",
+    "titel": "Verlenging beslistermijn omgevingsvergunning NDSM-plein 102 1033WB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-01",
+    "onderwerp": "vernieuwbouw Noorderlicht cafe' Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-29059.html"
+   },
+   {
+    "id": "gmb-2020-331873",
+    "titel": "Aanvraag omgevingsvergunning NDSM-plein 102 1033WB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-15",
+    "onderwerp": "vernieuwbouw Noorderlicht cafe' Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-331873.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-93511",
+   "gmb-2023-165403",
+   "gmb-2023-96355",
+   "gmb-2022-372072",
+   "gmb-2022-341164",
+   "gmb-2020-331873"
+  ],
+  "zaaknummers": [
+   "Z2020-N009153",
+   "Z2022-N002063",
+   "Z2023-N000515"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-209380",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-04",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-209380.html"
+   },
+   {
+    "id": "gmb-2026-204028",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-204028.html"
+   },
+   {
+    "id": "gmb-2026-184779",
+    "titel": "Besluit alcoholwetvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-184779.html"
+   },
+   {
+    "id": "gmb-2026-184677",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-184677.html"
+   },
+   {
+    "id": "gmb-2026-159871",
+    "titel": "Aanvraag alcoholwetvergunning NDSM-plein 102",
+    "soort": "andere vergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159871.html"
+   },
+   {
+    "id": "gmb-2026-82957",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - NDSM-plein 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-82957.html"
+   },
+   {
+    "id": "gmb-2026-35819",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-35819.html"
+   },
+   {
+    "id": "gmb-2025-197574",
+    "titel": "Besluit evenementenvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-197574.html"
+   },
+   {
+    "id": "gmb-2025-197598",
+    "titel": "Besluit evenementenvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-197598.html"
+   },
+   {
+    "id": "gmb-2025-187404",
+    "titel": "Besluit evenementenvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-187404.html"
+   },
+   {
+    "id": "gmb-2025-176013",
+    "titel": "Besluit evenementenvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-176013.html"
+   },
+   {
+    "id": "gmb-2025-65197",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-65197.html"
+   },
+   {
+    "id": "gmb-2025-65185",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-65185.html"
+   },
+   {
+    "id": "gmb-2025-65078",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-65078.html"
+   },
+   {
+    "id": "gmb-2024-538524",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend NDSM-plein 102",
+    "soort": "andere vergunning",
+    "datum": "2024-12-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-538524.html"
+   },
+   {
+    "id": "gmb-2024-478559",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend NDSM-plein 102",
+    "soort": "andere vergunning",
+    "datum": "2024-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-478559.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-304711",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend NDSM-plein 102",
+    "soort": "andere vergunning",
+    "datum": "2024-07-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-304711.html"
+   },
+   {
+    "id": "gmb-2024-293249",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-293249.html"
+   },
+   {
+    "id": "gmb-2024-249333",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249333.html"
+   },
+   {
+    "id": "gmb-2024-229091",
+    "titel": "Besluit alcoholwetvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-05-28",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-229091.html"
+   },
+   {
+    "id": "gmb-2024-229049",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-229049.html"
+   },
+   {
+    "id": "gmb-2024-200710",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-200710.html"
+   },
+   {
+    "id": "gmb-2024-174819",
+    "titel": "Aanvraag alcoholwetvergunning NDSM-plein 102",
+    "soort": "andere vergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174819.html"
+   },
+   {
+    "id": "gmb-2024-125773",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - NDSM-plein 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-125773.html"
+   },
+   {
+    "id": "gmb-2024-91814",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-91814.html"
+   },
+   {
+    "id": "gmb-2023-285553",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-30",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-285553.html"
+   },
+   {
+    "id": "gmb-2023-283204",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 102 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-283204.html"
+   },
+   {
+    "id": "gmb-2023-239597",
+    "titel": "Besluit alcoholwetvergunning Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-06-02",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres NDSM-plein 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-239597.html"
+   },
+   {
+    "id": "gmb-2023-239508",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - NDSM-plein 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres NDSM-plein 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-239508.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1010BPSTD-VG01",
+   "naam": "NDSM-werf Oost",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-05-29",
+   "opp_m2": 548425,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 99,
+ "pand_adressen": [
+  "NDSM-plein 102"
+ ]
+}

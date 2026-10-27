@@ -1,0 +1,1636 @@
+{
+ "id": "delamar",
+ "naam": "DeLaMar Theater",
+ "adres": "Marnixstraat 402, 1017 PL Amsterdam",
+ "termen": [
+  "Marnixstraat 402",
+  "1017PL",
+  "1017 PL",
+  "DeLaMar Theater"
+ ],
+ "pand": "0363100012571556",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 120,
+  "openbaar": 25,
+  "laatste": "2010-12-01",
+  "dossiers": [
+   {
+    "dossier": "SA_104953",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104953"
+   },
+   {
+    "dossier": "SA_104950",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104950"
+   },
+   {
+    "dossier": "SA_104951",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 116,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104951"
+   },
+   {
+    "dossier": "SA_104949",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104949"
+   },
+   {
+    "dossier": "SA_104947",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 509,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104947"
+   },
+   {
+    "dossier": "SA_104931",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 316,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104931"
+   },
+   {
+    "dossier": "SA_104937",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104937"
+   },
+   {
+    "dossier": "SA_104928",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104928"
+   },
+   {
+    "dossier": "SA_104926",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 96,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104926"
+   },
+   {
+    "dossier": "SA_104920",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 430,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104920"
+   },
+   {
+    "dossier": "SA_102783",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 63,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102783"
+   },
+   {
+    "dossier": "SA_104935",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 128,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104935"
+   },
+   {
+    "dossier": "SA_104939",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104939"
+   },
+   {
+    "dossier": "SA_16284",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16284"
+   },
+   {
+    "dossier": "SA_95137",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 255,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95137"
+   },
+   {
+    "dossier": "SA_104824",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104824"
+   },
+   {
+    "dossier": "SA_104789",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104789"
+   },
+   {
+    "dossier": "SA_110518",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_110518"
+   },
+   {
+    "dossier": "SA_104832",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 220,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104832"
+   },
+   {
+    "dossier": "SA_104825",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 578,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104825"
+   },
+   {
+    "dossier": "SA_95138",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95138"
+   },
+   {
+    "dossier": "SA_104828",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104828"
+   },
+   {
+    "dossier": "SA_104790",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104790"
+   },
+   {
+    "dossier": "SA_95139",
+    "titel": "Leidsekade 91; Marnixstraat 394 A - 404",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95139"
+   },
+   {
+    "dossier": "SA_104827",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104827"
+   },
+   {
+    "dossier": "SA_104787",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104787"
+   },
+   {
+    "dossier": "SA_104917",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 112,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104917"
+   },
+   {
+    "dossier": "SA_104785",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104785"
+   },
+   {
+    "dossier": "SA_104786",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104786"
+   },
+   {
+    "dossier": "SA_88621",
+    "titel": "Leidsegracht 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_88621"
+   },
+   {
+    "dossier": "SA_104784",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104784"
+   },
+   {
+    "dossier": "SA_88019",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_88019"
+   },
+   {
+    "dossier": "SA_87848",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_87848"
+   },
+   {
+    "dossier": "SA_104783",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104783"
+   },
+   {
+    "dossier": "SA_86890",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 167,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86890"
+   },
+   {
+    "dossier": "SA_88070",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 164,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_88070"
+   },
+   {
+    "dossier": "SA_105747",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 692,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_105747"
+   },
+   {
+    "dossier": "SA_104941",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104941"
+   },
+   {
+    "dossier": "SA_104956",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104956"
+   },
+   {
+    "dossier": "SA_86456",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86456"
+   },
+   {
+    "dossier": "SA_104958",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 212,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104958"
+   },
+   {
+    "dossier": "SA_86963",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86963"
+   },
+   {
+    "dossier": "SA_104961",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104961"
+   },
+   {
+    "dossier": "SA_86871",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86871"
+   },
+   {
+    "dossier": "SA_104946",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 187,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104946"
+   },
+   {
+    "dossier": "SA_104957",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 74,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104957"
+   },
+   {
+    "dossier": "SA_104954",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 568,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104954"
+   },
+   {
+    "dossier": "SA_106111",
+    "titel": "Leidsekade 91",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106111"
+   },
+   {
+    "dossier": "SA_104959",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 629,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104959"
+   },
+   {
+    "dossier": "SA_104960",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104960"
+   },
+   {
+    "dossier": "SA_104898",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104898"
+   },
+   {
+    "dossier": "SA_104913",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 106,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104913"
+   },
+   {
+    "dossier": "SA_104903",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104903"
+   },
+   {
+    "dossier": "SA_104911",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104911"
+   },
+   {
+    "dossier": "SA_104907",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104907"
+   },
+   {
+    "dossier": "SA_104901",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104901"
+   },
+   {
+    "dossier": "SA_104906",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104906"
+   },
+   {
+    "dossier": "SA_104896",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 86,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104896"
+   },
+   {
+    "dossier": "SA_104915",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 78,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104915"
+   },
+   {
+    "dossier": "SA_104834",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104834"
+   },
+   {
+    "dossier": "SA_104892",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 261,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104892"
+   },
+   {
+    "dossier": "SA_104948",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 845,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104948"
+   },
+   {
+    "dossier": "SA_104924",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 110,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104924"
+   },
+   {
+    "dossier": "SA_104756",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104756"
+   },
+   {
+    "dossier": "SA_104966",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 92,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104966"
+   },
+   {
+    "dossier": "SA_104754",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104754"
+   },
+   {
+    "dossier": "SA_104755",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104755"
+   },
+   {
+    "dossier": "SA_104965",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 302,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104965"
+   },
+   {
+    "dossier": "SA_104752",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104752"
+   },
+   {
+    "dossier": "SA_104753",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104753"
+   },
+   {
+    "dossier": "SA_104964",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 480,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104964"
+   },
+   {
+    "dossier": "SA_104775",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104775"
+   },
+   {
+    "dossier": "SA_106109",
+    "titel": "Leidsekade 91",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106109"
+   },
+   {
+    "dossier": "SA_104761",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104761"
+   },
+   {
+    "dossier": "SA_104774",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104774"
+   },
+   {
+    "dossier": "SA_104760",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104760"
+   },
+   {
+    "dossier": "SA_104765",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104765"
+   },
+   {
+    "dossier": "SA_104777",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 715,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104777"
+   },
+   {
+    "dossier": "SA_104763",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 146,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104763"
+   },
+   {
+    "dossier": "SA_104757",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2008-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104757"
+   },
+   {
+    "dossier": "SA_26700",
+    "titel": "Leidsekade 91",
+    "datum": "2008-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 108,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26700"
+   },
+   {
+    "dossier": "SA_95208",
+    "titel": "Leidsekade 91",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 115,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95208"
+   },
+   {
+    "dossier": "SA_104962",
+    "titel": "Leidsekade 90 - 91; Marnixstraat 394 A; Marnixstraat 396 - 404; Marnixstraat 400 A",
+    "datum": "2007-01-01",
+    "soort": "bestemmingsplan, ontheffing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104962"
+   },
+   {
+    "dossier": "SA_102689",
+    "titel": "Marnixstraat 396 - 400",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 303,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102689"
+   },
+   {
+    "dossier": "SA_104802",
+    "titel": "Leidsekade 90; Marnixstraat 396 - 404; Marnixstraat 400 A",
+    "datum": "2007-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104802"
+   },
+   {
+    "dossier": "SA_104963",
+    "titel": "Leidsekade 91; Marnixstraat 400 - 404",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1321,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104963"
+   },
+   {
+    "dossier": "SA_94441",
+    "titel": "Marnixstraat 396 - 400",
+    "datum": "2006-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94441"
+   },
+   {
+    "dossier": "SA_101173",
+    "titel": "Leidsekade 90; Marnixstraat 396 - 398; Marnixstraat 400 A; Marnixstraat 402 - 404",
+    "datum": "2006-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 222,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101173"
+   },
+   {
+    "dossier": "SA_18599",
+    "titel": "Marnixstraat 400 A",
+    "datum": "2004-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 65,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18599"
+   },
+   {
+    "dossier": "SA_18590",
+    "titel": "Leidsekade 90; Marnixstraat 398 - 400",
+    "datum": "2002-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18590"
+   },
+   {
+    "dossier": "SA_28958",
+    "titel": "Leidsekade 91",
+    "datum": "1998-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28958"
+   },
+   {
+    "dossier": "SA_26694",
+    "titel": "Leidsekade 91",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26694"
+   },
+   {
+    "dossier": "SA_18565",
+    "titel": "Marnixstraat 400 A",
+    "datum": "1993-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18565"
+   },
+   {
+    "dossier": "SA_18566",
+    "titel": "Marnixstraat 400 - 402",
+    "datum": "1993-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18566"
+   },
+   {
+    "dossier": "SA_26685",
+    "titel": "Leidsekade 91",
+    "datum": "1987-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26685"
+   },
+   {
+    "dossier": "SA_26688",
+    "titel": "Leidsekade 91",
+    "datum": "1987-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26688"
+   },
+   {
+    "dossier": "SA_18553",
+    "titel": "Marnixstraat 400 - 402",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18553"
+   },
+   {
+    "dossier": "SA_18541",
+    "titel": "Marnixstraat 396 - 402; Marnixstraat 400 A",
+    "datum": "1979-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18541"
+   },
+   {
+    "dossier": "SA_18547",
+    "titel": "Marnixstraat 400 - 402",
+    "datum": "1979-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18547"
+   },
+   {
+    "dossier": "SA_18550",
+    "titel": "Marnixstraat 400 A",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18550"
+   },
+   {
+    "dossier": "SA_18530",
+    "titel": "Marnixstraat 400 A; Marnixstraat 402",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18530"
+   },
+   {
+    "dossier": "SA_18533",
+    "titel": "Marnixstraat 402",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18533"
+   },
+   {
+    "dossier": "SA_18534",
+    "titel": "Marnixstraat 400 A; Marnixstraat 402",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18534"
+   },
+   {
+    "dossier": "SA_26665",
+    "titel": "Leidsekade 91 - 93",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26665"
+   },
+   {
+    "dossier": "SA_18522",
+    "titel": "Marnixstraat 398 - 400",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18522"
+   },
+   {
+    "dossier": "SA_18515",
+    "titel": "Marnixstraat 398 - 400",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18515"
+   },
+   {
+    "dossier": "SA_18509",
+    "titel": "Marnixstraat 402",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18509"
+   },
+   {
+    "dossier": "SA_18469",
+    "titel": "Marnixstraat 396 - 400; Marnixstraat 400 A",
+    "datum": "1965-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 125,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18469"
+   },
+   {
+    "dossier": "SA_26678",
+    "titel": "Leidsekade 91",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26678"
+   },
+   {
+    "dossier": "SA_18455",
+    "titel": "Marnixstraat 400 A; Marnixstraat 402",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18455"
+   },
+   {
+    "dossier": "SA_26677",
+    "titel": "Leidsekade 91",
+    "datum": "1954-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26677"
+   },
+   {
+    "dossier": "SA_18487",
+    "titel": "Leidsekade 90; Marnixstraat 396 - 402; Marnixstraat 400 A",
+    "datum": "1938-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 198,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18487"
+   },
+   {
+    "dossier": "SA_18394",
+    "titel": "Leidsekade 90; Marnixstraat 396 - 402; Marnixstraat 400 A",
+    "datum": "1935-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18394"
+   },
+   {
+    "dossier": "SA_18375",
+    "titel": "Leidsekade 90; Marnixstraat 396 - 400",
+    "datum": "1931-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18375"
+   },
+   {
+    "dossier": "SA_18365",
+    "titel": "Leidsekade 90; Marnixstraat 396 - 402; Marnixstraat 400 A",
+    "datum": "1931-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18365"
+   },
+   {
+    "dossier": "SA_18389",
+    "titel": "Marnixstraat 400 - 400 A",
+    "datum": "1927-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18389"
+   },
+   {
+    "dossier": "SA_18392",
+    "titel": "Leidsekade 90; Marnixstraat 398 - 402; Marnixstraat 400 A",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18392"
+   },
+   {
+    "dossier": "SA_18391",
+    "titel": "Marnixstraat 400 A",
+    "datum": "1916-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18391"
+   },
+   {
+    "dossier": "SA_18385",
+    "titel": "Leidsekade 90; Marnixstraat 400",
+    "datum": "1914-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18385"
+   },
+   {
+    "dossier": "SA_18377",
+    "titel": "Marnixstraat 400",
+    "datum": "1907-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18377"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Marnixstraat 402"
+  ],
+  "vergunningen": [
+   {
+    "id": "bgr-2025-1330",
+    "titel": "Toestemming voor het inzetten van een hoogwerker voor onderhoudswerkzaamheden bij de banner bij het DeLaMar Theater aan Marnixstraat 402 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-05",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1330.html"
+   },
+   {
+    "id": "bgr-2024-1966",
+    "titel": "Toestemming voor het inzetten van een vrachtwagen met bovenlaadkraan voor het vervangen van 2 buitenschermen en banier voor de gevel aan Marnixstraat 402 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1966.html"
+   },
+   {
+    "id": "prb-2024-13132",
+    "titel": "Wijzigen vergunning Omgevingswet - Marnixstraat 402, Amsterdam - Aanvullende voorschriften ten behoeve van het lozen van onderhoudswater van een open bodemenergiesysteem",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-29",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2024-13132.html",
+    "zaak": "13081573"
+   },
+   {
+    "id": "bgr-2024-1372",
+    "titel": "Aanvraag vergunning voor het inzetten van een hoogwerker voor het reinigen van glazen pui van het La Mar Theater te Marnixstraat 402 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-01",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1372.html"
+   }
+  ],
+  "met_tekeningen": [
+   "bgr-2024-1372"
+  ],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-455389",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat ter hoogte van nummer: 402 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-29",
+    "onderwerp": "Marnixstraat 402 1017PL, 20261017, Marnixstraat ter hoogte van nummer: 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-455389.html"
+   },
+   {
+    "id": "gmb-2026-116132",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat ter hoogte van nummer: 402 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-13",
+    "onderwerp": "Object,Marnixstraat 402 1017PL, 20260329, Marnixstraat ter hoogte van nummer: 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-116132.html"
+   },
+   {
+    "id": "gmb-2025-451839",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat ter hoogte van nummer: 402 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "RVV,Object,Marnixstraat 402 1017PL, 20251118, Marnixstraat ter hoogte van nummer: 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451839.html"
+   },
+   {
+    "id": "gmb-2025-432174",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat ter hoogte van nummer: 402 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-07",
+    "onderwerp": "Object,Marnixstraat 402 1017PL, 20251130, Marnixstraat ter hoogte van nummer: 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-432174.html"
+   },
+   {
+    "id": "gmb-2025-39972",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Marnixstraat 402 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-01-31",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Marnixstraat 402 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-39972.html"
+   },
+   {
+    "id": "gmb-2024-401921",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Marnixstraat 402 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Marnixstraat 402 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-401921.html"
+   },
+   {
+    "id": "gmb-2024-32246",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2024-01-19",
+    "onderwerp": "Werkzaamheden en vervoer op straat Marnixstraat 402 1017PL, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-32246.html"
+   },
+   {
+    "id": "gmb-2023-496881",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2023-11-21",
+    "onderwerp": "Werkzaamheden en vervoer op straat Marnixstraat 402 1017PL, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-496881.html"
+   },
+   {
+    "id": "gmb-2023-420271",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2023-10-03",
+    "onderwerp": "Werkzaamheden en vervoer op straat Marnixstraat 402 1017PL, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-420271.html"
+   },
+   {
+    "id": "gmb-2023-108439",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2023-03-14",
+    "onderwerp": "OBV Marnixstraat 402 , 03-04-2023, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-108439.html"
+   },
+   {
+    "id": "gmb-2022-471011",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2022-10-24",
+    "onderwerp": "OBV Marnixstraat 402 op 28-11-2022, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-471011.html"
+   },
+   {
+    "id": "gmb-2022-288653",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Marnixstraat 402",
+    "soort": "exploitatievergunning",
+    "datum": "2022-06-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-288653.html"
+   },
+   {
+    "id": "gmb-2022-225385",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2022-05-19",
+    "onderwerp": "OBJ plaatsen Marnixstraat 402 23-05-2022, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-225385.html"
+   },
+   {
+    "id": "gmb-2022-160339",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Marnixstraat 402",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160339.html"
+   },
+   {
+    "id": "gmb-2022-147163",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2022-04-04",
+    "onderwerp": "Object, Marnixstraat 402, 4-4-22, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-147163.html"
+   },
+   {
+    "id": "gmb-2022-114245",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2022-03-15",
+    "onderwerp": "object, Marnixstraat 402, 12-3-2022, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-114245.html"
+   },
+   {
+    "id": "gmb-2022-93984",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2022-03-03",
+    "onderwerp": "object, Marnixstraat 402, 12-3-2022, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-93984.html"
+   },
+   {
+    "id": "gmb-2021-388287",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "RVV Marnixstraat 402, 1-11-2021, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-388287.html"
+   },
+   {
+    "id": "gmb-2021-388437",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "OBV Marnixstraat 402, 1-11-2021, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-388437.html"
+   },
+   {
+    "id": "gmb-2021-296207",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 402",
+    "soort": "andere vergunning",
+    "datum": "2021-08-31",
+    "onderwerp": "OBJ, Marnixstraat 402, 12-9-2021, Marnixstraat 402",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-296207.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.4.html",
+     "tekst": "aeus Gymnasium aan de Weteringschans bij het Leidseplein. DeLaMar theater 6.4.2 Ontwikkeling Aan het Leidseplein is de Stadsschouwburg uitgebreid met een vlakke vloerzaal en de Melkweg met de zaal The Max. In de Marnixstraat is door de Van der Ende Foundation het De La Mar Theater gerealiseerd met twee zalen. Het Leidseplein wordt heringericht tot voetga"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 3,
+  "bekendmakingen": 203,
+  "plannen": 2,
+  "woo": 63
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+ ],
+ "duur_s": 276,
+ "pand_adressen": [
+  "Marnixstraat 402"
+ ]
+}

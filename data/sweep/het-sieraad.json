@@ -1,0 +1,928 @@
+{
+ "id": "het-sieraad",
+ "naam": "Het Sieraad",
+ "adres": "Postjesweg 1, 1057 DT Amsterdam",
+ "termen": [
+  "Postjesweg 1",
+  "1057DT",
+  "1057 DT",
+  "Het Sieraad"
+ ],
+ "pand": "0363100012154874",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 48,
+  "openbaar": 47,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_34262",
+    "titel": "Postjesweg 1",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34262"
+   },
+   {
+    "dossier": "SJ_33568",
+    "titel": "Postjesweg 1",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_33568"
+   },
+   {
+    "dossier": "SJ_32668",
+    "titel": "Postjesweg 1",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32668"
+   },
+   {
+    "dossier": "SJ_33569",
+    "titel": "Postjesweg 1",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_33569"
+   },
+   {
+    "dossier": "SJ_32176",
+    "titel": "Postjesweg 1 - 99",
+    "datum": "2009-01-01",
+    "soort": "omgevingsvergunning",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32176"
+   },
+   {
+    "dossier": "SJ_28359",
+    "titel": "Postjesweg 1",
+    "datum": "2009-01-01",
+    "soort": "perceelkaart",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_28359"
+   },
+   {
+    "dossier": "SJ_32667",
+    "titel": "Postjesweg 1",
+    "datum": "2009-01-01",
+    "soort": "steiger",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32667"
+   },
+   {
+    "dossier": "SJ_33567",
+    "titel": "Postjesweg 1",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_33567"
+   },
+   {
+    "dossier": "SJ_32253",
+    "titel": "Postjesweg 1",
+    "datum": "2008-01-01",
+    "soort": "steiger",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32253"
+   },
+   {
+    "dossier": "SJ_32670",
+    "titel": "Postjesweg 1",
+    "datum": "2008-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32670"
+   },
+   {
+    "dossier": "SJ_27012",
+    "titel": "Postjesweg 1",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_27012"
+   },
+   {
+    "dossier": "SJ_26961",
+    "titel": "Postjesweg 1",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 222,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26961"
+   },
+   {
+    "dossier": "SJ_26962",
+    "titel": "Postjesweg 1",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26962"
+   },
+   {
+    "dossier": "SJ_26960",
+    "titel": "Postjesweg 1",
+    "datum": "2006-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 177,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26960"
+   },
+   {
+    "dossier": "SJ_26958",
+    "titel": "Postjesweg 1",
+    "datum": "2006-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 123,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26958"
+   },
+   {
+    "dossier": "SJ_26956",
+    "titel": "Postjesweg 1",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26956"
+   },
+   {
+    "dossier": "SJ_26954",
+    "titel": "Postjesweg 1",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26954"
+   },
+   {
+    "dossier": "SJ_32277",
+    "titel": "Postjesweg 1",
+    "datum": "2006-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32277"
+   },
+   {
+    "dossier": "SJ_26952",
+    "titel": "Postjesweg 1",
+    "datum": "2006-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 180,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26952"
+   },
+   {
+    "dossier": "SJ_26944",
+    "titel": "Postjesweg 1",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26944"
+   },
+   {
+    "dossier": "SJ_32276",
+    "titel": "Postjesweg 1",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32276"
+   },
+   {
+    "dossier": "SJ_32260",
+    "titel": "Postjesweg 1",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 106,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32260"
+   },
+   {
+    "dossier": "SJ_26950",
+    "titel": "Postjesweg 1",
+    "datum": "2005-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26950"
+   },
+   {
+    "dossier": "SJ_26946",
+    "titel": "Postjesweg 1",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 120,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26946"
+   },
+   {
+    "dossier": "SJ_26948",
+    "titel": "Postjesweg 1",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26948"
+   },
+   {
+    "dossier": "SJ_26947",
+    "titel": "Postjesweg 1",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26947"
+   },
+   {
+    "dossier": "SJ_26943",
+    "titel": "Postjesweg 1",
+    "datum": "2005-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 561,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26943"
+   },
+   {
+    "dossier": "SJ_26940",
+    "titel": "Postjesweg 1",
+    "datum": "2005-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 93,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26940"
+   },
+   {
+    "dossier": "SJ_26936",
+    "titel": "Postjesweg 1",
+    "datum": "2005-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 126,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26936"
+   },
+   {
+    "dossier": "SJ_26934",
+    "titel": "Postjesweg 1",
+    "datum": "2005-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 72,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26934"
+   },
+   {
+    "dossier": "SJ_26928",
+    "titel": "Postjesweg 1",
+    "datum": "2005-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 237,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26928"
+   },
+   {
+    "dossier": "SJ_26922",
+    "titel": "Postjesweg 1",
+    "datum": "2005-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 234,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26922"
+   },
+   {
+    "dossier": "SJ_26920",
+    "titel": "Postjesweg 1",
+    "datum": "2005-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2350,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26920"
+   },
+   {
+    "dossier": "SJ_26972",
+    "titel": "Postjesweg 1",
+    "datum": "2005-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 849,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26972"
+   },
+   {
+    "dossier": "SJ_26911",
+    "titel": "Postjesweg 1",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1383,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26911"
+   },
+   {
+    "dossier": "SJ_26963",
+    "titel": "Postjesweg 1",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 582,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_26963"
+   },
+   {
+    "dossier": "SJ_33393",
+    "titel": "Postjesweg 1 t/o",
+    "datum": "2003-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 591,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_33393"
+   },
+   {
+    "dossier": "SJ_01946",
+    "titel": "Postjesweg 1",
+    "datum": "1999-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01946"
+   },
+   {
+    "dossier": "SJ_01780",
+    "titel": "Admiraal de Ruijterweg 9 t/o; Jan van Galenstraat 41; Jan van Galenstraat 315 t/o; Postjesweg 1 t/o; Surinameplein ; Willem de Zwijgerlaan",
+    "datum": "1998-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01780"
+   },
+   {
+    "dossier": "SJ_01945",
+    "titel": "Postjesweg 1",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 161,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01945"
+   },
+   {
+    "dossier": "SJ_01942",
+    "titel": "Postjesweg 1",
+    "datum": "1962-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01942"
+   },
+   {
+    "dossier": "SJ_23422",
+    "titel": "Postjesweg 1",
+    "datum": "1957-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_23422"
+   },
+   {
+    "dossier": "SJ_01939",
+    "titel": "Postjesweg 1",
+    "datum": "1957-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 83,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01939"
+   },
+   {
+    "dossier": "SJ_01944",
+    "titel": "Postjesweg 1",
+    "datum": "1956-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01944"
+   },
+   {
+    "dossier": "SJ_01940",
+    "titel": "Postjesweg 1",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01940"
+   },
+   {
+    "dossier": "SJ_01943",
+    "titel": "Postjesweg 1",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01943"
+   },
+   {
+    "dossier": "SJ_24613",
+    "titel": "Postjesweg 1",
+    "datum": "1921-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_24613"
+   },
+   {
+    "dossier": "SJ_00630",
+    "titel": "Admiralengracht 2 - 34 a; Postjesweg 1; Postjesweg 8 - 22; Van Brakelstraat 29 - 39; Witte de Withstraat 1 - 25",
+    "datum": null,
+    "soort": "situatieschets",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_00630"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 49,
+  "gezocht": [
+   "Postjesweg 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-400381",
+    "titel": "Besluit maatwerkvoorschrift bouwlawaai en trillingshinder Baarsjesweg 216 t/m 313 en Postjesweg 1 Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2025-09-16",
+    "onderwerp": "maatwerkvoorschrift geluidhinder vanwege het vernieuwen van de kademuur",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-400381.html",
+    "zaak": "Z2025-022455"
+   },
+   {
+    "id": "bgr-2024-1976",
+    "titel": "Toestemming voor het inzetten van een torenkraan voor het hijsen van glas ter hoogte van Postjesweg 1 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1976.html"
+   },
+   {
+    "id": "bgr-2024-1881",
+    "titel": "Toestemming voor het inzetten van een mobiele torenkraan voor het vervangen van het glas ter hoogte van Postjesweg 1 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-10",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1881.html"
+   },
+   {
+    "id": "gmb-2021-425724",
+    "titel": "Aanvraag omgevingsvergunning Postjesweg 1 1057DT Amsterdam, Postjesweg hoek Admiralengracht Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-25",
+    "onderwerp": "het vervangen van digitale mupi (2m2 reclameobject)",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-425724.html",
+    "zaak": "Z2021-W005834"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-400381",
+   "gmb-2021-425724"
+  ],
+  "zaaknummers": [
+   "Z2021-W005834",
+   "Z2025-022455"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "stcrt-2026-26214",
+    "titel": "Regeling van de Minister Werk en Participatie van 15 juli 2026, nr. 2026-0000213424, houdende wijziging van de Regeling dubbele kinderbijslag om onderwijsredenen in verband met actualisatie van de bijlagen voor het schooljaar 2026/2027 [KetenID WGK029217]",
+    "soort": "algemeen verbindend voorschrift (ministeriële regeling)",
+    "datum": "2026-07-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26214.html"
+   },
+   {
+    "id": "gmb-2026-243708",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Postjesweg 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Postjesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243708.html"
+   },
+   {
+    "id": "gmb-2025-541535",
+    "titel": "Aanvraag evenementenvergunning Postjesweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Postjesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-541535.html"
+   },
+   {
+    "id": "gmb-2025-535916",
+    "titel": "Besluit apv vergunning Verleend - Postjesweg ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-09",
+    "onderwerp": "Object/TVM 2 P vakken Admiralengracht 8-10, Postjesweg 1, 12 dec-19 dec., Postjesweg ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-535916.html"
+   },
+   {
+    "id": "gmb-2025-526629",
+    "titel": "Besluit apv vergunning Verleend - Postjesweg ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-04",
+    "onderwerp": "Object, Postjesweg 1, 30 okt-1 dec, Postjesweg ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-526629.html"
+   },
+   {
+    "id": "gmb-2025-451805",
+    "titel": "Besluit apv vergunning Verleend - Postjesweg ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Object, Afgesloten gebieden, Postjesweg 1 1057DT, 20251022, Postjesweg ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451805.html"
+   },
+   {
+    "id": "gmb-2025-327807",
+    "titel": "Besluit apv vergunning Verleend - Postjesweg ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "Object,Postjesweg 1 1057DT, 20250519, 19-5-2025 t/m 13-6-2025, Postjesweg ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-327807.html"
+   },
+   {
+    "id": "stcrt-2025-23396",
+    "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 1 juli 2025, nr. 2025-0000133322, houdende wijziging van de Regeling dubbele kinderbijslag om onderwijsredenen om de bijlagen voor het schooljaar 2025/26 te actualiseren [KetenlD WGK027756]",
+    "soort": "algemeen verbindend voorschrift (ministeriële regeling)",
+    "datum": "2025-07-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2025-23396.html"
+   },
+   {
+    "id": "gmb-2025-158390",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Postjesweg 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Postjesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-158390.html"
+   },
+   {
+    "id": "gmb-2024-478541",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Postjesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2024-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-478541.html"
+   },
+   {
+    "id": "gmb-2024-473673",
+    "titel": "Rectificatie: Besluit apv vergunning Verleend - Postjesweg ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-11-11",
+    "onderwerp": "Object, Postjesweg 1 1057DT, 20241111, Postjesweg ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-473673.html"
+   },
+   {
+    "id": "gmb-2024-468108",
+    "titel": "Besluit apv vergunning Verleend -  ter hoogte van nummer:  in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-11-07",
+    "onderwerp": "Object, Postjesweg 1 1057DT, 20241111,  ter hoogte van nummer: ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-468108.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-250568",
+    "titel": "Aanvraag evenementenvergunning Postjesweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Postjesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-250568.html"
+   },
+   {
+    "id": "gmb-2024-250590",
+    "titel": "Besluit evenementenvergunning VerleendPostjesweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Postjesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-250590.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-174837",
+    "titel": "Besluit apv vergunning Verleend - Postjesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Object, Postjesweg 1 1057DT, 20240603, Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174837.html"
+   },
+   {
+    "id": "gmb-2024-165340",
+    "titel": "Aanvraag evenementenvergunning Postjesweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Postjesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-165340.html"
+   },
+   {
+    "id": "stcrt-2023-16593-n1",
+    "titel": "Rectificatie Wijziging Regeling dubbele kinderbijslag om onderwijsredenen",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2023-12-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2023-16593-n1.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "wsb-2023-11968",
+    "titel": "Verleende Watervergunning voor het aanleggen van kabels of leidingen ten behoeve van distributieleiding, ter hoogte van Postjesweg 1 1057DT Amsterdam - AGV - WN2023-005650",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2023-10-02",
+    "onderwerp": "Melding Keur, Liander N.V., Postjesweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2023-11968.html"
+   },
+   {
+    "id": "stcrt-2023-16593",
+    "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 7 juni 2023, nr. 2023-0000320868, tot wijziging van de Regeling dubbele kinderbijslag om onderwijsredenen teneinde de bijlagen voor het schooljaar 2023/24 te actualiseren",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2023-06-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2023-16593.html"
+   },
+   {
+    "id": "gmb-2022-461943",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Postjesweg 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-10-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-461943.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-442089",
+    "titel": "Besluit apv vergunning Verleend Postjesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-04",
+    "onderwerp": "RVV Postjesweg 1, 12 okt, Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-442089.html"
+   },
+   {
+    "id": "gmb-2022-436307",
+    "titel": "Besluit apv vergunning Verleend Postjesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2022-09-30",
+    "onderwerp": "RVV - Postjesweg 1- 6 oktober 2022, Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-436307.html"
+   },
+   {
+    "id": "gmb-2022-387407",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Postjesweg 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-29",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387407.html"
+   },
+   {
+    "id": "stcrt-2022-18965",
+    "titel": "Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 11 juli 2022, 2022-0000144674, tot wijziging van de Regeling dubbele kinderbijslag om onderwijsredenen teneinde de bijlagen voor het schooljaar 2022/23 te actualiseren",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-07-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2022-18965.html"
+   },
+   {
+    "id": "gmb-2022-191568",
+    "titel": "Besluit apv vergunning Verleend Postjesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2022-04-29",
+    "onderwerp": "TVM+12 vakken+RVV/Baarsjeseweg 224 en Postjesweg 1/7-5-2022, Postjesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-191568.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1504BPSTD-VG01",
+   "naam": "De Baarsjes",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-05-16",
+   "opp_m2": 1537352,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1504BPSTD-VG02",
+   "naam": "De Baarsjes",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-05-16",
+   "opp_m2": 1537352,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 116,
+  "bekendmakingen": 8,
+  "plannen": 123,
+  "woo": 14
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 275,
+ "pand_adressen": [
+  "Postjesweg 1"
+ ]
+}

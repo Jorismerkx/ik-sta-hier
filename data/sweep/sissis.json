@@ -1,0 +1,526 @@
+{
+ "id": "sissis",
+ "naam": "Sissi's",
+ "adres": "Anthony Fokkerweg 3, 1059 CM Amsterdam",
+ "termen": [
+  "Anthony Fokkerweg 3",
+  "1059CM",
+  "1059 CM",
+  "Sissi's"
+ ],
+ "pand": "0363100012092727",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 7,
+  "openbaar": 7,
+  "laatste": "2000-01-01",
+  "dossiers": [
+   {
+    "dossier": "SW_41661",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "2000-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_41661"
+   },
+   {
+    "dossier": "SW_41005",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "1983-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_41005"
+   },
+   {
+    "dossier": "SW_41008",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_41008"
+   },
+   {
+    "dossier": "SW_41003",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "1966-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_41003"
+   },
+   {
+    "dossier": "SW_40945",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "1964-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_40945"
+   },
+   {
+    "dossier": "SW_41004",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "1963-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_41004"
+   },
+   {
+    "dossier": "SW_60861",
+    "titel": "Anthony Fokkerweg 3",
+    "datum": "1963-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_60861"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 55,
+  "gezocht": [
+   "Anthony Fokkerweg 3"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-190566",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Anthony Fokkerweg 3 1059CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-01",
+    "onderwerp": "afwijken van regels van het omgevingsplan voor het tijdelijk gebruiken van het gebouw en aansluitende gronden ten behoeve van horeca van (...)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-190566.html",
+    "zaak": "Z2024-042645"
+   },
+   {
+    "id": "gmb-2025-90612",
+    "titel": "Aanvraag omgevingsvergunning Anthony Fokkerweg 3 1059CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-04",
+    "onderwerp": "afwijken van regels van het omgevingsplan voor het tijdelijk gebruiken van het gebouw als horeca van categorie 2 voor een periode van vijf jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-90612.html"
+   },
+   {
+    "id": "gmb-2023-502409",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Anthony Fokkerweg 3 1059CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-24",
+    "onderwerp": "legaliseren van diverse tijdelijke bouwwerken op het terrein ten behoeve van horeca en evenementen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-502409.html",
+    "zaak": "Z2023-Z003250"
+   },
+   {
+    "id": "gmb-2023-319605",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Anthony Fokkerweg 3 1059CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-20",
+    "onderwerp": "legaliseren van diverse tijdelijke bouwwerken op het terrein ten behoeve van horeca en evenementen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-319605.html",
+    "zaak": "Z2023-Z003250"
+   },
+   {
+    "id": "gmb-2023-251003",
+    "titel": "Aanvraag omgevingsvergunning Anthony Fokkerweg 3 1059CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-08",
+    "onderwerp": "legaliseren van diverse tijdelijke bouwwerken op het terrein ten behoeve van horeca en evenementen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-251003.html",
+    "zaak": "Z2023-Z003250"
+   },
+   {
+    "id": "gmb-2023-10994",
+    "titel": "Buiten behandeling stellen van aanvraag omgevingsvergunning Anthony Fokkerweg 3 1059CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-10",
+    "onderwerp": "brandveilig gebruik dag verblijf",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-10994.html",
+    "zaak": "Z2022-Z007094"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-190566",
+   "gmb-2025-90612",
+   "gmb-2023-502409",
+   "gmb-2023-251003",
+   "gmb-2023-10994"
+  ],
+  "zaaknummers": [
+   "Z2022-Z007094",
+   "Z2023-Z003250",
+   "Z2024-042645"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-492487",
+    "titel": "Besluit apv vergunning Verleend - Anthony Fokkerweg ter hoogte van nummer: 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-22",
+    "onderwerp": "TVM parkeervak,Anthony Fokkerweg 3 1059CM, 20261019, Anthony Fokkerweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-492487.html"
+   },
+   {
+    "id": "gmb-2026-351104",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) ter hoogte van Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-22",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): het houden van evenement Sissi's - blockparty's ter hoogte van Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-351104.html"
+   },
+   {
+    "id": "gmb-2026-350060",
+    "titel": "Aanvraag evenementenvergunning Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350060.html"
+   },
+   {
+    "id": "gmb-2026-350016",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Anthony Fokkerweg 3",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Anthony Fokkerweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350016.html"
+   },
+   {
+    "id": "gmb-2026-350036",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) ter hoogte van Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350036.html"
+   },
+   {
+    "id": "gmb-2026-336772",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Anthony Fokkerweg 3",
+    "soort": "andere vergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Anthony Fokkerweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-336772.html"
+   },
+   {
+    "id": "gmb-2026-303747",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-303747.html"
+   },
+   {
+    "id": "gmb-2026-271839",
+    "titel": "Evenementenvergunning verleend Anthony Fokkerweg 3 uitzenden WK-wedstrijd",
+    "soort": "andere vergunning",
+    "datum": "2026-06-09",
+    "onderwerp": "Evenementenvergunning Anthony Fokkerweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-271839.html"
+   },
+   {
+    "id": "gmb-2026-264939",
+    "titel": "Aanvraag evenementenvergunning Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-264939.html"
+   },
+   {
+    "id": "gmb-2026-264917",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-264917.html"
+   },
+   {
+    "id": "gmb-2026-208461",
+    "titel": "Aanvraag evenementenvergunning Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-208461.html"
+   },
+   {
+    "id": "gmb-2026-31969",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-02-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31969.html"
+   },
+   {
+    "id": "gmb-2025-327900",
+    "titel": "Besluit apv vergunning Verleend - Anthony Fokkerweg ter hoogte van nummer: 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "Nachtwerk,Anthony Fokkerweg 3 1059CM, 20250812, Anthony Fokkerweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-327900.html"
+   },
+   {
+    "id": "gmb-2025-273310",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-273310.html"
+   },
+   {
+    "id": "gmb-2025-267445",
+    "titel": "Aanvraag evenementenvergunning Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-267445.html"
+   },
+   {
+    "id": "gmb-2025-219919",
+    "titel": "Besluit alcoholwetvergunning Verleend - Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-05-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Anthony Fokkerweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-219919.html"
+   },
+   {
+    "id": "gmb-2025-219920",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-05-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-219920.html"
+   },
+   {
+    "id": "gmb-2025-5647",
+    "titel": "Rectificatie: Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-01-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-5647.html"
+   },
+   {
+    "id": "gmb-2024-550336",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-12-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550336.html"
+   },
+   {
+    "id": "gmb-2024-313608",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-18",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-313608.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-178303",
+    "titel": "Uitwerkingsbesluit Parkeerverordening 2013 Amsterdam juli 2024",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-04-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-178303.html"
+   },
+   {
+    "id": "gmb-2024-177366",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Deels verleend - Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Deels verleend: exploitatievergunning horecabedrijf op adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-177366.html"
+   },
+   {
+    "id": "gmb-2024-57523",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Anthony Fokkerweg 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Anthony Fokkerweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-57523.html"
+   },
+   {
+    "id": "gmb-2023-540070",
+    "titel": "Kennisgeving van het voornemen tot een-op-een uitgifte door middel van perceeluitbreiding in Schinkelhaven aan AF 3 B.V. aan de Anthony Fokkerweg 3 te Amsterdam",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2023-12-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-540070.html"
+   },
+   {
+    "id": "gmb-2023-511983",
+    "titel": "Kennisgeving van het voornemen tot een-op-een uitgifte van perceeluitbreiding in Schinkelhaven aan AF 3 B.V. aan de Anthony Fokkerweg 3 te Amsterdam",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2023-12-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-511983.html"
+   },
+   {
+    "id": "gmb-2023-423236",
+    "titel": "Uitwerkingsbesluit Parkeerverordening 2013 Amsterdam december 2023",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2023-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-423236.html"
+   },
+   {
+    "id": "prb-2023-11258",
+    "titel": "Besluit Waterwet - Anthony Fokkerweg 3, Amsterdam - ,93785",
+    "soort": "andere vergunning",
+    "datum": "2023-09-27",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-11258.html"
+   },
+   {
+    "id": "gmb-2023-373117",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Anthony Fokkerweg 3",
+    "soort": "andere vergunning",
+    "datum": "2023-08-29",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Anthony Fokkerweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-373117.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.K2204BPGST-OW01",
+   "naam": "Verwijderen veiligheidszones en LPG Anthony Fokkerweg 8",
+   "type": "wijzigingsplan",
+   "status": "ontwerp",
+   "datum": "2022-11-15",
+   "opp_m2": 42922,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K2204BPGST-VG01",
+   "naam": "Verwijderen veiligheidszones en LPG Anthony Fokkerweg 8",
+   "type": "wijzigingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-03-28",
+   "opp_m2": 42922,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K1203BPSTD-CONS",
+   "naam": "Bedrijventerrein Schinkel - Aalsmeerplein e.o.",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-05-29",
+   "opp_m2": 339077,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K1203BPSTD-VG01",
+   "naam": "Bedrijventerrein Schinkel - Aalsmeerplein e.o.",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-05-29",
+   "opp_m2": 339077,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K2205BPGST-VG01",
+   "naam": "Aanpassing geluidzone industrieterrein Schinkel",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-11-12",
+   "opp_m2": 610725,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 16,
+  "plannen": 5,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 23,
+ "pand_adressen": [
+  "Anthony Fokkerweg 3"
+ ]
+}

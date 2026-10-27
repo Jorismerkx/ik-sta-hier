@@ -1,0 +1,662 @@
+{
+ "id": "ot301",
+ "naam": "OT301",
+ "adres": "Overtoom 301, 1054 HW Amsterdam",
+ "termen": [
+  "Overtoom 301",
+  "1054HW",
+  "1054 HW"
+ ],
+ "pand": "0363100012138646",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 27,
+  "openbaar": 27,
+  "laatste": "2004-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_50161",
+    "titel": "Overtoom 295 a 1 - 295 a 5; Overtoom 295 b 1 - 295 b 4; Overtoom 295 c 1 - 295 c 5; Overtoom 295 d 1 - 295 d 4; Overtoom 295 e 1 - 295 e 5; Overtoom 295 f 1 - 295 f 4",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_50161"
+   },
+   {
+    "dossier": "SJ_57859",
+    "titel": "Overtoom 295 a 1 - 295 a 5; Overtoom 295 b 1 - 295 b 5; Overtoom 295 c 1 - 295 c 5; Overtoom 295 d 1 - 295 d 5; Overtoom 295 e 1 - 295 e 5; Overtoom 295 f 1 - 295 f 5; Overtoom 295 g",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57859"
+   },
+   {
+    "dossier": "SJ_68844",
+    "titel": "Overtoom 301",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_68844"
+   },
+   {
+    "dossier": "SJ_71600",
+    "titel": "Overtoom 301",
+    "datum": "2003-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_71600"
+   },
+   {
+    "dossier": "SJ_50680",
+    "titel": "Overtoom 301",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_50680"
+   },
+   {
+    "dossier": "SJ_50498",
+    "titel": "Overtoom 301",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_50498"
+   },
+   {
+    "dossier": "SJ_71280",
+    "titel": "Overtoom 301",
+    "datum": "2003-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 284,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_71280"
+   },
+   {
+    "dossier": "SJ_52716",
+    "titel": "Overtoom 295",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52716"
+   },
+   {
+    "dossier": "SJ_52714",
+    "titel": "Overtoom 295",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52714"
+   },
+   {
+    "dossier": "SJ_52698",
+    "titel": "Overtoom 295",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 112,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52698"
+   },
+   {
+    "dossier": "SJ_50444",
+    "titel": "Overtoom 295",
+    "datum": "2002-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_50444"
+   },
+   {
+    "dossier": "SJ_68870",
+    "titel": "Overtoom 301",
+    "datum": "2002-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_68870"
+   },
+   {
+    "dossier": "SJ_69882",
+    "titel": "Overtoom 295",
+    "datum": "2002-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_69882"
+   },
+   {
+    "dossier": "SJ_52706",
+    "titel": "Overtoom 295 6",
+    "datum": "2002-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52706"
+   },
+   {
+    "dossier": "SJ_52753",
+    "titel": "Overtoom 297",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52753"
+   },
+   {
+    "dossier": "SJ_52766",
+    "titel": "Overtoom 299",
+    "datum": "1983-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 0,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52766"
+   },
+   {
+    "dossier": "SJ_51638",
+    "titel": "Overtoom 299",
+    "datum": "1980-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_51638"
+   },
+   {
+    "dossier": "SJ_52524",
+    "titel": "Overtoom 295 - 299",
+    "datum": "1971-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52524"
+   },
+   {
+    "dossier": "SJ_68879",
+    "titel": "Overtoom 301",
+    "datum": "1971-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_68879"
+   },
+   {
+    "dossier": "SJ_52504",
+    "titel": "Overtoom 295 - 299",
+    "datum": "1970-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52504"
+   },
+   {
+    "dossier": "SJ_52496",
+    "titel": "Overtoom 295 - 299",
+    "datum": "1970-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52496"
+   },
+   {
+    "dossier": "SJ_52481",
+    "titel": "Overtoom 295 - 299",
+    "datum": "1970-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52481"
+   },
+   {
+    "dossier": "SJ_52385",
+    "titel": "Overtoom 295 - 299",
+    "datum": "1969-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 200,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52385"
+   },
+   {
+    "dossier": "SJ_52772",
+    "titel": "Overtoom 299",
+    "datum": "1969-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_52772"
+   },
+   {
+    "dossier": "SJ_71877",
+    "titel": "Overtoom 301",
+    "datum": "1969-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 376,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_71877"
+   },
+   {
+    "dossier": "SJ_68959",
+    "titel": "Overtoom 301",
+    "datum": "1933-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 118,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_68959"
+   },
+   {
+    "dossier": "SJ_75050",
+    "titel": "Overtoom 301",
+    "datum": "1886-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 0,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_75050"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Overtoom 301",
+   "Overtoom 295A",
+   "Overtoom 295B",
+   "Overtoom 295C",
+   "Overtoom 295D",
+   "Overtoom 295E",
+   "Overtoom 295F",
+   "Overtoom 295G",
+   "Overtoom 297",
+   "Overtoom 299",
+   "Overtoom 303"
+  ],
+  "vergunningen": [
+   {
+    "id": "bgr-2025-2033",
+    "titel": "Toestemming voor het inzetten van een knijperauto voor het verwijderen van de boomstobbe en groeiplaatsverbetering ter hoogte van Bilderdijkstraat 102, Overtoom 299 en Jan van Galenstraat 678 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-28",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-2033.html"
+   },
+   {
+    "id": "bgr-2024-1540",
+    "titel": "Toestemming voor het handmatig graven van een sleuf voor het aanleggen van een mantelbuis ter hoogte van Overtoom 299 - 435 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-05",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1540.html"
+   },
+   {
+    "id": "gmb-2023-303410",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Overtoom 303-H 1054JL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-11",
+    "onderwerp": " aanbrengen van gevelreclame in de vorm van box letters ",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-303410.html",
+    "zaak": "Z2023-W002400"
+   },
+   {
+    "id": "gmb-2023-276657",
+    "titel": "Aanvraag omgevingsvergunning Overtoom 303-H 1054JL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-26",
+    "onderwerp": " aanbrengen van gevelreclame in de vorm van box letters ",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-276657.html",
+    "zaak": "Z2023-W002400"
+   },
+   {
+    "id": "gmb-2020-310162",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Overtoom 303-2 1054JL Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-25",
+    "onderwerp": "realiseren van een balkon en het bouwkundig splitsen en omzetten van de derde verdieping naar een zelfstandige woonruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-310162.html"
+   },
+   {
+    "id": "gmb-2020-277428",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Overtoom 303-2 1054JL Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-27",
+    "onderwerp": "realiseren van een balkon en het bouwkundig splitsen en omzetten van de derde verdieping naar een zelfstandige woonruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-277428.html"
+   },
+   {
+    "id": "gmb-2020-232946",
+    "titel": "Aanvraag omgevingsvergunning Overtoom 303-2 1054JL Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-11",
+    "onderwerp": "realiseren van een balkon en het bouwkundig splitsen en omzetten van de derde verdieping naar een zelfstandige woonruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-232946.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-303410",
+   "gmb-2023-276657",
+   "gmb-2020-310162",
+   "gmb-2020-232946"
+  ],
+  "zaaknummers": [
+   "Z2023-W002400"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-473917",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Overtoom 301 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-10-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Overtoom 301 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473917.html"
+   },
+   {
+    "id": "gmb-2026-355779",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Overtoom 301 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overtoom 301 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-355779.html"
+   },
+   {
+    "id": "gmb-2025-15132",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-15132.html"
+   },
+   {
+    "id": "gmb-2024-233673",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2024-05-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-233673.html"
+   },
+   {
+    "id": "gmb-2024-51998",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2024-02-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-51998.html"
+   },
+   {
+    "id": "gmb-2023-456411",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2023-10-26",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-456411.html"
+   },
+   {
+    "id": "gmb-2023-440179",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440179.html"
+   },
+   {
+    "id": "gmb-2023-38257",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2023-01-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-38257.html"
+   },
+   {
+    "id": "gmb-2022-503491",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2022-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-503491.html"
+   },
+   {
+    "id": "gmb-2022-471402",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-471402.html"
+   },
+   {
+    "id": "gmb-2022-404654",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Overtoom 301",
+    "soort": "andere vergunning",
+    "datum": "2022-09-09",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-404654.html"
+   },
+   {
+    "id": "gmb-2021-279077",
+    "titel": "Aanvraag alcoholwetvergunning",
+    "soort": "andere vergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-279077.html"
+   },
+   {
+    "id": "gmb-2021-279075",
+    "titel": "Besluit alcoholwetvergunning Verleend",
+    "soort": "andere vergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-279075.html"
+   },
+   {
+    "id": "gmb-2021-265441",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Pelikaanstraat 3 tot 5 en Overtoom 301",
+    "soort": "exploitatievergunning",
+    "datum": "2021-08-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Pelikaanstraat 3 tot 5 en Overtoom 301",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-265441.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-VG02",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-11-07",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2001BPSTD-VG01",
+   "naam": "Oud West 2018 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-02-15",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2002BPSTD-VG01",
+   "naam": "Oud West 2018 2e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-11-10",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2202BPSTD-VG01",
+   "naam": "Oud West 2018 3e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-06-26",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2203BPSTD-VG01",
+   "naam": "Oud West 4e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-10-06",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-OW01",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2018-05-03",
+   "opp_m2": 1696790,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Overtoom 295A",
+  "Overtoom 295B",
+  "Overtoom 295C",
+  "Overtoom 295D",
+  "Overtoom 295E",
+  "Overtoom 295F",
+  "Overtoom 295G",
+  "Overtoom 297",
+  "Overtoom 299",
+  "Overtoom 301",
+  "Overtoom 303"
+ ]
+}

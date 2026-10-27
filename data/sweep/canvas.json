@@ -1,0 +1,858 @@
+{
+ "id": "canvas",
+ "naam": "Canvas",
+ "adres": "Wibautstraat 150, 1091 GR Amsterdam",
+ "termen": [
+  "Wibautstraat 150",
+  "1091GR",
+  "1091 GR",
+  "Canvas",
+  "Volkshotel"
+ ],
+ "pand": "0363100012149232",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 43,
+  "openbaar": 43,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_35043",
+    "titel": "Wibautstraat 148 - 150 e",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 272,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35043"
+   },
+   {
+    "dossier": "SU_15895",
+    "titel": "Wibautstraat 150",
+    "datum": "2004-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15895"
+   },
+   {
+    "dossier": "SU_35050",
+    "titel": "Wibautstraat 150",
+    "datum": "2003-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35050"
+   },
+   {
+    "dossier": "SU_15893",
+    "titel": "Wibautstraat 148",
+    "datum": "1997-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15893"
+   },
+   {
+    "dossier": "SU_06487",
+    "titel": "Wibautstraat 150",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06487"
+   },
+   {
+    "dossier": "SU_06508",
+    "titel": "Wibautstraat 150",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06508"
+   },
+   {
+    "dossier": "SU_06499",
+    "titel": "Wibautstraat 150",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06499"
+   },
+   {
+    "dossier": "SU_06563",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06563"
+   },
+   {
+    "dossier": "SU_06488",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06488"
+   },
+   {
+    "dossier": "SU_06495",
+    "titel": "Wibautstraat 150",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06495"
+   },
+   {
+    "dossier": "SU_06497",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1984-01-01",
+    "soort": "straatmeubilair",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06497"
+   },
+   {
+    "dossier": "SU_06498",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1982-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06498"
+   },
+   {
+    "dossier": "SU_06518",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06518"
+   },
+   {
+    "dossier": "SU_06515",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06515"
+   },
+   {
+    "dossier": "SU_06516",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06516"
+   },
+   {
+    "dossier": "SU_06562",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1973-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06562"
+   },
+   {
+    "dossier": "SU_05840",
+    "titel": "Wibautstraat 131; Wibautstraat 148 - 150",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_05840"
+   },
+   {
+    "dossier": "SU_06561",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1969-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06561"
+   },
+   {
+    "dossier": "SU_06512",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06512"
+   },
+   {
+    "dossier": "SU_06560",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06560"
+   },
+   {
+    "dossier": "SU_06524",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06524"
+   },
+   {
+    "dossier": "SU_06531",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1966-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06531"
+   },
+   {
+    "dossier": "SU_06530",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1966-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06530"
+   },
+   {
+    "dossier": "SU_06540",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1964-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06540"
+   },
+   {
+    "dossier": "SU_06541",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1964-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06541"
+   },
+   {
+    "dossier": "SU_06539",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1964-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06539"
+   },
+   {
+    "dossier": "SU_06537",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1964-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06537"
+   },
+   {
+    "dossier": "SU_06538",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1964-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06538"
+   },
+   {
+    "dossier": "SU_06535",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06535"
+   },
+   {
+    "dossier": "SU_06533",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06533"
+   },
+   {
+    "dossier": "SU_06532",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06532"
+   },
+   {
+    "dossier": "SU_06534",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06534"
+   },
+   {
+    "dossier": "SU_06523",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06523"
+   },
+   {
+    "dossier": "SU_06509",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06509"
+   },
+   {
+    "dossier": "SU_06517",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06517"
+   },
+   {
+    "dossier": "SU_06519",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06519"
+   },
+   {
+    "dossier": "SU_06507",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06507"
+   },
+   {
+    "dossier": "SU_06506",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06506"
+   },
+   {
+    "dossier": "SU_06503",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06503"
+   },
+   {
+    "dossier": "SU_06496",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1963-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 251,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06496"
+   },
+   {
+    "dossier": "SU_06500",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": "1962-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06500"
+   },
+   {
+    "dossier": "SU_06502",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06502"
+   },
+   {
+    "dossier": "SU_06536",
+    "titel": "Wibautstraat 148 - 150",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06536"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 32,
+  "gezocht": [
+   "Wibautstraat 150"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-175582",
+    "titel": "Beschikking, Bodem - Wibautstraat 150, Amsterdam - Beschikking saneringsevaluatie Wbb",
+    "soort": "andere vergunning",
+    "datum": "2022-04-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-175582.html",
+    "zaak": "1290500"
+   },
+   {
+    "id": "gmb-2021-76732",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Wibautstraat 150 1091GR Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-12",
+    "onderwerp": "actualiseren van het brandveilig gebruik van het pand met een maximum van 2441 personen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-76732.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2021-76732"
+  ],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-243869",
+    "titel": "Besluit apv vergunning Verleend - Wibautstraat ter hoogte van nummer: 150 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "RVV,Filmen,Wibautstraat 150 1091GR, 20260602, Wibautstraat ter hoogte van nummer: 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243869.html"
+   },
+   {
+    "id": "gmb-2026-213868",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Wibautstraat 150",
+    "soort": "andere vergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-213868.html"
+   },
+   {
+    "id": "gmb-2025-348739",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Wibautstraat 150 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-08-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Wibautstraat 150 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-348739.html"
+   },
+   {
+    "id": "gmb-2025-264926",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Wibautstraat 150 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Wibautstraat 150 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-264926.html"
+   },
+   {
+    "id": "gmb-2025-139071",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Wibautstraat 150",
+    "soort": "andere vergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139071.html"
+   },
+   {
+    "id": "gmb-2025-96825",
+    "titel": "Besluit evenementenvergunning Verleend - Wibautstraat 150 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wibautstraat 150 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-96825.html"
+   },
+   {
+    "id": "gmb-2024-547743",
+    "titel": "Aanvraag evenementenvergunning Wibautstraat 150 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-12-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wibautstraat 150 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-547743.html"
+   },
+   {
+    "id": "gmb-2024-484914",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Wibautstraat 150",
+    "soort": "andere vergunning",
+    "datum": "2024-11-19",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-484914.html"
+   },
+   {
+    "id": "gmb-2024-116836",
+    "titel": "Besluit evenementenvergunning VerleendWibautstraat 150 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-15",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Wibautstraat 150 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-116836.html"
+   },
+   {
+    "id": "gmb-2024-107773",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Wibautstraat 150",
+    "soort": "andere vergunning",
+    "datum": "2024-03-11",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-107773.html"
+   },
+   {
+    "id": "gmb-2023-548953",
+    "titel": "Aanvraag evenementenvergunning Wibautstraat 150 in",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Wibautstraat 150 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-548953.html"
+   },
+   {
+    "id": "gmb-2023-110437",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Wibautstraat 150",
+    "soort": "andere vergunning",
+    "datum": "2023-03-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-110437.html"
+   },
+   {
+    "id": "gmb-2023-19584",
+    "titel": "Besluit apv vergunning Verleend Wibautstraat 150",
+    "soort": "andere vergunning",
+    "datum": "2023-01-17",
+    "onderwerp": "object Wibautstraat 150 van 19 t/m 26-1-2023, Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-19584.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-364407",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-364407.html"
+   },
+   {
+    "id": "gmb-2022-364401",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-364401.html"
+   },
+   {
+    "id": "gmb-2022-364433",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-364433.html"
+   },
+   {
+    "id": "gmb-2022-227932",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-05-20",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-227932.html"
+   },
+   {
+    "id": "gmb-2022-205191",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-05-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-205191.html"
+   },
+   {
+    "id": "gmb-2022-202625",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-05-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-202625.html"
+   },
+   {
+    "id": "gmb-2022-91055",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-91055.html"
+   },
+   {
+    "id": "gmb-2021-380731",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Wibautstraat 150",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Wibautstraat 150",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380731.html"
+   },
+   {
+    "id": "gmb-2020-206768",
+    "titel": "Beleidsregel van de voorzitter van het dagelijks bestuur van het stadsdeel Oost van de gemeente Amsterdam houdende regels omtrent Terrassenplan Knowledge Mile Park",
+    "soort": "Beleidsregels",
+    "datum": "2020-08-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-206768.html"
+   },
+   {
+    "id": "gmb-2020-197205",
+    "titel": "Besluit van de voorzitter van het dagelijks bestuur van stadsdeel Centrum van de gemeente Amsterdam betreffende Terrassenplan Knowledge Mile Park",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2020-08-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-197205.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.M1205BPSTD-OH01",
+   "naam": "Weesperzijdestrook",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2015-05-18",
+   "opp_m2": 453602,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.M1205BPSTD-VG01",
+   "naam": "Weesperzijdestrook",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-03-12",
+   "opp_m2": 453602,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 31,
+  "bekendmakingen": 48,
+  "plannen": 286,
+  "woo": 3
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 710,
+ "pand_adressen": [
+  "Wibautstraat 150"
+ ]
+}

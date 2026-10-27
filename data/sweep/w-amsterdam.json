@@ -1,0 +1,1249 @@
+{
+ "id": "w-amsterdam",
+ "naam": "W Amsterdam",
+ "adres": "Spuistraat 175, 1012 VN Amsterdam",
+ "termen": [
+  "Spuistraat 175",
+  "1012VN",
+  "1012 VN",
+  "W Amsterdam",
+  "W Lounge"
+ ],
+ "pand": "0363100012165118",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 44,
+  "openbaar": 9,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_95105",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "2009-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95105"
+   },
+   {
+    "dossier": "SA_95103",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95103"
+   },
+   {
+    "dossier": "SA_26469",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "2004-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26469"
+   },
+   {
+    "dossier": "SA_26462",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26462"
+   },
+   {
+    "dossier": "SA_26447",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "2001-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26447"
+   },
+   {
+    "dossier": "SA_26443",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "2000-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26443"
+   },
+   {
+    "dossier": "SA_26422",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 142,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26422"
+   },
+   {
+    "dossier": "SA_26400",
+    "titel": "Spuistraat 175",
+    "datum": "1999-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26400"
+   },
+   {
+    "dossier": "SA_26363",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "1999-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26363"
+   },
+   {
+    "dossier": "SA_26387",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26387"
+   },
+   {
+    "dossier": "SA_32552",
+    "titel": "Spuistraat 175",
+    "datum": "1997-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32552"
+   },
+   {
+    "dossier": "SA_26329",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1997-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26329"
+   },
+   {
+    "dossier": "SA_32573",
+    "titel": "Spuistraat 175",
+    "datum": "1997-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32573"
+   },
+   {
+    "dossier": "SA_26282",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1997-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26282"
+   },
+   {
+    "dossier": "SA_26357",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1997-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26357"
+   },
+   {
+    "dossier": "SA_26369",
+    "titel": "Spuistraat 175",
+    "datum": "1997-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26369"
+   },
+   {
+    "dossier": "SA_26281",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1996-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26281"
+   },
+   {
+    "dossier": "SA_26313",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26313"
+   },
+   {
+    "dossier": "SA_26349",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1996-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26349"
+   },
+   {
+    "dossier": "SA_26270",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 88,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26270"
+   },
+   {
+    "dossier": "SA_26249",
+    "titel": "Spuistraat 175",
+    "datum": "1994-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26249"
+   },
+   {
+    "dossier": "SA_26209",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1994-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26209"
+   },
+   {
+    "dossier": "SA_26144",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26144"
+   },
+   {
+    "dossier": "SA_26230",
+    "titel": "Spuistraat 175",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26230"
+   },
+   {
+    "dossier": "SA_26113",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1993-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26113"
+   },
+   {
+    "dossier": "SA_26213",
+    "titel": "Spuistraat 175",
+    "datum": "1993-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26213"
+   },
+   {
+    "dossier": "SA_26229",
+    "titel": "Spuistraat 175",
+    "datum": "1992-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26229"
+   },
+   {
+    "dossier": "SA_26101",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26101"
+   },
+   {
+    "dossier": "SA_26088",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1962-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26088"
+   },
+   {
+    "dossier": "SA_26063",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1957-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 63,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26063"
+   },
+   {
+    "dossier": "SA_26038",
+    "titel": "Spuistraat 175",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26038"
+   },
+   {
+    "dossier": "SA_25937",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25937"
+   },
+   {
+    "dossier": "SA_95102",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1951-01-01",
+    "soort": "woningmutatie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95102"
+   },
+   {
+    "dossier": "SA_25931",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25931"
+   },
+   {
+    "dossier": "SA_25927",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25927"
+   },
+   {
+    "dossier": "SA_25921",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "1936-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25921"
+   },
+   {
+    "dossier": "SA_33448",
+    "titel": "Nieuwezijds Voorburgwal 182; Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33448"
+   },
+   {
+    "dossier": "SA_25910",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1933-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25910"
+   },
+   {
+    "dossier": "SA_25918",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1932-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25918"
+   },
+   {
+    "dossier": "SA_25913",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25913"
+   },
+   {
+    "dossier": "SA_25628",
+    "titel": "Nieuwezijds Voorburgwal 226",
+    "datum": "1928-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25628"
+   },
+   {
+    "dossier": "SA_25882",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1928-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25882"
+   },
+   {
+    "dossier": "SA_25912",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1928-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25912"
+   },
+   {
+    "dossier": "SA_25883",
+    "titel": "Nieuwezijds Voorburgwal 226; Spuistraat 175 - 177",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25883"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 93,
+  "gezocht": [
+   "Spuistraat 175",
+   "Nieuwezijds Voorburgwal 226",
+   "Raadhuisstraat 11"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-441141",
+    "titel": "Verlengingsbesluit, Raadhuisstraat 11, 5066 AP Moergestel, het oprichten van vijf appartementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-23",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-441141.html",
+    "zaak": "1057237"
+   },
+   {
+    "id": "gmb-2026-349044",
+    "titel": "Aangevraagde omgevingsvergunning, Raadhuisstraat 11, 5066 AP Moergestel, het oprichten van vijf appartementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-22",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-349044.html",
+    "zaak": "1057237"
+   },
+   {
+    "id": "gmb-2025-547898",
+    "titel": "Besluit omgevingsvergunning reguliere procedure geweigerd Spuistraat 175 1012VN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-16",
+    "onderwerp": "reinigen van de voor- en linkerzijgevel van het gebouwgedeelte ten behoeve van een hotel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-547898.html",
+    "zaak": "Z2025-038561"
+   },
+   {
+    "id": "gmb-2025-546178",
+    "titel": "Aanvraag omgevingsvergunning Spuistraat 175 1012VN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "reinigen van de voor- en linkerzijgevel van het gebouwgedeelte ten behoeve van een hotel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-546178.html",
+    "zaak": "Z2025-038561"
+   },
+   {
+    "id": "prb-2025-18409",
+    "titel": "Vergunning verleend - Spuistraat 175, Amsterdam - het tijdelijk lozen van grondwater",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-07",
+    "onderwerp": "het tijdelijk lozen van grondwater ivm chemische reiniging monobron",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-18409.html",
+    "zaak": "OD2025-0017523"
+   },
+   {
+    "id": "prb-2025-16826",
+    "titel": "Aanvraag vergunning ontvangen - Spuistraat 175, Amsterdam - Tijdelijk lozen grondwater i.v.m. chemische reiniging monobron",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-14",
+    "onderwerp": "het tijdelijk lozen van grondwater ivm chemische reiniging monobron",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-16826.html",
+    "zaak": "OD2025-0017523"
+   },
+   {
+    "id": "gmb-2024-98907",
+    "titel": "Besluit omgevingsvergunning, Raadhuisstraat 11, 5161 BD Sprang-Capelle",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-06",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-98907.html",
+    "zaak": "WWK-2023-002615"
+   },
+   {
+    "id": "gmb-2024-55798",
+    "titel": "Kennisgeving termijnverlenging aanvraag om omgevingsvergunning, Raadhuisstraat 11, 5161 BD Sprang-Capelle, Sprang (SPR01) B 5580",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-07",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-55798.html",
+    "zaak": "WWK-2023-002615"
+   },
+   {
+    "id": "gmb-2023-478734",
+    "titel": "Ingediende aanvraag om een omgevingsvergunning, Raadhuisstraat 11, 5161 BD Sprang-Capelle",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-15",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-478734.html",
+    "zaak": "WWK-2023-002615"
+   },
+   {
+    "id": "gmb-2022-494013",
+    "titel": "Onderkelderen bijgebouw Raadhuisstraat 11",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-07",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-494013.html"
+   },
+   {
+    "id": "gmb-2022-407486",
+    "titel": "Aanvraag omgevingsvergunning voor verbouwen van winkelpand naar horecazaak, Raadhuisstraat 11, 6161GA Geleen",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-12",
+    "onderwerp": "Betreft: aanvraag op locatie Raadhuisstraat 11, 6161GA Geleen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-407486.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-399023",
+    "titel": "Kennisgeving besluit op aanvraag beschikking, Raadhuisstraat 11, 1608EP Wijdenes",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-06",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Raadhuisstraat 11, 1608EP Wijdenes",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-399023.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-395135",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-02",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-395135.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-372464",
+    "titel": "Verleende omgevingsvergunning Hoogerheide - Raadhuisstraat 11",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-372464.html"
+   },
+   {
+    "id": "gmb-2022-362530",
+    "titel": "het vervangen en vergroten van een bijgebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-362530.html"
+   },
+   {
+    "id": "gmb-2022-355411",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-03",
+    "onderwerp": "Betreft: aanvraag op locatie Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-355411.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-338346",
+    "titel": "Kennisgeving termijnverlenging 2022-001592, Raadhuisstraat 11, 1608EP Wijdenes",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-25",
+    "onderwerp": "Betreft: beschikking verlenging beslistermijn op locatie Raadhuisstraat 11, 1608EP Wijdenes",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-338346.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-325180",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-18",
+    "onderwerp": "Betreft: aanvraag op locatie Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-325180.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-313681",
+    "titel": "het vervangen en vergroten van een bijgebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-11",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-313681.html"
+   },
+   {
+    "id": "gmb-2022-279353",
+    "titel": "Aangevraagde omgevingsvergunning Hoogerheide - Raadhuisstraat 11",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-22",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-279353.html"
+   },
+   {
+    "id": "gmb-2022-259633",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking, Raadhuisstraat 11, 1608EP Wijdenes",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-09",
+    "onderwerp": "Betreft: aanvraag op locatie Raadhuisstraat 11, 1608EP Wijdenes",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-259633.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-56850",
+    "titel": "Aangevraagde omgevingsvergunning Hoogerheide - Raadhuisstraat 11",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-09",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-56850.html"
+   },
+   {
+    "id": "gmb-2022-24223",
+    "titel": "Omgevingsvergunning verleend regulier, Raadhuisstraat 11 te Rucphen",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-26",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-24223.html"
+   },
+   {
+    "id": "gmb-2021-450170",
+    "titel": "Aanvraag omgevingsvergunning, een constructieve aanpassing op een eerder verleende vergunning, Raadhuisstraat 11 te Rucphen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-15",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-450170.html"
+   },
+   {
+    "id": "gmb-2021-425751",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Nieuwezijds Voorburgwal 4, 5, 22, 25, 32, 53, 62, 63, 67, 76, 87, 89, 91, 93, 104, 115, 116, 117, 120, 125, 130, 137, 143, 156, 162, 178, 182 en 226, Martelaarsgracht 2 en 5,   Hekelveld 25, Spuistraat 1A",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-25",
+    "onderwerp": "nieuw aanbrengen en deels vervangen van gevelbevestigingen aan diverse gebouwen ten behoeve van overspanningskabels voor de openbare verlichting",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-425751.html",
+    "zaak": "Z2021-C004810"
+   },
+   {
+    "id": "gmb-2021-405352",
+    "titel": "verleende omgevingsvergunning Raadhuisstraat 11 te Naarden",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-405352.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-393829",
+    "titel": "Aanvraag omgevingsvergunning voor wijzigingen op de verleende omgevingsvergunning voor het verbouwen van de woning, Raadhuisstraat 11 te Rucphen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-10",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-393829.html"
+   },
+   {
+    "id": "gmb-2021-340680",
+    "titel": "Verlengingsbesluit omgevingsvergunning Raadhuisstraat 11 te Naarden",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-01",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-340680.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-292087",
+    "titel": "Aanvraag omgevingsvergunning Raadhuisstraat 11 te Naarden",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-292087.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-280856",
+    "titel": "Omgevingsvergunning verleend regulier, Raadhuisstraat 11 te Rucphen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-280856.html"
+   },
+   {
+    "id": "gmb-2021-203763",
+    "titel": "Aanvraag omgevingsvergunning, het verbouwen en uitbreiden van de woning, Raadhuisstraat 11 te Rucphen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-203763.html"
+   },
+   {
+    "id": "gmb-2021-192001",
+    "titel": "Omgevingsvergunning verleend regulier, Raadhuisstraat 11 te Rucphen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-192001.html"
+   },
+   {
+    "id": "gmb-2021-171985",
+    "titel": "Aanvraag omgevingsvergunning Raadhuisstraat 11 te Naarden",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-171985.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2019-269648",
+    "titel": "Gemeente Aalten - aanvraag omgevingsvergunning voor Raadhuisstraat 11 t/m 17C, Dinxperlo",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-11-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-269648.html"
+   },
+   {
+    "id": "gmb-2019-269692",
+    "titel": "Gemeente Aalten - verlening omgevingsvergunning voor Raadhuisstraat 11 t/m 17C, Dinxperlo",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-11-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-269692.html"
+   },
+   {
+    "id": "gmb-2018-179357",
+    "titel": "Melding wet milieubeheer Hei 11B te Baarlo, Olivier van Noortweg 7 te Maasbree en Raadhuisstraat 11 te Panningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-08-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-179357.html"
+   },
+   {
+    "id": "stcrt-2015-15196",
+    "titel": "Omgevingsvergunning met projectafwijking voor Spuistraat 175, Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2015-06-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-15196.html"
+   },
+   {
+    "id": "stcrt-2015-7207",
+    "titel": "Ontwerpomgevingsvergunning met projectafwijking voor Spuistraat 175, Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2015-03-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-7207.html"
+   },
+   {
+    "id": "stcrt-2012-27274",
+    "titel": "Omgevingsvergunning met projectafwijking Spuistraat 175",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-12-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-27274.html"
+   },
+   {
+    "id": "stcrt-2012-20618",
+    "titel": "Kennisgeving ontwerpomgevingsvergunning met projectafwijking Spuistraat 175, Amsterdam - Centrum",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-10-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-20618.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-441141",
+   "gmb-2025-547898",
+   "gmb-2025-546178",
+   "gmb-2024-98907",
+   "gmb-2024-55798",
+   "gmb-2023-478734",
+   "gmb-2022-407486",
+   "gmb-2022-399023",
+   "gmb-2022-395135",
+   "gmb-2022-355411",
+   "gmb-2022-325180",
+   "gmb-2022-259633",
+   "gmb-2021-450170",
+   "gmb-2021-425751",
+   "gmb-2021-393829",
+   "gmb-2021-340680",
+   "gmb-2021-292087",
+   "gmb-2021-203763",
+   "gmb-2021-171985",
+   "gmb-2019-269648"
+  ],
+  "zaaknummers": [
+   "1057237",
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "WWK-2023-002615",
+   "Z2021-C004810",
+   "Z2025-038561"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-458118",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-01",
+    "onderwerp": "Object,Spuistraat 175 1012VN, 20261005, Spuistraat ter hoogte van nummer: 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-458118.html"
+   },
+   {
+    "id": "gmb-2026-415939",
+    "titel": "Besluit alcoholwetvergunning Verleend - Spuistraat 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-04",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Spuistraat 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-415939.html"
+   },
+   {
+    "id": "gmb-2026-415941",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Spuistraat 175 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Spuistraat 175 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-415941.html"
+   },
+   {
+    "id": "gmb-2026-415967",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-04",
+    "onderwerp": "Object,Spuistraat 175 1012VN, 20260914, Spuistraat ter hoogte van nummer: 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-415967.html"
+   },
+   {
+    "id": "gmb-2026-345149",
+    "titel": "Besluit apv vergunning Verleend - Nieuwezijds Voorburgwal ter hoogte van nummer: 226 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-20",
+    "onderwerp": "Object,Nieuwezijds Voorburgwal 226 1012RR, 20260730, Nieuwezijds Voorburgwal ter hoogte van nummer: 226",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-345149.html"
+   },
+   {
+    "id": "gmb-2026-278326",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Spuistraat 175 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-12",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Spuistraat 175 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-278326.html"
+   },
+   {
+    "id": "gmb-2026-209426",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-04",
+    "onderwerp": "Object,Spuistraat 175 1012VN, 20260506, Spuistraat ter hoogte van nummer: 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-209426.html"
+   },
+   {
+    "id": "gmb-2026-202276",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "TVM parkeervak,Spuistraat 175 1012VN, 20260504, Spuistraat ter hoogte van nummer: 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202276.html"
+   },
+   {
+    "id": "gmb-2026-169591",
+    "titel": "Besluit op Alcoholwetvergunning (Verleend), Raadhuisstraat 11, 6161GA Geleen",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-10",
+    "onderwerp": "Betreft : beschikking op aanvraag op locatie Raadhuisstraat 11, 6161GA Geleen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-169591.html"
+   },
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2025-519647",
+    "titel": "Erfgoednota Capelle aan den IJssel",
+    "soort": "beleidsregel",
+    "datum": "2025-12-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-519647.html"
+   },
+   {
+    "id": "gmb-2025-520527",
+    "titel": "Welstandsnota Capelle aan den IJssel 2025",
+    "soort": "beleidsregel",
+    "datum": "2025-12-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-520527.html"
+   },
+   {
+    "id": "gmb-2025-453988",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-21",
+    "onderwerp": "TVM parkeervak,RVV,Object,Spuistraat 175 1012VN, 20251110, Spuistraat ter hoogte van nummer: 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-453988.html"
+   },
+   {
+    "id": "gmb-2025-389080",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 175 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-09",
+    "onderwerp": "Object,Spuistraat 175 1012VN, 20250909, Spuistraat ter hoogte van nummer: 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-389080.html"
+   },
+   {
+    "id": "gmb-2025-332871",
+    "titel": "Besluit apv vergunning Verleend - Nieuwezijds Voorburgwal ter hoogte van nummer: 226 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-29",
+    "onderwerp": "Object,Nieuwezijds Voorburgwal 226 1012RR, 20250730, Nieuwezijds Voorburgwal ter hoogte van nummer: 226",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-332871.html"
+   },
+   {
+    "id": "gmb-2025-170811",
+    "titel": "Besluit apv vergunning Verleend - Nieuwezijds Voorburgwal ter hoogte van nummer: 226 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-22",
+    "onderwerp": "Object,Nieuwezijds Voorburgwal 226 1012RR, 20250424, Nieuwezijds Voorburgwal ter hoogte van nummer: 226",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-170811.html"
+   },
+   {
+    "id": "gmb-2024-437444",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 175",
+    "soort": "andere vergunning",
+    "datum": "2024-10-17",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-437444.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-378684",
+    "titel": "Melding Activiteitenbesluit - Spuistraat 175, Amsterdam - het starten van een hotel",
+    "soort": "overige overheidsinformatie",
+    "datum": "2024-09-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam - Stadsdeel Centrum",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-378684.html"
+   },
+   {
+    "id": "gmb-2024-355858",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat 175",
+    "soort": "andere vergunning",
+    "datum": "2024-08-16",
+    "onderwerp": "Filmen, Spuistraat 175 1012VN, 20240823, Spuistraat 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-355858.html"
+   },
+   {
+    "id": "gmb-2024-354954",
+    "titel": "Kennisgeving ontvangst aanvraag Evenementenvergunning Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-15",
+    "onderwerp": "Betreft: Aanvraag op locatie Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-354954.html"
+   },
+   {
+    "id": "gmb-2024-238036",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Spuistraat 175 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-03",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Spuistraat 175 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-238036.html"
+   },
+   {
+    "id": "gmb-2024-196265",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Raadhuisstraat 11 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-03",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Raadhuisstraat 11 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-196265.html"
+   },
+   {
+    "id": "gmb-2023-539082",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 175",
+    "soort": "andere vergunning",
+    "datum": "2023-12-18",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-539082.html"
+   },
+   {
+    "id": "gmb-2023-481270",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat 175",
+    "soort": "andere vergunning",
+    "datum": "2023-11-13",
+    "onderwerp": "Werkzaamheden en vervoer op straat Spuistraat 175 1012VN, Spuistraat 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-481270.html"
+   },
+   {
+    "id": "gmb-2023-404389",
+    "titel": "Besluit apv vergunning Verleend - Raadhuisstraat 11",
+    "soort": "andere vergunning",
+    "datum": "2023-09-21",
+    "onderwerp": "Werkzaamheden en vervoer op straat Raadhuisstraat 17 H 1016DB, Raadhuisstraat 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-404389.html"
+   },
+   {
+    "id": "gmb-2023-395269",
+    "titel": "Kennisgeving besluit op aanvraag Evenementenvergunning.",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-14",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Raadhuisstraat 11, 6438GZ Oirsbeek",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-395269.html"
+   },
+   {
+    "id": "gmb-2023-391068",
+    "titel": "Subsidieregeling verstrekking duurzaam witgoed gemeente Altena 2023",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2023-09-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-391068.html"
+   },
+   {
+    "id": "gmb-2023-359846",
+    "titel": "Besluit nachtwerkontheffing Verleend - Raadhuisstraat 11 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-08-17",
+    "onderwerp": "Nachtwerkontheffing Raadhuisstraat 11 28-08-2023 tot 06-09-2023, Raadhuisstraat 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-359846.html"
+   },
+   {
+    "id": "gmb-2023-280468",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat 175",
+    "soort": "andere vergunning",
+    "datum": "2023-06-27",
+    "onderwerp": "2Parkeervakken reserveren, OBJ, RVV, 3-7-2023, Spuistraat 175, Spuistraat 175",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-280468.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_8.2.html",
+     "tekst": "ouwen. Beleid hierover is onder andere verankerd in het Programakkoord 2007-2010, het Milieubeleidsplan 2007-2010 en de jaarlijkse milieuprogramma's van het stadsdeel Centrum. Met de Amsterdamse woningcorporaties zijn afspraken gemaakt over duurzaam bouwen in de Basiskwaliteit Woningbouw Amsterdam (BWA). Deze afspraken gelden voor alle nieuwbouwwoningen, waarbij de Amsterdamse corporaties of onderdelen van de gemeente Amsterdam betrokken zijn, dat wil zeggen alle huur- en koopwoningen die zij afzonderlijk of in een combinatieproject samen met particuliere opdrachtgevers tot stand brengen in heel Amsterdam. In de BWA zijn onder andere afspraken gemaakt over strengere eisen aan"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 7,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 9,
+ "pand_adressen": [
+  "Nieuwezijds Voorburgwal 226",
+  "Raadhuisstraat 11",
+  "Spuistraat 175"
+ ]
+}

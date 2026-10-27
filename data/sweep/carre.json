@@ -1,0 +1,1096 @@
+{
+ "id": "carre",
+ "naam": "Koninklijk Theater Carré",
+ "adres": "Amstel 115-125, 1018 EM Amsterdam",
+ "termen": [
+  "Amstel 115",
+  "Amstel 125",
+  "1018EM",
+  "1018 EM",
+  "Koninklijk Theater Carré"
+ ],
+ "pand": "0363100012165489",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 56,
+  "openbaar": 1,
+  "laatste": "2013-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_111523",
+    "titel": "Amstel 115",
+    "datum": "2013-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_111523"
+   },
+   {
+    "dossier": "SA_64074",
+    "titel": "Amstel 125 3; Onbekendegracht 2 1 - 2 3; Onbekendegracht 4 1 - 4 3; Onbekendegracht 6 1 - 6 3",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_64074"
+   },
+   {
+    "dossier": "SA_16405",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16405"
+   },
+   {
+    "dossier": "SA_16454",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16454"
+   },
+   {
+    "dossier": "SA_16423",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 82,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16423"
+   },
+   {
+    "dossier": "SA_16420",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16420"
+   },
+   {
+    "dossier": "SA_16417",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16417"
+   },
+   {
+    "dossier": "SA_16412",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16412"
+   },
+   {
+    "dossier": "SA_16414",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16414"
+   },
+   {
+    "dossier": "SA_16407",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16407"
+   },
+   {
+    "dossier": "SA_16400",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16400"
+   },
+   {
+    "dossier": "SA_16449",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16449"
+   },
+   {
+    "dossier": "SA_16432",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 240,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16432"
+   },
+   {
+    "dossier": "SA_16464",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16464"
+   },
+   {
+    "dossier": "SA_16382",
+    "titel": "Amstel 115 - 125",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16382"
+   },
+   {
+    "dossier": "SA_16385",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 98,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16385"
+   },
+   {
+    "dossier": "SA_16380",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "2003-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16380"
+   },
+   {
+    "dossier": "SA_16383",
+    "titel": "Amstel 115 - 125",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16383"
+   },
+   {
+    "dossier": "SA_16371",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1999-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16371"
+   },
+   {
+    "dossier": "SA_16365",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16365"
+   },
+   {
+    "dossier": "SA_16360",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1998-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16360"
+   },
+   {
+    "dossier": "SA_64075",
+    "titel": "Amstel 115 - 129; Amstel 131 A - 131 B; Onbekendegracht 2 - 6",
+    "datum": "1997-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_64075"
+   },
+   {
+    "dossier": "SA_64072",
+    "titel": "Amstel 115 - 129; Amstel 131 A - 131 B; Onbekendegracht 2 - 6",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_64072"
+   },
+   {
+    "dossier": "SA_64077",
+    "titel": "Amstel 115 - 129; Onbekendegracht 2 - 6",
+    "datum": "1995-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_64077"
+   },
+   {
+    "dossier": "SA_16333",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1993-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16333"
+   },
+   {
+    "dossier": "SA_16344",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1993-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 118,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16344"
+   },
+   {
+    "dossier": "SA_16341",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1993-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16341"
+   },
+   {
+    "dossier": "SA_16293",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1992-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 870,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16293"
+   },
+   {
+    "dossier": "SA_16340",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1992-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 79,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16340"
+   },
+   {
+    "dossier": "SA_16260",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 95,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16260"
+   },
+   {
+    "dossier": "SA_16222",
+    "titel": "Amstel 115; Amstel 125",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16222"
+   },
+   {
+    "dossier": "SA_23872",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23872"
+   },
+   {
+    "dossier": "SA_23888",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23888"
+   },
+   {
+    "dossier": "SA_16137",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 99,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16137"
+   },
+   {
+    "dossier": "SA_23881",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23881"
+   },
+   {
+    "dossier": "SA_23869",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23869"
+   },
+   {
+    "dossier": "SA_23885",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23885"
+   },
+   {
+    "dossier": "SA_23877",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23877"
+   },
+   {
+    "dossier": "SA_23853",
+    "titel": "Amstel 115 - 131",
+    "datum": "1981-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 128,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_23853"
+   },
+   {
+    "dossier": "SA_16102",
+    "titel": "Amstel 115 - 125",
+    "datum": "1970-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16102"
+   },
+   {
+    "dossier": "SA_16512",
+    "titel": "Amstel 115 - 125",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16512"
+   },
+   {
+    "dossier": "SA_16517",
+    "titel": "Amstel 115 - 125",
+    "datum": "1961-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16517"
+   },
+   {
+    "dossier": "SA_16104",
+    "titel": "Amstel 115 - 125",
+    "datum": "1957-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16104"
+   },
+   {
+    "dossier": "SA_16103",
+    "titel": "Amstel 115 - 125",
+    "datum": "1950-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16103"
+   },
+   {
+    "dossier": "SA_16100",
+    "titel": "Amstel 115 - 125",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16100"
+   },
+   {
+    "dossier": "SA_16092",
+    "titel": "Amstel 115 - 125",
+    "datum": "1944-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16092"
+   },
+   {
+    "dossier": "SA_16090",
+    "titel": "Amstel 115 - 125",
+    "datum": "1938-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16090"
+   },
+   {
+    "dossier": "SA_16083",
+    "titel": "Amstel 115 - 125",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16083"
+   },
+   {
+    "dossier": "SA_16067",
+    "titel": "Amstel 115 - 125",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16067"
+   },
+   {
+    "dossier": "SA_16062",
+    "titel": "Amstel 115 - 125",
+    "datum": "1929-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16062"
+   },
+   {
+    "dossier": "SA_16064",
+    "titel": "Amstel 115 - 125",
+    "datum": "1925-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16064"
+   },
+   {
+    "dossier": "SA_15991",
+    "titel": "Amstel 115 - 125",
+    "datum": "1921-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15991"
+   },
+   {
+    "dossier": "SA_15985",
+    "titel": "Amstel 115 - 125",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15985"
+   },
+   {
+    "dossier": "SA_16518",
+    "titel": "Amstel 115 - 125",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16518"
+   },
+   {
+    "dossier": "SA_15981",
+    "titel": "Amstel 115 - 125",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15981"
+   },
+   {
+    "dossier": "SA_15974",
+    "titel": "Amstel 115 - 125",
+    "datum": "1904-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15974"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 41,
+  "gezocht": [
+   "Amstel 115",
+   "Amstel 125"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-261782",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Amstel 115 1018EM Amsterdam, Amstel 125 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-03",
+    "onderwerp": "plaatsen van een rolstoellift aan de achterzijde ten behoeve van het theater",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-261782.html",
+    "zaak": "Z2026-011065"
+   },
+   {
+    "id": "gmb-2026-174096",
+    "titel": "Aanvraag omgevingsvergunning Amstel 115 1018EM Amsterdam, Amstel 125 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-13",
+    "onderwerp": "plaatsen van een rolstoellift aan de achterzijde ten behoeve van het theater",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-174096.html",
+    "zaak": "Z2026-011065"
+   },
+   {
+    "id": "prb-2026-3103",
+    "titel": "Ontbrandingstoestemming vuurwerk - Amstel 115, Amsterdam - 5 mei 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-25",
+    "onderwerp": "Vuurwerk 5 mei 2026 te Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-3103.html",
+    "zaak": "OD2026-0003414"
+   },
+   {
+    "id": "gmb-2026-33213",
+    "titel": "Mededeling opruimen gezonken vaartuig volgens de Wrakkenwet aan Amstel 115 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2026-01-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-33213.html",
+    "zaak": "PPNT2026-4963"
+   },
+   {
+    "id": "gmb-2024-507595",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Amstel 115 1018EM Amsterdam, Amstel 125 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-03",
+    "onderwerp": "het plaatsen van een noodtrap tussen de gebouwen Amstel 113 en 115 ten behoeve van Carré",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-507595.html",
+    "zaak": "Z2024-022184"
+   },
+   {
+    "id": "gmb-2024-371267",
+    "titel": "Aanvraag omgevingsvergunning Amstel 115 1018EM Amsterdam, Amstel 125 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-29",
+    "onderwerp": "het plaatsen van een noodtrap tussen de gebouwen Amstel 113 en 115 ten behoeve van Carré",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-371267.html",
+    "zaak": "Z2024-022184"
+   },
+   {
+    "id": "gmb-2023-410494",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstel 115 1018EM Amsterdam, Amstel 127 1018EM Amsterdam, Amstel 129 1018EM Amsterdam, Amstel 131A 1018EM Amsterdam, Amstel 131B 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-26",
+    "onderwerp": "vervangen en vernieuwen van de ramen/kozijnen in de voorgevel met behoud van de bestaande functies op de locatie 115-125, 127,129,131A en 131B",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-410494.html",
+    "zaak": "Z2023-C005132"
+   },
+   {
+    "id": "gmb-2023-390169",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Amstel 115 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-11",
+    "onderwerp": "vervangen en vernieuwen van de ramen/kozijnen in de voorgevel met behoud van de bestaande functies op de locatie 115-125, 127,129,131A en 131B",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-390169.html",
+    "zaak": "Z2023-C005132"
+   },
+   {
+    "id": "gmb-2023-308828",
+    "titel": "Aanvraag omgevingsvergunning Amstel 115 1018EM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-13",
+    "onderwerp": "vervangen en vernieuwen van de ramen/kozijnen in de voorgevel met behoud van de bestaande functies op de locatie 115-125, 127,129,131A en 131B",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-308828.html",
+    "zaak": "Z2023-C005132"
+   },
+   {
+    "id": "wsb-2021-3244",
+    "titel": "Genomen Maatwerkbesluit voor het plaatsen van een pontonterras, ter hoogte van Amstel 115, 1018 EM Amsterdam - AGV - WN2021-001828",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2021-3244.html"
+   },
+   {
+    "id": "wsb-2020-6756",
+    "titel": "Genomen Maatwerkbesluit voor het Plaatsen van een ponton voor het uitbreiden van het terras, ter hoogte van Amstel 115, 1018 EM Amsterdam - AGV - WN2020-005117",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-06-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2020-6756.html"
+   },
+   {
+    "id": "stcrt-2014-30448",
+    "titel": "Kennisgeving omgevingsvergunning met projectafwijking voor de panden Onbekendegracht 2-4 en Amstel 115-125 (Carré), Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-10-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-30448.html"
+   },
+   {
+    "id": "stcrt-2014-22670",
+    "titel": "Ontwerpomgevingsvergunning met projectafwijking Carré Amstel 115–125, Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-08-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-22670.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-261782",
+   "gmb-2026-174096",
+   "gmb-2024-507595",
+   "gmb-2024-371267",
+   "gmb-2023-410494",
+   "gmb-2023-308828"
+  ],
+  "zaaknummers": [
+   "Z2023-C005132",
+   "Z2024-022184",
+   "Z2026-011065"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-426832",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-11",
+    "onderwerp": "Object,Amstel 115 1018EM, 20261019, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-426832.html"
+   },
+   {
+    "id": "gmb-2026-380867",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-11",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Amstel 115 1018EM, 20261006, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-380867.html"
+   },
+   {
+    "id": "gmb-2026-382109",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 125 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-11",
+    "onderwerp": "Object,Amstel 125 1018EM, 20261006, Amstel ter hoogte van nummer: 125",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-382109.html"
+   },
+   {
+    "id": "gmb-2026-281112",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-15",
+    "onderwerp": "TVM stremmen,Object,Amstel 115 1018EM, 20260627, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-281112.html"
+   },
+   {
+    "id": "gmb-2026-20384",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-19",
+    "onderwerp": "Object,Amstel 115 1018EM, 20260118, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-20384.html"
+   },
+   {
+    "id": "gmb-2025-534217",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-09",
+    "onderwerp": "Object,Amstel 115 1018EM, 20251217, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-534217.html"
+   },
+   {
+    "id": "gmb-2025-411861",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-23",
+    "onderwerp": "TVM stremmen,Object,Amstel 115 1018EM, 20251014, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-411861.html"
+   },
+   {
+    "id": "prb-2025-3642",
+    "titel": "Ontbrandingstoestemming Vuurwerk - Amstel 115, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-10",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-3642.html"
+   },
+   {
+    "id": "gmb-2024-510275",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 115 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-05",
+    "onderwerp": "Object, Amstel 115 1018EM, 20241217, Amstel ter hoogte van nummer: 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-510275.html"
+   },
+   {
+    "id": "gmb-2024-507339",
+    "titel": "Algemeenbelangbesluit voor de verhuur van gemeentelijk vastgoed van de gemeente Amsterdam",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-12-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-507339.html"
+   },
+   {
+    "id": "gmb-2024-400066",
+    "titel": "Besluit apv vergunning Verleend - Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2024-09-20",
+    "onderwerp": "Object,TVM stremmen, Amstel 115 1018EM, 20241015, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-400066.html"
+   },
+   {
+    "id": "gmb-2024-170160",
+    "titel": "Besluit apv vergunning Verleend - Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2024-04-18",
+    "onderwerp": "Object, Amstel 115 1018EM, 20240527, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-170160.html"
+   },
+   {
+    "id": "prb-2024-3061",
+    "titel": "Ontbrandingstoestemming Vuurwerk - Amstel 115, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-03-07",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2024-3061.html"
+   },
+   {
+    "id": "gmb-2023-441109",
+    "titel": "Besluit apv vergunning Verleend - Amstel 125",
+    "soort": "andere vergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Werkzaamheden en vervoer op straat Amstel 125 1018EM, Amstel 125",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-441109.html"
+   },
+   {
+    "id": "gmb-2023-337834",
+    "titel": "Besluit apv vergunning Verleend - Amstel 125",
+    "soort": "andere vergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Objecten Amstel 125, 14-08-2023 t/m 15-08-2023, Amstel 125",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-337834.html"
+   },
+   {
+    "id": "gmb-2023-51784",
+    "titel": "Besluit apv vergunning Verleend Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2023-02-07",
+    "onderwerp": "stremmen+ obj, Amstel 115 tot 121, 05-03, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-51784.html"
+   },
+   {
+    "id": "gmb-2022-572785",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Amstel 115 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-12-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstel 115 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-572785.html"
+   },
+   {
+    "id": "gmb-2022-440191",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Amstel 115",
+    "soort": "exploitatievergunning",
+    "datum": "2022-10-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-440191.html"
+   },
+   {
+    "id": "gmb-2022-429538",
+    "titel": "Besluit apv vergunning Verleend Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2022-09-27",
+    "onderwerp": "Objecten, Amstel 115, 04-10-2022 t/m 06-10-2022, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-429538.html"
+   },
+   {
+    "id": "gmb-2022-429551",
+    "titel": "Besluit apv vergunning Verleend Amstel 125",
+    "soort": "andere vergunning",
+    "datum": "2022-09-27",
+    "onderwerp": "Object, Amstel 115 tot 125, 3-10-2022 t/m 7-10-2022, Amstel 125",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-429551.html"
+   },
+   {
+    "id": "gmb-2022-232379",
+    "titel": "Besluit apv vergunning Verleend Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "Stremmen en objectvergunning Amstel 115-125, 30-5-2022, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-232379.html"
+   },
+   {
+    "id": "prb-2022-5403",
+    "titel": "Melding, Vuurwerk - Amstel 115, Amsterdam",
+    "soort": "overige overheidsinformatie",
+    "datum": "2022-05-09",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2022-5403.html"
+   },
+   {
+    "id": "gmb-2022-114212",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Amstel 115",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-15",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-114212.html"
+   },
+   {
+    "id": "wsb-2022-2725",
+    "titel": "Genomen Maatwerkbesluit voor het aanleggen van een ponton in de Amstel ten behoeve van het terras van Carre, ter hoogte van Amstel 125 1018EM Amsterdam - AGV - WN2022-000656",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2022-03-09",
+    "onderwerp": "Melding waterstaatswerk, B.V. Exploitatie Maatschappij Carre, Amstel 125 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2022-2725.html"
+   },
+   {
+    "id": "gmb-2021-413164",
+    "titel": "Besluit apv vergunning Verleend Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2021-11-18",
+    "onderwerp": "tvm stremmen, Amstel 115, 22-11-2021, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-413164.html"
+   },
+   {
+    "id": "gmb-2021-380547",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Amstel 115",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380547.html"
+   },
+   {
+    "id": "gmb-2021-256887",
+    "titel": "Besluit apv vergunning Verleend Amstel 115",
+    "soort": "andere vergunning",
+    "datum": "2021-08-02",
+    "onderwerp": "Objectvergunning Amstel 115-125, 10-10-2021 t/m 16-10-2021, Amstel 115",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-256887.html"
+   },
+   {
+    "id": "kst-29665-22-b1",
+    "titel": "Luid, maar duidelijk Handhavingsysteem in het buitengebied rond Schiphol",
+    "soort": "Bijlage",
+    "datum": "2006-02-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/kst-29665-22-b1.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A0902BPSTD-OH01",
+   "naam": "Oostelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-07-04",
+   "opp_m2": 1199029,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 4,
+  "plannen": 53,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 60,
+ "pand_adressen": [
+  "Amstel 115",
+  "Amstel 125"
+ ]
+}

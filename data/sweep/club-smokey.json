@@ -1,0 +1,632 @@
+{
+ "id": "club-smokey",
+ "naam": "Club Smokey",
+ "adres": "Rembrandtplein 18-20, 1017 CV Amsterdam",
+ "termen": [
+  "Rembrandtplein 18",
+  "Rembrandtplein 20",
+  "1017CV",
+  "1017 CV",
+  "Club Smokey"
+ ],
+ "pand": "0363100012171125",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 28,
+  "openbaar": 28,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_94628",
+    "titel": "Rembrandtplein 20",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94628"
+   },
+   {
+    "dossier": "SA_94629",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94629"
+   },
+   {
+    "dossier": "SA_86298",
+    "titel": "Rembrandtplein 3 - 46",
+    "datum": "2009-01-01",
+    "soort": "straatmeubilair",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86298"
+   },
+   {
+    "dossier": "SA_94630",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94630"
+   },
+   {
+    "dossier": "SA_94632",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94632"
+   },
+   {
+    "dossier": "SA_94631",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94631"
+   },
+   {
+    "dossier": "SA_20825",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20825"
+   },
+   {
+    "dossier": "SA_20822",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1996-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20822"
+   },
+   {
+    "dossier": "SA_20821",
+    "titel": "Rembrandtplein 18",
+    "datum": "1985-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20821"
+   },
+   {
+    "dossier": "SA_20817",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1976-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20817"
+   },
+   {
+    "dossier": "SA_20795",
+    "titel": "Rembrandtplein 20",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20795"
+   },
+   {
+    "dossier": "SA_20816",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1974-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20816"
+   },
+   {
+    "dossier": "SA_20780",
+    "titel": "Rembrandtplein 18 A - 18 F; Rembrandtplein 20",
+    "datum": "1973-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20780"
+   },
+   {
+    "dossier": "SA_20782",
+    "titel": "Rembrandtplein 18 A - 18 F; Rembrandtplein 20",
+    "datum": "1973-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20782"
+   },
+   {
+    "dossier": "SA_20763",
+    "titel": "Rembrandtplein 18 A - 18 F; Rembrandtplein 20",
+    "datum": "1973-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20763"
+   },
+   {
+    "dossier": "SA_33816",
+    "titel": "Rembrandtplein 16 - 24; Thorbeckeplein 1 - 3",
+    "datum": "1969-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33816"
+   },
+   {
+    "dossier": "SA_20757",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20757"
+   },
+   {
+    "dossier": "SA_20756",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20756"
+   },
+   {
+    "dossier": "SA_20758",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20758"
+   },
+   {
+    "dossier": "SA_20764",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20764"
+   },
+   {
+    "dossier": "SA_33416",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1957-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33416"
+   },
+   {
+    "dossier": "SA_20749",
+    "titel": "Rembrandtplein 20",
+    "datum": "1946-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20749"
+   },
+   {
+    "dossier": "SA_20744",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1940-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20744"
+   },
+   {
+    "dossier": "SA_20743",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1933-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20743"
+   },
+   {
+    "dossier": "SA_20735",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1914-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20735"
+   },
+   {
+    "dossier": "SA_20737",
+    "titel": "Rembrandtplein 18 - 20",
+    "datum": "1914-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20737"
+   },
+   {
+    "dossier": "SA_20723",
+    "titel": "Rembrandtplein 20",
+    "datum": "1909-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20723"
+   },
+   {
+    "dossier": "SA_20714",
+    "titel": "Rembrandtplein 20",
+    "datum": "1908-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20714"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 26,
+  "gezocht": [
+   "Rembrandtplein 18",
+   "Rembrandtplein 20",
+   "Rembrandtplein 18A",
+   "Rembrandtplein 18B",
+   "Rembrandtplein 18C",
+   "Rembrandtplein 18D",
+   "Rembrandtplein 18E",
+   "Rembrandtplein 18F"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-395176",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 20 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-395176.html"
+   },
+   {
+    "id": "gmb-2026-324529",
+    "titel": "Melding graven bodem - Nabij Rembrandtplein 42 Amsterdam , 4 meter richting zuidwesten",
+    "soort": "omgevingsmelding",
+    "datum": "2026-07-08",
+    "onderwerp": "Afgerond; 261023040, Rembrandtplein 18 Amsterdam (O.W.)",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-324529.html"
+   },
+   {
+    "id": "gmb-2026-159857",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rembrandtplein 20 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159857.html"
+   },
+   {
+    "id": "gmb-2026-133084",
+    "titel": "Aanvraag alchoholontheffing Rembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133084.html"
+   },
+   {
+    "id": "gmb-2026-133020",
+    "titel": "Besluit alcoholontheffing Verleend ter hoogte van Rembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "Verleend: alcoholontheffing ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133020.html"
+   },
+   {
+    "id": "gmb-2025-565318",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rembrandtplein 20",
+    "soort": "andere vergunning",
+    "datum": "2025-12-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-565318.html"
+   },
+   {
+    "id": "gmb-2025-534273",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rembrandtplein 20",
+    "soort": "andere vergunning",
+    "datum": "2025-12-09",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-534273.html"
+   },
+   {
+    "id": "gmb-2025-139026",
+    "titel": "Besluit evenementenvergunning Verleend - Rembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139026.html"
+   },
+   {
+    "id": "gmb-2025-15127",
+    "titel": "Aanvraag evenementenvergunning Rembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-15127.html"
+   },
+   {
+    "id": "gmb-2024-41924",
+    "titel": "Aanvraag alchoholontheffing Rembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-26",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-41924.html"
+   },
+   {
+    "id": "gmb-2023-297238",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 20 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-07-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-297238.html"
+   },
+   {
+    "id": "gmb-2023-195298",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Rembrandtplein 20 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-195298.html"
+   },
+   {
+    "id": "gmb-2023-101512",
+    "titel": "Besluit alcoholontheffing VerleendRembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-09",
+    "onderwerp": "Verleend: alcoholontheffing ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-101512.html"
+   },
+   {
+    "id": "gmb-2023-17516",
+    "titel": "Aanvraag alchoholontheffing Rembrandtplein 20 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-16",
+    "onderwerp": "Aanvraag voor een alchoholontheffing ter hoogte van adres Rembrandtplein 20 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-17516.html"
+   },
+   {
+    "id": "gmb-2022-105448",
+    "titel": "Besluit evenementenvergunning Verleend Rembrandtplein 20",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-105448.html"
+   },
+   {
+    "id": "gmb-2022-78188",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Rembrandtplein 20",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-78188.html"
+   },
+   {
+    "id": "gmb-2022-14091",
+    "titel": "Aanvraag evenementenvergunning Rembrandtplein 20",
+    "soort": "evenementenvergunning",
+    "datum": "2022-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-14091.html"
+   },
+   {
+    "id": "gmb-2021-386641",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Rembrandtplein 20",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-386641.html"
+   },
+   {
+    "id": "gmb-2021-384449",
+    "titel": "Besluit apv vergunning Verleend Rembrandtplein 20",
+    "soort": "andere vergunning",
+    "datum": "2021-11-01",
+    "onderwerp": "Objecten, Rembrandtplein 18-20, 07-02-2022 t/m 12-02-2022, Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-384449.html"
+   },
+   {
+    "id": "gmb-2021-384459",
+    "titel": "Besluit apv vergunning Verleend Rembrandtplein 20",
+    "soort": "andere vergunning",
+    "datum": "2021-11-01",
+    "onderwerp": "2x OBJ, Rembrandtplein 18/20, 6-12-2021 t/m 11-12-2021, Rembrandtplein 20",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-384459.html"
+   },
+   {
+    "id": "gmb-2021-333556",
+    "titel": "Besluit apv vergunning Verleend Rembrandtplein 18A",
+    "soort": "andere vergunning",
+    "datum": "2021-09-28",
+    "onderwerp": "OBJ, Rembrandplein 18/20, 10-1-2022 t/m 15-1-2022, Rembrandtplein 18A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-333556.html"
+   },
+   {
+    "id": "gmb-2021-319578",
+    "titel": "Besluit apv vergunning Verleend Rembrandtplein 18A",
+    "soort": "andere vergunning",
+    "datum": "2021-09-17",
+    "onderwerp": "Objectvergunning Rembrandtplein 18-20, 25-10-2021 t/m 30-10-2021, Rembrandtplein 18A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-319578.html"
+   },
+   {
+    "id": "gmb-2021-315204",
+    "titel": "Besluit apv vergunning Verleend Rembrandtplein 18A",
+    "soort": "andere vergunning",
+    "datum": "2021-09-14",
+    "onderwerp": "OBJ, Rembrandplein 18/20, 10-1-2022 t/m 15-1-2022, Rembrandtplein 18A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-315204.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 3,
+  "plannen": 530,
+  "woo": 5
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 540,
+ "pand_adressen": [
+  "Rembrandtplein 18A",
+  "Rembrandtplein 18B",
+  "Rembrandtplein 18C",
+  "Rembrandtplein 18D",
+  "Rembrandtplein 18E",
+  "Rembrandtplein 18F",
+  "Rembrandtplein 20"
+ ]
+}

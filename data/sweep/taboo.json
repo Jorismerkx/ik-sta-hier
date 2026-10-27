@@ -1,0 +1,306 @@
+{
+ "id": "taboo",
+ "naam": "Taboo Bar",
+ "adres": "Reguliersdwarsstraat 45, 1017 BK Amsterdam",
+ "termen": [
+  "Reguliersdwarsstraat 45",
+  "1017BK",
+  "1017 BK",
+  "Taboo Bar"
+ ],
+ "pand": "0363100012175551",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 5,
+  "openbaar": 5,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_94342",
+    "titel": "Reguliersdwarsstraat 45",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94342"
+   },
+   {
+    "dossier": "SA_21352",
+    "titel": "Reguliersdwarsstraat 43 - 45",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_21352"
+   },
+   {
+    "dossier": "SA_17951",
+    "titel": "Reguliersdwarsstraat 45",
+    "datum": "1994-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17951"
+   },
+   {
+    "dossier": "SA_17955",
+    "titel": "Reguliersdwarsstraat 45",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17955"
+   },
+   {
+    "dossier": "SA_17805",
+    "titel": "Openhartsteeg 8; Reguliersdwarsstraat 45",
+    "datum": "1907-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17805"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 19,
+  "gezocht": [
+   "Reguliersdwarsstraat 45"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2021-134602",
+    "titel": "Reguliersdwarsstraat 45 , Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-134602.html",
+    "zaak": "1263505"
+   },
+   {
+    "id": "gmb-2020-299984",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Reguliersdwarsstraat 45-H 1017BK Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-17",
+    "onderwerp": "het creëren van een kelder onder het gebouw Reguliersdwarsstraat 45 ten behoeve van het café",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-299984.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2020-299984"
+  ],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-395137",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Reguliersdwarsstraat 45-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 45-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-395137.html"
+   },
+   {
+    "id": "gmb-2026-382056",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 45-H",
+    "soort": "andere vergunning",
+    "datum": "2026-08-11",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-382056.html"
+   },
+   {
+    "id": "gmb-2026-376977",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Reguliersdwarsstraat 45-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-07",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 45-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-376977.html"
+   },
+   {
+    "id": "gmb-2026-371610",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 45-H",
+    "soort": "andere vergunning",
+    "datum": "2026-08-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-371610.html"
+   },
+   {
+    "id": "gmb-2026-371687",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 45-H",
+    "soort": "andere vergunning",
+    "datum": "2026-08-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-371687.html"
+   },
+   {
+    "id": "gmb-2026-133075",
+    "titel": "Besluit alcoholontheffing Verleend ter hoogte van Reguliersdwarsstraat 45-H in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "Verleend: alcoholontheffing ter hoogte van adres Reguliersdwarsstraat 45-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133075.html"
+   },
+   {
+    "id": "gmb-2023-474554",
+    "titel": "Besluit alcoholwetvergunning Verleend - Reguliersdwarsstraat 45-H in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-11-07",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-474554.html"
+   },
+   {
+    "id": "gmb-2023-474479",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Verleend - Reguliersdwarsstraat 45-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 45-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-474479.html"
+   },
+   {
+    "id": "gmb-2023-398351",
+    "titel": "Aanvraag alcoholwetvergunning Reguliersdwarsstraat 45-H",
+    "soort": "andere vergunning",
+    "datum": "2023-09-18",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398351.html"
+   },
+   {
+    "id": "gmb-2023-398443",
+    "titel": "Aanvraag (Terras) exploitatievergunning horecabedrijf - Reguliersdwarsstraat 45-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-18",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 45-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398443.html"
+   },
+   {
+    "id": "gmb-2023-197232",
+    "titel": "Terrassenplan Reguliersdwarsstraat West",
+    "soort": "beleidsregel",
+    "datum": "2023-05-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-197232.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2021-406042",
+    "titel": "Besluit apv vergunning Verleend Reguliersdwarsstraat 45-H",
+    "soort": "andere vergunning",
+    "datum": "2021-11-15",
+    "onderwerp": "Stremmen Reguliersdwarsstraat 45, 24-11-2021, Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-406042.html"
+   },
+   {
+    "id": "gmb-2021-315125",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Reguliersdwarsstraat 45-H",
+    "soort": "exploitatievergunning",
+    "datum": "2021-09-14",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-315125.html"
+   },
+   {
+    "id": "gmb-2021-291100",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Reguliersdwarsstraat 45-H",
+    "soort": "exploitatievergunning",
+    "datum": "2021-08-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 45-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-291100.html"
+   },
+   {
+    "id": "gmb-2021-249652",
+    "titel": "Besluit apv vergunning Verleend Reguliersdwarsstraat 45-2",
+    "soort": "andere vergunning",
+    "datum": "2021-07-27",
+    "onderwerp": "Objectvergunning,Reguliersdwarsstraat 45,op 29-08-2021 tot 27-12-2021, Reguliersdwarsstraat 45-2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-249652.html"
+   },
+   {
+    "id": "gmb-2021-99461",
+    "titel": "Bodem Bus, Reguliersdwarsstraat 45, Amsterdam",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2021-03-31",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-99461.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 6,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 8,
+ "pand_adressen": [
+  "Reguliersdwarsstraat 45"
+ ]
+}

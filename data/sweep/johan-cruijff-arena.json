@@ -1,0 +1,806 @@
+{
+ "id": "johan-cruijff-arena",
+ "naam": "Johan Cruijff ArenA",
+ "adres": "Johan Cruijff Boulevard 1, 1101 AX Amsterdam",
+ "termen": [
+  "Johan Cruijff Boulevard 1",
+  "1101AX",
+  "1101 AX",
+  "Johan Cruijff ArenA"
+ ],
+ "pand": "0363100012075730",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 17,
+  "openbaar": 0,
+  "laatste": "2006-01-01",
+  "dossiers": [
+   {
+    "dossier": "XY_01202",
+    "titel": "Burgemeester Stramanweg 130",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01202"
+   },
+   {
+    "dossier": "XY_08123",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1997-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08123"
+   },
+   {
+    "dossier": "XY_08260",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1996-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08260"
+   },
+   {
+    "dossier": "XY_08258",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1996-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08258"
+   },
+   {
+    "dossier": "XY_08233",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1996-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 192,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08233"
+   },
+   {
+    "dossier": "XY_08232",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1996-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08232"
+   },
+   {
+    "dossier": "XY_10808",
+    "titel": "Burgemeester Stramanweg 130",
+    "datum": "1996-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 244,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10808"
+   },
+   {
+    "dossier": "XY_08227",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1996-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 205,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08227"
+   },
+   {
+    "dossier": "XY_08157",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 232,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08157"
+   },
+   {
+    "dossier": "XY_07944",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1995-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 59,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07944"
+   },
+   {
+    "dossier": "XY_07942",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1995-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 74,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07942"
+   },
+   {
+    "dossier": "XY_07943",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1995-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07943"
+   },
+   {
+    "dossier": "XY_07919",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 279,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07919"
+   },
+   {
+    "dossier": "XY_07946",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 100,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07946"
+   },
+   {
+    "dossier": "XY_07950",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07950"
+   },
+   {
+    "dossier": "XY_07952",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 576,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07952"
+   },
+   {
+    "dossier": "XY_07947",
+    "titel": "Arena boulevard 1 - 7; Arena boulevard 11; Arena boulevard 15 - 17; Arena boulevard 25 - 29; Burgemeester Stramanweg 130",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 65,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07947"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 175,
+  "gezocht": [
+   "Johan Cruijff Boulevard 1",
+   "Burgemeester Stramanweg 130",
+   "Johan Cruijff Boulevard 11",
+   "Johan Cruijff Boulevard 15",
+   "Johan Cruijff Boulevard 17",
+   "Johan Cruijff Boulevard 25",
+   "Johan Cruijff Boulevard 27",
+   "Johan Cruijff Boulevard 29",
+   "Johan Cruijff Boulevard 3",
+   "Johan Cruijff Boulevard 5",
+   "Johan Cruijff Boulevard 7"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-443962",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Johan Cruijff Boulevard 5 1101AX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-22",
+    "onderwerp": "afwijken van de regels in het omgevingsplan t.b.v. het realiseren van een terras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-443962.html",
+    "zaak": "Z2025-049597"
+   },
+   {
+    "id": "gmb-2026-338615",
+    "titel": "Besluit wijzigen maatwerkvoorschriften met betrekking tot het maximumaantal toegestane IBS evenementen - Johan Cruijff Boulevard 1, Amsterdam - Stadion Amsterdam C.V. (ArenA)",
+    "soort": "andere beschikking",
+    "datum": "2026-07-15",
+    "onderwerp": "Verzoek tot aanpassing maatwerkvoorschriften IBS evenementen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-338615.html",
+    "zaak": "OD2026-0005939"
+   },
+   {
+    "id": "gmb-2026-197648",
+    "titel": "Conceptbesluit wijzigen maatwerkvoorschriften met betrekking tot het maximumaantal toegestane IBS evenementen - Johan Cruijff Boulevard 1, Amsterdam - Stadion Amsterdam C.V. (ArenA)",
+    "soort": "andere beschikking",
+    "datum": "2026-04-24",
+    "onderwerp": "Verzoek tot aanpassing maatwerkvoorschriften IBS evenementen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-197648.html",
+    "zaak": "OD2026-0005939"
+   },
+   {
+    "id": "prb-2026-2019",
+    "titel": "Ontbrandingstoestemming vuurwerk - Johan Cruijff Boulevard 1, Amsterdam - Jaarvergunning voor vuurwerk",
+    "soort": "andere beschikking",
+    "datum": "2026-02-06",
+    "onderwerp": "Jaarvergunning voor vuurwerk tbv sfeeracties rondom de wedstrijden van Ajax, J.C. ArenA te Amsterdam.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-2019.html",
+    "zaak": "OD2025-0043518"
+   },
+   {
+    "id": "gmb-2025-521752",
+    "titel": "Aanvraag omgevingsvergunning Johan Cruijff Boulevard 5 1101AX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-01",
+    "onderwerp": "afwijken van de regels in het omgevingsplan t.b.v. het realiseren van een terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-521752.html",
+    "zaak": "Z2025-049597"
+   },
+   {
+    "id": "gmb-2025-444077",
+    "titel": "Vergunning verleend - Johan Cruijff Boulevard 5, Amsterdam - het aanbrengen van gevelreclame",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-14",
+    "onderwerp": "het aanbrengen van gevelreclame",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-444077.html",
+    "zaak": "OD2025-0015930"
+   },
+   {
+    "id": "gmb-2025-374249",
+    "titel": "Aanvraag vergunning ontvangen - Johan Cruijff Boulevard 5, Amsterdam -  Aanbrengen  gevelreclame",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-28",
+    "onderwerp": "het aanbrengen van gevelreclame",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-374249.html",
+    "zaak": "OD2025-0015930"
+   },
+   {
+    "id": "gmb-2025-184999",
+    "titel": "Maatwerkvoorschrift verleend - Johan Cruijff Boulevard 1, Amsterdam - het wijzigen van het maatwerkvoorschrift voor het gebruik van veldverlichting na 23.00 uur",
+    "soort": "andere beschikking",
+    "datum": "2025-04-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-184999.html",
+    "zaak": "13741415"
+   },
+   {
+    "id": "gmb-2024-132523",
+    "titel": "Vergunning verleend - Johan Cruijff Boulevard 1, Amsterdam - Stadion Amsterdam NV, ARENA - het vervroegen van de eindtijd van een aantal evenementen en het wijzigen van voorschriften",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-132523.html",
+    "zaak": "1368216"
+   },
+   {
+    "id": "gmb-2024-94062",
+    "titel": "Vergunning verleend - Johan Cruijff Boulevard 1, Amsterdam - het plaatsen van extra tourniquet bij de ingang A en C, in de Johan Cruijff ArenA",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-94062.html",
+    "zaak": "1361743"
+   },
+   {
+    "id": "gmb-2023-545907",
+    "titel": "Aanvraag vergunning - Johan Cruijff Boulevard 1, Amsterdam - het plaatsen van een extra tourniquet bij ingang C, in de Johan Cruijff ArenA",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-545907.html",
+    "zaak": "1351748"
+   },
+   {
+    "id": "gmb-2023-474245",
+    "titel": "Vergunning verleend - Johan Cruijff Boulevard 1, Amsterdam - Stadion Amsterdam CV, ARENA - het plaatsen van twee EOS batterijruimten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-08",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-474245.html",
+    "zaak": "1345251"
+   },
+   {
+    "id": "gmb-2023-460018",
+    "titel": "Ontwerpbesluit - Johan Cruijff Boulevard 1, Amsterdam - Stadion Amsterdam NV, ArenA - het vervroegen van de eindtijd van een aantal evenementen en het wijzigen van voorschriften",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-460018.html",
+    "zaak": "1343670"
+   },
+   {
+    "id": "gmb-2023-408668",
+    "titel": "Beslistermijn verlengd - Johan Cruijff Boulevard 1, Amsterdam - Stadion Amsterdam CV, ARENA - het plaatsen van 2 EOS batterijruimten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-408668.html",
+    "zaak": "1336897"
+   },
+   {
+    "id": "gmb-2023-340741",
+    "titel": "Aanvraag vergunning - Johan Cruijff Boulevard 1, Amsterdam - het plaatsen van EOS in 2 naast elkaar te plaatsen technische ruimtes, ‘Batterijruimte 1 en 2’",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-340741.html",
+    "zaak": "1331018"
+   },
+   {
+    "id": "gmb-2023-219471",
+    "titel": "Vergunning Verleend - Johan Cruijff Boulevard 1, Amsterdam - The Waste Transformers Investments B.V. | The Waste Transformers - installatie biogas, bestaand uit 5 containers en een gasbuffer",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-219471.html",
+    "zaak": "1322058"
+   },
+   {
+    "id": "gmb-2023-169490",
+    "titel": "Vergunning Verleend - Johan Cruijff Boulevard 1, Amsterdam - het maken van een raamsparing tussen 2 ruimten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-18",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-169490.html",
+    "zaak": "1320130"
+   },
+   {
+    "id": "gmb-2023-126553",
+    "titel": "Aanvraag vergunning - Johan Cruijff Boulevard 1, Amsterdam - het maken van een raamsparing tussen 2 ruimten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-126553.html",
+    "zaak": "1318227"
+   },
+   {
+    "id": "gmb-2023-13044",
+    "titel": "Ontwerpbesluit - Johan Cruijff Boulevard 1, Amsterdam - The Waste Transformers Investments B.V. | The Waste Transformers - betreft het oprichten en het in werking hebben van een inrichting",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-13044.html",
+    "zaak": "1309580"
+   },
+   {
+    "id": "gmb-2022-535724",
+    "titel": "Aanvraag vergunning - Burgemeester Stramanweg 130, Amsterdam - Het aanpassen van de brandveiligheid van het gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-535724.html",
+    "zaak": "1307020"
+   },
+   {
+    "id": "gmb-2022-150775",
+    "titel": "Vergunning Verleend - Johan Cruijff Boulevard 1, Amsterdam - het plaatsen van twee vluchtdeuren in de Arenatunnel aan de noordbuis uitrit P1",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-150775.html",
+    "zaak": "1289716"
+   },
+   {
+    "id": "gmb-2022-98253",
+    "titel": "Aanvraag vergunning - Johan Cruijff Boulevard 1 - Amsterdam - het plaatsen van twee vluchtdeuren in de Arenatunnel aan de noordbuis uitrit P1",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-98253.html"
+   },
+   {
+    "id": "gmb-2021-237366",
+    "titel": "Johan Cruijff Boulevard 1, Amsterdam - installatie biogas",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-237366.html",
+    "zaak": "1266293"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-443962",
+   "gmb-2026-338615",
+   "gmb-2026-197648",
+   "gmb-2025-521752",
+   "gmb-2025-374249",
+   "gmb-2023-545907",
+   "gmb-2023-460018",
+   "gmb-2023-340741",
+   "gmb-2023-126553",
+   "gmb-2023-13044",
+   "gmb-2022-535724",
+   "gmb-2022-98253"
+  ],
+  "zaaknummers": [
+   "1307020",
+   "1309580",
+   "1318227",
+   "1331018",
+   "1343670",
+   "1351748",
+   "OD2025-0015930",
+   "OD2026-0005939",
+   "Z2025-049597"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-489796",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20261023, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489796.html"
+   },
+   {
+    "id": "prb-2026-17296",
+    "titel": "Melding vuurwerk - Johan Cruijff Boulevard 1, Amsterdam - 10 oktober 2026",
+    "soort": "andere melding",
+    "datum": "2026-10-12",
+    "onderwerp": "Vuurwerk tbv het 50-jarig jubileum van de F-side, J.C. ArenA te Amsterdam, melding op jaarvergunning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-17296.html"
+   },
+   {
+    "id": "gmb-2026-466813",
+    "titel": "Aanvraag alcoholwetvergunning Johan Cruijff Boulevard 5",
+    "soort": "andere vergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Johan Cruijff Boulevard 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466813.html"
+   },
+   {
+    "id": "gmb-2026-451138",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Object,RVV/ Johan Cruijff Boulevard 1 1101AX, 20260924, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451138.html"
+   },
+   {
+    "id": "gmb-2026-451309",
+    "titel": "Besluit apv vergunning Verleend - Buiten Bantammerstraat ter hoogte van nummer: 15 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Object, Johan Cruijff Boulevard 1 1011AX, 20260925, Buiten Bantammerstraat ter hoogte van nummer: 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451309.html"
+   },
+   {
+    "id": "gmb-2026-442547",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-22",
+    "onderwerp": "TVM stremmen,Nachtwerk,Johan Cruijff Boulevard 1 1101AX, 20260922, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-442547.html"
+   },
+   {
+    "id": "prb-2026-14875",
+    "titel": "Melding vuurwerk - Johan Cruijff Boulevard 1, Amsterdam - 2 september 2026",
+    "soort": "andere melding",
+    "datum": "2026-09-01",
+    "onderwerp": "Melding op jaarvergunning Ajax, tbv een producttest, 2 september 2026, JC Arena te Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-14875.html"
+   },
+   {
+    "id": "gmb-2026-409715",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-01",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260924, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-409715.html"
+   },
+   {
+    "id": "gmb-2026-405205",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-28",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260827, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-405205.html"
+   },
+   {
+    "id": "gmb-2026-380890",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-11",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260813, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-380890.html"
+   },
+   {
+    "id": "gmb-2026-369382",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-03",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-369382.html"
+   },
+   {
+    "id": "gmb-2026-350090",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350090.html"
+   },
+   {
+    "id": "gmb-2026-350099",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260727, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350099.html"
+   },
+   {
+    "id": "gmb-2026-261960",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-04",
+    "onderwerp": "Object,Johan Cruijff Boulevard 3 1101AX, 20260602, Johan Cruijff Boulevard ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-261960.html"
+   },
+   {
+    "id": "gmb-2026-257073",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-02",
+    "onderwerp": "TVM stremmen,Object,Johan Cruijff Boulevard 1 1101AX, 20260608, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-257073.html"
+   },
+   {
+    "id": "gmb-2026-222600",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-12",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260513, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-222600.html"
+   },
+   {
+    "id": "gmb-2026-202196",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Upload_Object,Johan Cruijff Boulevard 1 1101AX, 20260426, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202196.html"
+   },
+   {
+    "id": "gmb-2026-198961",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-28",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260511, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-198961.html"
+   },
+   {
+    "id": "gmb-2026-176149",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-176149.html"
+   },
+   {
+    "id": "gmb-2026-168642",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-168642.html"
+   },
+   {
+    "id": "gmb-2026-167590",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-09",
+    "onderwerp": "TVM stremmen,RVV,Object,Johan Cruijff Boulevard 1 1101AX, 20260407, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-167590.html"
+   },
+   {
+    "id": "gmb-2026-154983",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-02",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260327, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-154983.html"
+   },
+   {
+    "id": "gmb-2026-135931",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-135931.html"
+   },
+   {
+    "id": "gmb-2026-102521",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-06",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260327, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-102521.html"
+   },
+   {
+    "id": "gmb-2026-77963",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-20",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-77963.html"
+   },
+   {
+    "id": "gmb-2026-71081",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-71081.html"
+   },
+   {
+    "id": "gmb-2026-62882",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 17 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-02-12",
+    "onderwerp": "RVV,Object,Johan Cruijff Boulevard 17 1101AX, 20260213, Johan Cruijff Boulevard ter hoogte van nummer: 17",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-62882.html"
+   },
+   {
+    "id": "gmb-2026-34022",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-34022.html"
+   },
+   {
+    "id": "gmb-2026-22694",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-20",
+    "onderwerp": "Object,Johan Cruijff Boulevard 1 1101AX, 20260128, Johan Cruijff Boulevard ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-22694.html"
+   },
+   {
+    "id": "gmb-2025-565380",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-565380.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.T1201BPGST-VG01",
+   "naam": "ArenAPoort West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-11-29",
+   "opp_m2": 559945,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.T1201BPGST-VG02",
+   "naam": "ArenAPoort West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-09-30",
+   "opp_m2": 559945,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 23,
+  "plannen": 4,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 33,
+ "pand_adressen": [
+  "Burgemeester Stramanweg 130",
+  "Johan Cruijff Boulevard 1",
+  "Johan Cruijff Boulevard 11",
+  "Johan Cruijff Boulevard 15",
+  "Johan Cruijff Boulevard 17",
+  "Johan Cruijff Boulevard 25",
+  "Johan Cruijff Boulevard 27",
+  "Johan Cruijff Boulevard 29",
+  "Johan Cruijff Boulevard 3",
+  "Johan Cruijff Boulevard 5",
+  "Johan Cruijff Boulevard 7"
+ ]
+}

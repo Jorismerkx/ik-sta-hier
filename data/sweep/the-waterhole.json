@@ -1,0 +1,454 @@
+{
+ "id": "the-waterhole",
+ "naam": "The Waterhole",
+ "adres": "Korte Leidsedwarsstraat 49, 1017 PW Amsterdam",
+ "termen": [
+  "Korte Leidsedwarsstraat 49",
+  "1017PW",
+  "1017 PW",
+  "The Waterhole"
+ ],
+ "pand": "0363100012168739",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 21,
+  "openbaar": 21,
+  "laatste": "1995-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_33063",
+    "titel": "Korte Leidsedwarsstraat 49; Korte Leidsedwarsstraat 49 A; Korte Leidsedwarsstraat 50",
+    "datum": "1995-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33063"
+   },
+   {
+    "dossier": "SA_33115",
+    "titel": "Korte Leidsedwarsstraat 49; Korte Leidsedwarsstraat 49 A",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33115"
+   },
+   {
+    "dossier": "SA_33080",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1992-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33080"
+   },
+   {
+    "dossier": "SA_33054",
+    "titel": "Korte Leidsedwarsstraat 49 - 49 A; Lange Leidsedwarsstraat 50",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33054"
+   },
+   {
+    "dossier": "SA_33030",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1985-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33030"
+   },
+   {
+    "dossier": "SA_33149",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1980-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33149"
+   },
+   {
+    "dossier": "SA_33026",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33026"
+   },
+   {
+    "dossier": "SA_33027",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33027"
+   },
+   {
+    "dossier": "SA_33028",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33028"
+   },
+   {
+    "dossier": "SA_33014",
+    "titel": "Korte Leidsedwarsstraat 49; Korte Leidsedwarsstraat 49 A",
+    "datum": "1966-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33014"
+   },
+   {
+    "dossier": "SA_107541",
+    "titel": "Korte Leidsedwarsstraat 49 - 49 A",
+    "datum": "1963-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_107541"
+   },
+   {
+    "dossier": "SA_33007",
+    "titel": "Korte Leidsedwarsstraat 49; Korte Leidsedwarsstraat 49 A",
+    "datum": "1952-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33007"
+   },
+   {
+    "dossier": "SA_33005",
+    "titel": "Korte Leidsedwarsstraat 49; Korte Leidsedwarsstraat 49 A",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33005"
+   },
+   {
+    "dossier": "SA_33003",
+    "titel": "Korte Leidsedwarsstraat 49; Korte Leidsedwarsstraat 49 A",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33003"
+   },
+   {
+    "dossier": "SA_33152",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1946-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33152"
+   },
+   {
+    "dossier": "SA_33002",
+    "titel": "Korte Leidsedwarsstraat 49 - 49 A; Lange Leidsedwarsstraat 50",
+    "datum": "1942-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33002"
+   },
+   {
+    "dossier": "SA_32964",
+    "titel": "Korte Leidsedwarsstraat 47 - 49; Korte Leidsedwarsstraat 49 A",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32964"
+   },
+   {
+    "dossier": "SA_32948",
+    "titel": "Korte Leidsedwarsstraat 47; Korte Leidsedwarsstraat 49 - 49 A",
+    "datum": "1922-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32948"
+   },
+   {
+    "dossier": "SA_32952",
+    "titel": "Korte Leidsedwarsstraat 47; Korte Leidsedwarsstraat 49 - 49 A",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32952"
+   },
+   {
+    "dossier": "SA_32943",
+    "titel": "Korte Leidsedwarsstraat 49",
+    "datum": "1921-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32943"
+   },
+   {
+    "dossier": "SA_32934",
+    "titel": "Lange Leidsedwarsstraat 50",
+    "datum": "1911-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32934"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 12,
+  "gezocht": [
+   "Korte Leidsedwarsstraat 49",
+   "Korte Leidsedwarsstraat 49A",
+   "Lange Leidsedwarsstraat 50"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-404023",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Lange Leidsedwarsstraat 50-1 1017NM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-18",
+    "onderwerp": "vervangen van de kozijnen aan de voorgevel op de bovenverdiepingen ten behoeve van de woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-404023.html",
+    "zaak": "Z2025-025852"
+   },
+   {
+    "id": "gmb-2025-355182",
+    "titel": "Aanvraag omgevingsvergunning Lange Leidsedwarsstraat 50-1 1017NM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-13",
+    "onderwerp": "vervangen en vernieuwen van de kozijnen aan de voorgevel op de bovenverdiepingen ten behoeve van de woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-355182.html",
+    "zaak": "Z2025-025852"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-404023",
+   "gmb-2025-355182"
+  ],
+  "zaaknummers": [
+   "Z2025-025852"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-397129",
+    "titel": "Besluit apv vergunning Verleend - Lange Leidsedwarsstraat ter hoogte van nummer: 50 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Object,Lange Leidsedwarsstraat 50 H 1017NM, 20250925, Lange Leidsedwarsstraat ter hoogte van nummer: 50",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397129.html"
+   },
+   {
+    "id": "gmb-2023-101665",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 49",
+    "soort": "andere vergunning",
+    "datum": "2023-03-09",
+    "onderwerp": "stremmen, Korte Leidsedwarsstraat 49, 14-3-2023, Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-101665.html"
+   },
+   {
+    "id": "gmb-2023-88001",
+    "titel": "Besluit speelautomatenvergunning Verleend Korte Leidsedwarsstraat 49",
+    "soort": "andere vergunning",
+    "datum": "2023-02-28",
+    "onderwerp": "Verleend: aanwezigheidsvergunning kansspelenautomaten op adres Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-88001.html"
+   },
+   {
+    "id": "gmb-2022-372239",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Korte Leidsedwarsstraat 49",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-372239.html"
+   },
+   {
+    "id": "gmb-2022-340754",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Korte Leidsedwarsstraat 49",
+    "soort": "exploitatievergunning",
+    "datum": "2022-07-26",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-340754.html"
+   },
+   {
+    "id": "gmb-2022-340649",
+    "titel": "Aanvraag voor een speelautomatenvergunning Korte Leidsedwarsstraat 49",
+    "soort": "andere vergunning",
+    "datum": "2022-07-26",
+    "onderwerp": "Aanvraag voor een aanwezigheidsvergunning kansspelenautomaten op adres Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-340649.html"
+   },
+   {
+    "id": "gmb-2022-88976",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Korte Leidsedwarsstraat 49",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-88976.html"
+   },
+   {
+    "id": "gmb-2021-380768",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Korte Leidsedwarsstraat 49",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Korte Leidsedwarsstraat 49",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380768.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Korte Leidsedwarsstraat 49",
+  "Korte Leidsedwarsstraat 49A",
+  "Lange Leidsedwarsstraat 50"
+ ]
+}

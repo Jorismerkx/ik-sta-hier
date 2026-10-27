@@ -1,0 +1,181 @@
+{
+ "id": "undercurrent",
+ "naam": "Undercurrent",
+ "adres": "tt. Vasumweg 93, 1033 SG Amsterdam",
+ "termen": [
+  "tt. Vasumweg 93",
+  "1033SG",
+  "1033 SG",
+  "Undercurrent"
+ ],
+ "pand": "0363100012135868",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 5,
+  "openbaar": 5,
+  "laatste": "2006-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_20633",
+    "titel": "tt. Vasumweg 97 a",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_20633"
+   },
+   {
+    "dossier": "SN_19633",
+    "titel": "tt. Melissaweg 22 a; tt. Vasumweg 97",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19633"
+   },
+   {
+    "dossier": "SN_02398",
+    "titel": "tt. Vasumweg 97 a",
+    "datum": "2001-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02398"
+   },
+   {
+    "dossier": "SN_02409",
+    "titel": "tt. Vasumweg 97",
+    "datum": "1992-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02409"
+   },
+   {
+    "dossier": "SN_14251",
+    "titel": "tt. Vasumweg 97",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14251"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 4,
+  "gezocht": [
+   "tt. Vasumweg 93",
+   "tt. Vasumweg 97",
+   "tt. Vasumweg 97A"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2024-290840",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - tt. Vasumweg 97 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Vasumweg 97 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-290840.html"
+   },
+   {
+    "id": "gmb-2024-233658",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - tt. Vasumweg 97 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt. Vasumweg 97 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-233658.html"
+   },
+   {
+    "id": "stcrt-2021-12448",
+    "titel": "Gemeente Amsterdam - vestiging gemeentelijk voorkeursrecht - Tt. Vasumweg en Tt. Melissaweg, Amsterdam",
+    "soort": "Overig",
+    "datum": "2021-03-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2021-12448.html"
+   },
+   {
+    "id": "stcrt-2020-66034",
+    "titel": "Gemeente Amsterdam - vestiging gemeentelijk voorkeursrecht - Tt. Vasumweg en Tt. Melissaweg, Amsterdam",
+    "soort": "Vergunningen",
+    "datum": "2020-12-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2020-66034.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1101BPSTD-VG01",
+   "naam": "Cornelis Douwesterrein II",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-20",
+   "opp_m2": 1239253,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1302PBPSTD-VG01",
+   "naam": "Eerste partiële herziening Cornelis Douwesterrein II (Windturbines)",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-11-22",
+   "opp_m2": 1239253,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1102PBPSTD-OH01",
+   "naam": "BP_Herziening geluidszone Cornelis Douwesterrein",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-08-16",
+   "opp_m2": 2620059,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "tt. Vasumweg 97",
+  "tt. Vasumweg 97A"
+ ]
+}

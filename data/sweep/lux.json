@@ -1,0 +1,370 @@
+{
+ "id": "lux",
+ "naam": "Café Lux",
+ "adres": "Marnixstraat 403, 1017 PJ Amsterdam",
+ "termen": [
+  "Marnixstraat 403",
+  "1017PJ",
+  "1017 PJ",
+  "Café Lux"
+ ],
+ "pand": "0363100012169542",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 16,
+  "openbaar": 16,
+  "laatste": "2009-04-01",
+  "dossiers": [
+   {
+    "dossier": "SA_94706",
+    "titel": "Marnixstraat 403 h",
+    "datum": "2009-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94706"
+   },
+   {
+    "dossier": "SA_79586",
+    "titel": "Marnixstraat 403",
+    "datum": "2009-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79586"
+   },
+   {
+    "dossier": "SA_94669",
+    "titel": "Marnixstraat 401",
+    "datum": "2009-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94669"
+   },
+   {
+    "dossier": "SA_79584",
+    "titel": "Marnixstraat 403",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79584"
+   },
+   {
+    "dossier": "SA_102002",
+    "titel": "Marnixstraat 403 4-v - 403 4-a",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102002"
+   },
+   {
+    "dossier": "SA_94707",
+    "titel": "Marnixstraat 403 h",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94707"
+   },
+   {
+    "dossier": "SA_94708",
+    "titel": "Marnixstraat 403 h",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 139,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94708"
+   },
+   {
+    "dossier": "SA_21102",
+    "titel": "Marnixstraat 401",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_21102"
+   },
+   {
+    "dossier": "SA_79583",
+    "titel": "Marnixstraat 403",
+    "datum": "1985-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79583"
+   },
+   {
+    "dossier": "SA_21104",
+    "titel": "Marnixstraat 401",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_21104"
+   },
+   {
+    "dossier": "SA_79582",
+    "titel": "Marnixstraat 403",
+    "datum": "1960-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79582"
+   },
+   {
+    "dossier": "SA_79581",
+    "titel": "Marnixstraat 403",
+    "datum": "1935-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79581"
+   },
+   {
+    "dossier": "SA_79579",
+    "titel": "Marnixstraat 403",
+    "datum": "1935-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79579"
+   },
+   {
+    "dossier": "SA_79571",
+    "titel": "Marnixstraat 397 - 403",
+    "datum": "1891-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79571"
+   },
+   {
+    "dossier": "SA_79574",
+    "titel": "Marnixstraat 397 - 403",
+    "datum": "1890-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79574"
+   },
+   {
+    "dossier": "SA_79573",
+    "titel": "Marnixstraat 397 - 403",
+    "datum": "1890-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_79573"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 10,
+  "gezocht": [
+   "Marnixstraat 403",
+   "Marnixstraat 401A",
+   "Marnixstraat 401B",
+   "Marnixstraat 401C",
+   "Marnixstraat 401D"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-213254",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Marnixstraat 403-H",
+    "soort": "andere vergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Marnixstraat 403-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213254.html"
+   },
+   {
+    "id": "gmb-2024-177377",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Marnixstraat 403-H",
+    "soort": "andere vergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Marnixstraat 403-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-177377.html"
+   },
+   {
+    "id": "gmb-2024-128131",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Geweigerd - Marnixstraat 403-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-22",
+    "onderwerp": "Geweigerd: exploitatievergunning horecabedrijf op adres Marnixstraat 403-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-128131.html"
+   },
+   {
+    "id": "gmb-2023-483767",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Marnixstraat 403-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Marnixstraat 403-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-483767.html"
+   },
+   {
+    "id": "gmb-2023-223772",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2023-05-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op 17 mei op adres Marnixstraat 403-H ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-223772.html"
+   },
+   {
+    "id": "gmb-2023-213042",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Marnixstraat 403-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Marnixstraat 403-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-213042.html"
+   },
+   {
+    "id": "gmb-2023-213168",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Marnixstraat 403-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Marnixstraat 403-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-213168.html"
+   },
+   {
+    "id": "gmb-2023-181186",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Marnixstraat 403-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-04-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Marnixstraat 403-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-181186.html"
+   },
+   {
+    "id": "gmb-2022-379096",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 401C",
+    "soort": "andere vergunning",
+    "datum": "2022-08-22",
+    "onderwerp": "(Pantar) RVV - Marnixstraat 401 en Afroditekade 22 (zuid) - 16-08, Marnixstraat 401C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-379096.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 16,
+  "bekendmakingen": 2,
+  "plannen": 0,
+  "woo": 5
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 238,
+ "pand_adressen": [
+  "Marnixstraat 401A",
+  "Marnixstraat 401B",
+  "Marnixstraat 401C",
+  "Marnixstraat 401D",
+  "Marnixstraat 403"
+ ]
+}

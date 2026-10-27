@@ -1,0 +1,146 @@
+{
+ "id": "sugar-city",
+ "naam": "Sugar City",
+ "adres": "Kristalpromenade 7, 1165 PD Halfweg",
+ "termen": [
+  "Kristalpromenade 7",
+  "1165PD",
+  "1165 PD",
+  "Sugar City",
+  "SugarFactory"
+ ],
+ "pand": "0393100000003411",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 7,
+  "gezocht": [
+   "Kristalpromenade 7",
+   "Bietenboulevard 3",
+   "Bietenboulevard 5",
+   "Haarlemmerstraatweg 11",
+   "Haarlemmerstraatweg 11A",
+   "Haarlemmerstraatweg 11B",
+   "Haarlemmerstraatweg 7A",
+   "Haarlemmerstraatweg 7B",
+   "Haarlemmerstraatweg 7C",
+   "Haarlemmerstraatweg 9A",
+   "Haarlemmerstraatweg 9B",
+   "Haarlemmerstraatweg 9C",
+   "Kristalpromenade 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-377599",
+    "titel": "Ingediende aanvraag omgevingsvergunning, Omgevingsvergunning 2e etage Middenfabriek, Kristalpromenade 7 Halfweg",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-01",
+    "onderwerp": "Omgevingsvergunning 2e etage Middenfabriek",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-377599.html",
+    "zaak": "039412482327"
+   },
+   {
+    "id": "gmb-2022-407825",
+    "titel": "Vergunning verleend - Haarlemmerstraatweg 7a, Halfweg - Sugar City Investments B.V. - diverse interne- en gevelwijzigingen aan het rijksmonument",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-12",
+    "onderwerp": "Bekendmaking van Gemeente Haarlemmermeer",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-407825.html",
+    "zaak": "1302445"
+   },
+   {
+    "id": "gmb-2021-360071",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning, Halfweg, Kristalpromenade 7, 1165 PD, plaatsen van diverse tenten in verband met een bedrijfsfeest, verzenddatum 11-10-2021, zaaknummer 5308662, olonummer 6405025.",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-14",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-360071.html"
+   },
+   {
+    "id": "gmb-2021-345055",
+    "titel": "Aangevraagde omgevingsvergunning, Halfweg, Kristalpromenade 7, 1165 PD, plaatsen van diverse tenten i.v.m. bedrijfsfeest, 30-09-2021, zaaknummer 5308662, olonummer 6405025.",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-05",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-345055.html"
+   },
+   {
+    "id": "gmb-2020-351386",
+    "titel": "Aangevraagde omgevingsvergunning, Halfweg, HLM04 M 2912 (Haarlemmerstraatweg 11, 1165 MJ, Sugarcity terrein), realiseren van 2 nieuwe interne liften met trap i.v.m. bestaande sparing die op de 2e verdieping dichtgelegd wordt, 23-12-2020, zaaknummer 4359272, olonummer 5697951.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-351386.html"
+   },
+   {
+    "id": "gmb-2020-207589",
+    "titel": "Aanvraag evenementenvergunning, Blik-drive-in (voorstelling bijwonen vanuit de auto), periode 01-09-2020 tot en met 08-11-2020, locatie Kristalpromenade 7, 1165 PD te Halfweg, dossiernummer 2020-2101, zaaknummer 3933258.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-207589.html"
+   },
+   {
+    "id": "gmb-2019-17011",
+    "titel": "Milieu-informatie – meldingen (Activiteitenbesluit) ontvangen  25 september 2018  ,  Kristalpromenade 7, 1165 PD Halfweg,  SugarCity Events B.V.  , zaak 8596595.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-01-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-17011.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-377599",
+   "gmb-2021-360071"
+  ],
+  "zaaknummers": [
+   "039412482327"
+  ],
+  "plannen": [],
+  "overig": []
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 7,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 8,
+ "pand_adressen": [
+  "Bietenboulevard 3",
+  "Bietenboulevard 5",
+  "Haarlemmerstraatweg 11",
+  "Haarlemmerstraatweg 11A",
+  "Haarlemmerstraatweg 11B",
+  "Haarlemmerstraatweg 7A",
+  "Haarlemmerstraatweg 7B",
+  "Haarlemmerstraatweg 7C",
+  "Haarlemmerstraatweg 9A",
+  "Haarlemmerstraatweg 9B",
+  "Haarlemmerstraatweg 9C",
+  "Kristalpromenade 1"
+ ]
+}

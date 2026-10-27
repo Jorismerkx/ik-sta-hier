@@ -1,0 +1,297 @@
+{
+ "id": "cafe-de-duivel",
+ "naam": "Café de Duivel",
+ "adres": "Reguliersdwarsstraat 87, 1017 BK Amsterdam",
+ "termen": [
+  "Reguliersdwarsstraat 87",
+  "1017BK",
+  "1017 BK",
+  "Café de Duivel"
+ ],
+ "pand": "0363100012179402",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 14,
+  "openbaar": 14,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_96160",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "2010-01-01",
+    "soort": "splitsing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96160"
+   },
+   {
+    "dossier": "SA_97723",
+    "titel": "Reguliersdwarsstraat 87; Reguliersdwarsstraat 87 A - 87 C",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97723"
+   },
+   {
+    "dossier": "SA_96157",
+    "titel": "Reguliersdwarsstraat 87; Reguliersdwarsstraat 87 A - 87 C",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96157"
+   },
+   {
+    "dossier": "SA_96158",
+    "titel": "Reguliersdwarsstraat 87; Reguliersdwarsstraat 87 A - 87 C",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96158"
+   },
+   {
+    "dossier": "SA_96156",
+    "titel": "Reguliersdwarsstraat 87; Reguliersdwarsstraat 87 A - 87 C",
+    "datum": "2007-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96156"
+   },
+   {
+    "dossier": "SA_96159",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "2007-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96159"
+   },
+   {
+    "dossier": "SA_96155",
+    "titel": "Reguliersdwarsstraat 87; Reguliersdwarsstraat 87 A - 87 C",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96155"
+   },
+   {
+    "dossier": "SA_96154",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "2005-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96154"
+   },
+   {
+    "dossier": "SA_33650",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33650"
+   },
+   {
+    "dossier": "SA_96153",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_96153"
+   },
+   {
+    "dossier": "SA_34918",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34918"
+   },
+   {
+    "dossier": "SA_33647",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33647"
+   },
+   {
+    "dossier": "SA_33643",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33643"
+   },
+   {
+    "dossier": "SA_33641",
+    "titel": "Reguliersdwarsstraat 87",
+    "datum": "1916-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33641"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 5,
+  "gezocht": [
+   "Reguliersdwarsstraat 87",
+   "Reguliersdwarsstraat 87A",
+   "Reguliersdwarsstraat 87B",
+   "Reguliersdwarsstraat 87C"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-87379",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Reguliersdwarsstraat 87 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-26",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 87 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-87379.html"
+   },
+   {
+    "id": "gmb-2022-81687",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Reguliersdwarsstraat 87",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-24",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Reguliersdwarsstraat 87",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-81687.html"
+   },
+   {
+    "id": "gmb-2021-380506",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Reguliersdwarsstraat 87",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Reguliersdwarsstraat 87",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380506.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 13,
+  "bekendmakingen": 13,
+  "plannen": 0,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 301,
+ "pand_adressen": [
+  "Reguliersdwarsstraat 87",
+  "Reguliersdwarsstraat 87A",
+  "Reguliersdwarsstraat 87B",
+  "Reguliersdwarsstraat 87C"
+ ]
+}

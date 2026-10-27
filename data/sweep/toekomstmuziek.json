@@ -1,0 +1,215 @@
+{
+ "id": "toekomstmuziek",
+ "naam": "Toekomstmuziek",
+ "adres": "Danzigerbocht 29, 1013 AM Amsterdam",
+ "termen": [
+  "Danzigerbocht 29",
+  "1013AM",
+  "1013 AM",
+  "Toekomstmuziek"
+ ],
+ "pand": "0363100012110275",
+ "status": "open",
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 3,
+  "openbaar": 3,
+  "laatste": "1994-10-01",
+  "dossiers": [
+   {
+    "dossier": "XY_08638",
+    "titel": "Danzigerbocht 29",
+    "datum": "1994-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 118,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08638"
+   },
+   {
+    "dossier": "XY_08636",
+    "titel": "Danzigerbocht 29",
+    "datum": "1994-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08636"
+   },
+   {
+    "dossier": "XY_01879",
+    "titel": "Danzigerbocht 29",
+    "datum": "1994-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01879"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 13,
+  "gezocht": [
+   "Danzigerbocht 29"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-439989",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) ter hoogte van Danzigerbocht 29 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-21",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Danzigerbocht 29 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-439989.html"
+   },
+   {
+    "id": "gmb-2026-417904",
+    "titel": "Aanvraag evenementenvergunning Danzigerbocht 29 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Danzigerbocht 29 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-417904.html"
+   },
+   {
+    "id": "gmb-2026-47861",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend De Rijpgracht 5-3",
+    "soort": "andere vergunning",
+    "datum": "2026-02-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres De Rijpgracht 5-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-47861.html"
+   },
+   {
+    "id": "gmb-2025-407902",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Danzigerbocht 29 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Danzigerbocht 29 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-407902.html"
+   },
+   {
+    "id": "gmb-2025-281910",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Danzigerbocht 29 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Danzigerbocht 29 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-281910.html"
+   },
+   {
+    "id": "gmb-2024-499194",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Danzigerbocht 29",
+    "soort": "andere vergunning",
+    "datum": "2024-11-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Danzigerbocht 29",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-499194.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-328673",
+    "titel": "Melding Activiteitenbesluit - Danzigerbocht 29, Amsterdam - Toekomst Muziek B.V. - Het realiseren van een vast muziek podium/concertzaal in combinatie met repetitieruimtes",
+    "soort": "overige overheidsinformatie",
+    "datum": "2024-07-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-328673.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2022-329750",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Danzigerbocht 29",
+    "soort": "exploitatievergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Danzigerbocht 29",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-329750.html"
+   },
+   {
+    "id": "gmb-2022-329758",
+    "titel": "Aanvraag alcoholwetvergunning Danzigerbocht 29",
+    "soort": "andere vergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Danzigerbocht 29",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-329758.html"
+   },
+   {
+    "id": "gmb-2022-329754",
+    "titel": "Besluit alcoholwetvergunning Verleend Danzigerbocht 29",
+    "soort": "andere vergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Danzigerbocht 29",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-329754.html"
+   },
+   {
+    "id": "gmb-2022-329756",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Danzigerbocht 29",
+    "soort": "exploitatievergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Danzigerbocht 29",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-329756.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B0802BPGST-OH01",
+   "naam": "Bestemmingsplan Stadhaven Minerva",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-06-20",
+   "opp_m2": 959688,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 1,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Danzigerbocht 29"
+ ]
+}

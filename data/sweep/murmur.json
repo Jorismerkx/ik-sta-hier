@@ -1,0 +1,174 @@
+{
+ "id": "murmur",
+ "naam": "murmur",
+ "adres": "Aambeeldstraat 60, 1021 KB Amsterdam",
+ "termen": [
+  "Aambeeldstraat 60",
+  "1021KB",
+  "1021 KB",
+  "murmur"
+ ],
+ "pand": "0363100012103770",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 4,
+  "openbaar": 4,
+  "laatste": "2005-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_01578",
+    "titel": "Aambeeldstraat 2",
+    "datum": "2005-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01578"
+   },
+   {
+    "dossier": "SN_19145",
+    "titel": "Aambeeldstraat 2",
+    "datum": "2002-01-01",
+    "soort": "antenne-installatie/sirene",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 171,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19145"
+   },
+   {
+    "dossier": "SN_03154",
+    "titel": "Aambeeldstraat 1 - 3; Kadoelenweg 109; Kadoelenweg 152; Rode Kruisstraat 1 - 3; Waddenweg 116; Zuideinde 220",
+    "datum": "1988-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03154"
+   },
+   {
+    "dossier": "SN_05488",
+    "titel": "Aambeeldstraat 1 - 3",
+    "datum": "1949-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_05488"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 5,
+  "gezocht": [
+   "Aambeeldstraat 60",
+   "Aambeeldstraat 2"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-45126",
+    "titel": "Toestemming voor het wijzigen en uitbreiden van de panden , Aambeeldstraat 2 te Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-29",
+    "onderwerp": "Betreft:  besluit op locatie Aambeeldstraat 2 te Edam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-45126.html",
+    "zaak": "Rx.Mission zaak Z2023-00000339"
+   },
+   {
+    "id": "gmb-2024-29108",
+    "titel": "Kennisgeving termijnverlenging Z2023-00000339, Aambeeldstraat 2 te Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-17",
+    "onderwerp": "Betreft: Beschikking verlenging beslistermijn op locatie Aambeeldstraat 2 te Edam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-29108.html",
+    "zaak": "Rx.Mission zaak Z2023-00000339"
+   },
+   {
+    "id": "gmb-2023-444515",
+    "titel": "Aanvraag vergunning voor het wijzigen en uitbreiden van de panden, Aambeeldstraat 2, 1135GC Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "Betreft: aanvraag op locatie Aambeeldstraat 2, 1135GC Edam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-444515.html",
+    "zaak": "Rx.Mission zaak Z2023-00000339"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-444515"
+  ],
+  "zaaknummers": [
+   "Rx.Mission zaak Z2023-00000339"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2023-229894",
+    "titel": "Besluit apv vergunning Verleend - Aambeeldstraat 2",
+    "soort": "andere vergunning",
+    "datum": "2023-05-26",
+    "onderwerp": "TVM Stremmen - Aambeeldstraat 2 - 24 mei 2023, Aambeeldstraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-229894.html"
+   },
+   {
+    "id": "gmb-2023-202062",
+    "titel": "Besluit apv vergunning Verleend - Aambeeldstraat 2",
+    "soort": "andere vergunning",
+    "datum": "2023-05-09",
+    "onderwerp": "TVM Stremmen - Aambeeldstraat 2 - 22 mei 2023, Aambeeldstraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-202062.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Aambeeldstraat 2"
+ ]
+}

@@ -1,0 +1,684 @@
+{
+ "id": "de-balie",
+ "naam": "De Balie",
+ "adres": "Kleine-Gartmanplantsoen 10, 1017 RR Amsterdam",
+ "termen": [
+  "Kleine-Gartmanplantsoen 10",
+  "1017RR",
+  "1017 RR",
+  "De Balie"
+ ],
+ "pand": "0363100012168684",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 24,
+  "openbaar": 1,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_93076",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93076"
+   },
+   {
+    "dossier": "SA_98174",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_98174"
+   },
+   {
+    "dossier": "SA_93075",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93075"
+   },
+   {
+    "dossier": "SA_93079",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93079"
+   },
+   {
+    "dossier": "SA_93081",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93081"
+   },
+   {
+    "dossier": "SA_07118",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07118"
+   },
+   {
+    "dossier": "SA_07116",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07116"
+   },
+   {
+    "dossier": "SA_05116",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2002-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_05116"
+   },
+   {
+    "dossier": "SA_103739",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2002-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_103739"
+   },
+   {
+    "dossier": "SA_07093",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07093"
+   },
+   {
+    "dossier": "SA_07106",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07106"
+   },
+   {
+    "dossier": "SA_07045",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07045"
+   },
+   {
+    "dossier": "SA_07063",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07063"
+   },
+   {
+    "dossier": "SA_06994",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1997-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 82,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06994"
+   },
+   {
+    "dossier": "SA_05923",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_05923"
+   },
+   {
+    "dossier": "SA_06890",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1991-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06890"
+   },
+   {
+    "dossier": "SA_06798",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1987-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06798"
+   },
+   {
+    "dossier": "SA_06694",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1986-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06694"
+   },
+   {
+    "dossier": "SA_06693",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1986-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06693"
+   },
+   {
+    "dossier": "SA_06717",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06717"
+   },
+   {
+    "dossier": "SA_06687",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06687"
+   },
+   {
+    "dossier": "SA_06708",
+    "titel": "Kleine-Gartmanplantsoen 10",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06708"
+   },
+   {
+    "dossier": "SA_06667",
+    "titel": "Kleine-Gartmanplantsoen 8 - 16",
+    "datum": "1965-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06667"
+   },
+   {
+    "dossier": "SA_06419",
+    "titel": "Kleine-Gartmanplantsoen 8 - 22; Leidsekade 106 - 107",
+    "datum": "1891-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_06419"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 32,
+  "gezocht": [
+   "Kleine-Gartmanplantsoen 10"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-337695",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Kleine-Gartmanplantsoen 10 1017RR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-15",
+    "onderwerp": "het vervangen van een kozijn in de zijgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-337695.html",
+    "zaak": "Z2026-026522"
+   },
+   {
+    "id": "gmb-2026-299726",
+    "titel": "Aanvraag omgevingsvergunning Kleine-Gartmanplantsoen 10 1017RR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-24",
+    "onderwerp": "* vervangen van een kozijn in de zijgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-299726.html",
+    "zaak": "Z2026-026522"
+   },
+   {
+    "id": "gmb-2022-179906",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Kleine-Gartmanplantsoen 10 1017RR Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2022-04-21",
+    "onderwerp": "ontheffing van het bestemmingsplan om horeca 6, culturele horeca, in een verbouwde ruimte te exploiteren ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-179906.html",
+    "zaak": "Z2022-C000678"
+   },
+   {
+    "id": "gmb-2022-79214",
+    "titel": "Aanvraag omgevingsvergunning Kleine-Gartmanplantsoen 10 1017RR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-23",
+    "onderwerp": "ontheffing van het bestemmingsplan om horeca 6, culturele horeca, in een verbouwde ruimte te exploiteren ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-79214.html",
+    "zaak": "Z2022-C000678"
+   },
+   {
+    "id": "gmb-2021-87272",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Kleine-Gartmanplantsoen 10 1017RR Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-22",
+    "onderwerp": "veranderen indeling begane grond van het gebouw",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-87272.html"
+   },
+   {
+    "id": "gmb-2021-41182",
+    "titel": "Aanvraag omgevingsvergunning Kleine-Gartmanplantsoen 10 1017RR Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-10",
+    "onderwerp": "veranderen indeling begane grond van het gebouw",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-41182.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-337695",
+   "gmb-2026-299726",
+   "gmb-2022-179906",
+   "gmb-2022-79214",
+   "gmb-2021-87272",
+   "gmb-2021-41182"
+  ],
+  "zaaknummers": [
+   "Z2022-C000678",
+   "Z2026-026522"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-99746",
+    "titel": "Besluit apv vergunning Verleend - Kleine-Gartmanplantsoen ter hoogte van nummer: 10 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-05",
+    "onderwerp": "Object,Kleine-Gartmanplantsoen 10 1017RR, 20260309, Kleine-Gartmanplantsoen ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-99746.html"
+   },
+   {
+    "id": "gmb-2026-95113",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2026-03-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-95113.html"
+   },
+   {
+    "id": "gmb-2026-82910",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Kleine-Gartmanplantsoen 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Kleine-Gartmanplantsoen 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-82910.html"
+   },
+   {
+    "id": "gmb-2025-469200",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Kleine-Gartmanplantsoen 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Kleine-Gartmanplantsoen 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-469200.html"
+   },
+   {
+    "id": "gmb-2025-308291",
+    "titel": "Aanvraag evenementenvergunning Kleine-Gartmanplantsoen 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Kleine-Gartmanplantsoen 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-308291.html"
+   },
+   {
+    "id": "gmb-2025-35216",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2025-01-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-35216.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-57533",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2024-02-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-57533.html"
+   },
+   {
+    "id": "gmb-2023-210660",
+    "titel": "Besluit apv vergunning Verleend - Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2023-05-15",
+    "onderwerp": "OBJ Leidseplein van 25-5-2023 tot 5-6-2023, Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-210660.html"
+   },
+   {
+    "id": "gmb-2023-45256",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2023-02-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-45256.html"
+   },
+   {
+    "id": "gmb-2022-427329",
+    "titel": "Besluit alcoholwetvergunning Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2022-09-26",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-427329.html"
+   },
+   {
+    "id": "gmb-2022-427342",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-427342.html"
+   },
+   {
+    "id": "gmb-2022-416834",
+    "titel": "Besluit apv vergunning Verleend Kleine-Gartmanplantsoen 15",
+    "soort": "andere vergunning",
+    "datum": "2022-09-19",
+    "onderwerp": "OBJ - 10-10-2022 t/m 11-10-2022 - Kleine-Gartmanplantsoen 10-15, Kleine-Gartmanplantsoen 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-416834.html"
+   },
+   {
+    "id": "gmb-2022-305088",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Kleine-Gartmanplantsoen 10",
+    "soort": "exploitatievergunning",
+    "datum": "2022-07-05",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-305088.html"
+   },
+   {
+    "id": "gmb-2022-90937",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-90937.html"
+   },
+   {
+    "id": "gmb-2021-380269",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Kleine-Gartmanplantsoen 10",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380269.html"
+   },
+   {
+    "id": "gmb-2021-339665",
+    "titel": "Besluit apv vergunning Verleend Kleine-Gartmanplantsoen 10",
+    "soort": "andere vergunning",
+    "datum": "2021-10-01",
+    "onderwerp": "Objecten, Kleine-Gartmanplantsoen 10 t/m 19, 30-10-2021 t/m 01-11-2021, Kleine-Gartmanplantsoen 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-339665.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   },
+   {
+    "id": "kst-28989-30-b1",
+    "titel": "Rapportage 'Huis voor de Culturele Dialoog'",
+    "soort": "Bijlage",
+    "datum": "2006-03-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/kst-28989-30-b1.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.4.html",
+     "tekst": "zame personen in deze buurtcombinatie. Er zijn 165 vestigingen. Vooral in de culturele sector (ca. 31%) en in sport/recreatie (32%) werken veel mensen. Op en nabij het Leidseplein zitten diverse culturele instellingen zoals de Stadsschouwburg, De La Mar Theater, Paradiso, de Melkweg, Sugar Factory, de Balie en de City-bioscoop. Het hoge percentage werkzame personen in de sport/recreatie komt vooral door de aanwezigheid van Holland Casino bij het Max Euweplein. Daarna volgen de werkgelegenheid bij de politie en bij het onderwijs met elk ca. 12%. In dit gebied zijn twee basisscholen (de Kleine Reus bij de Vijzelstraat en de ASVO aan het Frederiksplein) en de enige school voor voortgezet onderw"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1103BPSTD-VG01/t_NL.IMRO.0363.A1103BPSTD-VG01_5.2.html",
+     "tekst": "ande bebouwing is voldoende ruim en vergelijkbaar met die op veel plaatsen elders in de binnenstad. 3. Entrepotdok: Plantagekade De Plantagekade is een relatief hoge kade. De woonboten kunnen alleen via een aan de kademuur bevestigde trap worden ontsloten. Ter plekke zal de bestaande balieleuning worden doorsneden om de toegangen te realiseren. Er is alleen een voetgangersstoep aan de kade. De bebouwing bevindt zich op 6,50 meter afstand tot de boten. Vanwege de hoge kademuur alsmede het feit dat op de begane grond geen woningen zijn gesitueerd is de privacy hier voldoende gewaarborgd. 4. Het Singel Het Singel is hier 33 meter breed. De afstand tot de bebouwing va"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 134,
+  "plannen": 1,
+  "woo": 36
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 2,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 2,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+ ],
+ "duur_s": 432,
+ "pand_adressen": [
+  "Kleine-Gartmanplantsoen 10"
+ ]
+}

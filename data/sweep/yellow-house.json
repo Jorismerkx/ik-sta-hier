@@ -1,0 +1,162 @@
+{
+ "id": "yellow-house",
+ "naam": "Yellow House",
+ "adres": "Danzigerbocht 45-R, 1013 AM Amsterdam",
+ "termen": [
+  "Danzigerbocht 45",
+  "1013AM",
+  "1013 AM",
+  "Yellow House"
+ ],
+ "pand": "0363100012249737",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 7,
+  "gezocht": [
+   "Danzigerbocht 45",
+   "Danzigerbocht 45A",
+   "Danzigerbocht 45B",
+   "Danzigerbocht 45C",
+   "Danzigerbocht 45D",
+   "Danzigerbocht 45E",
+   "Danzigerbocht 45F",
+   "Danzigerbocht 45G",
+   "Danzigerbocht 45H",
+   "Danzigerbocht 45K",
+   "Danzigerbocht 45L",
+   "Danzigerbocht 45M",
+   "Danzigerbocht 45N"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2021-307333",
+    "titel": "Danzigerbocht 45 A, Amsterdam - tijdelijk plaatsen reclame-uiting",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-08",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-307333.html",
+    "zaak": "1267882"
+   },
+   {
+    "id": "gmb-2021-203214",
+    "titel": "Danzigerbocht 45A, Amsterdam, interne verbouwing en functiewijziging",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-203214.html",
+    "zaak": "1265521"
+   },
+   {
+    "id": "gmb-2021-165590",
+    "titel": "Danzigerbocht 45 A, Amsterdam - wijzigen bestemming",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-165590.html",
+    "zaak": "1264455"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-465226",
+    "titel": "Besluit apv vergunning Verleend - Danzigerbocht ter hoogte van nummer: 45 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "TVM stremmen,Object,Danzigerbocht 45 A 1013AM, 20261020, Danzigerbocht ter hoogte van nummer: 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465226.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2023-26342",
+    "titel": "Melding Activiteitenbesluit - Danzigerbocht 45 R, Amsterdam - Yellow House - het oprichten van een restaurant en bar",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-01-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-26342.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B0802BPGST-OH01",
+   "naam": "Bestemmingsplan Stadhaven Minerva",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-06-20",
+   "opp_m2": 959688,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+   "datum": "2024-10-11",
+   "door": "gemeente Amsterdam",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html",
+   "fragment": "Contactweg 68 1014 BW 59. Toekomstmuziek Danzigerbocht 29 1013 AM 60. Undercurrent events Tt. Vasumweg 171 1033 SG 61. Westerunie Klönneplein 4-6 1014 DD 62. Yellow House Danzigerbocht 45-R 1013 AM 10 oktober 2024 Burgemeester van Amsterdam ... GEMEENTEBLAD Officiële uitgave van de gemeente Amsterdam Ontheffing openingstijden voor het Amsterdam Dance Event 2024 De burgmeester van Amsterdam Gelet o"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 3,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 5,
+ "pand_adressen": [
+  "Danzigerbocht 45A",
+  "Danzigerbocht 45B",
+  "Danzigerbocht 45C",
+  "Danzigerbocht 45D",
+  "Danzigerbocht 45E",
+  "Danzigerbocht 45F",
+  "Danzigerbocht 45G",
+  "Danzigerbocht 45H",
+  "Danzigerbocht 45K",
+  "Danzigerbocht 45L",
+  "Danzigerbocht 45M",
+  "Danzigerbocht 45N"
+ ]
+}

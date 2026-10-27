@@ -1,0 +1,270 @@
+{
+ "id": "amsterdam-roest",
+ "naam": "Amsterdam Roest",
+ "adres": "Jacob Bontiusplaats 1, 1018 LL Amsterdam",
+ "termen": [
+  "Jacob Bontiusplaats 1",
+  "1018LL",
+  "1018 LL",
+  "Amsterdam Roest"
+ ],
+ "pand": "0363100012169224",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 1,
+  "openbaar": 1,
+  "laatste": "2011-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_112188",
+    "titel": "Jacob Bontiusplaats 2 - 6; Oostenburgermiddenstraat 101; Oostenburgermiddenstraat 111; Voc-kade 10 - 14; Zeemagazijnkade 3 - 4; Zeemagazijnkade 8 - 9",
+    "datum": "2011-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_112188"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 16,
+  "gezocht": [
+   "Jacob Bontiusplaats 1",
+   "Jacob Bontiusplaats 2",
+   "Jacob Bontiusplaats 6",
+   "Jan Kiststraat 2",
+   "Jan Kiststraat 6",
+   "Jan Kiststraat 8",
+   "Oostenburgermiddenstraat 1",
+   "Oostenburgermiddenstraat 101",
+   "Oostenburgermiddenstraat 11",
+   "Oostenburgermiddenstraat 111",
+   "Oostenburgermiddenstraat 13",
+   "Oostenburgermiddenstraat 15",
+   "Oostenburgermiddenstraat 17"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-415368",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Jan Kiststraat 2, 4, 6, 8 en 10 1018PM Amsterdam, Oostenburgermiddenstraat 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21 en 23 1018LH Amsterdam, VOC-kade 2, 4, 6, 8, 10, 12, 14 en 16 1018LG Amsterdam, Zeemagazijnkade 1, 3, 4, 5, 7, 8, 9, 11 en 13 1018LE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-03",
+    "onderwerp": "bouwen in afwijking van omgevingsvergunning zaak Z2021-C000975/ OLO 5221153 voor diverse in- en uitpandige werkzaamheden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-415368.html",
+    "zaak": "Z2025-021372"
+   },
+   {
+    "id": "gmb-2025-261768",
+    "titel": "Aanvraag omgevingsvergunning Jan Kiststraat 2 t/m 10 (even nummer) 1018PM Amsterdam,  Oostenburgermiddenstraat 1 t/m 23 (oneven nummer) 1018LH Amsterdam, VOC-kade 2 t/ 16 (even nummers) 1018LG Amsterdam, Zeemagazijnkade 1 t/m 13 1018LE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "bouwen in afwijking van omgevingsvergunning zaak Z2021-C000975/ OLO 5221153 voor diverse in- en uitpandige werkzaamheden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-261768.html",
+    "zaak": "Z2025-021372"
+   },
+   {
+    "id": "gmb-2023-161440",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure Zeemagazijnkade 3, 4, 8 en 9 1018LE Amsterdam, Oostenburgermiddenstraat 101 en 111 1018LH Amsterdam, Jacob Bontiusplaats 2, 4 en 6 1018LL Amsterdam, VOC-kade 10, 12 en 14 1018LG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-13",
+    "onderwerp": "maken van een industriële bok en insteekhaven aan de VOC-kade en herontwikkeling van de Van Gendthallen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-161440.html",
+    "zaak": "Z2021-C000975"
+   },
+   {
+    "id": "gmb-2022-570681",
+    "titel": "Ontwerpbesluit omgevingsvergunning Zeemagazijnkade 3, 4, 8 en 9 1018LE Amsterdam, Oostenburgermiddenstraat 101 en 111 1018LH Amsterdam, Jacob Bontiusplaats 2, 4 en 6 1018LL Amsterdam, VOC-kade 10, 12 en 14 1018LG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-23",
+    "onderwerp": "maken van een industriële bok en insteekhaven aan de VOC-kade en herontwikkeling van de Van Gendthallen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-570681.html",
+    "zaak": "Z2021-C000975"
+   },
+   {
+    "id": "gmb-2021-169922",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Oostenburgermiddenstraat 101 en 111 1018LH Amsterdam, VOC-kade 10, 12 en 14 1018LG Amsterdam, Jacob Bontiusplaats 2, 4 en 6 1018LL Amsterdam, Zeemagazijnkade 3, 4, 8 en 9 1018LE Amsterdam, [ASD02N04341]Straatnaam Amsterdam A N 4341",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-01",
+    "onderwerp": "transformeren van de Van Gendthallen naar een functiemix van kantoren, horeca, bedrijven, woningen en culturele voorzieningen op de locatie Jacob Bont",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-169922.html"
+   },
+   {
+    "id": "gmb-2021-86510",
+    "titel": "Aanvraag omgevingsvergunning Oostenburgermiddenstraat 101 en 111 1018LH Amsterdam, VOC-kade 10, 12 en 14 1018LG Amsterdam, Jacob Bontiusplaats 2, 4 en 6 1018LL Amsterdam, Zeemagazijnkade 3, 4, 8 en 9 1018LE Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-22",
+    "onderwerp": "maken van een industriële bok aan de VOC-kade en herontwikkeling van de Van Gendthallen ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-86510.html"
+   },
+   {
+    "id": "gmb-2021-78792",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Oostenburgermiddenstraat 101 en 111 1018LH Amsterdam, VOC-kade 10, 12 en 14 1018LG Amsterdam, Jacob Bontiusplaats 2, 4 en 6 1018LL Amsterdam, Zeemagazijnkade 3, 4, 8 en 9 1018LE Amsterdam,  [ASD02N04341]Straatnaam Amsterdam A N 4341",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-15",
+    "onderwerp": "wijzigen van de gevels en het plaatsen van stoomkappen en zonnepanelen op het dak van de Van Gendthallen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-78792.html"
+   },
+   {
+    "id": "gmb-2020-225699",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Oostenburgermiddenstraat 101 1018LH Amsterdam, VOC-kade 10 1018LG Amsterdam, Jacob Bontiusplaats 2 1018LL Amsterdam, Zeemagazijnkade 3 1018LE Amsterdam, Jacob Bontiusplaats 4 1018LL Amsterdam, VOC-kade 12 1018LG Amsterdam, VOC-kade 14 1018LG Amsterdam, Zeemagazijnkade 4 1018LE Amsterdam, Zeemagazijnkade 8 1018LE Amsterdam, Zeemagazijnkade 9 1018LE Amsterdam, Oostenburgermiddenstraat 111 1018LH Amsterdam, [ASD02N04341]Straatnaam Amsterdam A N 4341",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-03",
+    "onderwerp": "het bouwen in afwijking van omgevingsvergunning Olo 3544307 voor het uitvoeren van cascoherstel en klimaatverbeteringen aan de van Gendthallen gelegen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-225699.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-415368",
+   "gmb-2025-261768",
+   "gmb-2023-161440",
+   "gmb-2022-570681",
+   "gmb-2021-169922",
+   "gmb-2021-86510",
+   "gmb-2021-78792"
+  ],
+  "zaaknummers": [
+   "Z2021-C000975",
+   "Z2025-021372"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-355689",
+    "titel": "Besluit apv vergunning Verleend - Oostenburgermiddenstraat ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-14",
+    "onderwerp": "Filmen, Oostenburgermiddenstraat 1 1018LH, 20250819, Oostenburgermiddenstraat ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-355689.html"
+   },
+   {
+    "id": "gmb-2023-559402",
+    "titel": "Kennisgeving voornemen tot verkoop van perceel grond aan de VOC kade (ongenummerd)) te Amsterdam",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2023-12-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-559402.html"
+   },
+   {
+    "id": "gmb-2021-155151",
+    "titel": "Bodem BUS, Jacob Bontiusplaats 1, Amsterdam",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2021-05-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-155151.html"
+   },
+   {
+    "id": "gmb-2021-112125",
+    "titel": "Bodem Bus, Jacob Bontiusplaats 1, Amsterdam",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2021-04-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-112125.html"
+   },
+   {
+    "id": "wsb-2020-11967",
+    "titel": "Verleende Watervergunning voor het slopen en herbouwen van de landhoofden en het renoveren van het brugdek van de 'Werkspoorbrug' (brug 2103) over de Oostenburgerdwarsvaart, ter hoogte van Oostenburgermiddenstraat 101, 1018 LH Amsterdam - AGV - WN2020-004275",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-10-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2020-11967.html"
+   },
+   {
+    "id": "wsb-2019-519",
+    "titel": "Verleende Watervergunning voor het vervangen van kademuren, ter hoogte van Jacob Bontiusplaats 2, 1018 LL Amsterdam - AGV - WN2018-008223",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-01-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2019-519.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1201BPSTD-VG01",
+   "naam": "Oostenburg Noord 2013",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 106884,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1404BPSTD-VG01",
+   "naam": "Stadswerf Oostenburg",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-07-14",
+   "opp_m2": 130867,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 4,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 8,
+ "pand_adressen": [
+  "Jacob Bontiusplaats 2",
+  "Jacob Bontiusplaats 6",
+  "Jan Kiststraat 2",
+  "Jan Kiststraat 6",
+  "Jan Kiststraat 8",
+  "Oostenburgermiddenstraat 1",
+  "Oostenburgermiddenstraat 101",
+  "Oostenburgermiddenstraat 11",
+  "Oostenburgermiddenstraat 111",
+  "Oostenburgermiddenstraat 13",
+  "Oostenburgermiddenstraat 15",
+  "Oostenburgermiddenstraat 17"
+ ]
+}

@@ -1,0 +1,516 @@
+{
+ "id": "tillatec",
+ "naam": "TILLATEC",
+ "adres": "Dr. Jan van Breemenstraat 1, 1056 AB Amsterdam",
+ "termen": [
+  "Dr. Jan van Breemenstraat 1",
+  "1056AB",
+  "1056 AB",
+  "TILLATEC"
+ ],
+ "pand": "0363100012195030",
+ "status": "open",
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 9,
+  "openbaar": 9,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_28433",
+    "titel": "Dr Jan van Breemenstraat 1 - 3",
+    "datum": "2009-01-01",
+    "soort": "perceelkaart",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_28433"
+   },
+   {
+    "dossier": "SJ_32077",
+    "titel": "Dr Jan van Breemenstraat 1 - 3; Dr Jan van Breemenstraat 2",
+    "datum": "2009-01-01",
+    "soort": "omgevingsvergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32077"
+   },
+   {
+    "dossier": "SJ_32521",
+    "titel": "Dr Jan van Breemenstraat 1",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_32521"
+   },
+   {
+    "dossier": "SJ_01746",
+    "titel": "Dr Jan van Breemenstraat 1",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01746"
+   },
+   {
+    "dossier": "SJ_01742",
+    "titel": "Dr Jan van Breemenstraat 1",
+    "datum": "1983-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01742"
+   },
+   {
+    "dossier": "SJ_33326",
+    "titel": "Dr Jan van Breemenstraat 1",
+    "datum": "1964-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 758,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_33326"
+   },
+   {
+    "dossier": "SJ_01743",
+    "titel": "Dr Jan van Breemenstraat 1",
+    "datum": "1964-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 316,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_01743"
+   },
+   {
+    "dossier": "SJ_24766",
+    "titel": "Admiraal Helfrichstraat 1; Admiraal Helfrichstraat 6; Admiraal Helfrichstraat 7 - 9; Dr Jan van Breemenstraat 1 - 3; Dr Jan van Breemenstraat 2; Jan Evertsenstraat 152 - 162; Jan van Galenstraat 303 - 311; Jan van Galenstraat 315; Jan van Galenstraat 325; Orteliuskade 76 - 117; Orteliusstraat 193 -",
+    "datum": null,
+    "soort": "raadsbesluitkaart",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_24766"
+   },
+   {
+    "dossier": "SJ_24818",
+    "titel": "Admiraal Helfrichstraat 1 - 5; Admiraal Helfrichstraat 4; Dr Jan van Breemenstraat 1 - 7; Dr Jan van Breemenstraat 2 - 8; Jan van Galenstraat 323 - 329",
+    "datum": null,
+    "soort": "situatieschets",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_24818"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 32,
+  "gezocht": [
+   "Dr. Jan van Breemenstraat 1",
+   "Dr. Jan van Breemenstraat 1A"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-91934",
+    "titel": "Besluit op aanvraag reguliere omgevingsvergunning: het wijzigen van de entree pui en het plaatsen van reclame alsmede interne constructieve veranderingen, Rechtestraat 35 5611GM Eindhoven, Dr Jan van Breemenstraat 1-E1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-02",
+    "onderwerp": "het wijzigen van de entree pui en het plaatsen van reclame alsmede interne constructieve veranderingen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-91934.html",
+    "zaak": "EHV-ZP2022-002632"
+   },
+   {
+    "id": "gmb-2023-32504",
+    "titel": "Verlenging termijn omgevingsvergunning: EHV-ZP2022-002632, Rechtestraat 35 5611GM Eindhoven, Dr Jan van Breemenstraat 1-E1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-25",
+    "onderwerp": "het wijzigen van de entree pui en het plaatsen van reclame alsmede interne constructieve veranderingen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-32504.html",
+    "zaak": "EHV-ZP2022-002632"
+   },
+   {
+    "id": "gmb-2022-542318",
+    "titel": "Ingediende aanvraag omgevingsvergunning: aanpassen van de gevel, Rechtestraat 35 5611GM Eindhoven, Dr Jan van Breemenstraat 1-E1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-07",
+    "onderwerp": "aanpassen van de gevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-542318.html",
+    "zaak": "EHV-ZP2022-002632"
+   },
+   {
+    "id": "gmb-2022-323180",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-15",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het plaatsen van twee afvoerkanalen op het dak en het gebruiken van een koffiebranderij",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-323180.html",
+    "zaak": "Z2022-W001910"
+   },
+   {
+    "id": "gmb-2022-318895",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-13",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het plaatsen van een luchtbehandelingsinstallatie t.b.v. de bijeenkomstfunctie in de kelder aan de achterz",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-318895.html",
+    "zaak": "Z2022-W001486"
+   },
+   {
+    "id": "gmb-2022-318908",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-13",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het realiseren van een terras in de binnentuin en aan de noordzijde van het pand",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-318908.html"
+   },
+   {
+    "id": "gmb-2022-315668",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-12",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het gebruiken en verbouwen van het object t.b.v. een 24-uurs locatie met diverse functies",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-315668.html"
+   },
+   {
+    "id": "gmb-2022-278564",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-20",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijke plaatsen van 2 afvoerkanalen op het dak en het tijdelijk gebruiken van een koffiebranderij",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-278564.html",
+    "zaak": "Z2022-W001910"
+   },
+   {
+    "id": "gmb-2022-233448",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijk realiseren van een terras in de binnentuin en aan de noordzijde van het pand",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-233448.html",
+    "zaak": "Z2022-W001489"
+   },
+   {
+    "id": "gmb-2022-233433",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijk plaatsen van een luchtbehandelingsinstallatie ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-233433.html",
+    "zaak": "Z2022-W001486"
+   },
+   {
+    "id": "gmb-2022-233427",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijke gebruiken en verbouwen van het object t.b.v. een 24-uurs locatie met diverse functies",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-233427.html"
+   },
+   {
+    "id": "gmb-2022-205818",
+    "titel": "Aanvraag omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-06",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijke plaatsen van 2 afvoerkanalen op het dak en het tijdelijk gebruiken van een koffiebranderij",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-205818.html",
+    "zaak": "Z2022-W001910"
+   },
+   {
+    "id": "gmb-2022-190320",
+    "titel": "Aanvraag omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-28",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijke gebruiken en verbouwen van het object t.b.v. een 24-uurs locatie met diverse functies",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-190320.html",
+    "zaak": "Z2022-W001485"
+   },
+   {
+    "id": "gmb-2022-175902",
+    "titel": "Aanvraag omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-19",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijk plaatsen van een luchtbehandelingsinstallatie ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-175902.html",
+    "zaak": "Z2022-W001486"
+   },
+   {
+    "id": "gmb-2022-175506",
+    "titel": "Aanvraag omgevingsvergunning Dr. Jan van Breemenstraat 1 1056AB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-19",
+    "onderwerp": "verlengen van de tijdelijke vergunning voor het tijdelijk realiseren van een terras in de binnentuin en aan de noordzijde van het pand",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-175506.html",
+    "zaak": "Z2022-W001489"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-91934",
+   "gmb-2022-542318",
+   "gmb-2022-323180",
+   "gmb-2022-318895",
+   "gmb-2022-318908",
+   "gmb-2022-315668",
+   "gmb-2022-205818",
+   "gmb-2022-190320",
+   "gmb-2022-175902",
+   "gmb-2022-175506"
+  ],
+  "zaaknummers": [
+   "EHV-ZP2022-002632",
+   "Z2022-W001485",
+   "Z2022-W001486",
+   "Z2022-W001489",
+   "Z2022-W001910"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-439609",
+    "titel": "Amsterdam West, verkeersbesluit opheffen aanleg elektrische oplaadvakken, Dr. Jan van Breemenstraat 1",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-09-18",
+    "onderwerp": "opheffen aanleg elektrische oplaadvakken, Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-439609.html"
+   },
+   {
+    "id": "gmb-2026-364855",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2026-07-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-364855.html"
+   },
+   {
+    "id": "gmb-2026-219709",
+    "titel": "Besluit apv vergunning Verleend - Dr. Jan van Breemenstraat ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-11",
+    "onderwerp": "Object, Dr. Jan van Breemenstraat 1, 21 mei-4 jun., Dr. Jan van Breemenstraat ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-219709.html"
+   },
+   {
+    "id": "gmb-2026-56313",
+    "titel": "Amsterdam West, verkeersbesluit Dr. Jan van Breemenstraat 1 aanleg twee elektrische oplaadvakken",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-02-13",
+    "onderwerp": "Dr. Jan van Breemenstraat 1 aanleg twee elektrische oplaadvakken",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-56313.html"
+   },
+   {
+    "id": "gmb-2026-26754",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Dr. Jan van Breemenstraat 3 in AMSTERDAM en Dr. Jan van Breemenstraat 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Dr. Jan van Breemenstraat 3 in AMSTERDAM en Dr. Jan van Breemenstraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-26754.html"
+   },
+   {
+    "id": "gmb-2025-466530",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-466530.html"
+   },
+   {
+    "id": "gmb-2025-75906",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2025-02-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-75906.html"
+   },
+   {
+    "id": "gmb-2025-44837",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Dr Jan van Breemenstraat 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-02-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-44837.html"
+   },
+   {
+    "id": "gmb-2023-302069",
+    "titel": "Besluit apv vergunning Verleend - Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2023-07-11",
+    "onderwerp": "Objecten, Dr. Jan van Breemenstraat 1, 18-7-2032 tm 20-7-2023, Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-302069.html"
+   },
+   {
+    "id": "gmb-2023-283247",
+    "titel": "Besluit apv vergunning Verleend - Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2023-06-29",
+    "onderwerp": "Objecten, Dr. Jan van Breemenstraat 1, 4-7-2032 tm 6-7-2023, Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-283247.html"
+   },
+   {
+    "id": "gmb-2023-223009",
+    "titel": "Besluit apv vergunning Verleend - Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2023-05-22",
+    "onderwerp": "Objecten- Dr. Jan van Breemenstraat 1 26-05-2023 t/m 02-06-2023, Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-223009.html"
+   },
+   {
+    "id": "gmb-2022-428291",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-26",
+    "onderwerp": "Verleend: Verlenging exploitatievergunning voor bedrijf De School - Dr Jan van Breemenstraat 1 - 1056AB ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-428291.html"
+   },
+   {
+    "id": "gmb-2022-404545",
+    "titel": "Besluit apv vergunning Verleend Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-09-09",
+    "onderwerp": "TVM 5 vakken, Dr. Jan van Breemenstraat 1, 19-9-2022 tm 23-9-2022, Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-404545.html"
+   },
+   {
+    "id": "gmb-2022-232311",
+    "titel": "Besluit apv vergunning Verleend Dr. Jan van Breemenstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "Objecten, Dr. Jan van Breemenstraat 1, 27-5-2022 tm 10-6-2022, Dr. Jan van Breemenstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-232311.html"
+   },
+   {
+    "id": "stcrt-2017-1413",
+    "titel": "herprofilering Jan van Breemenstraat",
+    "soort": "Verkeersbesluiten",
+    "datum": "2017-01-06",
+    "onderwerp": "herprofilering Jan van Breemenstraat",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-1413.html"
+   },
+   {
+    "id": "stcrt-2010-7211",
+    "titel": "Overzicht van de besluiten Regionale plannen onderwijsvoorzieningen voortgezet onderwijs voor het schooljaar 2010–2011 en later",
+    "soort": "Overig",
+    "datum": "2010-05-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-7211.html"
+   },
+   {
+    "id": "stcrt-2010-3539",
+    "titel": "Ontwerpbesluiten regeling voorzieningenplanning voortgezet onderwijs",
+    "soort": "Overig",
+    "datum": "2010-03-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-3539.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1203BPSTD-VG01",
+   "naam": "Mercatorpark 2013",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 102251,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2101BPGST-VG02",
+   "naam": "Mercatorpark",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2026-02-18",
+   "opp_m2": 108664,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2101BPGST-OW01",
+   "naam": "Mercatorpark",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2023-11-30",
+   "opp_m2": 108668,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2101BPGST-VG01",
+   "naam": "Mercatorpark",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-07-17",
+   "opp_m2": 108668,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 47,
+  "plannen": 1,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 49,
+ "pand_adressen": [
+  "Dr. Jan van Breemenstraat 1A"
+ ]
+}

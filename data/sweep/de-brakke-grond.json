@@ -1,0 +1,873 @@
+{
+ "id": "de-brakke-grond",
+ "naam": "De Brakke Grond",
+ "adres": "Nes 45, 1012 KD Amsterdam",
+ "termen": [
+  "Nes 45",
+  "1012KD",
+  "1012 KD",
+  "De Brakke Grond"
+ ],
+ "pand": "0363100012168529",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 37,
+  "openbaar": 12,
+  "laatste": "2011-05-01",
+  "dossiers": [
+   {
+    "dossier": "SA_104329",
+    "titel": "Nes 49",
+    "datum": "2011-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104329"
+   },
+   {
+    "dossier": "SA_104291",
+    "titel": "Nes 49",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 206,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104291"
+   },
+   {
+    "dossier": "SA_104275",
+    "titel": "Nes 49",
+    "datum": "2010-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104275"
+   },
+   {
+    "dossier": "SA_93956",
+    "titel": "Nes 45",
+    "datum": "2007-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93956"
+   },
+   {
+    "dossier": "SA_93955",
+    "titel": "Nes 45",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 63,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93955"
+   },
+   {
+    "dossier": "SA_14873",
+    "titel": "Nes 43 - 45; Sint Pietershalsteeg 2",
+    "datum": "2005-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14873"
+   },
+   {
+    "dossier": "SA_14865",
+    "titel": "Nes 43 - 45",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14865"
+   },
+   {
+    "dossier": "SA_14398",
+    "titel": "Nes 43 - 45",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14398"
+   },
+   {
+    "dossier": "SA_14867",
+    "titel": "Nes 45",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14867"
+   },
+   {
+    "dossier": "SA_38509",
+    "titel": "Nes 43 A; Sint Pietershalsteeg 3",
+    "datum": "1987-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_38509"
+   },
+   {
+    "dossier": "SA_14813",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1981-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 839,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14813"
+   },
+   {
+    "dossier": "SA_14537",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1980-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14537"
+   },
+   {
+    "dossier": "SA_14768",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1980-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14768"
+   },
+   {
+    "dossier": "SA_14727",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1980-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14727"
+   },
+   {
+    "dossier": "SA_14765",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1980-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14765"
+   },
+   {
+    "dossier": "SA_14716",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14716"
+   },
+   {
+    "dossier": "SA_14708",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14708"
+   },
+   {
+    "dossier": "SA_14725",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14725"
+   },
+   {
+    "dossier": "SA_14720",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 59,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14720"
+   },
+   {
+    "dossier": "SA_14702",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 243,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14702"
+   },
+   {
+    "dossier": "SA_14712",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 110,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14712"
+   },
+   {
+    "dossier": "SA_14695",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14695"
+   },
+   {
+    "dossier": "SA_14693",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14693"
+   },
+   {
+    "dossier": "SA_14690",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14690"
+   },
+   {
+    "dossier": "SA_14683",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1979-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14683"
+   },
+   {
+    "dossier": "SA_14679",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1978-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14679"
+   },
+   {
+    "dossier": "SA_14675",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1978-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14675"
+   },
+   {
+    "dossier": "SA_14523",
+    "titel": "Nes 43 - 49; Oudezijds Voorburgwal 276 - 278; Oudezijds Voorburgwal 280 A - 280 C; Oudezijds Voorburgwal 282; Sint Pietershalsteeg 2 - 16",
+    "datum": "1978-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 476,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14523"
+   },
+   {
+    "dossier": "SA_100644",
+    "titel": "Enge Lombardsteeg 1 - 7; Nes 43 - 55; Nes 43 B; Nes 55 A; Oudezijds Voorburgwal 276 - 290; Rokin 55 - 67; Sint Pietershalsteeg 2 - 12; Wijde Lombardsteeg 3 - 5",
+    "datum": "1957-01-01",
+    "soort": "woningmutatie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100644"
+   },
+   {
+    "dossier": "SA_14496",
+    "titel": "Nes 43 B",
+    "datum": "1948-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14496"
+   },
+   {
+    "dossier": "SA_14479",
+    "titel": "Sint Pietershalsteeg 2; Sint Pietershalsteeg 8 - 12",
+    "datum": "1920-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14479"
+   },
+   {
+    "dossier": "SA_14293",
+    "titel": "Oudezijds Voorburgwal 276",
+    "datum": "1909-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14293"
+   },
+   {
+    "dossier": "SA_14434",
+    "titel": "Oudezijds Voorburgwal 276",
+    "datum": "1909-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14434"
+   },
+   {
+    "dossier": "SA_14436",
+    "titel": "Oudezijds Voorburgwal 276",
+    "datum": "1909-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14436"
+   },
+   {
+    "dossier": "SA_14285",
+    "titel": "Nes 47 - 51",
+    "datum": "1907-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14285"
+   },
+   {
+    "dossier": "SA_14273",
+    "titel": "Enge Lombardsteeg 3; Enge Lombardsteeg 7; Nes 49 - 53",
+    "datum": "1906-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14273"
+   },
+   {
+    "dossier": "SA_53658",
+    "titel": "Nes 43",
+    "datum": "1868-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_53658"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 47,
+  "gezocht": [
+   "Nes 45",
+   "Nes 43",
+   "Nes 47",
+   "Nes 49",
+   "Oudezijds Voorburgwal 276",
+   "Sint Pietershalsteeg 10",
+   "Sint Pietershalsteeg 12",
+   "Sint Pietershalsteeg 14",
+   "Sint Pietershalsteeg 16",
+   "Sint Pietershalsteeg 2",
+   "Sint Pietershalsteeg 4",
+   "Sint Pietershalsteeg 6"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-404214",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Nes 49 1012KD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-18",
+    "onderwerp": "tijdelijk aanbrengen (voor 1 jaar) van een posterframe aan de zijgevel van het gebouw",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-404214.html",
+    "zaak": "Z2025-033216"
+   },
+   {
+    "id": "gmb-2023-523251",
+    "titel": "Mededeling verwijderen gezonken vaartuigen aan Oudezijds Voorburgwal 276 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2023-12-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-523251.html",
+    "zaak": "NT2023-002048"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-404214"
+  ],
+  "zaaknummers": [
+   "Z2025-033216"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2011-7869",
+    "titel": "Derde wijziging van het bestemmingsplan Burgwallen (Nes 49)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2011-05-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2011-7869.html"
+   },
+   {
+    "id": "stcrt-2011-3399",
+    "titel": "Vaststelling 3e wijziging bestemmingsplan Burgwallen (hotel Nes 47–49)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2011-02-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2011-3399.html"
+   },
+   {
+    "id": "stcrt-2010-19922",
+    "titel": "Ontwerp 3e wijziging bestemmingsplan Burgwallen (hotel Nes 47−49)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-12-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-19922.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-304592",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Nes 47 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Nes 47 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-304592.html"
+   },
+   {
+    "id": "gmb-2026-299222",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Nes 45 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nes 45 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-299222.html"
+   },
+   {
+    "id": "gmb-2026-257012",
+    "titel": "Besluit apv vergunning Verleend - Nes ter hoogte van nummer: 45 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-02",
+    "onderwerp": "Object,Nes 45 1012KD, 20260527, Nes ter hoogte van nummer: 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-257012.html"
+   },
+   {
+    "id": "gmb-2026-216518",
+    "titel": "Aanvraag evenementenvergunning Nes 45 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Nes 45 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-216518.html"
+   },
+   {
+    "id": "gmb-2026-188093",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Nes 47 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Nes 47 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-188093.html"
+   },
+   {
+    "id": "gmb-2026-159753",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Nes 43 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nes 43 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159753.html"
+   },
+   {
+    "id": "gmb-2026-144117",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Nes 43 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-03-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Nes 43 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-144117.html"
+   },
+   {
+    "id": "gmb-2026-1131",
+    "titel": "Aanvraag evenementenvergunning Nes 43 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Nes 43 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-1131.html"
+   },
+   {
+    "id": "gmb-2025-225159",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Nes 43 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-05-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Nes 43 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-225159.html"
+   },
+   {
+    "id": "gmb-2025-222528",
+    "titel": "Besluit apv vergunning Verleend - Nes ter hoogte van nummer: 47 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-05-22",
+    "onderwerp": "Upload_TVM stremmen,Object,Afgesloten gebieden,Nes 47 1012KD, 20250526, Nes ter hoogte van nummer: 47",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-222528.html"
+   },
+   {
+    "id": "gmb-2025-31596",
+    "titel": "Besluit apv vergunning Verleend - Nes ter hoogte van nummer: 45 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-01-27",
+    "onderwerp": "Object,Vezip, Nes 45 1012KD, 20250127, Nes ter hoogte van nummer: 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-31596.html"
+   },
+   {
+    "id": "gmb-2024-421620",
+    "titel": "Besluit evenementenvergunning Verleend - Nes 45 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nes 45 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-421620.html"
+   },
+   {
+    "id": "gmb-2024-355836",
+    "titel": "Aanvraag evenementenvergunning Nes 45 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Nes 45 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-355836.html"
+   },
+   {
+    "id": "gmb-2024-64397",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Nes 43 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Nes 43 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-64397.html"
+   },
+   {
+    "id": "gmb-2024-37530",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Nes 43 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-01-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Nes 43 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-37530.html"
+   },
+   {
+    "id": "gmb-2023-556926",
+    "titel": "Besluit apv vergunning Verleend - Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2023-12-27",
+    "onderwerp": "Werkzaamheden en vervoer op straat Nes 45 1012KD, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-556926.html"
+   },
+   {
+    "id": "blg-1116359",
+    "titel": "Duurzaamheidsnotitie",
+    "soort": "Bijlage",
+    "datum": "2023-11-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-1116359.html"
+   },
+   {
+    "id": "gmb-2023-414130",
+    "titel": "Besluit evenementenvergunning Nog niet bekendNes 45 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-28",
+    "onderwerp": "Nog niet bekend: evenementenvergunning ter hoogte van adres Nes 45 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-414130.html"
+   },
+   {
+    "id": "gmb-2023-369518",
+    "titel": "Besluit apv vergunning Verleend - Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2023-08-25",
+    "onderwerp": "OBJ, Nes 45, 29-08-2023 t/m 09-10-2023, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-369518.html"
+   },
+   {
+    "id": "gmb-2023-364578",
+    "titel": "Aanvraag evenementenvergunning Nes 45 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Nes 45 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-364578.html"
+   },
+   {
+    "id": "gmb-2023-137762",
+    "titel": "Besluit apv vergunning Verleend - Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2023-03-30",
+    "onderwerp": "RVV Nes 45, 7-04-2023, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-137762.html"
+   },
+   {
+    "id": "gmb-2023-103893",
+    "titel": "Besluit apv vergunning Verleend - Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2023-03-10",
+    "onderwerp": "obj, Nes 45 , 30-5-2023 t/m 5-6-2023, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-103893.html"
+   },
+   {
+    "id": "gmb-2022-524386",
+    "titel": "Besluit apv vergunning Verleend Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2022-11-25",
+    "onderwerp": "OBJ, Nes 45 tot 49, 16-12 tot 18-12, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-524386.html"
+   },
+   {
+    "id": "gmb-2022-519338",
+    "titel": "Besluit apv vergunning Verleend Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2022-11-22",
+    "onderwerp": "OBJ, Nes 45, 16-12 tot 18-12, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-519338.html"
+   },
+   {
+    "id": "gmb-2022-488731",
+    "titel": "Besluit apv vergunning Verleend Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2022-11-03",
+    "onderwerp": "TVM OBJ - Nes 45 - 21-11-2022 t/m 22-11-2022, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-488731.html"
+   },
+   {
+    "id": "gmb-2022-217118",
+    "titel": "Besluit evenementenvergunning Verleend Nes 45",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-217118.html"
+   },
+   {
+    "id": "gmb-2022-137231",
+    "titel": "Besluit apv vergunning Verleend Nes 43",
+    "soort": "andere vergunning",
+    "datum": "2022-03-29",
+    "onderwerp": "OBV / RVV Nes 43 t/m 45, 4-4-2022 t/m 5-4-2022, Nes 43",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-137231.html"
+   },
+   {
+    "id": "gmb-2022-109762",
+    "titel": "Besluit apv vergunning Verleend Sint Pietershalsteeg 2",
+    "soort": "andere vergunning",
+    "datum": "2022-03-14",
+    "onderwerp": "Object, Sint Pietershalsteeg 2 tot 16, 16-3-2022 t/m 26-4-2022, Sint Pietershalsteeg 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-109762.html"
+   },
+   {
+    "id": "gmb-2022-81577",
+    "titel": "Aanvraag evenementenvergunning Nes 45",
+    "soort": "evenementenvergunning",
+    "datum": "2022-02-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-81577.html"
+   },
+   {
+    "id": "gmb-2022-40125",
+    "titel": "Besluit apv vergunning Verleend Nes 45",
+    "soort": "andere vergunning",
+    "datum": "2022-02-01",
+    "onderwerp": "object, Nes 45 tot 47, 2-2-2022, Nes 45",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-40125.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": " en een kinderdagverblijf, gevarieerd. Halverwege de Nes, een straat met een groot aantal theaters (Brakke Grond, Frascati, de Engelenbak, het comedytheater en het Parooltheater) en enkele horecazaken, ligt het wat verscholen Nesplein. Het plein grenst weliswaar direct aan het theater de Brakke Grond, maar het ontbreekt aan levendigheid. Nieuwe invullingen in het Fortis-gebouw en de aangrenzende Vleeshal moeten hier verandering in brengen. De Nieuwmarkt aan de rand van het plangebied, is Ã©Ã©n van de weinige grote pleinen in de binnenstad en is als open ruimte van belang voor de oostelijke burgwallen. Door de bijzondere ligging, op een overkluizing over de gracht, in de as van d"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.4.html",
+     "tekst": "m>Culturele instellingen In het gebied zijn diverse theaters, musea en tentoonstellingsruimten, zoals de Oude en Nieuwe Kerk, Museum Amstelkring (Ons' Lieve Heer op Solder), Beurs van Berlage, Amsterdam Museum en het Allard Pierson Museum. Aan de Nes liggen meerdere theaters: de Brakke Grond, Frascati, de Engelenbak, het Cosmic Theater en het Vlaams Cultureel Centrum. Het gebied huisvest relatief veel religieuze en levensbeschouwelijke instellingen, zoals de Sint Nicolaaskerk, de Engelse Hervormde Kerk op het Begijnhof, De Papegaai in de Kalverstraat, de Chinese Tempel aan de Zeedijk en het Leger des Heils aan de Oudezijds Achterburgwal. <img id=\"o2793\" "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.4.html",
+     "tekst": "udezijds Achterburgwal. Vlaams Cultureel Centrum en de Brakke Grond Opvangvoorzieningen Het plangebied heeft van oudsher een groot aantal opvangvoorzieningen. Nu zijn er ongeveer twintig en de opvang richt zich met name op verslaafden, dak- en thuislozen of mensen met een meervoudige psychiatrische aandoening. Het Leger des Heils heeft een aantal van de opvangvoorzieningen onder zijn hoede,"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Vervolgonderzoek bereikbaarheid Ameland 2030 Notitie maakbaarheid alternatieven",
+   "datum": "2023-11-09",
+   "door": "ministerie van Infrastructuur en Waterstaat",
+   "url": "https://open.overheid.nl/documenten/dpc-2449122ca3b2d39927dba962c6f9a51458abb395",
+   "fragment": "- weginrichting 2 weken - inrichten van de voorzieningen op het havenhoofd 12 weken - opruimen van het werkterrein 4 weken. De totaal geraamde tijdsduur voor de constructie van de veerdam te Nes komt daarmee op 45 weken. 30  60 ... op palen 61 weken binnendijkse infrastructuur en aanbrengen dijkovergang 27 weken constructie gronddam 24 weken constructie veerdam Nes 45 weken verwijderen bestaande v"
+  },
+  {
+   "titel": "notitie_maakbaarheid_alternatieven_vervolgonderzoek_bereikbaarheid_ameland_2030",
+   "datum": "2024-03-11",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/185971/notitie_maakbaarheid_alternatieven_vervolgonderzoek_bereikbaarheid_ameland_2030.pdf",
+   "fragment": "- weginrichting 2 weken - inrichten van de voorzieningen op het havenhoofd 12 weken - opruimen van het werkterrein 4 weken. De totaal geraamde tijdsduur voor de constructie van de veerdam te Nes komt daarmee op 45 weken. 30  60 ... op palen 61 weken binnendijkse infrastructuur en aanbrengen dijkovergang 27 weken constructie gronddam 24 weken constructie veerdam Nes 45 weken verwijderen bestaande v"
+  },
+  {
+   "titel": "23645, nr. 810 - Notitie Maakbaarheid alternatieven",
+   "datum": "2023-11-15",
+   "door": "Onbekend",
+   "url": "https://zoek.officielebekendmakingen.nl/blg-1116361.html",
+   "fragment": "- weginrichting 2 weken - inrichten van de voorzieningen op het havenhoofd 12 weken - opruimen van het werkterrein 4 weken. De totaal geraamde tijdsduur voor de constructie van de veerdam te Nes komt daarmee op 45 weken. 30  60 ... op palen 61 weken binnendijkse infrastructuur en aanbrengen dijkovergang 27 weken constructie gronddam 24 weken constructie veerdam Nes 45 weken verwijderen bestaande v"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 1,
+  "plannen": 332,
+  "woo": 76
+ },
+ "gescand": [
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/185971/notitie_maakbaarheid_alternatieven_vervolgonderzoek_bereikbaarheid_ameland_2030.pdf",
+   "bron": "woo: notitie_maakbaarheid_alternatieven_vervolgonderzoek_bereikbaarheid_ameland_2030",
+   "fout": "niet te downloaden of te groot"
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0045.jpg"
+ ],
+ "duur_s": 438,
+ "pand_adressen": [
+  "Nes 43",
+  "Nes 45",
+  "Nes 47",
+  "Nes 49",
+  "Oudezijds Voorburgwal 276",
+  "Sint Pietershalsteeg 10",
+  "Sint Pietershalsteeg 12",
+  "Sint Pietershalsteeg 14",
+  "Sint Pietershalsteeg 16",
+  "Sint Pietershalsteeg 2",
+  "Sint Pietershalsteeg 4",
+  "Sint Pietershalsteeg 6"
+ ]
+}

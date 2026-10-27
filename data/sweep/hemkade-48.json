@@ -1,0 +1,1003 @@
+{
+ "id": "hemkade-48",
+ "naam": "Hemkade 48",
+ "adres": "Hemkade 48, 1506 PS Zaandam",
+ "termen": [
+  "Hemkade 48",
+  "1506PS",
+  "1506 PS",
+  "Hemkade 48",
+  "North Sea Venue"
+ ],
+ "pand": "0479100000002782",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 59,
+  "gezocht": [
+   "Hemkade 48",
+   "Hemkade 48A"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-238557",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade (48) te Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Intercell Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238557.html",
+    "zaak": "O2026052356"
+   },
+   {
+    "id": "gmb-2026-236046",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade (48) te Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. History of Hardcore Festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-20",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-236046.html",
+    "zaak": "O2026052073"
+   },
+   {
+    "id": "gmb-2026-123881",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade (48) te zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Intercell Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-123881.html",
+    "zaak": "O2026052356"
+   },
+   {
+    "id": "gmb-2026-123884",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade (48) te zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. History of Hardcore Festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-123884.html",
+    "zaak": "O2026052073"
+   },
+   {
+    "id": "gmb-2026-99432",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Snowbass Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-99432.html",
+    "zaak": "O2025049479"
+   },
+   {
+    "id": "gmb-2026-31733",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken regels omgevingsplan t.b.v. het plaatsen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-26",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31733.html",
+    "zaak": "O2025049682"
+   },
+   {
+    "id": "gmb-2026-33749",
+    "titel": "Geweigerde omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken regels omgevingsplan t.b.v. het plaatsen van een Chill-out tent 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-26",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-33749.html",
+    "zaak": "O2025049682"
+   },
+   {
+    "id": "gmb-2026-30850",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Snowbass Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-30850.html",
+    "zaak": "O2025049479"
+   },
+   {
+    "id": "gmb-2025-140596",
+    "titel": "Intrekking aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het omgevingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-140596.html",
+    "zaak": "O2025039403"
+   },
+   {
+    "id": "gmb-2025-95759",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade 48, 1506 PS Zaandam, Hemkade 48 Zaandam - het  afwijken van bestemmingsplan d.m.v plaatsen van een Chill-out tent 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-06",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-95759.html",
+    "zaak": "O2024036737"
+   },
+   {
+    "id": "gmb-2025-77105",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-77105.html",
+    "zaak": "O2025039403"
+   },
+   {
+    "id": "gmb-2025-32855",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het  afwijken van bestemmingsplan d.m.v plaatsen van een Chill-out tent 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-32855.html",
+    "zaak": "O2024036737"
+   },
+   {
+    "id": "gmb-2025-31103",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Locatie Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-31103.html",
+    "zaak": "O2024035905"
+   },
+   {
+    "id": "gmb-2025-11534",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - techn - het intern verbouwen van het gebouw door het wijzigen van de",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-11534.html",
+    "zaak": "O2024037894"
+   },
+   {
+    "id": "gmb-2024-545110",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het  afwijken van bestemmingsplan d.m.v plaatsen van een Chill-out tent 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-545110.html",
+    "zaak": "O2024036737"
+   },
+   {
+    "id": "gmb-2024-471079",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-471079.html",
+    "zaak": "O2024035905"
+   },
+   {
+    "id": "gmb-2024-362480",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het legaliseren van  luchtbehandeling-units",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-22",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-362480.html",
+    "zaak": "O2024033392"
+   },
+   {
+    "id": "gmb-2024-347411",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - hemkade 48 te Zaandam - het legaliseren van een bestaande schutting",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-347411.html",
+    "zaak": "O2024028422"
+   },
+   {
+    "id": "gmb-2024-281181",
+    "titel": "Verleende omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-27",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-281181.html",
+    "zaak": "O2024029801"
+   },
+   {
+    "id": "gmb-2024-174897",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het uitbouwen met een ontvangstruimte middels industriële horecatent, een ruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174897.html",
+    "zaak": "O2022011676"
+   },
+   {
+    "id": "gmb-2024-174900",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het uitbouwen met een ontvangstruimte middels industriële horecatent, een ruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174900.html",
+    "zaak": "O2022011676"
+   },
+   {
+    "id": "gmb-2024-172862",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-172862.html",
+    "zaak": "O2024029801"
+   },
+   {
+    "id": "gmb-2024-115353",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het plaatsen van airco units op het dak van een bedrijfspand",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-14",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-115353.html",
+    "zaak": "O2024029345"
+   },
+   {
+    "id": "gmb-2024-65100",
+    "titel": "Aanvraag omgevingsvergunning - Schutting Hemkade 48 - het legaliseren van een bestaande schutting",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-12",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-65100.html",
+    "zaak": "O2024028422"
+   },
+   {
+    "id": "gmb-2024-46413",
+    "titel": "Verleende omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-46413.html",
+    "zaak": "O2023025958"
+   },
+   {
+    "id": "gmb-2024-43418",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het aanvragen van  een Chill-out tent",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-26",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-43418.html",
+    "zaak": "O2024027679"
+   },
+   {
+    "id": "gmb-2024-34563",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-22",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-34563.html",
+    "zaak": "O2023025958"
+   },
+   {
+    "id": "gmb-2023-536546",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-15",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-536546.html",
+    "zaak": "O2023025958"
+   },
+   {
+    "id": "gmb-2023-453645",
+    "titel": "Verleende omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-24",
+    "onderwerp": "en voor het plaatsen van podia, tenten, en overige gebruiksfaciliteiten, één en ander ten behoeve van Gabberland ADE Festival op 21 oktober 2023 met de daarbij behorende opbouw op 16 oktober 2023 en de afbouw op 22 oktober 2023",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-453645.html",
+    "zaak": "O2023023397"
+   },
+   {
+    "id": "gmb-2023-408770",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-25",
+    "onderwerp": "en voor het plaatsen van podia, tenten, en overige gebruiksfaciliteiten, één en ander ten behoeve van Gabberland ADE Festival op 21 oktober 2023 met de daarbij behorende opbouw op 16 oktober 2023 en de afbouw op 22 oktober 2023 ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-408770.html",
+    "zaak": "O2023023397"
+   },
+   {
+    "id": "gmb-2023-240577",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-02",
+    "onderwerp": "",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-240577.html",
+    "zaak": "O2023020487"
+   },
+   {
+    "id": "gmb-2023-178938",
+    "titel": "rectificatie",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-178938.html"
+   },
+   {
+    "id": "gmb-2023-108014",
+    "titel": "Verleende omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-108014.html",
+    "zaak": "O2022015335"
+   },
+   {
+    "id": "gmb-2023-97205",
+    "titel": "Verleende omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-07",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-97205.html",
+    "zaak": "O2022015333"
+   },
+   {
+    "id": "gmb-2023-96003",
+    "titel": "Verleende omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-06",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-96003.html",
+    "zaak": "O2023016839"
+   },
+   {
+    "id": "gmb-2023-86146",
+    "titel": "Verleende omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-28",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-86146.html",
+    "zaak": "O2022015322"
+   },
+   {
+    "id": "gmb-2023-80715",
+    "titel": "Verleende omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-23",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-80715.html",
+    "zaak": "O2022011283"
+   },
+   {
+    "id": "gmb-2023-61806",
+    "titel": "Verlenging beslistermijn omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-61806.html",
+    "zaak": "O2022015335"
+   },
+   {
+    "id": "gmb-2023-62500",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-62500.html",
+    "zaak": "O2022015333"
+   },
+   {
+    "id": "gmb-2023-62507",
+    "titel": "Verlenging beslistermijn omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-62507.html",
+    "zaak": "O2022015333"
+   },
+   {
+    "id": "gmb-2023-61783",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-61783.html",
+    "zaak": "O2022015335"
+   },
+   {
+    "id": "gmb-2023-47821",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-03",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-47821.html",
+    "zaak": "O2023016061"
+   },
+   {
+    "id": "gmb-2023-40643",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-31",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-40643.html",
+    "zaak": "O2022015322"
+   },
+   {
+    "id": "gmb-2022-452931",
+    "titel": "Publiceren aanvraag",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-452931.html",
+    "zaak": "O2022011676"
+   },
+   {
+    "id": "gmb-2022-418523",
+    "titel": "Publiceren aanvraag",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-19",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-418523.html",
+    "zaak": "O2022011283"
+   },
+   {
+    "id": "gmb-2022-140645",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement 18HRS festival op 26 maart 2022 en voor plaatsen podia, tenten, en overige gebruiksfaciliteiten (periode 15 maart 2022 t/m 28 maart 2022 Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-140645.html"
+   },
+   {
+    "id": "gmb-2022-140620",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement Showbass festival op 19 maart 2022 en voor plaatsen podia, tenten, marktkramen en overige gebruiksfaciliteiten (periode 15 maart 2022 t/m 28 maart 2022)Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-140620.html"
+   },
+   {
+    "id": "gmb-2022-128552",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement Showbass festival op 19 maart 2022 en voor plaatsen podia, tenten, marktkramen en overige gebruiksfaciliteiten Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-128552.html"
+   },
+   {
+    "id": "gmb-2022-128572",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement 18HRS festival op 26 maart 2022 en voor plaatsen podia, tenten, en overige gebruiksfaciliteiten Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-128572.html"
+   },
+   {
+    "id": "gmb-2022-12383",
+    "titel": "Aanvragen omgevingsvergunning voor het het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement en voor het plaatsen van podia, tenten, marktkramen en overige gebruiksfaciliteiten, één en ander tbv het evenement Showbass festival op 19 maart 2022 Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-12",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-12383.html"
+   },
+   {
+    "id": "gmb-2021-480331",
+    "titel": "Aanvragen omgevingsvergunning voor het tijdelijk afwijken van het bestemmingsplan voor evenement, plaatsen podia, tenten en overige gebruiksfaciliteiten tbv 18HRS Festival (26 maart 2022) Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-29",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-480331.html"
+   },
+   {
+    "id": "wsb-2021-5178",
+    "titel": "21.0515065 verleende vergunning voor het hebben van 2 hekwerken op de waterkering bij Hemkade 48 in Zaandam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-29",
+    "onderwerp": "het hebben van 2 hekwerken op de waterkering bij Hemkade 48 in Zaandam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2021-5178.html"
+   },
+   {
+    "id": "wsb-2020-2953",
+    "titel": "20.0053982 verleende vergunning voor het in open ontgraving aanleggen van elektrakabels in de kernzone-, en lengterichting van de regionale waterkering bij Hemkade 48 Zaandam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-03-23",
+    "onderwerp": "het in open ontgraving aanleggen van elektrakabels in de kernzone-, en lengterichting van de regionale waterkering bij Hemkade 48 Zaandam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2020-2953.html"
+   },
+   {
+    "id": "wsb-2019-13496",
+    "titel": "19.2885732 verleende vergunning voor het in open ontgraving leggen van een kabel waarbij regionale waterkeringen worden gekruist bij Hemkade 48 in Zaandam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-12-24",
+    "onderwerp": "het in open ontgraving leggen van een kabel waarbij regionale waterkeringen worden gekruist bij Hemkade 48 in Zaandam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2019-13496.html"
+   },
+   {
+    "id": "wsb-2019-6780",
+    "titel": "19.1243656 verleende vergunning voor het in open ontgraving aanleggen van een waterleiding en elektrakabel in de lengterichting van de waterkering bij Hemkade 48 in Zaandam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-06-19",
+    "onderwerp": "het in open ontgraving aanleggen van een waterleiding en elektrakabel in de lengterichting van de waterkering bij Hemkade 48 in Zaandam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2019-6780.html"
+   },
+   {
+    "id": "wsb-2019-1150",
+    "titel": "19.0128331 verleende vergunning voor het tijdelijk plaatsen van een container nabij de regionale waterkering bij Hemkade 48 in Zaandam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-02-04",
+    "onderwerp": "het tijdelijk plaatsen van een container nabij de regionale waterkering bij Hemkade 48 in Zaandam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2019-1150.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-123881",
+   "gmb-2026-123884",
+   "gmb-2026-31733",
+   "gmb-2026-30850",
+   "gmb-2025-140596",
+   "gmb-2025-77105",
+   "gmb-2025-11534",
+   "gmb-2024-545110",
+   "gmb-2024-471079",
+   "gmb-2024-362480",
+   "gmb-2024-172862",
+   "gmb-2024-115353",
+   "gmb-2024-65100",
+   "gmb-2024-43418",
+   "gmb-2023-536546",
+   "gmb-2023-408770",
+   "gmb-2023-240577",
+   "gmb-2023-62500",
+   "gmb-2023-61783",
+   "gmb-2023-47821",
+   "gmb-2023-40643",
+   "gmb-2022-452931",
+   "gmb-2022-418523"
+  ],
+  "zaaknummers": [
+   "O2022011283",
+   "O2022011676",
+   "O2022015322",
+   "O2022015333",
+   "O2022015335",
+   "O2023016061",
+   "O2023020487",
+   "O2023023397",
+   "O2023025958",
+   "O2024027679",
+   "O2024028422",
+   "O2024029345",
+   "O2024029801",
+   "O2024033392",
+   "O2024035905",
+   "O2024036737",
+   "O2024037894",
+   "O2025039403",
+   "O2025049479",
+   "O2025049682",
+   "O2026052073",
+   "O2026052356"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-238557",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade (48) te Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Intercell Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238557.html",
+    "zaak": "O2026052356"
+   },
+   {
+    "id": "gmb-2026-236046",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade (48) te Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. History of Hardcore Festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-20",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-236046.html",
+    "zaak": "O2026052073"
+   },
+   {
+    "id": "gmb-2026-123881",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade (48) te zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Intercell Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-123881.html",
+    "zaak": "O2026052356"
+   },
+   {
+    "id": "gmb-2026-123884",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade (48) te zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. History of Hardcore Festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-123884.html",
+    "zaak": "O2026052073"
+   },
+   {
+    "id": "gmb-2026-99432",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Snowbass Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-99432.html",
+    "zaak": "O2025049479"
+   },
+   {
+    "id": "gmb-2026-31733",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken regels omgevingsplan t.b.v. het plaatsen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-26",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31733.html",
+    "zaak": "O2025049682"
+   },
+   {
+    "id": "gmb-2026-33749",
+    "titel": "Geweigerde omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken regels omgevingsplan t.b.v. het plaatsen van een Chill-out tent 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-26",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-33749.html",
+    "zaak": "O2025049682"
+   },
+   {
+    "id": "gmb-2026-30850",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Snowbass Festival 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-30850.html",
+    "zaak": "O2025049479"
+   },
+   {
+    "id": "gmb-2025-140596",
+    "titel": "Intrekking aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het omgevingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-140596.html",
+    "zaak": "O2025039403"
+   },
+   {
+    "id": "gmb-2025-95759",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade 48, 1506 PS Zaandam, Hemkade 48 Zaandam - het  afwijken van bestemmingsplan d.m.v plaatsen van een Chill-out tent 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-06",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-95759.html",
+    "zaak": "O2024036737"
+   },
+   {
+    "id": "gmb-2025-77105",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-77105.html",
+    "zaak": "O2025039403"
+   },
+   {
+    "id": "gmb-2025-32855",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het  afwijken van bestemmingsplan d.m.v plaatsen van een Chill-out tent 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-32855.html",
+    "zaak": "O2024036737"
+   },
+   {
+    "id": "gmb-2025-31103",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - Locatie Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-31103.html",
+    "zaak": "O2024035905"
+   },
+   {
+    "id": "gmb-2024-545110",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het  afwijken van bestemmingsplan d.m.v plaatsen van een Chill-out tent 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-545110.html",
+    "zaak": "O2024036737"
+   },
+   {
+    "id": "gmb-2024-471079",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-471079.html",
+    "zaak": "O2024035905"
+   },
+   {
+    "id": "gmb-2024-347411",
+    "titel": "Buitenplanse Omgevingsplanactiviteit Regulier - hemkade 48 te Zaandam - het legaliseren van een bestaande schutting",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-347411.html",
+    "zaak": "O2024028422"
+   },
+   {
+    "id": "gmb-2024-281181",
+    "titel": "Verleende omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-27",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-281181.html",
+    "zaak": "O2024029801"
+   },
+   {
+    "id": "gmb-2024-172862",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-172862.html",
+    "zaak": "O2024029801"
+   },
+   {
+    "id": "gmb-2024-46413",
+    "titel": "Verleende omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-46413.html",
+    "zaak": "O2023025958"
+   },
+   {
+    "id": "gmb-2024-34563",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-22",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-34563.html",
+    "zaak": "O2023025958"
+   },
+   {
+    "id": "gmb-2023-536546",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-15",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-536546.html",
+    "zaak": "O2023025958"
+   },
+   {
+    "id": "gmb-2023-453645",
+    "titel": "Verleende omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-24",
+    "onderwerp": "en voor het plaatsen van podia, tenten, en overige gebruiksfaciliteiten, één en ander ten behoeve van Gabberland ADE Festival op 21 oktober 2023 met de daarbij behorende opbouw op 16 oktober 2023 en de afbouw op 22 oktober 2023",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-453645.html",
+    "zaak": "O2023023397"
+   },
+   {
+    "id": "gmb-2023-408770",
+    "titel": "Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-25",
+    "onderwerp": "en voor het plaatsen van podia, tenten, en overige gebruiksfaciliteiten, één en ander ten behoeve van Gabberland ADE Festival op 21 oktober 2023 met de daarbij behorende opbouw op 16 oktober 2023 en de afbouw op 22 oktober 2023 ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-408770.html",
+    "zaak": "O2023023397"
+   },
+   {
+    "id": "gmb-2022-140645",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement 18HRS festival op 26 maart 2022 en voor plaatsen podia, tenten, en overige gebruiksfaciliteiten (periode 15 maart 2022 t/m 28 maart 2022 Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-140645.html"
+   },
+   {
+    "id": "gmb-2022-140620",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement Showbass festival op 19 maart 2022 en voor plaatsen podia, tenten, marktkramen en overige gebruiksfaciliteiten (periode 15 maart 2022 t/m 28 maart 2022)Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-140620.html"
+   },
+   {
+    "id": "gmb-2022-128552",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement Showbass festival op 19 maart 2022 en voor plaatsen podia, tenten, marktkramen en overige gebruiksfaciliteiten Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-128552.html"
+   },
+   {
+    "id": "gmb-2022-128572",
+    "titel": "Verleende omgevingsvergunningen reguliere voorbereidingsprocedure voor het tijdelijk afwijken bestemmingsplan voor houden evenement 18HRS festival op 26 maart 2022 en voor plaatsen podia, tenten, en overige gebruiksfaciliteiten Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-128572.html"
+   },
+   {
+    "id": "gmb-2022-12383",
+    "titel": "Aanvragen omgevingsvergunning voor het het tijdelijk afwijken van het bestemmingsplan voor het houden van een evenement en voor het plaatsen van podia, tenten, marktkramen en overige gebruiksfaciliteiten, één en ander tbv het evenement Showbass festival op 19 maart 2022 Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-12",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-12383.html"
+   },
+   {
+    "id": "gmb-2021-480331",
+    "titel": "Aanvragen omgevingsvergunning voor het tijdelijk afwijken van het bestemmingsplan voor evenement, plaatsen podia, tenten en overige gebruiksfaciliteiten tbv 18HRS Festival (26 maart 2022) Hemkade 48 Zaandam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-29",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-480331.html"
+   },
+   {
+    "id": "stcrt-2015-11137",
+    "titel": "Vaststelling bestemmingsplan ‘Reparatie bestemmingsplan Bedrijven Zuid’, Zaanstad",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2015-04-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-11137.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-402985",
+    "titel": "Melding graven bodem - Nabij Hemkade 50 Zaandam , 30 meter richting westen",
+    "soort": "omgevingsmelding",
+    "datum": "2026-08-27",
+    "onderwerp": "261033967 Hemkade 48-51 e.o. Zaandam (o.w.)",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-402985.html"
+   },
+   {
+    "id": "wsb-2023-682",
+    "titel": "23.0008056 verleende vergunning voor het hebben van een hekwerk binnen de zonering van de regionale waterkering ter hoogte van Hemkade 48 in Zaandam",
+    "soort": "andere vergunning",
+    "datum": "2023-01-19",
+    "onderwerp": "het hebben van een hekwerk binnen de zonering van de regionale waterkering ter hoogte van Hemkade 48 in Zaandam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2023-682.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 45,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238557.pdf",
+   "bron": "bekendmaking gmb-2026-238557: Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade (48) te Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Intercell Festival 2026",
+   "fout": "niet te downloaden of te groot"
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-236046.pdf",
+   "bron": "bekendmaking gmb-2026-236046: Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade (48) te Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. History of Hardcore Festival",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-123881.pdf",
+   "bron": "bekendmaking gmb-2026-123881: Aanvraag omgevingsvergunning - Hemkade (48) te zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Intercell Festival 2026",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-123884.pdf",
+   "bron": "bekendmaking gmb-2026-123884: Aanvraag omgevingsvergunning - Hemkade (48) te zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. History of Hardcore Festival",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-99432.pdf",
+   "bron": "bekendmaking gmb-2026-99432: Buitenplanse Omgevingsplanactiviteit Regulier - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken van regels omgevingsplan t.b.v. Snowbass Festival 2026",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31733.pdf",
+   "bron": "bekendmaking gmb-2026-31733: Aanvraag omgevingsvergunning - Hemkade 48, 1506 PS Zaandam - tijdelijk afwijken regels omgevingsplan t.b.v. het plaatsen",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 50,
+ "pand_adressen": [
+  "Hemkade 48A"
+ ]
+}

@@ -1,0 +1,1659 @@
+{
+ "id": "club-church",
+ "naam": "Club Church",
+ "adres": "Kerkstraat 52, 1017 GM Amsterdam",
+ "termen": [
+  "Kerkstraat 52",
+  "1017GM",
+  "1017 GM",
+  "Club Church"
+ ],
+ "pand": "0363100012172459",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 46,
+  "openbaar": 46,
+  "laatste": "2012-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_103277",
+    "titel": "Leidsestraat 69 A - 69 G; Leidsestraat 69 K - 69 L",
+    "datum": "2012-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_103277"
+   },
+   {
+    "dossier": "SA_46838",
+    "titel": "Kerkstraat 50 A; Leidsestraat 67 - 69",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46838"
+   },
+   {
+    "dossier": "SA_46836",
+    "titel": "Kerkstraat 50 A - 50 B; Kerkstraat 52",
+    "datum": "2007-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46836"
+   },
+   {
+    "dossier": "SA_46825",
+    "titel": "Leidsestraat 67; Leidsestraat 69 1; Leidsestraat 69 3-V - 69 3-A; Leidsestraat 71",
+    "datum": "2007-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46825"
+   },
+   {
+    "dossier": "SA_46817",
+    "titel": "Kerkstraat 50 A - 50 B; Kerkstraat 52",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46817"
+   },
+   {
+    "dossier": "SA_46667",
+    "titel": "Kerkstraat 50 A - 50 C; Kerkstraat 52",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46667"
+   },
+   {
+    "dossier": "SA_46816",
+    "titel": "Kerkstraat 50 A - 50 B; Kerkstraat 52",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46816"
+   },
+   {
+    "dossier": "SA_46812",
+    "titel": "Kerkstraat 50 - 52; Leidsestraat 67 - 71",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46812"
+   },
+   {
+    "dossier": "SA_46807",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "2002-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46807"
+   },
+   {
+    "dossier": "SA_46798",
+    "titel": "Kerkstraat 50 - 52",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46798"
+   },
+   {
+    "dossier": "SA_46800",
+    "titel": "Kerkstraat 50 - 52",
+    "datum": "2000-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46800"
+   },
+   {
+    "dossier": "SA_46495",
+    "titel": "Leidsestraat 67; Leidsestraat 71",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46495"
+   },
+   {
+    "dossier": "SA_46786",
+    "titel": "Kerkstraat 50",
+    "datum": "1998-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46786"
+   },
+   {
+    "dossier": "SA_46781",
+    "titel": "Kerkstraat 50 - 52",
+    "datum": "1997-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46781"
+   },
+   {
+    "dossier": "SA_46778",
+    "titel": "Kerkstraat 50 - 52",
+    "datum": "1996-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46778"
+   },
+   {
+    "dossier": "SA_46525",
+    "titel": "Kerkstraat 50 - 52",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46525"
+   },
+   {
+    "dossier": "SA_46493",
+    "titel": "Leidsestraat 67",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46493"
+   },
+   {
+    "dossier": "SA_46500",
+    "titel": "Kerkstraat 50 - 52; Leidsestraat 67; Leidsestraat 71 - 73",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46500"
+   },
+   {
+    "dossier": "SA_46514",
+    "titel": "Leidsestraat 67",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46514"
+   },
+   {
+    "dossier": "SA_46448",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46448"
+   },
+   {
+    "dossier": "SA_46436",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1974-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46436"
+   },
+   {
+    "dossier": "SA_46433",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46433"
+   },
+   {
+    "dossier": "SA_46423",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1971-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46423"
+   },
+   {
+    "dossier": "SA_46363",
+    "titel": "Kerkstraat 50 - 52; Leidsestraat 67 - 71",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46363"
+   },
+   {
+    "dossier": "SA_46426",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46426"
+   },
+   {
+    "dossier": "SA_46401",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46401"
+   },
+   {
+    "dossier": "SA_46418",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46418"
+   },
+   {
+    "dossier": "SA_47261",
+    "titel": "Kerkstraat 46 - 52",
+    "datum": "1964-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_47261"
+   },
+   {
+    "dossier": "SA_46408",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1962-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46408"
+   },
+   {
+    "dossier": "SA_46403",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1962-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46403"
+   },
+   {
+    "dossier": "SA_46415",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1961-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46415"
+   },
+   {
+    "dossier": "SA_46396",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1961-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46396"
+   },
+   {
+    "dossier": "SA_46358",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1958-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46358"
+   },
+   {
+    "dossier": "SA_46345",
+    "titel": "Leidsestraat 67; Leidsestraat 71",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46345"
+   },
+   {
+    "dossier": "SA_46351",
+    "titel": "Leidsestraat 69 - 71",
+    "datum": "1958-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46351"
+   },
+   {
+    "dossier": "SA_46359",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1955-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46359"
+   },
+   {
+    "dossier": "SA_46349",
+    "titel": "Leidsestraat 67 - 71",
+    "datum": "1946-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46349"
+   },
+   {
+    "dossier": "SA_46304",
+    "titel": "Kerkstraat 50 - 52; Leidsestraat 67; Leidsestraat 71",
+    "datum": "1939-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46304"
+   },
+   {
+    "dossier": "SA_46335",
+    "titel": "Kerkstraat 50 - 52; Leidsestraat 67 - 71",
+    "datum": "1939-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46335"
+   },
+   {
+    "dossier": "SA_46242",
+    "titel": "Kerkstraat 50 - 52; Leidsestraat 67 - 71",
+    "datum": "1937-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 122,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46242"
+   },
+   {
+    "dossier": "SA_46219",
+    "titel": "Kerkstraat 50; Leidsestraat 67; Leidsestraat 71",
+    "datum": "1925-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46219"
+   },
+   {
+    "dossier": "SA_46166",
+    "titel": "Kerkstraat 50; Leidsestraat 67; Leidsestraat 71",
+    "datum": "1925-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46166"
+   },
+   {
+    "dossier": "SA_46227",
+    "titel": "Kerkstraat 50",
+    "datum": "1925-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46227"
+   },
+   {
+    "dossier": "SA_46333",
+    "titel": "Kerkstraat 50",
+    "datum": "1925-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46333"
+   },
+   {
+    "dossier": "SA_46176",
+    "titel": "Kerkstraat 50; Leidsestraat 67; Leidsestraat 71",
+    "datum": "1925-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 268,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46176"
+   },
+   {
+    "dossier": "SA_46321",
+    "titel": "Kerkstraat 52",
+    "datum": "1908-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46321"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 124,
+  "gezocht": [
+   "Kerkstraat 52",
+   "Kerkstraat 50A",
+   "Kerkstraat 50B",
+   "Leidsestraat 67",
+   "Leidsestraat 69A",
+   "Leidsestraat 69B",
+   "Leidsestraat 69C",
+   "Leidsestraat 69D",
+   "Leidsestraat 69E",
+   "Leidsestraat 69F",
+   "Leidsestraat 69G",
+   "Leidsestraat 69K"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-291770",
+    "titel": "Toestemming het plaatsen van zonnepanelen en een dakraam op het adres Kerkstraat 52, 2223 AK Katwijk, Kerkstraat 54, 2223 AK Katwijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-18",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-291770.html",
+    "zaak": "05374011910"
+   },
+   {
+    "id": "gmb-2026-291543",
+    "titel": "Gemeente Renswoude – Aangevraagde omgevingsvergunning – Het kappen van bomen t.b.v. 30 tijdelijke woningen ter hoogte van Kerkstraat – t.p.v. het project binnen de beken zuid- zuid west",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-18",
+    "onderwerp": "",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-291543.html"
+   },
+   {
+    "id": "gmb-2026-240736",
+    "titel": "Lange Kerkstraat 52, 4461JJ Goes - Besluit op aanvraag omgevingsvergunning voor het verbouwen van een pand tot winkel en 2 appartementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "Lange Kerkstraat 52, 4461JJ Goes - Besluit op aanvraag omgevingsvergunning voor het verbouwen van een pand tot winkel en 2 appartementen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-240736.html",
+    "zaak": "Rx.Mission zaak Z2026-00003477"
+   },
+   {
+    "id": "gmb-2026-216727",
+    "titel": "Aanvraag omgevingsvergunning voor het plaatsen van zonnepanelen en een dakraam op het adres Kerkstraat 52, 2223 AK Katwijk, Kerkstraat 54, 2223 AK Katwijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-07",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-216727.html",
+    "zaak": "05374011910"
+   },
+   {
+    "id": "gmb-2026-210404",
+    "titel": "Gemeente Altena - Verlengen beslistermijn omgevingsvergunning voor  het omzetten van de agrarische bestemming naar een woonbestemming aan Kerkstraat 52, 4273 CC Hank",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-04",
+    "onderwerp": "het omzetten van de agrarische bestemming naar een woonbestemming",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-210404.html",
+    "zaak": "2026-012594"
+   },
+   {
+    "id": "gmb-2026-127692",
+    "titel": "Gemeente Altena - Aanvraag vergunning voor  het omzetten van de agrarische bestemming naar een woonbestemming locatie Kerkstraat 52, 4273 CC Hank",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-19",
+    "onderwerp": "het omzetten van de agrarische bestemming naar een woonbestemming",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-127692.html",
+    "zaak": "2026-012594"
+   },
+   {
+    "id": "gmb-2026-59685",
+    "titel": "Kerkstraat 50B, Omgevingsvergunning, renoveren bedrijfswoning",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-59685.html",
+    "zaak": "079618790356"
+   },
+   {
+    "id": "gmb-2026-24755",
+    "titel": "Lange Kerkstraat 52, 4461JJ Goes - Aanvraag omgevingsvergunning voor het verbouwen van een pand tot winkel en 2 appartementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-21",
+    "onderwerp": "Lange Kerkstraat 52, 4461JJ Goes - Aanvraag omgevingsvergunning voor het verbouwen van een pand tot winkel en 2 appartementen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-24755.html",
+    "zaak": "Rx.Mission zaak Z2026-00003477"
+   },
+   {
+    "id": "gmb-2025-439587",
+    "titel": "Verleende omgevingsvergunning reguliere voorbereidingsprocedure, Kerkstraat 52 in Oud Gastel",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-15",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-439587.html",
+    "zaak": "1329453 "
+   },
+   {
+    "id": "gmb-2025-426929",
+    "titel": "Ontvangen aanvraag voor een omgevingsvergunning , Kerkstraat 52 in Oud Gastel",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-08",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-426929.html",
+    "zaak": "1329453"
+   },
+   {
+    "id": "gmb-2025-372089",
+    "titel": "Besluit voor het kappen van een berk en een es aan de Kerkstraat 52, 6996AJ Drempt",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-27",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 52, 6996AJ Drempt",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-372089.html",
+    "zaak": "Rx.Mission zaak Z2025-2830"
+   },
+   {
+    "id": "gmb-2025-323719",
+    "titel": "Aanvraag vergunning voor het kappen van een berk en een es aan de Kerkstraat 52, 6996AJ Drempt",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-23",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 52, 6996AJ Drempt",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-323719.html",
+    "zaak": "Rx.Mission zaak Z2025-2830"
+   },
+   {
+    "id": "gmb-2025-297239",
+    "titel": "Besluit omgevingsvergunning reguliere procedure gedeeltelijk verleend Leidsestraat 67 1017NX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "wijzigen van de gevel en het renoveren van de kelder, begane grond en 1ste verdieping tbv de winkelfunctie en het wijzigen van de entree v/d woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-297239.html",
+    "zaak": "Z2025-012010"
+   },
+   {
+    "id": "gmb-2025-228859",
+    "titel": "Gemeente Wassenaar - aangevraagde omgevingsvergunning: het plaatsen van zonnepanelen - Kerkstraat 52, Wassenaar - Z/25/100254",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-26",
+    "onderwerp": "Gemeente Wassenaar - aangevraagde omgevingsvergunning: het plaatsen van zonnepanelen - Kerkstraat 52, Wassenaar - Z/25/100254",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-228859.html",
+    "zaak": "2025/1368"
+   },
+   {
+    "id": "gmb-2025-219337",
+    "titel": "Definitief besluit omgevingsvergunning, Clinge, Kerkstraat ongenummerd, kadastraal bekend als HUL00 R 1956, Kerkstraat 52, Clinge",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-20",
+    "onderwerp": "Toestemming voor 0677756262 een tijdelijke woning plaatsen aan Clinge, Kerkstraat ongenummerd, kadastraal bekend als HUL00 R 1956, Kerkstraat 52, Clinge",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-219337.html",
+    "zaak": "0677756262"
+   },
+   {
+    "id": "gmb-2025-155467",
+    "titel": "Aanvraag omgevingsvergunning Leidsestraat 67 1017NX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-09",
+    "onderwerp": "wijzigen van de gevel en het renoveren van de kelder, begane grond en 1ste verdieping tbv de winkelfunctie en het wijzigen van de entree v/d woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-155467.html",
+    "zaak": "Z2025-012010"
+   },
+   {
+    "id": "gmb-2025-67834",
+    "titel": "Besluit nummeraanduiding (huisnummer) - Toekenning",
+    "soort": "andere beschikking",
+    "datum": "2025-02-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-67834.html",
+    "zaak": "20250212"
+   },
+   {
+    "id": "gmb-2024-516675",
+    "titel": "Verleende omgevingsvergunning, Kerkstraat 52 Haaren, het uitbreiden van een woonhuis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-11",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-516675.html",
+    "zaak": "1028935"
+   },
+   {
+    "id": "gmb-2024-504838",
+    "titel": "Aangevraagde omgevingsvergunning, Kerkstraat 52 Haaren, het uitbreiden van een woonhuis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-04",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-504838.html",
+    "zaak": "1028935"
+   },
+   {
+    "id": "gmb-2024-491575",
+    "titel": "Kennisgeving besluit toekenning huisnummer Kerkstraat 52, Clinge",
+    "soort": "andere beschikking",
+    "datum": "2024-11-22",
+    "onderwerp": "Kennisgeving besluit toekennen huisnummer Kerkstraat 52, Clinge (tijdelijke woonunit)",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-491575.html",
+    "zaak": "0677756373"
+   },
+   {
+    "id": "gmb-2024-488115",
+    "titel": "Toestemming voor het vervangen van de ruiten naar monumentenglas aan Kerkstraat 52 te Monnickendam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-21",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-488115.html"
+   },
+   {
+    "id": "gmb-2024-393206",
+    "titel": "Rectificatie: Besluit nummeraanduiding (huisnummer) – Omgevingsvergunning Kerkstraat",
+    "soort": "andere beschikking",
+    "datum": "2024-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-393206.html",
+    "zaak": "719718"
+   },
+   {
+    "id": "gmb-2024-325597",
+    "titel": "Aanvraag vergunning voor het vervangen van de ruiten naar monumentenglas op locatie Kerkstraat 52 te Monnickendam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-25",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-325597.html",
+    "zaak": "Z2024-0388"
+   },
+   {
+    "id": "gmb-2024-114867",
+    "titel": "Aanvraag vergunning voor het vervangen van de ruiten naar monumentenglas aan Kerkstraat 52 te Monnickendam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-14",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-114867.html",
+    "zaak": "Z2024-0123"
+   },
+   {
+    "id": "gmb-2023-390060",
+    "titel": "Gemeente Beuningen – omgevingsvergunning buiten behandeling stellen - OLO 7921565 - Kerkstraat 50a Weurt.",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-11",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-390060.html"
+   },
+   {
+    "id": "gmb-2023-304717",
+    "titel": "Gemeente Beuningen– aanvraag omgevingsvergunning – OLO 7921565 - Kerkstraat 50a Weurt",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-304717.html"
+   },
+   {
+    "id": "gmb-2023-139839",
+    "titel": "Verleende omgevingsvergunning met reguliere procedure voor het vervangen van de kozijnen aan de Kerkstraat 52 in  Vollenhove",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-04",
+    "onderwerp": "het vervangen van de kozijnen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-139839.html",
+    "zaak": "Z2023-00002843"
+   },
+   {
+    "id": "gmb-2023-117958",
+    "titel": "Aanvraag omgevingsvergunning voor het vervangen van de kozijnen aan de Kerkstraat 52 in Vollenhove",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-21",
+    "onderwerp": "het vervangen van de kozijnen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-117958.html",
+    "zaak": "Z2023-00002843"
+   },
+   {
+    "id": "gmb-2023-102999",
+    "titel": "Verleende omgevingsvergunning met reguliere procedure voor het vervangen en vergroten van de dakkapellen aan de Kerkstraat 52 in Vollenhove",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-14",
+    "onderwerp": "het vervangen/ vergroten van de dakkapellen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-102999.html",
+    "zaak": "Z2022-00012688"
+   },
+   {
+    "id": "gmb-2022-573489",
+    "titel": "Aanvraag omgevingsvergunning, het vervangen/vergroten van de dakkapellen, Kerkstraat 52 Vollenhove",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-27",
+    "onderwerp": "het vervangen/ vergroten van de dakkapellen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-573489.html",
+    "zaak": "Z2022-00012688"
+   },
+   {
+    "id": "gmb-2022-488552",
+    "titel": "Gemeente Altena - Toestemming voor het gebruiken van een bedrijfswoning als een reguliere woning aan de Kerkstraat 52 in Hank",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-03",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-488552.html"
+   },
+   {
+    "id": "gmb-2022-454908",
+    "titel": "Ontvangst melding. Ontvangstdatum: 4 oktober 2022",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-20",
+    "onderwerp": "Kerkstraat 52G",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-454908.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-422359",
+    "titel": "Gemeente Altena - Aanvraag vergunning voor het gebruik als burgerwoning van Kerkstraat 52 in Hank",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-22",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-422359.html"
+   },
+   {
+    "id": "gmb-2022-366546",
+    "titel": "Toestemming voor de aanleg van een uitweg aan de Kerkstraat 52 te Harreveld",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-11",
+    "onderwerp": "",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-366546.html",
+    "zaak": "6994755"
+   },
+   {
+    "id": "gmb-2022-311091",
+    "titel": "Rectificatie verleende terrasvergunning tot 1 november 2022 (kenmerk 831739) Kerkstraat 52 Voorburg 1723 Voorburg B.V. eerdere publicatie is de verkeerde terrastekening bijgevoegd",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-08",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-311091.html"
+   },
+   {
+    "id": "gmb-2022-285701",
+    "titel": "Gemeente Altena – Verlengen beslistermijn omgevingsvergunning voor het plaatsen van een bandenpomp nabij Kerkstraat 52 in Hank",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-23",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-285701.html"
+   },
+   {
+    "id": "gmb-2022-212595",
+    "titel": "Gemeente Altena - Aanvraag vergunning voor het plaatsen van een bandenpomp nabij Kerkstraat 52 in Hank",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-212595.html"
+   },
+   {
+    "id": "gmb-2022-186218",
+    "titel": "Kennisgeving besluit op aanvraag beschikking, Grote kerkstraat 52, 4931NJ Raamsdonksveer",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-26",
+    "onderwerp": "Betreft: opslaan van roerende zaken op locatie Grote kerkstraat 52, 4931NJ Raamsdonksveer",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-186218.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-172436",
+    "titel": "Kennisgeving besluit op aanvraag beschikking, Grote kerkstraat 52, 4931NJ Raamsdonksveer",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-15",
+    "onderwerp": "Betreft: opslaan van roerende zaken op locatie Grote kerkstraat 52, 4931NJ Raamsdonksveer",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-172436.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-107377",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking, Grote Kerkstraat 52, 4941 DR  Raamsdonksveer",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-16",
+    "onderwerp": "Betreft: aanvraag op locatie Grote Kerkstraat 52, 4941 DR  Raamsdonksveer",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-107377.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-327103",
+    "titel": "Verleende omgevingsvergunning Nieuwe Kerkstraat 52",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-29",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-327103.html"
+   },
+   {
+    "id": "gmb-2021-272709",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Nieuwe Kerkstraat 52",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-272709.html"
+   },
+   {
+    "id": "gmb-2021-209645",
+    "titel": "Ingekomen aanvraag omgevingsvergunning - Kerkstraat 52 te Noordwijkerhout",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-07-06",
+    "onderwerp": "het schilderen van 4 woningen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-209645.html",
+    "zaak": "2021-014526"
+   },
+   {
+    "id": "gmb-2021-208333",
+    "titel": "Gemeente Waterland - aanvraag omgevingsvergunning - plaatsen van dakvensters en dakkapellen - Kerkstraat 52, Monnickendam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-07-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-208333.html"
+   },
+   {
+    "id": "gmb-2021-208310",
+    "titel": "Gemeente Waterland - verlening omgevingsvergunning - plaatsen van dakvensters en dakkapellen - Kerkstraat 52, Monnickendam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-07-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-208310.html"
+   },
+   {
+    "id": "gmb-2021-199750",
+    "titel": "Kennisgeving besluit op aanvraag beschikking, Grote Kerkstraat 52, 4941DR Raamsdonksveer",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-30",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Grote Kerkstraat 52, 4941DR Raamsdonksveer",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-199750.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-193040",
+    "titel": "Ingediende aanvraag voor een omgevingsvergunning Nieuwe Kerkstraat 52",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-193040.html"
+   },
+   {
+    "id": "gmb-2021-183905",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking, Grote Kerkstraat 52, 4941DR Raamsdonksveer",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-16",
+    "onderwerp": "Betreft: aanvraag op locatie Grote Kerkstraat 52, 4941DR Raamsdonksveer",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-183905.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-59184",
+    "titel": "Gemeente Vaals - verlening omgevingsvergunning - vernieuwen van bestaande kozijnen - Kerkstraat 52 en 52a, Vaals",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-59184.html"
+   },
+   {
+    "id": "gmb-2020-344883",
+    "titel": "Gemeente Vaals - verlenging beslistermijn omgevingsvergunning - vernieuwen van bestaande kozijnen - Kerkstraat 52 en 52a, Vaals",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-344883.html"
+   },
+   {
+    "id": "gmb-2020-324636",
+    "titel": "omgevingsvergunning: Kerkstraat 52 in Drempt, het kappen van een es en een haagbeuk",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-12-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-324636.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-318619",
+    "titel": "Gemeente Vaals - aanvraag omgevingsvergunning - vernieuwen van bestaande kozijnen - Kerkstraat 52 en 52a, Vaals",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-318619.html"
+   },
+   {
+    "id": "gmb-2020-285947",
+    "titel": "omgevingsvergunning: Kerkstraat 52 in Drempt, het kappen van een es en een haagbeuk",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-285947.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-284243",
+    "titel": "Sloopmelding asbest verwijderen, Kerkstraat 52, 6267 EE Cadier en Keer",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-11-03",
+    "onderwerp": "het verwijderen van asbest",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-284243.html",
+    "zaak": "Z-HZ_SLM-2020-004572"
+   },
+   {
+    "id": "gmb-2020-246112",
+    "titel": "Weigering omgevingsvergunning, Leidsestraat 69A in Hillegom, Kenmerk Z-20-135834, het realiseren van een parkeerplaats in eigen tuin",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-09-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-246112.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-202738",
+    "titel": "Verlengen beslistermijn omgevingsvergunning, Leidsestraat 69A in Hillegom, Kenmerk Z-20-135834, het realiseren van een parkeerplaats in eigen tuin",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-08-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-202738.html"
+   },
+   {
+    "id": "gmb-2020-164566",
+    "titel": "Nieuwe aanvraag omgevingsvergunning, Leidsestraat 69A in Hillegom, Kenmerk Z-20-135834, het realiseren van een parkeerplaats in eigen tuin",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-164566.html"
+   },
+   {
+    "id": "gmb-2020-79717",
+    "titel": "Gemeente Medemblik, Verleende omgevingsvergunning, Kerkstraat 52, Wognum week 12",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-03-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-79717.html"
+   },
+   {
+    "id": "gmb-2020-10163",
+    "titel": "Gemeente Medemblik, Aanvraag omgevingsvergunning, Kerkstraat 52, Wognum week 3",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-01-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-10163.html"
+   },
+   {
+    "id": "gmb-2020-4336",
+    "titel": "Kerkstraat 50A + 56 ’s-Hertogenbosch, het vervangen van gevelreclames, omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-01-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-4336.html"
+   },
+   {
+    "id": "gmb-2019-282831",
+    "titel": "Kerkstraat 50A + 56, 5211 KH, ’s-Hertogenbosch, het vervangen van gevelreclames, omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-11-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-282831.html"
+   },
+   {
+    "id": "gmb-2019-197952",
+    "titel": "Gemeente Altena – Besluit verlenen omgevingsvergunning Hank: ter hoogte van Kerkstraat 52,",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-08-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-197952.html"
+   },
+   {
+    "id": "gmb-2019-191865",
+    "titel": "Gemeente Altena - aanvraag omgevingsvergunning Hank: ter hoogte van Kerkstraat 52, 4273 CA",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-07-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-191865.html"
+   },
+   {
+    "id": "gmb-2019-114014",
+    "titel": "Gemeente Altena - aanvraag omgevingsvergunning Woudrichem: Kerkstraat 52 en 54, 4285BC",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-05-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-114014.html"
+   },
+   {
+    "id": "gmb-2019-101133",
+    "titel": "Besluit nummeraanduiding, toekennen adres/huisnummer, Kerkstraat 50a, 50b, 50c en 50d te Leerdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-04-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-101133.html"
+   },
+   {
+    "id": "gmb-2019-42442",
+    "titel": "Verleende omgevingsvergunning, splitsen- verbouwen van een woning tot drie appartementen c.q. het toevoegen- realiseren van twee appartementen- wooneenheden, Kerkstraat 52 en 62, Vaals",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-02-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-42442.html"
+   },
+   {
+    "id": "gmb-2018-274220",
+    "titel": "Verlenging beslistermijn, legaliseren van appartementen, Kerkstraat 52 en 62, Vaals",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-12-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-274220.html"
+   },
+   {
+    "id": "gmb-2018-235196",
+    "titel": "Aanvragen omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-11-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-235196.html"
+   },
+   {
+    "id": "gmb-2018-157748",
+    "titel": "Gemeente Beuningen – verleende omgevingsvergunning - OLO 3726655 - Kerkstraat 50a te Weurt.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-07-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-157748.html"
+   },
+   {
+    "id": "gmb-2018-149914",
+    "titel": "Week 28 - 2018: verleende omgevingsvergunning, Kerkstraat 52, Wagenberg (W-2018-0321)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-07-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-149914.html"
+   },
+   {
+    "id": "gmb-2018-45956",
+    "titel": "Meldingen slopen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-03-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-45956.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-240736",
+   "gmb-2026-216727",
+   "gmb-2026-127692",
+   "gmb-2026-24755",
+   "gmb-2025-426929",
+   "gmb-2025-297239",
+   "gmb-2025-219337",
+   "gmb-2025-155467",
+   "gmb-2024-393206",
+   "gmb-2024-325597",
+   "gmb-2024-114867",
+   "gmb-2023-304717",
+   "gmb-2023-117958",
+   "gmb-2022-573489",
+   "gmb-2022-422359",
+   "gmb-2022-212595",
+   "gmb-2021-209645",
+   "gmb-2021-208333",
+   "gmb-2021-193040",
+   "gmb-2020-318619",
+   "gmb-2020-164566",
+   "gmb-2020-10163",
+   "gmb-2019-197952",
+   "gmb-2019-191865",
+   "gmb-2019-114014"
+  ],
+  "zaaknummers": [
+   "05374011910",
+   "0677756262",
+   "1329453",
+   "2021-014526",
+   "2026-012594",
+   "719718",
+   "Rx.Mission zaak Z2026-00003477",
+   "Z2022-00012688",
+   "Z2023-00002843",
+   "Z2024-0123",
+   "Z2024-0388",
+   "Z2025-012010"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2012-12971",
+    "titel": "Vaststelling bestemmingsplan ‘Stuivezand – Oude Kerkstraat 52 – 54 + retentiewater’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-06-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-12971.html"
+   },
+   {
+    "id": "stcrt-2012-5399-n1",
+    "titel": "Ontwerpbestemmingsplan ‘Stuivezand – Oude Kerkstraat 52–54 + retentiewater’ (Rectificatie)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-03-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-5399-n1.html"
+   },
+   {
+    "id": "stcrt-2012-5399",
+    "titel": "Ontwerpbestemmingsplan 'Stuivezand – Oude Kerkstraat 52-54 + retentiewater'",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-03-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-5399.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-499769",
+    "titel": "Kerkstraat 52, Speelautomatenvergunning 2027",
+    "soort": "andere vergunning",
+    "datum": "2026-10-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-499769.html"
+   },
+   {
+    "id": "gmb-2026-395081",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2026-08-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-395081.html"
+   },
+   {
+    "id": "gmb-2026-319462",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2026-07-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-319462.html"
+   },
+   {
+    "id": "gmb-2026-299220",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Kerkstraat 52 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Kerkstraat 52 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-299220.html"
+   },
+   {
+    "id": "gmb-2026-219770",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Kerkstraat 52 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Kerkstraat 52 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-219770.html"
+   },
+   {
+    "id": "gmb-2026-176163",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2026-04-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-176163.html"
+   },
+   {
+    "id": "gmb-2026-133255",
+    "titel": "Besluit apv vergunning Verleend - Leidsestraat ter hoogte van nummer: 67 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "Object,Leidsestraat 67 1017NX, 20260326, Leidsestraat ter hoogte van nummer: 67",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133255.html"
+   },
+   {
+    "id": "gmb-2026-11440",
+    "titel": "Anterieure overeenkomst - nabij Kerkstraat 52-54 te Loon op Zand",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2026-01-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-11440.html"
+   },
+   {
+    "id": "gmb-2025-559050",
+    "titel": "Besluit apv vergunning Verleend - Leidsestraat ter hoogte van nummer: 67 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-22",
+    "onderwerp": "Object,Leidsestraat 67 1017NX, 20260119, Leidsestraat ter hoogte van nummer: 67",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-559050.html"
+   },
+   {
+    "id": "gmb-2025-507951",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2025-11-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-507951.html"
+   },
+   {
+    "id": "gmb-2025-509087",
+    "titel": "Wegsleepverordening gemeente Groningen 2026",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-11-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-509087.html"
+   },
+   {
+    "id": "gmb-2025-507648",
+    "titel": "Verzamelbesluit laadpalen Gemeente Geertruidenberg",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2025-11-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-507648.html"
+   },
+   {
+    "id": "gmb-2025-330416",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2025-07-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-330416.html"
+   },
+   {
+    "id": "gmb-2025-187238",
+    "titel": "Wegsleepverordening gemeente Westerkwartier 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-05-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-187238.html"
+   },
+   {
+    "id": "gmb-2025-126370",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-126370.html"
+   },
+   {
+    "id": "gmb-2024-507887",
+    "titel": "Wegsleepverordening gemeente groningen",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-12-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-507887.html"
+   },
+   {
+    "id": "stcrt-2024-37024",
+    "titel": "Rechtbank Amsterdam; Faillissementen,surseances en schuldsaneringen",
+    "soort": "faillissement, surseance van betaling of schuldsanering",
+    "datum": "2024-11-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2024-37024.html"
+   },
+   {
+    "id": "gmb-2024-465809",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2024-11-05",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-465809.html"
+   },
+   {
+    "id": "gmb-2024-390345",
+    "titel": "Nadere Regels uitvoering Wegsleepverordening gemeente Het Hogeland",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-09-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-390345.html"
+   },
+   {
+    "id": "gmb-2024-353850",
+    "titel": "Verkeersbesluit: Reserveren gehandicaptenparkeerplaats Kerkstraat 52",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2024-08-14",
+    "onderwerp": "Verkeersbesluit instelling GPP Kerkstraat 52, Putten",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-353850.html"
+   },
+   {
+    "id": "gmb-2024-304425",
+    "titel": "Wegsleepverordening Gemeente Het Hogeland",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-07-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-304425.html"
+   },
+   {
+    "id": "gmb-2024-140417",
+    "titel": "Wegsleepverordening gemeente Westerkwartier 2023",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-04-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-140417.html"
+   },
+   {
+    "id": "gmb-2024-144812",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2024-04-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-144812.html"
+   },
+   {
+    "id": "gmb-2024-99926",
+    "titel": "Verleende evenementenvergunning voor het organiseren van een muzikale uitvoering over het kruisingsverhaal van Christus rondom de kerk in Weurt op zaterdag 16 maart 2024 en zondag 17 maart 2024",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-99926.html"
+   },
+   {
+    "id": "gmb-2023-496867",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2023-11-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-496867.html"
+   },
+   {
+    "id": "gmb-2023-489865",
+    "titel": "Wegsleepverordening gemeente Groningen",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2023-11-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-489865.html"
+   },
+   {
+    "id": "gmb-2023-339524",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-339524.html"
+   },
+   {
+    "id": "gmb-2023-195090",
+    "titel": "Toestemming voor het gebruik van een alcoholwetvergunning aan Kerkstraat 52 te Helmond",
+    "soort": "andere vergunning",
+    "datum": "2023-05-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-195090.html"
+   },
+   {
+    "id": "gmb-2023-140192",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 52",
+    "soort": "andere vergunning",
+    "datum": "2023-03-31",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 52",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-140192.html"
+   },
+   {
+    "id": "gmb-2022-567385",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 50A",
+    "soort": "andere vergunning",
+    "datum": "2022-12-22",
+    "onderwerp": "2 PV, Kerkstraat 50, 16-01 tot 17-01, Kerkstraat 50A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-567385.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Documenten deel 3 bij besluit Woo-verzoek namen, adressen uitgifte schoolzuivel",
+   "datum": "2023-05-25",
+   "door": "ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "url": "https://open.overheid.nl/documenten/da1e1124-29c8-4741-bca7-4a34ab991b1a",
+   "fragment": "Kootstertille Twijzelerheide Twijzelerheide boekenberghstraat 12 boekenberghstraat 12 boekenberghstraat 12 boekenberghstraat 12 boekenberghstraat 12 boekenberghstraat 12 boekenberghstraat 12 boekenberghstraat 12 Kerkstraat 52 Kerkstraat 52 ... Kerkstraat 52 Kerkstraat 52 Kerkstraat 52 Kerkstraat 52 Kerkstraat 52 Kerkstraat 52 Kerkstraat 52 Goudenregenzoom 73 Goudenregenzoom 73 Goudenregenzoom 73 G"
+  },
+  {
+   "titel": "Besluit op Woo-verzoek over schoolzuivel - Bijlagen deel 3 bij besluit op Woo-verzoek over schoolzuivel",
+   "datum": "2023-05-14",
+   "door": "Onbekend",
+   "url": "https://open.overheid.nl/documenten/ronl-62783e1be3511574b90e9b6f5ee045671874d7be",
+   "fragment": "gijsingstraat 51 Morapad 3 Saaftingestraat 312 Beresteinlaan 629 Haardstede 5 Hoefslag 6 Mars 65 Oosterhagen 251 Kerkstraat 52 Zuidkil 57 Lelystad Rotterdam Den Haag denhaag Den Haag Rotterdam Waardenburg Utrecht Vlaardingen utrecht Hoogvliet ... VELSERBR0EKO1VQ BUSSUM 03IH Jan van Riebeekstraat 11 en 1 1057 ZW AMSTERDAM-2 23FD00 Hoofdlocatie Hoofdlocatie Hoofdlocatie Hoofdlocatie Hoofdlocatie Hoo"
+  },
+  {
+   "titel": "Documenten deel 19 bij besluit Woo-verzoek namen, adressen uitgifte schoolzuivel",
+   "datum": "2023-05-24",
+   "door": "ministerie van Landbouw, Natuur en Voedselkwaliteit",
+   "url": "https://open.overheid.nl/documenten/6b202c5e-9a4f-47cd-aece-2edfaa68e6f3",
+   "fragment": "Spanjaardspad 86 Kerkstraat 52 Heycoplaan 13 Heycoplaan 13 Laan van Chartoise 160 Laan van Chartoise 160 Lindenlaan 60-62 Achterweg 35 Achterweg 35 Lijsterstraat 2 Achterweg 30 Achterweg 30 Tjalk 29-41 Tjalk 29-41 Oude Lom bard straat 21 Oude Lom ... 2 Talmastraat 2 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstraat 37 Kerkstr"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 200,
+  "plannen": 334,
+  "woo": 5
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-12971.pdf",
+   "bron": "bekendmaking stcrt-2012-12971: Vaststelling bestemmingsplan ‘Stuivezand – Oude Kerkstraat 52 – 54 + retentiewater’",
+   "noemingen": 0,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-5399-n1.pdf",
+   "bron": "bekendmaking stcrt-2012-5399-n1: Ontwerpbestemmingsplan ‘Stuivezand – Oude Kerkstraat 52–54 + retentiewater’ (Rectificatie)",
+   "fout": "niet te downloaden of te groot"
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-5399.pdf",
+   "bron": "bekendmaking stcrt-2012-5399: Ontwerpbestemmingsplan 'Stuivezand – Oude Kerkstraat 52-54 + retentiewater'",
+   "fout": "niet te downloaden of te groot"
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 800,
+ "pand_adressen": [
+  "Kerkstraat 50A",
+  "Kerkstraat 50B",
+  "Kerkstraat 52",
+  "Leidsestraat 67",
+  "Leidsestraat 69A",
+  "Leidsestraat 69B",
+  "Leidsestraat 69C",
+  "Leidsestraat 69D",
+  "Leidsestraat 69E",
+  "Leidsestraat 69F",
+  "Leidsestraat 69G",
+  "Leidsestraat 69K"
+ ]
+}

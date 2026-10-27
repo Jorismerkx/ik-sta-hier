@@ -1,0 +1,587 @@
+{
+ "id": "a-lab",
+ "naam": "A Lab",
+ "adres": "Overhoeksplein 2, 1031 KS Amsterdam",
+ "termen": [
+  "Overhoeksplein 2",
+  "1031KS",
+  "1031 KS"
+ ],
+ "pand": "0363100012112766",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 2,
+  "openbaar": 1,
+  "laatste": "2013-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_22698",
+    "titel": "Overhoeksplein 2",
+    "datum": "2013-01-01",
+    "soort": "omgevingsvergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_22698"
+   },
+   {
+    "dossier": "SN_01850",
+    "titel": "Overhoeksplein 1 - 2",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01850"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 62,
+  "gezocht": [
+   "Overhoeksplein 2",
+   "Badhuiskade 3",
+   "Lidostraat 15"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-390640",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-18",
+    "onderwerp": "wijziging brandcompartimentering Breitner Academie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-390640.html",
+    "zaak": "Z2026-030080"
+   },
+   {
+    "id": "gmb-2026-314000",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-01",
+    "onderwerp": "verduurzamen van het gebouw (isolatie, overkapping binnenhof, upgraden installaties) en wijzigingen brandcompartimenten en draagconstructie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-314000.html",
+    "zaak": "Z2025-034081"
+   },
+   {
+    "id": "gmb-2025-385561",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Overhoeksplein 2 1031 KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-05",
+    "onderwerp": "aanbrengen van een gevelrooster in de gevel op as 5, tussen P en Q",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-385561.html",
+    "zaak": "Z2025-018445"
+   },
+   {
+    "id": "gmb-2025-362111",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-19",
+    "onderwerp": "verduurzamen van het gebouw (na-isolatie van gevels, overkappen van binnenhof, isoleren en vergroenen van het terras, upgraden van de installaties)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-362111.html",
+    "zaak": "Z2025-034081"
+   },
+   {
+    "id": "gmb-2025-306349",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-14",
+    "onderwerp": "verduurzamen van de A Lab broedplaats",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-306349.html",
+    "zaak": "Z2025-018445"
+   },
+   {
+    "id": "gmb-2025-22797",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Overhoeksplein 2 1031 KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-20",
+    "onderwerp": "gebruiken van een gebouwdeel en buitenruimte met bestemming ervan tot een café en terras (horeca 3)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-22797.html",
+    "zaak": "Z2024-020456"
+   },
+   {
+    "id": "gmb-2024-407821",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-25",
+    "onderwerp": "Ontheffing aanvragen op het bestemmingsplan voor een exploitatievergunning van The Coffee Virus - A Lab",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-407821.html",
+    "zaak": "Z2024-020456"
+   },
+   {
+    "id": "gmb-2024-378007",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-04",
+    "onderwerp": "Ontheffing aanvragen op het bestemmingsplan voor een exploitatievergunning van The Coffee Virus - A Lab",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-378007.html",
+    "zaak": "Z2024-020456"
+   },
+   {
+    "id": "gmb-2024-159743",
+    "titel": "Beschikking, Bodem - Overhoeksplein 2, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-159743.html",
+    "zaak": "1369863"
+   },
+   {
+    "id": "gmb-2023-245592",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-06",
+    "onderwerp": "plaatsen van een lichtbak op de hoek van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-245592.html",
+    "zaak": "Z2023-N000951"
+   },
+   {
+    "id": "gmb-2023-195270",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 2 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-04",
+    "onderwerp": "plaatsen van een lichtbak op hoek van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-195270.html",
+    "zaak": "Z2023-N000951"
+   },
+   {
+    "id": "gmb-2022-319688",
+    "titel": "Beschikking, Bodem - Overhoeksplein 2, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2022-07-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-319688.html"
+   },
+   {
+    "id": "gmb-2022-103930",
+    "titel": "Beschikking, Bodem - Lidostraat 15, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2022-03-09",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-103930.html",
+    "zaak": "1286743"
+   },
+   {
+    "id": "gmb-2022-69936",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Badhuiskade 3 1031KV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-17",
+    "onderwerp": "Uitbreiding Dakopbouw Clink Noord-2, Badhuiskade 3",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-69936.html",
+    "zaak": "Z2021-N001729"
+   },
+   {
+    "id": "gmb-2021-311026",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Badhuiskade 3 1031KV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-10",
+    "onderwerp": "Uitbreiding Dakopbouw Clink Noord-2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-311026.html",
+    "zaak": "Z2021-N001729"
+   },
+   {
+    "id": "gmb-2021-188133",
+    "titel": "Aanvraag omgevingsvergunning Badhuiskade 3 1031KV Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-15",
+    "onderwerp": "Uitbreiding Dakopbouw Clink Noord-2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-188133.html"
+   },
+   {
+    "id": "gmb-2021-162090",
+    "titel": "Buiten behandeling stellen van aanvraag omgevingsvergunning Badhuiskade 3 1031KV Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-26",
+    "onderwerp": "Uitbreiding Dakopbouw Clink Noord",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-162090.html"
+   },
+   {
+    "id": "gmb-2021-55317",
+    "titel": "Aanvraag omgevingsvergunning Badhuiskade 3 1031KV Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-23",
+    "onderwerp": "Uitbreiding Dakopbouw Clink Noord",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-55317.html"
+   },
+   {
+    "id": "gmb-2021-55319",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Badhuiskade 3 1031KV Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-23",
+    "onderwerp": "Uitbreiding Dakopbouw Clink Noord",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-55319.html"
+   },
+   {
+    "id": "gmb-2020-296451",
+    "titel": "Wbb, verkorte procedure, beschikking, Overhoeksplein 2, Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-11-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-296451.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-390640",
+   "gmb-2026-314000",
+   "gmb-2025-385561",
+   "gmb-2025-362111",
+   "gmb-2025-306349",
+   "gmb-2025-22797",
+   "gmb-2024-378007",
+   "gmb-2023-245592",
+   "gmb-2023-195270",
+   "gmb-2022-69936",
+   "gmb-2021-188133",
+   "gmb-2021-162090",
+   "gmb-2021-55317"
+  ],
+  "zaaknummers": [
+   "Z2021-N001729",
+   "Z2023-N000951",
+   "Z2024-020456",
+   "Z2025-018445",
+   "Z2025-034081",
+   "Z2026-030080"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-497154",
+    "titel": "Besluit apv vergunning Verleend - Badhuiskade ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-26",
+    "onderwerp": "TVM parkeervak,Badhuiskade 3 1031KV, 20261028, Badhuiskade ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-497154.html"
+   },
+   {
+    "id": "gmb-2026-411188",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-01",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-411188.html"
+   },
+   {
+    "id": "gmb-2026-411208",
+    "titel": "Besluit alcoholwetvergunning Verleend - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-01",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Overhoeksplein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-411208.html"
+   },
+   {
+    "id": "gmb-2026-336826",
+    "titel": "Aanvraag alcoholwetvergunning Overhoeksplein 2",
+    "soort": "andere vergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Overhoeksplein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-336826.html"
+   },
+   {
+    "id": "gmb-2026-336849",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-336849.html"
+   },
+   {
+    "id": "gmb-2026-322238",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-07-07",
+    "onderwerp": "TVM parkeervak,Object,Overhoeksplein 2 1031KS, 20260708, Overhoeksplein ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-322238.html"
+   },
+   {
+    "id": "gmb-2026-203972",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Object,Overhoeksplein 2 1031KS, 20260518, Overhoeksplein ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-203972.html"
+   },
+   {
+    "id": "gmb-2026-95472",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Noord tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Noord [Besluit ter bekrachtiging geldende afvalregels stadsdeel Noord]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-95472.html"
+   },
+   {
+    "id": "gmb-2026-2457",
+    "titel": "Amsterdam Noord, verkeersbesluit Badhuiskade 3 aanleg twee elektrische oplaadvakken",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-01-02",
+    "onderwerp": "Badhuiskade 3 aanleg twee elektrische oplaadvakken",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-2457.html"
+   },
+   {
+    "id": "gmb-2025-362252",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-08-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-362252.html"
+   },
+   {
+    "id": "gmb-2025-362192",
+    "titel": "Besluit alcoholwetvergunning Verleend - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-19",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Overhoeksplein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-362192.html"
+   },
+   {
+    "id": "gmb-2025-344628",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-05",
+    "onderwerp": "Object,Overhoeksplein 2 1031KS, 20250901, Overhoeksplein ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-344628.html"
+   },
+   {
+    "id": "gmb-2025-302922",
+    "titel": "Besluit apv vergunning Verleend - Lidostraat ter hoogte van nummer: 15 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-11",
+    "onderwerp": "TVM parkeervak,TVM stremmen,RVV,Filmen,Lidostraat 15 1031KR, 20250716, Lidostraat ter hoogte van nummer: 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-302922.html"
+   },
+   {
+    "id": "gmb-2025-295767",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-295767.html"
+   },
+   {
+    "id": "gmb-2025-297487",
+    "titel": "Aanvraag alcoholwetvergunning Overhoeksplein 2",
+    "soort": "andere vergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Overhoeksplein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-297487.html"
+   },
+   {
+    "id": "gmb-2025-291149",
+    "titel": "Besluit apv vergunning Verleend - Lidostraat ter hoogte van nummer: 15 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-04",
+    "onderwerp": "Object,Lidostraat 15 1031KR, 20250624, Lidostraat ter hoogte van nummer: 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-291149.html"
+   },
+   {
+    "id": "gmb-2025-279518",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-06-27",
+    "onderwerp": "Object,Overhoeksplein 2 1031KS, 20250704, Overhoeksplein ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-279518.html"
+   },
+   {
+    "id": "gmb-2025-219979",
+    "titel": "Besluit alcoholwetvergunning Buiten behandeling - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-05-21",
+    "onderwerp": "Buiten behandeling: alcoholwetvergunning op adres Overhoeksplein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-219979.html"
+   },
+   {
+    "id": "gmb-2025-173378",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Buiten behandeling - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-23",
+    "onderwerp": "Buiten behandeling: exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-173378.html"
+   },
+   {
+    "id": "gmb-2025-118724",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-03-20",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-118724.html"
+   },
+   {
+    "id": "gmb-2024-323070",
+    "titel": "Besluit () exploitatievergunning horecabedrijf Ingetrokken - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323070.html"
+   },
+   {
+    "id": "gmb-2024-275150",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Overhoeksplein 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-275150.html"
+   },
+   {
+    "id": "gmb-2023-443685",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 2",
+    "soort": "andere vergunning",
+    "datum": "2023-10-17",
+    "onderwerp": "17-10 (verzinkbare paaltjes) Werkzaamheden en vervoer op straat Overhoeksplein 2 1031KS, Overhoeksplein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-443685.html"
+   },
+   {
+    "id": "gmb-2023-276320",
+    "titel": "Besluit evenementenvergunning VerleendOverhoeksplein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-276320.html"
+   },
+   {
+    "id": "gmb-2023-224342",
+    "titel": "Aanvraag evenementenvergunning Overhoeksplein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-05-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Overhoeksplein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-224342.html"
+   },
+   {
+    "id": "gmb-2022-570248",
+    "titel": "Besluit apv vergunning Verleend Badhuiskade 3",
+    "soort": "andere vergunning",
+    "datum": "2022-12-23",
+    "onderwerp": "TVM 3PV - Badhuiskade 3 - 12 jan t/m 11 apr 2023, Badhuiskade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-570248.html"
+   },
+   {
+    "id": "gmb-2022-535226",
+    "titel": "Besluit apv vergunning Verleend Badhuiskade 3",
+    "soort": "andere vergunning",
+    "datum": "2022-12-02",
+    "onderwerp": "TVM - 5 Parkeervakken reserveren - Badhuiskade 3 - 25-27/01/2023, Badhuiskade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-535226.html"
+   },
+   {
+    "id": "gmb-2022-535267",
+    "titel": "Besluit apv vergunning Verleend Badhuiskade 3",
+    "soort": "andere vergunning",
+    "datum": "2022-12-02",
+    "onderwerp": "TVM - 5 Parkeervakken reserveren - Badhuiskade 3 - 16-19/12/2022, Badhuiskade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-535267.html"
+   },
+   {
+    "id": "gmb-2022-510903",
+    "titel": "Besluit apv vergunning Verleend Badhuiskade 3",
+    "soort": "andere vergunning",
+    "datum": "2022-11-17",
+    "onderwerp": "TVM - 5 Parkeervakken reserveren - Badhuiskade 3 - 22-23/11/2022, Badhuiskade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-510903.html"
+   },
+   {
+    "id": "gmb-2022-442064",
+    "titel": "Besluit apv vergunning Verleend Badhuiskade 3",
+    "soort": "andere vergunning",
+    "datum": "2022-10-04",
+    "onderwerp": "TVM, 3-parkeerplekken Badhuiskade 3 12-10 t/m 11-01-2023 09:00 t/m 19:00, Badhuiskade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-442064.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1702BPGST-VG01",
+   "naam": "Overhoeks 2016 Eerste partiele herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-04-03",
+   "opp_m2": 395001,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1501BPGST-VG01",
+   "naam": "Overhoeks 2016",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-10-05",
+   "opp_m2": 469614,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 7,
+  "plannen": 14,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 23,
+ "pand_adressen": [
+  "Badhuiskade 3",
+  "Lidostraat 15",
+  "Overhoeksplein 2"
+ ]
+}

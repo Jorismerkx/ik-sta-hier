@@ -1,0 +1,408 @@
+{
+ "id": "northbound",
+ "naam": "Northbound",
+ "adres": "Gedempt Hamerkanaal 86, 1021 KP Amsterdam",
+ "termen": [
+  "Gedempt Hamerkanaal 86",
+  "1021KP",
+  "1021 KP",
+  "Northbound"
+ ],
+ "pand": "0363100012119058",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 21,
+  "openbaar": 21,
+  "laatste": "2001-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_19116",
+    "titel": "Hamerstraat 1 e",
+    "datum": "2001-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19116"
+   },
+   {
+    "dossier": "SN_01374",
+    "titel": "Gedempt Hamerkanaal 75 - 81; Hamerstraat 1 a - 1 f",
+    "datum": "2000-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01374"
+   },
+   {
+    "dossier": "SN_17785",
+    "titel": "Hamerstraat 1 e",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_17785"
+   },
+   {
+    "dossier": "SN_17945",
+    "titel": "Hamerstraat 1",
+    "datum": "1996-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_17945"
+   },
+   {
+    "dossier": "SN_17590",
+    "titel": "Hamerstraat 1",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_17590"
+   },
+   {
+    "dossier": "SN_14312",
+    "titel": "Hamerstraat 1",
+    "datum": "1992-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14312"
+   },
+   {
+    "dossier": "SN_13719",
+    "titel": "Hamerstraat 1",
+    "datum": "1991-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_13719"
+   },
+   {
+    "dossier": "SN_12712",
+    "titel": "Hamerstraat 1",
+    "datum": "1990-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_12712"
+   },
+   {
+    "dossier": "SN_12557",
+    "titel": "Hamerstraat 1",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_12557"
+   },
+   {
+    "dossier": "SN_04942",
+    "titel": "Hamerstraat 1",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04942"
+   },
+   {
+    "dossier": "SN_09049",
+    "titel": "Hamerstraat 1",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_09049"
+   },
+   {
+    "dossier": "SN_04931",
+    "titel": "Hamerstraat 1",
+    "datum": "1972-01-01",
+    "soort": "steiger",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04931"
+   },
+   {
+    "dossier": "SN_04912",
+    "titel": "Hamerstraat 1",
+    "datum": "1954-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04912"
+   },
+   {
+    "dossier": "SN_04909",
+    "titel": "Hamerstraat 1",
+    "datum": "1952-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 0,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04909"
+   },
+   {
+    "dossier": "SN_04836",
+    "titel": "Hamerstraat 1",
+    "datum": "1952-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04836"
+   },
+   {
+    "dossier": "SN_04901",
+    "titel": "Hamerstraat 1",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04901"
+   },
+   {
+    "dossier": "SN_04879",
+    "titel": "Hamerstraat 1",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 180,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04879"
+   },
+   {
+    "dossier": "SN_04781",
+    "titel": "Hamerstraat 1",
+    "datum": "1948-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04781"
+   },
+   {
+    "dossier": "SN_04775",
+    "titel": "Hamerstraat 1",
+    "datum": "1947-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04775"
+   },
+   {
+    "dossier": "SN_04734",
+    "titel": "Hamerstraat 1; Ketelstraat 5",
+    "datum": "1914-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04734"
+   },
+   {
+    "dossier": "SN_04743",
+    "titel": "Hamerstraat 1; Ketelstraat 5",
+    "datum": "1913-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 150,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_04743"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 9,
+  "gezocht": [
+   "Gedempt Hamerkanaal 86",
+   "Gedempt Hamerkanaal 75A",
+   "Gedempt Hamerkanaal 75B",
+   "Hamerstraat 1D",
+   "Hamerstraat 1E",
+   "Hamerstraat 1F",
+   "Hamerstraat 1G"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-330402",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 75A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 75A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-330402.html"
+   },
+   {
+    "id": "gmb-2025-185593",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 75A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 75A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-185593.html"
+   },
+   {
+    "id": "gmb-2025-183135",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 75A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 75A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183135.html"
+   },
+   {
+    "id": "gmb-2024-24547",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 75A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-01-15",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 75A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-24547.html"
+   },
+   {
+    "id": "gmb-2023-495067",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 75A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 75A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-495067.html"
+   },
+   {
+    "id": "gmb-2022-152299",
+    "titel": "Besluit apv vergunning Verleend Gedempt Hamerkanaal 75A",
+    "soort": "andere vergunning",
+    "datum": "2022-04-05",
+    "onderwerp": "TVM, 6-Parkeervakken en stremmen Gedempt Hamerkanaal 75 t/m 77 15-4 07:00 t/m 16:00, Gedempt Hamerkanaal 75A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-152299.html"
+   },
+   {
+    "id": "gmb-2021-351646",
+    "titel": "Besluit evenementenvergunning Verleend Gedempt Hamerkanaal 86",
+    "soort": "evenementenvergunning",
+    "datum": "2021-10-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 86",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-351646.html"
+   },
+   {
+    "id": "gmb-2021-337583",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 86",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 86",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-337583.html"
+   },
+   {
+    "id": "gmb-2021-298251",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) Gedempt Hamerkanaal 86",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-02",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 86",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-298251.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/i_NL.IMRO.0363.N1002BPSTD-OH01_0032.png"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/t_NL.IMRO.0363.N1002BPSTD-OH01_16.3.html",
+     "tekst": "de jaren â80 en â90 grotendeels werden gedempt, zodat de scheepvaartgeschiedenis van het gebied vervaagde. Betekenisvolle gebouwen In het plangebied bevinden zich enkele betekenisvolle bouwwerken, zoals de Kromhouthal, de hijsinstallaties ter hoogte van Gedempt Hamerkanaal 86 en 92-98, Noordergasfabriek, De Ponthaven, Pand Noord en Voorwaarts. Het begrip âbetekenisvolâ geeft in principe aan dat het hier om een gebouw of comlex gaat aan de hand waarvan de ontstaangeschiedenis van het gebied nog altijd afleesbaar is. Daarmee heeft het betreffende gebouw of complex een cultuurhistorische betekenis. <img id=\"o2446\" src=\"i_NL.IMRO.0363.N1002BPSTD-O"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/i_NL.IMRO.0363.N1002BPSTD-OH01_0032.png"
+ ],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Gedempt Hamerkanaal 75A",
+  "Gedempt Hamerkanaal 75B",
+  "Hamerstraat 1D",
+  "Hamerstraat 1E",
+  "Hamerstraat 1F",
+  "Hamerstraat 1G"
+ ]
+}

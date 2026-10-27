@@ -1,0 +1,1197 @@
+{
+ "id": "paradiso",
+ "naam": "Paradiso",
+ "adres": "Weteringschans 6-8, 1017 SG Amsterdam",
+ "termen": [
+  "Weteringschans 6",
+  "Weteringschans 8",
+  "1017SG",
+  "1017 SG",
+  "Paradiso"
+ ],
+ "pand": "0363100012169473",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 4
+ },
+ "bouwdossiers": {
+  "n": 52,
+  "openbaar": 1,
+  "laatste": "2011-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_100349",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100349"
+   },
+   {
+    "dossier": "SA_100352",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2011-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100352"
+   },
+   {
+    "dossier": "SA_100351",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2011-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100351"
+   },
+   {
+    "dossier": "SA_67012",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67012"
+   },
+   {
+    "dossier": "SA_67079",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67079"
+   },
+   {
+    "dossier": "SA_66994",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 123,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66994"
+   },
+   {
+    "dossier": "SA_66993",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 318,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66993"
+   },
+   {
+    "dossier": "SA_66965",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 267,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66965"
+   },
+   {
+    "dossier": "SA_66917",
+    "titel": "Weteringschans 8 a",
+    "datum": "2004-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 100,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66917"
+   },
+   {
+    "dossier": "SA_76360",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2004-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76360"
+   },
+   {
+    "dossier": "SA_76358",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76358"
+   },
+   {
+    "dossier": "SA_76356",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76356"
+   },
+   {
+    "dossier": "SA_76343",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 120,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76343"
+   },
+   {
+    "dossier": "SA_76335",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 537,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76335"
+   },
+   {
+    "dossier": "SA_76352",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 133,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76352"
+   },
+   {
+    "dossier": "SA_76337",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 141,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76337"
+   },
+   {
+    "dossier": "SA_76336",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76336"
+   },
+   {
+    "dossier": "SA_76334",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 130,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76334"
+   },
+   {
+    "dossier": "SA_76333",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 93,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76333"
+   },
+   {
+    "dossier": "SA_76332",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2003-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 279,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76332"
+   },
+   {
+    "dossier": "SA_76317",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76317"
+   },
+   {
+    "dossier": "SA_76322",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76322"
+   },
+   {
+    "dossier": "SA_76321",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76321"
+   },
+   {
+    "dossier": "SA_76318",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 116,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76318"
+   },
+   {
+    "dossier": "SA_76314",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76314"
+   },
+   {
+    "dossier": "SA_76315",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_76315"
+   },
+   {
+    "dossier": "SA_67691",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67691"
+   },
+   {
+    "dossier": "SA_67697",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67697"
+   },
+   {
+    "dossier": "SA_67687",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 59,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67687"
+   },
+   {
+    "dossier": "SA_67685",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67685"
+   },
+   {
+    "dossier": "SA_66826",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66826"
+   },
+   {
+    "dossier": "SA_68620",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 140,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_68620"
+   },
+   {
+    "dossier": "SA_100697",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100697"
+   },
+   {
+    "dossier": "SA_66862",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2001-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66862"
+   },
+   {
+    "dossier": "SA_66844",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2001-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66844"
+   },
+   {
+    "dossier": "SA_66852",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2001-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66852"
+   },
+   {
+    "dossier": "SA_100348",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2001-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100348"
+   },
+   {
+    "dossier": "SA_66811",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66811"
+   },
+   {
+    "dossier": "SA_66797",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66797"
+   },
+   {
+    "dossier": "SA_66814",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66814"
+   },
+   {
+    "dossier": "SA_100347",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100347"
+   },
+   {
+    "dossier": "SA_66736",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1999-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66736"
+   },
+   {
+    "dossier": "SA_68618",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_68618"
+   },
+   {
+    "dossier": "SA_66721",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1994-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66721"
+   },
+   {
+    "dossier": "SA_66715",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1994-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66715"
+   },
+   {
+    "dossier": "SA_66703",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1994-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 154,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66703"
+   },
+   {
+    "dossier": "SA_66696",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66696"
+   },
+   {
+    "dossier": "SA_66934",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1990-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66934"
+   },
+   {
+    "dossier": "SA_66989",
+    "titel": "Weteringschans 6 - 8",
+    "datum": "1984-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66989"
+   },
+   {
+    "dossier": "SA_66787",
+    "titel": "Weteringschans 6",
+    "datum": "1981-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_66787"
+   },
+   {
+    "dossier": "SA_04598",
+    "titel": "Leidseplein 25 - 31; Weteringschans 2 - 4; Weteringschans 8",
+    "datum": "1911-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_04598"
+   },
+   {
+    "dossier": "SA_03306",
+    "titel": "Leidseplein 25 - 31; Weteringschans 2 - 4; Weteringschans 8",
+    "datum": "1910-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03306"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 69,
+  "gezocht": [
+   "Weteringschans 6",
+   "Weteringschans 8"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-492211",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-21",
+    "onderwerp": "herstellen en verstevigen van de metselwerkbogen in de kelder",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-492211.html"
+   },
+   {
+    "id": "gmb-2026-430859",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "herstellen en verstevigen van de metselwerkbogen in de kelder",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430859.html",
+    "zaak": "Z2026-040200"
+   },
+   {
+    "id": "gmb-2026-72897",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-17",
+    "onderwerp": "plaatsen van een beeldscherm aan de zijgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-72897.html",
+    "zaak": "Z2026-003441"
+   },
+   {
+    "id": "gmb-2025-465137",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "tot 1 november 2030 plaatsen van een tijdelijk kunstwerk op het landje naast Paradiso",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-465137.html",
+    "zaak": "Z2025-021227"
+   },
+   {
+    "id": "gmb-2025-436456",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-09",
+    "onderwerp": "verlengen tijdelijke vergunning en uitbreiden van geluidswerende paneelwand aan de zijkant van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-436456.html",
+    "zaak": "Z2025-028728"
+   },
+   {
+    "id": "gmb-2025-333622",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-29",
+    "onderwerp": "plaatsen van een tijdelijke geluidswerende paneelwand aan de zijkant van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-333622.html",
+    "zaak": "Z2025-028728"
+   },
+   {
+    "id": "gmb-2025-237550",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-02",
+    "onderwerp": "plaatsen tijdelijk kunstwerk bij Paradiso voor een periode van 5 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-237550.html",
+    "zaak": "Z2025-021227"
+   },
+   {
+    "id": "gmb-2025-231356",
+    "titel": "Besluit omgevingsvergunning reguliere procedure buiten behandeling gesteld Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-27",
+    "onderwerp": "plaatsen van een tijdelijke geluidswerende paneelwand aan de zijkant van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-231356.html",
+    "zaak": "Z2025-011114"
+   },
+   {
+    "id": "gmb-2025-127957",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "plaatsen van een tijdelijke geluidswerende paneelwand aan de zijkant van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-127957.html",
+    "zaak": "Z2025-011114"
+   },
+   {
+    "id": "gmb-2024-50240",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Weteringschans 6 1017SG Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-02-01",
+    "onderwerp": "aanpassen van een tweetal brandscheidingen om de situatie in overeenstemming te brengen met de huidige gebruiksmelding",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-50240.html",
+    "zaak": "Z2023-C011495"
+   },
+   {
+    "id": "gmb-2024-27396",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-16",
+    "onderwerp": "aanpassen van een tweetal brandscheidingen om de situatie in overeenstemming te brengen met de huidige gebruiksmelding",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-27396.html",
+    "zaak": "Z2023-C011495"
+   },
+   {
+    "id": "gmb-2022-575662",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Weteringschans 6 1017SG Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2022-12-27",
+    "onderwerp": "het realiseren van een verbinding op kelderniveau tussen Paradiso en de naastgelegen voormalige fietsenkelder aan de rechterkant van Paradiso",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-575662.html",
+    "zaak": "Z2022-C005460"
+   },
+   {
+    "id": "gmb-2022-540739",
+    "titel": "Opschorting beslistermijn omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-06",
+    "onderwerp": "het realiseren van een verbinding op kelderniveau tussen Paradiso en de naastgelegen voormalige fietsenkelder aan de rechterkant van Paradiso",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-540739.html",
+    "zaak": "Z2022-C005460"
+   },
+   {
+    "id": "gmb-2022-475927",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-26",
+    "onderwerp": "het realiseren van een verbinding op kelderniveau tussen Paradiso en de naastgelegen voormalige fietsenkelder aan de rechterkant van Paradiso",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-475927.html",
+    "zaak": "Z2022-C005460"
+   },
+   {
+    "id": "gmb-2022-429820",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-27",
+    "onderwerp": "het verlengen van de tijdelijke omgevingsvergunning voor een geluidwerend scherm rond de laad- en losplaats met een duur van 5 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-429820.html",
+    "zaak": "Z2022-C005220"
+   },
+   {
+    "id": "gmb-2022-333468",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-21",
+    "onderwerp": "het realiseren van een verbinding op kelderniveau tussen Paradiso en de naastgelegen voormalige fietsenkelder aan de rechterkant van Paradiso",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-333468.html",
+    "zaak": "Z2022-C005460"
+   },
+   {
+    "id": "gmb-2022-328050",
+    "titel": "Aanvraag omgevingsvergunning Weteringschans 6 1017SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "het verlengen van de tijdelijke omgevingsvergunning voor een geluidwerend scherm rond de laad- en losplaats met een duur van 5 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-328050.html",
+    "zaak": "Z2022-C005220"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-492211",
+   "gmb-2026-430859",
+   "gmb-2026-72897",
+   "gmb-2025-465137",
+   "gmb-2025-436456",
+   "gmb-2025-333622",
+   "gmb-2025-237550",
+   "gmb-2025-231356",
+   "gmb-2025-127957",
+   "gmb-2024-50240",
+   "gmb-2024-27396",
+   "gmb-2022-575662",
+   "gmb-2022-429820",
+   "gmb-2022-333468",
+   "gmb-2022-328050"
+  ],
+  "zaaknummers": [
+   "Z2022-C005220",
+   "Z2022-C005460",
+   "Z2023-C011495",
+   "Z2025-011114",
+   "Z2025-021227",
+   "Z2025-028728",
+   "Z2026-003441",
+   "Z2026-040200"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-489727",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489727.html"
+   },
+   {
+    "id": "gmb-2026-489766",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489766.html"
+   },
+   {
+    "id": "gmb-2026-489849",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489849.html"
+   },
+   {
+    "id": "gmb-2026-489793",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489793.html"
+   },
+   {
+    "id": "gmb-2026-489743",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489743.html"
+   },
+   {
+    "id": "gmb-2026-489800",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489800.html"
+   },
+   {
+    "id": "gmb-2026-489795",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489795.html"
+   },
+   {
+    "id": "gmb-2026-489846",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489846.html"
+   },
+   {
+    "id": "gmb-2026-84751",
+    "titel": "Besluit apv vergunning Verleend - Weteringschans ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "Object,Weteringschans 6 1017SG, 20260226, Weteringschans ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-84751.html"
+   },
+   {
+    "id": "gmb-2025-493957",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-493957.html"
+   },
+   {
+    "id": "gmb-2025-493964",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-493964.html"
+   },
+   {
+    "id": "gmb-2025-494024",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-494024.html"
+   },
+   {
+    "id": "gmb-2025-494018",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-494018.html"
+   },
+   {
+    "id": "gmb-2025-493952",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-493952.html"
+   },
+   {
+    "id": "gmb-2025-473632",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-473632.html"
+   },
+   {
+    "id": "gmb-2025-473728",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-11-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-473728.html"
+   },
+   {
+    "id": "gmb-2025-464842",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-464842.html"
+   },
+   {
+    "id": "gmb-2025-464862",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-464862.html"
+   },
+   {
+    "id": "gmb-2025-460610",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-10-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-460610.html"
+   },
+   {
+    "id": "gmb-2025-374954",
+    "titel": "Besluit apv vergunning Verleend - Weteringschans ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-08-29",
+    "onderwerp": "Object,Weteringschans 6 1017SG, 20251017, Weteringschans ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-374954.html"
+   },
+   {
+    "id": "gmb-2025-213376",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213376.html"
+   },
+   {
+    "id": "gmb-2025-213307",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213307.html"
+   },
+   {
+    "id": "gmb-2024-435036",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435036.html"
+   },
+   {
+    "id": "gmb-2024-435030",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435030.html"
+   },
+   {
+    "id": "gmb-2024-435024",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435024.html"
+   },
+   {
+    "id": "gmb-2024-435018",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435018.html"
+   },
+   {
+    "id": "gmb-2024-434979",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434979.html"
+   },
+   {
+    "id": "gmb-2024-435007",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435007.html"
+   },
+   {
+    "id": "gmb-2024-435020",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435020.html"
+   },
+   {
+    "id": "gmb-2024-435001",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Weteringschans 6",
+    "soort": "andere vergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Weteringschans 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435001.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0010.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0042.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_14.html",
+     "tekst": " De mogelijkheid om horeca te exploiteren is voorbehouden aan een beperkt aantal culturele instellingen. De keuze voor een beperkt aantal instellingen is mede bedoeld om overlast voor het woon- en leefklimaat te voorkomen, dan wel zeer beperkt te houden. Een aantal van deze instellingen, zoals Paradiso, de Melkweg en The Sugar Factory, ligt bovendien in het uitgaansgebied. Voordat de instellingen horeca-activiteiten kunnen uitvoeren, dient eerst een aanvraag voor afwijking van het bestemmingsplan te worden aangevraagd. Het dagelijks bestuur neemt hierover een besluit. Aan deze afwijking kunnen voorwaarden worden verbonden, bijvoorbeeld de manier waarop de horeca geÃ«xploiteerd wor"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_4.4.html",
+     "tekst": "Weteringschans is representatieve woningbouw in grote ensembles gebouwd. Aan de overzijde aan het water zijn vrijstaande villa's gerealiseerd. Voorts kwamen er negentiende eeuwse grootschalige openbare gebouwen zoals het Huis van Bewaring (nu Max Euweplein), het kerkgebouw van de Vrije Gemeente (nu Paradiso), een melkfabriek (nu de Melkweg), twee scholen (het Barlaeus Gymnasium en de Huishoudschool ernaast), het warenhuis Hirsch & Co en het uit 1905 stammende AmÃ©rican Hotel. <span"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_5.1.html",
+     "tekst": "em. Fietsen worden op plekken neergezet die hiervoor niet bedoeld zijn. Het gevolg is dat de openbare ruimte verrommelt en voetgangers belemmerd worden. Wel bevinden zich twee openbare fietsenstallingen in het plangebied: fietsenstalling PathÃ© de Munt aan de Reguliersdwarsstraat en fietsenstalling Paradiso aan de Weteringschans. 5.1.7 Water De Amsterdamse binnenstad heeft zijn ruimtelijke kwaliteit voor een groot deel te danken aan de bijzondere relatie met water. De stedenbouwkundige structuur is gebaseerd op de loop van de grachten en de karakteristiek van de stedelijke ruimte wordt in belangrijke mate"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.3.html",
+     "tekst": "uurtcombinaties Grachtengordel Zuid en Weteringschans in het plangebied. In de Grachtengordel Zuid werkt 63% van de werkzame personen in de kantorensector, in de Weteringschansbuurt is dat 57%. In de laatste buurt werkt ook een behoorlijk deel bij de culturele instellingen (zoals Stadsschouwburg en Paradiso) rond het Leidseplein. In de buurtcombinatie Grachtengordel Zuid zit de meeste kantoorwerkgelegenheid in de zakelijke dienstverlening (47%), op de voet gevolgd door de werkgelegenheid bij banken (39%). De rest van de kantoorwerkgelegenheid zit op 14%. Advocatenkantoren, reclamebureaus en non-profit instellingen vestigen zich graag in de grachtengordel. De Gouden Bocht"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.4.html",
+     "tekst": "zieningen, ongeveer 16% van alle werkzame personen in deze buurtcombinatie. Er zijn 165 vestigingen. Vooral in de culturele sector (ca. 31%) en in sport/recreatie (32%) werken veel mensen. Op en nabij het Leidseplein zitten diverse culturele instellingen zoals de Stadsschouwburg, De La Mar Theater, Paradiso, de Melkweg, Sugar Factory, de Balie en de City-bioscoop. Het hoge percentage werkzame personen in de sport/recreatie komt vooral door de aanwezigheid van Holland Casino bij het Max Euweplein. Daarna volgen de werkgelegenheid bij de politie en bij het onderwijs met elk ca. 12%. In dit gebied zijn twee basisscholen (de Kleine Reus bij de Vijzelstraat en de ASVO aan het Frederiksplein) en d"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.9.html",
+     "tekst": "llingen en musea in sommige gevallen de grens tussen additionele horeca (horeca die ondergeschikt is aan de hoofdfunctie) en zelfstandige horeca, onder druk staat. Het gaat dan om culturele functies waarbij de cultuuruiting een duidelijke horecacomponent heeft zoals live optredens bij de Melkweg en Paradiso of om culturele instellingen die beschikken over een pand of ruimte die verhuurd wordt voor bijeenkomsten of feesten. Bij additionele horeca mogen deze activiteiten niet plaatsvinden. Er is voor gekozen om voor deze instellingen een nieuwe horecacategorie op te nemen in het bestemmingsplan, Horeca 6. Het gaat om een vorm van zelfstandige horeca die gekoppeld is aan een culturele fu"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.9.html",
+     "tekst": "of musea een aanvraag voor afwijking van het bestemmingsplan indienen. Aan de de afwijking kunnen voorschriften en beperkingen worden verbonden. In het plangebied zijn verschillende locaties van culturele instellingen die in aanmerking zouden komen voor een afwijking. Voorbeelden zijn Paradiso, de Melkweg, de SugarFactory, de Duif en de Amstelkerk. 6.9.2 Ontwikkeling Horeca 6 is een nieuwe horecacategorie in het plangebied. 6.9.3 Uitgangspunten De culturele instellingen, waarvan op"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 2,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 5,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0010.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0042.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+ ],
+ "duur_s": 85,
+ "pand_adressen": [
+  "Weteringschans 6"
+ ]
+}

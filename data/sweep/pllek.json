@@ -1,0 +1,379 @@
+{
+ "id": "pllek",
+ "naam": "Pllek",
+ "adres": "TT Neveritaweg 59, 1033 WB Amsterdam",
+ "termen": [
+  "TT Neveritaweg 59",
+  "1033WB",
+  "1033 WB"
+ ],
+ "pand": "0363100012241285",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 1,
+  "openbaar": 1,
+  "laatste": "2012-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_02272",
+    "titel": "tt. Neveritaweg 59",
+    "datum": "2012-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02272"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 32,
+  "gezocht": [
+   "TT Neveritaweg 59",
+   "tt. Neveritaweg 59"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-202531",
+    "titel": "Besluit omgevingsvergunning reguliere procedure nabij TT. Neveritaweg 59 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-07",
+    "onderwerp": "plaatsen van een kunstobject",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-202531.html",
+    "zaak": "Z2024-007844"
+   },
+   {
+    "id": "gmb-2024-177236",
+    "titel": "Aanvraag omgevingsvergunning nabij TT. Neveritaweg 59 1033WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "plaatsen van een kunstobject",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-177236.html",
+    "zaak": "Z2024-007844"
+   },
+   {
+    "id": "gmb-2024-160491",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend nabij tt. Neveritaweg 59",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "plaatsen kunstobject",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-160491.html",
+    "zaak": "Z2024-004959"
+   },
+   {
+    "id": "gmb-2024-127761",
+    "titel": "Aanvraag omgevingsvergunning nabij tt. Neveritaweg 59",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-21",
+    "onderwerp": "plaatsen kunstobject",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-127761.html",
+    "zaak": "Z2024-004959"
+   },
+   {
+    "id": "gmb-2021-45368",
+    "titel": "Buiten behandeling laten van de aanvraag omgevingsvergunning tt. Neveritaweg 59, 1033WB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-15",
+    "onderwerp": "Popup Sauna",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-45368.html"
+   },
+   {
+    "id": "gmb-2021-4052",
+    "titel": "Verlenging beslistermijn omgevingsvergunning tt. Neveritaweg 59 1033WB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-01-06",
+    "onderwerp": "Popup Sauna",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-4052.html"
+   },
+   {
+    "id": "gmb-2020-328941",
+    "titel": "Aanvraag omgevingsvergunning tt. Neveritaweg 59 1033WB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-11",
+    "onderwerp": "Popup Sauna",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-328941.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-202531",
+   "gmb-2024-177236",
+   "gmb-2024-160491",
+   "gmb-2024-127761",
+   "gmb-2021-45368",
+   "gmb-2020-328941"
+  ],
+  "zaaknummers": [
+   "Z2024-004959",
+   "Z2024-007844"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-462660",
+    "titel": "Besluit apv vergunning Verleend - tt. Neveritaweg ter hoogte van nummer: 59 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-05",
+    "onderwerp": "Object,tt. Neveritaweg 59 1033WB, 20261015, tt. Neveritaweg ter hoogte van nummer: 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-462660.html"
+   },
+   {
+    "id": "gmb-2026-360749",
+    "titel": "Besluit apv vergunning Verleend - tt. Neveritaweg ter hoogte van nummer: 59 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "Filmen,tt. Neveritaweg 59 1033WB, 20260826, tt. Neveritaweg ter hoogte van nummer: 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-360749.html"
+   },
+   {
+    "id": "gmb-2025-569416",
+    "titel": "Besluit apv vergunning Verleend - tt. Neveritaweg ter hoogte van nummer: 59 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-29",
+    "onderwerp": "Object,tt. Neveritaweg 59 1033WB, 20251231, tt. Neveritaweg ter hoogte van nummer: 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-569416.html"
+   },
+   {
+    "id": "gmb-2025-464823",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-464823.html"
+   },
+   {
+    "id": "gmb-2025-438615",
+    "titel": "Besluit apv vergunning Verleend - tt. Neveritaweg ter hoogte van nummer: 59 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-10",
+    "onderwerp": "Object,tt. Neveritaweg 59 1033WB, 20251020, tt. Neveritaweg ter hoogte van nummer: 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-438615.html"
+   },
+   {
+    "id": "gmb-2025-300396",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - tt. Neveritaweg 59 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Neveritaweg 59 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-300396.html"
+   },
+   {
+    "id": "gmb-2025-206572",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - tt. Neveritaweg 59 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-05-13",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt. Neveritaweg 59 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-206572.html"
+   },
+   {
+    "id": "gmb-2024-550373",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2024-12-31",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550373.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-70668",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2024-02-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-70668.html"
+   },
+   {
+    "id": "gmb-2024-47523",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-47523.html"
+   },
+   {
+    "id": "gmb-2023-503815",
+    "titel": "Besluit apv vergunning Verleend - tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2023-11-27",
+    "onderwerp": "Werkzaamheden en vervoer op straat tt. Neveritaweg 59 1033WB, tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-503815.html"
+   },
+   {
+    "id": "gmb-2023-337748",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-337748.html"
+   },
+   {
+    "id": "gmb-2023-65148",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-65148.html"
+   },
+   {
+    "id": "gmb-2023-59044",
+    "titel": "Besluit apv vergunning Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2023-02-10",
+    "onderwerp": "TVM Objecten - tt. Neveritaweg 59 - 10 feb t/m 13 feb 2023, tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-59044.html"
+   },
+   {
+    "id": "gmb-2022-581071",
+    "titel": "Besluit apv vergunning Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "Objecten tt. Neveritaweg 59 29-12-2022 t/m 2-1-2023 09:00 t/m 09:00, tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-581071.html"
+   },
+   {
+    "id": "gmb-2022-447108",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) tt. Neveritaweg 59",
+    "soort": "evenementenvergunning",
+    "datum": "2022-10-07",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-447108.html"
+   },
+   {
+    "id": "gmb-2022-335147",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2022-07-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-335147.html"
+   },
+   {
+    "id": "gmb-2022-256292",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend",
+    "soort": "exploitatievergunning",
+    "datum": "2022-06-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Neveritaweg 59 - 1033WB - Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-256292.html"
+   },
+   {
+    "id": "gmb-2022-186058",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Neveritaweg 59",
+    "soort": "andere vergunning",
+    "datum": "2022-04-26",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-186058.html"
+   },
+   {
+    "id": "gmb-2022-114277",
+    "titel": "Aanvraag evenementenvergunning tt. Neveritaweg 59",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-114277.html"
+   },
+   {
+    "id": "gmb-2022-59742",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf tt. Neveritaweg 59",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt.  Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-59742.html"
+   },
+   {
+    "id": "gmb-2021-388362",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend tt. Neveritaweg 59",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres tt. Neveritaweg 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-388362.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1010BPSTD-VG01",
+   "naam": "NDSM-werf Oost",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-05-29",
+   "opp_m2": 548425,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "tt. Neveritaweg 59"
+ ]
+}

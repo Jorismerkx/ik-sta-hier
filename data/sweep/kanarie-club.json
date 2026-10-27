@@ -1,0 +1,1250 @@
+{
+ "id": "kanarie-club",
+ "naam": "Kanarie Club",
+ "adres": "Bellamyplein 51, 1053 AT Amsterdam",
+ "termen": [
+  "Bellamyplein 51",
+  "1053AT",
+  "1053 AT",
+  "Kanarie Club"
+ ],
+ "pand": "0363100012236693",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 25,
+  "openbaar": 25,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_34398",
+    "titel": "Bellamyplein 1; Bilderdijkkade 60 - 62; Tollensstraat 60 - 62",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 192,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34398"
+   },
+   {
+    "dossier": "SJ_34400",
+    "titel": "Bellamyplein 1; Bilderdijkkade 60 - 62; Bilderdijkkade 444 - 452; Bilderdijkkade 456; Tollensstraat 60 - 62",
+    "datum": "2008-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 94,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34400"
+   },
+   {
+    "dossier": "SJ_34397",
+    "titel": "Bellamyplein 1; Bilderdijkkade 60 - 62; Tollensstraat 60 - 62",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1015,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34397"
+   },
+   {
+    "dossier": "SJ_59776",
+    "titel": "Bellamystraat 1 a-4",
+    "datum": "2007-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_59776"
+   },
+   {
+    "dossier": "SJ_59977",
+    "titel": "Bellamystraat 1 a",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_59977"
+   },
+   {
+    "dossier": "SJ_60448",
+    "titel": "Bellamyplein 1; Bilderdijkkade 60 - 62; Bilderdijkkade 444 - 452; Bilderdijkkade 456; Tollensstraat 60 - 62",
+    "datum": "2007-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 639,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_60448"
+   },
+   {
+    "dossier": "SJ_59843",
+    "titel": "Bellamystraat 1 a",
+    "datum": "2007-01-01",
+    "soort": "splitsing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_59843"
+   },
+   {
+    "dossier": "SJ_74543",
+    "titel": "Bellamystraat 1 a",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_74543"
+   },
+   {
+    "dossier": "SJ_60580",
+    "titel": "Bellamystraat 1 a",
+    "datum": "2006-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 161,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_60580"
+   },
+   {
+    "dossier": "SJ_57991",
+    "titel": "Bellamystraat 1 a",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57991"
+   },
+   {
+    "dossier": "SJ_63904",
+    "titel": "Bellamystraat 1 a",
+    "datum": "2004-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 88,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_63904"
+   },
+   {
+    "dossier": "SJ_49631",
+    "titel": "Tollensstraat 60",
+    "datum": "2003-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_49631"
+   },
+   {
+    "dossier": "SJ_34419",
+    "titel": "Tollensstraat 60",
+    "datum": "2002-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34419"
+   },
+   {
+    "dossier": "SJ_51063",
+    "titel": "Bellamystraat 1 a; Ten Katestraat 47 - 51",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_51063"
+   },
+   {
+    "dossier": "SJ_51106",
+    "titel": "Bellamystraat 1 a; Ten Katestraat 47 - 51",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_51106"
+   },
+   {
+    "dossier": "SJ_34403",
+    "titel": "Bellamystraat 1; Tollensstraat 60 - 62",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34403"
+   },
+   {
+    "dossier": "SJ_65930",
+    "titel": "Bellamystraat 1 a; Bellamystraat 3 - 9; Ten Katestraat 37 - 79",
+    "datum": "1984-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_65930"
+   },
+   {
+    "dossier": "SJ_53424",
+    "titel": "Bellamystraat 1 a; Bellamystraat 3",
+    "datum": "1964-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_53424"
+   },
+   {
+    "dossier": "SJ_34404",
+    "titel": "Bellamystraat 1; Tollensstraat 60 - 62",
+    "datum": "1958-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34404"
+   },
+   {
+    "dossier": "SJ_34420",
+    "titel": "Tollensstraat 60 - 62",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34420"
+   },
+   {
+    "dossier": "SJ_55068",
+    "titel": "Bellamystraat 1; Kinkerstraat 142 c; Tollensstraat 60 - 62",
+    "datum": "1935-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_55068"
+   },
+   {
+    "dossier": "SJ_53449",
+    "titel": "Bellamystraat 1 a; Ten Katestraat 47 - 51",
+    "datum": "1933-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_53449"
+   },
+   {
+    "dossier": "SJ_34405",
+    "titel": "Tollensstraat 60 - 62",
+    "datum": "1932-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34405"
+   },
+   {
+    "dossier": "SJ_34406",
+    "titel": "Bellamystraat 1",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34406"
+   },
+   {
+    "dossier": "SJ_51267",
+    "titel": "Bellamystraat 1 a",
+    "datum": "1918-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_51267"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 97,
+  "gezocht": [
+   "Bellamyplein 51",
+   "Bellamyplein 41",
+   "Bellamyplein 45",
+   "Bellamyplein 47",
+   "Bellamyplein 57",
+   "Bellamystraat 1",
+   "Hannie Dankbaarpassage 10",
+   "Hannie Dankbaarpassage 12",
+   "Hannie Dankbaarpassage 14",
+   "Hannie Dankbaarpassage 16",
+   "Hannie Dankbaarpassage 18",
+   "Hannie Dankbaarpassage 20",
+   "Hannie Dankbaarpassage 22"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-459835",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure Bellamyplein 47 1053AT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-27",
+    "onderwerp": "realiseren en het brandveilig gebruiken van een extra hotelkamer in een hotel",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-459835.html",
+    "zaak": "Z2023-W001231"
+   },
+   {
+    "id": "gmb-2023-381131",
+    "titel": "Ontwerpbesluit omgevingsvergunning Bellamyplein 47 1053AT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-04",
+    "onderwerp": "realiseren en het brandveilig gebruiken van een hotelkamer ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-381131.html",
+    "zaak": "Z2023-W001231"
+   },
+   {
+    "id": "gmb-2023-162814",
+    "titel": "Aanvraag omgevingsvergunning Bellamyplein 47 1053AT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-13",
+    "onderwerp": "realiseren en het brandveilig gebruiken van een hotelkamer ",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-162814.html",
+    "zaak": "Z2023-W001231"
+   },
+   {
+    "id": "gmb-2022-574338",
+    "titel": "Vergunning Verleend - Bellamyplein 51, Amsterdam - De Hallen Amsterdam Oud-West - het aanpassen van de brandscheiding van hal 3",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-574338.html",
+    "zaak": "1308680"
+   },
+   {
+    "id": "gmb-2022-527238",
+    "titel": "Afgehandelde omgevingsvergunning, het plaatsen van een warmtepompunit op het dak van een woning, Bellamystraat 1 te Utrecht,  HZ_WABO-22-36018",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-28",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-527238.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-500163",
+    "titel": "Beslistermijn verlengd - Bellamyplein 51 (Q 9117), Amsterdam - De Hallen Amsterdam Oud-West - het aanpassen van de brandscheiding van hal 3",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-500163.html",
+    "zaak": "1305704"
+   },
+   {
+    "id": "gmb-2022-464281",
+    "titel": "Aanvraag omgevingsvergunning, het plaatsen van een warmtepompunit op het dak, Bellamystraat 1 te Utrecht, HZ_WABO-22-36018",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-19",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-464281.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-438431",
+    "titel": "Aanvraag vergunning - Bellamyplein 51 , Amsterdam - het aanpassen van de brandscheiding van hal 3",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-438431.html",
+    "zaak": "1303509"
+   },
+   {
+    "id": "gmb-2021-128992",
+    "titel": "sloopmelding - Bellamystraat 1 in Terneuzen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-128992.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-65031",
+    "titel": "Sloopmelding - Bellamystraat 1 t/m 15 (oneven) in Terneuzen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-03-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-65031.html"
+   },
+   {
+    "id": "gmb-2019-282731",
+    "titel": "Besluit omgevingsvergunning - Bellamystraat 1 t/m 15 in Terneuzen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-11-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-282731.html"
+   },
+   {
+    "id": "gmb-2019-225458",
+    "titel": "Ingekomen aanvraag omgevingsvergunning - Bellamystraat 1 t/m 15 in Terneuzen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-09-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-225458.html"
+   },
+   {
+    "id": "gmb-2019-49808",
+    "titel": "Afgehandelde omgevingsvergunning, het isoleren van een buitenmuur van een woning, Bellamystraat 1 te Utrecht,  HZ_WABO-18-39166",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-03-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-49808.html"
+   },
+   {
+    "id": "gmb-2019-32907",
+    "titel": "Verlenging beslistermijn omgevingsvergunning, het isoleren van een buitenmuur van een woning, Bellamystraat 1 te Utrecht,  HZ_WABO-18-39166",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-02-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-32907.html"
+   },
+   {
+    "id": "gmb-2018-261314",
+    "titel": "Aanvraag omgevingsvergunning, het isoleren van een buitenmuur van een woning, Bellamystraat 1 te Utrecht, HZ_WABO-18-39166",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-12-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-261314.html"
+   },
+   {
+    "id": "stcrt-2012-17693",
+    "titel": "Verleende omgevingsvergunning afwijken bestemmingsplan op de percelen Bellamystraat 1 en Tollenstraat 60-62 te Amsterdam, Amsterdam - West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-17693.html"
+   },
+   {
+    "id": "stcrt-2012-11283",
+    "titel": "Ontwerpomgevingsvergunning tramremise ‘De Hallen’ op de percelen Bellamystraat 1 en Tollenstraat 60-62, te Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-06-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-11283.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-459835",
+   "gmb-2023-381131",
+   "gmb-2023-162814",
+   "gmb-2022-464281",
+   "gmb-2022-438431",
+   "gmb-2019-282731",
+   "gmb-2019-225458",
+   "gmb-2018-261314"
+  ],
+  "zaaknummers": [
+   "1303509",
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "Z2023-W001231"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2012-17693",
+    "titel": "Verleende omgevingsvergunning afwijken bestemmingsplan op de percelen Bellamystraat 1 en Tollenstraat 60-62 te Amsterdam, Amsterdam - West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-17693.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-264976",
+    "titel": "Besluit apv vergunning Verleend - Hannie Dankbaarpassage ter hoogte van nummer: 18 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-05",
+    "onderwerp": "Upload_RVV,Filmen,Hannie Dankbaarpassage 18 1053RT, 20260609, Hannie Dankbaarpassage ter hoogte van nummer: 18",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-264976.html"
+   },
+   {
+    "id": "gmb-2026-149670",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-03-31",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-149670.html"
+   },
+   {
+    "id": "gmb-2025-559076",
+    "titel": "Besluit apv vergunning Verleend - Bellamyplein ter hoogte van nummer: 47 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-22",
+    "onderwerp": "Object,Afgesloten gebieden,Bellamyplein 47 1053AT, 20251212, 12-12-2025 t/m 20-12-2025, Bellamyplein ter hoogte van nummer: 47",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-559076.html"
+   },
+   {
+    "id": "gmb-2025-455818",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 18 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 18 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-455818.html"
+   },
+   {
+    "id": "gmb-2025-386795",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-386795.html"
+   },
+   {
+    "id": "gmb-2025-352448",
+    "titel": "Besluit apv vergunning Verleend - Bellamystraat ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-12",
+    "onderwerp": "Verhuizen 2 locaties -TVM stremmen,Bellamystraat 1 2 1053BE, 20250819 TVM, 5 vakken Grensstraat 6-16, Bellamystraat ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-352448.html"
+   },
+   {
+    "id": "gmb-2025-330392",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Bellamyplein 47 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Bellamyplein 47 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-330392.html"
+   },
+   {
+    "id": "gmb-2025-177766",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Bellamyplein 47 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Bellamyplein 47 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-177766.html"
+   },
+   {
+    "id": "gmb-2025-158315",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Bellamystraat 1-3",
+    "soort": "andere vergunning",
+    "datum": "2025-04-11",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Bellamystraat 1-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-158315.html"
+   },
+   {
+    "id": "gmb-2024-525973",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Geen aanvraag of dubbel - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-12-16",
+    "onderwerp": "Geen aanvraag of dubbel: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-525973.html"
+   },
+   {
+    "id": "gmb-2024-521265",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-12-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-521265.html"
+   },
+   {
+    "id": "gmb-2024-507793",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-12-03",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-507793.html"
+   },
+   {
+    "id": "gmb-2024-447937",
+    "titel": "Besluit apv vergunning Verleend - Bellamyplein 51",
+    "soort": "andere vergunning",
+    "datum": "2024-10-24",
+    "onderwerp": "RVV, Bellamyplein 51 1053AT, 20241024, Bellamyplein 51",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-447937.html"
+   },
+   {
+    "id": "gmb-2024-355849",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-355849.html"
+   },
+   {
+    "id": "gmb-2024-344135",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-344135.html"
+   },
+   {
+    "id": "gmb-2024-258830",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Bellamystraat 1-3",
+    "soort": "andere vergunning",
+    "datum": "2024-06-14",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Bellamystraat 1-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-258830.html"
+   },
+   {
+    "id": "gmb-2024-249386",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249386.html"
+   },
+   {
+    "id": "gmb-2024-249359",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249359.html"
+   },
+   {
+    "id": "gmb-2024-249320",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249320.html"
+   },
+   {
+    "id": "gmb-2024-249314",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249314.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-226297",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-226297.html"
+   },
+   {
+    "id": "gmb-2024-215328",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-17",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-215328.html"
+   },
+   {
+    "id": "gmb-2024-210926",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-14",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-210926.html"
+   },
+   {
+    "id": "gmb-2024-202638",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-202638.html"
+   },
+   {
+    "id": "gmb-2024-179201",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-179201.html"
+   },
+   {
+    "id": "gmb-2024-179208",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-179208.html"
+   },
+   {
+    "id": "gmb-2024-174775",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174775.html"
+   },
+   {
+    "id": "gmb-2024-172606",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Hannie Dankbaarpassage 16 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-172606.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1103BPSTD-OH01",
+   "naam": "Bestemmingsplan De Hallen - Tramremise",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-08-09",
+   "opp_m2": 16551,
+   "pdfs": [
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/t_NL.IMRO.0363.E1103BPSTD-OH01_index.pdf",
+     "titel": "Toelichting",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/rb_NL.IMRO.0363.E1103BPSTD-OH01_1.pdf",
+     "titel": "Volgende",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_1.pdf",
+     "titel": "Volgende",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_2.pdf",
+     "titel": "Bijlage 2 Saneringsplan, Cauberg-Huygen (12 februari 2006)",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+     "titel": "Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012)",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_4.pdf",
+     "titel": "Bijlage 4 Aanwijzing beschermd monument, Besluit RW-2000-2158 (17 december 2001)",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_11.pdf",
+     "titel": "Bijlage 11 Windklimaat, Peutz (15 november 2011)",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_12.pdf",
+     "titel": "Bijlage 12 M.e.r. beoordeling, Van Riezen & Partners (9 november 2011)",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_13.pdf",
+     "titel": "Bijlage 13 Advies m.e.r. beoordeling, Commissie voor de milieueffectrapportage (6 september 2011)",
+     "waarom": "klein plan: alle bijlagen"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_14.pdf",
+     "titel": "Bijlage 14 Marktonderzoek kantoren, DTZ Zadelhoff (8 februari 2012)",
+     "waarom": "klein plan: alle bijlagen"
+    }
+   ],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1215BPSTD-VG01",
+   "naam": "Paraplu Bestemmingsplan Verbod Massagesalons",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 69352,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-VG02",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-11-07",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2001BPSTD-VG01",
+   "naam": "Oud West 2018 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-02-15",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2002BPSTD-VG01",
+   "naam": "Oud West 2018 2e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-11-10",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2202BPSTD-VG01",
+   "naam": "Oud West 2018 3e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-06-26",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2203BPSTD-VG01",
+   "naam": "Oud West 4e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-10-06",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-OW01",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2018-05-03",
+   "opp_m2": 1696790,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 3,
+  "plannen": 22,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/t_NL.IMRO.0363.E1103BPSTD-OH01_index.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Toelichting [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 3,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/rb_NL.IMRO.0363.E1103BPSTD-OH01_1.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Volgende [klein plan: alle bijlagen]",
+   "fout": "niet te downloaden of te groot"
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_1.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Volgende [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_2.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 2 Saneringsplan, Cauberg-Huygen (12 februari 2006) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 0,
+   "scan_zonder_tekst": true
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 6,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_4.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 4 Aanwijzing beschermd monument, Besluit RW-2000-2158 (17 december 2001) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 0,
+   "scan_zonder_tekst": true
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_11.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 11 Windklimaat, Peutz (15 november 2011) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 2,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_12.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 12 M.e.r. beoordeling, Van Riezen & Partners (9 november 2011) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 140,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_13.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 13 Advies m.e.r. beoordeling, Commissie voor de milieueffectrapportage (6 september 2011) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 2,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_14.pdf",
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 14 Marktonderzoek kantoren, DTZ Zadelhoff (8 februari 2012) [klein plan: alle bijlagen]",
+   "noemingen": 0,
+   "kandidaten": 0,
+   "scan_zonder_tekst": true
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 12 M.e.r. beoordeling, Van Riezen & Partners (9 november 2011) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\d1bffe1f9d8405a2.pdf",
+   "pagina": 23,
+   "paginas": 288,
+   "score": 5.0,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": "23 uit 1901-1903 wordt gekenmerkt door een rijke en verzorgd gedetailleerde gevelarchitectuur met Jugendstil motieven, terwijl de uitbreiding van 1908 is uitgevoerd in een traditionele bouwstijl zonder speciale architectonische kenmerken. De aanbouwen aan de dienstwoning Bellamystraat 1 uit 1930 en ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_12.pdf",
+   "png": "data/sources/kanarie-club/sweep/d1bffe1f9d8405a2-p23.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Toelichting [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\e140d1b09f88164e.pdf",
+   "pagina": 5,
+   "paginas": 52,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": " Inhoud Pagina 1. Inleiding ........................................................................................................................................ 2 1.1 Aanleiding bestemmingsplan ......................................................................................................",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/t_NL.IMRO.0363.E1103BPSTD-OH01_index.pdf",
+   "png": "data/sources/kanarie-club/sweep/e140d1b09f88164e-p5.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Toelichting [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\e140d1b09f88164e.pdf",
+   "pagina": 31,
+   "paginas": 52,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 1,
+   "beelddekking": 0.2,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": " 26 4.9 Kabels en leidingen Er bevinden zich geen hoofdkabels en leidingen meer in het gebied die van betekenis zijn voor het voorliggende bestemmingsplan. 4.10 Bezonning Het bestemmingsplan voorziet ook in extra bouwvolume, waardoor de bouwhoogte op twee locaties toe zal nemen. Uit een schaduwstudi",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/t_NL.IMRO.0363.E1103BPSTD-OH01_index.pdf",
+   "png": "data/sources/kanarie-club/sweep/e140d1b09f88164e-p31.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 11 Windklimaat, Peutz (15 november 2011) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\417def8cd36f6112.pdf",
+   "pagina": 4,
+   "paginas": 15,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 11,
+   "beelddekking": 0.0,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": "Het doel van het onderzoek was het geven van een eerste beoordeling van het te verwachten windklimaat rondom de geplande bebouwing. Om het te verwachten windklimaat te kunnen relateren aan de bestaande situatie is tevens het windklimaat voor de bestaande bebouwingssituatie onderzocht. Voor de opzet ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_11.pdf",
+   "png": "data/sources/kanarie-club/sweep/417def8cd36f6112-p4.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Toelichting [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\e140d1b09f88164e.pdf",
+   "pagina": 8,
+   "paginas": 52,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 0.53,
+   "woorden": [],
+   "tekst": " 3 Afbeelding: plangrenzen bestemmingsplan “De Hallen - Tramremise” ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/t_NL.IMRO.0363.E1103BPSTD-OH01_index.pdf",
+   "png": "data/sources/kanarie-club/sweep/e140d1b09f88164e-p8.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Volgende [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\8ee23148ea4079fd.pdf",
+   "pagina": 1,
+   "paginas": 19,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 1.0,
+   "woorden": [],
+   "tekst": "",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_1.pdf",
+   "png": "data/sources/kanarie-club/sweep/8ee23148ea4079fd-p1.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ff89cfc38e97d565.pdf",
+   "pagina": 15,
+   "paginas": 32,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 31,
+   "beelddekking": 0.78,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 1 maart 2012 15 figuur 1 verkaveling situatie met bouwhoogten ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "png": "data/sources/kanarie-club/sweep/ff89cfc38e97d565-p15.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ff89cfc38e97d565.pdf",
+   "pagina": 16,
+   "paginas": 32,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 31,
+   "beelddekking": 0.63,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 1 maart 2012 16 figuur 2 rekenmodel ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "png": "data/sources/kanarie-club/sweep/ff89cfc38e97d565-p16.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ff89cfc38e97d565.pdf",
+   "pagina": 17,
+   "paginas": 32,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 31,
+   "beelddekking": 0.63,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 1 maart 2012 17 figuur 3 rekenmodel met waarneempunten ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "png": "data/sources/kanarie-club/sweep/ff89cfc38e97d565-p17.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ff89cfc38e97d565.pdf",
+   "pagina": 22,
+   "paginas": 32,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 4,
+   "beelddekking": 0.6,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 1 maart 2012 22 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "png": "data/sources/kanarie-club/sweep/ff89cfc38e97d565-p22.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ff89cfc38e97d565.pdf",
+   "pagina": 23,
+   "paginas": 32,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 4,
+   "beelddekking": 0.6,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 1 maart 2012 23 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "png": "data/sources/kanarie-club/sweep/ff89cfc38e97d565-p23.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 3 Akoestisch onderzoek, M+P (1 maart 2012) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ff89cfc38e97d565.pdf",
+   "pagina": 24,
+   "paginas": 32,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 4,
+   "beelddekking": 0.6,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 1 maart 2012 24 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_3.pdf",
+   "png": "data/sources/kanarie-club/sweep/ff89cfc38e97d565-p24.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 11 Windklimaat, Peutz (15 november 2011) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\417def8cd36f6112.pdf",
+   "pagina": 14,
+   "paginas": 15,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 1.0,
+   "woorden": [],
+   "tekst": "",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_11.pdf",
+   "png": "data/sources/kanarie-club/sweep/417def8cd36f6112-p14.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 12 M.e.r. beoordeling, Van Riezen & Partners (9 november 2011) [klein plan: alle bijlagen]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\d1bffe1f9d8405a2.pdf",
+   "pagina": 52,
+   "paginas": 288,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 31,
+   "beelddekking": 0.78,
+   "woorden": [],
+   "tekst": "M+P.SDWE.11.01.1, 4 juni 2011 15 figuur 1 verkaveling situatie met bouwhoogten ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_12.pdf",
+   "png": "data/sources/kanarie-club/sweep/d1bffe1f9d8405a2-p52.png"
+  }
+ ],
+ "contactvellen": [
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 2 Saneringsplan, Cauberg-Huygen (12 februari 2006) [klein plan: alle bijlagen]",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_2.pdf",
+   "pdf": "data/sources/_sweep_cache/0636183c08676db4.pdf",
+   "vellen": [
+    "data/sources/kanarie-club/sweep/vel-0636183c-1.png",
+    "data/sources/kanarie-club/sweep/vel-0636183c-21.png",
+    "data/sources/kanarie-club/sweep/vel-0636183c-41.png",
+    "data/sources/kanarie-club/sweep/vel-0636183c-61.png",
+    "data/sources/kanarie-club/sweep/vel-0636183c-81.png"
+   ]
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 4 Aanwijzing beschermd monument, Besluit RW-2000-2158 (17 december 2001) [klein plan: alle bijlagen]",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_4.pdf",
+   "pdf": "data/sources/_sweep_cache/b9b0b9924bd247bd.pdf",
+   "vellen": [
+    "data/sources/kanarie-club/sweep/vel-b9b0b992-1.png"
+   ]
+  },
+  {
+   "bron": "plan NL.IMRO.0363.E1103BPSTD-OH01 (Bestemmingsplan De Hallen - Tramremise): Bijlage 14 Marktonderzoek kantoren, DTZ Zadelhoff (8 februari 2012) [klein plan: alle bijlagen]",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.E1103BPSTD-OH01/tb_NL.IMRO.0363.E1103BPSTD-OH01_14.pdf",
+   "pdf": "data/sources/_sweep_cache/17821298a6e6ec3e.pdf",
+   "vellen": [
+    "data/sources/kanarie-club/sweep/vel-17821298-1.png"
+   ]
+  }
+ ],
+ "figuren": [],
+ "duur_s": 36,
+ "pand_adressen": [
+  "Bellamyplein 41",
+  "Bellamyplein 45",
+  "Bellamyplein 47",
+  "Bellamyplein 57",
+  "Bellamystraat 1",
+  "Hannie Dankbaarpassage 10",
+  "Hannie Dankbaarpassage 12",
+  "Hannie Dankbaarpassage 14",
+  "Hannie Dankbaarpassage 16",
+  "Hannie Dankbaarpassage 18",
+  "Hannie Dankbaarpassage 20",
+  "Hannie Dankbaarpassage 22"
+ ]
+}

@@ -1,0 +1,675 @@
+{
+ "id": "panama",
+ "naam": "Panama",
+ "adres": "Oostelijke Handelskade 4, 1019 BM Amsterdam",
+ "termen": [
+  "Oostelijke Handelskade 4",
+  "1019BM",
+  "1019 BM",
+  "Panama"
+ ],
+ "pand": "0363100012078164",
+ "status": "open",
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 14,
+  "openbaar": 14,
+  "laatste": "2006-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_17864",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2006-01-01",
+    "soort": "kunstwerk",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_17864"
+   },
+   {
+    "dossier": "SU_20611",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2001-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20611"
+   },
+   {
+    "dossier": "SU_20610",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2001-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20610"
+   },
+   {
+    "dossier": "SU_20609",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2001-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 160,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20609"
+   },
+   {
+    "dossier": "SU_20606",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2001-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20606"
+   },
+   {
+    "dossier": "SU_20608",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20608"
+   },
+   {
+    "dossier": "SU_20607",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20607"
+   },
+   {
+    "dossier": "SU_30246",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30246"
+   },
+   {
+    "dossier": "SU_20598",
+    "titel": "Oostelijke Handelskade 4",
+    "datum": "1999-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_20598"
+   },
+   {
+    "dossier": "SU_32490",
+    "titel": "Oostelijke Handelskade 4 B; Parallelweg 2",
+    "datum": "1993-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32490"
+   },
+   {
+    "dossier": "SU_26181",
+    "titel": "Oostelijke Handelskade 4 B",
+    "datum": "1979-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26181"
+   },
+   {
+    "dossier": "SU_29168",
+    "titel": "Oostelijke Handelskade 4 B",
+    "datum": "1967-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_29168"
+   },
+   {
+    "dossier": "SU_26171",
+    "titel": "Oostelijke Handelskade 4 B",
+    "datum": "1965-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 81,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26171"
+   },
+   {
+    "dossier": "SU_26180",
+    "titel": "Oostelijke Handelskade 4 B",
+    "datum": "1965-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26180"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 56,
+  "gezocht": [
+   "Oostelijke Handelskade 4"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-462178",
+    "titel": "Besluit omgevingsvergunning reguliere procedure buiten behandeling gesteld Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-02",
+    "onderwerp": "aanbrengen van een reclame-uiting op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-462178.html",
+    "zaak": "Z2026-030920"
+   },
+   {
+    "id": "gmb-2026-355036",
+    "titel": "Aanvraag omgevingsvergunning Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-23",
+    "onderwerp": "aanbrengen van een reclame-uiting op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-355036.html"
+   },
+   {
+    "id": "gmb-2021-425874",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-25",
+    "onderwerp": "bouwkundig splitsen van de twee verschillende gebruiksfuncties in het pand",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-425874.html",
+    "zaak": "Z2021-O003343"
+   },
+   {
+    "id": "gmb-2021-309553",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-09",
+    "onderwerp": "bouwkundig splitsen van de twee verschillende gebruiksfuncties in het pand",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-309553.html",
+    "zaak": "Z2021-O003343"
+   },
+   {
+    "id": "gmb-2021-248113",
+    "titel": "Aanvraag omgevingsvergunning Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-07-27",
+    "onderwerp": "bouwkundig splitsen van de twee verschillende gebruiksfuncties in het pand",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-248113.html",
+    "zaak": "Z2021-O003343"
+   },
+   {
+    "id": "gmb-2021-203568",
+    "titel": "Besluit vergunningsvrij van de aanvraag omgevingsvergunning Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-28",
+    "onderwerp": "Verzoek om een extra huisnummer toe te kennen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-203568.html"
+   },
+   {
+    "id": "gmb-2021-199156",
+    "titel": "Aanvraag omgevingsvergunning Oostelijke Handelskade 4 1019BM Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-24",
+    "onderwerp": "Verzoek om een extra huisnummer toe te kennen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-199156.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "stcrt-2016-61886",
+    "titel": "Besluit omgevingsvergunning Oostelijke Handelskade 4 (overzijde Piet Heinkade)Amsterdam (mededeling)",
+    "soort": "Overig",
+    "datum": "2016-11-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2016-61886.html"
+   },
+   {
+    "id": "stcrt-2016-34622",
+    "titel": "Ontwerpbesluit omgevingsvergunning Oostelijke Handelskade 4 (tegenover Piet Heinkade), Amsterdam (kennisgeving)",
+    "soort": "Vergunningen",
+    "datum": "2016-06-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2016-34622.html"
+   },
+   {
+    "id": "stcrt-2012-21098",
+    "titel": "Bekendmaking verlening omgevingsvergunning projectafwijking Oostelijke Handelskade 4, Amsterdam - Oost/Watergraafsmeer",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-10-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-21098.html"
+   },
+   {
+    "id": "stcrt-2012-16892",
+    "titel": "Kennisgeving ontwerp beschikking Wet algemene bepalingen omgevingsrecht Uitgebreide voorbereidingsprocedure",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-08-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-16892.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-462178",
+   "gmb-2026-355036",
+   "gmb-2021-425874",
+   "gmb-2021-248113",
+   "gmb-2021-203568",
+   "gmb-2021-199156",
+   "stcrt-2016-61886",
+   "stcrt-2016-34622"
+  ],
+  "zaaknummers": [
+   "Z2021-O003343",
+   "Z2026-030920"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2012-20082",
+    "titel": "Kennisgeving reparatie gewijzigd vastgestelde bestemmingsplan Oostelijke Handelskade 4, Amsterdam - Oost",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-10-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-20082.html"
+   },
+   {
+    "id": "stcrt-2010-10217",
+    "titel": "Bekendmaking van het besluit tot vaststelling bestemmingsplan ‘Oostelijke Handelskade 4’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-06-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-10217.html"
+   },
+   {
+    "id": "stcrt-2009-14795",
+    "titel": "Bekendmaking van het besluit tot vaststelling bestemmingsplan ‘Oostelijke Handelskade 4’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-10-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-14795.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-489844",
+    "titel": "Besluit apv vergunning Verleend - Oostelijke Handelskade ter hoogte van nummer: 4 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Object,Oostelijke Handelskade 4 1019BM, 20261106, Oostelijke Handelskade ter hoogte van nummer: 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489844.html"
+   },
+   {
+    "id": "gmb-2026-473864",
+    "titel": "Besluit apv vergunning Verleend - Oostelijke Handelskade ter hoogte van nummer: 4 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-12",
+    "onderwerp": "Object,Oostelijke Handelskade 4 1019BM, 20261106, Oostelijke Handelskade ter hoogte van nummer: 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473864.html"
+   },
+   {
+    "id": "gmb-2026-369435",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-03",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-369435.html"
+   },
+   {
+    "id": "gmb-2026-301733",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-301733.html"
+   },
+   {
+    "id": "gmb-2025-512334",
+    "titel": "Besluit evenementenvergunning Verleend - Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-512334.html"
+   },
+   {
+    "id": "gmb-2025-498770",
+    "titel": "Aanvraag evenementenvergunning Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-498770.html"
+   },
+   {
+    "id": "gmb-2025-440804",
+    "titel": "Besluit apv vergunning Verleend - Oostelijke Handelskade ter hoogte van nummer: 4 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-13",
+    "onderwerp": "Object,Oostelijke Handelskade 4 1019BM, 20251107, Oostelijke Handelskade ter hoogte van nummer: 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-440804.html"
+   },
+   {
+    "id": "gmb-2025-405633",
+    "titel": "Besluit evenementenvergunning Verleend - Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-405633.html"
+   },
+   {
+    "id": "gmb-2025-397105",
+    "titel": "Aanvraag evenementenvergunning Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397105.html"
+   },
+   {
+    "id": "gmb-2025-344665",
+    "titel": "Besluit evenementenvergunning Verleend - Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-344665.html"
+   },
+   {
+    "id": "gmb-2025-274240",
+    "titel": "Aanvraag evenementenvergunning Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-274240.html"
+   },
+   {
+    "id": "gmb-2025-118831",
+    "titel": "Amsterdam Oost, verkeersbesluit Oostelijke Handelskade 4, instellen venstertijden bij laad- en losplaats",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2025-03-21",
+    "onderwerp": "Oostelijke Handelskade 4, instellen venstertijden bij laad- en losplaats",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-118831.html"
+   },
+   {
+    "id": "gmb-2025-17326",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Oostelijke Handelskade 4 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-01-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Oostelijke Handelskade 4 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-17326.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-387696",
+    "titel": "Besluit apv vergunning Verleend - Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2023-09-08",
+    "onderwerp": "object Oostelijke Handelskade 4 4 t/m 6-11-2023, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-387696.html"
+   },
+   {
+    "id": "gmb-2023-144952",
+    "titel": "Besluit apv vergunning Verleend - Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2023-04-04",
+    "onderwerp": "Object-Oostelijke Handelskade 4-15-4-2023 t/m 16-4-2023, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-144952.html"
+   },
+   {
+    "id": "gmb-2023-51849",
+    "titel": "Besluit apv vergunning Verleend Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2023-02-07",
+    "onderwerp": "TVM 13PV + RVV- Oostelijke Handelskade 4 - 8-2-2023 t/m 9-2-2023, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-51849.html"
+   },
+   {
+    "id": "gmb-2022-567418",
+    "titel": "Besluit apv vergunning Verleend Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2022-12-22",
+    "onderwerp": "object Oostelijke Handelskade 4 8 en 9-1-2023, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-567418.html"
+   },
+   {
+    "id": "gmb-2022-533236",
+    "titel": "Besluit apv vergunning Verleend Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2022-12-01",
+    "onderwerp": "Objecten- Oostelijke Handelskade 4 - 10-12-2022 t/m 11-12-2022, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-533236.html"
+   },
+   {
+    "id": "gmb-2022-485715",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2022-11-01",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-485715.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-414954",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Oostelijke Handelskade 4",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-414954.html"
+   },
+   {
+    "id": "gmb-2022-406375",
+    "titel": "Besluit apv vergunning Verleend Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2022-09-12",
+    "onderwerp": "OBJ - 14/10/022 t/m 17-10-2022 - Oostelijke Handelskade 4, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-406375.html"
+   },
+   {
+    "id": "gmb-2022-266189",
+    "titel": "Besluit evenementenvergunning Verleend Oostelijke Handelskade 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-06-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-266189.html"
+   },
+   {
+    "id": "gmb-2022-251136",
+    "titel": "Besluit apv vergunning Verleend Oostelijke Handelskade 4",
+    "soort": "andere vergunning",
+    "datum": "2022-06-03",
+    "onderwerp": "TVM 7 vakken Oostelijke Handelskade ter hoogte van de Panama 17-6-2022 t/m 20-6-2022, Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-251136.html"
+   },
+   {
+    "id": "gmb-2022-217031",
+    "titel": "Aanvraag evenementenvergunning Oostelijke Handelskade 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-217031.html"
+   },
+   {
+    "id": "gmb-2022-91041",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Oostelijke Handelskade 4",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Oostelijke Handelskade 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-91041.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.M1512BPSTD-VG01",
+   "naam": "Borneo Sporenburg en Rietlanden 2017",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-07-18",
+   "opp_m2": 936228,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.M1512BPSTD-VG02",
+   "naam": "Borneo Sporenburg en Rietlanden 2017",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-01-22",
+   "opp_m2": 936228,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-20082.pdf",
+   "bron": "bekendmaking stcrt-2012-20082: Kennisgeving reparatie gewijzigd vastgestelde bestemmingsplan Oostelijke Handelskade 4, Amsterdam - Oost",
+   "noemingen": 2,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-10217.pdf",
+   "bron": "bekendmaking stcrt-2010-10217: Bekendmaking van het besluit tot vaststelling bestemmingsplan ‘Oostelijke Handelskade 4’",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-14795.pdf",
+   "bron": "bekendmaking stcrt-2009-14795: Bekendmaking van het besluit tot vaststelling bestemmingsplan ‘Oostelijke Handelskade 4’",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Oostelijke Handelskade 4"
+ ]
+}

@@ -1,0 +1,314 @@
+{
+ "id": "maloe-melo",
+ "naam": "Maloe Melo",
+ "adres": "Lijnbaansgracht 163, 1016 VX Amsterdam",
+ "termen": [
+  "Lijnbaansgracht 163",
+  "1016VX",
+  "1016 VX",
+  "Maloe Melo"
+ ],
+ "pand": "0363100012174092",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 9,
+  "openbaar": 9,
+  "laatste": "2011-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_102843",
+    "titel": "Lijnbaansgracht 163",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 59,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102843"
+   },
+   {
+    "dossier": "SA_90629",
+    "titel": "Lijnbaansgracht 163",
+    "datum": "1998-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90629"
+   },
+   {
+    "dossier": "SA_90626",
+    "titel": "Lijnbaansgracht 163",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90626"
+   },
+   {
+    "dossier": "SA_90618",
+    "titel": "Lijnbaansgracht 163",
+    "datum": "1973-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90618"
+   },
+   {
+    "dossier": "SA_90621",
+    "titel": "Lijnbaansgracht 163",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90621"
+   },
+   {
+    "dossier": "SA_90620",
+    "titel": "Lijnbaansgracht 163",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90620"
+   },
+   {
+    "dossier": "SA_54999",
+    "titel": "Lijnbaansgracht 161 - 163",
+    "datum": "1962-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_54999"
+   },
+   {
+    "dossier": "SA_10920",
+    "titel": "Lijnbaansgracht 161 - 165",
+    "datum": "1931-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_10920"
+   },
+   {
+    "dossier": "SA_90650",
+    "titel": "Lijnbaansgracht 162 - 168",
+    "datum": "1928-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90650"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 11,
+  "gezocht": [
+   "Lijnbaansgracht 163"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-489630",
+    "titel": "Aanvraag woonvormingsvergunning Lijnbaansgracht 163-1A 1016VX Amsterdam, Lijnbaansgracht 163-2 1016VX Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2025-11-12",
+    "onderwerp": "Vormen van twee zelfstandige woonruimten uit 1 zelfstandige woonruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-489630.html",
+    "zaak": "Z2025-044791"
+   },
+   {
+    "id": "gmb-2025-380135",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Lijnbaansgracht 163-2 1016VX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "het veranderen van een gedeelte van de eerste verdieping en de tweede verdieping van het gebouw met bestemming daarvan tot twee woningen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-380135.html",
+    "zaak": "Z2025-020666"
+   },
+   {
+    "id": "gmb-2025-295561",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 163-2 1016VX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-07",
+    "onderwerp": "het veranderen van de eerste en tweede verdieping van het gebouw met bestemming daarvan tot drie woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-295561.html",
+    "zaak": "Z2025-020666"
+   },
+   {
+    "id": "gmb-2021-297084",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Lijnbaansgracht 163-1 1016VX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-01",
+    "onderwerp": "omzetten van een kantoorfunctie op de eerste verdieping van het gebouw naar een woonfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-297084.html",
+    "zaak": "Z2021-C003102"
+   },
+   {
+    "id": "gmb-2021-190600",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 163-1 1016VX Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-16",
+    "onderwerp": "omzetten van een kantoorfunctie op de eerste verdieping van het gebouw naar een woonfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-190600.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-380135",
+   "gmb-2025-295561",
+   "gmb-2021-297084",
+   "gmb-2021-190600"
+  ],
+  "zaaknummers": [
+   "Z2021-C003102",
+   "Z2025-020666"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-367258",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Lijnbaansgracht 163-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-31",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Lijnbaansgracht 163-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-367258.html"
+   },
+   {
+    "id": "gmb-2025-528465",
+    "titel": "Besluit woonvormingsvergunning Lijnbaansgracht 163-1A 1016VX Amsterdam, Lijnbaansgracht 163-2 1016VX Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-04",
+    "onderwerp": "Vormen van twee zelfstandige woonruimten uit 1 zelfstandige woonruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-528465.html"
+   },
+   {
+    "id": "gmb-2025-240095",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Lijnbaansgracht 163-1",
+    "soort": "andere vergunning",
+    "datum": "2025-06-02",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Lijnbaansgracht 163-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-240095.html"
+   },
+   {
+    "id": "gmb-2024-410049",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Lijnbaansgracht 163-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Lijnbaansgracht 163-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-410049.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1102BPSTD-VG01",
+   "naam": "Westelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-02-07",
+   "opp_m2": 1281977,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 15,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 110,
+ "pand_adressen": [
+  "Lijnbaansgracht 163"
+ ]
+}

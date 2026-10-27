@@ -1,0 +1,615 @@
+{
+ "id": "radion",
+ "naam": "RADION",
+ "adres": "Louwesweg 1, 1066 EA Amsterdam",
+ "termen": [
+  "Louwesweg 1",
+  "1066EA",
+  "1066 EA",
+  "RADION"
+ ],
+ "pand": "0363100012114496",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 26,
+  "openbaar": 26,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SQ_16974",
+    "titel": "Louwesweg 1",
+    "datum": "2010-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_16974"
+   },
+   {
+    "dossier": "SQ_18886",
+    "titel": "Louwesweg 1",
+    "datum": "2005-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_18886"
+   },
+   {
+    "dossier": "SQ_18724",
+    "titel": "Louwesweg 1",
+    "datum": "2002-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_18724"
+   },
+   {
+    "dossier": "SQ_29033",
+    "titel": "Louwesweg 1",
+    "datum": "2000-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_29033"
+   },
+   {
+    "dossier": "SQ_28829",
+    "titel": "Louwesweg 1",
+    "datum": "1999-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_28829"
+   },
+   {
+    "dossier": "SQ_27418",
+    "titel": "Louwesweg 1",
+    "datum": "1996-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 131,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27418"
+   },
+   {
+    "dossier": "SQ_27413",
+    "titel": "Louwesweg 1",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27413"
+   },
+   {
+    "dossier": "SQ_27421",
+    "titel": "Louwesweg 1",
+    "datum": "1982-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27421"
+   },
+   {
+    "dossier": "SQ_27358",
+    "titel": "Louwesweg 1",
+    "datum": "1970-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27358"
+   },
+   {
+    "dossier": "SQ_27284",
+    "titel": "Louwesweg 1",
+    "datum": "1970-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27284"
+   },
+   {
+    "dossier": "SQ_27134",
+    "titel": "Louwesweg 1",
+    "datum": "1970-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 682,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27134"
+   },
+   {
+    "dossier": "SQ_27356",
+    "titel": "Louwesweg 1",
+    "datum": "1969-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27356"
+   },
+   {
+    "dossier": "SQ_27329",
+    "titel": "Louwesweg 1",
+    "datum": "1969-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27329"
+   },
+   {
+    "dossier": "SQ_27283",
+    "titel": "Louwesweg 1",
+    "datum": "1969-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27283"
+   },
+   {
+    "dossier": "SQ_27278",
+    "titel": "Louwesweg 1",
+    "datum": "1969-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27278"
+   },
+   {
+    "dossier": "SQ_27274",
+    "titel": "Louwesweg 1",
+    "datum": "1969-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27274"
+   },
+   {
+    "dossier": "SQ_27132",
+    "titel": "Louwesweg 1",
+    "datum": "1968-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27132"
+   },
+   {
+    "dossier": "SQ_27267",
+    "titel": "Louwesweg 1",
+    "datum": "1967-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27267"
+   },
+   {
+    "dossier": "SQ_27254",
+    "titel": "Louwesweg 1",
+    "datum": "1967-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27254"
+   },
+   {
+    "dossier": "SQ_27262",
+    "titel": "Louwesweg 1",
+    "datum": "1967-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27262"
+   },
+   {
+    "dossier": "SQ_27237",
+    "titel": "Louwesweg 1",
+    "datum": "1967-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 89,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27237"
+   },
+   {
+    "dossier": "SQ_27230",
+    "titel": "Louwesweg 1",
+    "datum": "1967-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27230"
+   },
+   {
+    "dossier": "SQ_27220",
+    "titel": "Louwesweg 1",
+    "datum": "1967-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 243,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27220"
+   },
+   {
+    "dossier": "SQ_27225",
+    "titel": "Louwesweg 1",
+    "datum": "1967-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27225"
+   },
+   {
+    "dossier": "SQ_27218",
+    "titel": "Louwesweg 1",
+    "datum": "1966-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27218"
+   },
+   {
+    "dossier": "SQ_27215",
+    "titel": "Louwesweg 1",
+    "datum": "1966-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_27215"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 26,
+  "gezocht": [
+   "Louwesweg 1",
+   "Louwesweg 3A",
+   "Louwesweg 3B",
+   "Louwesweg 3C",
+   "Louwesweg 3D",
+   "Louwesweg 3E",
+   "Louwesweg 3F",
+   "Louwesweg 3G"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-196907",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Louwesweg 1 1066EA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-06",
+    "onderwerp": "tijdelijke toegangstrap voor een periode van vijf jaar  (verlenging omgevingsvergunning OLO1554421)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-196907.html",
+    "zaak": "Z2025-006360"
+   },
+   {
+    "id": "gmb-2025-76976",
+    "titel": "Aanvraag omgevingsvergunning Louwesweg 1 1066EA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-24",
+    "onderwerp": "aanvraag definitief verlenging omgevingsvergunning OLO1554421",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-76976.html",
+    "zaak": "Z2025-006360"
+   },
+   {
+    "id": "gmb-2023-330532",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Louwesweg 1 1066EA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-26",
+    "onderwerp": "plaatsen van een nieuw hek op terras van Radion",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-330532.html",
+    "zaak": "Z2023-NW001683"
+   },
+   {
+    "id": "gmb-2023-248915",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Louwesweg 1 1066EA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-07",
+    "onderwerp": "plaatsen van een nieuw hek op terras RADION",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-248915.html",
+    "zaak": "Z2023-NW001683"
+   },
+   {
+    "id": "gmb-2023-239795",
+    "titel": "Aanvraag omgevingsvergunning Louwesweg 1 1066EA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-02",
+    "onderwerp": "LET OP! WEGENS SYSTEEM IN ONDERHOUD IS DE AANVRAAG NIET GEPUBLICEERD MOET NOG GEBEUREN plaatsen van een nieuw hek op terras RADION",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-239795.html",
+    "zaak": "Z2023-NW001683"
+   },
+   {
+    "id": "gmb-2020-276343",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Louwesweg 1 1066EA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-26",
+    "onderwerp": "realiseren van een entresolvloer naast een bestaande entresolvloer, OLO 5345761",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-276343.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-196907",
+   "gmb-2025-76976",
+   "gmb-2023-330532",
+   "gmb-2023-248915",
+   "gmb-2023-239795",
+   "gmb-2020-276343"
+  ],
+  "zaaknummers": [
+   "Z2023-NW001683",
+   "Z2025-006360"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-364761",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Louwesweg 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Louwesweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-364761.html"
+   },
+   {
+    "id": "gmb-2026-360656",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Louwesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Louwesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-360656.html"
+   },
+   {
+    "id": "gmb-2026-360743",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Louwesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Louwesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-360743.html"
+   },
+   {
+    "id": "gmb-2026-248749",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Louwesweg 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Louwesweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-248749.html"
+   },
+   {
+    "id": "gmb-2026-187964",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Louwesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2026-04-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Louwesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-187964.html"
+   },
+   {
+    "id": "gmb-2026-113410",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Louwesweg 1",
+    "soort": "andere vergunning",
+    "datum": "2026-03-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Louwesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-113410.html"
+   },
+   {
+    "id": "gmb-2025-496245",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Louwesweg 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-17",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Louwesweg 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-496245.html"
+   },
+   {
+    "id": "gmb-2023-309182",
+    "titel": "Besluit evenementenvergunning VerleendLouwesweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-07-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Louwesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-309182.html"
+   },
+   {
+    "id": "gmb-2023-224385",
+    "titel": "Aanvraag evenementenvergunning Louwesweg 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-05-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Louwesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-224385.html"
+   },
+   {
+    "id": "gmb-2022-499497",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Louwesweg 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-11-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Louwesweg 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-499497.html"
+   },
+   {
+    "id": "gmb-2022-429602",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Louwesweg 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Louwesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-429602.html"
+   },
+   {
+    "id": "gmb-2021-233680",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Louwesweg 1",
+    "soort": "exploitatievergunning",
+    "datum": "2021-07-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Louwesweg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-233680.html"
+   },
+   {
+    "id": "stcrt-2017-4629",
+    "titel": "Vergunningen voor het verrichten van handelingen met radioactieve stoffen/radioactieve bronnen/röntgentoestellen, Ministerie van Infrastructuur en Milieu",
+    "soort": "Vergunningen",
+    "datum": "2017-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-4629.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   },
+   {
+    "id": "gmb-2015-64255",
+    "titel": "Vaststellen Uitvoerings- en Aanwijzingsbesluit op grond van de  gewijzigde Verordening Parkeerbelastingen 2015-II en Parkeerverordening  2013(3B, 2015, 167)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-07-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-64255.html"
+   },
+   {
+    "id": "stcrt-2005-209-p10-SC72065",
+    "titel": "Vergunningen tot het voorhanden hebben van radioactieve stoffen en bronnen en het gebruiken van röntgentoestellen",
+    "soort": "Vergunningen",
+    "datum": "2005-10-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2005-209-p10-SC72065.html"
+   },
+   {
+    "id": "stcrt-1998-184-p15-SC15614",
+    "titel": "Vergunningen tot het gebruiken van röntgentoestellen",
+    "soort": "Vergunningen",
+    "datum": "1998-09-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-1998-184-p15-SC15614.html"
+   },
+   {
+    "id": "stb-1994-843",
+    "titel": "Besluit van 24 november 1994, houdende wijziging van het Besluit studiefinanciering in verband met onder meer de wet van 29 september 1994, Stb. 742 tot wijziging van de Wet op de studiefinanciering (student op eigen benen)",
+    "soort": "AMvB",
+    "datum": "1994-12-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stb-1994-843.html"
+   },
+   {
+    "id": "stb-1986-477",
+    "titel": "Besluit van 22 september 1986, houdende nadere regels tot uitvoering van de Wet op de studiefinanciering (Besluit studiefinanciering)",
+    "soort": "AMvB",
+    "datum": "1986-09-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stb-1986-477.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.F1201BPSTD-VG01",
+   "naam": "Park Haagseweg eo",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-26",
+   "opp_m2": 216560,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 1,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Louwesweg 1",
+  "Louwesweg 3A",
+  "Louwesweg 3B",
+  "Louwesweg 3C",
+  "Louwesweg 3D",
+  "Louwesweg 3E",
+  "Louwesweg 3F",
+  "Louwesweg 3G"
+ ]
+}

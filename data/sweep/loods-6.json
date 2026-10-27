@@ -1,0 +1,501 @@
+{
+ "id": "loods-6",
+ "naam": "Loods 6",
+ "adres": "KNSM-laan 143, 1019 LB Amsterdam",
+ "termen": [
+  "KNSM-laan 143",
+  "1019LB",
+  "1019 LB",
+  "Loods 6"
+ ],
+ "pand": "0363100012142095",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 7,
+  "laatste": "1998-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_22380",
+    "titel": "Surinamekade 30 t.h.v - 33",
+    "datum": "1998-01-01",
+    "soort": "kunstwerk",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22380"
+   },
+   {
+    "dossier": "SU_22293",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1996-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22293"
+   },
+   {
+    "dossier": "SU_22291",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1996-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22291"
+   },
+   {
+    "dossier": "SU_22294",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1996-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22294"
+   },
+   {
+    "dossier": "SU_22290",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1995-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22290"
+   },
+   {
+    "dossier": "SU_22284",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 138,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22284"
+   },
+   {
+    "dossier": "SU_22298",
+    "titel": "KNSM-laan 15 - 311; Surinamekade 6 - 33",
+    "datum": "1995-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22298"
+   },
+   {
+    "dossier": "SU_37519",
+    "titel": "Surinamekade 9",
+    "datum": "1993-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_37519"
+   },
+   {
+    "dossier": "SU_30455",
+    "titel": "KNSM-laan 11 - 239; KNSM-laan 291 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1991-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30455"
+   },
+   {
+    "dossier": "SU_19773",
+    "titel": "Surinamekade 4 - 6",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_19773"
+   },
+   {
+    "dossier": "SU_22321",
+    "titel": "Surinamekade 1 - 3; Surinamekade 4 - 6; Surinamekade 54 - 56",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22321"
+   },
+   {
+    "dossier": "SU_30622",
+    "titel": "Surinamekade 1 - 15; Surinamekade 4 - 6; Surinamekade 54 - 60",
+    "datum": "1989-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30622"
+   },
+   {
+    "dossier": "SU_22304",
+    "titel": "Surinamekade 1 - 5; Surinamekade 6; Surinamekade 54 - 56",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22304"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 28,
+  "gezocht": [
+   "KNSM-laan 143",
+   "KNSM-laan 101",
+   "KNSM-laan 103",
+   "KNSM-laan 105",
+   "KNSM-laan 107",
+   "KNSM-laan 109",
+   "KNSM-laan 11",
+   "KNSM-laan 111",
+   "KNSM-laan 113",
+   "KNSM-laan 115",
+   "KNSM-laan 117",
+   "KNSM-laan 119",
+   "KNSM-laan 121"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-388524",
+    "titel": "Aanvraag omgevingsvergunning KNSM-laan 143 1019LB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-17",
+    "onderwerp": "plaatsen van een dakopbouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-388524.html",
+    "zaak": "Z2026-031320"
+   },
+   {
+    "id": "prb-2026-7343",
+    "titel": "Omgevingsvergunning verleend voor Levantplein 2-36, KNSM-laan 11-610, Levantkade 49-149, Levantkade 167 en Piraeusplein 1-75 te Amsterdam (flora- en fauna-activiteit)",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-30",
+    "onderwerp": "",
+    "activiteit": "natuur",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-7343.html",
+    "zaak": "OMG-073839"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-388524"
+  ],
+  "zaaknummers": [
+   "Z2026-031320"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-466744",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van KNSM-laan 143 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466744.html"
+   },
+   {
+    "id": "gmb-2026-442612",
+    "titel": "Besluit apv vergunning Verleend - KNSM-laan ter hoogte van nummer: 143 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-22",
+    "onderwerp": "TVM parkeervak,Object,KNSM-laan 143 1019LB, 20260922, KNSM-laan ter hoogte van nummer: 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-442612.html"
+   },
+   {
+    "id": "gmb-2026-409706",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-409706.html"
+   },
+   {
+    "id": "gmb-2026-238214",
+    "titel": "Besluit apv vergunning Verleend - KNSM-laan ter hoogte van nummer: 143 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "TVM parkeervak,Object,KNSM-laan 143 1019LB, 20260521, KNSM-laan ter hoogte van nummer: 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238214.html"
+   },
+   {
+    "id": "gmb-2026-222640",
+    "titel": "Besluit apv vergunning Verleend - KNSM-laan ter hoogte van nummer: 143 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-12",
+    "onderwerp": "Nachtwerk,KNSM-laan 143 1019LB, 20260528, KNSM-laan ter hoogte van nummer: 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-222640.html"
+   },
+   {
+    "id": "gmb-2024-400043",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-400043.html"
+   },
+   {
+    "id": "gmb-2024-149046",
+    "titel": "Besluit evenementenvergunning VerleendKNSM-laan 143 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-149046.html"
+   },
+   {
+    "id": "gmb-2024-107739",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-107739.html"
+   },
+   {
+    "id": "gmb-2024-52014",
+    "titel": "Besluit evenementenvergunning Buiten behandelingKNSM-laan 143 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-02",
+    "onderwerp": "Buiten behandeling: evenementenvergunning ter hoogte van adres KNSM-laan 143 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-52014.html"
+   },
+   {
+    "id": "gmb-2023-450237",
+    "titel": "Besluit evenementenvergunning AanvraagKNSM-laan 143 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-23",
+    "onderwerp": "Aanvraag: evenementenvergunning ter hoogte van adres KNSM-laan 143 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-450237.html"
+   },
+   {
+    "id": "gmb-2023-446302",
+    "titel": "Besluit evenementenvergunning VerleendKNSM-laan 143 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-446302.html"
+   },
+   {
+    "id": "gmb-2023-420264",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-420264.html"
+   },
+   {
+    "id": "gmb-2023-406408",
+    "titel": "Besluit evenementenvergunning VerleendKNSM-laan 143 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-406408.html"
+   },
+   {
+    "id": "gmb-2023-335553",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-07-31",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-335553.html"
+   },
+   {
+    "id": "gmb-2023-294799",
+    "titel": "Besluit apv vergunning Verleend - KNSM-laan 143",
+    "soort": "andere vergunning",
+    "datum": "2023-07-06",
+    "onderwerp": "Object- KNSM-laan 143- 28-8-2023 t/m 22-12-2023, KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-294799.html"
+   },
+   {
+    "id": "gmb-2022-528630",
+    "titel": "Besluit evenementenvergunning Verleend KNSM-laan 143",
+    "soort": "evenementenvergunning",
+    "datum": "2022-11-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-528630.html"
+   },
+   {
+    "id": "gmb-2022-427520",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143",
+    "soort": "evenementenvergunning",
+    "datum": "2022-09-26",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-427520.html"
+   },
+   {
+    "id": "gmb-2022-271297",
+    "titel": "Besluit evenementenvergunning Verleend KNSM-laan 143",
+    "soort": "evenementenvergunning",
+    "datum": "2022-06-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-271297.html"
+   },
+   {
+    "id": "gmb-2022-217069",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-217069.html"
+   },
+   {
+    "id": "gmb-2022-170711",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 11",
+    "soort": "andere vergunning",
+    "datum": "2022-04-19",
+    "onderwerp": "TVM vakken en RVV / Knsm-Laan 11 - 629 / 22-4-2022, KNSM-laan 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-170711.html"
+   },
+   {
+    "id": "gmb-2022-78179",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 109",
+    "soort": "andere vergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "TVM / 6 PV - KNSM-Laan 678 , 24-02-2022, KNSM-laan 109",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-78179.html"
+   },
+   {
+    "id": "gmb-2021-460916",
+    "titel": "Besluit evenementenvergunning Verleend KNSM-laan 143",
+    "soort": "evenementenvergunning",
+    "datum": "2021-12-20",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-460916.html"
+   },
+   {
+    "id": "gmb-2021-434869",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 143",
+    "soort": "andere vergunning",
+    "datum": "2021-12-02",
+    "onderwerp": "5 PV + stremming, Knsm-Laan 143, 20-12-2021, KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-434869.html"
+   },
+   {
+    "id": "gmb-2021-434832",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 143",
+    "soort": "andere vergunning",
+    "datum": "2021-12-02",
+    "onderwerp": "5 PV + stremming, Knsm-Laan 143, 13-12-2021, KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-434832.html"
+   },
+   {
+    "id": "gmb-2021-373508",
+    "titel": "Aanvraag evenementenvergunning KNSM-laan 143",
+    "soort": "evenementenvergunning",
+    "datum": "2021-10-25",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres KNSM-laan 143",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-373508.html"
+   },
+   {
+    "id": "gmb-2021-258631",
+    "titel": "Verkeersbesluit KNSM-laan 109 aanleg elektrische oplaadplaats",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2021-08-06",
+    "onderwerp": "KNSM-laan 109 aanleg elektrische oplaadplaats",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-258631.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.BP01117-OH01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-10-11",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.BP01117-VG01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "KNSM-laan 101",
+  "KNSM-laan 103",
+  "KNSM-laan 105",
+  "KNSM-laan 107",
+  "KNSM-laan 109",
+  "KNSM-laan 11",
+  "KNSM-laan 111",
+  "KNSM-laan 113",
+  "KNSM-laan 115",
+  "KNSM-laan 117",
+  "KNSM-laan 119",
+  "KNSM-laan 121"
+ ]
+}

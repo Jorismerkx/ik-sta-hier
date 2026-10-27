@@ -1,0 +1,1587 @@
+{
+ "id": "zuiderkerk",
+ "naam": "Zuiderkerk",
+ "adres": "Zuiderkerkhof 72, 1011 WB Amsterdam",
+ "termen": [
+  "Zuiderkerkhof 72",
+  "1011WB",
+  "1011 WB",
+  "Zuiderkerk"
+ ],
+ "pand": "0363100012171559",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 18,
+  "openbaar": 5,
+  "laatste": "2009-04-01",
+  "dossiers": [
+   {
+    "dossier": "SA_94259",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "2009-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94259"
+   },
+   {
+    "dossier": "SA_94258",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94258"
+   },
+   {
+    "dossier": "SA_94260",
+    "titel": "Zandstraat 17; Zuiderkerkhof 72",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94260"
+   },
+   {
+    "dossier": "SA_17206",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "2005-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17206"
+   },
+   {
+    "dossier": "SA_17207",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "2005-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17207"
+   },
+   {
+    "dossier": "SA_17205",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 133,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17205"
+   },
+   {
+    "dossier": "SA_17177",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "2000-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17177"
+   },
+   {
+    "dossier": "SA_17158",
+    "titel": "Zandstraat 17; Zuiderkerkhof 72",
+    "datum": "1999-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17158"
+   },
+   {
+    "dossier": "SA_17155",
+    "titel": "Zandstraat 17; Zuiderkerkhof 72",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17155"
+   },
+   {
+    "dossier": "SA_17166",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17166"
+   },
+   {
+    "dossier": "SA_17202",
+    "titel": "Zuiderkerkhof 72",
+    "datum": "1999-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17202"
+   },
+   {
+    "dossier": "SA_17135",
+    "titel": "Zandstraat 17",
+    "datum": "1993-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17135"
+   },
+   {
+    "dossier": "SA_17125",
+    "titel": "Zandstraat 17",
+    "datum": "1993-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17125"
+   },
+   {
+    "dossier": "SA_17093",
+    "titel": "Zandstraat 17; Zuiderkerkhof 70 - 72",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 99,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17093"
+   },
+   {
+    "dossier": "SA_17089",
+    "titel": "Zandstraat 17; Zuiderkerkhof 72",
+    "datum": "1988-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17089"
+   },
+   {
+    "dossier": "SA_17047",
+    "titel": "Zandstraat 17",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 270,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17047"
+   },
+   {
+    "dossier": "SA_17220",
+    "titel": "Zandstraat 17",
+    "datum": "1975-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17220"
+   },
+   {
+    "dossier": "SA_17227",
+    "titel": "Zandstraat 17",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_17227"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 127,
+  "gezocht": [
+   "Zuiderkerkhof 72",
+   "Zandstraat 17"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-437901",
+    "titel": "Aanvraag vergunning het verbouwen van een kantoorpand naar woongebouw op de locatie Zandstraat 17 te Beneden-Leeuwen zaaknummer ODR2613353",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-18",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-437901.html"
+   },
+   {
+    "id": "gmb-2026-383649",
+    "titel": "Toestemming voor wijzigen constructie voor een interne verbouwing op de locatie Zandstraat 17 in Beneden-Leeuwen zaaknummer ODR2610084",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-12",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-383649.html"
+   },
+   {
+    "id": "gmb-2026-334212",
+    "titel": "Aanvraag vergunning wijzigen constructie voor een interne verbouwing op de locatie Zandstraat 17 in Beneden-Leeuwen  zaaknummer ODR2610084",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-13",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-334212.html"
+   },
+   {
+    "id": "gmb-2026-325099",
+    "titel": "Aanvraag vergunning het vervangen van de kozijen en de kap op de locatie Zandstraat 17 te Beneden-Leeuwen zaaknummer ODR2609741",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-325099.html"
+   },
+   {
+    "id": "gmb-2026-234257",
+    "titel": "Toestemming voor het vervangen van de kozijnen met dakopbouw en isoleren dak op de locatie Zandstraat 17 te Beneden-Leeuwen zaaknummer ODR2601789",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-19",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-234257.html"
+   },
+   {
+    "id": "gmb-2026-1460",
+    "titel": "Aanvraag vergunning voor het realiseren van een verdiepingsvloer in de schuur, Zandstraat 17, 4927RH Hooge Zwaluwe",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-08",
+    "onderwerp": "Betreft: Aanvraag op locatie Zandstraat 17, 4927RH Hooge Zwaluwe",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-1460.html",
+    "zaak": "Rx.Mission zaak 2025-1991"
+   },
+   {
+    "id": "gmb-2022-562978",
+    "titel": "Omgevingsvergunning geweigerd, Zandstraat 17, 5391 AL Nuland, maken oprit",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-20",
+    "onderwerp": "",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-562978.html",
+    "zaak": "079614368777"
+   },
+   {
+    "id": "gmb-2022-548661",
+    "titel": "Omgevingsvergunning Zandstraat 17 Nuland Verlengen beslistermijn, aanleggen inrit",
+    "soort": "andere beschikking",
+    "datum": "2022-12-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-548661.html",
+    "zaak": "079614368777"
+   },
+   {
+    "id": "gmb-2022-464624",
+    "titel": "Zandstraat 17 Nuland, omgevingsvergunning maken oprit",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-21",
+    "onderwerp": "",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-464624.html",
+    "zaak": "079614368777"
+   },
+   {
+    "id": "gmb-2022-364844",
+    "titel": "Verleende omgevingsvergunning, het bouwen van een vrijstaande woning, Zandstraat 17 Moergestel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-364844.html"
+   },
+   {
+    "id": "gmb-2022-86801",
+    "titel": "Burgemeester en wethouders van Zaltbommel - Aanvraag omgevingsvergunning voor het plaatsen van zonnepanelen aan de Zandstraat 17 in Zaltbommel. Zaaknummer: ODR2202520.",
+    "soort": "andere beschikking",
+    "datum": "2022-03-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-86801.html",
+    "zaak": "ODR2202520"
+   },
+   {
+    "id": "gmb-2021-252160",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Zandstraat 17 1011HJ Amsterdam, Zuiderkerkhof 72 1011WB Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-07-28",
+    "onderwerp": "vervangen van het glas in de consistorie van de Zuiderkerk",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-252160.html",
+    "zaak": "Z2021-C004115"
+   },
+   {
+    "id": "gmb-2021-234457",
+    "titel": "Aanvraag omgevingsvergunning Zandstraat 17 1011HJ Amsterdam, Zuiderkerkhof 72 1011WB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-19",
+    "onderwerp": "vervangen van het glas in de consistorie van de Zuiderkerk",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-234457.html",
+    "zaak": "Z2021-C004115"
+   },
+   {
+    "id": "gmb-2018-66176",
+    "titel": "Week 13 -2018: verleende omgevingsvergunning, Zandstraat 17, Hooge Zwaluwe (W-2018-0102)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-03-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-66176.html"
+   },
+   {
+    "id": "gmb-2018-57131",
+    "titel": "Sloopmelding - Zandstraat 17 Koewacht",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-03-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-57131.html"
+   },
+   {
+    "id": "gmb-2018-43303",
+    "titel": "Week 9: aanvraag omgevingsvergunning, Zandstraat 17, Hooge Zwaluwe (W-2018-0102)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-03-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-43303.html"
+   },
+   {
+    "id": "wsb-2017-2240",
+    "titel": "Besluit 17UTP00578 voor het verwijderen van een dam met duiker uit een a-water en het aanleggen van een twee dammen met duiker in een a-water ter hoogte van Zandstraat 17 te Hooge Zwaluwe.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-03-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2017-2240.html",
+    "zaak": "WBD17-00254"
+   },
+   {
+    "id": "gmb-2017-14407",
+    "titel": "Verleende omgevingsvergunning Zandstraat 17 te Sint-Michielsgestel",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-01-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-14407.html"
+   },
+   {
+    "id": "gmb-2017-3734",
+    "titel": "Aangevraagde omgevingsvergunning Zandstraat 17 te Sint-Michielsgestel",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-01-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-3734.html"
+   },
+   {
+    "id": "gmb-2016-188049",
+    "titel": "Verleende gebruiksvergunning Zandstraat 17 Kerkdriel",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-12-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-188049.html"
+   },
+   {
+    "id": "gmb-2016-53735",
+    "titel": "Rectificatie Verleende omgevingsvergunning Zandstraat 15 Kerkdriel",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-04-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-53735.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-437901",
+   "gmb-2026-334212",
+   "gmb-2026-1460",
+   "gmb-2022-86801",
+   "gmb-2021-252160",
+   "gmb-2021-234457",
+   "gmb-2018-43303"
+  ],
+  "zaaknummers": [
+   "ODR2202520",
+   "Rx.Mission zaak 2025-1991",
+   "Z2021-C004115"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   },
+   {
+    "id": "stcrt-2010-15867",
+    "titel": "Vaststelling bestemmingsplan ArenAPoort West, laad- en losdek Kavel 17A",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-10-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-15867.html"
+   },
+   {
+    "id": "stcrt-2010-15677",
+    "titel": "Vaststelling van het bestemmingsplan ‘Huis Marseille’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-10-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-15677.html"
+   },
+   {
+    "id": "stcrt-2010-14487",
+    "titel": "Ontwerpbestemmingsplan Huidekoperstraat 13–17",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-09-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-14487.html"
+   },
+   {
+    "id": "stcrt-2010-14340",
+    "titel": "Ontwerpwijzigingsplan 1e wijziging bestemmingsplan Westelijke Eilanden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-14340.html"
+   },
+   {
+    "id": "stcrt-2010-14341",
+    "titel": "Ontwerpprojectbesluit ‘Cineac’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-14341.html"
+   },
+   {
+    "id": "stcrt-2010-14004",
+    "titel": "Vaststelling projectbesluit Prinsengracht 43 K",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-09-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-14004.html"
+   },
+   {
+    "id": "stcrt-2010-13989",
+    "titel": "Ontwerpbestemmingsplan Geldersekade t.o. 67–73 (woonboot)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-09-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-13989.html"
+   },
+   {
+    "id": "stcrt-2010-13384",
+    "titel": "Ontwerpbestemmingsplan Fietsflat",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-09-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-13384.html"
+   },
+   {
+    "id": "stcrt-2010-13196",
+    "titel": "Vaststelling projectbesluiten op- en afstapvoorzieningen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-08-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-13196.html"
+   },
+   {
+    "id": "stcrt-2010-12686",
+    "titel": "Bestemmingsplan Oostelijke eilanden, exploitatieplan ‘Wienerlocatie’ en besluit vaststelling hogere grenswaarden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-08-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-12686.html"
+   },
+   {
+    "id": "stcrt-2010-11504",
+    "titel": "Vaststelling bestemmingsplan Facetherziening zonebesluit Oostelijk Havengebied-Zeeburg",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11504.html"
+   },
+   {
+    "id": "stcrt-2010-11536",
+    "titel": "Vaststelling bestemmingsplan P+R Sloterdijk",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11536.html"
+   },
+   {
+    "id": "stcrt-2010-11565",
+    "titel": "Kennisgeving intrekking en vaststelling wijzigingsplannen (geen uitbreiding aantal massagesalons in postcodegebied 1012)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11565.html"
+   },
+   {
+    "id": "stcrt-2010-11400",
+    "titel": "Vaststelling bestemmingsplan ArenAPoort West, kavel 17",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11400.html"
+   },
+   {
+    "id": "stcrt-2010-11262",
+    "titel": "Vaststelling van het bestemmingsplan Singel 136",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11262.html"
+   },
+   {
+    "id": "stcrt-2010-10838",
+    "titel": "Kennisgeving vaststelling vier wijzigingsplannen (geen uitbreiding aantal massagesalons in postcodegebied 1012)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-10838.html"
+   },
+   {
+    "id": "stcrt-2010-10840",
+    "titel": "Kennisgeving Eerste wijziging van het bestemmingsplan Nieuwendijk-Kalverstraat e.o. 2001",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-10840.html"
+   },
+   {
+    "id": "stcrt-2010-10674",
+    "titel": "Vaststelling bestemmingsplan, hogere grenswaarden Wet geluidhinder en besluit inzake exploitatieplan voor bestemmingsplan Kop Weespertrekvaart",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-10674.html"
+   },
+   {
+    "id": "stcrt-2010-8423",
+    "titel": "Ontwerpprojectbesluit Prinsengracht 43 K (ligplaatsvergroting woonark)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-06-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-8423.html"
+   },
+   {
+    "id": "stcrt-2010-8406",
+    "titel": "Kennisgeving ontwerpbestemmingsplan Oostelijke binnenstad en ontwerpbesluit hogere waarden Wet geluidhinder Oostelijke binnenstad",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-06-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-8406.html"
+   },
+   {
+    "id": "stcrt-2010-8390",
+    "titel": "Ontwerpbestemmingsplan Huis Marseille",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-06-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-8390.html"
+   },
+   {
+    "id": "stcrt-2010-7743",
+    "titel": "Ontwerpbestemmingsplan ArenAPoort West, laad- en losdek Kavel 17A",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-7743.html"
+   },
+   {
+    "id": "stcrt-2010-7747",
+    "titel": "Ontwerpbestemmingsplan Westrandweg – 2e Coentunnel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-7747.html"
+   },
+   {
+    "id": "stcrt-2010-7741",
+    "titel": "Ontwerpbestemmingsplan Stadhaven Minerva",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-7741.html"
+   },
+   {
+    "id": "stcrt-2010-7693",
+    "titel": "Tweede wijziging van het bestemmingsplan Weesperbuurt t.b.v. Sarphatistraat 119",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-7693.html"
+   },
+   {
+    "id": "stcrt-2010-7694",
+    "titel": "Eerste wijziging van het bestemmingsplan Weesperbuurt t.b.v. Nieuwe Prinsengracht 2",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-7694.html"
+   },
+   {
+    "id": "stcrt-2010-6915",
+    "titel": "Ontwerp-wijzigingsplan 1e wijziging bestemmingsplan Nieuwendijk-Kalverstraat e.o. 2001",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-6915.html"
+   },
+   {
+    "id": "stcrt-2010-6935",
+    "titel": "Terinzagelegging vier ontwerpwijzigingsplannen (geen uitbreiding aantal massagesalons in postcodegebied 1012)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-05-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-6935.html"
+   },
+   {
+    "id": "stcrt-2010-6415",
+    "titel": "Derde wijziging bestemmingsplan Vijzelstraat/Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-04-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-6415.html"
+   },
+   {
+    "id": "stcrt-2010-6407",
+    "titel": "Vierde wijziging van het bestemmingsplan Westelijke Grachtengordel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-04-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-6407.html"
+   },
+   {
+    "id": "stcrt-2010-6266",
+    "titel": "Eerste wijziging van het bestemmingsplan Groot Waterloo t.b.v. een inpandige garage Valkenburgerstraat 14−16",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-04-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-6266.html"
+   },
+   {
+    "id": "stcrt-2010-5975",
+    "titel": "Goedkeuring 2e wijziging bestemmingsplan Minervahaven Noord",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-04-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-5975.html"
+   },
+   {
+    "id": "stcrt-2010-5849",
+    "titel": "Eerste wijziging van het bestemmingsplan Haarlemmerbuurt t.b.v. locatie Haarlemmerstraat 116/118/120",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-04-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-5849.html"
+   },
+   {
+    "id": "stcrt-2010-3729",
+    "titel": "Ontwerpbestemmingsplan Singel 136",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-3729.html"
+   },
+   {
+    "id": "stcrt-2010-3671",
+    "titel": "Vaststelling bestemmingsplan Bedrijventerrein Overamstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-3671.html"
+   },
+   {
+    "id": "stcrt-2010-3724",
+    "titel": "Ontwerpbestemmingsplan ArenAPoort West Kavel 17",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-3724.html"
+   },
+   {
+    "id": "stcrt-2010-3610",
+    "titel": "Vaststelling bestemmingsplan Kop Zuidas en besluit hogere waarden Wet geluidhinder",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-3610.html"
+   },
+   {
+    "id": "stcrt-2010-2809",
+    "titel": "Ontwerpwijzigingsplan 2e wijziging bestemmingsplan Weesperbuurt",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2809.html"
+   },
+   {
+    "id": "stcrt-2010-2857",
+    "titel": "Derde wijziging van het bestemmingsplan Westelijke Grachtengordel 2000",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2857.html"
+   },
+   {
+    "id": "stcrt-2010-2807",
+    "titel": "Ontwerpbestemmingsplan Oostelijke eilanden en ontwerpbesluit hogere waarden Wet geluidhinder Oostelijke eilanden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2807.html"
+   },
+   {
+    "id": "stcrt-2010-2795",
+    "titel": "Ontwerp-wijzigingsplan 1e wijziging bestemmingsplan Weesperbuurt",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2795.html"
+   },
+   {
+    "id": "stcrt-2010-1994",
+    "titel": "Ontwerpwijzigingsplan 1e wijziging bestemmingsplan Haarlemmerbuurt",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-1994.html"
+   },
+   {
+    "id": "stcrt-2010-1404",
+    "titel": "Ontwerpbestemmingsplan Kop Weespertrekvaart en ontwerpbesluit tot vaststelling van hogere grenswaarden Wet geluidhinder voor het bestemmingsplan Kop Weespertrekvaart",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-1404.html"
+   },
+   {
+    "id": "stcrt-2010-1232",
+    "titel": "Ontwerpwijzigingsplan 4e wijziging bestemmingsplan Westelijke Grachtengordel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-01-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-1232.html"
+   },
+   {
+    "id": "stcrt-2010-1233",
+    "titel": "Ontwerpwijzigingsplan 3e wijziging bestemmingsplan Vijzelstraat − Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-01-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-1233.html"
+   },
+   {
+    "id": "stcrt-2010-1105",
+    "titel": "Kennisgeving Vaststelling bestemmingsplan, exploitatieplan en hogere grenswaarden Buiksloterham",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-1105.html"
+   },
+   {
+    "id": "stcrt-2010-908",
+    "titel": "Kennisgeving Tweede wijziging van het bestemmingsplan Westelijke Grachtengordel 2000",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-01-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-908.html"
+   },
+   {
+    "id": "stcrt-2010-561",
+    "titel": "Kennisgeving ontwerp eerste wijziging van het bestemmingsplan Groot Waterloo t.b.v. Valkenburgerstraat 14−16",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-01-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-561.html"
+   },
+   {
+    "id": "stcrt-2009-20762",
+    "titel": "Kennisgeving Vaststelling paraplubestemmingsplan tot herziening van de wijzigingsbevoegdheden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-12-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-20762.html"
+   },
+   {
+    "id": "stcrt-2009-19945",
+    "titel": "Kennisgeving ontwerpprojectbesluiten op- en afstapvoorzieningen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-19945.html"
+   },
+   {
+    "id": "stcrt-2009-19521",
+    "titel": "Ontwerp 2e herziening bestemmingsplan Vijzelstraat Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-12-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-19521.html"
+   },
+   {
+    "id": "stcrt-2009-18353",
+    "titel": "Kennisgeving Ontwerpbestemmingsplan P+R Sloterdijk",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-12-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-18353.html"
+   },
+   {
+    "id": "stcrt-2009-17941",
+    "titel": "Kennisgeving Vaststelling bestemmingsplan Overamstel, verkleinen geluidzone",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-17941.html"
+   },
+   {
+    "id": "stcrt-2009-18030",
+    "titel": "Kennisgeving Vaststelling bestemmingsplan Zeeburgereiland RI-oost en vaststelling hogere waarden Wet geluidhinder",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-18030.html"
+   },
+   {
+    "id": "stcrt-2009-16582-h1",
+    "titel": "Herplaatsing kennisgeving ontwerpbestemmingsplan Facet herziening zonebesluit Oostelijk Havengebied-Zeeburg",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16582-h1.html"
+   },
+   {
+    "id": "stcrt-2009-16922",
+    "titel": "Vaststelling tweede herziening van het bestemmingsplan Burgwallen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16922.html"
+   },
+   {
+    "id": "stcrt-2009-16916",
+    "titel": "Vaststelling derde herziening van het bestemmingsplan Burgwallen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16916.html"
+   },
+   {
+    "id": "stcrt-2009-16923",
+    "titel": "Vaststelling tweede wijziging van het bestemmingsplan Vijzelstraat Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16923.html"
+   },
+   {
+    "id": "stcrt-2009-16919",
+    "titel": "Kennisgeving bestemmingsplan ‘Groot Waterloo’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16919.html"
+   },
+   {
+    "id": "stcrt-2009-16582",
+    "titel": "Ontwerpbestemmingsplan Facet herziening zonebesluit Oostelijk Havengebied-Zeeburg",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16582.html"
+   },
+   {
+    "id": "stcrt-2009-15843",
+    "titel": "Bestemmingsplan ‘Derde fase uitbreiding Artis’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-10-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-15843.html"
+   },
+   {
+    "id": "stcrt-2009-15469",
+    "titel": "Vaststelling van de 1e herziening van het bestemmingsplan Vijzelstraat Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-10-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-15469.html"
+   },
+   {
+    "id": "stcrt-2009-14241",
+    "titel": "Kennisgeving ontwerpparaplubestemmingsplan tot herziening van de wijzigingsbevoegdheden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-09-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-14241.html"
+   },
+   {
+    "id": "stcrt-2009-9139",
+    "titel": "Vaststelling bestemmingsplan IJburg tweede fase en vaststelling hogere waarden Wet geluidhinder",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-9139.html"
+   },
+   {
+    "id": "stcrt-2009-9086",
+    "titel": "Ontwerp 1e herziening bestemmingsplan Vijzelstraat Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-06-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-9086.html"
+   },
+   {
+    "id": "stcrt-2009-8714",
+    "titel": "Ontwerpbestemmingsplan Kop Zuidas en ontwerpbesluit tot vaststelling hogere grenswaarden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-06-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-8714.html"
+   },
+   {
+    "id": "stcrt-2009-8204",
+    "titel": "Ontwerp 3e herziening bestemmingsplan Burgwallen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-06-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-8204.html"
+   },
+   {
+    "id": "stcrt-2009-7702",
+    "titel": "Eerste herziening van het bestemmingsplan Burgwallen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-06-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-7702.html"
+   },
+   {
+    "id": "stcrt-2009-7254",
+    "titel": "Ontwerpbestemmingsplan Overamstel, verkleinen geluidzone",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-05-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-7254.html"
+   },
+   {
+    "id": "stcrt-2009-7016",
+    "titel": "Kennisgeving eerste herziening van het bestemmingsplan Westelijke Eilanden",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-05-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-7016.html"
+   },
+   {
+    "id": "stcrt-2009-7019",
+    "titel": "Bestemmingsplan Derde fase uitbreiding Artis",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-05-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-7019.html"
+   },
+   {
+    "id": "stcrt-2009-7140",
+    "titel": "Ontwerp tweede wijziging van het bestemmingsplan Vijzelstraat-Amstel t.b.v. Kerkstraat 303–305",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-05-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-7140.html"
+   },
+   {
+    "id": "stcrt-2009-6107",
+    "titel": "Ontwerp 2e herziening bestemmingsplan Burgwallen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-04-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-6107.html"
+   },
+   {
+    "id": "stcrt-2009-5297",
+    "titel": "Ontwerpbestemmingsplan Zeeburgereiland RI-oost en ontwerpbesluit vaststelling hogere waarden Wet geluidhinder",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-04-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-5297.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2024-453106",
+    "titel": "Besluit apv vergunning Verleend - Zuiderkerkhof 72",
+    "soort": "andere vergunning",
+    "datum": "2024-10-28",
+    "onderwerp": "uitprinten RVV,Vezip,Filmen, Zuiderkerkhof 72 1011WB, 20241023, Zuiderkerkhof 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-453106.html"
+   },
+   {
+    "id": "gmb-2024-401932",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Zuiderkerkhof 72 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Zuiderkerkhof 72 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-401932.html"
+   },
+   {
+    "id": "gmb-2024-318442",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Zuiderkerkhof 72 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-22",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Zuiderkerkhof 72 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-318442.html"
+   },
+   {
+    "id": "gmb-2022-121914",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Zuiderkerkhof 72",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Zuiderkerkhof 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-121914.html"
+   },
+   {
+    "id": "gmb-2022-90902",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Zuiderkerkhof 72",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Zuiderkerkhof 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-90902.html"
+   },
+   {
+    "id": "wsb-2017-893",
+    "titel": "Aanvraag watervergunning voor het verwijderen van een dam met duiker uit een a-water en het aanleggen van 2 dammen met duiker in een a-water ter hoogte van Zandstraat 17 te Hooge Zwaluwe.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-02-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2017-893.html"
+   },
+   {
+    "id": "stcrt-2012-21546",
+    "titel": "Benoeming vereffenaar nalatenschap Franklin Marcel Josef Marie",
+    "soort": "Gerechtelijke aankondigingen | Overige aankondigingen",
+    "datum": "2012-10-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-21546.html"
+   },
+   {
+    "id": "stcrt-2010-15793",
+    "titel": "Voorbereidingsbesluit Beethoven",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-10-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-15793.html"
+   },
+   {
+    "id": "stcrt-2010-11585",
+    "titel": "Kennisgeving voorbereidingsbesluit Amstel III",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11585.html"
+   },
+   {
+    "id": "stcrt-2010-11357",
+    "titel": "Kennisgeving Voorbereidingsbesluit Overamstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11357.html"
+   },
+   {
+    "id": "stcrt-2010-11286",
+    "titel": "Vaststelling 2e herziening Vijzelstraat-Amstel",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-07-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-11286.html"
+   },
+   {
+    "id": "stcrt-2010-5651",
+    "titel": "Voorbereidingsbesluit ArenAPoort West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-04-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-5651.html"
+   },
+   {
+    "id": "stcrt-2010-4460",
+    "titel": "Kennisgeving voorbereidingsbesluit AMC terrein",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-4460.html"
+   },
+   {
+    "id": "stcrt-2010-2529",
+    "titel": "Ontwerp Structuurvisie Amsterdam 2040 met bijbehorende PlanMER",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2529.html"
+   },
+   {
+    "id": "stcrt-2010-1452",
+    "titel": "Voorbereidingsbesluit Marine Etablissement",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-02-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-1452.html"
+   },
+   {
+    "id": "stcrt-2009-20424",
+    "titel": "Kennisgeving voorbereidingsbesluit Haven en Recreatiegebied West (Sloterdijk III en IV)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-12-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-20424.html"
+   },
+   {
+    "id": "stcrt-2009-17893",
+    "titel": "Voorbereidingsbesluit Middenmeer Noord",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-17893.html"
+   },
+   {
+    "id": "stcrt-2009-17777",
+    "titel": "Voorbereidingsbesluit Zeeburgereiland",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-17777.html"
+   },
+   {
+    "id": "stcrt-2009-16970",
+    "titel": "Kennisgeving voorbereidingsbesluit Afrikahaven",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16970.html"
+   },
+   {
+    "id": "stcrt-2009-16132",
+    "titel": "Kennisgeving voorbereidingsbesluit Beethoven",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-10-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16132.html"
+   },
+   {
+    "id": "stcrt-2009-13789",
+    "titel": "Kennisgeving voorbereidingsbesluit Minervahaven",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-13789.html"
+   },
+   {
+    "id": "stcrt-2009-13758",
+    "titel": "Kennisgeving aanpassing begrenzing bebouwde kom Boswet",
+    "soort": "Overig",
+    "datum": "2009-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-13758.html"
+   },
+   {
+    "id": "stcrt-2009-13790",
+    "titel": "Kennisgeving voorbereidingsbesluit Amerikahaven",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-13790.html"
+   },
+   {
+    "id": "stcrt-2009-13785",
+    "titel": "Kennisgeving Voorbereidingsbesluit Riekerpolder",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-13785.html"
+   },
+   {
+    "id": "stcrt-2009-13786",
+    "titel": "Kennisgeving Voorbereidingsbesluit Westelijke Stationseiland en Oosterdok (voorheen Historisch Stadsfront)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-13786.html"
+   },
+   {
+    "id": "stcrt-2009-13367",
+    "titel": "Kennisgeving voorbereidingsbesluit Amstel III",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-09-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-13367.html"
+   },
+   {
+    "id": "stcrt-2009-8772",
+    "titel": "Kennisgeving ontwerpexploitatieplan Buiksloterham",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-06-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-8772.html"
+   },
+   {
+    "id": "stcrt-2009-6240",
+    "titel": "Voorbereidingsbesluit Centrumgebied Amsterdam Zuidoost, onderdeel Strandvliet 1970",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-04-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-6240.html"
+   },
+   {
+    "id": "stcrt-2009-5133",
+    "titel": "Kennisgeving Voorbereidingsbesluit Kop Zuidas",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-04-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-5133.html"
+   },
+   {
+    "id": "stcrt-1997-50-p9-SC8661",
+    "titel": "Concessie voor landaanwinning",
+    "soort": "Overig",
+    "datum": "1997-03-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-1997-50-p9-SC8661.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1405BPSTD-VG01",
+   "naam": "Nieuwmarkt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-07-01",
+   "opp_m2": 196444,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0010.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0011.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0012.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0023.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0024.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0025.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0026.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0029.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0030.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0035.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0036.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0037.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "aart van Van Deventer is een duidelijk waarneembaar padenpatroon, overwegend oost-west georiÃ«nteerd ingetekend. Deze paden zijn niet te zien bij Anthoniszoon. Vermoedelijk is ook hier sprake van een mix van particuliere en overheidsgestuurde ontwikkelingen. De grondeigenaren in het buurtje rond de Zuiderkerk dwongen af dat de Nieuwe Hoogstraat en de Kloveniersburgwal (Oostzijde) niet breder dan 30 voet (8,5 meter) zouden worden. Des te smaller de straat, des te meer bouwgrond en des te minder onderhoudskosten aan de openbare weg, was de redenering. De rooilijnen werden vastgesteld door Joost Janszoon. Overigens is de breedte van 30 voet zeker niet smal en tamelijk gebruikelijk in deze perio"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "jk aan de Kloveniersburgwal tussen Zandstraat en Nieuwe Hoogstraat, de kleinere aan de dijk (Antoniesbreestraat) en de nieuw uitgemeten straten. Ook hier zijn geen binnenterreinen. Alleen de grotere kavels aan de Kloveniersburgwal hebben tuinen en verder is alleen de begraafplaats bij de ingebouwde Zuiderkerk een open ruimte. De dijk en de Nieuwe Hoogstraten waren winkelstraten (uitgaande routes) en werden met de Kloveniersburgwal als eerste volgebouwd. Op de kaart van Pieter Bast uit 1617 is de Zuiderkerk nog niet ingetekend. Wel is nog een deel van de open sloot ter hoogte van de Zandstraat te zien. <img id=\"o1174\" src=\"i_NL.IMRO.0363.A1405BPSTD-VG01_0"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "vels aan de Kloveniersburgwal hebben tuinen en verder is alleen de begraafplaats bij de ingebouwde Zuiderkerk een open ruimte. De dijk en de Nieuwe Hoogstraten waren winkelstraten (uitgaande routes) en werden met de Kloveniersburgwal als eerste volgebouwd. Op de kaart van Pieter Bast uit 1617 is de Zuiderkerk nog niet ingetekend. Wel is nog een deel van de open sloot ter hoogte van de Zandstraat te zien. De Tuinen rond 1540. Opva"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": " 1625 De Tuinen (dicht) bebouwd, met als blikvanger de Zuiderkerk, gebouwd nadat de meeste woonhuizen al bewoond waren. De aanplempingen rond de sluis leverden meer bouwgrond op.Uitsnede kaart Balthasar Floriszoon (1625). 4.2.2.3 Ramen Net als de Tuinen werd het weiland van de Ramen pas ge"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "ur terug. Dwars door het gebied loopt de Nieuwe Hoogstraat, een belangrijke verbinding met het stadshart. Een aantal looproutes hebben overbouwde doorgangen, zoals tussen de Zwanenburgwal en de Sint Antonisbreestraat via het Pentagon en een route tussen de Nieuwe Hoogstraat en het Zuiderkerkhof. onderdoorgangen tussen Sint Antoniesbreestraat en Nieuwe Hoogstraat en b"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "en hebben een meer gevarieerde bouwhoogte dan de bebouwing van de Lastage. De gemiddelde hoogte ligt tussen 11 en 19 meter (vier Ã zes bouwlagen met een kap). Uitzonderingen bevinden zich aan de Zwanenburgwal waar een aantal panden ca. 24 meter hoog is. Het hoogteaccent van het deelgebied vormt de Zuiderkerk met een hoogte van ca. 65 meter. Verkaveling De bouwblokken kennen in het algemeen een fijnmazige verkaveling. Uitzonderingen vormen de delen waar de stedenbouwkundige structuur in de jaren 80 van de vorige eeuw is aangepast. Opvallend is dat aan de westzijde van de Sint Antoniesbreestraat het oorspronkelijke verkavelingspatroon achter de nieu"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "4.jpg\" alt=\"afbeelding \"i_NL.IMRO.0363.A1405BPSTD-VG01_0024.jpg\"\" height=\"238\" width=\"529\"> Staalstraat en Sint Antoniesbreestraat Van grotere afstand gezien is de Zuiderkerk, waarvan de toren precies in de as van de Groenburgwal staat, het oriÃ«ntatiepunt van het gebied. De kerk ligt niet direct aan een hoofdroute maar verscholen aan de achterkant van het Zuiderkerkhof. Tegenover het stadhuis zijn de hoge panden aan de Zwanenburgwal kenmerkend. EÃ©n van deze panden is via een luchtbrug verbonden met het bouwblok aan de overkant van de Ververstraat. Deze luchtbrug, ma"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "aalstraat en Sint Antoniesbreestraat Van grotere afstand gezien is de Zuiderkerk, waarvan de toren precies in de as van de Groenburgwal staat, het oriÃ«ntatiepunt van het gebied. De kerk ligt niet direct aan een hoofdroute maar verscholen aan de achterkant van het Zuiderkerkhof. Tegenover het stadhuis zijn de hoge panden aan de Zwanenburgwal kenmerkend. EÃ©n van deze panden is via een luchtbrug verbonden met het bouwblok aan de overkant van de Ververstraat. Deze luchtbrug, maar ook de afwijkende architectuur en de vele geveltuinen verlenen de Ververstraat een bijzonder, bijna on-Amsterdams karakter. <img id=\"o1151\" src=\"i_NL.IMRO.0363.A14"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "kter. Groenburgwal met Zuiderkerk en luchtbrug over de Ververstraat Binnenterreinen en tuinen Ook in dit gedeelte van het plangebied zijn grotere onbebouwde binnenterreinen schaars. Slechts in het bouwblok ten noorden van de Nieuwe Hoogstraat is de binnenkant van het bouwblok redelijk open en groen ingericht. Kleinere tuinen bevinden zich nog in het blok ten"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "t overgrote deel van alle panden in de Nieuwmarktbuurt valt onder Ã©Ã©n van de beschreven categorieÃ«n. Mede beeldbepalend zijn echter gebouwen die in maat en schaal hiervan afwijken en vanwege hun specifieke functie typologisch afwijkend zijn. De vroeg 17 ste -eeuwse Zuiderkerk, de middeleeuwse Montelbaanstoren toren met een 17 de -eeuwse spits, het Scheepvaarthuis uit 1912 maar ook het als woonhuis gebouwde Trippenhuis uit ca. 1660 vallen het meest in het oog. Uit de stadsvenieuwingsperiode zijn het Pentagon, het gebouw Nieuwe Hoogstraat 43 van Theo Bosch en de bebouwing tussen de Sint Antoniesbreestraat en het Zuiderkerkh"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "uwse spits, het Scheepvaarthuis uit 1912 maar ook het als woonhuis gebouwde Trippenhuis uit ca. 1660 vallen het meest in het oog. Uit de stadsvenieuwingsperiode zijn het Pentagon, het gebouw Nieuwe Hoogstraat 43 van Theo Bosch en de bebouwing tussen de Sint Antoniesbreestraat en het Zuiderkerkhof (1984) van Hans Hagenbeek het meest besproken in de (vak)pers. 5.1.4 Openbare ruimte Beeld en sfeer van de openbare ruimte hangen nauw samen met het type stedelijke ruimte. Te onderscheiden zijn straten, grachten en pleinen. Kenmerkend voor de Amsterdamse binnenstad is de duidelijke "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/t_NL.IMRO.0363.A1405BPSTD-VG01.html",
+     "tekst": "d en de arcade aan de Sint Antoniesbreestraat Hoven en pleinen Kenmerkend voor de bebouwing die na de metroaanleg nieuw werd opgericht is het gebruik van de binnenterreinen als openbaar toegankelijk hoven. Het J.W. Siebeleshof, het Zuiderkerkhof en de binnenhof van het Pentagon kennen allemaal hun eigen sfeer en zijn verschillend vormgegeven. Alle hoven hebben het karakter van semiopenbare verblijfsruimte. Ze liggen afzijdig van de hoofdverkeersstromen en zijn plekken van rust. Ook binnen de oudere bebouwingsstructuur bevindt zich een publiek binnenterrein. De speeltuin 'De Waag' is op het binnenterrein gesitueerd waar"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "advies_voor_richtlijnen_voor_het_milieu-effectrapport_trajectstudie_capaciteitsuitbreiding_coent",
+   "datum": "2024-03-11",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/167793/advies_voor_richtlijnen_voor_het_milieu-effectrapport_trajectstudie_capaciteitsuitbreiding_coent.pdf",
+   "fragment": "samenvaning v.J.n de Sl.a.rtI39lotitic en Informatie 0Yt1 de inspraakprocrdure is wtergete­ ven. Dele trolt.is foklcr kunt u UnYTii­ gen bij Rijh.....aterstaat.direct.ié • Het Informatiecentrum Zuiderir.er. Zuiderkerkhof 72. Amstetd.2m ma Urn vr gpef.d ... CI0640 commissie voor de milieu-effectrapportage •  . .... .39 • t • Advies voor richtlijnen voor het milieu-effectrapport Trajectstudie Capaci"
+  },
+  {
+   "titel": "startnotitie_trajectnota-mer-corridors_tussen_de_regio_s_amsterdam_almere_en_t_gooi",
+   "datum": "2024-03-02",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/24353/startnotitie_trajectnota-mer-corridors_tussen_de_regio_s_amsterdam_almere_en_t_gooi.pdf",
+   "fragment": "in te zien bij • de meeste Openbare bibliotheken van de bovenstaande gemeenten en van stadsdeel Amsterdam Zuidoost • het Informatiecentrum Zuiderkerk Zuiderkerkhof 72 Amsterdam ma tm vr geopend van 12.00 tot 17.00 donderdag tot 20.00 uur. Bestellen ... 34..-- ..   -- -3434 • 39 Sïtnot39tie TrajectnoJalMER Cor. 34dors tussen éléRegio39s Amsterdam Almere en 39t Gooi Dirèctie Noord-Holland Directie F"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 25,
+  "plannen": 1,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-15867.pdf",
+   "bron": "bekendmaking stcrt-2010-15867: Vaststelling bestemmingsplan ArenAPoort West, laad- en losdek Kavel 17A",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-15677.pdf",
+   "bron": "bekendmaking stcrt-2010-15677: Vaststelling van het bestemmingsplan ‘Huis Marseille’",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-14487.pdf",
+   "bron": "bekendmaking stcrt-2010-14487: Ontwerpbestemmingsplan Huidekoperstraat 13–17",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-14340.pdf",
+   "bron": "bekendmaking stcrt-2010-14340: Ontwerpwijzigingsplan 1e wijziging bestemmingsplan Westelijke Eilanden",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/167793/advies_voor_richtlijnen_voor_het_milieu-effectrapport_trajectstudie_capaciteitsuitbreiding_coent.pdf",
+   "bron": "woo: advies_voor_richtlijnen_voor_het_milieu-effectrapport_trajectstudie_capaciteitsuitbreiding_coent",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/24353/startnotitie_trajectnota-mer-corridors_tussen_de_regio_s_amsterdam_almere_en_t_gooi.pdf",
+   "bron": "woo: startnotitie_trajectnota-mer-corridors_tussen_de_regio_s_amsterdam_almere_en_t_gooi",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0010.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0011.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0012.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0023.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0024.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0025.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0026.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0029.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0030.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0035.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0036.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1405BPSTD-VG01/i_NL.IMRO.0363.A1405BPSTD-VG01_0037.jpg"
+ ],
+ "duur_s": 31,
+ "pand_adressen": [
+  "Zandstraat 17"
+ ]
+}

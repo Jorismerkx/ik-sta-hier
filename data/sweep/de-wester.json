@@ -1,0 +1,340 @@
+{
+ "id": "de-wester",
+ "naam": "De Wester",
+ "adres": "Klönneplein 2, 1014 DD Amsterdam",
+ "termen": [
+  "Klönneplein 2",
+  "1014DD",
+  "1014 DD",
+  "De Wester",
+  "Transformatorhuis"
+ ],
+ "pand": "0363100012166956",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 29,
+  "gezocht": [
+   "Klönneplein 2",
+   "Klönne plein 2"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-485062",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Kanaalstraat 62-H 1054XK Amsterdam, Klönne plein 2 1014DD Amsterdam, Polonceau-kade 27 1014DA Amsterdam, Saxenburgerstraat 26-H 1054KR Amsterdam, Spaarndammerstraat 424 1013SZ Amsterdam, Van Beuningenplein 105 1051VV Amsterdam, Wiltzanghlaan 63-H 1061GZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-16",
+    "onderwerp": "(KAP) het kappen van zeven bomen op verschillende locaties in de openbare ruimte vanwege veiligheidsrisico’s",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-485062.html",
+    "zaak": "Z2026-037443"
+   },
+   {
+    "id": "gmb-2026-408275",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Kanaalstraat 62-H 1054XK Amsterdam, Klönne plein 2 1014DD Amsterdam, Polonceau-kade 27 1014DA Amsterdam, Saxenburgerstraat 26-H 1054KR Amsterdam, Spaarndammerstraat 424 1013SZ Amsterdam, Van Beuningenplein 105 1051VV Amsterdam, Wiltzanghlaan 63-H 1061GZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-31",
+    "onderwerp": "(KAP) het kappen van zeven bomen op verschillende locaties in de openbare ruimte vanwege veiligheidsrisico’s",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-408275.html",
+    "zaak": "Z2026-037443"
+   },
+   {
+    "id": "gmb-2026-312673",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Klönne plein 2 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-01",
+    "onderwerp": "vervangen van een lichtkunstwerk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-312673.html",
+    "zaak": "Z2026-022953"
+   },
+   {
+    "id": "gmb-2026-272952",
+    "titel": "Aanvraag omgevingsvergunning Klönne plein 2 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-10",
+    "onderwerp": "vervangen van een lichtkunstwerk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-272952.html",
+    "zaak": "Z2026-022953"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-485062",
+   "gmb-2026-408275",
+   "gmb-2026-312673",
+   "gmb-2026-272952"
+  ],
+  "zaaknummers": [
+   "Z2026-022953",
+   "Z2026-037443"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-251803",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-29",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-251803.html"
+   },
+   {
+    "id": "gmb-2026-251817",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Klönne plein 2 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-251817.html"
+   },
+   {
+    "id": "gmb-2023-458454",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken)Klönne plein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-27",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Klönne plein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-458454.html"
+   },
+   {
+    "id": "gmb-2023-418018",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-418018.html"
+   },
+   {
+    "id": "gmb-2023-385825",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein 2",
+    "soort": "andere vergunning",
+    "datum": "2023-09-07",
+    "onderwerp": "(verstuurd naar J.Huppen) OBJ: Klönne plein 2, 12/09 - 15/09, 09.00 - 14.00 uur, Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-385825.html"
+   },
+   {
+    "id": "gmb-2023-101517",
+    "titel": "Besluit evenementenvergunning VerleendKlönne plein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-09",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-101517.html"
+   },
+   {
+    "id": "gmb-2023-47588",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-02-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-47588.html"
+   },
+   {
+    "id": "gmb-2023-42564",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren)Klönne plein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-31",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Klönne plein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-42564.html"
+   },
+   {
+    "id": "gmb-2022-570249",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2022-12-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-570249.html"
+   },
+   {
+    "id": "gmb-2022-503575",
+    "titel": "Besluit apv vergunning Verleend Klönne plein 2",
+    "soort": "andere vergunning",
+    "datum": "2022-11-14",
+    "onderwerp": "OBJ, Klönne plein 2, 21-11-2022 t/m 27-12-2022, Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-503575.html"
+   },
+   {
+    "id": "gmb-2022-398627",
+    "titel": "Besluit apv vergunning Verleend Klönne plein 2",
+    "soort": "andere vergunning",
+    "datum": "2022-09-06",
+    "onderwerp": "OBJ, Klönne plein 2, 21-11-2022 t/m 27-12-2022, Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-398627.html"
+   },
+   {
+    "id": "gmb-2022-392734",
+    "titel": "Besluit evenementenvergunning Verleend Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-09-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-392734.html"
+   },
+   {
+    "id": "gmb-2022-387397",
+    "titel": "Besluit evenementenvergunning Verleend Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-08-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387397.html"
+   },
+   {
+    "id": "gmb-2022-310512",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-07-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-310512.html"
+   },
+   {
+    "id": "gmb-2022-310580",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-07-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-310580.html"
+   },
+   {
+    "id": "gmb-2022-233762",
+    "titel": "Besluit evenementenvergunning Verleend Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-233762.html"
+   },
+   {
+    "id": "gmb-2022-149831",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-04-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-149831.html"
+   },
+   {
+    "id": "gmb-2022-126680",
+    "titel": "Besluit evenementenvergunning Verleend Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-126680.html"
+   },
+   {
+    "id": "gmb-2022-78219",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-78219.html"
+   },
+   {
+    "id": "gmb-2021-460905",
+    "titel": "Besluit evenementenvergunning Verleend Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2021-12-20",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-460905.html"
+   },
+   {
+    "id": "gmb-2021-453911",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2021-12-14",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-453911.html"
+   },
+   {
+    "id": "gmb-2021-406152",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2021-11-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-406152.html"
+   },
+   {
+    "id": "gmb-2021-351297",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2021-10-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-351297.html"
+   },
+   {
+    "id": "gmb-2021-351632",
+    "titel": "Besluit evenementenvergunning Verleend Klönne plein 2",
+    "soort": "evenementenvergunning",
+    "datum": "2021-10-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-351632.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1209BPSTD-VG01",
+   "naam": "Westergasfabriek",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-01-28",
+   "opp_m2": 347587,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 1,
+  "plannen": 5,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 12,
+ "pand_adressen": [
+  "Klönne plein 2"
+ ]
+}

@@ -1,0 +1,344 @@
+{
+ "id": "hannekes-boom",
+ "naam": "Hannekes Boom",
+ "adres": "Dijksgracht 4, 1019 BS Amsterdam",
+ "termen": [
+  "Dijksgracht 4",
+  "1019BS",
+  "1019 BS",
+  "Hannekes Boom"
+ ],
+ "pand": null,
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 31,
+  "gezocht": [
+   "Dijksgracht 4"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-566412",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Dijksgracht 4 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-24",
+    "onderwerp": "legaliseren van een deel van de steigerbuizenconstructie ten behoeve van de horecavestiging en het hebben hiervan tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-566412.html",
+    "zaak": "Z2024-033335"
+   },
+   {
+    "id": "gmb-2024-471202",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 4 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-08",
+    "onderwerp": "legaliseren van steigerbuizenconstructie ten behoeve van de horecavestiging ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-471202.html",
+    "zaak": "Z2024-033335"
+   },
+   {
+    "id": "gmb-2024-131018",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure Dijksgracht 4 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-25",
+    "onderwerp": "verlengen van de tijdelijke omgevingsvergunning OLO 4623675 Dijksgracht 4 voor een periode tot 1 januari 2029.",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-131018.html",
+    "zaak": "Z2023-C010211"
+   },
+   {
+    "id": "gmb-2024-46735",
+    "titel": "Ontwerpbesluit omgevingsvergunning Dijksgracht 4 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "verlengen van de tijdelijke omgevingsvergunning OLO 4623675 Dijksgracht 4 voor een periode tot 1 januari 2029.",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-46735.html",
+    "zaak": "Z2023-C010211"
+   },
+   {
+    "id": "gmb-2024-22606",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 4 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-11",
+    "onderwerp": "wijzigen van het tijdelijke naar permanent gebruik van de gebouwen met bestemming daarvan tot bijeenkomstfunctie en opslag (Hannekes Boom)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-22606.html",
+    "zaak": "Z2023-C010211"
+   },
+   {
+    "id": "gmb-2024-22607",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 4 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-11",
+    "onderwerp": "wijzigen van het tijdelijke naar permanent gebruik van de gebouwen met bestemming daarvan tot bijeenkomstfunctie en opslag (Hannekes Boom)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-22607.html",
+    "zaak": "Z2023-C010211"
+   },
+   {
+    "id": "gmb-2022-421565",
+    "titel": "Besluit opleggen maatwerkvoorschriften Dijksgracht 4 1019BS Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2022-09-21",
+    "onderwerp": "Dijksgracht 4 | Hannekes Boom | Opleggen Maatwerkvoorschriften",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-421565.html",
+    "zaak": "Z2022-C006254"
+   },
+   {
+    "id": "stcrt-2020-13305",
+    "titel": "Gemeente Amsterdam - verlening omgevingsvergunning met projectafwijking - verlengen van de tijdelijke omgevingsvergunning - Dijksgracht 4, Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2020-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2020-13305.html"
+   },
+   {
+    "id": "stcrt-2019-70617",
+    "titel": "Gemeente Amsterdam - Ontwerpomgevingsvergunning met projectafwijking voor Dijksgracht 4",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2019-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2019-70617.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-566412",
+   "gmb-2024-471202",
+   "gmb-2024-131018",
+   "gmb-2024-46735",
+   "gmb-2024-22606",
+   "gmb-2024-22607"
+  ],
+  "zaaknummers": [
+   "Z2023-C010211",
+   "Z2024-033335"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-108135",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108135.html"
+   },
+   {
+    "id": "gmb-2025-78332",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2025-02-25",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-78332.html"
+   },
+   {
+    "id": "gmb-2024-221989",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2024-05-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-221989.html"
+   },
+   {
+    "id": "gmb-2024-194862",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Dijksgracht 4 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Dijksgracht 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-194862.html"
+   },
+   {
+    "id": "gmb-2024-177347",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-177347.html"
+   },
+   {
+    "id": "gmb-2024-125775",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Dijksgracht 4D in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Dijksgracht 4D in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-125775.html"
+   },
+   {
+    "id": "gmb-2024-34029",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Dijksgracht 4D in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-01-22",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Dijksgracht 4D in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-34029.html"
+   },
+   {
+    "id": "gmb-2023-533547",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Dijksgracht 4 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-12-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Dijksgracht 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-533547.html"
+   },
+   {
+    "id": "gmb-2022-359055",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2022-08-05",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-359055.html"
+   },
+   {
+    "id": "gmb-2022-253381",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2022-06-07",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-253381.html"
+   },
+   {
+    "id": "gmb-2022-207325",
+    "titel": "Besluit apv vergunning Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2022-05-09",
+    "onderwerp": "Objectvergunning,Dijksgracht 4,op 06-05-2022 tot 27-05-2022, Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-207325.html"
+   },
+   {
+    "id": "gmb-2022-129811",
+    "titel": "Besluit evenementenvergunning Verleend Dijksgracht 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-129811.html"
+   },
+   {
+    "id": "gmb-2022-100314",
+    "titel": "Aanvraag evenementenvergunning Dijksgracht 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-100314.html"
+   },
+   {
+    "id": "gmb-2022-86327",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Dijksgracht 4",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-86327.html"
+   },
+   {
+    "id": "gmb-2022-14092",
+    "titel": "Aanvraag evenementenvergunning Dijksgracht 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-14092.html"
+   },
+   {
+    "id": "gmb-2021-380213",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Dijksgracht 4",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380213.html"
+   },
+   {
+    "id": "gmb-2021-311824",
+    "titel": "Besluit apv vergunning Verleend Dijksgracht 4",
+    "soort": "andere vergunning",
+    "datum": "2021-09-13",
+    "onderwerp": "rvv, Dijksgracht 4, 14-9-2021 t/m 15-9-2021, Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-311824.html"
+   },
+   {
+    "id": "gmb-2021-310250",
+    "titel": "Besluit evenementenvergunning Verleend Dijksgracht 4",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-310250.html"
+   },
+   {
+    "id": "gmb-2021-285911",
+    "titel": "Aanvraag evenementenvergunning Dijksgracht 4",
+    "soort": "evenementenvergunning",
+    "datum": "2021-08-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Dijksgracht 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-285911.html"
+   },
+   {
+    "id": "wsb-2015-4751",
+    "titel": "Verleende Watervergunning voor het aanbrengen van kabels en leidingen in de kadeconstructie voor het aansluiten van een boot ter hoogte van Dijksgracht 4, 1019 BS Amsterdam - AGV - W-15.00708",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-06-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2015-4751.html"
+   },
+   {
+    "id": "wsb-2015-2076",
+    "titel": "Verleende Watervergunning voor het aanbrengen van kabels en leidingen in de kadeconstructie voor het aansluiten van een boot ter hoogte van Dijksgracht 4, 1019 BS Amsterdam - AGV - W-15.00578",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-03-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2015-2076.html"
+   },
+   {
+    "id": "blg-346246",
+    "titel": "Programma Hoogfrequent Spoorvervoer. Amsterdam Centraal",
+    "soort": "Bijlage",
+    "datum": "2014-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-346246.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 126,
+  "plannen": 0,
+  "woo": 53
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 218,
+ "pand_adressen": []
+}

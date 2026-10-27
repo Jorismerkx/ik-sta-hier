@@ -1,0 +1,510 @@
+{
+ "id": "prik",
+ "naam": "Prik",
+ "adres": "Spuistraat 109, 1012 SV Amsterdam",
+ "termen": [
+  "Spuistraat 109",
+  "1012SV",
+  "1012 SV"
+ ],
+ "pand": "0363100012175496",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 12,
+  "openbaar": 12,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_92667",
+    "titel": "Spuistraat 109",
+    "datum": "2009-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92667"
+   },
+   {
+    "dossier": "SA_92695",
+    "titel": "Nieuwezijds Voorburgwal 156",
+    "datum": "2007-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92695"
+   },
+   {
+    "dossier": "SA_03311",
+    "titel": "Spuistraat 109 A - 109 H; Spuistraat 109 K - 109 L",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03311"
+   },
+   {
+    "dossier": "SA_03010",
+    "titel": "Nieuwezijds Voorburgwal 156",
+    "datum": "2003-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03010"
+   },
+   {
+    "dossier": "SA_110288",
+    "titel": "Spuistraat 109 Hs - 109 1",
+    "datum": "1992-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_110288"
+   },
+   {
+    "dossier": "SA_03007",
+    "titel": "Nieuwezijds Voorburgwal 156",
+    "datum": "1989-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03007"
+   },
+   {
+    "dossier": "SA_03005",
+    "titel": "Spuistraat 109",
+    "datum": "1977-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03005"
+   },
+   {
+    "dossier": "SA_03006",
+    "titel": "Spuistraat 109",
+    "datum": "1973-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03006"
+   },
+   {
+    "dossier": "SA_03004",
+    "titel": "Nieuwezijds Voorburgwal 156",
+    "datum": "1971-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03004"
+   },
+   {
+    "dossier": "SA_03002",
+    "titel": "Spuistraat 109",
+    "datum": "1927-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03002"
+   },
+   {
+    "dossier": "SA_40940",
+    "titel": "Spuistraat 109 - 111",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_40940"
+   },
+   {
+    "dossier": "SA_03001",
+    "titel": "Nieuwezijds Voorburgwal 156; Spuistraat 107 A",
+    "datum": "1905-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03001"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 50,
+  "gezocht": [
+   "Spuistraat 109",
+   "Nieuwezijds Voorburgwal 156A",
+   "Nieuwezijds Voorburgwal 156B",
+   "Nieuwezijds Voorburgwal 156C",
+   "Nieuwezijds Voorburgwal 156D",
+   "Spuistraat 109A",
+   "Spuistraat 109B",
+   "Spuistraat 109C",
+   "Spuistraat 109D",
+   "Spuistraat 109E",
+   "Spuistraat 109F",
+   "Spuistraat 109G",
+   "Spuistraat 109H"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-339858",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 109M",
+    "soort": "andere vergunning",
+    "datum": "2026-07-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 109M",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-339858.html"
+   },
+   {
+    "id": "gmb-2026-307050",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156B",
+    "soort": "andere vergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-307050.html"
+   },
+   {
+    "id": "gmb-2026-289259",
+    "titel": "Besluit evenementenvergunning Verleend aan Stichting Pride Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-18",
+    "onderwerp": "Verleend: evenementenvergunning World Pride Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-289259.html"
+   },
+   {
+    "id": "gmb-2026-172233",
+    "titel": "Aanvraag evenementenvergunning WorldPride 2026 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning voor WorldPride 2026 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-172233.html"
+   },
+   {
+    "id": "gmb-2026-159655",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Spuistraat 109A in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Spuistraat 109A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159655.html"
+   },
+   {
+    "id": "gmb-2026-141029",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156C",
+    "soort": "andere vergunning",
+    "datum": "2026-03-26",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-141029.html"
+   },
+   {
+    "id": "gmb-2026-1114",
+    "titel": "Aanvraag evenementenvergunning Spuistraat 109A in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Spuistraat 109A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-1114.html"
+   },
+   {
+    "id": "gmb-2025-496229",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 109A",
+    "soort": "andere vergunning",
+    "datum": "2025-11-17",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 109A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-496229.html"
+   },
+   {
+    "id": "gmb-2025-306875",
+    "titel": "Rectificatie: Besluit evenementenvergunning - Amsterdam Pride",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-14",
+    "onderwerp": ": evenementenvergunning Amsterdam Pride",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-306875.html"
+   },
+   {
+    "id": "gmb-2025-272628",
+    "titel": "Besluit evenementenvergunning - Amsterdam Pride",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "evenementenvergunning Pride Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272628.html"
+   },
+   {
+    "id": "gmb-2025-208010",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum van aan te wijzen en te wijzigen inzamellocaties in de Spuistraat (noord)",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2025-05-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-208010.html"
+   },
+   {
+    "id": "gmb-2025-166869",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156B",
+    "soort": "andere vergunning",
+    "datum": "2025-04-16",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-166869.html"
+   },
+   {
+    "id": "gmb-2025-144910",
+    "titel": "Aanvraag evenementenvergunning Amsterdam Pride",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-03",
+    "onderwerp": "Aanvraag voor evenementenvergunning Amsterdam Pride",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-144910.html"
+   },
+   {
+    "id": "gmb-2025-128161",
+    "titel": "Besluit evenementenvergunning Verleend - Spuistraat 109A in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Spuistraat 109A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-128161.html"
+   },
+   {
+    "id": "gmb-2025-111448",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156C",
+    "soort": "andere vergunning",
+    "datum": "2025-03-17",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-111448.html"
+   },
+   {
+    "id": "gmb-2024-550392",
+    "titel": "Aanvraag evenementenvergunning Spuistraat 109A in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-12-31",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Spuistraat 109A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550392.html"
+   },
+   {
+    "id": "gmb-2024-474723",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 109H",
+    "soort": "andere vergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 109H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-474723.html"
+   },
+   {
+    "id": "gmb-2024-276665",
+    "titel": "Besluit evenementenvergunning Verleend Pride Amsterdam 2024",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Verleend: evenementenvergunning Pride Amsterdam 2024",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276665.html"
+   },
+   {
+    "id": "gmb-2024-209729",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156B",
+    "soort": "andere vergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-209729.html"
+   },
+   {
+    "id": "gmb-2024-159648",
+    "titel": "Aanvraag evenementenvergunning Dam 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag evenementenvergunning Pride Amsterdam 2024",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-159648.html"
+   },
+   {
+    "id": "gmb-2024-139682",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156C",
+    "soort": "andere vergunning",
+    "datum": "2024-04-02",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-139682.html"
+   },
+   {
+    "id": "gmb-2024-132686",
+    "titel": "Besluit evenementenvergunning VerleendSpuistraat 109A in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Spuistraat 109A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-132686.html"
+   },
+   {
+    "id": "gmb-2023-563870",
+    "titel": "Aanvraag evenementenvergunning Spuistraat 109A in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Spuistraat 109A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-563870.html"
+   },
+   {
+    "id": "gmb-2023-283284",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156C",
+    "soort": "andere vergunning",
+    "datum": "2023-06-29",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-283284.html"
+   },
+   {
+    "id": "gmb-2023-266777",
+    "titel": "Besluit evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "Evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-266777.html"
+   },
+   {
+    "id": "gmb-2023-223143",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Nieuwezijds Voorburgwal 156B",
+    "soort": "andere vergunning",
+    "datum": "2023-05-22",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Nieuwezijds Voorburgwal 156B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-223143.html"
+   },
+   {
+    "id": "gmb-2023-175778",
+    "titel": "Besluit alcoholwetvergunning Verleend - Spuistraat 109A in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-04-21",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Spuistraat 109A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-175778.html"
+   },
+   {
+    "id": "gmb-2023-168377",
+    "titel": "Aanvraag evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-04-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning voor Queer en Pride Amsterdam 2023 op diverse locaties in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-168377.html"
+   },
+   {
+    "id": "gmb-2023-168267",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Spuistraat 109A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-04-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Spuistraat 109A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-168267.html"
+   },
+   {
+    "id": "gmb-2023-120764",
+    "titel": "Besluit evenementenvergunning VerleendSpuistraat 109A in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Spuistraat 109A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-120764.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Nieuwezijds Voorburgwal 156A",
+  "Nieuwezijds Voorburgwal 156B",
+  "Nieuwezijds Voorburgwal 156C",
+  "Nieuwezijds Voorburgwal 156D",
+  "Spuistraat 109A",
+  "Spuistraat 109B",
+  "Spuistraat 109C",
+  "Spuistraat 109D",
+  "Spuistraat 109E",
+  "Spuistraat 109F",
+  "Spuistraat 109G",
+  "Spuistraat 109H"
+ ]
+}

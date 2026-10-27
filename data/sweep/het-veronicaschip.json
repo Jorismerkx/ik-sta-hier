@@ -1,0 +1,266 @@
+{
+ "id": "het-veronicaschip",
+ "naam": "Het Veronicaschip",
+ "adres": "NDSM-Pier 1, 1033 RG Amsterdam",
+ "termen": [
+  "NDSM-Pier 1",
+  "1033RG",
+  "1033 RG",
+  "Het Veronicaschip"
+ ],
+ "pand": null,
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 18,
+  "gezocht": [
+   "NDSM-Pier 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "stcrt-2013-27344",
+    "titel": "Ontwerp omgevingsvergunning Veronica Schip BV, Amsterdam – Noord",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-09-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-27344.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-417980",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - NDSM-pier 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres NDSM-pier 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-417980.html"
+   },
+   {
+    "id": "gmb-2026-417931",
+    "titel": "Aanvraag alcoholwetvergunning NDSM-pier 1",
+    "soort": "andere vergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres NDSM-pier 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-417931.html"
+   },
+   {
+    "id": "gmb-2026-400647",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Ingetrokken - NDSM-pier 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-25",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres NDSM-pier 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-400647.html"
+   },
+   {
+    "id": "gmb-2026-243764",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - NDSM-pier 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres NDSM-pier 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243764.html"
+   },
+   {
+    "id": "gmb-2024-251618",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-pier 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-11",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-pier 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-251618.html"
+   },
+   {
+    "id": "gmb-2024-247315",
+    "titel": "Besluit apv vergunning Verleend - NDSM-pier 1",
+    "soort": "andere vergunning",
+    "datum": "2024-06-07",
+    "onderwerp": "Object, NDSM-pier 1 1033RG, 20240603, NDSM-pier 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-247315.html"
+   },
+   {
+    "id": "gmb-2024-229035",
+    "titel": "Aanvraag evenementenvergunning NDSM-pier 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-pier 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-229035.html"
+   },
+   {
+    "id": "gmb-2024-170178",
+    "titel": "Besluit apv vergunning Verleend - NDSM-pier 1",
+    "soort": "andere vergunning",
+    "datum": "2024-04-18",
+    "onderwerp": "Object, NDSM-pier 1 1033RG, 20240506, NDSM-pier 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-170178.html"
+   },
+   {
+    "id": "gmb-2023-289925",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - NDSM-pier 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres NDSM-pier 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-289925.html"
+   },
+   {
+    "id": "gmb-2023-197526",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf NDSM-pier 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres NDSM-pier 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-197526.html"
+   },
+   {
+    "id": "gmb-2022-183050",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend NDSM-pier 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres NDSM-pier 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-183050.html"
+   },
+   {
+    "id": "gmb-2021-382771",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend NDSM-pier 1",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-29",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres NDSM-pier 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-382771.html"
+   },
+   {
+    "id": "gmb-2015-64255",
+    "titel": "Vaststellen Uitvoerings- en Aanwijzingsbesluit op grond van de  gewijzigde Verordening Parkeerbelastingen 2015-II en Parkeerverordening  2013(3B, 2015, 167)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-07-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-64255.html"
+   },
+   {
+    "id": "gmb-2014-35134",
+    "titel": "Vaststellen tussentijdse wijziging Uitvoerings- en Aanwijzingsbesluit op grond van de Verordening Parkeerbelastingen 2014 en Parkeerverordening 2013 i.v.m. invoering van nachtelijk parkeren in stadshart stadsdeel Centrum(3B, 2014, 61)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2014-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-35134.html"
+   },
+   {
+    "id": "gmb-2014-35136",
+    "titel": "Vaststellen Uitvoerings- en Aanwijzingsbesluit op grond van de Verordening Parkeerbelastingen 2014 en Parkeerverordening 2013(3B, 2014, 87)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2014-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-35136.html"
+   },
+   {
+    "id": "gmb-2014-29720",
+    "titel": "Bijlage bij artikel XII van het Uitvoerings- en Aanwijzingsbesluit (17december 2013 / afdeling 3B, nr. X)op grond van de Verordening Parkeerbelastingen 2014 (19 december2013/ afdeling 3A, nr. 253/1129) en de Parkeerverordening2013 (19 december 2013/afdeling 3A, nr. 254/1131).",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2014-05-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-29720.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1107PBPSTD-OH01",
+   "naam": "Tweede partiële herziening bestemmingsplan Cornelis Douwesterrein",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-04-25",
+   "opp_m2": 408440,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1011BPSTD-VG01",
+   "naam": "NDSM-werf West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-03-12",
+   "opp_m2": 526034,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1601BPGST-VG01",
+   "naam": "NDSM-werf West 1e wijziging",
+   "type": "wijzigingsplan",
+   "status": "vastgesteld",
+   "datum": "2017-02-16",
+   "opp_m2": 526034,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1807BPGST-VG01",
+   "naam": "NDSM-werf West, 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-09-30",
+   "opp_m2": 526034,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1102PBPSTD-OH01",
+   "naam": "BP_Herziening geluidszone Cornelis Douwesterrein",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-08-16",
+   "opp_m2": 2620059,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 50,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 55,
+ "pand_adressen": []
+}

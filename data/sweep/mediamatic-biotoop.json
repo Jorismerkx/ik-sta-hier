@@ -1,0 +1,317 @@
+{
+ "id": "mediamatic-biotoop",
+ "naam": "Mediamatic Biotoop",
+ "adres": "Dijksgracht 6, 1019 BS Amsterdam",
+ "termen": [
+  "Dijksgracht 6",
+  "1019BS",
+  "1019 BS",
+  "Mediamatic Biotoop"
+ ],
+ "pand": "0363100012180473",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 3,
+  "openbaar": 3,
+  "laatste": "2007-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_109857",
+    "titel": "Dijksgracht 6",
+    "datum": "2007-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109857"
+   },
+   {
+    "dossier": "SA_109850",
+    "titel": "Dijksgracht 6",
+    "datum": "2002-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109850"
+   },
+   {
+    "dossier": "SA_68599",
+    "titel": "Dijksgracht 6",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_68599"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 22,
+  "gezocht": [
+   "Dijksgracht 6"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-113116",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-17",
+    "onderwerp": "verlengen van de instandhoudingstermijn van zes kassen aan het water ten behoeve kunstprojecten   tot 1 januari 2026",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-113116.html",
+    "zaak": "Z2024-005483"
+   },
+   {
+    "id": "gmb-2024-276697",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de kas aan de zijkant van het gebouw tot 1 januari 2029",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276697.html",
+    "zaak": "Z2024-005473"
+   },
+   {
+    "id": "gmb-2024-276709",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de bestaande kas achter het gebouw aan de waterzijde tot 1 januari 2029",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276709.html",
+    "zaak": "Z2024-005476"
+   },
+   {
+    "id": "gmb-2024-207867",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de bestaande en het plaatsten van vijf extra kassen aan het water met dinerfunctie tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-207867.html",
+    "zaak": "Z2024-005483"
+   },
+   {
+    "id": "gmb-2024-207868",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de kas aan de zijkant van het gebouw tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-207868.html",
+    "zaak": "Z2024-005473"
+   },
+   {
+    "id": "gmb-2024-207871",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de kas achter het gebouw aan de waterzijde tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-207871.html",
+    "zaak": "Z2024-005476"
+   },
+   {
+    "id": "gmb-2024-164428",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-15",
+    "onderwerp": "verlengen van de instandhoudingstermijn aan de waterzijde tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-164428.html",
+    "zaak": "Z2024-005476"
+   },
+   {
+    "id": "gmb-2024-164443",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-15",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de kas aan de zijkant van het gebouw tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-164443.html",
+    "zaak": "Z2024-005473"
+   },
+   {
+    "id": "gmb-2024-164398",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-15",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de bestaande en het plaatsten van vijf extra kassen aan het water met dinerfunctie tot 1 januari 2029",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-164398.html",
+    "zaak": "Z2024-005483"
+   },
+   {
+    "id": "gmb-2023-538948",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-15",
+    "onderwerp": "kappen van drie bomen, zaailingen in de openbare ruimte tegen de kademuur ter hoogte van brug 2361 en het gebouw",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-538948.html",
+    "zaak": "Z2023-C008173"
+   },
+   {
+    "id": "gmb-2023-490497",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-16",
+    "onderwerp": "kappen van drie bomen, zaailingen in de openbare ruimte tegen de kade ter hoogte van brug 2361 en het gebouw",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-490497.html",
+    "zaak": "Z2023-C008173"
+   },
+   {
+    "id": "gmb-2023-490496",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-16",
+    "onderwerp": "kappen van drie bomen, zaailingen in de openbare ruimte tegen de kade ter hoogte van het gebouw",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-490496.html",
+    "zaak": "Z2023-C008173"
+   },
+   {
+    "id": "gmb-2023-119044",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-20",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de glazen serre aan de voorzijde voor een periode van vijf jaar tot 1 januari 2029",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-119044.html"
+   },
+   {
+    "id": "gmb-2023-61464",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Dijksgracht 6 1019BS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "verlengen van de instandhoudingstermijn van de glazen serre aan de voorzijde voor een periode van vijf jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-61464.html",
+    "zaak": "Z2022-C009903"
+   },
+   {
+    "id": "gmb-2022-581641",
+    "titel": "Aanvraag omgevingsvergunning Dijksgracht 6 1019BS Amsterdam, Postbus 17490 1001JL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "plaatsen van een kas ter hoogte van de hoofdentraat van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-581641.html",
+    "zaak": "Z2022-C009903"
+   },
+   {
+    "id": "stcrt-2011-15361",
+    "titel": "Kennisgeving weigering omgevingsvergunning",
+    "soort": "Vergunningen",
+    "datum": "2011-08-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2011-15361.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-113116",
+   "gmb-2024-276697",
+   "gmb-2024-276709",
+   "gmb-2024-207868",
+   "gmb-2024-164428",
+   "gmb-2024-164443",
+   "gmb-2024-164398",
+   "gmb-2023-538948",
+   "gmb-2023-490496",
+   "gmb-2023-119044",
+   "gmb-2022-581641"
+  ],
+  "zaaknummers": [
+   "Z2022-C009903",
+   "Z2023-C008173",
+   "Z2024-005473",
+   "Z2024-005476",
+   "Z2024-005483"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2025-163323",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Dijksgracht 6 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-15",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Dijksgracht 6 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-163323.html"
+   },
+   {
+    "id": "gmb-2024-68179",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Dijksgracht 6 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-13",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Dijksgracht 6 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-68179.html"
+   },
+   {
+    "id": "gmb-2022-559787",
+    "titel": "Uitvoerings- en aanwijzingsbesluit parkeerbelasting Amsterdam 2023",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-12-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-559787.html"
+   },
+   {
+    "id": "gmb-2022-86350",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Dijksgracht 6",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Dijksgracht 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-86350.html"
+   },
+   {
+    "id": "gmb-2021-380347",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Dijksgracht 6",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Dijksgracht 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380347.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 11,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 12,
+ "pand_adressen": [
+  "Dijksgracht 6"
+ ]
+}

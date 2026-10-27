@@ -1,0 +1,427 @@
+{
+ "id": "cafe-de-ceuvel",
+ "naam": "Café de Ceuvel",
+ "adres": "Korte Papaverweg 4, 1032 KB Amsterdam",
+ "termen": [
+  "Korte Papaverweg 4",
+  "1032KB",
+  "1032 KB",
+  "Café de Ceuvel"
+ ],
+ "pand": "0363100012242983",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 14,
+  "openbaar": 14,
+  "laatste": "2002-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_03126",
+    "titel": "Asterdwarsweg 2 - 8; Asterdwarsweg 8 a; Asterweg 22 a - 28 a; Asterweg 24 - 30; Chrysantenstraat 1 - 9; Chrysantenstraat 13; Chrysantenstraat 19; Distelweg 99; Durgerdammerdijk 74; Frambozenstraat 1 - 26; Grasweg 54 - 60; Klaprozenweg 31 - 33; Korte Papaverweg 2 - 6; Molenwijk 22; mt. Ondinaweg 9; W",
+    "datum": "2002-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03126"
+   },
+   {
+    "dossier": "SN_23814",
+    "titel": "Korte Papaverweg 2 - 6",
+    "datum": "2002-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 59,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_23814"
+   },
+   {
+    "dossier": "SN_05644",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1978-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_05644"
+   },
+   {
+    "dossier": "SN_06791",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1973-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06791"
+   },
+   {
+    "dossier": "SN_06775",
+    "titel": "Korte Papaverweg 2 - 4",
+    "datum": "1971-01-01",
+    "soort": "brug/viaduct/duiker/tunnel",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06775"
+   },
+   {
+    "dossier": "SN_06750",
+    "titel": "Korte Papaverweg 2 - 4",
+    "datum": "1964-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06750"
+   },
+   {
+    "dossier": "SN_23623",
+    "titel": "Korte Papaverweg 2 - 4",
+    "datum": "1960-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_23623"
+   },
+   {
+    "dossier": "SN_06691",
+    "titel": "Korte Papaverweg 2 - 4",
+    "datum": "1959-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06691"
+   },
+   {
+    "dossier": "SN_06674",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1958-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06674"
+   },
+   {
+    "dossier": "SN_06635",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1947-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06635"
+   },
+   {
+    "dossier": "SN_06609",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1924-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06609"
+   },
+   {
+    "dossier": "SN_06643",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1921-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06643"
+   },
+   {
+    "dossier": "SN_06613",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1921-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06613"
+   },
+   {
+    "dossier": "SN_06634",
+    "titel": "Korte Papaverweg 4",
+    "datum": "1921-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06634"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 21,
+  "gezocht": [
+   "Korte Papaverweg 4"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-286039",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-286039.html"
+   },
+   {
+    "id": "gmb-2026-238291",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238291.html"
+   },
+   {
+    "id": "gmb-2026-159665",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159665.html"
+   },
+   {
+    "id": "gmb-2026-12120",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-12120.html"
+   },
+   {
+    "id": "gmb-2025-325318",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325318.html"
+   },
+   {
+    "id": "gmb-2025-276869",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-26",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-276869.html"
+   },
+   {
+    "id": "gmb-2025-262426",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-262426.html"
+   },
+   {
+    "id": "gmb-2025-262449",
+    "titel": "Besluit evenementenvergunning Verleend - Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-262449.html"
+   },
+   {
+    "id": "gmb-2024-132560",
+    "titel": "Besluit evenementenvergunning VerleendKorte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-132560.html"
+   },
+   {
+    "id": "gmb-2024-130209",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-130209.html"
+   },
+   {
+    "id": "gmb-2024-24640",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-01-15",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-24640.html"
+   },
+   {
+    "id": "gmb-2024-22696",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-22696.html"
+   },
+   {
+    "id": "gmb-2023-224405",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-05-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-224405.html"
+   },
+   {
+    "id": "gmb-2023-130165",
+    "titel": "Besluit evenementenvergunning VerleendKorte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-130165.html"
+   },
+   {
+    "id": "gmb-2023-1270",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-1270.html"
+   },
+   {
+    "id": "gmb-2022-234600",
+    "titel": "Besluit evenementenvergunning Verleend Korte Papaverweg 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Papaverweg 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-234600.html"
+   },
+   {
+    "id": "gmb-2022-183104",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Korte Papaverweg 4",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Korte Papaverweg 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-183104.html"
+   },
+   {
+    "id": "gmb-2022-147092",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Korte Papaverweg 4",
+    "soort": "andere vergunning",
+    "datum": "2022-04-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Korte Papaverweg 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-147092.html"
+   },
+   {
+    "id": "gmb-2022-144972",
+    "titel": "Aanvraag evenementenvergunning Korte Papaverweg 4",
+    "soort": "evenementenvergunning",
+    "datum": "2022-04-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Papaverweg 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-144972.html"
+   },
+   {
+    "id": "gmb-2021-386581",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Korte Papaverweg 4",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Korte Papaverweg 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-386581.html"
+   },
+   {
+    "id": "blg-938142",
+    "titel": "Memo Veiligheidsberaad van 4 juni 2020 aan de veiligheidsregio's met een overzicht van aangevraagde ontheffing of vrijstelling noodverordening (4 p.)",
+    "soort": "Bijlage",
+    "datum": "2020-06-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-938142.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N2002BPGST-VG01",
+   "naam": "Buiksloterham 7e part herz",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-06-22",
+   "opp_m2": 39283,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1405BPSTD-VG01",
+   "naam": "Vierde partiële herziening bestemmingsplan Buiksloterham",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-12-21",
+   "opp_m2": 1028099,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Overzicht aangevraagde ontheffing of vrijstelling noodverordening",
+   "datum": "2020-06-26",
+   "door": "Onbekend",
+   "url": "https://open.overheid.nl/documenten/ronl-61b224ca-e369-4c9b-ad67-9e61965134b4",
+   "fragment": "nog Amsterdam-Amstelland - 26 maart 2020 vrijstelling markten - 29 april 2020 vrijstelling markten - 4 mei 2020 ontheffing inloopvoorziening Korte Papaverweg 4 De Ceuvel - 8 mei 2020 ontheffing De Hollandsche Manege afscheid voorafgaand ... veiligheidsregio’s hebben een overzicht gegeven van de verleende ontheffingen zonder daarbij aan te geven of dit ook alle aangevraagde ontheffingen betrof. And"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 0,
+  "plannen": 3,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 7,
+ "pand_adressen": [
+  "Korte Papaverweg 4"
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "id": "oude-kerk",
+ "naam": "Oude Kerk",
+ "adres": "Oudekerksplein 23, 1012 GX Amsterdam",
+ "termen": [
+  "Oudekerksplein 23",
+  "1012GX",
+  "1012 GX",
+  "Oude Kerk"
+ ],
+ "pand": "0363100012178475",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 5,
+  "openbaar": 0,
+  "laatste": "2014-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_111700",
+    "titel": "Oudekerksplein 1 - 27; Oudezijds Voorburgwal 70 - 76",
+    "datum": "2014-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 0,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_111700"
+   },
+   {
+    "dossier": "SA_85691",
+    "titel": "Oudekerksplein 1 - 27; Oudezijds Voorburgwal 70 - 76",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 165,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85691"
+   },
+   {
+    "dossier": "SA_99658",
+    "titel": "Oudekerksplein 1 - 27; Oudezijds Voorburgwal 70 - 76",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_99658"
+   },
+   {
+    "dossier": "SA_32558",
+    "titel": "Oudekerksplein 23",
+    "datum": "1998-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32558"
+   },
+   {
+    "dossier": "SA_85619",
+    "titel": "Oudekerksplein 1; Oudekerksplein 13 - 27; Oudezijds Voorburgwal 70 - 76",
+    "datum": "1994-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85619"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 13,
+  "gezocht": [
+   "Oudekerksplein 23"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2021-319705",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Oudekerksplein 15 1012GX Amsterdam, Oudekerksplein 23 1012GX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-17",
+    "onderwerp": "herplaatsen van de glas-in-lood panelen van het Crabeth- en Burgemeestersraam ter plaatse van de Mariakapel van de Oude Kerk ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-319705.html",
+    "zaak": "Z2020-C017469"
+   },
+   {
+    "id": "gmb-2020-317643",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Oudekerksplein 15 1012GX Amsterdam, Oudekerksplein 23 1012GX Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-02",
+    "onderwerp": "herplaatsen van de glas-in-lood panelen van het Crabeth- en Burgemeestersraam ter plaatse van de Mariakapel van de Oude Kerk ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-317643.html"
+   },
+   {
+    "id": "gmb-2020-266446",
+    "titel": "Aanvraag omgevingsvergunning Oudekerksplein 23 1012GX Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-15",
+    "onderwerp": "herplaatsen van het glas-in-lood panelen van het Crabeth- en Burgemeestersraam ter plaatse van de Mariakapel van de Oude Kerk ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-266446.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2021-319705",
+   "gmb-2020-266446"
+  ],
+  "zaaknummers": [
+   "Z2020-C017469"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-462737",
+    "titel": "Besluit apv vergunning Verleend - Oudekerksplein ter hoogte van nummer: 23 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-05",
+    "onderwerp": "Object,Oudekerksplein 23 1012GX, 20261026, Oudekerksplein ter hoogte van nummer: 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-462737.html"
+   },
+   {
+    "id": "gmb-2026-451135",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Oudekerksplein 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Oudekerksplein 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451135.html"
+   },
+   {
+    "id": "gmb-2026-407226",
+    "titel": "Aanvraag evenementenvergunning Oudekerksplein 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-31",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Oudekerksplein 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-407226.html"
+   },
+   {
+    "id": "gmb-2025-390659",
+    "titel": "Besluit apv vergunning Verleend - Oudekerksplein ter hoogte van nummer: 23 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-09",
+    "onderwerp": "Object,Oudekerksplein 23 1012GX, 20251110, Oudekerksplein ter hoogte van nummer: 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-390659.html"
+   },
+   {
+    "id": "gmb-2025-380313",
+    "titel": "Besluit apv vergunning Verleend - Oudekerksplein ter hoogte van nummer: 23 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "RVV,Filmen,Nachtwerk,Oudekerksplein 23 1012GX, 20250901, Oudekerksplein ter hoogte van nummer: 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-380313.html"
+   },
+   {
+    "id": "gmb-2024-213356",
+    "titel": "Besluit apv vergunning Verleend - Oudekerksplein 23",
+    "soort": "andere vergunning",
+    "datum": "2024-05-16",
+    "onderwerp": "Werkzaamheden en vervoer op straat Oudekerksplein 23 1012GX, Oudekerksplein 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-213356.html"
+   },
+   {
+    "id": "gmb-2023-490588",
+    "titel": "Besluit apv vergunning Verleend - Oudekerksplein 23",
+    "soort": "andere vergunning",
+    "datum": "2023-11-17",
+    "onderwerp": "Werkzaamheden en vervoer op straat Oudekerksplein 23 1012GX, Oudekerksplein 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-490588.html"
+   },
+   {
+    "id": "gmb-2023-108394",
+    "titel": "Besluit apv vergunning Verleend - Oudekerksplein 23",
+    "soort": "andere vergunning",
+    "datum": "2023-03-14",
+    "onderwerp": "OBJ - stadsbreed (meerdere locaties) - 26-03 t/m 07-05, Oudekerksplein 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-108394.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0007.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0010.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0012.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0013.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0014.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0023.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0024.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0029.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_1.2.html",
+     "tekst": "amheden op het Damrak. Een ander voorbeeld is het Oudekerksplein. Op 3 juli 2012 heeft het dagelijks bestuur een besluit genomen over de definitieve herinrichting van de openbare ruimte van het plein. Het gaat dan om mogelijkheden voor terrassen maar ook om een verplaatsing van de ingang van de Oude Kerk. Begin oktober 2012 is het stadsdeel gestart met het herinrichten van de stegen ten zuiden van het plein. Begin 2013 start de herinrichting van het plein zelf, de Enge Kerksteeg en de Wijdekerksteeg. Met bovenstaande projecten wordt op twee cruciale locaties een kwaliteitssprong gemaakt die belangrijk is voor het project 1012. De derde belangrijke pijler van het project "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.3.html",
+     "tekst": " aan`1600'. Bij de tweede stadsuitbreiding werd het principe van de parallelstraatverkaveling ingevoerd. Al eerder was een parallelstraat uitgezet, de Sint Annendwarsstraat, maar dit was veeleer een korte verbindingsroute naar de Oude Kerk. In latere uitbreidingen kwamen deze planmatige parallelstraten vaker voor, echter niet als verbindingsroute, maar met het doel het aantal bouwkavels te vergroten (Nieuwstraat). De parallelstraten betekenden dat iedere woning ontsloten was vanaf de openbare weg, in plaats vanaf de inpandige steeg (afbeelding 4). <img id=\"o2737\" src=\"i_NL.IMRO.0363.A1105BPSTD-VG03_0007.jpg\" al"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.5.html",
+     "tekst": "class=\"inhoudsopgave\"> 4.5.1 Oude zijde, nieuwe zijde 4.5.2 Warmoesstraat en Oude Kerk 4.5.3 Amsterdam waterstad 4.5.4 Kloosters 4.5.1 Oude"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.5.html",
+     "tekst": " onderlegger van de Nieuwe Zijde is in de stadsplattegrond nog afleesbaar aan de richting van straten en stegen: deze volgen het beloop van oude, prestedelijke verkavelingssloten, die vanaf de Nieuwendijk ver doorliepen in (zuid)westelijke richting. Aan de Oude Zijde was de eerste bebouwing rond de Oude Kerk, ontstaan vanuit de grafelijke kapel, later parochiekerk, op een natuurlijke verhoging in het veen. Aan de Oude Zijde staat de stegenstructuur haaks op de richting van de dijk, waardoor de bouwblokken hier niet ruitvormig, maar rechthoekig zijn. Aan de zuidelijke punt van de Nieuwendijk, de westzijde van de Dam, werd in 1395 een gedeelte van het Elizabethsgasthuis als stadhuis in g"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.5.html",
+     "tekst": "rmee het zwaartepunt van het bestuur feitelijk centraal kwam te liggen tussen de Oude en de Nieuwe zijde. De Dam werd daardoor ook het bestuurlijk middenpunt van de jonge stad. 4.5.2 Warmoesstraat en Oude Kerk In de loop van de vijftiende eeuw ontstond een klasse van rijke kooplieden, die zich vestigde aan de Warmoesstraat. De kavels waarop zij hun woon- en pakhuizen bouwden, lagen aan het water van de Amstel. In deze karakteristieke bouwvorm, de spijker, was het woongedeelte van de huizen gericht op de Warmoesstraat en het gedeelte voor op- en overslag van goederen was direct vanaf de b"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.5.html",
+     "tekst": "en bouwen. Met de aanleg van de zeventiende eeuwse grachtengordel verloor de Warmoesstraat geleidelijk zijn status als woonplaats van de (super)rijken. In de negentiende eeuw was de Warmoesstraat samen met de Nes verworden tot een straat van twijfelachtige reputatie, met bierhuizen en herbergen. De Oude Kerk is vermoedelijk ingewijd in 1306 en daarmee de oudste kerk van Amsterdam en het oudste (overgebleven) stenen gebouw van de stad. De kerk groeide mee met de stad, om in de zestiende eeuw zijn huidige omvang te bereiken. Het Oudekerksplein heeft daarmee tegenwoordig zijn kleinste omvang. De omringende rooilijnen en eigendomsgrenzen lagen vermoedelijk al zeer vroeg vast. Vanuit de kerk was "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.5.html",
+     "tekst": "ot;\" height=\"423\" width=\"529\"> Atlas van Loman. In zwart de doodlopende stegen naar de inpandige werkruimtes en pakhuizen (werklieden). In geel de distributielijnen van en naar de Oude Kerk en in rood de verbinding tussen de entree van de kerk en het oorspronkelijk open Damrak. In oranje de hoofdstraat, in blauw de achterstraat (achter de stadswallen), die met de uitbreiding werd opgewaardeerd tot stadsgracht. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_4.6.html",
+     "tekst": "ing van de oude stad moet tenslotte de stadsvernieuwing genoemd worden. Het bouwblok met sociale woningbouw aan het Oudekerksplein is hiervan een duidelijk voorbeeld. Desondanks is de schaalvergroting met name aan het noordoostelijk deel van het burgwallengebied voorbij gegaan en is de Oude Kerk nog steeds het enige grote gebouw in zijn omgeving. Aan de nieuwe zijde is de structuur van het middeleeuwse Amsterdam plaatselijk ingrijpend gewijzigd. Van "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "blokken zijn veel meer dwarsstegen dan in de smalle bouwstroken. Hiermee ontstond de meest efficiÃ«nte verkaveling en een hoge bebouwingsdichtheid. Op enkele plaatsen wordt het bouwblok door een tussenstraat, parallel aan de burgwallen, verdeeld in twee delen: de Sint Annendwarsstraat gericht op de Oude Kerk, de Pieter Jacobsdwarsstraat ten zuiden van de Damstraat en de BethaniÃ«ndwarsstraat. Bouwblokken met veel stegen zijn te vinden aan de Nieuwe zijde ten noorden van de Nieuwe Kerk, tussen de Gravenstraat en de Nieuwe Nieuwstraat, en aan de Oude zijde tussen de Sint Jansstraat en de Oude Kerk: het Blaauwlakenblok en het Sint Annenkwartier. In deze laatste twee bouwblokken worden de b"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "rk, de Pieter Jacobsdwarsstraat ten zuiden van de Damstraat en de BethaniÃ«ndwarsstraat. Bouwblokken met veel stegen zijn te vinden aan de Nieuwe zijde ten noorden van de Nieuwe Kerk, tussen de Gravenstraat en de Nieuwe Nieuwstraat, en aan de Oude zijde tussen de Sint Jansstraat en de Oude Kerk: het Blaauwlakenblok en het Sint Annenkwartier. In deze laatste twee bouwblokken worden de binnengebieden, met kleine zelfstandige percelen, ontsloten door de smalle dwarsstegen vanaf de voorburgwal. De stegen eindigen in het bouwblok en takken niet aan op de Warmoesstraat. In het zuid-oostelijk deel van het gebied bestaan de bouwblokken op de plaats van de voormalige kloosterterre"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "t hebben enkele gebouwen de schaal van een heel bouwblok. De Raadhuisstraat vormt met zijn zware verkeersfunctie en grootschalige bebouwing een breuk in de overwegend kleinschalige structuur. In het noordelijk deel van de Oude Zijde, waar de schaalvergroting nauwelijks heeft plaatsgevonden, zijn de Oude Kerk en de Sint Nicolaaskerk de hoogste gebouwen. De relatief grote gebouwen in het zuidelijk deel, zoals hotel The Grand (het voormalige stadhuis) en de gebouwen van het Binnengasthuisterrein passen goed in de gevelwand. </i"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": ">e eeuw. Zicht vanaf de toren van de Oude Kerk richting Zuiderkerk Ondanks de schaalvergroting bestaan de meeste gevelwanden in het plangebied voornamelijk uit smalle individuele panden met een verticale opbouw van de afzonderlijke gevels. Daarbij is de bebouwing in de loop der eeuwen steeds hoger geworden. Hoewel de bebouwing onderling varieert, vormen de panden samen toch een wand. In de dwarsstrat"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0007.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0010.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0012.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0013.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0014.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0023.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0024.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0029.jpg"
+ ],
+ "duur_s": 88,
+ "pand_adressen": [
+  "Oudekerksplein 23"
+ ]
+}

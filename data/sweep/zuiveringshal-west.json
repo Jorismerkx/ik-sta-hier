@@ -1,0 +1,339 @@
+{
+ "id": "zuiveringshal-west",
+ "naam": "Zuiveringshal West",
+ "adres": "Pazzanistraat 37, 1014 DB Amsterdam",
+ "termen": [
+  "Pazzanistraat 37",
+  "1014DB",
+  "1014 DB",
+  "Zuiveringshal West"
+ ],
+ "pand": "0363100012236031",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 1,
+  "openbaar": 0,
+  "laatste": "2003-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_41767",
+    "titel": "Pazzanistraat 1 - 47; Polonceau-kade 3 - 23",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_41767"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 27,
+  "gezocht": [
+   "Pazzanistraat 37"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-139623",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-30",
+    "onderwerp": "signage (belettering) ",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-139623.html",
+    "zaak": "Z2021-W006179"
+   },
+   {
+    "id": "gmb-2022-139183",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-29",
+    "onderwerp": "plaatsen van een gevelunit",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-139183.html",
+    "zaak": "Z2022-W000385"
+   },
+   {
+    "id": "gmb-2022-64587",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-15",
+    "onderwerp": "plaatsen van een gevelunit",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-64587.html",
+    "zaak": "Z2022-W000385"
+   },
+   {
+    "id": "gmb-2022-40323",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-01",
+    "onderwerp": "signage (belettering) ",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-40323.html",
+    "zaak": "Z2021-W006179"
+   },
+   {
+    "id": "gmb-2022-3349",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-04",
+    "onderwerp": "signage (belettering) ",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-3349.html",
+    "zaak": "Z2021-W006179"
+   },
+   {
+    "id": "gmb-2021-280144",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-08-18",
+    "onderwerp": "toevoegen installaties, veranderen van enkele interne onderdelen en wijzigen kozijnen van het gebouw",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-280144.html",
+    "zaak": "Z2021-W002331"
+   },
+   {
+    "id": "gmb-2021-214185",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-07-06",
+    "onderwerp": "toevoegen installaties, veranderen van enkele interne onderdelen en wijzigen kozijnen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-214185.html",
+    "zaak": "Z2021-W002331"
+   },
+   {
+    "id": "gmb-2021-180228",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-09",
+    "onderwerp": "toevoegen installaties, veranderen van enkele interne onderdelen en wijzigen kozijnen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-180228.html"
+   },
+   {
+    "id": "gmb-2021-143825",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Pazzanistraat 37 1014DB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-10",
+    "onderwerp": "Westergas Zuiveringshal West - Preadvies CRK",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-143825.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2022-139623",
+   "gmb-2022-139183",
+   "gmb-2022-64587",
+   "gmb-2022-3349",
+   "gmb-2021-280144",
+   "gmb-2021-180228",
+   "gmb-2021-143825"
+  ],
+  "zaaknummers": [
+   "Z2021-W002331",
+   "Z2021-W006179",
+   "Z2022-W000385"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-489763",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489763.html"
+   },
+   {
+    "id": "gmb-2026-460361",
+    "titel": "Besluit evenementenvergunning  ter hoogte van Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-10-02",
+    "onderwerp": ": evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-460361.html"
+   },
+   {
+    "id": "gmb-2026-380865",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-380865.html"
+   },
+   {
+    "id": "gmb-2026-90084",
+    "titel": "Besluit apv vergunning Verleend - Pazzanistraat ter hoogte van nummer: 37 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-27",
+    "onderwerp": "Filmen,Pazzanistraat 37 1014DB, 20260303, Pazzanistraat ter hoogte van nummer: 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-90084.html"
+   },
+   {
+    "id": "gmb-2025-531571",
+    "titel": "Besluit evenementenvergunning Verleend - Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-531571.html"
+   },
+   {
+    "id": "gmb-2025-462852",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-10-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-462852.html"
+   },
+   {
+    "id": "gmb-2024-525953",
+    "titel": "Besluit evenementenvergunning Verleend - Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-12-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-525953.html"
+   },
+   {
+    "id": "gmb-2024-523583",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-12-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-523583.html"
+   },
+   {
+    "id": "gmb-2024-464584",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-11-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-464584.html"
+   },
+   {
+    "id": "gmb-2023-528437",
+    "titel": "Besluit evenementenvergunning VerleendPazzanistraat 37 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-528437.html"
+   },
+   {
+    "id": "gmb-2023-470475",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-11-06",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-470475.html"
+   },
+   {
+    "id": "gmb-2023-272052",
+    "titel": "Besluit apv vergunning Verleend - Pazzanistraat 37",
+    "soort": "andere vergunning",
+    "datum": "2023-06-22",
+    "onderwerp": "Objecten, Pazzanistraat 37-43, 21-7-2023 tm 11-8-2023, Pazzanistraat 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-272052.html"
+   },
+   {
+    "id": "gmb-2022-578315",
+    "titel": "Besluit evenementenvergunning VerleendPazzanistraat 37 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2022-12-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-578315.html"
+   },
+   {
+    "id": "gmb-2022-501688",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37",
+    "soort": "evenementenvergunning",
+    "datum": "2022-11-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-501688.html"
+   },
+   {
+    "id": "gmb-2022-322868",
+    "titel": "Besluit evenementenvergunning Verleend Pazzanistraat 37",
+    "soort": "evenementenvergunning",
+    "datum": "2022-07-15",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-322868.html"
+   },
+   {
+    "id": "gmb-2022-241233",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-241233.html"
+   },
+   {
+    "id": "gmb-2022-180602",
+    "titel": "Besluit evenementenvergunning Verleend Pazzanistraat 37",
+    "soort": "evenementenvergunning",
+    "datum": "2022-04-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-180602.html"
+   },
+   {
+    "id": "gmb-2022-120268",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 37",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 37",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-120268.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1209BPSTD-VG01",
+   "naam": "Westergasfabriek",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-01-28",
+   "opp_m2": 347587,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 16,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 17,
+ "pand_adressen": [
+  "Pazzanistraat 37"
+ ]
+}

@@ -1,0 +1,1062 @@
+{
+ "id": "p60",
+ "naam": "P60",
+ "adres": "Stadsplein 100a, 1181 ZM Amstelveen",
+ "termen": [
+  "Stadsplein 100",
+  "Stadsplein 100A",
+  "Stadsplein 100 A",
+  "1181ZM",
+  "1181 ZM"
+ ],
+ "pand": "0362100001111443",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 108,
+  "gezocht": [
+   "Stadsplein 100",
+   "Stadsplein 100A",
+   "Stadsplein 100 A",
+   "Stadsplein 96",
+   "Stadsplein 97",
+   "Stadsplein 99"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-398131",
+    "titel": "Aanvraag vergunning toegekend voor het uitbreiden en renoveren van de Cultuurstrip, Stadsplein 97 t/m 100A, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-24",
+    "onderwerp": "Betreft:  besluit op locatie Stadsplein 97 t/m 100A, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-398131.html",
+    "zaak": "Rx.Mission zaak Z2026-00007990"
+   },
+   {
+    "id": "gmb-2026-388877",
+    "titel": "Aanvraag omgevingsvergunning voor het uitbreiden en renoveren van de Cultuurstrip, Stadsplein 97 t/m 100A, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-17",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 97 t/m 100A, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-388877.html",
+    "zaak": "Rx.Mission zaak Z2026-00007990"
+   },
+   {
+    "id": "gmb-2025-269145",
+    "titel": "Buiten behandelingstelling  verkoop van dameskleding van 14 maart 2025 tot 7 maart 2030, Stadsplein 100, 1181 ZM Amstelveen",
+    "soort": "andere beschikking",
+    "datum": "2025-06-20",
+    "onderwerp": "Betreft: besluit op locatie Stadsplein 100, 1181 ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-269145.html",
+    "zaak": "Rx.Mission zaak Z2025-00001809"
+   },
+   {
+    "id": "gmb-2024-401078",
+    "titel": "Aanvraag vergunning toegekend voor het vervangen van de bestaande koelmachine door een warmtepomp, Stadsplein 96, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-20",
+    "onderwerp": "Betreft:  besluit op locatie Stadsplein 96, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-401078.html",
+    "zaak": "Rx.Mission zaak Z2024-00001190"
+   },
+   {
+    "id": "gmb-2024-246297",
+    "titel": "Kennisgeving termijnverlenging Z2024-00001190, Stadsplein 96, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-06",
+    "onderwerp": "Betreft: Beschikking verlenging beslistermijn op locatie Stadsplein 96, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-246297.html"
+   },
+   {
+    "id": "gmb-2024-158590",
+    "titel": "Kennisgeving aanvraag ingetrokken Z2024-00000630, Stadsplein 96, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Betreft: aanvraag ingetrokken voor locatie Stadsplein 96, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158590.html",
+    "zaak": "Rx.Mission zaak Z2024-00000630"
+   },
+   {
+    "id": "gmb-2024-155590",
+    "titel": "Aanvraag omgevingsvergunning voor het vervangen van de bestaande koelmachine door een warmtepomp, Stadsplein 96, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-09",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 96, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-155590.html",
+    "zaak": "Rx.Mission zaak Z2024-00001190"
+   },
+   {
+    "id": "gmb-2024-113235",
+    "titel": "reclame/gevelbord plaatsen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-13",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-113235.html"
+   },
+   {
+    "id": "gmb-2024-90304",
+    "titel": "Aanvraag omgevingsvergunning voor het vervangen van de bestaande koelmachine door een warmtepomp, Stadsplein 96, 1181ZM Amstelveen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-27",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 96, 1181ZM Amstelveen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-90304.html",
+    "zaak": "Rx.Mission zaak Z2024-00000630"
+   },
+   {
+    "id": "gmb-2024-51852",
+    "titel": "reclame/gevelbord plaatsen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-01",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-51852.html"
+   },
+   {
+    "id": "gmb-2022-81408",
+    "titel": "Vaststelling adresbesluiten nr. 566 en 567 Vernummeren Stadsplein 100 t/m 410 naar Brugpad 1 t/m 155, burgemeester en wethouders gemeente Nieuwegein;",
+    "soort": "andere beschikking",
+    "datum": "2022-02-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-81408.html"
+   },
+   {
+    "id": "gmb-2021-112684",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning toegekend - Stadsplein 96 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-112684.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-109196",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning buiten behandeling gesteld  - Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-109196.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-96399",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning ontvangen - Stadsplein 96 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-96399.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-45044",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning toegekend - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-45044.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-43373",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning ontvangen - Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-43373.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-34840",
+    "titel": "Gemeente  Amstelveen - beslistermijn omgevingsvergunning verlengd - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-34840.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-337690",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning ontvangen - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-337690.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-324318",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning toegekend - Stadsplein 96 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-12-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-324318.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-317906",
+    "titel": "Gemeente Amstelveen – aanvraag omgevingsvergunning ingetrokken – Stadsplein 100",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-12-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-317906.html"
+   },
+   {
+    "id": "gmb-2020-276776",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning ontvangen - Stadsplein 96 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-276776.html"
+   },
+   {
+    "id": "gmb-2020-269826",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning toegekend - ter hoogte van Stadsplein 99",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-10-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-269826.html"
+   },
+   {
+    "id": "gmb-2020-265365",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning ontvangen - ter hoogte van Stadsplein 99",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-265365.html"
+   },
+   {
+    "id": "gmb-2020-243038",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning ontvangen - Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-243038.html"
+   },
+   {
+    "id": "gmb-2020-6353",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning toegekend - t.h.v. Stadsplein 99",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-01-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-6353.html"
+   },
+   {
+    "id": "gmb-2019-319555",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning ontvangen - t.h.v. Stadsplein 99",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-12-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-319555.html"
+   },
+   {
+    "id": "gmb-2019-262944",
+    "titel": "Gemeente Amstelveen – aanvraag standplaatsvergunning ingetrokken – Stadsplein 96",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-262944.html",
+    "zaak": "Z19-061990"
+   },
+   {
+    "id": "gmb-2019-252814",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning ontvangen - Stadsplein 96",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-10-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-252814.html"
+   },
+   {
+    "id": "gmb-2019-162844",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning toegekend - Stadsplein 96",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-07-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-162844.html"
+   },
+   {
+    "id": "gmb-2019-157585",
+    "titel": "Gemeente Amstelveen - aanvraag standplaatsvergunning ontvangen - Stadsplein 96",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-06-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-157585.html"
+   },
+   {
+    "id": "gmb-2019-112821",
+    "titel": "Gemeente Amstelveen – aanvraag omgevingsvergunning ingetrokken – Stadsplein 97 t/m 100A",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-05-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-112821.html",
+    "zaak": "Z19-022458 "
+   },
+   {
+    "id": "gmb-2019-91329",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning ontvangen - Stadsplein 97 t/m 100A in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-04-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-91329.html"
+   },
+   {
+    "id": "gmb-2018-261841",
+    "titel": "Gemeente Amstelveen - aanvraag loterijvergunning toegekend - Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-12-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-261841.html"
+   },
+   {
+    "id": "gmb-2018-228310",
+    "titel": "Gemeente Amstelveen - aanvraag loterijvergunning ontvangen - Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-228310.html"
+   },
+   {
+    "id": "gmb-2018-214737",
+    "titel": "Gemeente Amstelveen - melding klein evenement ontvangen - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-214737.html"
+   },
+   {
+    "id": "gmb-2018-215380",
+    "titel": "Gemeente Amstelveen - melding klein evenement ontvangen - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215380.html"
+   },
+   {
+    "id": "gmb-2018-215192",
+    "titel": "Gemeente Amstelveen - melding klein evenement ontvangen - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215192.html"
+   },
+   {
+    "id": "gmb-2018-215414",
+    "titel": "Gemeente Amstelveen - melding klein evenement ontvangen - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215414.html"
+   },
+   {
+    "id": "gmb-2018-212960",
+    "titel": "Gemeente Amstelveen – verlening loterijvergunning voor Stichting Anandadhara Foundation 8 tot en met 19 oktober 2018 - Stadsplein 99",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-10-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-212960.html",
+    "zaak": "Z18-008557"
+   },
+   {
+    "id": "gmb-2018-205457",
+    "titel": "Gemeente Amstelveen - aanvraag loterijvergunning ontvangen - Stadsplein 99 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-09-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-205457.html"
+   },
+   {
+    "id": "gmb-2018-202939",
+    "titel": "Gemeente Amstelveen - aanvraag omgevingsvergunning toegekend - Stadsplein 97 t/m 100A in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-09-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-202939.html"
+   },
+   {
+    "id": "gmb-2018-181776",
+    "titel": "Kennisgeving ontvangst aanvraag het plaatsen van een hoogwerker t.b.v. onderhoudswerkzaamheden Stadsplein 97 t/m 100A in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-08-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-181776.html"
+   },
+   {
+    "id": "gmb-2018-121757",
+    "titel": "Kennisgeving besluit meerjarige vergunning op aanvraag Veilig op weg - Dode Hoek Dag op 18 juni 2018 Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-06-08",
+    "onderwerp": "Veilig op weg - Dode Hoek Dag op 18 juni 2018.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-121757.html",
+    "zaak": "Z18-001996"
+   },
+   {
+    "id": "gmb-2018-104964",
+    "titel": "Kennisgeving ontvangst aanvraag Veilig op weg - Dodehoekdag op 18 juni 2018 Stadsplein 100 in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-05-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-104964.html"
+   },
+   {
+    "id": "gmb-2018-71978",
+    "titel": "Kennisgeving besluit op aanvraag promotieactie ten behoeve van nieuwe Verkade koeken op 11 april 2018 nabij Stadsplein 100A in Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-04-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-71978.html"
+   },
+   {
+    "id": "gmb-2018-48044",
+    "titel": "Kennisgeving ontvangst aanvraag promotieactie ten behoeve van nieuwe verkade koeken op 11 april 2018 nabij Stadsplein 100A in Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-03-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-48044.html"
+   },
+   {
+    "id": "gmb-2017-169373",
+    "titel": "Ontheffing tijdelijke afwijking sluitingsuur verleend voor Jaarlijse reunie van Club Raw, Stadsplein 100 A, Amstelveen - Zaaknummer Z-2017/037980",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-10-05",
+    "onderwerp": "Jaarlijse reunie van Club Raw voor de nacht van zaterdag 25 november op zondag 26 november 2017.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-169373.html",
+    "zaak": "Z-2017/037980"
+   },
+   {
+    "id": "gmb-2017-143944",
+    "titel": "Aanvraag evenementenvergunning voor Durga Puja Festival 2017 op 28, 29 en 30 september 2017, Stadsplein 99, Amstelveen - Zaaknummer Z-2017/040379",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-08-17",
+    "onderwerp": "Durga Puja Festival 2017 op 28, 29 en 30 september 2017.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-143944.html",
+    "zaak": "Z-2017/040379"
+   },
+   {
+    "id": "gmb-2017-137050",
+    "titel": "Aanvraag Tijdelijke afwijking sluitingstijden ontheffing voor Stichting P60 - Jaarlijse reunie van Club Raw voor de nacht van zaterdag 25 op zondag 26 november 2017, Stadsplein 100A, Amstelveen - Zaaknummer Z-2017/037980",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-08-07",
+    "onderwerp": "Stichting P60 - Jaarlijse reunie van Club Raw voor de nacht van zaterdag 25 op zondag 26 november 2017.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-137050.html",
+    "zaak": "Z-2017/037980"
+   },
+   {
+    "id": "gmb-2017-94745",
+    "titel": "Evenementenvergunning verleend voor Dode Hoek Dag op 26 juni 2017, Stadsplein 100, Amstelveen - Zaaknummer Z-2017/020154",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-06-06",
+    "onderwerp": "Dode Hoek Dag op 26 juni 2017.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-94745.html",
+    "zaak": "Z-2017/020154"
+   },
+   {
+    "id": "gmb-2017-74300",
+    "titel": "Aanvraag evenementenvergunning voor Dode Hoek dag op 26 juni 2017, Stadsplein 100, Amstelveen - Zaaknummer Z-2017/020154",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-05-04",
+    "onderwerp": "Dode Hoek Dag op 26 juni 2017.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-74300.html",
+    "zaak": "Z-2017/020154"
+   },
+   {
+    "id": "gmb-2016-108098",
+    "titel": "Ontheffing sluitingstijd verleend voor P60, Stadsplein 100A, Amstelveen - Zaaknummer Z-2016/037122",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-08-04",
+    "onderwerp": "P60.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-108098.html",
+    "zaak": "Z-2016/037122"
+   },
+   {
+    "id": "gmb-2016-98841",
+    "titel": "Melding ontvangen voor  brandveilig gebruik t.b.v. ING kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/037756",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-07-20",
+    "onderwerp": "Brandveilig gebruik t.b.v. ING kantoor.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-98841.html",
+    "zaak": "Z-2016/037756"
+   },
+   {
+    "id": "gmb-2016-98607",
+    "titel": "Melding akkoord voor Brandveilig gebruik t.b.v. ING kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/037756",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-07-20",
+    "onderwerp": "Brandveilig gebruik t.b.v. ING kantoor.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-98607.html",
+    "zaak": "Z-2016/037756"
+   },
+   {
+    "id": "gmb-2016-94389",
+    "titel": "Aanvraag APVvergunning voor Afwijking sluitingsuur voor de nacht van 17 op 18 september 2016, Stadsplein 100-A, Amstelveen - Zaaknummer Z-2016/037122",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-07-13",
+    "onderwerp": "Afwijking sluitingsuur voor de nacht van 17 op 18 september 2016.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-94389.html",
+    "zaak": "Z-2016/037122"
+   },
+   {
+    "id": "gmb-2016-78559",
+    "titel": "Evenementenvergunning verleend voor Dode Hoek Dag, lesgeven aan Basisschoolleerlingen over de dode hoek op 13 juni 2016, Stadsplein 100, Amstelveen - Zaaknummer Z-2016/025102",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-06-15",
+    "onderwerp": "Dode Hoek Dag, lesgeven aan Basisschoolleerlingen over de dode hoek op 13 juni 2016.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-78559.html",
+    "zaak": "Z-2016/025102"
+   },
+   {
+    "id": "gmb-2016-66829",
+    "titel": "Melding akkoord voor het plaatsen van een container naast ingang ING kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/026691",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-05-25",
+    "onderwerp": "het plaatsen van een container naast ingang ING kantoor",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-66829.html",
+    "zaak": "Z-2016/026691"
+   },
+   {
+    "id": "gmb-2016-66791",
+    "titel": "Aanvraag omgevingsvergunning voor het plaatsen van een container naast ingang ING-kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/026691",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-05-25",
+    "onderwerp": "het plaatsen van een container naast ingang ING-kantoor",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-66791.html",
+    "zaak": "Z-2016/026691"
+   },
+   {
+    "id": "gmb-2016-61874",
+    "titel": "Aanvraag evenementenvergunning voor Dode Hoek Dag, Stadsplein 100, Amstelveen - Zaaknummer Z-2016/025102",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-05-18",
+    "onderwerp": "Dode Hoek Dag, lesgeven aan basisschoolleerlingen over de dode hoek op 13 juni 2016.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-61874.html",
+    "zaak": "Z-2016/025102"
+   },
+   {
+    "id": "gmb-2016-59987",
+    "titel": "Drank- en horecavergunning verleend voor Schouwburg Amstelveen, Stadsplein 100, Amstelveen - Zaaknummer Z-2014/020519",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-05-11",
+    "onderwerp": "Schouwburg Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-59987.html",
+    "zaak": "Z-2014/020519"
+   },
+   {
+    "id": "gmb-2016-48999",
+    "titel": "Omgevingsvergunning verleend voor  wijzigen van een bankwinkel en kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/007844",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-04-20",
+    "onderwerp": "Het wijzigen van de inrichting van een bankwinkel en kantoor, het toevoegen van een extra trap naar de 1e verdieping met de vide.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-48999.html"
+   },
+   {
+    "id": "gmb-2016-37690",
+    "titel": "Beslistermijn omgevingsvergunning verlengd voor  wijzigen van de inrichting van een bankwinkel en kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/007844",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-03-30",
+    "onderwerp": " het wijzigen van de inrichting van een bankwinkel en kantoor, het toevoegen van een extra trap naar de 1e verdieping met de vide",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-37690.html"
+   },
+   {
+    "id": "gmb-2016-35826",
+    "titel": "Exploitatievergunning verleend voor Schouwburg Amstelveen, Stadsplein 100, Amstelveen - Zaaknummer Z-2014/020519",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-03-23",
+    "onderwerp": "Theaterfoyer bij Schouwburg Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-35826.html"
+   },
+   {
+    "id": "gmb-2016-35824",
+    "titel": "Concept drank- en horecavergunning gereed voor Schouwburg Amstelveen, Stadsplein 100, Amstelveen - Zaaknummer Z-2014/020519",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-03-23",
+    "onderwerp": "Theaterfoyer bij Schouwburg Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-35824.html"
+   },
+   {
+    "id": "gmb-2016-29042",
+    "titel": "Aanvraag evenementenvergunning voor Kinder voor Kinderen Doe-middag, Stadsplein 100, Amstelveen - Zaaknummer Z-2016/013152",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-03-09",
+    "onderwerp": "Kinder voor Kinderen Doe-middag op 1 mei 2016",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-29042.html"
+   },
+   {
+    "id": "gmb-2016-18883",
+    "titel": "Ingekomen melding voor het verwijderen van bestaande inrichting, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/007808",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-02-17",
+    "onderwerp": "het verwijderen van bestaande inrichting, deels slopen van hoofdraagconstructie en deels verwijderen van de verdiepingsvloer",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-18883.html"
+   },
+   {
+    "id": "gmb-2016-18891",
+    "titel": "Melding akkoord voor verwijderen van bestaande inrichting, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/007808",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-02-17",
+    "onderwerp": "het verwijderen van bestaande inrichting en deels slopen van hoofddraagconstructie en het deels verwijderen van de verdiepingsvloer",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-18891.html"
+   },
+   {
+    "id": "gmb-2016-18896",
+    "titel": "Aanvraag omgevingsvergunning voor het wijzigen van de inrichting van een bankwinkel en kantoor, Stadsplein 96, Amstelveen - Zaaknummer Z-2016/007844",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-02-17",
+    "onderwerp": "het wijzigen van de inrichting van een bankwinkel en kantoor, het toevoegen van een extra trap naar de 1e verdieping met de vide sparing",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-18896.html"
+   },
+   {
+    "id": "gmb-2015-109377",
+    "titel": "Vergunning verleend voor loterij, Stadsplein 100, Amstelveen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-11-18",
+    "onderwerp": "loterij ten behoeve van opvang en ondersteuning voor kinderen, vrouwen en ouderen in Israël op 12 april 2016",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-109377.html"
+   },
+   {
+    "id": "gmb-2015-103753",
+    "titel": "Aanvraag voor theateravond met loterij, Stadsplein 100, Amstelveen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-11-04",
+    "onderwerp": "Theateravond met loterij op 12 april 2016",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-103753.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-398131",
+   "gmb-2026-388877",
+   "gmb-2024-401078",
+   "gmb-2024-158590",
+   "gmb-2024-155590",
+   "gmb-2024-90304",
+   "gmb-2021-112684",
+   "gmb-2021-109196",
+   "gmb-2021-96399",
+   "gmb-2021-45044",
+   "gmb-2021-43373",
+   "gmb-2020-337690",
+   "gmb-2020-324318",
+   "gmb-2020-317906",
+   "gmb-2020-276776",
+   "gmb-2020-243038",
+   "gmb-2019-112821",
+   "gmb-2019-91329",
+   "gmb-2018-202939",
+   "gmb-2017-137050",
+   "gmb-2016-94389",
+   "gmb-2016-66791",
+   "gmb-2016-18896"
+  ],
+  "zaaknummers": [
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "Rx.Mission zaak Z2024-00000630",
+   "Rx.Mission zaak Z2024-00001190",
+   "Rx.Mission zaak Z2026-00007990",
+   "Z-2016/026691",
+   "Z-2016/037122",
+   "Z-2017/037980",
+   "Z19-022458 "
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2014-28486",
+    "titel": "Vastgesteld bestemmingsplan 2e Herziening Amstelveen Stadshart, Amstelveen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-10-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-28486.html"
+   },
+   {
+    "id": "stcrt-2014-11205",
+    "titel": "Ontwerpbestemmingsplan 2e Herziening Amstelveen Stadshart, Amstelveen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-04-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-11205.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-494739",
+    "titel": "Kennisgeving aanvraag ingetrokken Z2025-00009284, nabij Stadsplein 99, 1181ZM Amstelveen",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Betreft: aanvraag ingetrokken voor locatie nabij Stadsplein 99, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-494739.html"
+   },
+   {
+    "id": "gmb-2025-487291",
+    "titel": "Aanvraag vergunning voor Dodehoekdag Amstelveen 2026 op 11 mei 2026, nabij Stadsplein 99, 1181ZM Amstelveen",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-11",
+    "onderwerp": "Betreft: aanvraag op locatie nabij Stadsplein 99, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-487291.html"
+   },
+   {
+    "id": "gmb-2025-358601",
+    "titel": "Aanvraag vergunning toegekend voor Ganesh Utsav Festival (Parade) - 2025 op 6 september 2025, Stadsplein 100, 1181 ZM Amstelveen",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-15",
+    "onderwerp": "Betreft:  besluit op locatie Stadsplein 100, 1181 ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-358601.html"
+   },
+   {
+    "id": "gmb-2025-313252",
+    "titel": "Aanvraag vergunning voor Ganesh Utsav Festival (Parade) - 2025 op 6 september 2025, Stadsplein 100, 1181 ZM Amstelveen",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-17",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 100, 1181 ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-313252.html"
+   },
+   {
+    "id": "gmb-2025-105774",
+    "titel": "Aanvraag vergunning voor verkoop van dameskleding van 14 maart 2025 tot 7 maart 2030, Stadsplein 100, 1181 ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2025-03-12",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 100, 1181 ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-105774.html"
+   },
+   {
+    "id": "gmb-2024-347408",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2024",
+    "soort": "beleidsregel",
+    "datum": "2024-08-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-347408.html"
+   },
+   {
+    "id": "gmb-2024-319117",
+    "titel": "Aanvraag vergunning voor Ganesh Utsav Festival (Parade) - 2024 op 14 september 2024, Stadsplein 100, 1181ZM Amstelveen",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-22",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 100, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-319117.html"
+   },
+   {
+    "id": "gmb-2024-319189",
+    "titel": "Aanvraag vergunning voor Survive the Z op 26 oktober 2024, Stadsplein 97, 1181ZM Amstelveen",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-22",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 97, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-319189.html"
+   },
+   {
+    "id": "gmb-2024-198183",
+    "titel": "Aanvraag vergunning toegekend voor promotie Dove Sampling op 8 juni 2024, Stadsplein 100, 1181ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2024-05-03",
+    "onderwerp": "Betreft:  besluit op locatie Stadsplein 100, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-198183.html"
+   },
+   {
+    "id": "gmb-2024-160519",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2024, eerste wijziging",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-04-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-160519.html"
+   },
+   {
+    "id": "gmb-2024-127648",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-03-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-127648.html"
+   },
+   {
+    "id": "gmb-2023-521071",
+    "titel": "Aanvraag vergunning toegekend voor Platform C Open Dag op 1 juni 2024, Stadsplein 99",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-06",
+    "onderwerp": "Betreft:  besluit op locatie Stadsplein 99",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-521071.html"
+   },
+   {
+    "id": "gmb-2023-487502",
+    "titel": "Aanvraag vergunning toegekend voor ONA Food & Drinks B.V., Stadsplein 100, 1181ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2023-11-15",
+    "onderwerp": "Betreft:  besluit op locatie Stadsplein 100, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-487502.html"
+   },
+   {
+    "id": "gmb-2023-429154",
+    "titel": "Kennisgeving aanvraag ingetrokken Z2023-00002354, Stadsplein 100A, 1181ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2023-10-09",
+    "onderwerp": "Betreft: aanvraag ingetrokken voor locatie Stadsplein 100A, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-429154.html"
+   },
+   {
+    "id": "gmb-2023-417485",
+    "titel": "Aanvraag vergunning voor promotie zakjes Croky chips met Thaise Curry smaak op 4 november 2023, Stadsplein 100A, 1181ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2023-09-29",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 100A, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-417485.html"
+   },
+   {
+    "id": "gmb-2023-398110",
+    "titel": "Aanvraag vergunning voor Winter Village Nederland BV, Stadsplein 100, 1181ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2023-09-15",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 100, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398110.html"
+   },
+   {
+    "id": "gmb-2023-398108",
+    "titel": "Aanvraag vergunning voor ONA Food & Drinks B.V., Stadsplein 100, 1181ZM Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2023-09-15",
+    "onderwerp": "Betreft: aanvraag op locatie Stadsplein 100, 1181ZM Amstelveen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398108.html"
+   },
+   {
+    "id": "gmb-2023-352676",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2023, eerste wijziging",
+    "soort": "beleidsregel",
+    "datum": "2023-08-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-352676.html"
+   },
+   {
+    "id": "gmb-2023-142197",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2023",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2023-03-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-142197.html"
+   },
+   {
+    "id": "gmb-2022-517252",
+    "titel": "Gemeente Amstelveen - Onttrekking aan het openbaar verkeer ondergrond bioscoop Stadsplein",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-11-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-517252.html"
+   },
+   {
+    "id": "gmb-2022-436996",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2022, tweede wijziging",
+    "soort": "beleidsregel",
+    "datum": "2022-09-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-436996.html"
+   },
+   {
+    "id": "gmb-2022-196269",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2022, eerste wijziging",
+    "soort": "beleidsregel",
+    "datum": "2022-05-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-196269.html"
+   },
+   {
+    "id": "gmb-2022-166397",
+    "titel": "Gemeente Amstelveen - aanvraag klein kansspelvergunning ontvangen - Stadsplein 100, Schouwburg Amstelveen",
+    "soort": "andere vergunning",
+    "datum": "2022-04-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-166397.html"
+   },
+   {
+    "id": "gmb-2022-69883",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2022",
+    "soort": "beleidsregel",
+    "datum": "2022-02-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-69883.html"
+   },
+   {
+    "id": "gmb-2021-405740",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2021, eerste wijziging",
+    "soort": "beleidsregel",
+    "datum": "2021-11-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-405740.html"
+   },
+   {
+    "id": "gmb-2019-318656",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2019",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-12-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-318656.html"
+   },
+   {
+    "id": "gmb-2019-260359",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2019",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-10-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-260359.html"
+   },
+   {
+    "id": "gmb-2019-259070",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2019",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-10-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-259070.html"
+   },
+   {
+    "id": "gmb-2019-159250",
+    "titel": "Besluit van burgemeester en wethouders van de gemeente Amstelveen tot vaststelling van het Aanwijzingsbesluit parkeerbelastingen Amstelveen 2019",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-06-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-159250.html"
+   },
+   {
+    "id": "gmb-2019-36044",
+    "titel": "Besluit tot aanwijzing plaatsen betaald parkeren en plaatsen waar met een vergunning mag worden geparkeerd en tot het stellen van voorschriften voor het in werking stellen van parkeerapparatuur Amstelveen 2019",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-02-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-36044.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [
+  {
+   "titel": "inspraak_trajectnota_mer_schiphol-amsterdam-almere",
+   "datum": "2026-02-09",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/221274/inspraak_trajectnota_mer_schiphol-amsterdam-almere.pdf",
+   "fragment": "Ouderkerk aan de Amstel 26 mei 2008 WTC Alnovum P.J. Oudweg 1 Almere Stad 27 mei 2008 Schouwburg Amstelveen Stadsplein 100 Amstelveen 28 mei 2008 Theater De Omval Ouddiemerlaan 104 Diemen 28 mei 2008 Regardz Planetarium Kromwijkdreef 11 Amsterdam ...  belangen beter worden beschermd. Inspreken kan zorgen voor nieuwe invalshoeken. Daarom is het belangrijk dat u reageert op overheidsplannen. Van 16 "
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 2,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/221274/inspraak_trajectnota_mer_schiphol-amsterdam-almere.pdf",
+   "bron": "woo: inspraak_trajectnota_mer_schiphol-amsterdam-almere",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 6,
+ "pand_adressen": [
+  "Stadsplein 96",
+  "Stadsplein 97",
+  "Stadsplein 99"
+ ]
+}

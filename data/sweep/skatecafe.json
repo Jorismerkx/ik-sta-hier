@@ -1,0 +1,306 @@
+{
+ "id": "skatecafe",
+ "naam": "Skatecafé",
+ "adres": "Gedempt Hamerkanaal 42, 1021 KM Amsterdam",
+ "termen": [
+  "Gedempt Hamerkanaal 42",
+  "1021KM",
+  "1021 KM",
+  "Skatecafé"
+ ],
+ "pand": "0363100012122913",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 25,
+  "gezocht": [
+   "Gedempt Hamerkanaal 42"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-137083",
+    "titel": "Besluit tijdelijke omgevingsvergunning reguliere procedure Gedempt Hamerkanaal 42 1021KM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-29",
+    "onderwerp": "legaliseren van een bijgebouw (hooischuur) met verdieping en twee overkappingen voor een termijn van 5 jaar welke eindigt op 1 januari 2028",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-137083.html",
+    "zaak": "Z2022-N002752"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-137083"
+  ],
+  "zaaknummers": [
+   "Z2022-N002752"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-488113",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-488113.html"
+   },
+   {
+    "id": "gmb-2026-378747",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2026-08-10",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-378747.html"
+   },
+   {
+    "id": "gmb-2026-160820",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Gedempt Hamerkanaal 42 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-160820.html"
+   },
+   {
+    "id": "gmb-2026-154932",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 42 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-154932.html"
+   },
+   {
+    "id": "gmb-2025-460597",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2025-10-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-460597.html"
+   },
+   {
+    "id": "gmb-2025-397163",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397163.html"
+   },
+   {
+    "id": "gmb-2024-439499",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2024-10-18",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-439499.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-392295",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2024-09-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-392295.html"
+   },
+   {
+    "id": "gmb-2024-368490",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2024-08-27",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-368490.html"
+   },
+   {
+    "id": "gmb-2024-336766",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 42 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-01",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-336766.html"
+   },
+   {
+    "id": "gmb-2024-336746",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 42 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-01",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-336746.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2023-249062",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-249062.html"
+   },
+   {
+    "id": "gmb-2023-249066",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-06-08",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-249066.html"
+   },
+   {
+    "id": "gmb-2023-227515",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-227515.html"
+   },
+   {
+    "id": "gmb-2023-165612",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-04-17",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-165612.html"
+   },
+   {
+    "id": "gmb-2022-581022",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-581022.html"
+   },
+   {
+    "id": "gmb-2022-580997",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-580997.html"
+   },
+   {
+    "id": "gmb-2022-496523",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-11-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-496523.html"
+   },
+   {
+    "id": "gmb-2022-490693",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 42",
+    "soort": "andere vergunning",
+    "datum": "2022-11-04",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-490693.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 11,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 12,
+ "pand_adressen": [
+  "Gedempt Hamerkanaal 42"
+ ]
+}

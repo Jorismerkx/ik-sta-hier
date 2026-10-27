@@ -1,0 +1,1429 @@
+{
+ "id": "ziggo-dome",
+ "naam": "Ziggo Dome",
+ "adres": "De Passage 100, 1101 AX Amsterdam",
+ "termen": [
+  "De Passage 100",
+  "1101AX",
+  "1101 AX",
+  "Ziggo Dome"
+ ],
+ "pand": "0363100012238052",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 63,
+  "openbaar": 63,
+  "laatste": "2012-05-01",
+  "dossiers": [
+   {
+    "dossier": "XY_07099",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2012-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07099"
+   },
+   {
+    "dossier": "XY_07097",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2012-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07097"
+   },
+   {
+    "dossier": "XY_07094",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2012-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 92,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07094"
+   },
+   {
+    "dossier": "XY_07093",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2012-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07093"
+   },
+   {
+    "dossier": "XY_07087",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2012-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07087"
+   },
+   {
+    "dossier": "XY_07053",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2012-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 429,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07053"
+   },
+   {
+    "dossier": "XY_07077",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 151,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07077"
+   },
+   {
+    "dossier": "XY_07019",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 334,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07019"
+   },
+   {
+    "dossier": "XY_07003",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 139,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07003"
+   },
+   {
+    "dossier": "ST_09777",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1; Holterbergweg 3",
+    "datum": "2011-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/ST_09777"
+   },
+   {
+    "dossier": "XY_06983",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 485,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06983"
+   },
+   {
+    "dossier": "XY_10914",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10914"
+   },
+   {
+    "dossier": "XY_06980",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06980"
+   },
+   {
+    "dossier": "XY_06957",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 174,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06957"
+   },
+   {
+    "dossier": "XY_07000",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 480,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_07000"
+   },
+   {
+    "dossier": "XY_06968",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06968"
+   },
+   {
+    "dossier": "XY_06949",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 316,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06949"
+   },
+   {
+    "dossier": "XY_06914",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 664,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06914"
+   },
+   {
+    "dossier": "XY_06948",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 122,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06948"
+   },
+   {
+    "dossier": "XY_06929",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 100,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06929"
+   },
+   {
+    "dossier": "XY_06910",
+    "titel": "De passage 98; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 120,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06910"
+   },
+   {
+    "dossier": "XY_06906",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06906"
+   },
+   {
+    "dossier": "XY_06895",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2011-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 188,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06895"
+   },
+   {
+    "dossier": "XY_06881",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 146,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06881"
+   },
+   {
+    "dossier": "XY_06873",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 601,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06873"
+   },
+   {
+    "dossier": "XY_10728",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10728"
+   },
+   {
+    "dossier": "XY_10729",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 116,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10729"
+   },
+   {
+    "dossier": "XY_06852",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 696,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06852"
+   },
+   {
+    "dossier": "XY_06846",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06846"
+   },
+   {
+    "dossier": "XY_10712",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 171,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10712"
+   },
+   {
+    "dossier": "XY_10723",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 165,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10723"
+   },
+   {
+    "dossier": "XY_06829",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 443,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06829"
+   },
+   {
+    "dossier": "XY_06744",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06744"
+   },
+   {
+    "dossier": "XY_10715",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 143,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10715"
+   },
+   {
+    "dossier": "XY_10726",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10726"
+   },
+   {
+    "dossier": "XY_10706",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 181,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10706"
+   },
+   {
+    "dossier": "XY_06728",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 122,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06728"
+   },
+   {
+    "dossier": "XY_06736",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06736"
+   },
+   {
+    "dossier": "XY_10699",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 176,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10699"
+   },
+   {
+    "dossier": "XY_10698",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10698"
+   },
+   {
+    "dossier": "XY_06759",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 228,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06759"
+   },
+   {
+    "dossier": "XY_06753",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 182,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06753"
+   },
+   {
+    "dossier": "XY_06741",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 107,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06741"
+   },
+   {
+    "dossier": "XY_10658",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10658"
+   },
+   {
+    "dossier": "XY_10669",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 254,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10669"
+   },
+   {
+    "dossier": "XY_10660",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10660"
+   },
+   {
+    "dossier": "XY_06734",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 770,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06734"
+   },
+   {
+    "dossier": "XY_10696",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 106,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10696"
+   },
+   {
+    "dossier": "XY_10653",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 109,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10653"
+   },
+   {
+    "dossier": "ST_09748",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1; Holterbergweg 3",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1005,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/ST_09748"
+   },
+   {
+    "dossier": "XY_10648",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 107,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10648"
+   },
+   {
+    "dossier": "XY_06725",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06725"
+   },
+   {
+    "dossier": "XY_06729",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06729"
+   },
+   {
+    "dossier": "XY_10641",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 156,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10641"
+   },
+   {
+    "dossier": "ST_09758",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1; Holterbergweg 3",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 549,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/ST_09758"
+   },
+   {
+    "dossier": "XY_06717",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 343,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06717"
+   },
+   {
+    "dossier": "XY_10635",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 496,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10635"
+   },
+   {
+    "dossier": "XY_10851",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1; Holterbergweg 3",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10851"
+   },
+   {
+    "dossier": "ST_09667",
+    "titel": "De passage 98; De passage 100; Holterbergweg 1; Holterbergweg 3",
+    "datum": "2009-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/ST_09667"
+   },
+   {
+    "dossier": "XY_10895",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2009-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 175,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_10895"
+   },
+   {
+    "dossier": "XY_01491",
+    "titel": "De passage 98 - 100; Holterbergweg 1 - 3",
+    "datum": "2009-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01491"
+   },
+   {
+    "dossier": "XY_06654",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1 - 3",
+    "datum": "2009-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1140,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_06654"
+   },
+   {
+    "dossier": "ST_09685",
+    "titel": "De passage 88; De passage 100; Holterbergweg 1; Holterbergweg 3",
+    "datum": "2009-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 381,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/ST_09685"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 110,
+  "gezocht": [
+   "De Passage 100",
+   "De passage 100",
+   "De passage 88",
+   "Holterbergweg 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "prb-2026-13358",
+    "titel": "Vergunning gewijzigd - De Passage 100, Amsterdam - Lozen van afvalwater OBES",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-05",
+    "onderwerp": "Lozing OBES Ziggo Dome",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-13358.html"
+   },
+   {
+    "id": "gmb-2026-284878",
+    "titel": "Vergunning verleend - De Passage 100, Amsterdam -  Weghalen  brandscheiding en bouwen 2 nieuwe brandcompartimenten",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-16",
+    "onderwerp": "het weghalen van een brandscheiding en bouwen van nieuwe brandcompartimenten in de hoofdentree van de Ziggo Dome",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-284878.html",
+    "zaak": "OD2026-0028282"
+   },
+   {
+    "id": "prb-2026-9362",
+    "titel": "Aanvraag vergunning ontvangen - Holterbergweg 1 (Ziggo Dome), Amsterdam - Wijzigen vergunningen open bodemenergiesysteem om lozen bij onderhoud toe te voegen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-04",
+    "onderwerp": "Lozing OBES Ziggo Dome",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-9362.html",
+    "zaak": "OD2026-0030956"
+   },
+   {
+    "id": "gmb-2026-214853",
+    "titel": "Aanvraag vergunning ontvangen - De Passage 100, Amsterdam -  Wijzigen aantal functies hoofdentree en  wijzigen paar brandscheidingen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "het weghalen van een brandscheiding en bouwen van nieuwe brandcompartimenten in de hoofdentree van de Ziggo Dome",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-214853.html",
+    "zaak": "OD2026-0028282"
+   },
+   {
+    "id": "wsb-2026-1835",
+    "titel": "Nieuwe aanvraag omgevingsvergunning voor een wateractiviteit, ter hoogte van Holterbergweg 7451JL Holten - AGV - AGV2026-000385",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-01-27",
+    "onderwerp": "Omgevingsvergunning Water, Stichting Watermaatschappij Amsterdam, ter hoogte van Holterbergweg 1 in Holten",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-1835.html",
+    "zaak": "AGV2026-000385"
+   },
+   {
+    "id": "wsb-2025-28860",
+    "titel": "Nieuwe aanvraag omgevingsvergunning voor een wateractiviteit, ter hoogte van Holterbergweg 1-TRAF Amsterdam-Duivendrecht - AGV - WN2025-005128",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2025-11-26",
+    "onderwerp": "Omgevingsvergunning Water, Netwerk Exploitatiemaatschappij B.V., ter hoogte van Holterbergweg 1-TRAF in Amsterdam-Duivendrecht",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2025-28860.html",
+    "zaak": "WN2025-005128"
+   },
+   {
+    "id": "prb-2025-14277",
+    "titel": "Ontbrandingstoestemming Vuurwerk - De Passage 100, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "Drake EU Tour",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-14277.html",
+    "zaak": "13858687"
+   },
+   {
+    "id": "gmb-2025-326635",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-30",
+    "onderwerp": "Holterbergweg 1 in Holten, het aanvragen van een ontwerpaanpassing op verleende vergunning Z2024-00002495",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-326635.html",
+    "zaak": "Rx.Mission zaak Z2025-00001929"
+   },
+   {
+    "id": "gmb-2025-280375",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-02",
+    "onderwerp": "Holterbergweg 1 in Holten, het aanvragen van een ontwerpaanpassing op verleende vergunning Z2024-00002495 (verbouwen woning en bouwen bijgebouw) ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-280375.html",
+    "zaak": "Rx.Mission zaak Z2025-00001929"
+   },
+   {
+    "id": "gmb-2025-287421",
+    "titel": "Omgevingsvergunningen",
+    "soort": "overige overheidsinformatie",
+    "datum": "2025-07-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-287421.html",
+    "zaak": "27/25"
+   },
+   {
+    "id": "gmb-2025-98947",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "andere vergunning",
+    "datum": "2025-03-12",
+    "onderwerp": "Holterbergweg 1 in Holten, het kappen van 22 bomen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-98947.html",
+    "zaak": "Rx.Mission zaak Z2025-00000626"
+   },
+   {
+    "id": "gmb-2025-73444",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-26",
+    "onderwerp": "Holterbergweg 1 in Holten, het kappen van 22 bomen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-73444.html",
+    "zaak": "Rx.Mission zaak Z2025-00000626"
+   },
+   {
+    "id": "gmb-2024-512163",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "andere vergunning",
+    "datum": "2024-12-11",
+    "onderwerp": "Holterbergweg 1 in Holten, het verbouwen van woning en bouwen bijgebouw",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-512163.html",
+    "zaak": "Rx.Mission zaak Z2024-00002495"
+   },
+   {
+    "id": "wsb-2024-24950",
+    "titel": "Verleende omgevingsvergunning voor een wateractiviteit ter hoogte van De passage 100 1101AX Amsterdam - AGV - WN2024-003806",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2024-11-25",
+    "onderwerp": "Omgevingsvergunning Water, Heddes Bouw & Ontwikkeling B.V., De Passage 100 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2024-24950.html",
+    "zaak": "WN2024-003806"
+   },
+   {
+    "id": "gmb-2024-444551",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "andere vergunning",
+    "datum": "2024-10-30",
+    "onderwerp": "Holterbergweg 1 in Holten, het kappen van 33 bomen ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-444551.html",
+    "zaak": "Rx.Mission zaak Z2024-00002617"
+   },
+   {
+    "id": "gmb-2024-419387",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-09",
+    "onderwerp": "Holterbergweg 1 in Holten, het kappen van bomen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-419387.html",
+    "zaak": "Rx.Mission zaak Z2024-00002617"
+   },
+   {
+    "id": "gmb-2024-399955",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Holterbergweg 1 in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-25",
+    "onderwerp": "Holterbergweg 1 in Holten, het verbouwen van een woning ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-399955.html",
+    "zaak": "Rx.Mission zaak Z2024-00002495"
+   },
+   {
+    "id": "wsb-2024-16267",
+    "titel": "Nieuwe aanvraag omgevingsvergunning voor een wateractiviteit, ter hoogte van De Passage 100 1101AX Amsterdam - AGV - WN2024-003806",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2024-08-01",
+    "onderwerp": "Omgevingsvergunning Water, Heddes Bouw & Ontwikkeling B.V., De Passage 100 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2024-16267.html",
+    "zaak": "WN2024-003806"
+   },
+   {
+    "id": "gmb-2023-327832",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Holterbergweg 1 A in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-02",
+    "onderwerp": "Holterbergweg 1 A in Holten, het onderhouden en wijzigen van de gevel",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-327832.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2023-310006",
+    "titel": "Gemeente Ouder-Amstel: aanvraag Omgevingsvergunning voor plaatsen 12 camera's aan binnenzijde gebouw te Holterbergweg 1-TRAF, Amsterdam-Duivendrecht",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-14",
+    "onderwerp": "Ouder-Amstel aanvraag Z2023-00000036 plaatsen 12 camera's aan binnenzijde gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-310006.html",
+    "zaak": "Aangemaakt vanuit Rx.Mission"
+   },
+   {
+    "id": "gmb-2023-251169",
+    "titel": "Vergunning verleend - Holterbergweg 1 - TRAF, Amsterdam-Duivendrecht - Transformatorstation Bijlmer-Noord - Liander N.V. - het bijplaatsen van een transformator bij Onderstation Bijlmer Noord",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-14",
+    "onderwerp": "Bekendmaking van Gemeente Ouder-Amstel",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-251169.html",
+    "zaak": "1323711"
+   },
+   {
+    "id": "gmb-2023-216334",
+    "titel": "Kennisgeving ontvangst sloopmelding Holterbergweg 1 in Holten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-24",
+    "onderwerp": "Holterbergweg 1 in Holten, het verwijderen van asbest",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-216334.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2023-142100",
+    "titel": "Ontwerpbesluit - Holterbergweg 1 - TRAF, Amsterdam-Duivendrecht - Transformatorstation Bijlmer-Noord - Liander N.V. - het bijplaatsen van een transformator bij Onderstation Bijlmer Noord",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-05",
+    "onderwerp": "Bekendmaking van Gemeente Ouder-Amstel",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-142100.html",
+    "zaak": "1318482"
+   },
+   {
+    "id": "gmb-2021-117263",
+    "titel": "De passage 100-Holterbergweg 3, Amsterdam - Intrekking omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-117263.html",
+    "zaak": "1263025"
+   }
+  ],
+  "met_tekeningen": [
+   "prb-2026-9362",
+   "gmb-2026-214853",
+   "wsb-2026-1835",
+   "wsb-2025-28860",
+   "gmb-2025-326635",
+   "gmb-2025-280375",
+   "gmb-2025-98947",
+   "gmb-2025-73444",
+   "gmb-2024-512163",
+   "gmb-2024-444551",
+   "gmb-2024-419387",
+   "gmb-2024-399955",
+   "wsb-2024-16267",
+   "gmb-2023-327832",
+   "gmb-2023-310006"
+  ],
+  "zaaknummers": [
+   "AGV2026-000385",
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "Aangemaakt vanuit Rx.Mission",
+   "OD2026-0028282",
+   "OD2026-0030956",
+   "Rx.Mission zaak Z2024-00002495",
+   "Rx.Mission zaak Z2024-00002617",
+   "Rx.Mission zaak Z2025-00000626",
+   "Rx.Mission zaak Z2025-00001929",
+   "WN2024-003806",
+   "WN2025-005128"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-501024",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-27",
+    "onderwerp": "Object,De passage 100 1101AX, 20261103, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-501024.html"
+   },
+   {
+    "id": "gmb-2026-453740",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-29",
+    "onderwerp": "Object,De passage 100 1101AX, 20261002, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-453740.html"
+   },
+   {
+    "id": "gmb-2026-444390",
+    "titel": "Melding opslaan grond en baggerspecie - Nabij Holterbergweg 1 Amstelvoorde , 63 meter richting zuidoosten",
+    "soort": "omgevingsmelding",
+    "datum": "2026-09-23",
+    "onderwerp": "Smart Mobility Hub grondopslag",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-444390.html"
+   },
+   {
+    "id": "gmb-2026-392977",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-08-20",
+    "onderwerp": "Object,De passage 100 1101AX, 20260903, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-392977.html"
+   },
+   {
+    "id": "gmb-2026-392929",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-08-20",
+    "onderwerp": "Object,De passage 100 1101AX, 20260825, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-392929.html"
+   },
+   {
+    "id": "gmb-2026-364860",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-07-30",
+    "onderwerp": "Upload_Object,De passage 100 1101AX, 20260810, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-364860.html"
+   },
+   {
+    "id": "gmb-2026-360884",
+    "titel": "Melding toepassen grond en baggerspecie - Nabij Herikerbergweg 342 Amsterdam , 70 meter richting noorden",
+    "soort": "omgevingsmelding",
+    "datum": "2026-07-28",
+    "onderwerp": "45267203 SOK 2.0 Bushaltes Holterbergweg 1",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-360884.html"
+   },
+   {
+    "id": "gmb-2026-336785",
+    "titel": "Aanvraag evenementenvergunning De passage 100 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres De passage 100 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-336785.html"
+   },
+   {
+    "id": "gmb-2026-309889",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Object,De passage 100 1101AX, 20260705, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-309889.html"
+   },
+   {
+    "id": "gmb-2026-243847",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van De passage 100 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres De passage 100 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243847.html"
+   },
+   {
+    "id": "gmb-2026-241167",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "RVV,Object,De passage 100 1101AX, 20260524, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241167.html"
+   },
+   {
+    "id": "gmb-2026-184926",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "Object,De passage 100 1101AX, 20260504, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-184926.html"
+   },
+   {
+    "id": "gmb-2026-151726",
+    "titel": "Aanvraag evenementenvergunning De passage 100 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-31",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres De passage 100 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-151726.html"
+   },
+   {
+    "id": "gmb-2026-127307",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-19",
+    "onderwerp": "RVV,De passage 100 1101AX, 20260323, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-127307.html"
+   },
+   {
+    "id": "gmb-2026-127397",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-19",
+    "onderwerp": "Object, De passage 100 1101AX, 20260403, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-127397.html"
+   },
+   {
+    "id": "gmb-2026-90017",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-02-27",
+    "onderwerp": "Object,De passage 100 1101AX, 20260301, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-90017.html"
+   },
+   {
+    "id": "wsb-2026-4743",
+    "titel": "Genomen Maatwerkbesluit voor het aanleggen van een kabel of leiding of verwijderen, ter hoogte van Holterbergweg 1-TRAF Amsterdam-Duivendrecht - AGV - WN2025-005128",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-02-26",
+    "onderwerp": "Omgevingsvergunning Water, Netwerk Exploitatiemaatschappij B.V., ter hoogte van Holterbergweg 1-TRAF in Amsterdam-Duivendrecht",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-4743.html"
+   },
+   {
+    "id": "gmb-2026-31635",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-01-26",
+    "onderwerp": "Object,De passage 100 1101AX, 20260202, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31635.html"
+   },
+   {
+    "id": "gmb-2025-574236",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-30",
+    "onderwerp": "Object,De passage 100 1101AX, 20260109, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-574236.html"
+   },
+   {
+    "id": "gmb-2025-544058",
+    "titel": "Besluit evenementenvergunning Verleend - De passage 100 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres De passage 100 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544058.html"
+   },
+   {
+    "id": "gmb-2025-538964",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-11",
+    "onderwerp": "RVV,Object,De passage 100 1101AX, 20251215, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-538964.html"
+   },
+   {
+    "id": "gmb-2025-505713",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-11-21",
+    "onderwerp": "Object,De passage 100 1101AX, 20251201, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-505713.html"
+   },
+   {
+    "id": "gmb-2025-451751",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Ingetrokken - De passage 100 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres De passage 100 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451751.html"
+   },
+   {
+    "id": "gmb-2025-451778",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Object,De passage 100 1101AX, 20251101, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451778.html"
+   },
+   {
+    "id": "gmb-2025-397120",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Object,De passage 100 1101AX, 20251002 (2-10), De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397120.html"
+   },
+   {
+    "id": "gmb-2025-370999",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-26",
+    "onderwerp": "Object,De passage 100 1101AX, 20250901, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-370999.html"
+   },
+   {
+    "id": "gmb-2025-348779",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-08",
+    "onderwerp": "Nachtwerk,De passage 100 1101AX, 20250825, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-348779.html"
+   },
+   {
+    "id": "gmb-2025-305507",
+    "titel": "Aanvraag evenementenvergunning De passage 100 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres De passage 100 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-305507.html"
+   },
+   {
+    "id": "gmb-2025-303017",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-11",
+    "onderwerp": "Object,De passage 100 1101AX, 20250801, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-303017.html"
+   },
+   {
+    "id": "gmb-2025-276958",
+    "titel": "Besluit apv vergunning Verleend - De passage ter hoogte van nummer: 100 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-06-26",
+    "onderwerp": "01-07 Object,De passage 100 1101AX, 20250701, De passage ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-276958.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.T1201BPGST-VG01",
+   "naam": "ArenAPoort West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-11-29",
+   "opp_m2": 559945,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0002.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0003.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0007.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0017.png"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": " Amsterdam Bijlmer ArenA. Aan de westkant is het in 1996 gerealiseerde ArenA stadion de grote blikvanger. Nadien is het gebied rondom het stadion ingericht en bebouwd met grootschalige winkels en uitgaansvoorzieningen. Met de recente uitbreiding van het hoofdgebouw van stadion ArenA, de bouw van de Ziggo Dome en het daaraan grenzende plein met een hotel, een kantoor en een voorzieningen gebouw, is het plangebied ArenAPoort West uitgegroeid tot een volwaardig stadscentrumgebied met kantoren, entertainment, sport, retail en evenementen als belangrijkste thema's. Het gebied herbergt een breed scala aan lokale, stedelijke en grootstedelijke voorzieningen, waarvan sommige met internationale uitst"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "eschrijvingvanhetplangebied\" class=\"paragraaf\"> 2.4 Beschrijving van het plangebied Het plangebied 'ArenAPoort West' maakt deel uit van de 'ArenAPoort'. De ArenAPoort is de benaming van het stedelijk gebied dat zich uitstrekt van de Arenaboulevard met de daar aangelegen Ziggo Dome en Villa ArenA in het westen tot en met het Anton de Komplein in het oosten. Figuur 3: Ligging ArenAPoort West in relatie tot het volledige gebied ArenAPoort <"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "ort West wordt gekenmerkt door leisure en entertainment, sport, grootschalige detailhandel, een woonthemacentrum, kantoren en horeca. De afgelopen 15 jaar is ArenaPoort West uitgegroeid tot een belangrijke bestemming voor grootschalige evenementen in de Amsterdam ArenA, de Heineken Music Hall en de Ziggo Dome. Daarnaast blijft ArenAPoort West een aantrekkelijke locatie voor werken. Veel kantoren zijn recent gerenoveerd, voorzien van aanvullende functies en ondanks de crisis vrijwel volledig verhuurd. In tegenstelling tot de algemene beeldvorming is de leegstand in ArenAPoort West hierdoor relatief laag, zeker in vergelijking met andere kantoorlocaties in Amsterdam en de regio. Het stat"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "jkend van wat bovenstaande figuur aangeeft. ArenAPoort West is van oudsher bedoeld tot een tweede uitgaanscentrum van Amsterdam te groeien en herbergt inmiddels een aantal gebouwde evenementen (leisure) vestigingen, namelijk de Amsterdam ArenA, de Heineken Music Hall, megabioscoop Pathe ArenA en de Ziggo Dome. Het buiten dit plangebied liggende, maar tot het gebied ArenAPoort West behorende Getz kan daar nog aan worden toegevoegd, als ook de Endemol Studios. Het gebied is wat dat betreft een unieke uitzondering binnen het Metropolitaan Kerngebied. De bereikbaarheid is vanwege de gunstige ligging ten opzichte van rijks-, hoofd- en lokale wegenstructuur, en OV-verbindingen, gewaarborgd. Bijbeh"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "ikkelen hotelkamers). In en rond ArenAPoort West spelen de laatste jaren meerdere hotelinitiatieven, zowel nieuwbouw als in bestaande gebouwen. Binnen het plangebied is vergunning is verleend voor een hotel aan het plein op kavel 17, tussen de Amsterdam ArenA en de Ziggo Dome. De uitvoering start naar verwachting in 2013. Een tweede initiatief is vergund om de bestaande kantoortoren Arena Towers, in de zuidwesthoek van het plangebied, te transformeren tot een hotel. Het bouwplan is anno 2013 in uitvoering. Deze twee plannen worden in dit bestemmingsplan meegenomen. In de directe omgeving van het plangebied is in 2012 is het Fletcher A2 hotel opgelever"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "r omgeving. De meeste geplande ontwikkelingen zijn gerealiseerd (diverse grootschalige winkels langs de Arena boulevard, sport- en uitgaansvoorziening stadion Amsterdam ArenA, en de op cultuur en entertainment gerichte voorzieningen als de Pathebioscoop, de Heineken Music Hall en de recent geopende Ziggo Dome. Voor het gebied bestaat behoefte aan toevoeging van kleinschalige voorzieningen die mensen tot een langer verblijf in het gebied uitnodigt, zoals meer kwalitatieve horeca. Daarnaast blijft de mogelijkheid om op termijn wonen in het gebied te introduceren gehandhaafd. De kantoorfunctie zal in groei afgestemd worden op de balansvisie in de kantorenstrategie. <div id=\"_3."
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": " uitgaansvoorzieningen en een gedifferentieerd winkelaanbod kunnen elkaar hierin versterken. Daarnaast zijn voorzieningen die een aangenaam verblijfsgebied versterken van belang. De renovatie die de Amsterdamse Poort De Amsterdamse Poort de afgelopen jaren heeft doorgemaakt, als ook de komst van de Ziggo Dome en de komst van het nieuwe stadsdeelkantoor en het Cultuurgebouw Zuidoost, dragen bij aan de verdere optimalisering van het Centrumgebied. Het nieuwe bestemmingsplan voorziet in het huidige aanbod aan winkels en uitgaansvoorzieningen. Ter bevordering van de leefbaarheid en een langer verblijf van publiek, zijn in de plinten van bestaande bebouwing binnen beperkte bandbreedtes and"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "lding \"i_NL.IMRO.0363.T1201BPGST-VG01_0007.png\"\" height=\"558\" width=\"561\"> Leisure en entertainment Op het gebied van evenementen zijn de belangrijkste hoofdspelers reeds in het plangebied aanwezig. PathÃ©, HMH, Ziggo Dome en Amsterdam ArenA trekken jaarlijks meer dan 9 miljoen bezoekers. Aanvullende faciliteiten op leisuregebied ontbreken vooralsnog, met uitzondering van kinderspeelparadijs Ballorig. Rondom ArenAPoort zijn aanvullende accommodaties ontwikkeld die het entertainment- en leisurekarakter van ArenApoort West versterken. Net buiten het plangebied liggen in de gemeente Ouder-Amstel de Amstelhal en Borchl"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "\"> 4.2 Stedenbouwkundige aspecten 4.2.1 Openbare ruimte (structuur) De Arenaboulevard en De Passage zijn onderdeel van het voetgangersgebied ArenAPoort dat zich uitstrekt vanaf de Ziggo Dome in het westen tot en met het Anton de Komplein in het oosten. Het voetgangersgebied verbindt verschillende belangrijke functies, zoals het stadsdeelhuis, winkelcentrum De Amsterdamse Poort, station Bijlmer ArenA en de Amsterdam ArenA. De totale lengte van het voetgangersgebied is ongeveer 1,6 kilometer (Ã©Ã©n mijl). Het is echter niet mogelijk om een aantrekkelijk rondje te maken. Bijna alle bezo"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "ndige locatie zijn maar onderdeel van heel Zuidoost. Het succes van ArenAPoort wordt veroorzaakt door de goede bereikbaarheid en een gunstige prijs-/kwaliteitverhouding. Daarnaast geven het uitgebreide aanbod van voorzieningen en de nabijheid van Amsterdam ArenA, Heineken Music Hall, Ziggo Dome en de Amsterdamse Poort ArenAPoort West een belangrijke meerwaarde. Ook recente herontwikkelingsprojecten hebben ArenAPoort West een extra impuls gegeven. In de afgelopen jaren hebben verschillende eigenaren hun panden grondig en op eigen risico laten verbouwen naar de wensen van deze tijd (multi-tenant). De Oval Tower en de Margriet Toren zijn daar voorbeelden van, evenals Atlas ArenA en gebouw "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "n ondernemingen ontstaan. Evenementen Â De evenementengebouwen zijn overeenkomstig de gerealiseeerde situatie bestemd. Voor een evenementenregeling in de openbare ruimte is voor de komende planperiode niet gekozen. ArenAPoort West beschikt na de opening van de Ziggo Dome in 2012, met de ArenA, de Heineken Music Hall, het Pathe Theater over vier gebouwde evenementenlocaties die grote bezoekersstromen trekken. Vooral bij samenloop van evenementen op deze locaties loopt het gebied goed vol en vergt het een goede organisatie om de stromen goed te beheersen. Het afgelopen jaar heeft de eerste ervaringen met samenloop van evenementen opgeleverd. Een aantal keren was va"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/t_NL.IMRO.0363.T1201BPGST-VG01.html",
+     "tekst": "ncidenteel kunnen evenementen op basis van afzonderlijke vergunningen plaatsvinden. Deze kunnen dan per geval en op maat worden geagendeerd en worden afgestemd op de overige plaatsvindende evenementen in het gebied. Evenementen zijn bijvoorbeeld denkbaar op de Arena boulevard, het voorplein bij de Ziggo Dome en het trainingsveld van Ajax in het noordelijkdel van het plangebied. Daarbij zal in ieder geval rekening moeten worden gehouden met de omstandigheid dat tijdens evenementen in de ArenA, de Ziggo Dome en de Heineken Music Hall, deze locaties tevens als vluchtroute fungeren. Dat betekent dat bij evenementen buiten, samenloop met grote evenementen in de gebouwde locaties zal moeten worden"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.T1201BPGST-VG02",
+   "naam": "ArenAPoort West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-09-30",
+   "opp_m2": 559945,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0002.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0003.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0007.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0017.png"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": " Amsterdam Bijlmer ArenA. Aan de westkant is het in 1996 gerealiseerde ArenA stadion de grote blikvanger. Nadien is het gebied rondom het stadion ingericht en bebouwd met grootschalige winkels en uitgaansvoorzieningen. Met de recente uitbreiding van het hoofdgebouw van stadion ArenA, de bouw van de Ziggo Dome en het daaraan grenzende plein met een hotel, een kantoor en een voorzieningen gebouw, is het plangebied ArenAPoort West uitgegroeid tot een volwaardig stadscentrumgebied met kantoren, entertainment, sport, retail en evenementen als belangrijkste thema's. Het gebied herbergt een breed scala aan lokale, stedelijke en grootstedelijke voorzieningen, waarvan sommige met internationale uitst"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "eschrijvingvanhetplangebied\" class=\"paragraaf\"> 2.4 Beschrijving van het plangebied Het plangebied 'ArenAPoort West' maakt deel uit van de 'ArenAPoort'. De ArenAPoort is de benaming van het stedelijk gebied dat zich uitstrekt van de Arenaboulevard met de daar aangelegen Ziggo Dome en Villa ArenA in het westen tot en met het Anton de Komplein in het oosten. Figuur 3: Ligging ArenAPoort West in relatie tot het volledige gebied ArenAPoort <"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "ort West wordt gekenmerkt door leisure en entertainment, sport, grootschalige detailhandel, een woonthemacentrum, kantoren en horeca. De afgelopen 15 jaar is ArenaPoort West uitgegroeid tot een belangrijke bestemming voor grootschalige evenementen in de Amsterdam ArenA, de Heineken Music Hall en de Ziggo Dome. Daarnaast blijft ArenAPoort West een aantrekkelijke locatie voor werken. Veel kantoren zijn recent gerenoveerd, voorzien van aanvullende functies en ondanks de crisis vrijwel volledig verhuurd. In tegenstelling tot de algemene beeldvorming is de leegstand in ArenAPoort West hierdoor relatief laag, zeker in vergelijking met andere kantoorlocaties in Amsterdam en de regio. Het stat"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "jkend van wat bovenstaande figuur aangeeft. ArenAPoort West is van oudsher bedoeld tot een tweede uitgaanscentrum van Amsterdam te groeien en herbergt inmiddels een aantal gebouwde evenementen (leisure) vestigingen, namelijk de Amsterdam ArenA, de Heineken Music Hall, megabioscoop Pathe ArenA en de Ziggo Dome. Het buiten dit plangebied liggende, maar tot het gebied ArenAPoort West behorende Getz kan daar nog aan worden toegevoegd, als ook de Endemol Studios. Het gebied is wat dat betreft een unieke uitzondering binnen het Metropolitaan Kerngebied. De bereikbaarheid is vanwege de gunstige ligging ten opzichte van rijks-, hoofd- en lokale wegenstructuur, en OV-verbindingen, gewaarborgd. Bijbeh"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "ikkelen hotelkamers). In en rond ArenAPoort West spelen de laatste jaren meerdere hotelinitiatieven, zowel nieuwbouw als in bestaande gebouwen. Binnen het plangebied is vergunning is verleend voor een hotel aan het plein op kavel 17, tussen de Amsterdam ArenA en de Ziggo Dome. De uitvoering start naar verwachting in 2013. Een tweede initiatief is vergund om de bestaande kantoortoren Arena Towers, in de zuidwesthoek van het plangebied, te transformeren tot een hotel. Het bouwplan is anno 2013 in uitvoering. Deze twee plannen worden in dit bestemmingsplan meegenomen. In de directe omgeving van het plangebied is in 2012 is het Fletcher A2 hotel opgelever"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "r omgeving. De meeste geplande ontwikkelingen zijn gerealiseerd (diverse grootschalige winkels langs de Arena boulevard, sport- en uitgaansvoorziening stadion Amsterdam ArenA, en de op cultuur en entertainment gerichte voorzieningen als de Pathebioscoop, de Heineken Music Hall en de recent geopende Ziggo Dome. Voor het gebied bestaat behoefte aan toevoeging van kleinschalige voorzieningen die mensen tot een langer verblijf in het gebied uitnodigt, zoals meer kwalitatieve horeca. Daarnaast blijft de mogelijkheid om op termijn wonen in het gebied te introduceren gehandhaafd. De kantoorfunctie zal in groei afgestemd worden op de balansvisie in de kantorenstrategie. <div id=\"_3."
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": " uitgaansvoorzieningen en een gedifferentieerd winkelaanbod kunnen elkaar hierin versterken. Daarnaast zijn voorzieningen die een aangenaam verblijfsgebied versterken van belang. De renovatie die de Amsterdamse Poort De Amsterdamse Poort de afgelopen jaren heeft doorgemaakt, als ook de komst van de Ziggo Dome en de komst van het nieuwe stadsdeelkantoor en het Cultuurgebouw Zuidoost, dragen bij aan de verdere optimalisering van het Centrumgebied. Het nieuwe bestemmingsplan voorziet in het huidige aanbod aan winkels en uitgaansvoorzieningen. Ter bevordering van de leefbaarheid en een langer verblijf van publiek, zijn in de plinten van bestaande bebouwing binnen beperkte bandbreedtes and"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "lding \"i_NL.IMRO.0363.T1201BPGST-VG02_0007.png\"\" height=\"558\" width=\"561\"> Leisure en entertainment Op het gebied van evenementen zijn de belangrijkste hoofdspelers reeds in het plangebied aanwezig. PathÃ©, HMH, Ziggo Dome en Amsterdam ArenA trekken jaarlijks meer dan 9 miljoen bezoekers. Aanvullende faciliteiten op leisuregebied ontbreken vooralsnog, met uitzondering van kinderspeelparadijs Ballorig. Rondom ArenAPoort zijn aanvullende accommodaties ontwikkeld die het entertainment- en leisurekarakter van ArenApoort West versterken. Net buiten het plangebied liggen in de gemeente Ouder-Amstel de Amstelhal en Borchl"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "\"> 4.2 Stedenbouwkundige aspecten 4.2.1 Openbare ruimte (structuur) De Arenaboulevard en De Passage zijn onderdeel van het voetgangersgebied ArenAPoort dat zich uitstrekt vanaf de Ziggo Dome in het westen tot en met het Anton de Komplein in het oosten. Het voetgangersgebied verbindt verschillende belangrijke functies, zoals het stadsdeelhuis, winkelcentrum De Amsterdamse Poort, station Bijlmer ArenA en de Amsterdam ArenA. De totale lengte van het voetgangersgebied is ongeveer 1,6 kilometer (Ã©Ã©n mijl). Het is echter niet mogelijk om een aantrekkelijk rondje te maken. Bijna alle bezo"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "ndige locatie zijn maar onderdeel van heel Zuidoost. Het succes van ArenAPoort wordt veroorzaakt door de goede bereikbaarheid en een gunstige prijs-/kwaliteitverhouding. Daarnaast geven het uitgebreide aanbod van voorzieningen en de nabijheid van Amsterdam ArenA, Heineken Music Hall, Ziggo Dome en de Amsterdamse Poort ArenAPoort West een belangrijke meerwaarde. Ook recente herontwikkelingsprojecten hebben ArenAPoort West een extra impuls gegeven. In de afgelopen jaren hebben verschillende eigenaren hun panden grondig en op eigen risico laten verbouwen naar de wensen van deze tijd (multi-tenant). De Oval Tower en de Margriet Toren zijn daar voorbeelden van, evenals Atlas ArenA en gebouw "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "n ondernemingen ontstaan. Evenementen Â De evenementengebouwen zijn overeenkomstig de gerealiseeerde situatie bestemd. Voor een evenementenregeling in de openbare ruimte is voor de komende planperiode niet gekozen. ArenAPoort West beschikt na de opening van de Ziggo Dome in 2012, met de ArenA, de Heineken Music Hall, het Pathe Theater over vier gebouwde evenementenlocaties die grote bezoekersstromen trekken. Vooral bij samenloop van evenementen op deze locaties loopt het gebied goed vol en vergt het een goede organisatie om de stromen goed te beheersen. Het afgelopen jaar heeft de eerste ervaringen met samenloop van evenementen opgeleverd. Een aantal keren was va"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/t_NL.IMRO.0363.T1201BPGST-VG02.html",
+     "tekst": "ncidenteel kunnen evenementen op basis van afzonderlijke vergunningen plaatsvinden. Deze kunnen dan per geval en op maat worden geagendeerd en worden afgestemd op de overige plaatsvindende evenementen in het gebied. Evenementen zijn bijvoorbeeld denkbaar op de Arena boulevard, het voorplein bij de Ziggo Dome en het trainingsveld van Ajax in het noordelijkdel van het plangebied. Daarbij zal in ieder geval rekening moeten worden gehouden met de omstandigheid dat tijdens evenementen in de ArenA, de Ziggo Dome en de Heineken Music Hall, deze locaties tevens als vluchtroute fungeren. Dat betekent dat bij evenementen buiten, samenloop met grote evenementen in de gebouwde locaties zal moeten worden"
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 10,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0002.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0003.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0007.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG01/i_NL.IMRO.0363.T1201BPGST-VG01_0017.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0002.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0003.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0007.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.T1201BPGST-VG02/i_NL.IMRO.0363.T1201BPGST-VG02_0017.png"
+ ],
+ "duur_s": 13,
+ "pand_adressen": [
+  "De passage 100",
+  "De passage 88",
+  "Holterbergweg 1"
+ ]
+}

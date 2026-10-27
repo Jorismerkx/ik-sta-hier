@@ -1,0 +1,580 @@
+{
+ "id": "radio-radio",
+ "naam": "Radio Radio",
+ "adres": "Pazzanistraat 3, 1014 DB Amsterdam",
+ "termen": [
+  "Pazzanistraat 3",
+  "1014DB",
+  "1014 DB",
+  "Radio Radio"
+ ],
+ "pand": "0363100012236627",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 3,
+  "openbaar": 1,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_57412",
+    "titel": "Pazzanistraat 1",
+    "datum": "2009-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57412"
+   },
+   {
+    "dossier": "SJ_41767",
+    "titel": "Pazzanistraat 1 - 47; Polonceau-kade 3 - 23",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_41767"
+   },
+   {
+    "dossier": "SJ_34809",
+    "titel": "Gosschalklaan 4 - 14; Gosschalklaan 7; Klönne plein 1 - 3; Klönne plein 2 - 12; Pazzanistraat 1 - 13; Pazzanistraat 4 - 10; Pazzanistraat 17 - 19; Pazzanistraat 23 - 25; Pazzanistraat 29; Pazzanistraat 33 - 35; Pazzanistraat 39 - 45; Polonceau-kade 1 - 3; Polonceau-kade 5 - 7; Polonceau-kade 9; Polo",
+    "datum": "1999-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_34809"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 76,
+  "gezocht": [
+   "Pazzanistraat 3",
+   "Pazzanistraat 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-225843",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-13",
+    "onderwerp": "plaatsen van een lichtreclame - Comedytrain op de gevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-225843.html",
+    "zaak": "Z2025-053424"
+   },
+   {
+    "id": "gmb-2025-553134",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-18",
+    "onderwerp": "plaatsen van een lichtreclame - Comedytrain op de gevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-553134.html",
+    "zaak": "Z2025-053424"
+   },
+   {
+    "id": "gmb-2025-300195",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-09",
+    "onderwerp": "diverse aanpassingen aan het gebouw met theaterzalen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-300195.html",
+    "zaak": "Z2025-016589"
+   },
+   {
+    "id": "gmb-2025-251348",
+    "titel": "Aanvraag omgevingsvergunning aanvraag ingetrokken Pazzanistraat 3 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-10",
+    "onderwerp": "plaatsen van een tijdelijke container unit voor het maken van radio-opnames en en geven van workshops Westerpark",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-251348.html",
+    "zaak": "Z2025-009894"
+   },
+   {
+    "id": "gmb-2025-212033",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-15",
+    "onderwerp": "verbouwing van het pand naar theaterzalen c.a.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-212033.html",
+    "zaak": "Z2025-016589"
+   },
+   {
+    "id": "gmb-2025-122142",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 3 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-21",
+    "onderwerp": "plaatsen van een tijdelijke container unit voor het maken van radio-opnames en en geven van workshops Westerpark",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-122142.html",
+    "zaak": "Z2025-009894"
+   },
+   {
+    "id": "gmb-2023-434485",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-11",
+    "onderwerp": "optimaliseren van de brandcompartimentering van het oostelijk deel van het Zuiveringsgebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-434485.html",
+    "zaak": "Z2023-W002634"
+   },
+   {
+    "id": "gmb-2023-286164",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-30",
+    "onderwerp": "optimaliseren van de brandcompartimentering van het oostelijk deel van het Zuiveringsgebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-286164.html",
+    "zaak": "Z2023-W002634"
+   },
+   {
+    "id": "gmb-2022-463576",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Pazzanistraat 3 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-18",
+    "onderwerp": "wijzigen van één kozijn aan de voorgevel ter hoogte van de begane grond",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-463576.html",
+    "zaak": "Z2022-W003630"
+   },
+   {
+    "id": "gmb-2022-432837",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 3 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-28",
+    "onderwerp": "wijzigen van één kozijn aan de voorgevel van een Rijksmonument",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-432837.html",
+    "zaak": "Z2022-W003630"
+   },
+   {
+    "id": "gmb-2022-426697",
+    "titel": "Buiten behandeling stellen van aanvraag omgevingsvergunning Pazzanistraat 3 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-23",
+    "onderwerp": "verbreden vluchtroute en wijzigen gevel t.b.v. het verruimen van de capaciteit ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-426697.html",
+    "zaak": "Z2022-W002836"
+   },
+   {
+    "id": "gmb-2022-343473",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 3 1014DB Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-27",
+    "onderwerp": "verbreden vluchtroute en wijzigen gevel t.b.v. het verruimen van de capaciteit ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-343473.html",
+    "zaak": "Z2022-W002836"
+   },
+   {
+    "id": "gmb-2021-267041",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-08-09",
+    "onderwerp": "Aanvraag voor het leegpompen en gebruiken van de vijver op het manifestatieterrein van het Westerpark, nabij Pazzanistraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-267041.html"
+   },
+   {
+    "id": "gmb-2021-227487",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-07-14",
+    "onderwerp": "Aanvraag voor het leegpompen en gebruiken van de vijver op het manifestatieterrein van het Westerpark, nabij Pazzanistraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-227487.html",
+    "zaak": "Z2021-W003110"
+   },
+   {
+    "id": "gmb-2021-192526",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-18",
+    "onderwerp": "tijdelijk paviljoen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-192526.html"
+   },
+   {
+    "id": "gmb-2021-144295",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-10",
+    "onderwerp": "tijdelijk paviljoen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-144295.html"
+   },
+   {
+    "id": "gmb-2021-100827",
+    "titel": "Aanvraag omgevingsvergunning Pazzanistraat 1 1014DB Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-01",
+    "onderwerp": "tijdelijk paviljoen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-100827.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-225843",
+   "gmb-2025-553134",
+   "gmb-2025-300195",
+   "gmb-2025-251348",
+   "gmb-2025-212033",
+   "gmb-2025-122142",
+   "gmb-2023-434485",
+   "gmb-2023-286164",
+   "gmb-2022-463576",
+   "gmb-2022-432837",
+   "gmb-2022-426697",
+   "gmb-2022-343473",
+   "gmb-2021-267041",
+   "gmb-2021-227487",
+   "gmb-2021-192526",
+   "gmb-2021-100827"
+  ],
+  "zaaknummers": [
+   "Z2021-W003110",
+   "Z2022-W002836",
+   "Z2022-W003630",
+   "Z2023-W002634",
+   "Z2025-009894",
+   "Z2025-016589",
+   "Z2025-053424"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2010-4247",
+    "titel": "Ontwerpbestemmingsplan Bredius, ontwerpbesluit vaststelling hogere waarden geluidhinder",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-4247.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-281015",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-15",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-281015.html"
+   },
+   {
+    "id": "gmb-2026-272592",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-272592.html"
+   },
+   {
+    "id": "gmb-2026-243776",
+    "titel": "Besluit apv vergunning Verleend - Pazzanistraat ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Filmen,Pazzanistraat 1 1014DB, 20260616, Pazzanistraat ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243776.html"
+   },
+   {
+    "id": "gmb-2026-202174",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Pazzanistraat 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202174.html"
+   },
+   {
+    "id": "gmb-2026-164852",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Pazzanistraat 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-164852.html"
+   },
+   {
+    "id": "gmb-2026-164958",
+    "titel": "Besluit evenementenvergunning Nog niet bekend ter hoogte van Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-08",
+    "onderwerp": "Nog niet bekend: evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-164958.html"
+   },
+   {
+    "id": "gmb-2026-143981",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Pazzanistraat 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-03-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-143981.html"
+   },
+   {
+    "id": "gmb-2026-119075",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Pazzanistraat 3",
+    "soort": "andere vergunning",
+    "datum": "2026-03-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Pazzanistraat 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-119075.html"
+   },
+   {
+    "id": "gmb-2025-562881",
+    "titel": "Besluit alcoholwetvergunning Verleend - Pazzanistraat 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-23",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Pazzanistraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-562881.html"
+   },
+   {
+    "id": "gmb-2025-562851",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Pazzanistraat 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-562851.html"
+   },
+   {
+    "id": "gmb-2025-555578",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-555578.html"
+   },
+   {
+    "id": "gmb-2025-544115",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Pazzanistraat 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544115.html"
+   },
+   {
+    "id": "gmb-2025-512321",
+    "titel": "Besluit evenementenvergunning Verleend - Pazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-512321.html"
+   },
+   {
+    "id": "gmb-2025-427698",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-10-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-427698.html"
+   },
+   {
+    "id": "gmb-2025-386803",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Pazzanistraat 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-386803.html"
+   },
+   {
+    "id": "gmb-2025-341298",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Pazzanistraat 3",
+    "soort": "andere vergunning",
+    "datum": "2025-08-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Pazzanistraat 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-341298.html"
+   },
+   {
+    "id": "gmb-2025-320523",
+    "titel": "Besluit apv vergunning Verleend - Pazzanistraat ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-22",
+    "onderwerp": "Object,Pazzanistraat 1 1014DB, 20250722, Pazzanistraat ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-320523.html"
+   },
+   {
+    "id": "gmb-2025-317992",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Pazzanistraat 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-317992.html"
+   },
+   {
+    "id": "gmb-2025-308261",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Pazzanistraat 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-15",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-308261.html"
+   },
+   {
+    "id": "gmb-2025-267426",
+    "titel": "Besluit evenementenvergunning Verleend - Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-20",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-267426.html"
+   },
+   {
+    "id": "gmb-2025-177778",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-177778.html"
+   },
+   {
+    "id": "gmb-2025-126305",
+    "titel": "Besluit evenementenvergunning Verleend - Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-126305.html"
+   },
+   {
+    "id": "gmb-2024-521211",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-12-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-521211.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-429230",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-429230.html"
+   },
+   {
+    "id": "gmb-2024-400071",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-400071.html"
+   },
+   {
+    "id": "gmb-2024-400045",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Pazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-20",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-400045.html"
+   },
+   {
+    "id": "gmb-2024-235773",
+    "titel": "Besluit evenementenvergunning Nog niet bekendPazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-31",
+    "onderwerp": "Nog niet bekend: evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-235773.html"
+   },
+   {
+    "id": "gmb-2024-177313",
+    "titel": "Besluit apv vergunning Verleend - Pazzanistraat 1",
+    "soort": "andere vergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Object, Westergasterrein plein thv Pazzanistraat 1 , 20240426, Pazzanistraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-177313.html"
+   },
+   {
+    "id": "gmb-2024-160745",
+    "titel": "Aanvraag evenementenvergunning Pazzanistraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Pazzanistraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-160745.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1209BPSTD-VG01",
+   "naam": "Westergasfabriek",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-01-28",
+   "opp_m2": 347587,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Pazzanistraat 1"
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "id": "exit-cafe",
+ "naam": "Exit Café",
+ "adres": "Reguliersdwarsstraat 42, 1017 BM Amsterdam",
+ "termen": [
+  "Reguliersdwarsstraat 42",
+  "1017BM",
+  "1017 BM",
+  "Exit Café"
+ ],
+ "pand": "0363100012175806",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 11,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_82733",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "2008-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82733"
+   },
+   {
+    "dossier": "SA_82720",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "2002-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82720"
+   },
+   {
+    "dossier": "SA_82712",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82712"
+   },
+   {
+    "dossier": "SA_82715",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82715"
+   },
+   {
+    "dossier": "SA_82714",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1997-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82714"
+   },
+   {
+    "dossier": "SA_82692",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1995-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82692"
+   },
+   {
+    "dossier": "SA_82705",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1994-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82705"
+   },
+   {
+    "dossier": "SA_82697",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82697"
+   },
+   {
+    "dossier": "SA_82708",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1987-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82708"
+   },
+   {
+    "dossier": "SA_82709",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1983-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82709"
+   },
+   {
+    "dossier": "SA_102316",
+    "titel": "Herengracht 493 - 495; Reguliersdwarsstraat 42",
+    "datum": "1982-01-01",
+    "soort": "woningmutatie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102316"
+   },
+   {
+    "dossier": "SA_80862",
+    "titel": "Herengracht 493 - 495; Reguliersdwarsstraat 42",
+    "datum": "1982-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_80862"
+   },
+   {
+    "dossier": "SA_82648",
+    "titel": "Reguliersdwarsstraat 42",
+    "datum": "1982-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82648"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 30,
+  "gezocht": [
+   "Reguliersdwarsstraat 42"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-319360",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2026-07-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-319360.html"
+   },
+   {
+    "id": "gmb-2026-189984",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2026-04-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-189984.html"
+   },
+   {
+    "id": "gmb-2026-18341",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Reguliersdwarsstraat 42 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-18341.html"
+   },
+   {
+    "id": "gmb-2025-455801",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Reguliersdwarsstraat 42 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-455801.html"
+   },
+   {
+    "id": "gmb-2025-341215",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2025-08-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-341215.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-299668",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2024-07-09",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-299668.html"
+   },
+   {
+    "id": "gmb-2024-54025",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Reguliersdwarsstraat 42 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-05",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 42 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-54025.html"
+   },
+   {
+    "id": "gmb-2024-54007",
+    "titel": "Besluit alcoholwetvergunning Verleend - Reguliersdwarsstraat 42 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-02-05",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-54007.html"
+   },
+   {
+    "id": "gmb-2024-45869",
+    "titel": "Aanvraag alcoholwetvergunning Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-45869.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-355278",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Reguliersdwarsstraat 42 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Reguliersdwarsstraat 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-355278.html"
+   },
+   {
+    "id": "gmb-2023-349663",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2023-08-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-349663.html"
+   },
+   {
+    "id": "gmb-2023-197232",
+    "titel": "Terrassenplan Reguliersdwarsstraat West",
+    "soort": "beleidsregel",
+    "datum": "2023-05-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-197232.html"
+   },
+   {
+    "id": "gmb-2023-132757",
+    "titel": "Besluit evenementenvergunning VerleendReguliersdwarsstraat 42 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Reguliersdwarsstraat 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-132757.html"
+   },
+   {
+    "id": "gmb-2023-17659",
+    "titel": "Aanvraag evenementenvergunning Reguliersdwarsstraat 42 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Reguliersdwarsstraat 42 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-17659.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-191554",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) Reguliersdwarsstraat 42",
+    "soort": "evenementenvergunning",
+    "datum": "2022-04-29",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-191554.html"
+   },
+   {
+    "id": "gmb-2022-126714",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Reguliersdwarsstraat 42",
+    "soort": "andere vergunning",
+    "datum": "2022-03-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-126714.html"
+   },
+   {
+    "id": "gmb-2022-105406",
+    "titel": "Besluit evenementenvergunning Verleend Reguliersdwarsstraat 42",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-105406.html"
+   },
+   {
+    "id": "gmb-2022-86280",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Reguliersdwarsstraat 42",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-28",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-86280.html"
+   },
+   {
+    "id": "gmb-2022-14099",
+    "titel": "Aanvraag evenementenvergunning Reguliersdwarsstraat 42",
+    "soort": "evenementenvergunning",
+    "datum": "2022-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-14099.html"
+   },
+   {
+    "id": "gmb-2021-380294",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Reguliersdwarsstraat 42",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Reguliersdwarsstraat 42",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380294.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2016-90608",
+    "titel": "Verlenging van de Proef Twaalfdagenregeling voor de nachtzaken. Het  beleidskader ontheffingen, als bedoeld in artikel 3.15, derde lid, van  de Algemene Plaatselijke Verordening 2008 in de uitgaansgebieden  Leidseplein en Rembrandtplein (gemeenteblad 2012, afdeling 3B, nummer  83). (3B, 2016, 131)",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-07-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-90608.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   },
+   {
+    "id": "gmb-2015-57458",
+    "titel": "Verlenging van de Proef Twaalfdagenregeling voor de nachtzaken. Het beleidskader ontheffingen, als bedoeld in artikel 3.15, derde lid, van de Algemene Plaatselijke Verordening 2008 in de uitgaansgebieden Leidseplein en Rembrandtplein (gemeenteblad 2012, afdeling 3B, nummer 83).(3b, 2015, 136)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-06-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-57458.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 6,
+  "plannen": 1,
+  "woo": 26
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 47,
+ "pand_adressen": [
+  "Reguliersdwarsstraat 42"
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "id": "club-8",
+ "naam": "Club 8",
+ "adres": "Admiraal de Ruijterweg 56B, 1056 GL Amsterdam",
+ "termen": [
+  "Admiraal de Ruijterweg 56",
+  "Admiraal de Ruijterweg 56B",
+  "Admiraal de Ruijterweg 56 B",
+  "1056GL",
+  "1056 GL",
+  "Club 8"
+ ],
+ "pand": null,
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 28,
+  "gezocht": [
+   "Admiraal de Ruijterweg 56",
+   "Admiraal de Ruijterweg 56B",
+   "Admiraal de Ruijterweg 56 B"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-185966",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Admiraal De Ruijterweg 56 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "renoveren van een deel van de kelder tot een commerciële ruimte (winkel)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-185966.html",
+    "zaak": "Z2025-040428"
+   },
+   {
+    "id": "gmb-2025-465634",
+    "titel": "Aanvraag omgevingsvergunning Admiraal De Ruijterweg 56 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "renoveren van een deel van de kelder tot een commerciële ruimte ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-465634.html",
+    "zaak": "Z2025-040428"
+   },
+   {
+    "id": "gmb-2025-429100",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Admiraal De Ruijterweg 56B-1 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-03",
+    "onderwerp": "het wijzigen van de brandcompartimentering t.b.v. het realiseren van een extra woning op de 1e tussenverdieping",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-429100.html",
+    "zaak": "Z2025-018254"
+   },
+   {
+    "id": "gmb-2025-407677",
+    "titel": "Aanvraag omgevingsvergunning Admiraal De Ruijterweg 56B-1 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-19",
+    "onderwerp": "plaatsen van een kunstwerk aan de oostgevel van het monument ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-407677.html",
+    "zaak": "Z2025-036217"
+   },
+   {
+    "id": "gmb-2025-248330",
+    "titel": "Aanvraag omgevingsvergunning Admiraal De Ruijterweg 56B-1 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-06",
+    "onderwerp": "realiseren van een extra woning 1e tussenverdieping (2e bouwlaag)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-248330.html",
+    "zaak": "Z2025-018254"
+   },
+   {
+    "id": "bgr-2025-1029",
+    "titel": "Aanvraag vergunning voor het oprichten, ca 5 maanden laten staan en gebruiken van een werksteiger van ca. 15 meter hoog voor de gevel van Admiraal de Ruijterweg 56 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-01",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1029.html"
+   },
+   {
+    "id": "bgr-2025-1052",
+    "titel": "Toestemming voor het oprichten, ca 5 maanden laten staan en gebruiken van een werksteiger van ca. 15 meter hoog voor de gevel van Admiraal de Ruijterweg 56 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-01",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1052.html"
+   },
+   {
+    "id": "gmb-2024-325497",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Admiraal De Ruijterweg 56B 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-24",
+    "onderwerp": "realiseren van 28 woningen over twee bouwlagen in een gemeentelijk monument en het plaatsen van installaties op het dak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-325497.html",
+    "zaak": "Z2023-W005192"
+   },
+   {
+    "id": "gmb-2024-16583",
+    "titel": "Aanvraag omgevingsvergunning Admiraal De Ruijterweg 56B 1056GL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-09",
+    "onderwerp": "realiseren van 28 woningen over twee bouwlagen in een gemeentelijk monument en het plaatsen van installaties op het dak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-16583.html",
+    "zaak": "Z2023-W005192"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-185966",
+   "gmb-2025-465634",
+   "gmb-2025-429100",
+   "gmb-2025-407677",
+   "gmb-2025-248330",
+   "bgr-2025-1029",
+   "gmb-2024-325497",
+   "gmb-2024-16583"
+  ],
+  "zaaknummers": [
+   "Z2023-W005192",
+   "Z2025-018254",
+   "Z2025-036217",
+   "Z2025-040428"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-303747",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-303747.html"
+   },
+   {
+    "id": "gmb-2026-235061",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg ter hoogte van nummer: 56 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-19",
+    "onderwerp": "Object, Admiraal De Ruijterweg 56 B, 26 mei-27 mei., Admiraal De Ruijterweg ter hoogte van nummer: 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-235061.html"
+   },
+   {
+    "id": "gmb-2026-227398",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg ter hoogte van nummer: 56 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-15",
+    "onderwerp": "Object,Admiraal De Ruijterweg 56 A 1056GL, 28 mei t/m 29 mei 2026, Admiraal De Ruijterweg ter hoogte van nummer: 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-227398.html"
+   },
+   {
+    "id": "gmb-2026-31969",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-02-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31969.html"
+   },
+   {
+    "id": "gmb-2026-10096",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg ter hoogte van nummer: 56 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-12",
+    "onderwerp": "TVM parkeervak,Admiraal De Ruijterweg 56 B 1 1056GL, 20260115, Admiraal De Ruijterweg ter hoogte van nummer: 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-10096.html"
+   },
+   {
+    "id": "gmb-2025-484770",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg ter hoogte van nummer: 56 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-11-10",
+    "onderwerp": "TVM parkeervak,Admiraal De Ruijterweg 56 A 1056GL, 20251117, Admiraal De Ruijterweg ter hoogte van nummer: 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-484770.html"
+   },
+   {
+    "id": "gmb-2025-273310",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-273310.html"
+   },
+   {
+    "id": "gmb-2025-183165",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg ter hoogte van nummer: 56 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "TVM 4 parkeervakken, Object, Admiraal De Ruijterweg 56 B 1056GL, 20250602, Admiraal De Ruijterweg ter hoogte van nummer: 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183165.html"
+   },
+   {
+    "id": "gmb-2025-5647",
+    "titel": "Rectificatie: Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-01-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-5647.html"
+   },
+   {
+    "id": "gmb-2024-550336",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-12-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550336.html"
+   },
+   {
+    "id": "gmb-2024-541679",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg ter hoogte van nummer: 56 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-24",
+    "onderwerp": "TVM 4PV, Admiraal De Ruijterweg 56 A 1056GL - Reinier Claeszenstraat 1 1056WC, 20250106, Admiraal De Ruijterweg ter hoogte van nummer: 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-541679.html"
+   },
+   {
+    "id": "gmb-2024-207664",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg 56B",
+    "soort": "andere vergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "TVM,Object + 2 vakken/ Admiraal De Ruijterweg 56/ 21-5-2024 t/m 9-8-2024, Admiraal De Ruijterweg 56B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-207664.html"
+   },
+   {
+    "id": "gmb-2023-97132",
+    "titel": "Besluit apv vergunning Verleend - Admiraal De Ruijterweg 56A",
+    "soort": "andere vergunning",
+    "datum": "2023-03-07",
+    "onderwerp": "TVM 3 vakken, Admiraal De Ruijterweg 56, 16-3-2023, Admiraal De Ruijterweg 56A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-97132.html"
+   },
+   {
+    "id": "gmb-2023-56867",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Admiraal De Ruijterweg 56B",
+    "soort": "andere vergunning",
+    "datum": "2023-02-09",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Admiraal De Ruijterweg 56B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-56867.html"
+   },
+   {
+    "id": "gmb-2022-535308",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Admiraal De Ruijterweg 56B",
+    "soort": "andere vergunning",
+    "datum": "2022-12-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Admiraal De Ruijterweg 56B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-535308.html"
+   },
+   {
+    "id": "gmb-2022-364557",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Admiraal De Ruijterweg 56B",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Admiraal De Ruijterweg 56B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-364557.html"
+   },
+   {
+    "id": "gmb-2022-40094",
+    "titel": "Besluit apv vergunning Verleend Admiraal De Ruijterweg 56A",
+    "soort": "andere vergunning",
+    "datum": "2022-02-01",
+    "onderwerp": "TVM+5 vakken/Admiraal de Ruijterweg 56-58/4-2-2022, Admiraal De Ruijterweg 56A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-40094.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1504BPSTD-VG01",
+   "naam": "De Baarsjes",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-05-16",
+   "opp_m2": 1537352,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1504BPSTD-VG02",
+   "naam": "De Baarsjes",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-05-16",
+   "opp_m2": 1537352,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 404,
+  "plannen": 5,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 493,
+ "pand_adressen": []
+}

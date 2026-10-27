@@ -1,0 +1,471 @@
+{
+ "id": "posthoornkerk",
+ "naam": "Posthoornkerk",
+ "adres": "Haarlemmerstraat 124-126, 1013 EX Amsterdam",
+ "termen": [
+  "Haarlemmerstraat 124",
+  "Haarlemmerstraat 126",
+  "1013EX",
+  "1013 EX",
+  "Posthoornkerk"
+ ],
+ "pand": "0363100012167529",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "hoog",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 7,
+  "laatste": "2011-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_104971",
+    "titel": "Haarlemmer Houttuinen 47 A - 47 D; Haarlemmerstraat 124 A - 124 G; Haarlemmerstraat 126",
+    "datum": "2011-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104971"
+   },
+   {
+    "dossier": "SA_104899",
+    "titel": "Haarlemmerstraat 124 - 126",
+    "datum": "2010-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104899"
+   },
+   {
+    "dossier": "SA_19586",
+    "titel": "Haarlemmer Houttuinen 47 A - 47 D; Haarlemmerstraat 124; Haarlemmerstraat 126 A - 126 C",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19586"
+   },
+   {
+    "dossier": "SA_19583",
+    "titel": "Haarlemmer Houttuinen 47 A - 47 D; Haarlemmerstraat 124; Haarlemmerstraat 126 A - 126 C",
+    "datum": "2005-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19583"
+   },
+   {
+    "dossier": "SA_19580",
+    "titel": "Haarlemmerstraat 124",
+    "datum": "2001-01-01",
+    "soort": "antenne-installatie/sirene",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19580"
+   },
+   {
+    "dossier": "SA_19577",
+    "titel": "Haarlemmerstraat 124",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19577"
+   },
+   {
+    "dossier": "SA_19570",
+    "titel": "Haarlemmerstraat 124",
+    "datum": "1996-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 128,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19570"
+   },
+   {
+    "dossier": "SA_19472",
+    "titel": "Haarlemmer Houttuinen 47 A - 47 D; Haarlemmerstraat 124; Haarlemmerstraat 126 A - 126 C",
+    "datum": "1988-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19472"
+   },
+   {
+    "dossier": "SA_19526",
+    "titel": "Haarlemmer Houttuinen 47 A - 47 D; Haarlemmerstraat 124; Haarlemmerstraat 126 A - 126 C",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19526"
+   },
+   {
+    "dossier": "SA_19516",
+    "titel": "Haarlemmerstraat 124",
+    "datum": "1987-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19516"
+   },
+   {
+    "dossier": "SA_19598",
+    "titel": "Haarlemmerstraat 124",
+    "datum": "1963-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19598"
+   },
+   {
+    "dossier": "SA_19477",
+    "titel": "Haarlemmerstraat 124",
+    "datum": "1924-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19477"
+   },
+   {
+    "dossier": "SA_19597",
+    "titel": "Haarlemmer Houttuinen 47",
+    "datum": "1924-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_19597"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 12,
+  "gezocht": [
+   "Haarlemmerstraat 124",
+   "Haarlemmerstraat 126",
+   "Haarlemmer Houttuinen 47A",
+   "Haarlemmer Houttuinen 47B",
+   "Haarlemmer Houttuinen 47C",
+   "Haarlemmer Houttuinen 47D",
+   "Haarlemmerstraat 124A",
+   "Haarlemmerstraat 124B",
+   "Haarlemmerstraat 124C",
+   "Haarlemmerstraat 124D",
+   "Haarlemmerstraat 124E",
+   "Haarlemmerstraat 124F",
+   "Haarlemmerstraat 124G"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-169820",
+    "titel": "Verleende omgevingsvergunning, aanbrengen nieuwe winkelpui en reclame, Haarlemmerstraat 126 2312GE Leiden",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-24",
+    "onderwerp": "aanbrengen nieuwe winkelpui en reclame",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-169820.html",
+    "zaak": "Z/25/3804514"
+   },
+   {
+    "id": "gmb-2025-85148",
+    "titel": "Aanvraag omgevingsvergunning, aanbrengen nieuwe winkelpui en reclame, Haarlemmerstraat 126 2312GE Leiden",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-06",
+    "onderwerp": "aanbrengen nieuwe winkelpui en reclame",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-85148.html",
+    "zaak": "Z/25/3804514"
+   },
+   {
+    "id": "gmb-2024-186278",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Haarlemmerstraat 124A 1013EX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-26",
+    "onderwerp": "plaatsen van achterzetbeglazing achter alle ramen van het pand met behoud van de bestemming kantoor en bijeenkomstruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-186278.html",
+    "zaak": "Z2023-C009468"
+   },
+   {
+    "id": "gmb-2024-51699",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Haarlemmerstraat 124A 1013EX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-01",
+    "onderwerp": "plaatsen van achterzetbeglazing achter alle ramen van het pand met behoud van de bestemming kantoor en bijeenkomstruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-51699.html",
+    "zaak": "Z2023-C009468"
+   },
+   {
+    "id": "gmb-2023-492914",
+    "titel": "Aanvraag omgevingsvergunning Haarlemmerstraat 124A 1013EX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-20",
+    "onderwerp": "plaatsen van achterzetbeglazing achter alle ramen van het pand met behoud van de bestemming kantoor en bijeenkomstruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-492914.html",
+    "zaak": "Z2023-C009468"
+   },
+   {
+    "id": "gmb-2023-379449",
+    "titel": "Afgehandelde Omgevingsvergunning, Haarlemmerstraat 124, 2181HE Hillegom, het maken van een muurdoorbraak tussen keuken en bijkeuken. Kenmerk Z2023-00000548.",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-05",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-379449.html",
+    "zaak": "Rx.Mission zaak Z2023-00000548"
+   },
+   {
+    "id": "gmb-2023-369248",
+    "titel": "Nieuwe aanvraag omgevingsvergunning, Haarlemmerstraat 124, 2181HE Hillegom, het maken van een muurdoorbraak tussen keuken en bijkeuken. Kenmerk Z2023-00000548.",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-29",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-369248.html",
+    "zaak": "Rx.Mission zaak Z2023-00000548"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-85148",
+   "gmb-2024-186278",
+   "gmb-2023-492914",
+   "gmb-2023-369248"
+  ],
+  "zaaknummers": [
+   "Rx.Mission zaak Z2023-00000548",
+   "Z/25/3804514",
+   "Z2023-C009468"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2021-321140",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) Haarlemmerstraat 124C",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-20",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Haarlemmerstraat 124C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-321140.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1202BPSTD-VG01",
+   "naam": "Haarlemmerbuurt/Westelijke eilanden",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-11-05",
+   "opp_m2": 403743,
+   "pdfs": [
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/b_NL.IMRO.0363.A1202BPSTD-VG01_tb6.pdf",
+     "titel": "Bijlage 6 Verslag inspraakbijeenkomst",
+     "waarom": "genoemd bij het adres: bijlage 6"
+    }
+   ],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/i_NL.IMRO.0363.A1202BPSTD-VG01_0066.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/i_NL.IMRO.0363.A1202BPSTD-VG01_0067.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/i_NL.IMRO.0363.A1202BPSTD-VG01_0068.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "eeld aan weerszijden van de hoek Nieuwe Prinsengracht/Haarlemmerstraat, waar grote appartementencomplexen neergezet zijn met winkels daaronder. Ook het gebouw van het verzorgingshuis de Rietvinck heeft een groot deel van het bouwblok tussen de Vinkenstraat en de Brouwersgracht in beslag genomen. De Posthoornkerk en het West-Indisch huis vormen de uitzonderingen in de oorspronkelijke verkaveling. Voor de Posthoornkerk geldt ook dat deze niet in de rooilijn staat, maar terug- springt zodat een pleintje voor de ingang ontstaat. Het West-Indisch huis neemt een apart bouwblok in beslag. Grootschalige stadsvernieuwing bevindt zich aan de noordrand van de buurt tussen de Nieuwe Prinsengracht e"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "eergezet zijn met winkels daaronder. Ook het gebouw van het verzorgingshuis de Rietvinck heeft een groot deel van het bouwblok tussen de Vinkenstraat en de Brouwersgracht in beslag genomen. De Posthoornkerk en het West-Indisch huis vormen de uitzonderingen in de oorspronkelijke verkaveling. Voor de Posthoornkerk geldt ook dat deze niet in de rooilijn staat, maar terug- springt zodat een pleintje voor de ingang ontstaat. Het West-Indisch huis neemt een apart bouwblok in beslag. Grootschalige stadsvernieuwing bevindt zich aan de noordrand van de buurt tussen de Nieuwe Prinsengracht en het Haarlemmerplein. Behalve in schaal en stijl wijkt deze bebouwing ook in typologie af van de overige b"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "wing een dergelijk onderscheid niet maakte. Als een van de betere voorbeelden geldt het wooncomplex van A. Komter uit begin jaren vijftig op de hoek van de Haarlemmer- straat/Nieuwe Prinsengracht, waarbij een compromis is bereikt tussen de traditionele architectuur en het modernisme. De neogotische Posthoornkerk is de eerste kerk in Amsterdam van P.J.H. Cuypers. De twee karakteristieke hoge torens vormen verticale accenten te midden van lagere bebouwing en zijn van een grote afstand zichtbaar. <span clas"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": " Korte Prinsengracht, vormen vanwege hun maat uitzonderingen in de ruimtelijke structuur van de buurt. Behalve deze grotere, openbare ruimten is op een aantal plekken aan de randen van bouwblokken openbare ruimte ontstaan of gecreÃ«erd. Een voorbeeld hiervan is het voorplein bij de Posthoornkerk. Andere voorbeelden betreffen onbebouwde percelen die ooit bebouwd zijn geweest en, na de sloop van een (aantal) pand(en), vervolgens als speelruimte of groenplek aan de openbare ruimte zijn toegevoegd. Deze plekken hebben een bijzondere betekenis als een verblijfsgebied voor de buurt gekregen. De hoek Vinkenstraat- Mouthaansteeg is hiervan een voorbeeld. <img id=\"o10"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "8%), het laagste aantal werkzame personen binnen de sector voorzieningen van de binnenstad. De voorzieningen zijn ondergebracht in 304 verschillende vestigingen. Het plangebied kent een aantal culturele instellingen zoals het John Adams Institute (in het West-Indisch huis) en de Posthoornkerk. 6.4.2 Ontwikkeling In de periode 2008-2010 is het aantal voorzieningen in de binnenstad, sterk gestegen. In 2008 telde de binnenstad ongeveer 1.500 vestigingen binnen deze sector, in 2010 ongeveer 3.000. De stijging is voor een belangrijk deel toe te schrijven aan de registratie van zelf"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "n culturele functie. Als de culturele functie uit het pand vertrekt en niet door een zelfde functie wordt vervangen, verdwijnt ook de horecabestemming van het pand. Op die manier kunnen deze panden niet worden omgezet in reguliere horecabestemmingen. In het plangebied komt alleen de Posthoornkerk in aanmerking voor horeca 6 (culturele horeca) 6.9.2 Ontwikkeling Horeca 6 is een nieuwe horecacategorie in het plangebied. 6.9.3 Uitgangspunten Culturele horeca, aangeduid als"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": " exploitatieplan op te stellen. Hoofdstuk 14 Inspraak Over het concept-ontwerpbestemmingplan is op 10 december 2013, overeenkomstig de gemeentelijke inspraakverordening, in de Posthoornkerk aan de Haarlemmerstraat een inspraakbijeenkomst gehouden. Voorafgaand aan de inspraakbijeenkomst heeft het plan vanaf 26 november 2013 zes weken ter inzage gelegen. Vanaf dat moment was het plan ook digitaal te raadplegen. Op de inspraakbijeenkomst waren 43 bewoners en anderen die betrokken zijn bij (delen van) het plangebied. Een aantal aanwezigen heeft op de inspraakbijeenkomst e"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "rbuurt-Westelijke Eilanden ligt, vanwege de druk van hotels en andere horecavoorzieningen in dit gebied, geen mede- werking verleend wordt aan nieuwe hotelinitiatieven. 3. Culturele horeca in de Posthoornkerk Een van de inspraakreacties betreft de wens om bij de bestemming culturele horeca voor de Posthoornkerk rekening te houden met het woongenot van de buurtbewoners in verband met geluidsoverlast in de avonduren. Reactie: Met het opnemen van de âWro-ontheffingszone Horeca 6â voor de Posthoornkerk, wordt bevordert de horeca-activiteiten die daar nu al g"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": " wordt aan nieuwe hotelinitiatieven. 3. Culturele horeca in de Posthoornkerk Een van de inspraakreacties betreft de wens om bij de bestemming culturele horeca voor de Posthoornkerk rekening te houden met het woongenot van de buurtbewoners in verband met geluidsoverlast in de avonduren. Reactie: Met het opnemen van de âWro-ontheffingszone Horeca 6â voor de Posthoornkerk, wordt bevordert de horeca-activiteiten die daar nu al geÃ«xploiteerd worden, beter te reguleren. Horeca 6 is een nieuwe horecacategorie die culturele instellingen in staat stelt door midd"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "en van de inspraakreacties betreft de wens om bij de bestemming culturele horeca voor de Posthoornkerk rekening te houden met het woongenot van de buurtbewoners in verband met geluidsoverlast in de avonduren. Reactie: Met het opnemen van de âWro-ontheffingszone Horeca 6â voor de Posthoornkerk, wordt bevordert de horeca-activiteiten die daar nu al geÃ«xploiteerd worden, beter te reguleren. Horeca 6 is een nieuwe horecacategorie die culturele instellingen in staat stelt door middel van horeca-activiteiten hun culturele programmering overeind te houden. Voorwaarde daarbij is dat de Posthoornkerk in hoofdfunctie een culturele instelling is en blijft en dat de horeca-activiteiten daar onde"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "ornkerk, wordt bevordert de horeca-activiteiten die daar nu al geÃ«xploiteerd worden, beter te reguleren. Horeca 6 is een nieuwe horecacategorie die culturele instellingen in staat stelt door middel van horeca-activiteiten hun culturele programmering overeind te houden. Voorwaarde daarbij is dat de Posthoornkerk in hoofdfunctie een culturele instelling is en blijft en dat de horeca-activiteiten daar ondergeschikt aan blijven. Voordat wordt overgegaan tot exploitatie van Horeca 6 moet de Posthoornkerk eerst een omgevingsvergunning aanvragen voor ontheffing van het bestemmingsplan voor Horeca 6. Bij die aanvraag wordt afgewogen of de Posthoornkerk aan alle voorwaarden voor deze horecacategorie"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/t_NL.IMRO.0363.A1202BPSTD-VG01.html",
+     "tekst": "l van horeca-activiteiten hun culturele programmering overeind te houden. Voorwaarde daarbij is dat de Posthoornkerk in hoofdfunctie een culturele instelling is en blijft en dat de horeca-activiteiten daar ondergeschikt aan blijven. Voordat wordt overgegaan tot exploitatie van Horeca 6 moet de Posthoornkerk eerst een omgevingsvergunning aanvragen voor ontheffing van het bestemmingsplan voor Horeca 6. Bij die aanvraag wordt afgewogen of de Posthoornkerk aan alle voorwaarden voor deze horecacategorie voldoet. Daarbij wordt ook getoetst aan de gevolgen voor het woon- en leefklimaat die de exploitatie van deze horecacategorie met zich meebrengt. Indien deze aanvraag vergund wordt, moet een explo"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 1,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/b_NL.IMRO.0363.A1202BPSTD-VG01_tb6.pdf",
+   "bron": "plan NL.IMRO.0363.A1202BPSTD-VG01 (Haarlemmerbuurt/Westelijke eilanden): Bijlage 6 Verslag inspraakbijeenkomst [genoemd bij het adres: bijlage 6]",
+   "noemingen": 3,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "plan NL.IMRO.0363.A1202BPSTD-VG01 (Haarlemmerbuurt/Westelijke eilanden): Bijlage 6 Verslag inspraakbijeenkomst [genoemd bij het adres: bijlage 6]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\59e613ef5e5b09e7.pdf",
+   "pagina": 4,
+   "paginas": 7,
+   "score": 5.0,
+   "tekening": false,
+   "vectoren": 1,
+   "beelddekking": 0.0,
+   "woorden": [
+    "begane grond"
+   ],
+   "tekst": " 4 De verordening regelde door wie en onder welke voorwaarden een garage in het stadsdeel gebruikt mocht worden. Op grond van de verordening kon een vergunning worden afgegeven voor het in gebruik nemen van een garage. Tot het intrekken van de garageverordening was het gebruik van garages vergunning",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/b_NL.IMRO.0363.A1202BPSTD-VG01_tb6.pdf",
+   "png": "data/sources/posthoornkerk/sweep/59e613ef5e5b09e7-p4.png"
+  }
+ ],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/i_NL.IMRO.0363.A1202BPSTD-VG01_0066.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/i_NL.IMRO.0363.A1202BPSTD-VG01_0067.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1202BPSTD-VG01/i_NL.IMRO.0363.A1202BPSTD-VG01_0068.jpg"
+ ],
+ "duur_s": 4,
+ "pand_adressen": [
+  "Haarlemmer Houttuinen 47A",
+  "Haarlemmer Houttuinen 47B",
+  "Haarlemmer Houttuinen 47C",
+  "Haarlemmer Houttuinen 47D",
+  "Haarlemmerstraat 124A",
+  "Haarlemmerstraat 124B",
+  "Haarlemmerstraat 124C",
+  "Haarlemmerstraat 124D",
+  "Haarlemmerstraat 124E",
+  "Haarlemmerstraat 124F",
+  "Haarlemmerstraat 124G",
+  "Haarlemmerstraat 126"
+ ]
+}

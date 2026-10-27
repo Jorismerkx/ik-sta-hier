@@ -1,0 +1,2520 @@
+{
+ "id": "spijker-bar",
+ "naam": "Spijker Bar",
+ "adres": "Kerkstraat 4, 1017 GL Amsterdam",
+ "termen": [
+  "Kerkstraat 4",
+  "1017GL",
+  "1017 GL",
+  "Spijker Bar"
+ ],
+ "pand": "0363100012174663",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 11,
+  "openbaar": 11,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_95854",
+    "titel": "Kerkstraat 4",
+    "datum": "2009-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95854"
+   },
+   {
+    "dossier": "SA_95853",
+    "titel": "Kerkstraat 4 A - 4 C",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95853"
+   },
+   {
+    "dossier": "SA_31768",
+    "titel": "Kerkstraat 4 B",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31768"
+   },
+   {
+    "dossier": "SA_31753",
+    "titel": "Kerkstraat 4 A",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31753"
+   },
+   {
+    "dossier": "SA_31750",
+    "titel": "Kerkstraat 4 A - 4 C",
+    "datum": "1993-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31750"
+   },
+   {
+    "dossier": "SA_31727",
+    "titel": "Kerkstraat 4 A - 4 B",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31727"
+   },
+   {
+    "dossier": "SA_89749",
+    "titel": "Kerkstraat 4",
+    "datum": "1978-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_89749"
+   },
+   {
+    "dossier": "SA_89750",
+    "titel": "Kerkstraat 4",
+    "datum": "1978-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_89750"
+   },
+   {
+    "dossier": "SA_31722",
+    "titel": "Kerkstraat 4 A - 4 B",
+    "datum": "1977-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31722"
+   },
+   {
+    "dossier": "SA_31723",
+    "titel": "Kerkstraat 4 A - 4 B",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31723"
+   },
+   {
+    "dossier": "SA_31703",
+    "titel": "Kerkstraat 4",
+    "datum": "1918-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_31703"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 266,
+  "gezocht": [
+   "Kerkstraat 4",
+   "Kerkstraat 4A",
+   "Kerkstraat 4B",
+   "Kerkstraat 4C"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-472631",
+    "titel": "Kennisgeving besluit ontheffing carbidschieten op locatie Kerkstraat 4, 6661NS Elst",
+    "soort": "andere beschikking",
+    "datum": "2026-10-09",
+    "onderwerp": "Betreft: carbid schieten op 31 december 2026 op locatie Kerkstraat 4, 6661NS Elst, vergunning verleend op 7 oktober 2026 volgens reguliere voorbereidingsprocedure",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472631.html",
+    "zaak": "Rx.Mission zaak Z2026-01663"
+   },
+   {
+    "id": "gmb-2026-426444",
+    "titel": "Ontheffing voor het schenken van zwakalcoholhoudende dranken tijdens het evenement Tribute to MTV Unplugged op 17 oktober 2026 aan Grote Kerkstraat 4 te Culemborg",
+    "soort": "andere beschikking",
+    "datum": "2026-09-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-426444.html"
+   },
+   {
+    "id": "gmb-2026-385110",
+    "titel": "Toestemming voor het aanbieden en ontvangen van winterkleding in de periode 1 november 2026 t/m 30 november 2026 op het plein van de Grote of Barbarakerk aan Grote Kerkstraat 4 te Culemborg",
+    "soort": "andere beschikking",
+    "datum": "2026-08-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-385110.html"
+   },
+   {
+    "id": "wsb-2026-19303",
+    "titel": "Waterschap Rivierenland - verlenen omgevingsvergunning voor het verwijderen van een bestaande aanbouw en oprichten nieuwe aanbouw bij een regionale waterkering ter plaatse van Kerkstraat 4 te Meerkerk sectie A nummer 4192",
+    "soort": "andere vergunning",
+    "datum": "2026-07-22",
+    "onderwerp": "het verwijderen van een bestaande aanbouw en oprichten nieuwe aanbouw bij een regionale waterkering ter plaatse van Kerkstraat 4 te Meerkerk A 4192",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-19303.html",
+    "zaak": "335237"
+   },
+   {
+    "id": "gmb-2026-320981",
+    "titel": "verlenen Omgevingsvergunning,  het verbouwen van de woning , aan de Kerkstraat 4, 9651 AW Meeden, Z2026-001595",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-06",
+    "onderwerp": "Betreft:  Besluit op locatie Kerkstraat 4, 9651 AW Meeden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-320981.html",
+    "zaak": "Rx.Mission zaak Z2026-001595"
+   },
+   {
+    "id": "gmb-2026-314909",
+    "titel": "APV-ontheffing verleend voor sluitingstijd WK voetbal op 30 juni 2026 Kerkstraat 4, 5443AB Haps",
+    "soort": "andere beschikking",
+    "datum": "2026-07-02",
+    "onderwerp": "APV-ontheffing verleend voor sluitingstijd WK voetbal op 30 juni 2026 Kerkstraat 4, 5443AB Haps ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-314909.html",
+    "zaak": "Rx.Mission zaak Z2026-00004283"
+   },
+   {
+    "id": "gmb-2026-295581",
+    "titel": "Ontvangen aanvraag - aanvr. beschikking behandelen, Kerkstraat 4, Veendam. het verbouwen van een bestaand pand (winkels/appartementen) tot appartementencomplex",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Gemeente - aanvr. beschikking behandelen - het verbouwen van een bestaand pand (winkels/appartementen) tot appartementencomplex - Kerkstraat 4, Veendam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-295581.html",
+    "zaak": "OMG-2026-0220"
+   },
+   {
+    "id": "gmb-2026-284381",
+    "titel": "Aanvraag Omgevingsvergunning voor het verbouwen van de woning, aan Kerkstraat 4, 9651 AW Meeden",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-16",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4, 9651 AW Meeden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-284381.html",
+    "zaak": "Rx.Mission zaak Z2026-001595"
+   },
+   {
+    "id": "gmb-2026-255537",
+    "titel": "Besluit maatwerkvoorschriften voor het lozen van vethoudend afvalwater met een kleinere vetafscheider aan Kerkstraat 4a Zandvoort",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-255537.html",
+    "zaak": "ODIJ-Z-26-177761"
+   },
+   {
+    "id": "gmb-2026-242575",
+    "titel": "Toestemming voor het plaatsen van een dakkapel aan Kerkstraat 4 te Beesd",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-242575.html",
+    "zaak": "ODR2604153"
+   },
+   {
+    "id": "gmb-2026-166375",
+    "titel": "Kennisgeving aanvraag omgevingsvergunning voor het wijzigen van het gebruik wonen naar wonen met zorg, Kerkstraat 4, 6 en 77 in Wognum",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-09",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-166375.html",
+    "zaak": "CLZ-00000373"
+   },
+   {
+    "id": "gmb-2026-148358",
+    "titel": "Aanvraag vergunning voor het plaatsen van een dakkapel aan Kerkstraat 4 te Beesd",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-31",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-148358.html",
+    "zaak": "ODR2604153"
+   },
+   {
+    "id": "gmb-2026-92925",
+    "titel": "Verlenging beslistermijn voor het formaliseren van een serre en dakterras met luifel aan Kerkstraat 4 te Montfort",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-03",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-92925.html"
+   },
+   {
+    "id": "wsb-2026-4445",
+    "titel": "Waterschap Rivierenland - verlenen omgevingsvergunning voor het plaatsen van een overkapping in het boezemgebied van de Alblasserwaard t.p.v. Kerkstraat 4 te Bleskensgraaf",
+    "soort": "andere vergunning",
+    "datum": "2026-02-23",
+    "onderwerp": "het plaatsen van een overkapping in het boezemgebied van de Alblasserwaard t.p.v. Kerkstraat 4 te Bleskensgraaf",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-4445.html",
+    "zaak": "321600"
+   },
+   {
+    "id": "gmb-2026-64586",
+    "titel": "Korte Kerkstraat 4 A, Nuland, Ontwerpbeschikking, Omgevingsvergunning, het realiseren van een woongebouw met 6 woningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-64586.html",
+    "zaak": "079615913858"
+   },
+   {
+    "id": "gmb-2026-45773",
+    "titel": "Aanvraag omgevingsvergunning voor renovatie dak, Kerkstraat 4, 5981CG Panningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-02",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4, 5981CG Panningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-45773.html",
+    "zaak": "Rx.Mission zaak Z2026-00000281"
+   },
+   {
+    "id": "gmb-2026-44284",
+    "titel": "Ingediende aanvraag om een omgevingsvergunning, Kerkstraat 4, 5165 CG Waspik",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-02",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-44284.html",
+    "zaak": "WWK-2026-016214"
+   },
+   {
+    "id": "wsb-2026-1823",
+    "titel": "Waterschap Rivierenland - aanvraag omgevingsvergunning voor het plaatsen van een overkapping in de tuin ter plaatse van Kerkstraat 4 te Bleskensgraaf",
+    "soort": "andere beschikking",
+    "datum": "2026-01-27",
+    "onderwerp": "het plaatsen van een overkapping in de tuin ter plaatse van Kerkstraat 4 te Bleskensgraaf",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-1823.html"
+   },
+   {
+    "id": "gmb-2025-457711",
+    "titel": "RECTIFICATIE Kennisgeving besluit Hogere grenswaarde , Kersktraat 4, 4A en 4C 6267ED Cadier en Keer Kerkstraat 4, 6267ED Cadier en Keer (CDR00) B 1425",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-22",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4, 6267ED Cadier en Keer (CDR00) B 1425",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-457711.html",
+    "zaak": "Rx.Mission zaak Z2024-00001086"
+   },
+   {
+    "id": "gmb-2025-453411",
+    "titel": "Ingekomen aanvraag voor het verbouwen van het pand na brand aan Kleine Kerkstraat 4 a, 8601 CN Sneek",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-453411.html",
+    "zaak": "CLZ-00106585"
+   },
+   {
+    "id": "gmb-2025-444054",
+    "titel": "Kennisgeving besluit Hogere grenswaarde, Kerkstraat 4, 4A en 4C 6267ED Cadier en Keer (CDR00) B 1425",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-15",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4, 6267ED Cadier en Keer (CDR00) B 1425",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-444054.html",
+    "zaak": "Rx.Mission zaak Z2024-00001086"
+   },
+   {
+    "id": "gmb-2025-414900",
+    "titel": "omgevingsvergunning verleend voor het realiseren van een trimsalon in de garage Kerkstraat 4, 5445AD Landhorst",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-25",
+    "onderwerp": "omgevingsvergunning verleend voor het realiseren van een trimsalon in de garage Kerkstraat 4, 5445AD Landhorst ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-414900.html",
+    "zaak": "Rx.Mission zaak Z2025-00006799"
+   },
+   {
+    "id": "gmb-2025-407196",
+    "titel": "Aanvraag omgevingsvergunning voor het realiseren van een trimsalon in de garage Kerkstraat 4, 5445AD Landhorst",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-19",
+    "onderwerp": "Aanvraag omgevingsvergunning voor het realiseren van een trimsalon in de garage Kerkstraat 4, 5445AD Landhorst",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-407196.html",
+    "zaak": "Rx.Mission zaak Z2025-00006799"
+   },
+   {
+    "id": "gmb-2025-381263",
+    "titel": "Gemeente Stichtse Vecht - Aanvraag omgevingsvergunning ingetrokken Kerkstraat 4b, 3632EL Loenen aan de Vecht - het plaatsen van dubbelglas en het bewerken van sponningen en kozijnen",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-03",
+    "onderwerp": "Betreft: Verzoek ingetrokken op locatie Kerkstraat 4b, 3632EL Loenen aan de Vecht",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-381263.html",
+    "zaak": "Rx.Mission zaak Z2025-00001621"
+   },
+   {
+    "id": "wsb-2025-20965",
+    "titel": "Verleende omgevingsvergunning wateractiviteit voor het vervangen van een huisaansluiting waterleiding binnen de beschermingszone van de primaire waterkering aan de kerkstraat 4b in Pannerden.",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-01",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2025-20965.html"
+   },
+   {
+    "id": "gmb-2025-360522",
+    "titel": "Ontvangst melding: Melding sloopactiviteit - Kerkstraat 4, 9801 CN Zuidhorn",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-18",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-360522.html"
+   },
+   {
+    "id": "gmb-2025-355943",
+    "titel": "Lange Kerkstraat 4, 4461JH Goes - Besluit op aanvraag Vergunning obstakels op openbare weg voor het plaatsen van een container op 18 augustus 2025",
+    "soort": "andere beschikking",
+    "datum": "2025-08-14",
+    "onderwerp": "Lange Kerkstraat 4, 4461JH Goes - Besluit op aanvraag Vergunning obstakels op openbare weg voor het plaatsen van een container op 18 augustus 2025",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-355943.html",
+    "zaak": "Rx.Mission zaak Z2025-00002021"
+   },
+   {
+    "id": "gmb-2025-354642",
+    "titel": "Gemeente Stichtse Vecht - ontvangst Aanvraag omgevingsvergunning Kerkstraat 4b, 3632EL Loenen aan de Vecht - het plaatsen van dubbelglas en het bewerken van sponningen en kozijnen",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-13",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4b, 3632EL Loenen aan de Vecht",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-354642.html",
+    "zaak": "Rx.Mission zaak Z2025-00001621"
+   },
+   {
+    "id": "gmb-2025-298504",
+    "titel": "Besluit voor het organiseren van de Open Monumentendag Bronckhorst op 13 en 14 september 2025 aan de Kerkstraat 4, 7251BC Vorden",
+    "soort": "andere beschikking",
+    "datum": "2025-07-09",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4, 7251BC Vorden",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-298504.html",
+    "zaak": "Rx.Mission zaak Z2025-2248"
+   },
+   {
+    "id": "gmb-2025-285352",
+    "titel": "Verleende omgevingsvergunning, het realiseren van een dakopbouw en dakterras, Kerkstraat 4 te Scherpenisse",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-01",
+    "onderwerp": "Verleende omgevingsvergunning, het realiseren van een dakopbouw en dakterras, Kerkstraat 4 te Scherpenisse",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-285352.html",
+    "zaak": "Rx.Mission zaak Z2025-00000549"
+   },
+   {
+    "id": "gmb-2025-179138",
+    "titel": "Aanvraag omgevingsvergunning, het realiseren van een dakopbouw en dakterras, Kerkstraat 4 te Scherpenisse",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-24",
+    "onderwerp": "Aanvraag omgevingsvergunning, het realiseren van een dakopbouw en dakterras, Kerkstraat 4 te Scherpenisse",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-179138.html",
+    "zaak": "Rx.Mission zaak Z2025-00000549"
+   },
+   {
+    "id": "gmb-2025-106520",
+    "titel": "Ingekomen aanvraag omgevingsvergunning Kerkstraat 4, 4231 BX Meerkerk",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-106520.html",
+    "zaak": "OVR-2025-007166"
+   },
+   {
+    "id": "gmb-2025-54274",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning, Kerkstraat 4 in  Ulft",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-10",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4 in  Ulft",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-54274.html",
+    "zaak": "Rx.Mission zaak Z2025-00021"
+   },
+   {
+    "id": "gmb-2025-11707",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning, Kerkstraat 4 in  Ulft",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-13",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4 in  Ulft",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-11707.html",
+    "zaak": "Rx.Mission zaak Z2025-00021"
+   },
+   {
+    "id": "gmb-2025-10380",
+    "titel": "Kennisgeving besluit Ontheffing carbidschieten op locatie Kerkstraat 4, 6661NS Elst",
+    "soort": "andere beschikking",
+    "datum": "2025-01-10",
+    "onderwerp": "Betreft: het carbidschieten op 31 december 2025 op locatie Kerkstraat 4, 6661NS Elst, vergunning verleend op 8 januari 2025 volgens reguliere voorbereidingsprocedure",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-10380.html",
+    "zaak": "Rx.Mission zaak Z2025-00016"
+   },
+   {
+    "id": "gmb-2024-449477",
+    "titel": "Ontwerpbesluit voor het handelen met gevolgen voor beschermde monumenten aan Grote Kerkstraat 4 te Culemborg",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-25",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-449477.html",
+    "zaak": "2024899 ODR2316464 "
+   },
+   {
+    "id": "gmb-2024-443516",
+    "titel": "Besluit op omgevingsvergunning, Kerkstraat 4,6 en 8 in Kantens",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-21",
+    "onderwerp": "het verduurzamen van 3 woningen, Kerkstraat 4,6 en 8 in Kantens (12 december 2024)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-443516.html",
+    "zaak": "Rx.Mission zaak Z2024-00002374"
+   },
+   {
+    "id": "gmb-2024-427503",
+    "titel": "Verleende omgevingsvergunning, het wijzigen van de gevel en het plaatsen van een overkapping (legalisatie), Kerkstraat 4, 9401 GW Assen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-10",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-427503.html",
+    "zaak": "CLZ-00001723"
+   },
+   {
+    "id": "gmb-2024-407134",
+    "titel": "Kennisgeving definitief besluit omgevingsvergunning reguliere procedure (verleend), het splitsen van de woning, Helper Kerkstraat 2, 9722 ET Groningen, Helper Kerkstraat 4, 9722 ET Groningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-25",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-407134.html",
+    "zaak": "GRN-00004568"
+   },
+   {
+    "id": "gmb-2024-352036",
+    "titel": "Kennisgeving ontwerpbesluit Hogere grenswaarden, Kerkstraat 4, 6267ED Cadier en Keer (CDR00) B 1425",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-14",
+    "onderwerp": "Betreft: Ontwerpbesluit op locatie Kerkstraat 4, 6267ED Cadier en Keer (CDR00) B 1425",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-352036.html",
+    "zaak": "Rx.Mission zaak Z2024-00001086"
+   },
+   {
+    "id": "gmb-2024-354058",
+    "titel": "Kennisgeving ontwerpbesluit op aanvraag beschikking, Kerkstraat 4, 6267ED Cadier en Keer",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-14",
+    "onderwerp": "Betreft: Ontwerpbesluit op locatie Kerkstraat 4, 6267ED Cadier en Keer",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-354058.html",
+    "zaak": "Rx.Mission zaak 2022-014175"
+   },
+   {
+    "id": "gmb-2024-338759",
+    "titel": "Ontvangst aanvraag omgevingsvergunning, Kerkstraat 4,6 en 8 in Kantens",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-01",
+    "onderwerp": "het verduurzamen van 3 woningen, Kerkstraat 4,6 en 8 in Kantens (30 juli 2024)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-338759.html",
+    "zaak": "Rx.Mission zaak Z2024-00002374"
+   },
+   {
+    "id": "gmb-2024-337806",
+    "titel": "Aanvraag omgevingsvergunning, het wijzigen van de gevel en het plaatsen van een overkapping (legalisatie), Kerkstraat 4, 9401 GW Assen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-01",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-337806.html",
+    "zaak": "CLZ-00001723"
+   },
+   {
+    "id": "gmb-2024-276818",
+    "titel": "Verleende omgevingsvergunning, het wijzigen van de gevel en het legaliseren van een overkapping, Kerkstraat 4, 9401 GW Assen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276818.html",
+    "zaak": "CLZ-00000982"
+   },
+   {
+    "id": "gmb-2024-229798",
+    "titel": "Kennisgeving besluit op omgevingsvergunning regulier (Vrijgesteld), Kerkstraat 4a, Guttecoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-28",
+    "onderwerp": "Betreft : beschikking op aanvraag op locatie Kerkstraat 4a, Guttecoven",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-229798.html",
+    "zaak": "Rx.Mission zaak 2024-00000758"
+   },
+   {
+    "id": "gmb-2024-190046",
+    "titel": "Aanvraag omgevingsvergunning, het wijzigen van de gevel en het legaliseren van een overkapping, Kerkstraat 4, 9401 GW Assen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-30",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-190046.html",
+    "zaak": "CLZ-00000982"
+   },
+   {
+    "id": "gmb-2024-174462",
+    "titel": "Kennisgeving ontvangst aanleggen van een hellingbaan bij 't Tuurhoes, Kerkstraat 4a, Guttecoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "Betreft : aanvraag op locatie Kerkstraat 4a, Guttecoven",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174462.html",
+    "zaak": "Rx.Mission zaak 2024-00000758"
+   },
+   {
+    "id": "gmb-2024-159389",
+    "titel": "Aanvraag vergunning voor het realiseren van een dakkapel voor trapopgang aan Nieuwe Kerkstraat 4 te Maassluis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-159389.html"
+   },
+   {
+    "id": "gmb-2024-26033",
+    "titel": "Kerkstraat 4, 1211 CN Hilversum (plaatsen afzuig/afvoer kanaal naar daklijn); CLZ-00008504; 11-01-2024; Status: Aanvraag ontvangen, gemeente Hilversum",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-15",
+    "onderwerp": "De volgende aanvraag omgevingsvergunning is binnengekomen.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-26033.html",
+    "zaak": "CLZ-00008504"
+   },
+   {
+    "id": "gmb-2024-14595",
+    "titel": "Aanvraag vergunning voor het herbestemmen van de Andreaskerk naar 18 woningen aan Kerkstraat 4 te Melick",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-09",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-14595.html"
+   },
+   {
+    "id": "gmb-2024-4179",
+    "titel": "Korte Kerkstraat 4a, nuland, omgevingsvergunning, het realiseren van een woongebouw met 6 woningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-05",
+    "onderwerp": "Projectomschrijving: Het betreft de nieuwbouw van een woongebouw met 6 woningen., Toelichting: Het plan is reeds behandeld door de afdeling stedenbouw en de welstandscommissie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-4179.html",
+    "zaak": "079615794161"
+   },
+   {
+    "id": "gmb-2023-527608",
+    "titel": "Omgevingsvergunning aangevraagd, Kerkstraat 4 en 5 in Buren",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-12",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-527608.html",
+    "zaak": "ODR2315085"
+   },
+   {
+    "id": "gmb-2023-523721",
+    "titel": "Aanvraag omgevingsvergunning,het plaatsen van zonnepanelen, Kerkstraat 4 7412XM Deventer, [DVT00B07876] Deventer B 7876",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-07",
+    "onderwerp": "het plaatsen van zonnepanelen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-523721.html",
+    "zaak": "Z2023-00012125"
+   },
+   {
+    "id": "gmb-2023-500255",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning: Kerkstraat 4 te Pannerden, het realiseren van 7 appartementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-23",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-500255.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2023-474621",
+    "titel": "Kerkstraat 4, 1211 CN Hilversum (plaatsen gevelreclame); CLZ-00007603; 03-11-2023; Status: Aanvraag ontvangen, gemeente Hilversum",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-08",
+    "onderwerp": "De volgende aanvraag omgevingsvergunning is binnengekomen.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-474621.html",
+    "zaak": "CLZ-00007603"
+   },
+   {
+    "id": "gmb-2023-414798",
+    "titel": "Ingediende aanvraag voor een omgevingsvergunning Oude Kerkstraat 4",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-04",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-414798.html"
+   },
+   {
+    "id": "gmb-2023-418403",
+    "titel": "Aanvraag omgevingsvergunning reguliere procedure voor de activiteiten ‘Bouwen’ en ‘Handelen in strijd met regels ruimtelijke ordening’ op de locatie Kleine Kerkstraat 4a te Steenbergen.",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-02",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-418403.html",
+    "zaak": "ZK23004296"
+   },
+   {
+    "id": "gmb-2023-403590",
+    "titel": "Aanvraag vergunning voor Stubefest 2023, Kerkstraat 4, 6367JE Voerendaal",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-20",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4, 6367JE Voerendaal",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-403590.html",
+    "zaak": "Rx.Mission zaak Z2023-00000332"
+   },
+   {
+    "id": "gmb-2023-320197",
+    "titel": "Melding asbest verwijderen schuurtje, Kerkstraat 4, 5981CG Panningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-20",
+    "onderwerp": "Betreft: Melding op locatie Kerkstraat 4, 5981CG Panningen",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-320197.html",
+    "zaak": "Aangemaakt vanuit Rx.Mission"
+   },
+   {
+    "id": "gmb-2023-298379",
+    "titel": "Kerkstraat 4, 1211 CN Hilversum (wijzigen winkelpui); CLZ-00005400; 05-07-2023; Status: Verlenging beslistermijn, gemeente Hilversum",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-07",
+    "onderwerp": "De beslistermijn van de aanvraag is met zes weken verlengd.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-298379.html",
+    "zaak": "CLZ-00005400"
+   },
+   {
+    "id": "gmb-2023-207892",
+    "titel": "Kerkstraat 4, 1211 CN Hilversum (wijzigen winkelpui); CLZ-00005400; 09-05-2023; Status: Aanvraag ontvangen, gemeente Hilversum",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-11",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-207892.html"
+   },
+   {
+    "id": "gmb-2023-178715",
+    "titel": "Besluit aanvraag omgevingsvergunning voor het intern verbouwen van de woning op het perceel Kerkstraat 4, 1687AR Wognum (reguliere voorbereidingsprocedure)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-24",
+    "onderwerp": "Betreft: Besluit op locatie Kerkstraat 4, 1687AR Wognum",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-178715.html"
+   },
+   {
+    "id": "gmb-2023-131294",
+    "titel": "Kennisgeving ontvangst aanvraag intern verbouwen van de woning, Kerkstraat 4, 1687AR Wognum",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-27",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4, 1687AR Wognum",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-131294.html"
+   },
+   {
+    "id": "gmb-2023-93265",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning, Kerkstraat 4 en 6, 6585AV Mook",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-03",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Kerkstraat 4, 6585AV Mook",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-93265.html"
+   },
+   {
+    "id": "gmb-2023-42504",
+    "titel": "Kennisgeving besluit op aanvraag beschikking behandelen, Kerkstraat 4, 4931AR Geertruidenberg",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-01",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Kerkstraat 4, 4931AR Geertruidenberg",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-42504.html"
+   },
+   {
+    "id": "gmb-2023-20390",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking behandelen, Kerkstraat 4, 4931AR Geertruidenberg",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-25",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 4931AR Geertruidenberg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-20390.html"
+   },
+   {
+    "id": "gmb-2023-25538",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning, Kerkstraat 4, 6585AV Mook",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-19",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 6585AV Mook",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-25538.html"
+   },
+   {
+    "id": "gmb-2022-481523",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking, Kerkstraat 4, 4931AR Geertruidenberg",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-02",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 4931AR Geertruidenberg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-481523.html"
+   },
+   {
+    "id": "gmb-2022-477324",
+    "titel": "Ingediende aanvraag omgevingsvergunning Kerkstraat 4 5595CX Leende",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-26",
+    "onderwerp": "het vernieuwen van een bedrijfspand en het verbouw van woning ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-477324.html"
+   },
+   {
+    "id": "gmb-2022-184272",
+    "titel": "Verlenging beslistermijn aanvraag omgevingsvergunning Kerkstraat 4 en 6 Niftrik",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-26",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-184272.html"
+   },
+   {
+    "id": "gmb-2022-131391",
+    "titel": "Aanvraag vergunning voor het realiseren van een aanbouw aan woning aan Korte Kerkstraat 4 te Beverwijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-24",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-131391.html"
+   },
+   {
+    "id": "gmb-2022-129151",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking, Kerkstraat 4, 6267ED Cadier en Keer",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 6267ED Cadier en Keer",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-129151.html"
+   },
+   {
+    "id": "gmb-2022-94341",
+    "titel": "Kennisgeving ontvangst sloopmelding Kerkstraat 4 in 's-Gravendeel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-03",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-94341.html"
+   },
+   {
+    "id": "gmb-2022-72002",
+    "titel": "Kennisgeving besluit op aanvraag beschikking, Kerkstraat 4 en 6, 4931AR Geertruidenberg",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-23",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Kerkstraat 4 en 6, 4931AR Geertruidenberg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-72002.html"
+   },
+   {
+    "id": "gmb-2022-79433",
+    "titel": "Gemeente Nissewaard - Aanvraag omgevingsvergunning het wijzigen van de gevel van het monument, Kerkstraat 4, Geervliet",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-23",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-79433.html"
+   },
+   {
+    "id": "gmb-2022-48828",
+    "titel": "Kennisgeving ontvangst aanvraag beschikking, Kerkstraat 4 en 6, 4931AR Geertruidenberg",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-09",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 4931AR Geertruidenberg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-48828.html"
+   },
+   {
+    "id": "gmb-2021-420751",
+    "titel": "Gemeente Bergen, ontvangen aanvraag Omgevingsvergunning, Kerkstraat 4 in Bergen (NH), het wijzigen van de kozijnindeling, datum ontvangst 16 november 2021 (WABO2102185)",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-26",
+    "onderwerp": "Aanvraag; Kerkstraat 4 in Bergen (NH), het wijzigen van de kozijnindeling, datum ontvangst 16 november 2021 (WABO2102185) ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-420751.html"
+   },
+   {
+    "id": "gmb-2021-385562",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Kerkstraat 4, 6367 JE Voerendaal",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-01",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 6367 JE Voerendaal",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-385562.html"
+   },
+   {
+    "id": "gmb-2021-342182",
+    "titel": "Toestemming voor het plaatsen van zonnepanelen aan Kleine Kerkstraat 4 te Harlingen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-04",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-342182.html"
+   },
+   {
+    "id": "gmb-2021-294398",
+    "titel": "Aanvraag omgevingsvergunning, het plaatsen van handelsreclame, District Oost Breda, Kerkstraat 4 4854CE Bavel",
+    "soort": "andere beschikking",
+    "datum": "2021-08-30",
+    "onderwerp": "het plaatsen van handelsreclame",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-294398.html"
+   },
+   {
+    "id": "gmb-2021-262658",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Kerkstraat 4 in Sweikhuizen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-262658.html"
+   },
+   {
+    "id": "gmb-2021-249653",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Kerkstraat 4 te Valburg",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-249653.html"
+   },
+   {
+    "id": "gmb-2021-227983",
+    "titel": "Aanvraag omgevingsvergunning voor verbouwen en uitbreiding van de bestaande woning, Kerkstraat 4, 6092NE Leveroy",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-15",
+    "onderwerp": "Betreft: aanvraag op locatie Kerkstraat 4, 6092NE Leveroy",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-227983.html"
+   },
+   {
+    "id": "gmb-2021-203105",
+    "titel": "Gemeente Losser - ingediende sloopmelding - verwijderen van asbesthoudende materialen uit de kelder van een voormalige school - Kerkstraat 4, Losser",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-203105.html"
+   },
+   {
+    "id": "gmb-2021-190119",
+    "titel": "Gemeente Altena – Besluit verlenen omgevingsvergunning Woudrichem: Kerkstraat 4, 4285 BB",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-190119.html"
+   },
+   {
+    "id": "gmb-2021-171585",
+    "titel": "Gemeente Altena - Aanvraag omgevingsvergunning Woudrichem: Kerkstraat 4, 4285 BB",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-171585.html"
+   },
+   {
+    "id": "gmb-2021-161669",
+    "titel": "Gemeente Lingewaard - verlenging beslistermijn omgevingsvergunning - bouwen van een werkruimte op begraafplaats - Kerkstraat 4, Angeren",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-161669.html"
+   },
+   {
+    "id": "gmb-2021-100977",
+    "titel": "Apv vergunning - Besluiten, Kerkstraat 4 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-01",
+    "onderwerp": "Het plaatsen van een bouwkeet ter hoogte van Kerkstraat 4 in Den Haag. De aanvraag is ingediend voor de periode van 31 maart 2021 tot en met 30 september 2021.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-100977.html"
+   },
+   {
+    "id": "gmb-2021-74610",
+    "titel": "Gemeente Bergen, rectificatie was verleende nieuwe aanvraag Drank- en horecavergunning commercieel, terrasvergunning, aanwezigheidsvergunning en exploitatievergunning; wordt verleende  nieuwe aanvraag Drank- en horecavergunning commercieel, aanwezigheidsvergunning en exploitatievergunningTapperij de Heerlijkheid Kerkstraat 4 in Bergen (NH) verzenddatum 18 februari 2021 (HORECA200080)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-19",
+    "onderwerp": "Horeca; verleend Horeca Kerkstraat 4 in Bergen (NH), nieuwe aanvraag Drank- en horecavergunning commercieel, aanwezigheidsvergunning en exploitatievergunningTapperij de Heerlijkheid, verzenddatum 18 februari 2021 (HORECA200080)",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-74610.html"
+   },
+   {
+    "id": "gmb-2021-70556",
+    "titel": "Gemeente Lingewaard – aanvraag omgevingsvergunning - bouwen van een werkruimte op begraafplaats - Kerkstraat 4, Angeren",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-70556.html"
+   },
+   {
+    "id": "gmb-2021-73121",
+    "titel": "Kerkstraat 4  te Oudemirdum: aanvraag vergunning plaatsen van een houten carport (OV 20210164)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-73121.html"
+   },
+   {
+    "id": "gmb-2021-53180",
+    "titel": "Gemeente Bergen, verleende  nieuwe aanvraag Drank- en horecavergunning commercieel, terrasvergunning, aanwezigheidsvergunning en exploitatievergunning Tapperij de Heerlijkheid Kerkstraat 4 in Bergen (NH) verzenddatum 18 februari 2021 (HORECA200080)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-05",
+    "onderwerp": "Horeca; verleend Horeca Kerkstraat 4 in Bergen (NH), nieuwe aanvraag Drank- en horecavergunning commercieel, terrasvergunning, aanwezigheidsvergunning en exploitatievergunningTapperij de Heerlijkheid, verzenddatum 18 februari 2021 (HORECA200080)",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-53180.html"
+   },
+   {
+    "id": "gmb-2020-278568",
+    "titel": "Gemeente Baarn aanvraag omgevingsvergunning Kerkstraat 4 te Baarn",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-278568.html"
+   },
+   {
+    "id": "gmb-2020-263310",
+    "titel": "Aanvraag omgevingsvergunning: Kerkstraat 4a, 9745 CJ Groningen – wijzigen wonen met zorg (onzelfstandig) naar zelfstandig wonen (Kerkstraat 4-4a) (ontvangstdatum 03-09-2020, dossiernummer 202075339)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-263310.html"
+   },
+   {
+    "id": "gmb-2020-236817",
+    "titel": "Verleende omgevingsvergunning Oude Kerkstraat 4A",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-236817.html"
+   },
+   {
+    "id": "gmb-2020-230322",
+    "titel": "Gemeente Baarn besluit omgevingsvergunning Kerkstraat 4 te Baarn",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-09-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-230322.html"
+   },
+   {
+    "id": "gmb-2020-209019",
+    "titel": "Gemeente Baarn verlengen beslistermijn omgevingsvergunning Kerkstraat 4 te Baarn",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-209019.html"
+   },
+   {
+    "id": "gmb-2020-203538",
+    "titel": "Aangevraagde omgevingsvergunning Kerkstraat 4 Gorssel",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-203538.html"
+   },
+   {
+    "id": "gmb-2020-198826",
+    "titel": "Gemeente Alphen aan den Rijn - aanvraag omgevingsvergunning: het aanbrengen van een reclame uiting, Kerkstraat 4 te Alphen aan den Rijn, V2020/640",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-198826.html"
+   },
+   {
+    "id": "gmb-2020-176579",
+    "titel": "verleende omgevingsvergunning  reguliere voorbereidingsprocedure  - Kerkstraat 4 te Tegelen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-176579.html"
+   },
+   {
+    "id": "gmb-2020-174377",
+    "titel": "Gemeente Waterland - aanvraag omgevingsvergunning - plaatsen van zonnepanelen op het dak van de woning en schuur - Kerkstraat 4, Monnickendam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-174377.html"
+   },
+   {
+    "id": "gmb-2020-166860",
+    "titel": "Ingediende aanvraag voor een omgevingsvergunning Oude Kerkstraat 4",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-166860.html"
+   },
+   {
+    "id": "gmb-2020-162422",
+    "titel": "Gemeente Baarn aanvraag omgevingsvergunning Kerkstraat 4 te Baarn",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-06-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-162422.html"
+   },
+   {
+    "id": "gmb-2020-154602",
+    "titel": "Ontvangen aanvraag om een omgevingsvergunning- Kerkstraat 4 te Tegelen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-06-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-154602.html"
+   },
+   {
+    "id": "gmb-2020-130275",
+    "titel": "Verleende omgevingsvergunning, aanbrengen 3 markiezen aan voorgevelpand, Kerkstraat 4 (zaaknummer Z2020-00004905)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-05-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-130275.html"
+   },
+   {
+    "id": "gmb-2020-127474",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Kerkstraat 4 10 te Schijndel",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-05-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-127474.html"
+   },
+   {
+    "id": "gmb-2020-126040",
+    "titel": "Gemeente Alphen aan den Rijn - verleende omgevingsvergunning: het afwijken van het bestemmingsplan voor kamerverhuur, Kerkstraat 4 te Boskoop, V2020/219",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-05-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-126040.html"
+   },
+   {
+    "id": "gmb-2020-122962",
+    "titel": "Verleende omgevingsvergunning kappen 2 bomen, Kerkstraat 4a, Dodewaard",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-05-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-122962.html"
+   },
+   {
+    "id": "gmb-2020-105382",
+    "titel": "Aangevraagde omgevingsvergunning kappen bomen, Kerkstraat 4a, Dodewaard",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-04-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-105382.html"
+   },
+   {
+    "id": "gmb-2020-99356",
+    "titel": "Aanvraag Omgevingsvergunning, aanbrengen 3 markiezen aan voorgevel, Kerkstraat 4 (zaaknummer Z2020-00004905)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-04-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-99356.html"
+   },
+   {
+    "id": "gmb-2020-90156",
+    "titel": "Gemeente Borne - verlening omgevingsvergunning - vergroten van een bijeenkomstgebouw - Potkampstraat 11 en Oude Kerkstraat 4, Borne",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-04-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-90156.html"
+   },
+   {
+    "id": "gmb-2020-77501",
+    "titel": "Gemeente Alphen aan den Rijn - aanvraag omgevingsvergunning: het afwijken van het bestemmingsplan ten behoeve van kamervehuur, Kerkstraat 4 te Boskoop, V2020/219",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-03-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-77501.html"
+   },
+   {
+    "id": "gmb-2020-71444",
+    "titel": "Ingekomen aanvraag omgevingsvergunning vervangen lichtreclame, Kerkstraat 4, 6245 CB Eijsden",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-03-18",
+    "onderwerp": "vervangen van een lichtreclame voor een Fitness studio",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-71444.html"
+   },
+   {
+    "id": "gmb-2020-70364",
+    "titel": "Gemeente Lansingerland - verlening omgevingsvergunning - bouwen van een woning - naast Kerkstraat 4a, sectie C nummer 6974, Bleiswijk",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-03-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-70364.html"
+   },
+   {
+    "id": "gmb-2020-33936",
+    "titel": "Kennisgeving besluit op aanvraag Kerkstraat 4 te Sweikhuizen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-02-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-33936.html"
+   },
+   {
+    "id": "gmb-2020-27407",
+    "titel": "Nabij Kerkstraat 4b Horst, verleende vergunning op basis van de Algemene Plaatselijke Verordening (besluitdatum 30 januari 2020)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-02-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-27407.html"
+   },
+   {
+    "id": "prb-2020-191",
+    "titel": "Kennisgeving beschikking",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2020-01-15",
+    "onderwerp": "GS hebben ingestemd met het evaluatieverslag.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2020-191.html"
+   },
+   {
+    "id": "gmb-2019-306627",
+    "titel": "Aanvraag omgevingsvergunning, vergroten van een bijeenkomstgebouw, Potkampstraat 11 en Oude Kerkstraat 4, Borne",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-12-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-306627.html"
+   },
+   {
+    "id": "gmb-2019-298387",
+    "titel": "Kerkstraat 4a Horst, verleende vergunning op basis van de Algemene Plaatselijke Verordening (besluitdatum 5 december 2019)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-12-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-298387.html"
+   },
+   {
+    "id": "gmb-2019-293201",
+    "titel": "Aanvraag omgevingsvergunning, bouwen van een woning, naast Kerkstraat 4a, sectie C nummer 6974, Bleiswijk",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-12-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-293201.html"
+   },
+   {
+    "id": "gmb-2019-276489",
+    "titel": "Aanvraag omgevingsvergunning Kerkstraat 4, Voerendaal",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-11-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-276489.html"
+   },
+   {
+    "id": "gmb-2019-270532",
+    "titel": "Verleende omgevingsvergunning, gebruiken van een bedrijfswoning als burgerwoning, Kerkstraat 4, Echt",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-11-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-270532.html"
+   },
+   {
+    "id": "gmb-2019-254328",
+    "titel": "Bekendmaking verleende omgevingsvergunning Kerkstraat 4, Voerendaal",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-254328.html"
+   },
+   {
+    "id": "gmb-2019-242390",
+    "titel": "Kennisgeving ontvangst sloopmelding Kerkstraat 4- 6, 6a, 6b en 6c in Oldenzaal",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-10-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-242390.html"
+   },
+   {
+    "id": "gmb-2019-248583",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Kerkstraat 4 in Sweikhuizen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-248583.html"
+   },
+   {
+    "id": "gmb-2019-238225",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Kerkstraat 4 in Sweikhuizen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-10-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-238225.html"
+   },
+   {
+    "id": "gmb-2019-223208",
+    "titel": "Kennisgeving ontvangst sloopmelding Kerkstraat 4, 6, 6a, 6b en 6c in Oldenzaal",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-09-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-223208.html"
+   },
+   {
+    "id": "gmb-2019-213752",
+    "titel": "Kennisgeving ontvangst sloopmelding Kerkstraat 4, 6, 6a, 6b en 6c in Oldenzaal",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-09-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-213752.html"
+   },
+   {
+    "id": "gmb-2019-205310",
+    "titel": "Aanvraag omgevingsvergunning Kerkstraat 4 Voerendaal",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-08-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-205310.html"
+   },
+   {
+    "id": "gmb-2019-191352",
+    "titel": "Aanvraag omgevingsvergunning, gebruik van een bedrijfswoning als burgerwoning, Kerkstraat 4, Echt",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-08-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-191352.html"
+   },
+   {
+    "id": "gmb-2019-156015",
+    "titel": "Sloopmelding: Kerkstraat 4 te Haren, 9479 PK Groningen – het slopen ten behoeve van een te realiseren aanbouw (ontvangen 19-06-2019, dossiernummer 20190139H)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-06-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-156015.html"
+   },
+   {
+    "id": "gmb-2019-105993",
+    "titel": "Verleende omgevingsvergunning: Kerkstraat 4a, 9745 CJ Groningen – vergroten woning (verzenddatum 24-04-2019, dossiernummer 201970785)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-05-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-105993.html"
+   },
+   {
+    "id": "gmb-2019-94187",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Korte Kerkstraat 4 in Soest",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-04-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-94187.html"
+   },
+   {
+    "id": "gmb-2019-71327",
+    "titel": "Aanvraag omgevingsvergunning: Kerkstraat 4a, 9745 CJ Groningen – vergroten woning (ontvangstdatum 04-03-2019, dossiernummer 201970785)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-03-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-71327.html"
+   },
+   {
+    "id": "gmb-2019-65663",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Kerkstraat 4, 6, 6a, 6b, 6c, 6d, 6e en 6f in Oldenzaal",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-03-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-65663.html"
+   },
+   {
+    "id": "gmb-2019-44499",
+    "titel": "Verlenging beslistermijn aanvraag omgevingsvergunning Kerkstraat 4 te Batenburg",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-02-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-44499.html"
+   },
+   {
+    "id": "gmb-2019-38876",
+    "titel": "Kennisgeving verlenging beslistermijn omgevingsvergunning Kerkstraat 4, 6, 6a, 6b en 6c in Oldenzaal",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-02-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-38876.html"
+   },
+   {
+    "id": "gmb-2019-14372",
+    "titel": "Ontvangen aanvraag omgevingsvergunning Kerkstraat 4 te Batenburg",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-01-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-14372.html"
+   },
+   {
+    "id": "gmb-2019-3140",
+    "titel": "Berkel-Enschot, toegekend aanvraag voor een omgevingsvergunning Z-HZ_WABO-2018-04135 Molenstraat 1a t/m 1h, 1j en 1k en Kerkstraat 4a t/m 4g (voorheen St. Willibrordstr. 4/ Molenstr. sectie B 3921 en Kerkstr. nabij nr. 4) te Berkel-Enschot, bouwen van 17 sociale huurwoningen, verzonden 27 december 2018.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-01-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-3140.html"
+   },
+   {
+    "id": "gmb-2018-269440",
+    "titel": "Bekendmaking verleende omgevingsvergunning Kerkstraat 4 te Ubachsberg",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-269440.html"
+   },
+   {
+    "id": "gmb-2018-260793",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Kerkstraat 4, 6, 6a, 6b en 6c in Oldenzaal",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-12-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-260793.html"
+   },
+   {
+    "id": "gmb-2018-257830",
+    "titel": "Rectificatie i.v.m. locatie-adres (reeds eerder gepubliceerd op 19 november 2018) Z-HZ_WABO-2018-04135 Sint Willibrordstraat 4 en nabij Kerkstraat 4 BE. verzonden 29-11-2018",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-12-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-257830.html"
+   },
+   {
+    "id": "gmb-2018-209782",
+    "titel": "Kennisgeving verlengen beslistermijn reguliere procedure, Oude Kerkstraat 4",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-209782.html"
+   },
+   {
+    "id": "gmb-2018-206689",
+    "titel": "Gemeente Nissewaard - Aanvraag omgevingsvergunning, het monumentale bouwwerk voorzien van een glasvezelaansluiting, Kerkstraat 4, 3214 AJ Zuidland",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-206689.html"
+   },
+   {
+    "id": "gmb-2018-187340",
+    "titel": "verleende omgevingsvergunning (reguliere voorbereidingsprocedure) Kerkstraat 4a te Rheden",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-09-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-187340.html"
+   },
+   {
+    "id": "gmb-2018-176132",
+    "titel": "Berkel-Enschot, toegekend aanvraag voor Een omgevingsvergunning Z-HZ_WABO-2018-02813 Kerkstraat 4a te Berkel-Enschot, kappen van 1 boom( 93664194), verzonden 13 augustus 2018.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-08-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-176132.html"
+   },
+   {
+    "id": "gmb-2018-171561",
+    "titel": "Berkel-Enschot, ingekomen aanvraag voor een omgevingsvergunning Z-HZ_WABO-2018-02813 Kerkstraat 4a te Berkel-Enschot, kappen van 1 boom( 93664194), 1 augustus 2018",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-08-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-171561.html"
+   },
+   {
+    "id": "gmb-2018-160435",
+    "titel": "Aanvraag omgevingsvergunning Kerkstraat 4a te Rheden",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-08-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-160435.html"
+   },
+   {
+    "id": "gmb-2018-143909",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning, Sneek, Kleine Kerkstraat 4 a het wijzigen van de reclame",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-07-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-143909.html"
+   },
+   {
+    "id": "gmb-2018-125954",
+    "titel": "Verdaging beslissing aanvraag omgevingsvergunning, Sneek, Kleine Kerkstraat 4 a het wijzigen van de reclame",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-06-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-125954.html"
+   },
+   {
+    "id": "gmb-2018-93639",
+    "titel": "Ingekomen aanvraag, Sneek, Kleine Kerkstraat 4 a het wijzigen van de reclame",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-05-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-93639.html"
+   },
+   {
+    "id": "gmb-2018-70344",
+    "titel": "Bekendmaking vergunning/ontheffing jubileumweekend  Schutterij Sint Hubertus Ubachsberg 7 en 8 april 2018",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-04-05",
+    "onderwerp": "zaaknr. 43688/691",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-70344.html"
+   },
+   {
+    "id": "gmb-2018-69541",
+    "titel": "Verleende omgevingsvergunning Kerkstraat 4 te Panningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-04-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-69541.html"
+   },
+   {
+    "id": "gmb-2018-4236",
+    "titel": "Gemeente Goeree-Overflakkee - Ontvangen aanvraag omgevingsvergunning (activiteit bouwen) - Sommelsdijk, Kerkstraat 4: aanbrengen reclame/banner, ontvangstdatum: 22/12/17",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-01-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-4236.html"
+   },
+   {
+    "id": "gmb-2017-218098",
+    "titel": "Verleende omgevingsvergunning met uitgebreide procedure, Kerkstraat 4, 6 en 8 Ameide",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-12-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-218098.html"
+   },
+   {
+    "id": "gmb-2017-195729",
+    "titel": "Gemeente Baarn - verleende omgevingsvergunning Kerkstraat 4 Baarn",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-11-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-195729.html"
+   },
+   {
+    "id": "gmb-2017-194352",
+    "titel": "Aanvraag omgevingsvergunning: Kerkstraat 4, 9745 CJ Groningen – in gebruikname brandveiligheid (27-10-2017, 201772841)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-11-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-194352.html"
+   },
+   {
+    "id": "gmb-2017-142526",
+    "titel": "Aanvraag omgevingsvergunning: Kerkstraat 4, 9745 CJ Groningen – legaliseren appartementen. (27-06-2017, 201771712)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-08-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-142526.html"
+   },
+   {
+    "id": "gmb-2017-126937",
+    "titel": "Omgevingsvergunning - ontwerp ter inzage Kerkstraat 4 Ameide",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-126937.html"
+   },
+   {
+    "id": "gmb-2017-26265",
+    "titel": "Gemeente Haren - verleende omgevingsvergunning, activiteiten Bouw, Monument - Kerkstraat 4 te Haren Gn",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-02-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-26265.html"
+   },
+   {
+    "id": "gmb-2017-19599",
+    "titel": "Definitief besluit verleende omgevingsvergunning: Kerkstraat 4a, 22 en 26, 9745 CJ Groningen – begeleid wonen voor jongeren met verstandelijke beperking en/of gedragsproblematiek (24 uurs begeleiding) (30-01-2017, 201672436)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-02-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-19599.html"
+   },
+   {
+    "id": "gmb-2016-186144",
+    "titel": "Gemeente Sittard-Geleen - Omgevingsvergunning verleend; dossiernummer Om16.0456, Kerkstraat 4, 6151 CL Munstergeleen (reguliere voorbereidingsprocedure)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-12-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-186144.html"
+   },
+   {
+    "id": "gmb-2016-174792",
+    "titel": "Aanvraag omgevingsvergunning, verlenging termijn: Kerkstraat 4a, 22 en 26, 9745 CJ Groningen – begeleid wonen voor jongeren met verstandelijke beperking en/of gedragsproblematiek (24 uurs begeleiding) (18-09-2016, 201672436)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-12-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-174792.html"
+   },
+   {
+    "id": "gmb-2016-167837",
+    "titel": "Aanvraag omgevingsvergunning, Kerkstraat 4 Ameide",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-11-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-167837.html"
+   },
+   {
+    "id": "gmb-2016-162756",
+    "titel": "Aanvraag omgevingsvergunning: Kerkstraat 4a, 22 en 26, 9745 CJ Groningen – Begeleid wonen voor jongeren met een verstandelijke beperking en/of gedragsproblematiek (24 uur begeleiding) (18-09-2016, 201672436)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-11-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-162756.html"
+   },
+   {
+    "id": "gmb-2016-95179",
+    "titel": "Aanvraag omgevingsvergunning, Kerkstraat 4",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-07-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-95179.html"
+   },
+   {
+    "id": "gmb-2016-86724",
+    "titel": "Aanvraag omgevingsvergunning, Kerkstraat 4",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-06-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-86724.html"
+   },
+   {
+    "id": "gmb-2016-81421",
+    "titel": "Aanvraag omgevingsvergunning, Kerkstraat 4 Nieuwland",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-06-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-81421.html"
+   },
+   {
+    "id": "gmb-2016-60834",
+    "titel": "Geaccepteerde melding activiteitenbesluit, Kerkstraat 4 in Buren",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-05-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-60834.html"
+   },
+   {
+    "id": "gmb-2016-45399",
+    "titel": "Verleende omgevingsvergunning (reguliere voorbereidingsprocedure) Kerkstraat 4b te Velp",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-04-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-45399.html"
+   },
+   {
+    "id": "gmb-2016-37311",
+    "titel": "Aanvraag omgevingsvergunning Kerkstraat 4b te Velp",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-03-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-37311.html"
+   },
+   {
+    "id": "gmb-2016-32532",
+    "titel": "Aanvraag omgevingsvergunning, Kerkstraat 4",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-03-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-32532.html"
+   },
+   {
+    "id": "gmb-2016-15435",
+    "titel": "Verleende omgevingsvergunning (reguliere voorbereidingsprocedure) Kerkstraat 4a te Dieren",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-02-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-15435.html"
+   },
+   {
+    "id": "gmb-2016-8547",
+    "titel": "Aanvraag omgevingsvergunning Kerkstraat 4a te Dieren",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-8547.html"
+   },
+   {
+    "id": "gmb-2015-95241",
+    "titel": "Dokkum, Kerkstraat 4 en Gasthuisstraat 15, maken twee appartementen in pand (ontvangst omgevingsaanvraag)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-10-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-95241.html"
+   },
+   {
+    "id": "gmb-2015-76518",
+    "titel": "Omgevingsvergunning verleend regulier: Delft | Oude Kerkstraat 4A",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-08-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-76518.html"
+   },
+   {
+    "id": "gmb-2015-66527",
+    "titel": "Veere, Kerkstraat 4, verleende omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-07-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-66527.html"
+   },
+   {
+    "id": "gmb-2015-63614",
+    "titel": "Veere, Kerkstraat 4, aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-07-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-63614.html"
+   },
+   {
+    "id": "gmb-2015-51362",
+    "titel": "Omgevingsvergunning aangevraagd: Delft | Oude Kerkstraat 4A",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-06-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-51362.html"
+   },
+   {
+    "id": "gmb-2015-49895",
+    "titel": "Gemeente Leudal - Binnengekomen aanvraag APV vergunning – Kerkstraat 4 in Roggel (plaatsen podiumwagen en tapeiland)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-06-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-49895.html"
+   },
+   {
+    "id": "gmb-2015-32490",
+    "titel": "Gemeente Leudal - Binnengekomen aanvraag APV vergunning – Kerkstraat 4, 6088 EG Roggel (verruiming sluitingstijd)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-04-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-32490.html"
+   },
+   {
+    "id": "gmb-2014-45177",
+    "titel": "Veere, Kerkstraat 4, verleende omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2014-08-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-45177.html"
+   },
+   {
+    "id": "gmb-2014-33939",
+    "titel": "Aangevraagde omgevingsvergunning Kerkstraat 4",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2014-06-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-33939.html"
+   },
+   {
+    "id": "gmb-2014-32242",
+    "titel": "Veere, Kerkstraat 4, aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2014-06-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-32242.html"
+   },
+   {
+    "id": "gmb-2014-28167",
+    "titel": "Gemeente Leudal - Aanvraag omgevingsvergunning - Kerkstraat 4, 6088 EG Roggel (poort schuur vervangen door kozijn, verbouw tot winkelruimte)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2014-05-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-28167.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-295581",
+   "gmb-2026-284381",
+   "gmb-2026-166375",
+   "gmb-2026-148358",
+   "gmb-2026-45773",
+   "gmb-2026-44284",
+   "wsb-2026-1823",
+   "gmb-2025-453411",
+   "gmb-2025-407196",
+   "gmb-2025-381263",
+   "gmb-2025-354642",
+   "gmb-2025-179138",
+   "gmb-2025-106520",
+   "gmb-2025-54274",
+   "gmb-2025-11707",
+   "gmb-2024-443516",
+   "gmb-2024-407134",
+   "gmb-2024-338759",
+   "gmb-2024-337806",
+   "gmb-2024-229798",
+   "gmb-2024-190046",
+   "gmb-2024-159389",
+   "gmb-2024-26033",
+   "gmb-2023-523721",
+   "gmb-2023-500255",
+   "gmb-2023-474621",
+   "gmb-2023-414798",
+   "gmb-2023-418403",
+   "gmb-2023-207892",
+   "gmb-2023-178715",
+   "gmb-2023-131294",
+   "gmb-2023-93265",
+   "gmb-2023-20390",
+   "gmb-2023-25538",
+   "gmb-2022-481523",
+   "gmb-2022-477324",
+   "gmb-2022-184272",
+   "gmb-2022-131391",
+   "gmb-2022-129151",
+   "gmb-2022-72002",
+   "gmb-2022-79433",
+   "gmb-2022-48828",
+   "gmb-2021-420751",
+   "gmb-2021-385562",
+   "gmb-2021-294398",
+   "gmb-2021-262658",
+   "gmb-2021-249653",
+   "gmb-2021-227983",
+   "gmb-2021-190119",
+   "gmb-2021-171585",
+   "gmb-2021-100977",
+   "gmb-2021-70556",
+   "gmb-2020-278568",
+   "gmb-2020-263310",
+   "gmb-2020-230322",
+   "gmb-2020-198826",
+   "gmb-2020-174377",
+   "gmb-2020-166860",
+   "gmb-2020-162422",
+   "gmb-2020-154602",
+   "gmb-2020-127474",
+   "gmb-2020-99356",
+   "gmb-2020-77501",
+   "gmb-2020-71444",
+   "gmb-2019-306627",
+   "gmb-2019-293201",
+   "gmb-2019-276489",
+   "gmb-2019-248583",
+   "gmb-2019-238225",
+   "gmb-2019-205310",
+   "gmb-2019-191352",
+   "gmb-2019-94187",
+   "gmb-2019-71327",
+   "gmb-2019-65663",
+   "gmb-2019-44499",
+   "gmb-2019-14372",
+   "gmb-2019-3140",
+   "gmb-2018-260793",
+   "gmb-2018-206689",
+   "gmb-2018-176132",
+   "gmb-2018-171561",
+   "gmb-2018-160435",
+   "gmb-2018-143909",
+   "gmb-2018-125954",
+   "gmb-2018-93639",
+   "gmb-2018-4236",
+   "gmb-2017-194352",
+   "gmb-2017-142526",
+   "gmb-2017-19599",
+   "gmb-2016-174792",
+   "gmb-2016-167837",
+   "gmb-2016-162756",
+   "gmb-2016-95179",
+   "gmb-2016-86724",
+   "gmb-2016-81421",
+   "gmb-2016-37311",
+   "gmb-2016-32532",
+   "gmb-2016-8547",
+   "gmb-2015-63614",
+   "gmb-2014-32242",
+   "gmb-2014-28167"
+  ],
+  "zaaknummers": [
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "CLZ-00000373",
+   "CLZ-00000982",
+   "CLZ-00001723",
+   "CLZ-00007603",
+   "CLZ-00008504",
+   "CLZ-00106585",
+   "GRN-00004568",
+   "ODR2604153",
+   "OMG-2026-0220",
+   "OVR-2025-007166",
+   "Rx.Mission zaak 2024-00000758",
+   "Rx.Mission zaak Z2024-00002374",
+   "Rx.Mission zaak Z2025-00000549",
+   "Rx.Mission zaak Z2025-00001621",
+   "Rx.Mission zaak Z2025-00006799",
+   "Rx.Mission zaak Z2025-00021",
+   "Rx.Mission zaak Z2026-00000281",
+   "Rx.Mission zaak Z2026-001595",
+   "WWK-2026-016214",
+   "Z2023-00012125",
+   "ZK23004296"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2023-284487",
+    "titel": "Gemeente Altena - Vaststelling bestemmingsplan: Kern Hank, Kerkstraat 4",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2023-06-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-284487.html"
+   },
+   {
+    "id": "gmb-2023-144932",
+    "titel": "Gewijzigd vastgesteld bestemmingsplan 'Kerkstraat 4, Westerhoven'",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2023-04-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-144932.html"
+   },
+   {
+    "id": "gmb-2023-58216",
+    "titel": "Gemeente Altena - Ontwerp bestemmingsplan: Kern Hank, Kerkstraat 4",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2023-02-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-58216.html"
+   },
+   {
+    "id": "gmb-2022-476639",
+    "titel": "Ontwerpbestemmingsplan 'Kerkstraat 4, Westerhoven'",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2022-10-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-476639.html"
+   },
+   {
+    "id": "gmb-2020-126040",
+    "titel": "Gemeente Alphen aan den Rijn - verleende omgevingsvergunning: het afwijken van het bestemmingsplan voor kamerverhuur, Kerkstraat 4 te Boskoop, V2020/219",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-05-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-126040.html"
+   },
+   {
+    "id": "gmb-2020-77501",
+    "titel": "Gemeente Alphen aan den Rijn - aanvraag omgevingsvergunning: het afwijken van het bestemmingsplan ten behoeve van kamervehuur, Kerkstraat 4 te Boskoop, V2020/219",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-03-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-77501.html"
+   },
+   {
+    "id": "stcrt-2018-33032",
+    "titel": "Ontwerpbestemmingsplan ‘Kom Rucphen, Kerkstraat 4 - 6’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2018-06-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2018-33032.html"
+   },
+   {
+    "id": "stcrt-2017-56004",
+    "titel": "Vastgesteld bestemmingsplan ‘Kerkstraat 4 t/m 6’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-10-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-56004.html"
+   },
+   {
+    "id": "stcrt-2017-40025",
+    "titel": "Vastgesteld bestemmingsplan Enschot 2008, 7e herziening  (Kerkstraat 4a)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-07-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-40025.html"
+   },
+   {
+    "id": "gmb-2017-118672",
+    "titel": "Vastgesteld bestemmingsplan Enschot 2008, 7e herziening  (Kerkstraat 4a)",
+    "soort": "Plannen | ruimtelijk",
+    "datum": "2017-07-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-118672.html"
+   },
+   {
+    "id": "stcrt-2017-32913",
+    "titel": "Vastgesteld bestemmingsplan“Achter de Kerk, Bleiswijk”, Bleiswijk, Lansingerland",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-06-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-32913.html"
+   },
+   {
+    "id": "stcrt-2017-20623",
+    "titel": "Ontwerp-bestemmingsplan Kerkstraat 4 t/m 6",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-04-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-20623.html"
+   },
+   {
+    "id": "stcrt-2017-14808",
+    "titel": "Ontwerpbestemmingsplan Enschot 2008, 7e herziening (Kerkstraat 4a)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-03-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-14808.html"
+   },
+   {
+    "id": "gmb-2017-39807",
+    "titel": "Ontwerpbestemmingsplan Enschot 2008, 7e herziening (Kerkstraat 4a)",
+    "soort": "Plannen | ruimtelijk",
+    "datum": "2017-03-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-39807.html"
+   },
+   {
+    "id": "stcrt-2017-3828",
+    "titel": "Ontwerpbestemmingsplan “Achter de Kerk, Bleiswijk”, Bleiswijk, Lansingerland",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-01-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-3828.html"
+   },
+   {
+    "id": "stcrt-2015-33976",
+    "titel": "Bestemmingsplan Kerkstraat 4, 6, 6a en 6b Mook vastgesteld",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2015-10-06",
+    "onderwerp": "Bestemmingsplan voor Kerkstraat 4, 6, 6a en 6b in Mook.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-33976.html"
+   },
+   {
+    "id": "stcrt-2015-13423",
+    "titel": "Ontwerpbestemmingsplan Kerkstraat 4–6b, Mook, Mook en Middelaar",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2015-05-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-13423.html"
+   },
+   {
+    "id": "stcrt-2014-29029",
+    "titel": "Ontwerpbestemmingsplan ‘Kerkstraat 4 te Ubachsberg’, Voerendaal",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-10-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-29029.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-441415",
+    "titel": "Melding voor het deels slopen van de Andreaskerk ten behoeve van herbestemming aan Kerkstraat 4 te Melick",
+    "soort": "omgevingsmelding",
+    "datum": "2026-09-22",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-441415.html"
+   },
+   {
+    "id": "gmb-2026-429698",
+    "titel": "Ingekomen aanvraag voor Speelautomaten aanwezigheidsvergunning",
+    "soort": "andere vergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "Ingekomen aanvraag Speelautomaten aanwezigheidsvergunning; Aanwezigheidsvergunning voor 2 kansspelautomaten  aan Kleine Kerkstraat 4 c, 8601 CN Sneek, Kleine Kerkstraat 4 b, 8601 CN Sneek.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-429698.html"
+   },
+   {
+    "id": "gmb-2026-265826",
+    "titel": "Besluit evenementenvergunning voor Kermis Biej Briels op 3 t/m 7 juli 2026 in Roggel, Kerkstraat 4, 6088EG Roggel",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-05",
+    "onderwerp": "Betreft: Besluit evenementenvergunning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-265826.html"
+   },
+   {
+    "id": "gmb-2026-250871",
+    "titel": "Melding voor het organiseren van een seniorenbeurs op 3 oktober 2026 tussen 10:00 uur en 15:00 uur aan Grote Kerkstraat 4 te Culemborg",
+    "soort": "evenementmelding",
+    "datum": "2026-05-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-250871.html"
+   },
+   {
+    "id": "gmb-2026-248489",
+    "titel": "Amsterdam Centrum, verkeersbesluit aanleg gehandicaptenparkeerplaats op kenteken, Nieuwe Kerkstraat 4",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-05-27",
+    "onderwerp": "aanleg gehandicaptenparkeerplaats op kenteken, Nieuwe Kerkstraat 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-248489.html"
+   },
+   {
+    "id": "gmb-2026-211464",
+    "titel": "Betreft: Aanvraag evenementenvergunning",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-04",
+    "onderwerp": "Aanvraag evenementenvergunning ontvangen voor Kermis Biej Briels op 3 t/m 7 juli Roggel, Kerkstraat 4, 6088EG Roggel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-211464.html"
+   },
+   {
+    "id": "gmb-2026-198005",
+    "titel": "Vertrokken naar onbekende bestemming",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-04-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-198005.html"
+   },
+   {
+    "id": "gmb-2025-515773",
+    "titel": "Sloopmelding / Kerkstraat 4, 6099 BV te Beegden / Maasgouw / ingekomen 17 november 2025 / het slopen van een bijgebouw ten behoeve van het bouwen van een garage",
+    "soort": "omgevingsmelding",
+    "datum": "2025-11-27",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-515773.html"
+   },
+   {
+    "id": "gmb-2025-472287",
+    "titel": "Kennisgeving besluit op aanvraag Evenementenvergunning Thiss Preuve & Thiss Boete te Sweikhuizen",
+    "soort": "evenementenvergunning",
+    "datum": "2025-10-31",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4A, 6174RE Sweikhuizen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-472287.html"
+   },
+   {
+    "id": "gmb-2025-428392",
+    "titel": "Toestemming voor het aanbieden en ontvangen van winterkleding van 1 tot en met 30 november 2025 ter hoogte van het plein van de Grote of Barbarakerk, Grote Kerkstraat 4 te Culemborg",
+    "soort": "andere vergunning",
+    "datum": "2025-10-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-428392.html"
+   },
+   {
+    "id": "gmb-2025-399018",
+    "titel": "Besluit op aanvraag: Alcoholvergunning - Het verkrijgen van een Alcoholwetvergunning - Kerkstraat 4 in Niehove",
+    "soort": "andere vergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-399018.html"
+   },
+   {
+    "id": "gmb-2025-385312",
+    "titel": "Melding voor een niet belastend evenement op 20 september 2025 van 10:00 tot 13:00 aan Grote Kerkstraat 4 te Culemborg",
+    "soort": "evenementmelding",
+    "datum": "2025-09-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-385312.html"
+   },
+   {
+    "id": "gmb-2025-375708",
+    "titel": "Ontvangst aanvraag: Alcoholvergunning - Het verkrijgen van een Alcoholwetvergunning - Kerkstraat 4, 9884 PC Niehove",
+    "soort": "andere vergunning",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-375708.html"
+   },
+   {
+    "id": "gmb-2025-365277",
+    "titel": "Aangaan anterieure overeenkomst locatie Korte Kerkstraat 4 te Nuland",
+    "soort": "overige overheidsinformatie",
+    "datum": "2025-08-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-365277.html"
+   },
+   {
+    "id": "gmb-2025-335737",
+    "titel": "Kennisgeving ontvangst aanvraag Evenementenvergunning Kerkstraat 4A, 6174RE Sweikhuizen",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-30",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4A, 6174RE Sweikhuizen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-335737.html"
+   },
+   {
+    "id": "gmb-2025-164997",
+    "titel": "Gemeente Altena - kennisgeving melding mobiel puinbreken - Kerkstraat 4, 4273CB Hank",
+    "soort": "omgevingsmelding",
+    "datum": "2025-04-15",
+    "onderwerp": "Betreft: Mobiel puinbreken op locatie Kerkstraat 4, 4273CB Hank",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-164997.html"
+   },
+   {
+    "id": "gmb-2025-66745",
+    "titel": "Geweigerde vergunning voor WEIGERING koopwoning niet zelf gebruiken - opkoopbescherming, Kerkstraat 4, 3581RD Utrecht, GU-Z2025-0002882",
+    "soort": "andere vergunning",
+    "datum": "2025-02-18",
+    "onderwerp": "Geweigerde vergunning voor WEIGERING koopwoning niet zelf gebruiken - opkoopbescherming, Kerkstraat 4, 3581RD Utrecht, GU-Z2025-0002882",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-66745.html"
+   },
+   {
+    "id": "gmb-2025-37939",
+    "titel": "Aanvraag vergunning voor koopwoning niet zelf gebruiken - opkoopbescherming, Kerkstraat 4, 3581RD Utrecht, GU-Z2025-0002882",
+    "soort": "andere vergunning",
+    "datum": "2025-01-30",
+    "onderwerp": "Aanvraag vergunning voor koopwoning niet zelf gebruiken - opkoopbescherming, Kerkstraat 4, 3581RD Utrecht, GU-Z2025-0002882",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-37939.html"
+   },
+   {
+    "id": "gmb-2025-28669",
+    "titel": "Aanvraag vergunning voor het organiseren van een Bazaar op 11 en 12 april 2025 bij de Martinikerk aan Kerkstraat 4 te Doesburg",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-28669.html"
+   },
+   {
+    "id": "gmb-2024-519956",
+    "titel": "Melding voor de brocantemarkt op 23 maart 2025 aan Kerkstraat 4 te Doesburg",
+    "soort": "omgevingsmelding",
+    "datum": "2024-12-12",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-519956.html"
+   },
+   {
+    "id": "gmb-2024-450839",
+    "titel": "Kennisgeving besluit op aanvraag Evenementenvergunning Pastoor Thissenplein aan de Kerkstraat te Sweikhuizen.",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-25",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4A, 6174RE Sweikhuizen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-450839.html"
+   },
+   {
+    "id": "gmb-2024-381065",
+    "titel": "Toestemming voor het het gebruik van een standplaats voor de periode van 1 november 2024 t/m 30 november 2024 aan Grote Kerkstraat 4 op het plein van de Grote of Barbarakerk te Culemborg",
+    "soort": "andere vergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381065.html"
+   },
+   {
+    "id": "gmb-2024-376745",
+    "titel": "Kennisgeving ontvangst aanvraag Evenementenvergunning Kerkstraat 4A, 6174RE Sweikhuizen",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-03",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4A, 6174RE Sweikhuizen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-376745.html"
+   },
+   {
+    "id": "gmb-2024-376715",
+    "titel": "Kennisgeving ontvangst aanvraag Evenementenvergunning Kerkstraat 4A, 6174RE Sweikhuizen",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-03",
+    "onderwerp": "Betreft: Aanvraag op locatie Kerkstraat 4A, 6174RE Sweikhuizen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-376715.html"
+   },
+   {
+    "id": "gmb-2024-172565",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Nieuwe Kerkstraat 4-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Nieuwe Kerkstraat 4-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-172565.html"
+   },
+   {
+    "id": "gmb-2024-124695",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Nieuwe Kerkstraat 4-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-20",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Nieuwe Kerkstraat 4-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-124695.html"
+   },
+   {
+    "id": "gmb-2024-57325",
+    "titel": "Aanvraag vergunning voor het organiseren van “Bazaar in de Martinikerk” op 19 april 2024 van 10.00 tot 16.00 uur en 20 april 2024 van 10.00 tot 15.00 uur aan Kerkstraat 4 te Doesburg",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-57325.html"
+   },
+   {
+    "id": "wsb-2024-737",
+    "titel": "Waterschap Rivierenland - watervergunning voor het aanleggen van keerwanden op de perceelsgrenzen van Kerkstraat 4 en 6 richting de buren van nummer 2 en 8 te Niftrik",
+    "soort": "andere beschikking",
+    "datum": "2024-01-18",
+    "onderwerp": "het wijzigen van vergunning 2022034476 voor het bouwen van twee woningen tpv. Kerkstraat 4-6 te Niftrik A 1653",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2024-737.html"
+   },
+   {
+    "id": "gmb-2023-469602",
+    "titel": "Kennisgeving besluit op aanvraag Evenementenvergunning Thiss Preuve en Thiss Boete te Sweikhuizen",
+    "soort": "evenementenvergunning",
+    "datum": "2023-11-03",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Kerkstraat 4A, 6174RE Sweikhuizen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-469602.html"
+   },
+   {
+    "id": "gmb-2023-438351",
+    "titel": "Kennisgeving ontvangst sloopmelding: Kerkstraat 4, 6911AG Pannerden, het slopen/asbest verwijderen van woon- / winkelpand",
+    "soort": "andere melding",
+    "datum": "2023-10-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-438351.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 94,
+  "plannen": 0,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-284487.pdf",
+   "bron": "bekendmaking gmb-2023-284487: Gemeente Altena - Vaststelling bestemmingsplan: Kern Hank, Kerkstraat 4",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-144932.pdf",
+   "bron": "bekendmaking gmb-2023-144932: Gewijzigd vastgesteld bestemmingsplan 'Kerkstraat 4, Westerhoven'",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-58216.pdf",
+   "bron": "bekendmaking gmb-2023-58216: Gemeente Altena - Ontwerp bestemmingsplan: Kern Hank, Kerkstraat 4",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-476639.pdf",
+   "bron": "bekendmaking gmb-2022-476639: Ontwerpbestemmingsplan 'Kerkstraat 4, Westerhoven'",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-126040.pdf",
+   "bron": "bekendmaking gmb-2020-126040: Gemeente Alphen aan den Rijn - verleende omgevingsvergunning: het afwijken van het bestemmingsplan voor kamerverhuur, Kerkstraat 4 te Boskoop, V2020/219",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-77501.pdf",
+   "bron": "bekendmaking gmb-2020-77501: Gemeente Alphen aan den Rijn - aanvraag omgevingsvergunning: het afwijken van het bestemmingsplan ten behoeve van kamervehuur, Kerkstraat 4 te Boskoop, V2020/219",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 98,
+ "pand_adressen": [
+  "Kerkstraat 4A",
+  "Kerkstraat 4B",
+  "Kerkstraat 4C"
+ ]
+}

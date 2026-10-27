@@ -1,0 +1,1267 @@
+{
+ "id": "de-kroon",
+ "naam": "De Kroon",
+ "adres": "Rembrandtplein 17-1, 1017 CT Amsterdam",
+ "termen": [
+  "Rembrandtplein 17",
+  "Rembrandtplein 1",
+  "1017CT",
+  "1017 CT",
+  "De Kroon"
+ ],
+ "pand": "0363100012171127",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 56,
+  "openbaar": 56,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_86298",
+    "titel": "Rembrandtplein 3 - 46",
+    "datum": "2009-01-01",
+    "soort": "straatmeubilair",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86298"
+   },
+   {
+    "dossier": "SA_07263",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "2007-01-01",
+    "soort": "bestemmingsplan, ontheffing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_07263"
+   },
+   {
+    "dossier": "SA_00989",
+    "titel": "Rembrandtplein 17",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00989"
+   },
+   {
+    "dossier": "SA_00956",
+    "titel": "Rembrandtplein 17",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00956"
+   },
+   {
+    "dossier": "SA_00824",
+    "titel": "Rembrandtplein 17",
+    "datum": "1996-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00824"
+   },
+   {
+    "dossier": "SA_00935",
+    "titel": "Rembrandtplein 17",
+    "datum": "1996-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00935"
+   },
+   {
+    "dossier": "SA_00947",
+    "titel": "Rembrandtplein 17",
+    "datum": "1995-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 110,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00947"
+   },
+   {
+    "dossier": "SA_00933",
+    "titel": "Rembrandtplein 17",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00933"
+   },
+   {
+    "dossier": "SA_00953",
+    "titel": "Amstel 82",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00953"
+   },
+   {
+    "dossier": "SA_00921",
+    "titel": "Amstel 82",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00921"
+   },
+   {
+    "dossier": "SA_00834",
+    "titel": "Rembrandtplein 17",
+    "datum": "1993-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00834"
+   },
+   {
+    "dossier": "SA_00825",
+    "titel": "Amstel 82",
+    "datum": "1993-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00825"
+   },
+   {
+    "dossier": "SA_00831",
+    "titel": "Rembrandtplein 17",
+    "datum": "1991-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00831"
+   },
+   {
+    "dossier": "SA_00822",
+    "titel": "Rembrandtplein 17",
+    "datum": "1991-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00822"
+   },
+   {
+    "dossier": "SA_00836",
+    "titel": "Rembrandtplein 17",
+    "datum": "1990-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00836"
+   },
+   {
+    "dossier": "SA_00939",
+    "titel": "Rembrandtplein 17",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00939"
+   },
+   {
+    "dossier": "SA_00837",
+    "titel": "Rembrandtplein 17",
+    "datum": "1990-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00837"
+   },
+   {
+    "dossier": "SA_00929",
+    "titel": "Amstel 82",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00929"
+   },
+   {
+    "dossier": "SA_00891",
+    "titel": "Amstel 82",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00891"
+   },
+   {
+    "dossier": "SA_00919",
+    "titel": "Amstel 82",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00919"
+   },
+   {
+    "dossier": "SA_03592",
+    "titel": "Rembrandtplein 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03592"
+   },
+   {
+    "dossier": "SA_03605",
+    "titel": "Rembrandtplein 11 - 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03605"
+   },
+   {
+    "dossier": "SA_03600",
+    "titel": "Rembrandtplein 11 - 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03600"
+   },
+   {
+    "dossier": "SA_03595",
+    "titel": "Rembrandtplein 15 - 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03595"
+   },
+   {
+    "dossier": "SA_00913",
+    "titel": "Rembrandtplein 17",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00913"
+   },
+   {
+    "dossier": "SA_00823",
+    "titel": "Rembrandtplein 17",
+    "datum": "1983-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00823"
+   },
+   {
+    "dossier": "SA_00995",
+    "titel": "Rembrandtplein 17",
+    "datum": "1983-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00995"
+   },
+   {
+    "dossier": "SA_00915",
+    "titel": "Rembrandtplein 17",
+    "datum": "1983-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00915"
+   },
+   {
+    "dossier": "SA_01240",
+    "titel": "Amstel 82",
+    "datum": "1982-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01240"
+   },
+   {
+    "dossier": "SA_01241",
+    "titel": "Amstel 82",
+    "datum": "1981-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01241"
+   },
+   {
+    "dossier": "SA_00885",
+    "titel": "Amstel 82",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00885"
+   },
+   {
+    "dossier": "SA_65161",
+    "titel": "Rembrandtplein 17",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65161"
+   },
+   {
+    "dossier": "SA_00794",
+    "titel": "Rembrandtplein 17",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00794"
+   },
+   {
+    "dossier": "SA_00861",
+    "titel": "Rembrandtplein 17",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00861"
+   },
+   {
+    "dossier": "SA_00900",
+    "titel": "Amstel 82",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00900"
+   },
+   {
+    "dossier": "SA_00978",
+    "titel": "Rembrandtplein 17",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00978"
+   },
+   {
+    "dossier": "SA_00852",
+    "titel": "Rembrandtplein 17",
+    "datum": "1967-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 99,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00852"
+   },
+   {
+    "dossier": "SA_00818",
+    "titel": "Rembrandtplein 17",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00818"
+   },
+   {
+    "dossier": "SA_00783",
+    "titel": "Rembrandtplein 17",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00783"
+   },
+   {
+    "dossier": "SA_00810",
+    "titel": "Rembrandtplein 17",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00810"
+   },
+   {
+    "dossier": "SA_03263",
+    "titel": "Rembrandtplein 17",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03263"
+   },
+   {
+    "dossier": "SA_00814",
+    "titel": "Rembrandtplein 17",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00814"
+   },
+   {
+    "dossier": "SA_00821",
+    "titel": "Rembrandtplein 17",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00821"
+   },
+   {
+    "dossier": "SA_00850",
+    "titel": "Rembrandtplein 17",
+    "datum": "1963-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00850"
+   },
+   {
+    "dossier": "SA_00963",
+    "titel": "Rembrandtplein 17",
+    "datum": "1961-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00963"
+   },
+   {
+    "dossier": "SA_00847",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00847"
+   },
+   {
+    "dossier": "SA_00839",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00839"
+   },
+   {
+    "dossier": "SA_00841",
+    "titel": "Rembrandtplein 17",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 0,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00841"
+   },
+   {
+    "dossier": "SA_00778",
+    "titel": "Rembrandtplein 17",
+    "datum": "1951-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00778"
+   },
+   {
+    "dossier": "SA_00832",
+    "titel": "Rembrandtplein 17",
+    "datum": "1944-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00832"
+   },
+   {
+    "dossier": "SA_00827",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "1932-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00827"
+   },
+   {
+    "dossier": "SA_00826",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "1932-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00826"
+   },
+   {
+    "dossier": "SA_00813",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "1927-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00813"
+   },
+   {
+    "dossier": "SA_01010",
+    "titel": "Rembrandtplein 17",
+    "datum": "1906-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01010"
+   },
+   {
+    "dossier": "SA_00996",
+    "titel": "Amstel 82; Rembrandtplein 17",
+    "datum": "1906-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00996"
+   },
+   {
+    "dossier": "SA_00944",
+    "titel": "Rembrandtplein 17",
+    "datum": null,
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_00944"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 83,
+  "gezocht": [
+   "Rembrandtplein 17",
+   "Rembrandtplein 1",
+   "Amstel 82"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-398621",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Rembrandtplein 1 in Oud-Beijerland",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-24",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-398621.html",
+    "zaak": "Rx.Mission zaak Z2026-00002334"
+   },
+   {
+    "id": "gmb-2026-366689",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Rembrandtplein 1 in Oud-Beijerland",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-30",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-366689.html",
+    "zaak": "Rx.Mission zaak Z2026-00002162"
+   },
+   {
+    "id": "gmb-2025-404408",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Rembrandtplein 17 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-18",
+    "onderwerp": "vervangen van de antenne installatie op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-404408.html",
+    "zaak": "Z2025-027963"
+   },
+   {
+    "id": "bgr-2025-2095",
+    "titel": "Toestemming voor het inzetten van een hoogwerker voor schilderwerkzaamheden voor de gevel van Rembrandtplein 17 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-04",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-2095.html"
+   },
+   {
+    "id": "gmb-2025-373322",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 17, 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-28",
+    "onderwerp": "vervangen van de antenne installatie op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-373322.html",
+    "zaak": "Z2025-027963"
+   },
+   {
+    "id": "bgr-2025-1261",
+    "titel": "Aanvraag vergunning voor het oprichten, ca 5 weken laten staan en gebruiken van een werksteiger van ca 12 meter hoog voor de gevel van Rembrandtplein 1 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1261.html"
+   },
+   {
+    "id": "bgr-2025-1284",
+    "titel": "Toestemming voor het oprichten, ca 5 weken laten staan en gebruiken van een werksteiger van ca 12 meter hoog voor de gevel van Rembrandtplein 1 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1284.html"
+   },
+   {
+    "id": "gmb-2025-187755",
+    "titel": "Besluit omgevingsvergunning reguliere procedure buiten behandeling gesteld Rembrandtplein 17 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-30",
+    "onderwerp": "het veranderen van drie antennes op het dak van het gebouw ten behoeve van de mobiele telefonie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-187755.html",
+    "zaak": "Z2025-008620"
+   },
+   {
+    "id": "bgr-2025-970",
+    "titel": "Toestemming voor het handmatig graven van een sleuf voor het realiseren van een glasvezelaansluiting ter hoogte van Rembrandtplein 17 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-17",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-970.html"
+   },
+   {
+    "id": "gmb-2025-97603",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 17, 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-07",
+    "onderwerp": "het veranderen van drie antennes op het dak van het gebouw ten behoeve van de mobiele telefonie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-97603.html",
+    "zaak": "Z2025-008620"
+   },
+   {
+    "id": "gmb-2023-351937",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 17-1 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-09",
+    "onderwerp": "plaatsen van reclame aan de voorgevel van het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-351937.html",
+    "zaak": "Z2023-C004159"
+   },
+   {
+    "id": "gmb-2023-273949",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 17-1 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-22",
+    "onderwerp": "plaatsen van reclame aan de voorgevel van het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-273949.html",
+    "zaak": "Z2023-C004159"
+   },
+   {
+    "id": "gmb-2023-182771",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 1-H 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-25",
+    "onderwerp": "het tijdelijk plaatsen beeld op het Rembrandtplein voor een periode van zes maanden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-182771.html",
+    "zaak": "Z2023-C001999"
+   },
+   {
+    "id": "gmb-2023-153502",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-07",
+    "onderwerp": "het tijdelijk plaatsen beeld op het Rembrandtplein voor een periode van zes maanden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-153502.html",
+    "zaak": "Z2023-C001999"
+   },
+   {
+    "id": "gmb-2023-64798",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstel 82-1 1017AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "veranderen van het pand door het maken van een dakterras aan de achterzijde met behoud van de bestemming wonen (legalisatie)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-64798.html",
+    "zaak": "Z2022-C009826"
+   },
+   {
+    "id": "gmb-2023-22316",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Rembrandtplein 17-H 1017CT Amsterdam, Amstel 82-1 1017AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-18",
+    "onderwerp": "veranderen van het pand door het maken van een dakterras aan de achterzijde met behoud van de bestemming wonen (legalisatie)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-22316.html",
+    "zaak": "Z2022-C009826"
+   },
+   {
+    "id": "gmb-2022-546054",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 17-H 1017CT Amsterdam, Amstel 82-1 1017AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-08",
+    "onderwerp": "veranderen van het pand door het maken van een dakterras aan de achterzijde met behoud van de bestemming wonen (legalisatie)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-546054.html",
+    "zaak": "Z2022-C009826"
+   },
+   {
+    "id": "gmb-2021-366878",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 17 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-19",
+    "onderwerp": "vervangen van een antenne-installatie ten behoeve van mobiele telefonie op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-366878.html",
+    "zaak": "Z2021-C002419"
+   },
+   {
+    "id": "gmb-2021-188044",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Rembrandtplein 17 1017CT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-15",
+    "onderwerp": "vervangen van een antenne-installatie ten behoeve van mobiele telefonie op het dak van het gebouw",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-188044.html"
+   },
+   {
+    "id": "gmb-2021-188037",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 17 1017CT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-15",
+    "onderwerp": "vervangen van een antenne-installatie ten behoeve van mobiele telefonie op het dak van het gebouw",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-188037.html"
+   },
+   {
+    "id": "gmb-2019-312838",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Rembrandtplein 1 in Oud-Beijerland",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-12-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-312838.html"
+   },
+   {
+    "id": "gmb-2019-296125",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Rembrandtplein 1 in Oud-Beijerland",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-12-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-296125.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "gmb-2019-142728",
+    "titel": "Gemeente De Bilt - Aangevraagde omgevingsvergunningen regulier, 30 mei t/m 5 juni 2019",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-06-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-142728.html"
+   },
+   {
+    "id": "gmb-2018-7363",
+    "titel": "Afgehandelde omgevingsvergunning, Ooievaarstraat 70 t/m 212, Rembrandtplein 1 t/m 72, 73 t/m 144 en 145 t/m 240 te Lisse, Kenmerk Z-17-025193",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-01-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-7363.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-398621",
+   "gmb-2026-366689",
+   "gmb-2025-404408",
+   "gmb-2025-373322",
+   "bgr-2025-1261",
+   "gmb-2025-187755",
+   "gmb-2025-97603",
+   "gmb-2023-351937",
+   "gmb-2023-273949",
+   "gmb-2023-182771",
+   "gmb-2023-153502",
+   "gmb-2023-64798",
+   "gmb-2022-546054",
+   "gmb-2021-366878",
+   "gmb-2021-188037",
+   "gmb-2019-312838",
+   "gmb-2019-296125"
+  ],
+  "zaaknummers": [
+   "Rx.Mission zaak Z2026-00002162",
+   "Rx.Mission zaak Z2026-00002334",
+   "Z2021-C002419",
+   "Z2022-C009826",
+   "Z2023-C001999",
+   "Z2023-C004159",
+   "Z2025-008620",
+   "Z2025-027963"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-401783",
+    "titel": "Afgehandelde Vergunning gebruik openbare grond voor het plaatsen van toiletcabine en combicontainer, Rembrandtplein 1, 2162EA Lisse, Z2026-00002547",
+    "soort": "andere vergunning",
+    "datum": "2026-08-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-401783.html"
+   },
+   {
+    "id": "gmb-2026-302613",
+    "titel": "Kennisgeving ontvangst melding brandveilig gebruik Rembrandtplein 1 in Oud-Beijerland",
+    "soort": "andere melding",
+    "datum": "2026-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-302613.html"
+   },
+   {
+    "id": "gmb-2026-286101",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 17-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 17-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-286101.html"
+   },
+   {
+    "id": "gmb-2026-241286",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 17 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 17 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241286.html"
+   },
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2026-45466",
+    "titel": "Verkiezing Gemeenteraad 2026 - Gemeentelijk stembureau",
+    "soort": "verkiezingen",
+    "datum": "2026-02-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-45466.html"
+   },
+   {
+    "id": "gmb-2026-35783",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein ter hoogte van nummer: 17 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-01-27",
+    "onderwerp": "Object,Rembrandtplein 17 1017CT, 20260130, Rembrandtplein ter hoogte van nummer: 17",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-35783.html"
+   },
+   {
+    "id": "gmb-2025-569447",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Rembrandtplein 17 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 17 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-569447.html"
+   },
+   {
+    "id": "gmb-2025-562852",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein ter hoogte van nummer: 17 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-23",
+    "onderwerp": "Upload_Object,Rembrandtplein 17 1017CT, 20260104, Rembrandtplein ter hoogte van nummer: 17",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-562852.html"
+   },
+   {
+    "id": "gmb-2025-394458",
+    "titel": "Verkiezing van de leden van de Tweede Kamer der Staten-Generaal Gemeentelijk stembureau",
+    "soort": "verkiezingen",
+    "datum": "2025-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-394458.html"
+   },
+   {
+    "id": "gmb-2025-389123",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Rembrandtplein 17-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 17-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-389123.html"
+   },
+   {
+    "id": "gmb-2025-384821",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein ter hoogte van nummer: 17 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-09-05",
+    "onderwerp": "Object,Rembrandtplein 17 1017CT, 20250908, Rembrandtplein ter hoogte van nummer: 17",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-384821.html"
+   },
+   {
+    "id": "gmb-2025-244042",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-06-05",
+    "onderwerp": "Object,Rembrandtplein 1 H 1017CT, 20250602, Rembrandtplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-244042.html"
+   },
+   {
+    "id": "gmb-2025-55627",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 17 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-02-11",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 17 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-55627.html"
+   },
+   {
+    "id": "gmb-2025-13667",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rembrandtplein 17 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 17 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-13667.html"
+   },
+   {
+    "id": "gmb-2024-505992",
+    "titel": "Aanwijzingsbesluit parkeren en uitwerkingsbesluit parkeervergunningen Zevenaar 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-12-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-505992.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-384239",
+    "titel": "V E R K E E R S B E S L U I T",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2024-09-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-384239.html"
+   },
+   {
+    "id": "gmb-2024-365383",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 17-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 17-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-365383.html"
+   },
+   {
+    "id": "gmb-2024-312593",
+    "titel": "Aanwijzingsbesluit parkeren en uitwerkingsbesluit parkeervergunningen Zevenaar 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-07-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-312593.html"
+   },
+   {
+    "id": "gmb-2024-208032",
+    "titel": "Verkiezing van de Nederlandse leden van het Europees Parlement Gemeentelijk stembureau",
+    "soort": "verkiezingen",
+    "datum": "2024-05-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-208032.html"
+   },
+   {
+    "id": "gmb-2024-198533",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein 17",
+    "soort": "andere vergunning",
+    "datum": "2024-05-06",
+    "onderwerp": "Object, Rembrandtplein 17 1017CT, 20240508, Rembrandtplein 17",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-198533.html"
+   },
+   {
+    "id": "gmb-2024-137182",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Rembrandtplein 17-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 17-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-137182.html"
+   },
+   {
+    "id": "gmb-2024-19090",
+    "titel": "Verleende Standplaatsvergunning, standplaats voor oliebollenverkoop van 08-12-2023 t/m 31-12-2023, Rembrandtplein 1, 7944 GG Meppel",
+    "soort": "andere vergunning",
+    "datum": "2024-01-10",
+    "onderwerp": "standplaats voor oliebollenverkoop van 08-12-2023 t/m 31-12-2023",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-19090.html"
+   },
+   {
+    "id": "gmb-2023-469370",
+    "titel": "Verkiezing van de leden van de Tweede Kamer der Staten-Generaal",
+    "soort": "verkiezingen",
+    "datum": "2023-11-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-469370.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-438766",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein 17-2",
+    "soort": "andere vergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Werkzaamheden en vervoer op straat Rembrandtplein 17 H 1017CT, Rembrandtplein 17-2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-438766.html"
+   },
+   {
+    "id": "gmb-2023-342228",
+    "titel": "Besluit nachtwerkontheffing Verleend - Rembrandtplein 1-1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-08-03",
+    "onderwerp": "NWO, Rembrandtplein 9, 14-08-2023, Rembrandtplein 1-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-342228.html"
+   },
+   {
+    "id": "gmb-2023-224389",
+    "titel": "Besluit exploitatievergunning horecabedrijf Ingetrokken - Rembrandtplein 1-H in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-23",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Rembrandtplein 1-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-224389.html"
+   },
+   {
+    "id": "gmb-2023-101582",
+    "titel": "Besluit alcoholontheffing VerleendRembrandtplein 1-H in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-09",
+    "onderwerp": "Verleend: alcoholontheffing ter hoogte van adres Rembrandtplein 1-H in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-101582.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 309,
+  "plannen": 0,
+  "woo": 23
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 570,
+ "pand_adressen": [
+  "Amstel 82",
+  "Rembrandtplein 17"
+ ]
+}

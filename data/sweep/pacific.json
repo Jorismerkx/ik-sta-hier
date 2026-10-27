@@ -1,0 +1,323 @@
+{
+ "id": "pacific",
+ "naam": "Pacific",
+ "adres": "Polonceaukade 23, 1014 DA Amsterdam",
+ "termen": [
+  "Polonceaukade 23",
+  "1014DA",
+  "1014 DA",
+  "Pacific",
+  "Westerpark"
+ ],
+ "pand": "0363100012237148",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 1,
+  "openbaar": 0,
+  "laatste": "2003-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_41767",
+    "titel": "Pazzanistraat 1 - 47; Polonceau-kade 3 - 23",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_41767"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 27,
+  "gezocht": [
+   "Polonceaukade 23",
+   "Polonceau-kade 23"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-402902",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Polonceau-kade 23 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-402902.html"
+   },
+   {
+    "id": "gmb-2026-336819",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Polonceau-kade 23 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-336819.html"
+   },
+   {
+    "id": "gmb-2026-65766",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Polonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-13",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-65766.html"
+   },
+   {
+    "id": "gmb-2025-572540",
+    "titel": "Aanvraag evenementenvergunning Polonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-572540.html"
+   },
+   {
+    "id": "gmb-2025-90250",
+    "titel": "Besluit evenementenvergunning Verleend - Polonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-04",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-90250.html"
+   },
+   {
+    "id": "gmb-2025-73515",
+    "titel": "Aanvraag evenementenvergunning Polonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-73515.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-130180",
+    "titel": "Besluit evenementenvergunning VerleendPolonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-130180.html"
+   },
+   {
+    "id": "gmb-2024-94975",
+    "titel": "Besluit evenementenvergunning VerleendPolonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-94975.html"
+   },
+   {
+    "id": "gmb-2024-90118",
+    "titel": "Besluit evenementenvergunning Nog niet bekendPolonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-27",
+    "onderwerp": "Nog niet bekend: evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-90118.html"
+   },
+   {
+    "id": "gmb-2024-5469",
+    "titel": "Aanvraag evenementenvergunning Polonceau-kade 23 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Polonceau-kade 23 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-5469.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-438754",
+    "titel": "Besluit evenementenvergunning AanvraagPolonceau-kade 23 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Aanvraag: evenementenvergunning ter hoogte van adres Polonceau-kade 23 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-438754.html"
+   },
+   {
+    "id": "gmb-2023-218043",
+    "titel": "Besluit apv vergunning Verleend - Polonceau-kade 23",
+    "soort": "andere vergunning",
+    "datum": "2023-05-19",
+    "onderwerp": "RVV Polonceau-kade 23, 23 mei-25 mei, Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-218043.html"
+   },
+   {
+    "id": "gmb-2023-92893",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren)Polonceau-kade 23 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-03",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Polonceau-kade 23 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-92893.html"
+   },
+   {
+    "id": "gmb-2023-56811",
+    "titel": "Besluit apv vergunning Verleend Polonceau-kade 23",
+    "soort": "andere vergunning",
+    "datum": "2023-02-09",
+    "onderwerp": "OB- Polonceau-kade 23 9 feb tm 5 maart 2023, Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-56811.html"
+   },
+   {
+    "id": "gmb-2023-23638",
+    "titel": "Aanvraag evenementenvergunning Polonceau-kade 23 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Polonceau-kade 23 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-23638.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-69203",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Polonceau-kade 23",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-17",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-69203.html"
+   },
+   {
+    "id": "gmb-2021-380424",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Polonceau-kade 23",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380424.html"
+   },
+   {
+    "id": "gmb-2021-380105",
+    "titel": "Rectificatie Besluit exploitatievergunning horecabedrijf Verleend Polonceau-kade 23",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380105.html"
+   },
+   {
+    "id": "gmb-2021-356117",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verleend Polonceau-kade 23",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-12",
+    "onderwerp": "Verleend: toestemming tijdelijk terrtas op adres Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-356117.html"
+   },
+   {
+    "id": "gmb-2021-255068",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Polonceau-kade 23",
+    "soort": "exploitatievergunning",
+    "datum": "2021-07-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-255068.html"
+   },
+   {
+    "id": "gmb-2021-233674",
+    "titel": "Aanvraag voor een Bed & Breakfast vergunning Polonceau-kade 23",
+    "soort": "andere vergunning",
+    "datum": "2021-07-19",
+    "onderwerp": ": Exploitatievergunning voor een B&B op adres Polonceau-kade 23",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-233674.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1209BPSTD-VG01",
+   "naam": "Westergasfabriek",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-01-28",
+   "opp_m2": 347587,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 1,
+ "pand_adressen": [
+  "Polonceau-kade 23"
+ ]
+}

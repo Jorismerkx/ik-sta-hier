@@ -1,0 +1,197 @@
+{
+ "id": "montmartre-xl",
+ "naam": "Montmartre XL",
+ "adres": "Reguliersdwarsstraat 48, 1017 BM Amsterdam",
+ "termen": [
+  "Reguliersdwarsstraat 48",
+  "1017BM",
+  "1017 BM",
+  "Montmartre XL"
+ ],
+ "pand": "0363100012176257",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 4,
+  "openbaar": 4,
+  "laatste": "1994-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_72856",
+    "titel": "Reguliersdwarsstraat 4",
+    "datum": "1994-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_72856"
+   },
+   {
+    "dossier": "SA_72854",
+    "titel": "Reguliersdwarsstraat 4",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_72854"
+   },
+   {
+    "dossier": "SA_81390",
+    "titel": "Reguliersdwarsstraat 4",
+    "datum": "1954-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_81390"
+   },
+   {
+    "dossier": "SA_72850",
+    "titel": "Reguliersdwarsstraat 4",
+    "datum": "1902-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_72850"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 7,
+  "gezocht": [
+   "Reguliersdwarsstraat 48",
+   "Reguliersdwarsstraat 4"
+  ],
+  "vergunningen": [
+   {
+    "id": "bgr-2025-1708",
+    "titel": "Aanvraag vergunning voor het inzetten van een verhuislift voor de gevel aan Rembrandtplein 4 en Korte Regulierdwarsstraat 4 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1708.html"
+   },
+   {
+    "id": "bgr-2025-1700",
+    "titel": "Toestemming voor het inzetten van een verhuislift voor de gevel aan Rembrandtplein 4 en Korte Regulierdwarsstraat 4 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-1700.html"
+   },
+   {
+    "id": "stcrt-2011-1332",
+    "titel": "Vaststelling projectbesluit ‘Cineac’ en bouwvergunningen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2011-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2011-1332.html"
+   }
+  ],
+  "met_tekeningen": [
+   "stcrt-2011-1332"
+  ],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "stcrt-2011-1332",
+    "titel": "Vaststelling projectbesluit ‘Cineac’ en bouwvergunningen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2011-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2011-1332.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-325356",
+    "titel": "Besluit apv vergunning Verleend - Korte Reguliersdwarsstraat ter hoogte van nummer: 4 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Object, Korte Reguliersdwarsstraat 4 2 1017BH, 20250725, Korte Reguliersdwarsstraat ter hoogte van nummer: 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325356.html"
+   },
+   {
+    "id": "gmb-2025-139143",
+    "titel": "Besluit evenementenvergunning Verleend - Korte Reguliersdwarsstraat 4-3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Korte Reguliersdwarsstraat 4-3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139143.html"
+   },
+   {
+    "id": "gmb-2025-15108",
+    "titel": "Aanvraag evenementenvergunning Korte Reguliersdwarsstraat 4-3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Korte Reguliersdwarsstraat 4-3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-15108.html"
+   },
+   {
+    "id": "gmb-2022-37723",
+    "titel": "Besluit apv vergunning Verleend Korte Reguliersdwarsstraat 4-3",
+    "soort": "andere vergunning",
+    "datum": "2022-01-31",
+    "onderwerp": "RVV/TVM stremmen Korte Reguliersdwarsstraat 4, 27-1-2022, Korte Reguliersdwarsstraat 4-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-37723.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Reguliersdwarsstraat 4"
+ ]
+}

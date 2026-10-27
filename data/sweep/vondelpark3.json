@@ -1,0 +1,1021 @@
+{
+ "id": "vondelpark3",
+ "naam": "Vondelpark3",
+ "adres": "Vondelpark 3, 1071 AA Amsterdam",
+ "termen": [
+  "Vondelpark 3",
+  "1071AA",
+  "1071 AA",
+  "Vondelpark3",
+  "voorheen VondelCS"
+ ],
+ "pand": "0363100012237216",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 31,
+  "openbaar": 31,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_45835",
+    "titel": "Vondelpark 3",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_45835"
+   },
+   {
+    "dossier": "SJ_45322",
+    "titel": "Vondelpark 3",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_45322"
+   },
+   {
+    "dossier": "SJ_69599",
+    "titel": "Vondelpark 3",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_69599"
+   },
+   {
+    "dossier": "SJ_69600",
+    "titel": "Vondelpark 3",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_69600"
+   },
+   {
+    "dossier": "SW_50461",
+    "titel": "Vondelpark 3",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_50461"
+   },
+   {
+    "dossier": "SW_49503",
+    "titel": "Vondelpark 3",
+    "datum": "2007-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_49503"
+   },
+   {
+    "dossier": "SW_50146",
+    "titel": "Vondelpark 3",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_50146"
+   },
+   {
+    "dossier": "SW_48702",
+    "titel": "Vondelpark 3",
+    "datum": "2006-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_48702"
+   },
+   {
+    "dossier": "SW_48704",
+    "titel": "Vondelpark 3",
+    "datum": "2006-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_48704"
+   },
+   {
+    "dossier": "SW_46566",
+    "titel": "Vondelpark 3",
+    "datum": "2005-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_46566"
+   },
+   {
+    "dossier": "SJ_57826",
+    "titel": "Vondelpark 3",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57826"
+   },
+   {
+    "dossier": "SJ_58466",
+    "titel": "Vondelpark 3",
+    "datum": "1999-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58466"
+   },
+   {
+    "dossier": "SJ_58502",
+    "titel": "Vondelpark 3",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58502"
+   },
+   {
+    "dossier": "SJ_57816",
+    "titel": "Vondelpark 3",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57816"
+   },
+   {
+    "dossier": "SJ_70931",
+    "titel": "Vondelpark 3",
+    "datum": "1992-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_70931"
+   },
+   {
+    "dossier": "SJ_57804",
+    "titel": "Vondelpark 3",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57804"
+   },
+   {
+    "dossier": "SJ_57791",
+    "titel": "Vondelpark 3",
+    "datum": "1991-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57791"
+   },
+   {
+    "dossier": "SJ_57757",
+    "titel": "Vondelpark 3",
+    "datum": "1990-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57757"
+   },
+   {
+    "dossier": "SJ_57788",
+    "titel": "Vondelpark 3",
+    "datum": "1990-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57788"
+   },
+   {
+    "dossier": "SJ_58160",
+    "titel": "Vondelpark 3",
+    "datum": "1989-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58160"
+   },
+   {
+    "dossier": "SJ_57777",
+    "titel": "Vondelpark 3",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57777"
+   },
+   {
+    "dossier": "SJ_58032",
+    "titel": "Vondelpark 3",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58032"
+   },
+   {
+    "dossier": "SJ_58037",
+    "titel": "Vondelpark 3",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58037"
+   },
+   {
+    "dossier": "SJ_58299",
+    "titel": "Vondelpark 3",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58299"
+   },
+   {
+    "dossier": "SJ_58041",
+    "titel": "Vondelpark 3",
+    "datum": "1955-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58041"
+   },
+   {
+    "dossier": "SJ_58048",
+    "titel": "Vondelpark 3",
+    "datum": "1946-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58048"
+   },
+   {
+    "dossier": "SJ_58086",
+    "titel": "Vondelpark 3",
+    "datum": "1940-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58086"
+   },
+   {
+    "dossier": "SJ_58275",
+    "titel": "Vondelpark 3",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58275"
+   },
+   {
+    "dossier": "SJ_57997",
+    "titel": "Vondelpark 3",
+    "datum": "1889-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57997"
+   },
+   {
+    "dossier": "SJ_57989",
+    "titel": "Vondelpark 3",
+    "datum": "1881-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57989"
+   },
+   {
+    "dossier": "SJ_57983",
+    "titel": "Vondelpark 3",
+    "datum": "1879-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57983"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 65,
+  "gezocht": [
+   "Vondelpark 3"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-239851",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-02",
+    "onderwerp": "inrichten van het onbebouwde horecaterras met verplaatsbaar meubilair en verankerde parasolvoeten bij een Rijksmonument",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-239851.html",
+    "zaak": "Z2025-012530"
+   },
+   {
+    "id": "gmb-2025-180168",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-24",
+    "onderwerp": "renoveren van het binnenwerk en interieur in het souterrain ten behoeve van de horecafunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-180168.html",
+    "zaak": "Z2025-005271"
+   },
+   {
+    "id": "gmb-2025-132911",
+    "titel": "Aanvraag omgevingsvergunning Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-27",
+    "onderwerp": "inrichten van het onbebouwde horecaterras met verplaatsbaar meubilair bij een Rijksmonument",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-132911.html",
+    "zaak": "Z2025-012530"
+   },
+   {
+    "id": "gmb-2025-78282",
+    "titel": "Aanvraag omgevingsvergunning Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-24",
+    "onderwerp": "renoveren van het binnenwerk en interieur in het souterrain ten behoeve van de horecafunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-78282.html",
+    "zaak": "Z2025-005271"
+   },
+   {
+    "id": "gmb-2024-536815",
+    "titel": "Besluit omgevingsvergunning vellen van een houtopstand (kap) verleend Afroditekade 211 1076DZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-20",
+    "onderwerp": "kappen van 194 bomen, staande in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-536815.html",
+    "zaak": "Z2024-034853"
+   },
+   {
+    "id": "gmb-2024-524482",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) diverse bomen staande in de openbare ruimte in Stadsdeel Zuid",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-13",
+    "onderwerp": "kappen van 194 bomen, staande in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-524482.html",
+    "zaak": "Z2024-034853"
+   },
+   {
+    "id": "gmb-2024-523125",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) diverse bomen staande in de openbare ruimte in Stadsdeel Zuid",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-12",
+    "onderwerp": "kappen van 194 bomen, staande in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-523125.html",
+    "zaak": "Z2024-034853"
+   },
+   {
+    "id": "gmb-2024-381800",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "(KAP) - vellen van één houtopstand ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381800.html",
+    "zaak": "Z2024-013038"
+   },
+   {
+    "id": "gmb-2024-269988",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-20",
+    "onderwerp": "(KAP) - vellen van één houtopstand ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-269988.html",
+    "zaak": "Z2024-013038"
+   },
+   {
+    "id": "gmb-2023-117127",
+    "titel": "Besluit intrekken omgevingsvergunning Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-17",
+    "onderwerp": "B het plaatsen van twee buitenbarren",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-117127.html",
+    "zaak": "Z2020-W003317"
+   },
+   {
+    "id": "gmb-2023-87570",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-28",
+    "onderwerp": "realiseren van een filmzaal in een ruimte van het paveljoen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-87570.html",
+    "zaak": "Z2022-W005347"
+   },
+   {
+    "id": "gmb-2023-22335",
+    "titel": "Aanvraag omgevingsvergunning Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-18",
+    "onderwerp": "realiseren van een filmzaal in een ruimte van Vondelpark 3 ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-22335.html",
+    "zaak": "Z2022-W005347"
+   },
+   {
+    "id": "gmb-2022-363441",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-09",
+    "onderwerp": "plaatsen van twee pergola's aan de rechterzijde van het terras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-363441.html",
+    "zaak": "Z2022-W002047"
+   },
+   {
+    "id": "gmb-2022-223832",
+    "titel": "Aanvraag omgevingsvergunning Vondelpark 3 1071AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-18",
+    "onderwerp": "plaatsen van twee pergola's aan de rechterzijde van het terras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-223832.html",
+    "zaak": "Z2022-W002047"
+   },
+   {
+    "id": "stcrt-2014-2692",
+    "titel": "Verleende omgevingsvergunning afwijken bestemmingsplan Vondelpark 3, Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-01-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-2692.html"
+   },
+   {
+    "id": "stcrt-2013-29026",
+    "titel": "Ontwerp omgevingsvergunning Vondelpark 3, te Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-10-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-29026.html"
+   },
+   {
+    "id": "stcrt-2013-20433",
+    "titel": "Verleende omgevingsvergunning voor het tijdelijk afwijken bestemmingsplan voor het project Vondelpark 3, Amsterdam – West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-07-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-20433.html"
+   },
+   {
+    "id": "stcrt-2013-13040",
+    "titel": "Ontwerp omgevingsvergunning Vondelpark 3, Amsterdam - West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-05-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-13040.html"
+   },
+   {
+    "id": "stcrt-2012-26615",
+    "titel": "Verleende omgevingsvergunning afwijken bestemmingsplan Vondelpark 3, Amsterdam - West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-26615.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-239851",
+   "gmb-2025-180168",
+   "gmb-2025-132911",
+   "gmb-2025-78282",
+   "gmb-2024-536815",
+   "gmb-2024-524482",
+   "gmb-2024-523125",
+   "gmb-2024-381800",
+   "gmb-2024-269988",
+   "gmb-2023-117127",
+   "gmb-2023-87570",
+   "gmb-2023-22335",
+   "gmb-2022-363441",
+   "gmb-2022-223832"
+  ],
+  "zaaknummers": [
+   "Z2020-W003317",
+   "Z2022-W002047",
+   "Z2022-W005347",
+   "Z2024-013038",
+   "Z2024-034853",
+   "Z2025-005271",
+   "Z2025-012530"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2014-2692",
+    "titel": "Verleende omgevingsvergunning afwijken bestemmingsplan Vondelpark 3, Amsterdam",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-01-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-2692.html"
+   },
+   {
+    "id": "stcrt-2013-20433",
+    "titel": "Verleende omgevingsvergunning voor het tijdelijk afwijken bestemmingsplan voor het project Vondelpark 3, Amsterdam – West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-07-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-20433.html"
+   },
+   {
+    "id": "stcrt-2012-26615",
+    "titel": "Verleende omgevingsvergunning afwijken bestemmingsplan Vondelpark 3, Amsterdam - West",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-26615.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-478175",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) ter hoogte van Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-10-13",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-478175.html"
+   },
+   {
+    "id": "gmb-2026-426825",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-11",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-426825.html"
+   },
+   {
+    "id": "gmb-2026-402899",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-402899.html"
+   },
+   {
+    "id": "gmb-2026-371619",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-04",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-371619.html"
+   },
+   {
+    "id": "gmb-2026-369451",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-369451.html"
+   },
+   {
+    "id": "gmb-2026-362323",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-362323.html"
+   },
+   {
+    "id": "gmb-2026-357929",
+    "titel": "Besluit evenementenvergunning  ter hoogte van Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-27",
+    "onderwerp": ": evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-357929.html"
+   },
+   {
+    "id": "gmb-2026-332308",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-332308.html"
+   },
+   {
+    "id": "gmb-2026-332205",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-332205.html"
+   },
+   {
+    "id": "gmb-2026-306919",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-306919.html"
+   },
+   {
+    "id": "gmb-2026-82959",
+    "titel": "Besluit apv vergunning Verleend - Vondelpark ter hoogte van nummer: 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "(uitgezet) Object,Filmen,Vondelpark 3 1071AA, 20251214, 14-12-2025, Vondelpark ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-82959.html"
+   },
+   {
+    "id": "gmb-2026-31969",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-02-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31969.html"
+   },
+   {
+    "id": "gmb-2026-41167",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Vondelpark 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-41167.html"
+   },
+   {
+    "id": "gmb-2025-498708",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-498708.html"
+   },
+   {
+    "id": "gmb-2025-327810",
+    "titel": "Besluit evenementenvergunning Verleend - Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-327810.html"
+   },
+   {
+    "id": "gmb-2025-276981",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-26",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-276981.html"
+   },
+   {
+    "id": "gmb-2025-273310",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-273310.html"
+   },
+   {
+    "id": "gmb-2025-244082",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-244082.html"
+   },
+   {
+    "id": "gmb-2025-192749",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-192749.html"
+   },
+   {
+    "id": "gmb-2025-99020",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Vondelpark 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-03-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-99020.html"
+   },
+   {
+    "id": "gmb-2025-5647",
+    "titel": "Rectificatie: Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-01-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-5647.html"
+   },
+   {
+    "id": "gmb-2024-550336",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-12-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550336.html"
+   },
+   {
+    "id": "gmb-2024-304753",
+    "titel": "Besluit apv vergunning Verleend - Vondelpark 3",
+    "soort": "andere vergunning",
+    "datum": "2024-07-12",
+    "onderwerp": "Object,Vezip, Vondelpark 3 1071AA, 20240830, Vondelpark 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-304753.html"
+   },
+   {
+    "id": "gmb-2024-175048",
+    "titel": "Uitvoerings- en aanwijzingsbesluit parkeerbelasting Amsterdam juli 2024",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-04-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-175048.html"
+   },
+   {
+    "id": "gmb-2024-99259",
+    "titel": "Besluit apv vergunning Verleend - Vondelpark 3",
+    "soort": "andere vergunning",
+    "datum": "2024-03-05",
+    "onderwerp": "Object,Vezip, Vondelpark 3. 4-3-2024 t/m 7-3-2024. PAALTJES, Vondelpark 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-99259.html"
+   },
+   {
+    "id": "gmb-2024-93032",
+    "titel": "Besluit evenementenvergunning VerleendVondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-93032.html"
+   },
+   {
+    "id": "gmb-2024-45894",
+    "titel": "Besluit evenementenvergunning VerleendVondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-45894.html"
+   },
+   {
+    "id": "gmb-2024-22739",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-22739.html"
+   },
+   {
+    "id": "gmb-2023-503806",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 3 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-11-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-503806.html"
+   },
+   {
+    "id": "gmb-2023-423442",
+    "titel": "Uitvoerings- en aanwijzingsbesluit parkeerbelasting Amsterdam december 2023",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2023-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-423442.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-VG02",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-11-07",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2001BPSTD-VG01",
+   "naam": "Oud West 2018 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-02-15",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2002BPSTD-VG01",
+   "naam": "Oud West 2018 2e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-11-10",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2202BPSTD-VG01",
+   "naam": "Oud West 2018 3e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-06-26",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2203BPSTD-VG01",
+   "naam": "Oud West 4e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-10-06",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-OW01",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2018-05-03",
+   "opp_m2": 1696790,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "onderzoek_naar_het_functioneren_van_zwembadenbaden",
+   "datum": "2024-03-07",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/92337/onderzoek_naar_het_functioneren_van_zwembadenbaden.pdf",
+   "fragment": "- ren warmtepomp. Buitenbad 39s nachts uitgeschakeld. Bijlage 6 blad 1 Onderzoek speelvijver AmsterdamAmstelveen 31 Haarlem 4 Aalsmeer 3 Uithoorn 3 Badhoevedorp 2 Diemen Watergang De Kwakel Kedelstaart Langelaar Opheusden Groeps ... Onoverzichtelijk Geen speeltoestellen 11 3 3 2 2 2 2 ja nee 20 29 ja namelijk Spaarnwoude A39damse Bos Amstelveen 2 Poelhoeve Beatrixpark Pieter Callandlaan Groenendaa"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 43,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-2692.pdf",
+   "bron": "bekendmaking stcrt-2014-2692: Verleende omgevingsvergunning afwijken bestemmingsplan Vondelpark 3, Amsterdam",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-20433.pdf",
+   "bron": "bekendmaking stcrt-2013-20433: Verleende omgevingsvergunning voor het tijdelijk afwijken bestemmingsplan voor het project Vondelpark 3, Amsterdam – West",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-26615.pdf",
+   "bron": "bekendmaking stcrt-2012-26615: Verleende omgevingsvergunning afwijken bestemmingsplan Vondelpark 3, Amsterdam - West",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/92337/onderzoek_naar_het_functioneren_van_zwembadenbaden.pdf",
+   "bron": "woo: onderzoek_naar_het_functioneren_van_zwembadenbaden",
+   "noemingen": 1,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "woo: onderzoek_naar_het_functioneren_van_zwembadenbaden",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\a80fc5840a8bfe6a.pdf",
+   "pagina": 27,
+   "paginas": 27,
+   "score": 6.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 1.0,
+   "woorden": [],
+   "tekst": "Bijlage 6 blad 2 Voordelen Ondiep 16 Leuk voor kinderen 15 Veel ruimte, groot 15 Schoon 9 Zandbak 7 Gratis 7 Overzicht/toezicht 6 Rustig 6 Betrouwbaar/veilig 5 Bosrand 5 Mooi 3 Traditie 2 Gemakkelijk parkeren 2 Geen honden 2 Goed onderhouden 2 Leuk gebouwd 2 Fontein 2 Kiosk Gezellig Bankjes Dicht bi",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/92337/onderzoek_naar_het_functioneren_van_zwembadenbaden.pdf",
+   "png": "data/sources/vondelpark3/sweep/a80fc5840a8bfe6a-p27.png"
+  }
+ ],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 50,
+ "pand_adressen": [
+  "Vondelpark 3"
+ ]
+}

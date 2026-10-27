@@ -1,0 +1,500 @@
+{
+ "id": "nxt-museum",
+ "naam": "Nxt Museum",
+ "adres": "Asterweg 22, 1031 HP Amsterdam",
+ "termen": [
+  "Asterweg 22",
+  "1031HP",
+  "1031 HP",
+  "Nxt Museum"
+ ],
+ "pand": "0363100012134051",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 19,
+  "openbaar": 19,
+  "laatste": "2004-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_20209",
+    "titel": "Asterweg 22",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_20209"
+   },
+   {
+    "dossier": "SN_03126",
+    "titel": "Asterdwarsweg 2 - 8; Asterdwarsweg 8 a; Asterweg 22 a - 28 a; Asterweg 24 - 30; Chrysantenstraat 1 - 9; Chrysantenstraat 13; Chrysantenstraat 19; Distelweg 99; Durgerdammerdijk 74; Frambozenstraat 1 - 26; Grasweg 54 - 60; Klaprozenweg 31 - 33; Korte Papaverweg 2 - 6; Molenwijk 22; mt. Ondinaweg 9; W",
+    "datum": "2002-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03126"
+   },
+   {
+    "dossier": "SN_16077",
+    "titel": "Asterdwarsweg 2 - 8; Asterdwarsweg 8 a; Asterweg 22 a - 28; Asterweg 30; Chrysantenstraat 1 - 9",
+    "datum": "2000-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_16077"
+   },
+   {
+    "dossier": "SN_13421",
+    "titel": "Asterweg 22",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_13421"
+   },
+   {
+    "dossier": "SN_13279",
+    "titel": "Asterweg 22",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 115,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_13279"
+   },
+   {
+    "dossier": "SN_07218",
+    "titel": "Asterweg 22",
+    "datum": "1977-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07218"
+   },
+   {
+    "dossier": "SN_07214",
+    "titel": "Asterweg 22",
+    "datum": "1977-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07214"
+   },
+   {
+    "dossier": "SN_07199",
+    "titel": "Asterweg 22",
+    "datum": "1977-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 140,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07199"
+   },
+   {
+    "dossier": "SN_01803",
+    "titel": "Asterdwarsweg 2 - 8; Asterdwarsweg 8 a; Asterweg 22 a - 28 a; Asterweg 24 - 30; Chrysantenstraat 1 - 9",
+    "datum": "1969-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01803"
+   },
+   {
+    "dossier": "SN_12137",
+    "titel": "Asterdwarsweg 2 - 8; Asterdwarsweg 8 a; Asterweg 22 a - 28 a; Asterweg 24 - 30; Chrysantenstraat 1 - 9",
+    "datum": "1969-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 72,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_12137"
+   },
+   {
+    "dossier": "SN_07144",
+    "titel": "Asterweg 22",
+    "datum": "1966-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07144"
+   },
+   {
+    "dossier": "SN_07150",
+    "titel": "Asterweg 22",
+    "datum": "1966-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07150"
+   },
+   {
+    "dossier": "SN_07159",
+    "titel": "Asterweg 22",
+    "datum": "1964-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07159"
+   },
+   {
+    "dossier": "SN_07138",
+    "titel": "Asterweg 22",
+    "datum": "1961-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07138"
+   },
+   {
+    "dossier": "SN_07127",
+    "titel": "Asterweg 22",
+    "datum": "1960-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07127"
+   },
+   {
+    "dossier": "SN_01787",
+    "titel": "Asterweg 22",
+    "datum": "1957-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01787"
+   },
+   {
+    "dossier": "SN_06976",
+    "titel": "Asterweg 22",
+    "datum": "1957-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06976"
+   },
+   {
+    "dossier": "SN_06979",
+    "titel": "Asterweg 22",
+    "datum": "1953-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06979"
+   },
+   {
+    "dossier": "SN_07227",
+    "titel": "Asterweg 22",
+    "datum": "1950-01-01",
+    "soort": "omgevingsvergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07227"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Asterweg 22",
+   "Asterweg 22A"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-328217",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Asterweg 22 1031HP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "vervangen van zeven kozijnen op de begane grond aan de straatzijde",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-328217.html",
+    "zaak": "Z2022-N000962"
+   },
+   {
+    "id": "gmb-2022-157484",
+    "titel": "Aanvraag omgevingsvergunning Asterweg 22 1031HP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-07",
+    "onderwerp": "vervangen van zeven kozijnen op de begane grond aan de straatzijde",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-157484.html",
+    "zaak": "Z2022-N000962"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2022-328217",
+   "gmb-2022-157484"
+  ],
+  "zaaknummers": [
+   "Z2022-N000962"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-499457",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Asterweg 22",
+    "soort": "andere vergunning",
+    "datum": "2026-10-27",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-499457.html"
+   },
+   {
+    "id": "gmb-2026-193211",
+    "titel": "Besluit alcoholwetvergunning Verleend - Asterweg 22-A in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-23",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Asterweg 22-A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-193211.html"
+   },
+   {
+    "id": "gmb-2026-193208",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Asterweg 22-A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Asterweg 22-A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-193208.html"
+   },
+   {
+    "id": "gmb-2026-113372",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Asterweg 22 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-03-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Asterweg 22 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-113372.html"
+   },
+   {
+    "id": "gmb-2026-15971",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Asterweg 22-A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-15",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Asterweg 22-A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-15971.html"
+   },
+   {
+    "id": "gmb-2026-15993",
+    "titel": "Aanvraag alcoholwetvergunning Asterweg 22-A",
+    "soort": "andere vergunning",
+    "datum": "2026-01-15",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Asterweg 22-A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-15993.html"
+   },
+   {
+    "id": "gmb-2026-4088",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Asterweg 22 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Asterweg 22 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-4088.html"
+   },
+   {
+    "id": "gmb-2025-378953",
+    "titel": "Besluit alcoholwetvergunning Verleend - Asterweg 22 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-378953.html"
+   },
+   {
+    "id": "gmb-2025-379012",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Asterweg 22 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Asterweg 22 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-379012.html"
+   },
+   {
+    "id": "gmb-2025-332780",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Asterweg 22 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Asterweg 22 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-332780.html"
+   },
+   {
+    "id": "gmb-2025-332874",
+    "titel": "Aanvraag alcoholwetvergunning Asterweg 22",
+    "soort": "andere vergunning",
+    "datum": "2025-07-29",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-332874.html"
+   },
+   {
+    "id": "gmb-2025-183178",
+    "titel": "Besluit alcoholwetvergunning Buiten behandeling - Asterweg 22 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Buiten behandeling: alcoholwetvergunning op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183178.html"
+   },
+   {
+    "id": "gmb-2025-183083",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Buiten behandeling - Asterweg 22 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Buiten behandeling: exploitatievergunning horecabedrijf op adres Asterweg 22 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183083.html"
+   },
+   {
+    "id": "gmb-2025-139169",
+    "titel": "Aanvraag alcoholwetvergunning Asterweg 22",
+    "soort": "andere vergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139169.html"
+   },
+   {
+    "id": "gmb-2025-139203",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Asterweg 22 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Asterweg 22 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139203.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2022-567344",
+    "titel": "Besluit alcoholwetvergunning Verleend - Asterweg 22 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2022-12-22",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-567344.html"
+   },
+   {
+    "id": "gmb-2022-567403",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Asterweg 22 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-12-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Asterweg 22 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-567403.html"
+   },
+   {
+    "id": "gmb-2022-535244",
+    "titel": "Aanvraag alcoholwetvergunning Asterweg 22",
+    "soort": "andere vergunning",
+    "datum": "2022-12-02",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Asterweg 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-535244.html"
+   },
+   {
+    "id": "gmb-2022-503572",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Asterweg 22 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-11-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Asterweg 22 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-503572.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1405BPSTD-VG01",
+   "naam": "Vierde partiële herziening bestemmingsplan Buiksloterham",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-12-21",
+   "opp_m2": 1028099,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Asterweg 22",
+  "Asterweg 22A"
+ ]
+}

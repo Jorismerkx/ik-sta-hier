@@ -1,0 +1,370 @@
+{
+ "id": "kompaszaal",
+ "naam": "Kompaszaal",
+ "adres": "KNSM-laan 311, 1019 LE Amsterdam",
+ "termen": [
+  "KNSM-laan 311",
+  "1019LE",
+  "1019 LE",
+  "Kompaszaal"
+ ],
+ "pand": "0363100012142095",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 7,
+  "laatste": "1998-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_22380",
+    "titel": "Surinamekade 30 t.h.v - 33",
+    "datum": "1998-01-01",
+    "soort": "kunstwerk",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22380"
+   },
+   {
+    "dossier": "SU_22293",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1996-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22293"
+   },
+   {
+    "dossier": "SU_22291",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1996-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22291"
+   },
+   {
+    "dossier": "SU_22294",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1996-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22294"
+   },
+   {
+    "dossier": "SU_22290",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1995-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22290"
+   },
+   {
+    "dossier": "SU_22284",
+    "titel": "KNSM-laan 11 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 138,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22284"
+   },
+   {
+    "dossier": "SU_22298",
+    "titel": "KNSM-laan 15 - 311; Surinamekade 6 - 33",
+    "datum": "1995-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22298"
+   },
+   {
+    "dossier": "SU_37519",
+    "titel": "Surinamekade 9",
+    "datum": "1993-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_37519"
+   },
+   {
+    "dossier": "SU_30455",
+    "titel": "KNSM-laan 11 - 239; KNSM-laan 291 - 311; Messinastraat 1 - 3; Surinamekade 6 - 33",
+    "datum": "1991-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30455"
+   },
+   {
+    "dossier": "SU_19773",
+    "titel": "Surinamekade 4 - 6",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_19773"
+   },
+   {
+    "dossier": "SU_22321",
+    "titel": "Surinamekade 1 - 3; Surinamekade 4 - 6; Surinamekade 54 - 56",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22321"
+   },
+   {
+    "dossier": "SU_30622",
+    "titel": "Surinamekade 1 - 15; Surinamekade 4 - 6; Surinamekade 54 - 60",
+    "datum": "1989-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30622"
+   },
+   {
+    "dossier": "SU_22304",
+    "titel": "Surinamekade 1 - 5; Surinamekade 6; Surinamekade 54 - 56",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_22304"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 14,
+  "gezocht": [
+   "KNSM-laan 311",
+   "KNSM-laan 101",
+   "KNSM-laan 103",
+   "KNSM-laan 105",
+   "KNSM-laan 107",
+   "KNSM-laan 109",
+   "KNSM-laan 11",
+   "KNSM-laan 111",
+   "KNSM-laan 113",
+   "KNSM-laan 115",
+   "KNSM-laan 117",
+   "KNSM-laan 119",
+   "KNSM-laan 121"
+  ],
+  "vergunningen": [
+   {
+    "id": "prb-2026-7343",
+    "titel": "Omgevingsvergunning verleend voor Levantplein 2-36, KNSM-laan 11-610, Levantkade 49-149, Levantkade 167 en Piraeusplein 1-75 te Amsterdam (flora- en fauna-activiteit)",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-30",
+    "onderwerp": "",
+    "activiteit": "natuur",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-7343.html",
+    "zaak": "OMG-073839"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2024-474679",
+    "titel": "Besluit apv vergunning Verleend - KNSM-laan ter hoogte van nummer: 311 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "TVM parkeervak,Vezip,Filmen, KNSM-laan 311 1019LE, 18-11-2024, KNSM-laan ter hoogte van nummer: 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-474679.html"
+   },
+   {
+    "id": "gmb-2024-372205",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - KNSM-laan 311 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres KNSM-laan 311 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-372205.html"
+   },
+   {
+    "id": "gmb-2024-276917",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - KNSM-laan 311 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres KNSM-laan 311 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276917.html"
+   },
+   {
+    "id": "gmb-2023-505613",
+    "titel": "Besluit apv vergunning Verleend - KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2023-11-28",
+    "onderwerp": "Werkzaamheden en vervoer op straat KNSM-laan 311 1019LE, KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-505613.html"
+   },
+   {
+    "id": "gmb-2023-1245",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2023-01-02",
+    "onderwerp": "TVM vakken / KNSM-Laan 311 / 11-1-2023, KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-1245.html"
+   },
+   {
+    "id": "gmb-2022-544094",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2022-12-08",
+    "onderwerp": "TVM vakken / Knsm-Laan 311 / 12-12-2022, KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-544094.html"
+   },
+   {
+    "id": "gmb-2022-170711",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 11",
+    "soort": "andere vergunning",
+    "datum": "2022-04-19",
+    "onderwerp": "TVM vakken en RVV / Knsm-Laan 11 - 629 / 22-4-2022, KNSM-laan 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-170711.html"
+   },
+   {
+    "id": "gmb-2022-78179",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 109",
+    "soort": "andere vergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "TVM / 6 PV - KNSM-Laan 678 , 24-02-2022, KNSM-laan 109",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-78179.html"
+   },
+   {
+    "id": "gmb-2021-445840",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2021-12-09",
+    "onderwerp": "Fietsen of fietsenrek(ken) verwijderen, Knsm-Laan 311-325, 10-01-2022 - 21-01-2022, KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-445840.html"
+   },
+   {
+    "id": "gmb-2021-442874",
+    "titel": "Besluit apv vergunning Verleend KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2021-12-07",
+    "onderwerp": "28 PV, Knsm-Laan 311, 16-01-2022 t/m 28-01-2022, KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-442874.html"
+   },
+   {
+    "id": "gmb-2021-258631",
+    "titel": "Verkeersbesluit KNSM-laan 109 aanleg elektrische oplaadplaats",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2021-08-06",
+    "onderwerp": "KNSM-laan 109 aanleg elektrische oplaadplaats",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-258631.html"
+   },
+   {
+    "id": "gmb-2021-222177",
+    "titel": "Besluit alcoholwetvergunning Verleend KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2021-07-12",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-222177.html"
+   },
+   {
+    "id": "gmb-2021-215044",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend KNSM-laan 311",
+    "soort": "andere vergunning",
+    "datum": "2021-07-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres KNSM-laan 311",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-215044.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.BP01117-OH01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-10-11",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.BP01117-VG01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 15,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 17,
+ "pand_adressen": [
+  "KNSM-laan 101",
+  "KNSM-laan 103",
+  "KNSM-laan 105",
+  "KNSM-laan 107",
+  "KNSM-laan 109",
+  "KNSM-laan 11",
+  "KNSM-laan 111",
+  "KNSM-laan 113",
+  "KNSM-laan 115",
+  "KNSM-laan 117",
+  "KNSM-laan 119",
+  "KNSM-laan 121"
+ ]
+}

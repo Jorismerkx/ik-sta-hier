@@ -1,0 +1,769 @@
+{
+ "id": "de-meervaart",
+ "naam": "De Meervaart",
+ "adres": "Meer en Vaart 300, 1068 LE Amsterdam",
+ "termen": [
+  "Meer en Vaart 300",
+  "1068LE",
+  "1068 LE",
+  "De Meervaart"
+ ],
+ "pand": "0363100012085435",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 20,
+  "openbaar": 1,
+  "laatste": "2002-01-01",
+  "dossiers": [
+   {
+    "dossier": "SQ_03679",
+    "titel": "Meer en Vaart 300",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03679"
+   },
+   {
+    "dossier": "SQ_10120",
+    "titel": "Meer en Vaart 300",
+    "datum": "2001-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_10120"
+   },
+   {
+    "dossier": "SQ_03599",
+    "titel": "Meer en Vaart 300",
+    "datum": "1999-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03599"
+   },
+   {
+    "dossier": "SQ_03405",
+    "titel": "Meer en Vaart 300; Osdorpplein 3 - 8; Osdorpplein 10; Osdorpplein 14 - 16",
+    "datum": "1998-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 868,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03405"
+   },
+   {
+    "dossier": "SQ_03422",
+    "titel": "Meer en Vaart 300; Osdorpplein 3 - 8; Osdorpplein 10; Osdorpplein 14 - 16",
+    "datum": "1998-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1822,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03422"
+   },
+   {
+    "dossier": "SQ_03386",
+    "titel": "Osdorpplein 10 - 26",
+    "datum": "1998-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03386"
+   },
+   {
+    "dossier": "SQ_10398",
+    "titel": "Meer en Vaart 300; Osdorpplein 3 - 8; Osdorpplein 10; Osdorpplein 14 - 16",
+    "datum": "1998-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_10398"
+   },
+   {
+    "dossier": "SQ_03410",
+    "titel": "Meer en Vaart 300; Osdorpplein 3 - 8; Osdorpplein 10; Osdorpplein 14 - 16",
+    "datum": "1997-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 95,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03410"
+   },
+   {
+    "dossier": "SQ_03384",
+    "titel": "Meer en Vaart 300; Osdorpplein 3 - 8; Osdorpplein 10; Osdorpplein 14 - 16",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 315,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03384"
+   },
+   {
+    "dossier": "SQ_03482",
+    "titel": "Osdorpplein 6; Osdorpplein 8; Osdorpplein 229",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03482"
+   },
+   {
+    "dossier": "SQ_03048",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222",
+    "datum": "1964-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03048"
+   },
+   {
+    "dossier": "SQ_03278",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222; Osdorpplein 251; Osdorpplein 256; Osdorpplein 259 - 260; Osdorpplein 263 - 351; Osdorpplein 354; Osdorpplein 355 - 357; Osdorpplein 358; Osdorpplein 366; Osdorpplein 372 - 388",
+    "datum": "1963-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03278"
+   },
+   {
+    "dossier": "SQ_03277",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222; Osdorpplein 251; Osdorpplein 256; Osdorpplein 259 - 260; Osdorpplein 263 - 351; Osdorpplein 354; Osdorpplein 355 - 357; Osdorpplein 358; Osdorpplein 366; Osdorpplein 372 - 388",
+    "datum": "1963-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03277"
+   },
+   {
+    "dossier": "SQ_03046",
+    "titel": "Osdorpplein 10 - 208; Osdorpplein 11 - 29",
+    "datum": "1963-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03046"
+   },
+   {
+    "dossier": "SQ_03276",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222; Osdorpplein 251; Osdorpplein 256; Osdorpplein 259 - 260; Osdorpplein 263 - 351; Osdorpplein 354; Osdorpplein 355 - 357; Osdorpplein 358; Osdorpplein 366; Osdorpplein 372 - 388",
+    "datum": "1962-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 267,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03276"
+   },
+   {
+    "dossier": "SQ_03275",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222; Osdorpplein 251; Osdorpplein 256; Osdorpplein 259 - 260; Osdorpplein 263 - 351; Osdorpplein 354; Osdorpplein 355 - 357; Osdorpplein 358; Osdorpplein 366; Osdorpplein 372 - 388",
+    "datum": "1962-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03275"
+   },
+   {
+    "dossier": "SQ_03269",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222; Osdorpplein 251; Osdorpplein 256; Osdorpplein 259 - 260; Osdorpplein 263 - 351; Osdorpplein 354; Osdorpplein 355 - 357; Osdorpplein 358; Osdorpplein 366; Osdorpplein 372 - 388",
+    "datum": "1962-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 349,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03269"
+   },
+   {
+    "dossier": "SQ_09332",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222",
+    "datum": "1962-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_09332"
+   },
+   {
+    "dossier": "SQ_03274",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222; Osdorpplein 251; Osdorpplein 256; Osdorpplein 259 - 260; Osdorpplein 263 - 351; Osdorpplein 354; Osdorpplein 355 - 357; Osdorpplein 358; Osdorpplein 366; Osdorpplein 372 - 388",
+    "datum": "1961-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_03274"
+   },
+   {
+    "dossier": "SQ_09337",
+    "titel": "Osdorpplein 3 - 27; Osdorpplein 10; Osdorpplein 20; Osdorpplein 26 - 210; Osdorpplein 214 - 222",
+    "datum": "1961-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_09337"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 67,
+  "gezocht": [
+   "Meer en Vaart 300",
+   "Osdorpplein 10",
+   "Osdorpplein 14",
+   "Osdorpplein 16",
+   "Osdorpplein 6"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-527160",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Osdorpplein 16 1068EL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-28",
+    "onderwerp": "het plaatsen van een tijdelijk tuinbouwkas op het Osdorpplein 16, OLO 7021277",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-527160.html",
+    "zaak": "Z2022-NW001692"
+   },
+   {
+    "id": "gmb-2022-254976",
+    "titel": "Aanvraag omgevingsvergunning Osdorpplein 16 1068EL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-07",
+    "onderwerp": "het plaatsen van een gesloten tuinbouwkas op het Osdorpplein 16, OLO 7021277",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-254976.html"
+   },
+   {
+    "id": "gmb-2022-90806",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Meer en Vaart 300 1068LE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "voor het plaatsen van een Foodtruck (verrijdbaar) voor maximaal 10 jaar, OLO 5893417",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-90806.html"
+   },
+   {
+    "id": "gmb-2022-14730",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Meer en Vaart 300 1068LE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-13",
+    "onderwerp": "afwijken van het bestemmingsplan voor het plaatsen van een Foodtruck op Meer en Vaart, OLO 5893417",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-14730.html",
+    "zaak": "Z2021-NW003203"
+   },
+   {
+    "id": "gmb-2021-422629",
+    "titel": "Aanvraag omgevingsvergunning nabij Meer en Vaart 300 1068LE Amsterdam,",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-24",
+    "onderwerp": "Plaatsen van een Foodtruck op Meer en Vaart, OLO 5893417",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-422629.html"
+   },
+   {
+    "id": "gmb-2021-323139",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Meer en Vaart 300 1068LE Amsterdam, [ASD02G09546]Straatnaam Amsterdam A G 9546",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-20",
+    "onderwerp": "het plaatsen van een foodbar/container, OLO 6251309",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-323139.html",
+    "zaak": "Z2021-C004703"
+   },
+   {
+    "id": "gmb-2021-258839",
+    "titel": "Aanvraag omgevingsvergunning Nabij Meer en Vaart 300 1068LE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-02",
+    "onderwerp": "plaatsen van een foodbar/container, OLO 6251309",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-258839.html",
+    "zaak": "Z2021-C004703"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2022-527160",
+   "gmb-2022-254976",
+   "gmb-2022-90806",
+   "gmb-2021-422629",
+   "gmb-2021-323139",
+   "gmb-2021-258839"
+  ],
+  "zaaknummers": [
+   "Z2021-C004703",
+   "Z2022-NW001692"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2026-243575",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van het Omgevingsplan gemeente Amsterdam in verband met regels over slaapplaatsen in hotels (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Slaapplaatsen hotels)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-05-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243575.html"
+   },
+   {
+    "id": "gmb-2025-532910",
+    "titel": "ONTWERP Besluit van de raad van de gemeente Amsterdam tot wijziging van het Omgevingsplan gemeente Amsterdam in verband met regels over slaapplaatsen in hotels (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Slaapplaatsen hotels)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-12-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-532910.html"
+   },
+   {
+    "id": "stcrt-2010-4773",
+    "titel": "Kennisgeving vaststelling bestemmingsplan ‘Osdorperweg e.o.’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2010-03-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-4773.html"
+   },
+   {
+    "id": "stcrt-2010-2625",
+    "titel": "Kennisgeving ontwerpbestemmingsplan ‘Meer en Oever’",
+    "soort": "Overig",
+    "datum": "2010-02-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2625.html"
+   },
+   {
+    "id": "stcrt-2010-2627",
+    "titel": "Kennisgeving ontwerpbestemmingsplan ‘Zuidoosthoek’",
+    "soort": "Overig",
+    "datum": "2010-02-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-2627.html"
+   },
+   {
+    "id": "stcrt-2009-16761",
+    "titel": "Kennisgeving terinzagelegging ontwerpbestemmingsplan ‘Osdorperweg e.o.’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-11-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-16761.html"
+   },
+   {
+    "id": "stcrt-2009-4420",
+    "titel": "Kennisgeving vrijgave voor inspraak voorontwerpbestemmingsplan ‘Osdorperweg e.o.’",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2009-04-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2009-4420.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-488057",
+    "titel": "Besluit apv vergunning Verleend - Meer en Vaart ter hoogte van nummer: 300 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Object,Meer en Vaart 300 1068LE, 20261020, Meer en Vaart ter hoogte van nummer: 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-488057.html"
+   },
+   {
+    "id": "gmb-2026-332272",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-13",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-332272.html"
+   },
+   {
+    "id": "gmb-2026-303747",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-303747.html"
+   },
+   {
+    "id": "gmb-2026-243675",
+    "titel": "Besluit apv vergunning Verleend - Meer en Vaart ter hoogte van nummer: 300 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Object,Meer en Vaart 300 1068LE, 20260701, Meer en Vaart ter hoogte van nummer: 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243675.html"
+   },
+   {
+    "id": "gmb-2026-241204",
+    "titel": "Besluit apv vergunning Verleend - Meer en Vaart ter hoogte van nummer: 300 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "Object,Meer en Vaart 300 1068LE, 20260512, Meer en Vaart ter hoogte van nummer: 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241204.html"
+   },
+   {
+    "id": "gmb-2026-127374",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-127374.html"
+   },
+   {
+    "id": "gmb-2025-555633",
+    "titel": "Besluit evenementenvergunning Verleend - Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-555633.html"
+   },
+   {
+    "id": "gmb-2025-503195",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-503195.html"
+   },
+   {
+    "id": "blg-1219597",
+    "titel": "Gemeentenieuws van SZW 2025-5",
+    "soort": "Bijlage",
+    "datum": "2025-10-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-1219597.html"
+   },
+   {
+    "id": "gmb-2025-410222",
+    "titel": "Besluit evenementenvergunning Verleend - Osdorpplein 16 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Osdorpplein 16 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-410222.html"
+   },
+   {
+    "id": "gmb-2025-397042",
+    "titel": "Besluit apv vergunning Verleend - Meer en Vaart ter hoogte van nummer: 300 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Object,Meer en Vaart 300 1068LE, 20250925, Meer en Vaart ter hoogte van nummer: 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397042.html"
+   },
+   {
+    "id": "gmb-2025-350559",
+    "titel": "Aanvraag evenementenvergunning Osdorpplein 16 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Osdorpplein 16 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-350559.html"
+   },
+   {
+    "id": "gmb-2025-255810",
+    "titel": "Besluit evenementenvergunning Verleend - Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-13",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-255810.html"
+   },
+   {
+    "id": "gmb-2025-206563",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) - Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-13",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-206563.html"
+   },
+   {
+    "id": "gmb-2025-180680",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-25",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-180680.html"
+   },
+   {
+    "id": "gmb-2025-108736",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-108736.html"
+   },
+   {
+    "id": "gmb-2025-48228",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-06",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-48228.html"
+   },
+   {
+    "id": "gmb-2025-21345",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Meer en Vaart 300 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-01-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-21345.html"
+   },
+   {
+    "id": "gmb-2024-478547",
+    "titel": "Aanvraag alcoholwetvergunning Meer en Vaart 300",
+    "soort": "andere vergunning",
+    "datum": "2024-11-14",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Meer en Vaart 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-478547.html"
+   },
+   {
+    "id": "gmb-2024-464546",
+    "titel": "Besluit apv vergunning Verleend - Meer en Vaart 300",
+    "soort": "andere vergunning",
+    "datum": "2024-11-05",
+    "onderwerp": "Object, Meer en Vaart 300 1068LE, 20241105, Meer en Vaart 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-464546.html"
+   },
+   {
+    "id": "gmb-2024-410112",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-410112.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-194834",
+    "titel": "Besluit evenementenvergunning VerleendOsdorpplein 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Osdorpplein 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-194834.html"
+   },
+   {
+    "id": "gmb-2024-158267",
+    "titel": "Besluit evenementenvergunning VerleendMeer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158267.html"
+   },
+   {
+    "id": "gmb-2024-70690",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-70690.html"
+   },
+   {
+    "id": "gmb-2024-70689",
+    "titel": "Aanvraag evenementenvergunning Osdorpplein 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Osdorpplein 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-70689.html"
+   },
+   {
+    "id": "gmb-2023-512388",
+    "titel": "Besluit evenementenvergunning VerleendMeer en Vaart 300 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Meer en Vaart 300 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-512388.html"
+   },
+   {
+    "id": "gmb-2023-501796",
+    "titel": "Aanvraag evenementenvergunning Meer en Vaart 300 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-11-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Meer en Vaart 300 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-501796.html"
+   },
+   {
+    "id": "gmb-2023-299736",
+    "titel": "Besluit apv vergunning Verleend - Meer en Vaart 300",
+    "soort": "andere vergunning",
+    "datum": "2023-07-10",
+    "onderwerp": "Objecten/ Meer en Vaart 300/ 6-7-2023 T/M 23-8-2023 07:00 T/M 12:00, Meer en Vaart 300",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-299736.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.F1104BPSTD-VG01",
+   "naam": "Osdorpplein e.o",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-26",
+   "opp_m2": 690724,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 8,
+  "plannen": 10,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243575.pdf",
+   "bron": "bekendmaking gmb-2026-243575: Besluit van de raad van de gemeente Amsterdam tot wijziging van het Omgevingsplan gemeente Amsterdam in verband met regels over slaapplaatsen in hotels (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Slaapplaatsen hotels)",
+   "noemingen": 1,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-532910.pdf",
+   "bron": "bekendmaking gmb-2025-532910: ONTWERP Besluit van de raad van de gemeente Amsterdam tot wijziging van het Omgevingsplan gemeente Amsterdam in verband met regels over slaapplaatsen in hotels (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Slaapplaatsen hotels)",
+   "noemingen": 1,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "bekendmaking gmb-2025-532910: ONTWERP Besluit van de raad van de gemeente Amsterdam tot wijziging van het Omgevingsplan gemeente Amsterdam in verband met regels over slaapplaatsen in hotels (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Slaapplaatsen hotels)",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\ec9a959028003171.pdf",
+   "pagina": 5,
+   "paginas": 128,
+   "score": 9.0,
+   "tekening": true,
+   "vectoren": 1081,
+   "beelddekking": 0.01,
+   "woorden": [
+    "plattegrond"
+   ],
+   "tekst": "2. Deze paragraaf is niet van toepassing op het verplaatsen van bestaande slaapplaatsen in een hotel waarbij het aantal slaapplaatsen niet toeneemt. Artikel 3.54 Vergunningplicht voor het realiseren van nieuwe slaapplaatsen in hotels Het is verboden zonder omgevingsvergunning nieuwe slaapplaatsen in",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-532910.pdf",
+   "png": "data/sources/de-meervaart/sweep/ec9a959028003171-p5.png"
+  },
+  {
+   "bron": "bekendmaking gmb-2026-243575: Besluit van de raad van de gemeente Amsterdam tot wijziging van het Omgevingsplan gemeente Amsterdam in verband met regels over slaapplaatsen in hotels (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Slaapplaatsen hotels)",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\78802edfbae5a898.pdf",
+   "pagina": 4,
+   "paginas": 51,
+   "score": 6.0,
+   "tekening": true,
+   "vectoren": 448,
+   "beelddekking": 0.01,
+   "woorden": [
+    "plattegrond"
+   ],
+   "tekst": "Artikel 3.57 Aanvraagvereisten Bij een aanvraag om een omgevingsvergunning, bedoeld in artikel 3.54, worden in ieder geval de volgende gegevens en bescheiden verstrekt: a. het aantal bestaande slaapplaatsen in het hotel waarvan de exploitatie wordt beëindigd; b. een plattegrond op schaal met de kame",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243575.pdf",
+   "png": "data/sources/de-meervaart/sweep/78802edfbae5a898-p4.png"
+  }
+ ],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 177,
+ "pand_adressen": [
+  "Meer en Vaart 300",
+  "Osdorpplein 10",
+  "Osdorpplein 14",
+  "Osdorpplein 16",
+  "Osdorpplein 6"
+ ]
+}

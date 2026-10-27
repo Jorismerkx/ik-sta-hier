@@ -1,0 +1,425 @@
+{
+ "id": "q-factory",
+ "naam": "Q-Factory",
+ "adres": "Atlantisplein 1, 1093 NE Amsterdam",
+ "termen": [
+  "Atlantisplein 1",
+  "1093NE",
+  "1093 NE",
+  "Q-Factory"
+ ],
+ "pand": "0363100012158881",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 18,
+  "openbaar": 0,
+  "laatste": "2009-03-01",
+  "dossiers": [
+   {
+    "dossier": "SU_35318",
+    "titel": "Atlantisplein 1",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35318"
+   },
+   {
+    "dossier": "SU_35307",
+    "titel": "Atlantisplein 1",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 463,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35307"
+   },
+   {
+    "dossier": "SU_34962",
+    "titel": "Atlantisplein 1",
+    "datum": "2009-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_34962"
+   },
+   {
+    "dossier": "SU_35099",
+    "titel": "Atlantisplein 1",
+    "datum": "2009-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35099"
+   },
+   {
+    "dossier": "SU_34689",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 153,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_34689"
+   },
+   {
+    "dossier": "SU_35235",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 539,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35235"
+   },
+   {
+    "dossier": "SU_35211",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35211"
+   },
+   {
+    "dossier": "SU_35217",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 157,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35217"
+   },
+   {
+    "dossier": "SU_35220",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 306,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35220"
+   },
+   {
+    "dossier": "SU_35206",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 191,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35206"
+   },
+   {
+    "dossier": "SU_35205",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35205"
+   },
+   {
+    "dossier": "SU_34985",
+    "titel": "Atlantisplein 1",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_34985"
+   },
+   {
+    "dossier": "SU_35200",
+    "titel": "Atlantisplein 1",
+    "datum": "2007-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35200"
+   },
+   {
+    "dossier": "SU_35181",
+    "titel": "Atlantisplein 1",
+    "datum": "2007-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 120,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35181"
+   },
+   {
+    "dossier": "SU_35186",
+    "titel": "Atlantisplein 1",
+    "datum": "2007-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 153,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35186"
+   },
+   {
+    "dossier": "SU_35170",
+    "titel": "Atlantisplein 1",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 351,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35170"
+   },
+   {
+    "dossier": "SU_35040",
+    "titel": "Atlantisplein 1",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 222,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35040"
+   },
+   {
+    "dossier": "SU_34980",
+    "titel": "Atlantisplein 1",
+    "datum": "2006-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 557,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_34980"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 17,
+  "gezocht": [
+   "Atlantisplein 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "blg-1258634",
+    "titel": "Gebundelde reacties schriftelijk geconsulteerde organisaties",
+    "soort": "Bijlage",
+    "datum": "2026-07-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-1258634.html"
+   },
+   {
+    "id": "gmb-2025-140908",
+    "titel": "Besluit apv vergunning Verleend - Atlantisplein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Object, Atlantisplein 1 1093NE, 1-4-2025 t/m 16-1-2025, Atlantisplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-140908.html"
+   },
+   {
+    "id": "gmb-2024-476152",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Atlantisplein 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Atlantisplein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-476152.html"
+   },
+   {
+    "id": "gmb-2024-476154",
+    "titel": "Besluit alcoholwetvergunning Verleend - Atlantisplein 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Atlantisplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-476154.html"
+   },
+   {
+    "id": "gmb-2024-443776",
+    "titel": "Aanvraag alcoholwetvergunning Atlantisplein 1",
+    "soort": "andere vergunning",
+    "datum": "2024-10-22",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Atlantisplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-443776.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-61017",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Atlantisplein 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Atlantisplein 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-61017.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-364387",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Atlantisplein 1",
+    "soort": "andere vergunning",
+    "datum": "2022-08-09",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Atlantisplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-364387.html"
+   },
+   {
+    "id": "gmb-2022-81729",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Atlantisplein 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-24",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Atlantisplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-81729.html"
+   },
+   {
+    "id": "gmb-2021-380723",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Atlantisplein 1",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Atlantisplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380723.html"
+   },
+   {
+    "id": "blg-947652",
+    "titel": "Afschrift van het antwoord op de brief van Transgender Netwerk Nederland (TNN) over de deelname van transgender personen aan bevolkingsonderzoeken",
+    "soort": "Bijlage",
+    "datum": "2020-09-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-947652.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.M1306BPSTD-VG01",
+   "naam": "Oostpoort",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-03-11",
+   "opp_m2": 222822,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Informatieblad Wet wijziging vermelding van het geslacht in de geboorteakte (transgenders)",
+   "datum": "2019-12-03",
+   "door": "Onbekend",
+   "url": "https://open.overheid.nl/documenten/ronl-abf97b76-cdd7-4ae8-a746-b0fa48fc7032",
+   "fragment": "op werkdagen van 08.00 tot 20.00 uur. U kunt uw vraag ook per e-mail stellen via het contactformulier op de website. Transgender Netwerk Atlantisplein 1 Kamer 2.14 1093 NE Amsterdam Telefoon 020 205 09 15 E-mail info64transgendernetwerk.nl ... Gesproken versie Wet wijziging vermelding van het geslacht in de geboorteakte transgenders Informatieblad Transgender  1 Dit informatieblad vermeld op hoofd"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Atlantisplein 1"
+ ]
+}

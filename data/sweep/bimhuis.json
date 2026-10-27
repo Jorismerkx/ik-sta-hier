@@ -1,0 +1,889 @@
+{
+ "id": "bimhuis",
+ "naam": "Bimhuis",
+ "adres": "Piet Heinkade 3, 1019 BR Amsterdam",
+ "termen": [
+  "Piet Heinkade 3",
+  "1019BR",
+  "1019 BR",
+  "Bimhuis"
+ ],
+ "pand": "0363100012118833",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 41,
+  "openbaar": 4,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_27407",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_27407"
+   },
+   {
+    "dossier": "SU_31070",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 368,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31070"
+   },
+   {
+    "dossier": "SU_27249",
+    "titel": "Piet Heinkade 1",
+    "datum": "2006-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_27249"
+   },
+   {
+    "dossier": "SU_31068",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31068"
+   },
+   {
+    "dossier": "SU_28812",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 131,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28812"
+   },
+   {
+    "dossier": "SU_28809",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28809"
+   },
+   {
+    "dossier": "SU_28806",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 192,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28806"
+   },
+   {
+    "dossier": "SU_28794",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 562,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28794"
+   },
+   {
+    "dossier": "SU_28787",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 331,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28787"
+   },
+   {
+    "dossier": "SU_28799",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 192,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28799"
+   },
+   {
+    "dossier": "SU_28783",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2005-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 446,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28783"
+   },
+   {
+    "dossier": "SU_28781",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2004-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 363,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28781"
+   },
+   {
+    "dossier": "SU_28335",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2004-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28335"
+   },
+   {
+    "dossier": "SU_28780",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2004-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 91,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28780"
+   },
+   {
+    "dossier": "SU_28333",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2004-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28333"
+   },
+   {
+    "dossier": "SU_28778",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2004-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 199,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28778"
+   },
+   {
+    "dossier": "SU_28330",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2004-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 185,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28330"
+   },
+   {
+    "dossier": "SU_28322",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2004-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 282,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28322"
+   },
+   {
+    "dossier": "XY_01700",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01700"
+   },
+   {
+    "dossier": "SU_31678",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31678"
+   },
+   {
+    "dossier": "SU_28776",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2004-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 203,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28776"
+   },
+   {
+    "dossier": "SU_28316",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 642,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28316"
+   },
+   {
+    "dossier": "SU_28314",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 620,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28314"
+   },
+   {
+    "dossier": "SU_28311",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 488,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28311"
+   },
+   {
+    "dossier": "SU_28302",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 431,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28302"
+   },
+   {
+    "dossier": "SU_28154",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 906,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28154"
+   },
+   {
+    "dossier": "SU_28193",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 699,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28193"
+   },
+   {
+    "dossier": "SU_28185",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 381,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28185"
+   },
+   {
+    "dossier": "SU_28180",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 384,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28180"
+   },
+   {
+    "dossier": "SU_28146",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 867,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28146"
+   },
+   {
+    "dossier": "SU_28138",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 741,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28138"
+   },
+   {
+    "dossier": "SU_33011",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_33011"
+   },
+   {
+    "dossier": "SU_29020",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_29020"
+   },
+   {
+    "dossier": "SU_28822",
+    "titel": "Piet Heinkade 11 - 19",
+    "datum": "2002-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 209,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28822"
+   },
+   {
+    "dossier": "SU_31587",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2002-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31587"
+   },
+   {
+    "dossier": "XY_01696",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2002-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01696"
+   },
+   {
+    "dossier": "SU_28132",
+    "titel": "Piet Heinkade 1 - 5",
+    "datum": "2002-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 274,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28132"
+   },
+   {
+    "dossier": "XY_01488",
+    "titel": "Oostelijke Handelskade 2 b; Oostelijke Handelskade 11 - 15; Oostelijke Handelskade 23; Piet Heinkade 13 - 15; Piet Heinkade 23 - 24",
+    "datum": "1999-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01488"
+   },
+   {
+    "dossier": "SU_29283",
+    "titel": "Piet Heinkade 13 - 14",
+    "datum": "1960-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_29283"
+   },
+   {
+    "dossier": "SU_29272",
+    "titel": "Piet Heinkade 15",
+    "datum": "1959-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_29272"
+   },
+   {
+    "dossier": "SU_37459",
+    "titel": "Piet Heinkade 15",
+    "datum": "1958-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_37459"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 60,
+  "gezocht": [
+   "Piet Heinkade 3",
+   "Piet Heinkade 1",
+   "Piet Heinkade 11",
+   "Piet Heinkade 5"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-435791",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Piet Heinkade 1 1019BR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-12",
+    "onderwerp": "bouwen van opslagruimten in trappenhuis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-435791.html",
+    "zaak": "Z2023-O003868"
+   },
+   {
+    "id": "gmb-2023-376316",
+    "titel": "Aanvraag omgevingsvergunning Piet Heinkade 1 1019BR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-30",
+    "onderwerp": "bouwen van opslagruimten in trappenhuis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-376316.html",
+    "zaak": "Z2023-O003868"
+   },
+   {
+    "id": "gmb-2021-149736",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Piet Heinkade 1 1019BR Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-14",
+    "onderwerp": "plaatsen van een MUPI",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-149736.html"
+   },
+   {
+    "id": "gmb-2021-148503",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Piet Heinkade 1 1019BR Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-12",
+    "onderwerp": "het plaatsen van een MUPI",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-148503.html"
+   },
+   {
+    "id": "gmb-2021-92529",
+    "titel": "Aanvraag omgevingsvergunning Piet Heinkade 1 1019BR Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-25",
+    "onderwerp": "plaatsen van een MUPI",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-92529.html"
+   },
+   {
+    "id": "gmb-2021-92486",
+    "titel": "Aanvraag omgevingsvergunning Piet Heinkade 1 1019BR Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-25",
+    "onderwerp": "het plaatsen van een MUPI",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-92486.html"
+   },
+   {
+    "id": "stcrt-2013-5637",
+    "titel": "Beschikking van de Staatssecretaris van Infrastructuur en Milieu, houdende ontheffing van het verbod om kabelvliegers te gebruiken boven een hoogte van 200m AGL",
+    "soort": "Ontheffingen",
+    "datum": "2013-03-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-5637.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-435791",
+   "gmb-2023-376316",
+   "gmb-2021-149736",
+   "gmb-2021-148503",
+   "gmb-2021-92529",
+   "gmb-2021-92486"
+  ],
+  "zaaknummers": [
+   "Z2023-O003868"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-451270",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Piet Heinkade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Piet Heinkade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451270.html"
+   },
+   {
+    "id": "gmb-2026-426830",
+    "titel": "Aanvraag evenementenvergunning Piet Heinkade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Piet Heinkade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-426830.html"
+   },
+   {
+    "id": "gmb-2026-426746",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-11",
+    "onderwerp": "Object,Piet Heinkade 1 1019BR, 20261012, Piet Heinkade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-426746.html"
+   },
+   {
+    "id": "gmb-2026-243738",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 5 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Object,Piet Heinkade 5 1019BR, 20260601, Piet Heinkade ter hoogte van nummer: 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243738.html"
+   },
+   {
+    "id": "gmb-2026-241226",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 11 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "TVM parkeervak,Piet Heinkade 11 1019BR, 20260525, Piet Heinkade ter hoogte van nummer: 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241226.html"
+   },
+   {
+    "id": "gmb-2026-232027",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-18",
+    "onderwerp": "Object,Piet Heinkade 3 1019BR, 20260706, Piet Heinkade ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-232027.html"
+   },
+   {
+    "id": "gmb-2026-224452",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-12",
+    "onderwerp": "Object,Piet Heinkade 1 1019BR, 20260526, Piet Heinkade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-224452.html"
+   },
+   {
+    "id": "gmb-2026-18331",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 11 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-16",
+    "onderwerp": "( Uitgezet bij P&E ) RVV,Filmen,Piet Heinkade 11 1019BR, 20260119, Piet Heinkade ter hoogte van nummer: 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-18331.html"
+   },
+   {
+    "id": "gmb-2025-572445",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Piet Heinkade 11 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Piet Heinkade 11 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-572445.html"
+   },
+   {
+    "id": "gmb-2025-425492",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Piet Heinkade 11 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-02",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Piet Heinkade 11 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-425492.html"
+   },
+   {
+    "id": "gmb-2025-353619",
+    "titel": "Besluit evenementenvergunning Verleend - Piet Heinkade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Piet Heinkade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-353619.html"
+   },
+   {
+    "id": "gmb-2025-286094",
+    "titel": "Aanvraag evenementenvergunning Piet Heinkade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Piet Heinkade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-286094.html"
+   },
+   {
+    "id": "gmb-2025-180633",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 5 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-25",
+    "onderwerp": "Object,Piet Heinkade 5 1019BR, 20250602, Piet Heinkade ter hoogte van nummer: 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-180633.html"
+   },
+   {
+    "id": "gmb-2025-78328",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Piet Heinkade 3",
+    "soort": "andere vergunning",
+    "datum": "2025-02-25",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Piet Heinkade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-78328.html"
+   },
+   {
+    "id": "gmb-2024-516928",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-10",
+    "onderwerp": "Object,Filmen, Piet Heinkade 1 1019BR, 20241211, Piet Heinkade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-516928.html"
+   },
+   {
+    "id": "gmb-2024-490972",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 3 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-11-22",
+    "onderwerp": "Object, Piet Heinkade 3 1019BR, 20241127, Piet Heinkade ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-490972.html"
+   },
+   {
+    "id": "gmb-2024-431260",
+    "titel": "Besluit evenementenvergunning Verleend - Piet Heinkade 5 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Piet Heinkade 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-431260.html"
+   },
+   {
+    "id": "gmb-2024-421605",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "Object,RVV,Filmen, Piet Heinkade 1 1019BR, 20241004, Piet Heinkade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-421605.html"
+   },
+   {
+    "id": "gmb-2024-383056",
+    "titel": "Aanvraag evenementenvergunning Piet Heinkade 5 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Piet Heinkade 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-383056.html"
+   },
+   {
+    "id": "gmb-2024-379273",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-09-05",
+    "onderwerp": "RVV,Filmen,Nachtwerk, Piet Heinkade 1 1019BR,, Piet Heinkade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-379273.html"
+   },
+   {
+    "id": "gmb-2024-373967",
+    "titel": "Besluit evenementenvergunning Verleend - Piet Heinkade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-02",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Piet Heinkade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-373967.html"
+   },
+   {
+    "id": "gmb-2024-368517",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 3",
+    "soort": "andere vergunning",
+    "datum": "2024-08-27",
+    "onderwerp": "Object, Piet Heinkade 3 1019BR, 25-10-2024 t/m 28-10-2024, Piet Heinkade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-368517.html"
+   },
+   {
+    "id": "gmb-2024-360283",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Piet Heinkade 3",
+    "soort": "andere vergunning",
+    "datum": "2024-08-20",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Piet Heinkade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-360283.html"
+   },
+   {
+    "id": "gmb-2024-340780",
+    "titel": "Aanvraag evenementenvergunning Piet Heinkade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Piet Heinkade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-340780.html"
+   },
+   {
+    "id": "gmb-2024-321106",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Piet Heinkade 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Piet Heinkade 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-321106.html"
+   },
+   {
+    "id": "gmb-2024-323053",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Piet Heinkade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Piet Heinkade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323053.html"
+   },
+   {
+    "id": "gmb-2024-275101",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Piet Heinkade 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Piet Heinkade 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-275101.html"
+   },
+   {
+    "id": "gmb-2024-270736",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 3",
+    "soort": "andere vergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Object, Piet Heinkade 3 1019BR, Piet Heinkade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270736.html"
+   },
+   {
+    "id": "gmb-2024-270783",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Piet Heinkade 3",
+    "soort": "andere vergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Piet Heinkade 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270783.html"
+   },
+   {
+    "id": "gmb-2024-172569",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 5",
+    "soort": "andere vergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "Object, Piet Heinkade 5 1019BR, 20240603, Piet Heinkade 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-172569.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.BP01117-OH01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-10-11",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.BP01117-VG01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.G0902PBPGST-OH01",
+   "naam": "BP_Facet herziening zonebesluit Oostelijk Havengebied-Zeeburg",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2010-09-03",
+   "opp_m2": 2752310,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 8,
+  "bekendmakingen": 1,
+  "plannen": 211,
+  "woo": 9
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 271,
+ "pand_adressen": [
+  "Piet Heinkade 1",
+  "Piet Heinkade 11",
+  "Piet Heinkade 3",
+  "Piet Heinkade 5"
+ ]
+}

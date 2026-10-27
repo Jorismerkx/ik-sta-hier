@@ -1,0 +1,1302 @@
+{
+ "id": "wereldmuseum",
+ "naam": "Wereldmuseum",
+ "adres": "Linnaeusstraat 2, 1092 CK Amsterdam",
+ "termen": [
+  "Linnaeusstraat 2",
+  "1092CK",
+  "1092 CK",
+  "Wereldmuseum",
+  "Tropenmuseum Tropenmuseum"
+ ],
+ "pand": "0363100012237251",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 60,
+  "openbaar": 3,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_17317",
+    "titel": "Mauritskade 63",
+    "datum": "2008-01-01",
+    "soort": "kunstwerk",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_17317"
+   },
+   {
+    "dossier": "SU_15815",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "2003-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15815"
+   },
+   {
+    "dossier": "SU_12323",
+    "titel": "Linnaeusstraat 2",
+    "datum": "2003-01-01",
+    "soort": "kunstwerk",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12323"
+   },
+   {
+    "dossier": "SU_01388",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "2000-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01388"
+   },
+   {
+    "dossier": "SU_02653",
+    "titel": "Mauritskade 63",
+    "datum": "1998-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_02653"
+   },
+   {
+    "dossier": "SU_00107",
+    "titel": "Mauritskade 63",
+    "datum": "1998-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00107"
+   },
+   {
+    "dossier": "SU_00104",
+    "titel": "Mauritskade 63",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00104"
+   },
+   {
+    "dossier": "SU_06327",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1995-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06327"
+   },
+   {
+    "dossier": "SU_06330",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1995-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06330"
+   },
+   {
+    "dossier": "SU_06329",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1995-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06329"
+   },
+   {
+    "dossier": "SU_06325",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1994-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06325"
+   },
+   {
+    "dossier": "SU_06326",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1994-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06326"
+   },
+   {
+    "dossier": "SU_06324",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1994-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 74,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06324"
+   },
+   {
+    "dossier": "SU_06334",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "1994-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06334"
+   },
+   {
+    "dossier": "SU_06320",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1994-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06320"
+   },
+   {
+    "dossier": "SU_06331",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "1994-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06331"
+   },
+   {
+    "dossier": "SU_06317",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1994-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 190,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06317"
+   },
+   {
+    "dossier": "SU_06335",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06335"
+   },
+   {
+    "dossier": "SU_03882",
+    "titel": "Linnaeusstraat 2 D",
+    "datum": "1993-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_03882"
+   },
+   {
+    "dossier": "SU_00106",
+    "titel": "Linnaeusstraat 2 - 2 A; Mauritskade 63 - 64",
+    "datum": "1993-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00106"
+   },
+   {
+    "dossier": "SU_00165",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1981-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 379,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00165"
+   },
+   {
+    "dossier": "SU_00110",
+    "titel": "Linnaeusstraat 2 A",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00110"
+   },
+   {
+    "dossier": "SU_06457",
+    "titel": "Linnaeusstraat 2 c",
+    "datum": "1978-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06457"
+   },
+   {
+    "dossier": "SU_00108",
+    "titel": "Mauritskade 63",
+    "datum": "1978-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00108"
+   },
+   {
+    "dossier": "SU_00111",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1974-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00111"
+   },
+   {
+    "dossier": "SU_00166",
+    "titel": "Mauritskade 63",
+    "datum": "1974-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00166"
+   },
+   {
+    "dossier": "SU_00164",
+    "titel": "Linnaeusstraat 2 - 2 a",
+    "datum": "1973-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 357,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00164"
+   },
+   {
+    "dossier": "SU_02913",
+    "titel": "Linnaeusstraat 2; Mauritskade 63 - 64",
+    "datum": "1973-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_02913"
+   },
+   {
+    "dossier": "SU_00167",
+    "titel": "Mauritskade 63",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00167"
+   },
+   {
+    "dossier": "SU_00181",
+    "titel": "Linnaeusstraat 2 - 2 a; Mauritskade 62 - 64",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00181"
+   },
+   {
+    "dossier": "SU_00168",
+    "titel": "Mauritskade 62 - 63",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00168"
+   },
+   {
+    "dossier": "SU_00169",
+    "titel": "Mauritskade 63",
+    "datum": "1970-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00169"
+   },
+   {
+    "dossier": "SU_00170",
+    "titel": "Linnaeusstraat 2; Mauritskade 63 - 64",
+    "datum": "1968-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00170"
+   },
+   {
+    "dossier": "SU_00182",
+    "titel": "Mauritskade 63",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00182"
+   },
+   {
+    "dossier": "SU_00171",
+    "titel": "Linnaeusstraat 2; Mauritskade 63 - 64",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00171"
+   },
+   {
+    "dossier": "SU_00180",
+    "titel": "Mauritskade 63",
+    "datum": "1968-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00180"
+   },
+   {
+    "dossier": "SU_06323",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06323"
+   },
+   {
+    "dossier": "SU_06315",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "1967-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 458,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06315"
+   },
+   {
+    "dossier": "SU_06462",
+    "titel": "Linnaeusstraat 2 B",
+    "datum": "1963-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06462"
+   },
+   {
+    "dossier": "SU_06468",
+    "titel": "Linnaeusstraat 2 B",
+    "datum": "1963-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06468"
+   },
+   {
+    "dossier": "SU_06467",
+    "titel": "Linnaeusstraat 2 B",
+    "datum": "1963-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_06467"
+   },
+   {
+    "dossier": "SU_00112",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1962-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00112"
+   },
+   {
+    "dossier": "SU_00115",
+    "titel": "Linnaeusstraat 2; Mauritskade 63",
+    "datum": "1959-01-01",
+    "soort": "kunstwerk",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00115"
+   },
+   {
+    "dossier": "SU_03937",
+    "titel": "Linnaeusstraat 2 C",
+    "datum": "1959-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_03937"
+   },
+   {
+    "dossier": "SU_00114",
+    "titel": "Linnaeusstraat 2; Mauritskade 62",
+    "datum": "1959-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00114"
+   },
+   {
+    "dossier": "SU_00172",
+    "titel": "Linnaeusstraat 2 - 2 a; Mauritskade 64",
+    "datum": "1944-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00172"
+   },
+   {
+    "dossier": "SU_00173",
+    "titel": "Linnaeusstraat 2 - 2 a; Mauritskade 62 - 64",
+    "datum": "1938-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00173"
+   },
+   {
+    "dossier": "SU_00117",
+    "titel": "Mauritskade 62 A",
+    "datum": "1933-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00117"
+   },
+   {
+    "dossier": "SU_03845",
+    "titel": "Mauritskade 62 naast",
+    "datum": "1930-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_03845"
+   },
+   {
+    "dossier": "SU_00175",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1927-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00175"
+   },
+   {
+    "dossier": "SU_00176",
+    "titel": "Linnaeusstraat 2 b",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00176"
+   },
+   {
+    "dossier": "SU_00118",
+    "titel": "Linnaeusstraat 2 B",
+    "datum": "1925-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00118"
+   },
+   {
+    "dossier": "SU_00179",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1921-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00179"
+   },
+   {
+    "dossier": "SU_00178",
+    "titel": "Linnaeusstraat 2 a",
+    "datum": "1921-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00178"
+   },
+   {
+    "dossier": "SU_03846",
+    "titel": "Mauritskade 62 naast",
+    "datum": "1921-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_03846"
+   },
+   {
+    "dossier": "SU_00177",
+    "titel": "Linnaeusstraat 2",
+    "datum": "1920-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00177"
+   },
+   {
+    "dossier": "SU_00119",
+    "titel": "Mauritskade 64 - 66",
+    "datum": "1916-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00119"
+   },
+   {
+    "dossier": "SU_00124",
+    "titel": "Linnaeusstraat 2; Linnaeusstraat 2 A; Mauritskade 62 - 64",
+    "datum": "1915-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 586,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00124"
+   },
+   {
+    "dossier": "SU_01439",
+    "titel": "Mauritskade 64 - 66",
+    "datum": "1912-01-01",
+    "soort": "begraafplaats, ruiming",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01439"
+   },
+   {
+    "dossier": "SU_00116",
+    "titel": "Mauritskade 64 - 66",
+    "datum": "1908-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00116"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 79,
+  "gezocht": [
+   "Linnaeusstraat 2",
+   "Linnaeusstraat 2A",
+   "Mauritskade 62",
+   "Mauritskade 63"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-252747",
+    "titel": "Besluit maatwerkvoorschriften voor de herontwikkeling met woningbouw op het Curiedex-terrein aan Linnaeusstraat 2 Zandvoort",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-29",
+    "onderwerp": "",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-252747.html",
+    "zaak": "&#x9;ODIJ-Z-25-173485"
+   },
+   {
+    "id": "wsb-2026-6446",
+    "titel": "Nieuwe aanvraag omgevingsvergunning voor een wateractiviteit, ter hoogte van Linnaeusstraat Amsterdam - AGV - AGV2026-001178",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-03-16",
+    "onderwerp": "Omgevingsvergunning Water, Liander N.V., ter hoogte van Linnaeusstraat 2-T2 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-6446.html",
+    "zaak": "AGV2026-001178"
+   },
+   {
+    "id": "gmb-2026-54804",
+    "titel": "Omgevingsvergunning - Beschikking Verleend, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-06",
+    "onderwerp": "het veranderen van de bibliotheek Linnaeusstraat 2 door het beplakken van de gevel met folie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-54804.html",
+    "zaak": "VTH2025-35442"
+   },
+   {
+    "id": "gmb-2026-9526",
+    "titel": "Omgevingsvergunning - Beschikking Verleend, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-09",
+    "onderwerp": "het veranderen van de gevel van de bibliotheek Linnaeusstraat 2 door het plaatsen van 3 reclame-uitingen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-9526.html",
+    "zaak": "VTH2025-33410"
+   },
+   {
+    "id": "gmb-2025-496306",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Linnaeusstraat 2A 1092CK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-17",
+    "onderwerp": "(legaliseren van het) zelfstandig gebruik van Grand café de Tropen voor reguliere horeca met feesten en partijen (zalenverhuur) ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-496306.html",
+    "zaak": "Z2025-032714"
+   },
+   {
+    "id": "gmb-2025-396425",
+    "titel": "Omgevingsvergunning - Aangevraagd, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-12",
+    "onderwerp": "het veranderen van de gevel van het pand door het beplakken met folie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-396425.html"
+   },
+   {
+    "id": "gmb-2025-359098",
+    "titel": "Aanvraag omgevingsvergunning Linnaeusstraat 2A 1092CK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-15",
+    "onderwerp": "(legaliseren van het) gebruik als zelfstandig Grand Café \"de Tropen\" met terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-359098.html",
+    "zaak": "Z2025-032714"
+   },
+   {
+    "id": "gmb-2025-350064",
+    "titel": "Omgevingsvergunning - Aangevraagd, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-08",
+    "onderwerp": "het veranderen van de gevel van het pand door het plaatsen van 4 reclame-uitingen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-350064.html",
+    "zaak": "VTH2025-33410"
+   },
+   {
+    "id": "gmb-2025-335499",
+    "titel": "Omgevingsvergunning - Beschikking Verleend, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-30",
+    "onderwerp": "het plaatsen van 6 reclame-uitingen in en aan het pand van de bibliotheek aan de Linnaeusstraat 2",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-335499.html",
+    "zaak": "VTH2025-28429"
+   },
+   {
+    "id": "gmb-2025-316471",
+    "titel": "Omgevingsvergunning - Beschikking Verleend, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-18",
+    "onderwerp": "het veranderen van de bibliotheek Linnaeusstraat 2 door het aanpassen en verplaatsen van de entree en het verplaatsen van fietsleunrekken nabij de entree",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-316471.html",
+    "zaak": "VTH2025-19663"
+   },
+   {
+    "id": "gmb-2025-274812",
+    "titel": "Omgevingsvergunning – Aanvraag gedeeltelijk vergunningvrij voor de ‘activiteit werk of werkzaamheden uitvoeren’, Linnaeusstraat 2, 2522 GR te ‘s-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-25",
+    "onderwerp": "het veranderen van de bibliotheek Linnaeusstraat 2 door het verplaatsen van de entree en het verplaatsen van de fietsleunrekken nabij de entree",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-274812.html",
+    "zaak": "VTH2025-19663"
+   },
+   {
+    "id": "gmb-2025-231257",
+    "titel": "Omgevingsvergunning - Aangevraagd, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-27",
+    "onderwerp": "het veranderen van de gevel van het pand door het plaatsen van 6 reclame-uitingen",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-231257.html",
+    "zaak": "VTH2025-28429"
+   },
+   {
+    "id": "gmb-2025-81119",
+    "titel": "Omgevingsvergunning - Beschikking Verleend, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-26",
+    "onderwerp": "het veranderen van de bibliotheek Linnaeusstraat 2 door het aanpassen en verplaatsen van de entree en het verplaatsen van fietsleunrekken nabij de entree",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-81119.html",
+    "zaak": "VTH2024-16467"
+   },
+   {
+    "id": "gmb-2025-73658",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend H.J.M. Walenkampstraat 95 1019EA Amsterdam, Linnaeusstraat 2A 1092CK Amsterdam, Linnaeusstraat 2B 1092CK Amsterdam, Linnaeusstraat 2C 1092CK Amsterdam, Linnaeusstraat 2D 1092CK Amsterdam, Mauritskade 57 1092AD Amsterdam, Schokkerjachtdijk 5 1086VK Amsterdam, 's-Gravesandeplein 120 1091BC Amsterdam, Zuiderzeeweg 26A 1095KJ Amsterdam, Zuiderzeeweg 26B Amsterdam, Zuiderzeeweg 27 1095KZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-21",
+    "onderwerp": "kappen van 8 bomen in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-73658.html",
+    "zaak": "Z2024-042383"
+   },
+   {
+    "id": "gmb-2025-37669",
+    "titel": "Omgevingsvergunning - Aangevraagd, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-30",
+    "onderwerp": "het veranderen van het pand door het aanpassen en verplaatsen van de entree en het verplaatsen van fietsleunrekken nabij de entree",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-37669.html",
+    "zaak": "VTH2025-19663"
+   },
+   {
+    "id": "gmb-2025-16577",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) H.J.M. Walenkampstraat 95 1019EA Amsterdam, Linnaeusstraat 2A 1092CK Amsterdam, Linnaeusstraat 2B 1092CK Amsterdam, Linnaeusstraat 2C 1092CK Amsterdam, Linnaeusstraat 2D 1092CK Amsterdam, Mauritskade 57 1092AD Amsterdam, Ouderkerkerdijk 230 1096CR Amsterdam, Schokkerjachtdijk 5 1086VK Amsterdam, 's-Gravesandeplein 120 1091BC Amsterdam, Zuiderzeeweg 26A 1095KJ Amsterdam, Zuiderzeeweg 26B Amsterdam, Zuiderzeeweg 27 1095KZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-15",
+    "onderwerp": "kappen van 9 bomen in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-16577.html",
+    "zaak": "Z2024-042383"
+   },
+   {
+    "id": "gmb-2024-518283",
+    "titel": "Omgevingsvergunning - Aangevraagd, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-10",
+    "onderwerp": "het veranderen van het pand door het aanpassen en verplaatsen van de entree en het verplaatsen van fietsleunrekken nabij de entree",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-518283.html",
+    "zaak": "VTH2024-16467"
+   },
+   {
+    "id": "gmb-2024-176637",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend, vellen van een houtopstand (kap)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "het kandelaberen, knotten, snoeien van iepen en meer dan 20% snoeien van het totale kroonvolume van 21 bomen op diverse locaties in Amsterdam Oost ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-176637.html",
+    "zaak": "Z2024-003366"
+   },
+   {
+    "id": "gmb-2024-114093",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-13",
+    "onderwerp": "kandelaberen van 21 bomen op diverse locaties in stadsdeel Oost",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-114093.html",
+    "zaak": "Z2024-003366"
+   },
+   {
+    "id": "gmb-2024-111021",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-12",
+    "onderwerp": "kappen van 57 bomen op diverse locaties in stadsdeel oost",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-111021.html",
+    "zaak": "Z2024-002269"
+   },
+   {
+    "id": "gmb-2024-92920",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-28",
+    "onderwerp": "kappen van 57 bomen op diverse locaties in stadsdeel oost",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-92920.html",
+    "zaak": "Z2024-002269"
+   },
+   {
+    "id": "gmb-2023-530073",
+    "titel": "Beschikking, Bodem - Linnaeusstraat 2, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2023-12-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-530073.html",
+    "zaak": "1350921"
+   },
+   {
+    "id": "gmb-2023-457035",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Linnaeusstraat 2 1092CK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-26",
+    "onderwerp": " wijzigen van de naam 'Tropenmuseum' naar 'Wereldmuseum' op de gevel van een Rijksmonument",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-457035.html",
+    "zaak": "Z2023-O004041"
+   },
+   {
+    "id": "gmb-2023-402420",
+    "titel": "Aanvraag omgevingsvergunning Linnaeusstraat 2 1092CK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-20",
+    "onderwerp": " wijzigen van de naam 'Tropenmuseum' naar 'Wereldmuseum' op de gevel van een Rijksmonument",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-402420.html",
+    "zaak": "Z2023-O004041"
+   },
+   {
+    "id": "prb-2022-4335",
+    "titel": "Beschikking Wet natuurbescherming, Linnaeusstraat 2 te Boskoop",
+    "soort": "andere beschikking",
+    "datum": "2022-04-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2022-4335.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-252747",
+   "wsb-2026-6446",
+   "gmb-2025-496306",
+   "gmb-2025-359098",
+   "gmb-2025-274812",
+   "gmb-2025-73658",
+   "gmb-2025-16577",
+   "gmb-2024-176637",
+   "gmb-2024-114093",
+   "gmb-2024-111021",
+   "gmb-2024-92920",
+   "gmb-2023-457035",
+   "gmb-2023-402420"
+  ],
+  "zaaknummers": [
+   "&#x9;ODIJ-Z-25-173485",
+   "AGV2026-001178",
+   "VTH2025-19663",
+   "Z2023-O004041",
+   "Z2024-002269",
+   "Z2024-003366",
+   "Z2024-042383",
+   "Z2025-032714"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-486708",
+    "titel": "Evenementenvergunning - Aanvraag evenement klein, Linnaeusstraat, 2522 GR 's-Gravenhage",
+    "soort": "evenementenvergunning",
+    "datum": "2026-10-19",
+    "onderwerp": "A - Laakse Lichtjes op 9 december 2026",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-486708.html"
+   },
+   {
+    "id": "gmb-2026-476333",
+    "titel": "Besluit apv vergunning Verleend - Mauritskade ter hoogte van nummer: 63 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-13",
+    "onderwerp": "RVV,E-RVV,Object,Filmen,Nachtwerk,Mauritskade 63 1092AD, 20261010, Mauritskade ter hoogte van nummer: 63",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-476333.html"
+   },
+   {
+    "id": "gmb-2026-413678",
+    "titel": "Aanvraag alcoholwetvergunning Linnaeusstraat 2",
+    "soort": "andere vergunning",
+    "datum": "2026-09-03",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Linnaeusstraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-413678.html"
+   },
+   {
+    "id": "gmb-2026-378867",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-378867.html"
+   },
+   {
+    "id": "gmb-2026-306925",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-306925.html"
+   },
+   {
+    "id": "gmb-2026-286068",
+    "titel": "Besluit apv vergunning Verleend - Linnaeusstraat ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-16",
+    "onderwerp": "RVV,Filmen,Nachtwerk,Linnaeusstraat 2 1092CK, 20260615, Linnaeusstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-286068.html"
+   },
+   {
+    "id": "gmb-2026-267814",
+    "titel": "Besluit apv vergunning Verleend - Linnaeusstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-08",
+    "onderwerp": "RVV, Object,Filmen,Linnaeusstraat 2 A 1092CK, 20260601, Linnaeusstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-267814.html"
+   },
+   {
+    "id": "gmb-2026-243691",
+    "titel": "Besluit alcoholwetvergunning Verleend - Linnaeusstraat 2C in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Linnaeusstraat 2C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243691.html"
+   },
+   {
+    "id": "gmb-2026-243849",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Linnaeusstraat 2A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Linnaeusstraat 2A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-243849.html"
+   },
+   {
+    "id": "gmb-2026-222538",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Mauritskade 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Mauritskade 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-222538.html"
+   },
+   {
+    "id": "gmb-2026-196397",
+    "titel": "Aanvraag evenementenvergunning Mauritskade 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Mauritskade 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-196397.html"
+   },
+   {
+    "id": "gmb-2026-108111",
+    "titel": "Aanvraag evenementenvergunning Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108111.html"
+   },
+   {
+    "id": "gmb-2026-3539",
+    "titel": "Besluit apv vergunning Verleend - Linnaeusstraat ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-01-05",
+    "onderwerp": "Filmen,Linnaeusstraat 2 C 1092CK, 20260108, Linnaeusstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-3539.html"
+   },
+   {
+    "id": "gmb-2025-466536",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-466536.html"
+   },
+   {
+    "id": "gmb-2025-431268",
+    "titel": "Meldingen - Melding brandveilig gebruik, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsmelding",
+    "datum": "2025-10-06",
+    "onderwerp": "het brandveilig in gebruik nemen van het pand Linneausstraat 2",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-431268.html"
+   },
+   {
+    "id": "gmb-2025-400862",
+    "titel": "Aanvraag alcoholwetvergunning Linnaeusstraat 2C",
+    "soort": "andere vergunning",
+    "datum": "2025-09-16",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Linnaeusstraat 2C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-400862.html"
+   },
+   {
+    "id": "gmb-2025-400967",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Linnaeusstraat 2C in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Linnaeusstraat 2C in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-400967.html"
+   },
+   {
+    "id": "gmb-2025-400944",
+    "titel": "Besluit evenementenvergunning Verleend - Mauritskade 63 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Mauritskade 63 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-400944.html"
+   },
+   {
+    "id": "gmb-2025-397243",
+    "titel": "Meldingen - Melding brandveilig gebruik, Linnaeusstraat 2, 2522 GR 's-Gravenhage",
+    "soort": "omgevingsmelding",
+    "datum": "2025-09-15",
+    "onderwerp": "het brandveilig in gebruik nemen van het pand",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397243.html"
+   },
+   {
+    "id": "gmb-2025-362217",
+    "titel": "Aanvraag evenementenvergunning Mauritskade 63 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Mauritskade 63 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-362217.html"
+   },
+   {
+    "id": "gmb-2025-336943",
+    "titel": "Besluit apv vergunning Verleend - Linnaeusstraat ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-31",
+    "onderwerp": "TVM parkeervak,Object,Linnaeusstraat 2 C 1092CK, 20250811, Linnaeusstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-336943.html"
+   },
+   {
+    "id": "gmb-2025-332800",
+    "titel": "Besluit evenementenvergunning Verleend - Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-332800.html"
+   },
+   {
+    "id": "gmb-2025-295879",
+    "titel": "Besluit evenementenvergunning Verleend - Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-295879.html"
+   },
+   {
+    "id": "gmb-2025-284327",
+    "titel": "Aanvraag evenementenvergunning Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-284327.html"
+   },
+   {
+    "id": "gmb-2025-213354",
+    "titel": "Besluit apv vergunning Verleend - Linnaeusstraat ter hoogte van nummer: 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Filmen, Linnaeusstraat 2 C 1092CK, 25-05-2025, Linnaeusstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213354.html"
+   },
+   {
+    "id": "gmb-2025-176049",
+    "titel": "Besluit evenementenvergunning Verleend - Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-176049.html"
+   },
+   {
+    "id": "gmb-2025-148917",
+    "titel": "Aanvraag evenementenvergunning Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-148917.html"
+   },
+   {
+    "id": "gmb-2025-85457",
+    "titel": "Aanvraag evenementenvergunning Linnaeusstraat 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Linnaeusstraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-85457.html"
+   },
+   {
+    "id": "gmb-2024-547906",
+    "titel": "Amsterdam stadsdeel Oost, verkeersbesluit voor het instellen van een parkeerverbodzone op de parallelweg van de Mauritskade direct ten noorden van perceel 62-64",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2024-12-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-547906.html"
+   },
+   {
+    "id": "gmb-2024-453959",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Linnaeusstraat 2C in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-10-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Linnaeusstraat 2C in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-453959.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.U0901BPSTD-OH01",
+   "naam": "Oosterparkbuurt",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-02-27",
+   "opp_m2": 723816,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.U0901BPSTD-VG02",
+   "naam": "Oosterparkbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-04-03",
+   "opp_m2": 723816,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Woo-besluit over inzet paintballgeweer bij niet schuwe wolf_2023-009922",
+   "datum": "2024-08-13",
+   "door": "provincie Gelderland",
+   "url": "https://media.gelderland.nl/One_Drive_1_12_9_2023_ec2ac59143.zip",
+   "fragment": "03915194.pdf43816358.pdf Prakken d’Oliveira advocaten Unnaeusstraat 2-A 1092 CK AMSTERDAM Datum 26 april 2023 Zaaknummer 2022-015316 Onderwerp Beslissing op bezwaarschrift Inlichtingen bij Provincieloket 026 359 99 99 post ... wordt een logboek bijgehouden. Datum 26 april 2023 Zaaknummer 2022-015316 Blad 9van 9 61 provincie “Gelderland 0000000024 2023-07-07 Verzoek om voorlopige voorziening.pdf438"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 45,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 47,
+ "pand_adressen": [
+  "Linnaeusstraat 2",
+  "Linnaeusstraat 2A",
+  "Mauritskade 62",
+  "Mauritskade 63"
+ ]
+}

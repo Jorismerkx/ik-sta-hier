@@ -1,0 +1,638 @@
+{
+ "id": "tolhuistuin",
+ "naam": "Tolhuistuin",
+ "adres": "IJpromenade 2, 1031 KT Amsterdam",
+ "termen": [
+  "IJpromenade 2",
+  "1031KT",
+  "1031 KT",
+  "Tolhuistuin",
+  "Paradiso Noord"
+ ],
+ "pand": "0363100012119827",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 4
+ },
+ "bouwdossiers": {
+  "n": 24,
+  "openbaar": 23,
+  "laatste": "2014-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_01736",
+    "titel": "Buiksloterweg 5 c; IJpromenade 2",
+    "datum": "2014-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01736"
+   },
+   {
+    "dossier": "SN_21651",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "2011-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21651"
+   },
+   {
+    "dossier": "SN_21649",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "2011-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21649"
+   },
+   {
+    "dossier": "SN_21642",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "2011-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21642"
+   },
+   {
+    "dossier": "SN_21635",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "2011-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21635"
+   },
+   {
+    "dossier": "SN_21626",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 653,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21626"
+   },
+   {
+    "dossier": "SN_21640",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 280,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21640"
+   },
+   {
+    "dossier": "SN_19837",
+    "titel": "Buiksloterweg 3 - 5",
+    "datum": "2008-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19837"
+   },
+   {
+    "dossier": "SN_19859",
+    "titel": "Buiksloterweg 3 - 5",
+    "datum": "2008-01-01",
+    "soort": "afvalcontainer",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19859"
+   },
+   {
+    "dossier": "SN_17455",
+    "titel": "Buiksloterweg 3 - 5",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 126,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_17455"
+   },
+   {
+    "dossier": "SN_01748",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "1978-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01748"
+   },
+   {
+    "dossier": "SN_11576",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "1976-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 160,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_11576"
+   },
+   {
+    "dossier": "SN_11669",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "1975-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_11669"
+   },
+   {
+    "dossier": "SN_11689",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "1975-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 550,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_11689"
+   },
+   {
+    "dossier": "SN_11668",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "1975-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_11668"
+   },
+   {
+    "dossier": "SN_11646",
+    "titel": "Buiksloterweg 5 c",
+    "datum": "1974-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_11646"
+   },
+   {
+    "dossier": "SN_01754",
+    "titel": "Buiksloterweg 5 a - 5 b",
+    "datum": "1951-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01754"
+   },
+   {
+    "dossier": "SN_07176",
+    "titel": "Buiksloterweg 5 a - 5 b",
+    "datum": "1950-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07176"
+   },
+   {
+    "dossier": "SN_07322",
+    "titel": "Buiksloterweg 1 - 5",
+    "datum": "1938-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07322"
+   },
+   {
+    "dossier": "SN_07372",
+    "titel": "Buiksloterweg 1; Buiksloterweg 5 - 7",
+    "datum": "1937-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07372"
+   },
+   {
+    "dossier": "SN_07420",
+    "titel": "Buiksloterweg 5",
+    "datum": "1925-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07420"
+   },
+   {
+    "dossier": "SN_01755",
+    "titel": "Buiksloterweg 5",
+    "datum": "1916-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01755"
+   },
+   {
+    "dossier": "SN_08154",
+    "titel": "Buiksloterweg 1; Buiksloterweg 5",
+    "datum": "1912-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_08154"
+   },
+   {
+    "dossier": "SN_07939",
+    "titel": "Buiksloterweg 1 - 7; Buiksloterweg 5 a - 5 b",
+    "datum": "1908-01-01",
+    "soort": "omgevingsvergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07939"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 23,
+  "gezocht": [
+   "IJpromenade 2"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-409055",
+    "titel": "Aanvraag omgevingsvergunning IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-31",
+    "onderwerp": "wijzigen van gebruik van Tolhuistuin naar horeca en evenementen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-409055.html",
+    "zaak": "Z2026-027010"
+   },
+   {
+    "id": "gmb-2026-388346",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend IJpromenade 2 1031 KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-17",
+    "onderwerp": "gedeeltelijk renoveren van het dak en de dakgoten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-388346.html",
+    "zaak": "Z2026-015996"
+   },
+   {
+    "id": "gmb-2026-296098",
+    "titel": "Aanvraag omgevingsvergunning IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-22",
+    "onderwerp": "gedeeltelijk renoveren van het dak en de dakgoten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-296098.html",
+    "zaak": "Z2026-015996"
+   },
+   {
+    "id": "gmb-2023-259025",
+    "titel": "Besluit tijdelijke omgevingsvergunning reguliere procedure IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-14",
+    "onderwerp": "behouden van een reeds aangelegd terras van tolhuistuin",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-259025.html",
+    "zaak": "Z2023-N000418"
+   },
+   {
+    "id": "gmb-2023-222369",
+    "titel": "Verlenging beslistermijn omgevingsvergunning IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-22",
+    "onderwerp": "behouden van een reeds aangelegd terras van tolhuistuin",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-222369.html",
+    "zaak": "Z2023-N000418"
+   },
+   {
+    "id": "gmb-2023-93587",
+    "titel": "Aanvraag omgevingsvergunning IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-03",
+    "onderwerp": "behouden reeds aangelegd terras tolhuistuin",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-93587.html",
+    "zaak": "Z2023-N000418"
+   },
+   {
+    "id": "gmb-2021-409007",
+    "titel": "Besluit omgevingsvergunning reguliere procedure IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-16",
+    "onderwerp": "Tolhuistuin, aanbrengen van latjes op de kolommen van de begane grond",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-409007.html",
+    "zaak": "Z2021-N002567"
+   },
+   {
+    "id": "gmb-2021-350763",
+    "titel": "Aanvraag omgevingsvergunning IJpromenade 2 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-08",
+    "onderwerp": "Aanvraag Tolhuistuin, Ijpromenade 2",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-350763.html",
+    "zaak": "Z2021-N002567"
+   },
+   {
+    "id": "gmb-2020-222140",
+    "titel": "Besluit omgevingsvergunning reguliere procedure IJpromenade 2 1031KT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-01",
+    "onderwerp": "het kappen van 2 bomen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-222140.html"
+   },
+   {
+    "id": "gmb-2020-208208",
+    "titel": "Aanvraag omgevingsvergunning IJpromenade 2 1031KT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-13",
+    "onderwerp": "het kappen van 2 bomen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-208208.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-409055",
+   "gmb-2026-388346",
+   "gmb-2026-296098",
+   "gmb-2023-259025",
+   "gmb-2023-93587",
+   "gmb-2021-409007",
+   "gmb-2021-350763",
+   "gmb-2020-222140",
+   "gmb-2020-208208"
+  ],
+  "zaaknummers": [
+   "Z2021-N002567",
+   "Z2023-N000418",
+   "Z2026-015996",
+   "Z2026-027010"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-95472",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Noord tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Noord [Besluit ter bekrachtiging geldende afvalregels stadsdeel Noord]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-95472.html"
+   },
+   {
+    "id": "gmb-2025-505665",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-11-21",
+    "onderwerp": "RVV,Filmen,IJpromenade 2 1031KT, 20251124, IJpromenade ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-505665.html"
+   },
+   {
+    "id": "gmb-2024-217544",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend IJpromenade 2",
+    "soort": "andere vergunning",
+    "datum": "2024-05-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-217544.html"
+   },
+   {
+    "id": "gmb-2023-499720",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 2",
+    "soort": "andere vergunning",
+    "datum": "2023-11-23",
+    "onderwerp": "Werkzaamheden en vervoer op straat IJpromenade 2 1031KT, IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-499720.html"
+   },
+   {
+    "id": "gmb-2023-441192",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 2",
+    "soort": "andere vergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Werkzaamheden en vervoer op straat IJpromenade 2 1031KT, IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-441192.html"
+   },
+   {
+    "id": "gmb-2023-289841",
+    "titel": "Besluit evenementenvergunning VerleendIJpromenade 2 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres IJpromenade 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-289841.html"
+   },
+   {
+    "id": "gmb-2022-490846",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - IJpromenade 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-11-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres IJpromenade 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-490846.html"
+   },
+   {
+    "id": "gmb-2022-398619",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf IJpromenade 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-398619.html"
+   },
+   {
+    "id": "gmb-2022-390644",
+    "titel": "Besluit apv vergunning Verleend IJpromenade 2",
+    "soort": "andere vergunning",
+    "datum": "2022-08-30",
+    "onderwerp": "TVM objecten - IJpromenade 2 - 24 okt t/m 31 okt 2022, IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-390644.html"
+   },
+   {
+    "id": "gmb-2022-359049",
+    "titel": "Besluit apv vergunning Verleend IJpromenade 2",
+    "soort": "andere vergunning",
+    "datum": "2022-08-05",
+    "onderwerp": "Objecten, IJpromenade 2 3-8 t/m 5-8-2022 08:00 t/m 18:00, IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-359049.html"
+   },
+   {
+    "id": "gmb-2022-183164",
+    "titel": "Besluit toestemming tijdelijk terras Verleend IJpromenade 2",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-183164.html"
+   },
+   {
+    "id": "gmb-2021-388381",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend IJpromenade 2",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-388381.html"
+   },
+   {
+    "id": "gmb-2021-331236",
+    "titel": "Besluit apv vergunning Verleend IJpromenade 2",
+    "soort": "andere vergunning",
+    "datum": "2021-09-27",
+    "onderwerp": "Object, IJpromenade 2 18-10-2021 t/m 25-10-2021 08:00 t/m 20:00, IJpromenade 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-331236.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1501BPGST-VG01",
+   "naam": "Overhoeks 2016",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-10-05",
+   "opp_m2": 469614,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0001.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0009.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0010.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0013.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0014.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0017.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0034.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0037.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0040.png"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "delijke IJ-oevers. Het geeft aan op welke gronden welke functies toegestaan zijn en hoe deze gronden bebouwd mogen worden. Het bestemmingsplan heeft betrekking op het gebied Overhoeks. Overhoeks bestaat uit verschillende onderdelen: Het Shell Technology Centre Amsterdam (STCA), de Campus, de Strip, Tolhuistuin en het Scheg- en Oeverpark. Het vigerende bestemmingsplan voor het plangebied voorziet in een programma van 437.000 m 2 BVO aan diverse functies, zoals wonen, detailhandel, horeca, bedrijven, kantoren, hotel/congresruimte en culturele en maatschappelijke voorzieningen. Dit totale metrage geldt voor niet voor de onderdelen Shell Technology Center en Tolhuistuin. Inm"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "iet in een programma van 437.000 m 2 BVO aan diverse functies, zoals wonen, detailhandel, horeca, bedrijven, kantoren, hotel/congresruimte en culturele en maatschappelijke voorzieningen. Dit totale metrage geldt voor niet voor de onderdelen Shell Technology Center en Tolhuistuin. Inmiddels zijn de ontwikkelingen in het gebied in volle gang; basis hiervoor is het vigerende bestemmingsplan uit 2006 en de partiÃ«le herziening uit 2014. In de Wet ruimtelijke ordening "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "ke ruimte te bewerkstellingen. De van der Pekbrug is in de loop van het ontwerpproces verschoven. Door de uitbreiding van kavel zeven zullen de gebouwen weer parallel lopen aan de openbare ruimte zoals aanvankelijk ook bedoeld. Tenslotte zijn de bebouwingsmogelijkheden en mate van verharding van de Tolhuistuin ten opzichte van het vigerende bestemmingsplan aangepast, vanwege de ligging in de Hoofdgroenstructuur van Amsterdam. 2.3 Geldend planologisch kader Het vigerende bestemmingsplan voor het plangebied is bestemmingsplan âOverhoeksâ (vastgesteld door de gemeenteraad 18 oktober 2006, "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "ond van deze ligging kreeg het gebouw de naam 'Overhoeks', een mooi woord voor 'diagonaalsgewijs'. Het plangebied Overhoeks bestaat uit verschillende onderdelen: Het Shell Technology Centre Amsterdam (STCA), de Campus, het Eye filminstituut, Toren Overhoeks (AÂ´dam Toren)/ de Strip, Tolhuistuin en het Scheg- en Oeverpark. Hierna volgt een korte beschrijving van de verschillende projecten/deelgebieden binnen Overhoeks. Shell Technology Centre Amsterdam (STCA) In september 2009 is het nieuwe Shell Technology Centre, afgekort STCA, officieel in gebruik genomen. Het nieuwe Shell Technology Centre Amsterdam bestaat uit vijf vl"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "planning zal de definitieve school in 2018 openen. Tolhuistuin De Tolhuistuin is weer open: de tuin en het voormalige bedrijfsrestaurant van Shell zijn toegankelijk geworden voor publiek. Stichting Cultuur aan het IJ en partners brengen hier de komende vijf jaar een cultureel programma. In het Paviljoen, het voormalige bedrijfsrestaurant van Shell zijn o.a. een cafÃ©-restaurant met een zonterras aan het IJ, een concertzaal en e"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "nen. Tolhuistuin De Tolhuistuin is weer open: de tuin en het voormalige bedrijfsrestaurant van Shell zijn toegankelijk geworden voor publiek. Stichting Cultuur aan het IJ en partners brengen hier de komende vijf jaar een cultureel programma. In het Paviljoen, het voormalige bedrijfsrestaurant van Shell zijn o.a. een cafÃ©-restaurant met een zonterras aan het IJ, een concertzaal en enkele expositie- en vergaderruimtes gevestigd."
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "uatie rond 1940 In 1913 bouwt de Bataafsche Petroleum Maatschappij â het latere Koninklijke Shell Laboratorium Amsterdam - een klein laboratorium op het zuidelijk deel van de Buiksloterham. Het bedrijf breidt steeds verder uit; in 1938 koopt Shell het ENTOS-terrein, een deel van de Tolhuistuin, het IJ-paviljoen en de jachthaven. Nadat het Buiksloterkanaal is gegraven, ontstaat het zo kenmerkende Shelleiland met de opvallende Toren Overhoeks. Er is na de tweede wereldoorlog veel werk door de grote vraag naar schepen, bouwwerken, machines en kleding. Dat gaat tientallen jaren goed, tot in de jaren zeventig tot negentig veel grote bedrijven moeten sluiten. Braakliggend terr"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "Centre Amsterdam. In 2009 verhuisde het concern naar de nieuwbouw aan de noordkant van Overhoeks. In de tussentijd werd de grond gesaneerd en klaar gemaakt voor de bouw van de eerste woningen.Â Twee gebouwen bleven behouden: de Toren Overhoeks enÂ het Groot Lab. Het voormalige bedrijfsrestaurant de Tolhuistuin, recht tegenover de pont, kwam eveneens beschikbaar. Hoofdstuk 3 Beleidskader 3.1 Rijksbeleid 3.1.1 Structuurvi"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "structuur In het plangebied zijn twee deelgebieden onderdeel van de Hoofdgroenstructuur, zoals vastgelegd in de Structuurvisie (2011). Het gaat hierbij om: a. de Tolhuistuin b. de groene oever langs het IJ De Tolhuistuin is conform de Structuurvisie aangewezen als groentype âstadsparkâ. De oeverzone langs het IJ is onderdeel van het groentype âcorridorâ. Op de afbeelding is dit weergegeven. <img id=\"o461\" src=\"i_NL.IMRO.0363.N1501BPGST-VG"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "e Structuurvisie (2011). Het gaat hierbij om: a. de Tolhuistuin b. de groene oever langs het IJ De Tolhuistuin is conform de Structuurvisie aangewezen als groentype âstadsparkâ. De oeverzone langs het IJ is onderdeel van het groentype âcorridorâ. Op de afbeelding is dit weergegeven. In "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "fbeelding \"i_NL.IMRO.0363.N1501BPGST-VG01_0017.png\"\" height=\"425\" width=\"602\"> In de Structuurvisie is voor beide groentypen aangegeven welke beleidsintenties van toepassing zijn en welke functies en bebouwing inpasbaar zijn. Tolhuistuin â Stadspark De Tolhuistuin is aangewezen als \"Stadspark\". Conform de Structuurvisie gaat het hierbij om een groene park- tot tuinachtige omgeving in een stedelijke context. Het stadspark kan worden gebruikt door grote bezoekersaantallen. De voorzieningen en ontsluiting moeten erop afgestemd zijn om zoveel mogelijk mensen te bedienen, zonder dat het groene karakter"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": ";\" height=\"425\" width=\"602\"> In de Structuurvisie is voor beide groentypen aangegeven welke beleidsintenties van toepassing zijn en welke functies en bebouwing inpasbaar zijn. Tolhuistuin â Stadspark De Tolhuistuin is aangewezen als \"Stadspark\". Conform de Structuurvisie gaat het hierbij om een groene park- tot tuinachtige omgeving in een stedelijke context. Het stadspark kan worden gebruikt door grote bezoekersaantallen. De voorzieningen en ontsluiting moeten erop afgestemd zijn om zoveel mogelijk mensen te bedienen, zonder dat het groene karakter verloren gaat. De parken mogen niet worden opgevuld met ver"
+    }
+   ]
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Deel 3 bijlagen besluit op Wob-verzoek over communicatie met Fastned - deel-9-wob-besluit-communicatie-met-Fastned.pdf",
+   "datum": "2021-11-29",
+   "door": "Onbekend",
+   "url": "https://open.overheid.nl/documenten/ronl-271762b1-72ea-4a02-9de0-c2379b361d23",
+   "fragment": "1000-1200 UTC430100 Amsterdam Berlijn Bern Rome Stockholm Wenen. Locatie Tolhuis Tuin IJpromenade 2 Amsterdam IJ-Zaal Beste allemaal De bijeenkomst vindt plaats in de Tolhuis Tuin IJpromenade 2 1031 KT Amsterdam. Vanaf ... Agenda Laadinfrastructuur Beste hierbij nog een aanvullende vraag. In hoeverre staat er eigenlijk snelladen op het program Het lijkt exclusief over laadpalen te gaan FASTNED B.V"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 31,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0001.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0009.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0010.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0013.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0014.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0017.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0034.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0037.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0040.png"
+ ],
+ "duur_s": 32,
+ "pand_adressen": [
+  "IJpromenade 2"
+ ]
+}

@@ -1,0 +1,2222 @@
+{
+ "id": "melkweg",
+ "naam": "Melkweg",
+ "adres": "Lijnbaansgracht 234A, 1017 PH Amsterdam",
+ "termen": [
+  "Lijnbaansgracht 234",
+  "Lijnbaansgracht 234A",
+  "Lijnbaansgracht 234 A",
+  "1017PH",
+  "1017 PH",
+  "Melkweg"
+ ],
+ "pand": "0363100012168735",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 164,
+  "openbaar": 25,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_101669",
+    "titel": "Lijnbaansgracht 234 A",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101669"
+   },
+   {
+    "dossier": "SA_101668",
+    "titel": "Lijnbaansgracht 234 A",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101668"
+   },
+   {
+    "dossier": "SA_93711",
+    "titel": "Marnixstraat 411",
+    "datum": "2010-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93711"
+   },
+   {
+    "dossier": "SA_93797",
+    "titel": "Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Marnixstraat 405 - 413",
+    "datum": "2009-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93797"
+   },
+   {
+    "dossier": "SA_93005",
+    "titel": "Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Marnixstraat 405 - 413",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93005"
+   },
+   {
+    "dossier": "SA_93721",
+    "titel": "Marnixstraat 411",
+    "datum": "2009-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 72,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93721"
+   },
+   {
+    "dossier": "SA_82275",
+    "titel": "Lijnbaansgracht 234 A",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82275"
+   },
+   {
+    "dossier": "SA_46740",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 255,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46740"
+   },
+   {
+    "dossier": "SA_46738",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 176,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46738"
+   },
+   {
+    "dossier": "SA_46730",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 111,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46730"
+   },
+   {
+    "dossier": "SA_46739",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46739"
+   },
+   {
+    "dossier": "SA_97543",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97543"
+   },
+   {
+    "dossier": "SA_46899",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46899"
+   },
+   {
+    "dossier": "SA_46725",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 177,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46725"
+   },
+   {
+    "dossier": "SA_46723",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 277,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46723"
+   },
+   {
+    "dossier": "SA_97542",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97542"
+   },
+   {
+    "dossier": "SA_93793",
+    "titel": "Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Marnixstraat 405 - 413",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93793"
+   },
+   {
+    "dossier": "SA_93790",
+    "titel": "Marnixstraat 407",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93790"
+   },
+   {
+    "dossier": "SA_93713",
+    "titel": "Marnixstraat 411 - 413",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93713"
+   },
+   {
+    "dossier": "SA_93714",
+    "titel": "Marnixstraat 409 1 - 409 2",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93714"
+   },
+   {
+    "dossier": "SA_46767",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2008-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 78,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46767"
+   },
+   {
+    "dossier": "SA_46765",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 224,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46765"
+   },
+   {
+    "dossier": "SA_46758",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 141,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46758"
+   },
+   {
+    "dossier": "SA_46766",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46766"
+   },
+   {
+    "dossier": "SA_46763",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 113,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46763"
+   },
+   {
+    "dossier": "SA_46898",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46898"
+   },
+   {
+    "dossier": "SA_46896",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46896"
+   },
+   {
+    "dossier": "SA_46742",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 383,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46742"
+   },
+   {
+    "dossier": "SA_46761",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46761"
+   },
+   {
+    "dossier": "SA_46750",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46750"
+   },
+   {
+    "dossier": "SA_46897",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46897"
+   },
+   {
+    "dossier": "SA_46894",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46894"
+   },
+   {
+    "dossier": "SA_46747",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46747"
+   },
+   {
+    "dossier": "SA_46737",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46737"
+   },
+   {
+    "dossier": "SA_46735",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 560,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46735"
+   },
+   {
+    "dossier": "SA_46715",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46715"
+   },
+   {
+    "dossier": "SA_46698",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 169,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46698"
+   },
+   {
+    "dossier": "SA_46720",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46720"
+   },
+   {
+    "dossier": "SA_46726",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 153,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46726"
+   },
+   {
+    "dossier": "SA_46718",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46718"
+   },
+   {
+    "dossier": "SA_46706",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 220,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46706"
+   },
+   {
+    "dossier": "SA_46729",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 100,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46729"
+   },
+   {
+    "dossier": "SA_46695",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 82,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46695"
+   },
+   {
+    "dossier": "SA_46690",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 280,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46690"
+   },
+   {
+    "dossier": "SA_46687",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 553,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46687"
+   },
+   {
+    "dossier": "SA_46682",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46682"
+   },
+   {
+    "dossier": "SA_97565",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97565"
+   },
+   {
+    "dossier": "SA_97564",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97564"
+   },
+   {
+    "dossier": "SA_46678",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46678"
+   },
+   {
+    "dossier": "SA_97563",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 146,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97563"
+   },
+   {
+    "dossier": "SA_46481",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 254,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46481"
+   },
+   {
+    "dossier": "SA_46472",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46472"
+   },
+   {
+    "dossier": "SA_46440",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46440"
+   },
+   {
+    "dossier": "SA_46650",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46650"
+   },
+   {
+    "dossier": "SA_46660",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46660"
+   },
+   {
+    "dossier": "SA_46657",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46657"
+   },
+   {
+    "dossier": "SA_46658",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46658"
+   },
+   {
+    "dossier": "SA_46665",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46665"
+   },
+   {
+    "dossier": "SA_46663",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46663"
+   },
+   {
+    "dossier": "SA_46653",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46653"
+   },
+   {
+    "dossier": "SA_46654",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46654"
+   },
+   {
+    "dossier": "SA_46681",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46681"
+   },
+   {
+    "dossier": "SA_46684",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46684"
+   },
+   {
+    "dossier": "SA_46677",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46677"
+   },
+   {
+    "dossier": "SA_46685",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46685"
+   },
+   {
+    "dossier": "SA_46652",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46652"
+   },
+   {
+    "dossier": "SA_46693",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 195,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46693"
+   },
+   {
+    "dossier": "SA_46633",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 235,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46633"
+   },
+   {
+    "dossier": "SA_46645",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46645"
+   },
+   {
+    "dossier": "SA_46651",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46651"
+   },
+   {
+    "dossier": "SA_46648",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46648"
+   },
+   {
+    "dossier": "SA_46638",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46638"
+   },
+   {
+    "dossier": "SA_46632",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46632"
+   },
+   {
+    "dossier": "SA_46625",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46625"
+   },
+   {
+    "dossier": "SA_46615",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46615"
+   },
+   {
+    "dossier": "SA_46630",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46630"
+   },
+   {
+    "dossier": "SA_46610",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46610"
+   },
+   {
+    "dossier": "SA_46608",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46608"
+   },
+   {
+    "dossier": "SA_46617",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46617"
+   },
+   {
+    "dossier": "SA_46603",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46603"
+   },
+   {
+    "dossier": "SA_46599",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46599"
+   },
+   {
+    "dossier": "SA_46588",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 243,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46588"
+   },
+   {
+    "dossier": "SA_46598",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46598"
+   },
+   {
+    "dossier": "SA_46607",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 100,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46607"
+   },
+   {
+    "dossier": "SA_46589",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 72,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46589"
+   },
+   {
+    "dossier": "SA_46611",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46611"
+   },
+   {
+    "dossier": "SA_46614",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46614"
+   },
+   {
+    "dossier": "SA_46600",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46600"
+   },
+   {
+    "dossier": "SA_46584",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46584"
+   },
+   {
+    "dossier": "SA_46604",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46604"
+   },
+   {
+    "dossier": "SA_46580",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 234,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46580"
+   },
+   {
+    "dossier": "SA_46579",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46579"
+   },
+   {
+    "dossier": "SA_46577",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46577"
+   },
+   {
+    "dossier": "SA_46574",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46574"
+   },
+   {
+    "dossier": "SA_46576",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46576"
+   },
+   {
+    "dossier": "SA_46581",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 99,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46581"
+   },
+   {
+    "dossier": "SA_46568",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 566,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46568"
+   },
+   {
+    "dossier": "SA_46559",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 201,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46559"
+   },
+   {
+    "dossier": "SA_46578",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46578"
+   },
+   {
+    "dossier": "SA_46557",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46557"
+   },
+   {
+    "dossier": "SA_46555",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46555"
+   },
+   {
+    "dossier": "SA_46551",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46551"
+   },
+   {
+    "dossier": "SA_46547",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46547"
+   },
+   {
+    "dossier": "SA_46545",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46545"
+   },
+   {
+    "dossier": "SA_46892",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46892"
+   },
+   {
+    "dossier": "SA_46539",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46539"
+   },
+   {
+    "dossier": "SA_46891",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46891"
+   },
+   {
+    "dossier": "SA_46323",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 - 235; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46323"
+   },
+   {
+    "dossier": "SA_82267",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82267"
+   },
+   {
+    "dossier": "SA_97541",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97541"
+   },
+   {
+    "dossier": "SA_46809",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1755,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46809"
+   },
+   {
+    "dossier": "SA_12695",
+    "titel": "Marnixstraat 411 3",
+    "datum": "2004-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12695"
+   },
+   {
+    "dossier": "SA_111942",
+    "titel": "Marnixstraat 411 3",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_111942"
+   },
+   {
+    "dossier": "SA_46375",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 429",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46375"
+   },
+   {
+    "dossier": "SA_46583",
+    "titel": "Leidseplein 26; Lijnbaansgracht 234 A - 235 A; Lijnbaansgracht 243 A; Marnixstraat 419 - 421; Marnixstraat 427 - 429",
+    "datum": "2003-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 113,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46583"
+   },
+   {
+    "dossier": "SA_12908",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12908"
+   },
+   {
+    "dossier": "SA_12835",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "2003-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12835"
+   },
+   {
+    "dossier": "SA_12855",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 411 - 413",
+    "datum": "2003-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12855"
+   },
+   {
+    "dossier": "SA_12818",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12818"
+   },
+   {
+    "dossier": "SA_12800",
+    "titel": "Lijnbaansgracht 234 A; Lijnbaansgracht 235 A",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12800"
+   },
+   {
+    "dossier": "SA_12805",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 405 - 413; Marnixstraat 419",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12805"
+   },
+   {
+    "dossier": "SA_12810",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12810"
+   },
+   {
+    "dossier": "SA_12779",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 411",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12779"
+   },
+   {
+    "dossier": "SA_82260",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 413",
+    "datum": "1999-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82260"
+   },
+   {
+    "dossier": "SA_82258",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 413",
+    "datum": "1999-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82258"
+   },
+   {
+    "dossier": "SA_12740",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12740"
+   },
+   {
+    "dossier": "SA_12756",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12756"
+   },
+   {
+    "dossier": "SA_12745",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12745"
+   },
+   {
+    "dossier": "SA_12734",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12734"
+   },
+   {
+    "dossier": "SA_12737",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12737"
+   },
+   {
+    "dossier": "SA_12731",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12731"
+   },
+   {
+    "dossier": "SA_12728",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12728"
+   },
+   {
+    "dossier": "SA_82255",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 413",
+    "datum": "1999-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82255"
+   },
+   {
+    "dossier": "SA_12767",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 413",
+    "datum": "1999-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12767"
+   },
+   {
+    "dossier": "SA_12710",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 409 - 411",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 130,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12710"
+   },
+   {
+    "dossier": "SA_12687",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "1996-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12687"
+   },
+   {
+    "dossier": "SA_12683",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "1995-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12683"
+   },
+   {
+    "dossier": "SA_12681",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "1995-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12681"
+   },
+   {
+    "dossier": "SA_12732",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "1995-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12732"
+   },
+   {
+    "dossier": "SA_12672",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "1995-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12672"
+   },
+   {
+    "dossier": "SA_12597",
+    "titel": "Lijnbaansgracht 234 A - 235 A; Marnixstraat 413",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12597"
+   },
+   {
+    "dossier": "SA_12650",
+    "titel": "Lijnbaansgracht 234 A - 235 A",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 79,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12650"
+   },
+   {
+    "dossier": "SA_12462",
+    "titel": "Lijnbaansgracht 234 A",
+    "datum": "1993-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12462"
+   },
+   {
+    "dossier": "SA_12467",
+    "titel": "Lijnbaansgracht 234 - 235",
+    "datum": "1988-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12467"
+   },
+   {
+    "dossier": "SA_12461",
+    "titel": "Lijnbaansgracht 234 A",
+    "datum": "1980-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12461"
+   },
+   {
+    "dossier": "SA_12457",
+    "titel": "Marnixstraat 411",
+    "datum": "1974-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12457"
+   },
+   {
+    "dossier": "SA_12452",
+    "titel": "Lijnbaansgracht 234 A; Lijnbaansgracht 235 A; Marnixstraat 405 1 - 405 3; Marnixstraat 407 1 - 407 3; Marnixstraat 409 1 - 409 3; Marnixstraat 411 1 - 411 5; Marnixstraat 413 1 - 413 5",
+    "datum": "1972-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12452"
+   },
+   {
+    "dossier": "SA_12447",
+    "titel": "Marnixstraat 413",
+    "datum": "1960-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12447"
+   },
+   {
+    "dossier": "SA_12446",
+    "titel": "Marnixstraat 413",
+    "datum": "1959-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12446"
+   },
+   {
+    "dossier": "SA_12442",
+    "titel": "Marnixstraat 405 - 413",
+    "datum": "1958-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12442"
+   },
+   {
+    "dossier": "SA_12438",
+    "titel": "Marnixstraat 405 - 413",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12438"
+   },
+   {
+    "dossier": "SA_12425",
+    "titel": "Marnixstraat 407",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12425"
+   },
+   {
+    "dossier": "SA_12433",
+    "titel": "Marnixstraat 405 - 407",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12433"
+   },
+   {
+    "dossier": "SA_12423",
+    "titel": "Marnixstraat 407 - 413",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12423"
+   },
+   {
+    "dossier": "SA_12399",
+    "titel": "Marnixstraat 409 - 413",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12399"
+   },
+   {
+    "dossier": "SA_12396",
+    "titel": "Marnixstraat 409 - 413",
+    "datum": "1950-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12396"
+   },
+   {
+    "dossier": "SA_12378",
+    "titel": "Marnixstraat 409 - 413",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12378"
+   },
+   {
+    "dossier": "SA_12362",
+    "titel": "Marnixstraat 411 - 413",
+    "datum": "1947-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12362"
+   },
+   {
+    "dossier": "SA_12484",
+    "titel": "Marnixstraat 411",
+    "datum": "1946-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12484"
+   },
+   {
+    "dossier": "SA_12356",
+    "titel": "Marnixstraat 409",
+    "datum": "1946-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12356"
+   },
+   {
+    "dossier": "SA_12353",
+    "titel": "Marnixstraat 409 - 413",
+    "datum": "1943-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12353"
+   },
+   {
+    "dossier": "SA_12347",
+    "titel": "Marnixstraat 411 - 413",
+    "datum": "1942-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12347"
+   },
+   {
+    "dossier": "SA_12344",
+    "titel": "Marnixstraat 411 - 413",
+    "datum": "1929-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12344"
+   },
+   {
+    "dossier": "SA_12337",
+    "titel": "Marnixstraat 411 - 413",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12337"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 27,
+  "gezocht": [
+   "Lijnbaansgracht 234",
+   "Lijnbaansgracht 234A",
+   "Lijnbaansgracht 234 A",
+   "Marnixstraat 405",
+   "Marnixstraat 407",
+   "Marnixstraat 409",
+   "Marnixstraat 411",
+   "Marnixstraat 413"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-209068",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-14",
+    "onderwerp": "plaatsen van een hekwerk tussen de te realiseren fietsvlonder en de tuin van het gebouw poppodium de Melkweg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-209068.html",
+    "zaak": "Z2024-010008"
+   },
+   {
+    "id": "gmb-2025-197245",
+    "titel": "Besluit omgevingsvergunning reguliere procedure geweigerd Leidsegracht 111 1017ND Amsterdam, Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-06",
+    "onderwerp": "plaatsen van gevelverlichting aan de voor-/ zijgevel van het gebouw de Melkweg ten behoeve van het extra verlichten openbare ruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-197245.html",
+    "zaak": "Z2024-028960"
+   },
+   {
+    "id": "gmb-2024-434909",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "plaatsen van gevelverlichting aan de voorgevel van het gebouw de Melkweg ten behoeve van het extra verlichten openbare ruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434909.html",
+    "zaak": "Z2024-028960"
+   },
+   {
+    "id": "gmb-2024-272837",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-24",
+    "onderwerp": "plaatsen van een hekwerk tussen de te realiseren fietsvlonder en de tuin van het gebouw poppodium de Melkweg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-272837.html",
+    "zaak": "Z2024-010008"
+   },
+   {
+    "id": "gmb-2024-272836",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "plaatsen van een hekwerk tussen de te realiseren fietsvlonder en de tuin van het gebouw poppodium de Melkweg",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-272836.html",
+    "zaak": "Z2024-010008"
+   },
+   {
+    "id": "gmb-2024-128015",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-21",
+    "onderwerp": "kappen van één boom, esdoorn in de tuin van de Melkweg aan de kadezijde van het gebouw",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-128015.html",
+    "zaak": "Z2024-001112"
+   },
+   {
+    "id": "gmb-2024-88128",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Lijnbaansgracht 234A 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-26",
+    "onderwerp": "kappen van één boom, esdoorn in de tuin van de Melkweg aan de kadezijde van het gebouw",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-88128.html",
+    "zaak": "Z2024-001112"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-209068",
+   "gmb-2025-197245",
+   "gmb-2024-434909",
+   "gmb-2024-272836",
+   "gmb-2024-128015",
+   "gmb-2024-88128"
+  ],
+  "zaaknummers": [
+   "Z2024-001112",
+   "Z2024-010008",
+   "Z2024-028960"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-113370",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat ter hoogte van nummer: 405 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-12",
+    "onderwerp": "Object,Marnixstraat 405 1 1017PJ, 20260316, Marnixstraat ter hoogte van nummer: 405",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-113370.html"
+   },
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2026-87441",
+    "titel": "Besluit apv vergunning Verleend - Marnixstraat ter hoogte van nummer: 405 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-26",
+    "onderwerp": "Object,Marnixstraat 405 2 1017PJ, 20260321, Marnixstraat ter hoogte van nummer: 405",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-87441.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-116845",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Lijnbaansgracht 234A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-15",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Lijnbaansgracht 234A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-116845.html"
+   },
+   {
+    "id": "gmb-2024-16014",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Lijnbaansgracht 234A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-01-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Lijnbaansgracht 234A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-16014.html"
+   },
+   {
+    "id": "gmb-2023-567238",
+    "titel": "BUS-melding Bodem - Lijnbaansgracht 234A, Amsterdam",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-12-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-567238.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-210708",
+    "titel": "Besluit apv vergunning Verleend - Lijnbaansgracht 234",
+    "soort": "andere vergunning",
+    "datum": "2023-05-15",
+    "onderwerp": "verwijderen fietsparkeerschuit, Lijnbaansgracht 234, 22-5-2023 t/m 26-5-2023, Lijnbaansgracht 234",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-210708.html"
+   },
+   {
+    "id": "gmb-2022-526273",
+    "titel": "Besluit apv vergunning Verleend Lijnbaansgracht 234",
+    "soort": "andere vergunning",
+    "datum": "2022-11-28",
+    "onderwerp": "5 Parkeervakken reserveren, Objectvergunning, Lijnbaansgracht 234, 5-12-2022 t/m 16-12-2022,, Lijnbaansgracht 234",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-526273.html"
+   },
+   {
+    "id": "gmb-2022-515225",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Lijnbaansgracht 234 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-11-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Lijnbaansgracht 234 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-515225.html"
+   },
+   {
+    "id": "gmb-2022-389361",
+    "titel": "Besluit apv vergunning Verleend Marnixstraat 408",
+    "soort": "andere vergunning",
+    "datum": "2022-08-30",
+    "onderwerp": "RVV, Marnixstraat 409, 15-09 tot 16-09, Marnixstraat 408",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-389361.html"
+   },
+   {
+    "id": "gmb-2022-89103",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Lijnbaansgracht 234A",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Lijnbaansgracht 234A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-89103.html"
+   },
+   {
+    "id": "gmb-2021-380784",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Lijnbaansgracht 234A",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Lijnbaansgracht 234A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380784.html"
+   },
+   {
+    "id": "wsb-2019-9789",
+    "titel": "Verleende Watervergunning voor het installeren van een tijdelijke ventilatie, ter hoogte van Lijnbaansgracht 234 A, 1017 PH Amsterdam - AGV - WN2019-006745",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-09-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2019-9789.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0010.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_14.html",
+     "tekst": "lijkheid om horeca te exploiteren is voorbehouden aan een beperkt aantal culturele instellingen. De keuze voor een beperkt aantal instellingen is mede bedoeld om overlast voor het woon- en leefklimaat te voorkomen, dan wel zeer beperkt te houden. Een aantal van deze instellingen, zoals Paradiso, de Melkweg en The Sugar Factory, ligt bovendien in het uitgaansgebied. Voordat de instellingen horeca-activiteiten kunnen uitvoeren, dient eerst een aanvraag voor afwijking van het bestemmingsplan te worden aangevraagd. Het dagelijks bestuur neemt hierover een besluit. Aan deze afwijking kunnen voorwaarden worden verbonden, bijvoorbeeld de manier waarop de horeca geÃ«xploiteerd wordt of over h"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_4.4.html",
+     "tekst": "woningbouw in grote ensembles gebouwd. Aan de overzijde aan het water zijn vrijstaande villa's gerealiseerd. Voorts kwamen er negentiende eeuwse grootschalige openbare gebouwen zoals het Huis van Bewaring (nu Max Euweplein), het kerkgebouw van de Vrije Gemeente (nu Paradiso), een melkfabriek (nu de Melkweg), twee scholen (het Barlaeus Gymnasium en de Huishoudschool ernaast), het warenhuis Hirsch & Co en het uit 1905 stammende AmÃ©rican Hotel. stadplattegron"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.4.html",
+     "tekst": "geveer 16% van alle werkzame personen in deze buurtcombinatie. Er zijn 165 vestigingen. Vooral in de culturele sector (ca. 31%) en in sport/recreatie (32%) werken veel mensen. Op en nabij het Leidseplein zitten diverse culturele instellingen zoals de Stadsschouwburg, De La Mar Theater, Paradiso, de Melkweg, Sugar Factory, de Balie en de City-bioscoop. Het hoge percentage werkzame personen in de sport/recreatie komt vooral door de aanwezigheid van Holland Casino bij het Max Euweplein. Daarna volgen de werkgelegenheid bij de politie en bij het onderwijs met elk ca. 12%. In dit gebied zijn twee basisscholen (de Kleine Reus bij de Vijzelstraat en de ASVO aan het Frederiksplein) en de enige schoo"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.4.html",
+     "tekst": "\"> DeLaMar theater 6.4.2 Ontwikkeling Aan het Leidseplein is de Stadsschouwburg uitgebreid met een vlakke vloerzaal en de Melkweg met de zaal The Max. In de Marnixstraat is door de Van der Ende Foundation het De La Mar Theater gerealiseerd met twee zalen. Het Leidseplein wordt heringericht tot voetgangers- en verblijfsgebied met een fietsenstalling onder het Kleine Gartmanplantsoen. In de Vijzelhof (het bouwblok aan de Noorderstraat bij de Vijzelgracht) worden de voormalige wevershuizen met kantoorgebouw aan d"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.9.html",
+     "tekst": "urele instellingen en musea in sommige gevallen de grens tussen additionele horeca (horeca die ondergeschikt is aan de hoofdfunctie) en zelfstandige horeca, onder druk staat. Het gaat dan om culturele functies waarbij de cultuuruiting een duidelijke horecacomponent heeft zoals live optredens bij de Melkweg en Paradiso of om culturele instellingen die beschikken over een pand of ruimte die verhuurd wordt voor bijeenkomsten of feesten. Bij additionele horeca mogen deze activiteiten niet plaatsvinden. Er is voor gekozen om voor deze instellingen een nieuwe horecacategorie op te nemen in het bestemmingsplan, Horeca 6. Het gaat om een vorm van zelfstandige horeca die gekoppeld is aan een "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/t_NL.IMRO.0363.A1006BPSTD-OH01_6.9.html",
+     "tekst": "aanvraag voor afwijking van het bestemmingsplan indienen. Aan de de afwijking kunnen voorschriften en beperkingen worden verbonden. In het plangebied zijn verschillende locaties van culturele instellingen die in aanmerking zouden komen voor een afwijking. Voorbeelden zijn Paradiso, de Melkweg, de SugarFactory, de Duif en de Amstelkerk. 6.9.2 Ontwikkeling Horeca 6 is een nieuwe horecacategorie in het plangebied. 6.9.3 Uitgangspunten De culturele instellingen, waarvan op basis van h"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+   "datum": "2025-09-15",
+   "door": "gemeente Amsterdam",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-398144.html",
+   "fragment": "Elandsgracht 70 1016 TX IKC De Kleine Reus Noorderstraat 6 1017 TV Keizersgracht Kerk Keizersgracht 566 1017 EM Kerk De Duif Prinsengracht 756 1017 LD Maha Amsterdam Vijzelstraat 103 H 1017 HH Melkweg Lijnbaansgracht 234 A 1017 ... GEMEENTEBLAD Officiële uitgave van de gemeente Amsterdam Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam De directeur Dienstverlening van d"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 4,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0010.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1006BPSTD-OH01/i_NL.IMRO.0363.A1006BPSTD-OH01_0045.jpg"
+ ],
+ "duur_s": 124,
+ "pand_adressen": [
+  "Lijnbaansgracht 234A",
+  "Marnixstraat 405",
+  "Marnixstraat 407",
+  "Marnixstraat 409",
+  "Marnixstraat 411",
+  "Marnixstraat 413"
+ ]
+}

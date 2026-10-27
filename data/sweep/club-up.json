@@ -1,0 +1,627 @@
+{
+ "id": "club-up",
+ "naam": "Club Up",
+ "adres": "Korte Leidsedwarsstraat 26-1, 1017 RC Amsterdam",
+ "termen": [
+  "Korte Leidsedwarsstraat 26",
+  "Korte Leidsedwarsstraat 1",
+  "1017RC",
+  "1017 RC",
+  "Club Up",
+  "De Kring"
+ ],
+ "pand": "0363100012174394",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 24,
+  "openbaar": 24,
+  "laatste": "2008-08-01",
+  "dossiers": [
+   {
+    "dossier": "SA_99001",
+    "titel": "Kleine-Gartmanplantsoen 7; Korte Leidsedwarsstraat 26",
+    "datum": "2008-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_99001"
+   },
+   {
+    "dossier": "SA_99000",
+    "titel": "Kleine-Gartmanplantsoen 7; Korte Leidsedwarsstraat 26",
+    "datum": "2008-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_99000"
+   },
+   {
+    "dossier": "SA_59727",
+    "titel": "Kleine-Gartmanplantsoen 7; Korte Leidsedwarsstraat 26",
+    "datum": "2008-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59727"
+   },
+   {
+    "dossier": "SA_59686",
+    "titel": "Kleine-Gartmanplantsoen 7; Korte Leidsedwarsstraat 26",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59686"
+   },
+   {
+    "dossier": "SA_59724",
+    "titel": "Kleine-Gartmanplantsoen 7; Korte Leidsedwarsstraat 26",
+    "datum": "2008-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59724"
+   },
+   {
+    "dossier": "SA_59720",
+    "titel": "Kleine-Gartmanplantsoen 7; Korte Leidsedwarsstraat 26",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 171,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59720"
+   },
+   {
+    "dossier": "SA_59502",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59502"
+   },
+   {
+    "dossier": "SA_59498",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1991-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59498"
+   },
+   {
+    "dossier": "SA_59435",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59435"
+   },
+   {
+    "dossier": "SA_59419",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1982-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59419"
+   },
+   {
+    "dossier": "SA_59404",
+    "titel": "Korte Leidsedwarsstraat 26 - 28",
+    "datum": "1970-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59404"
+   },
+   {
+    "dossier": "SA_59402",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1967-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59402"
+   },
+   {
+    "dossier": "SA_59382",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1963-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 91,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59382"
+   },
+   {
+    "dossier": "SA_59335",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1957-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59335"
+   },
+   {
+    "dossier": "SA_59323",
+    "titel": "Kleine-Gartmanplantsoen 5; Korte Leidsedwarsstraat 26",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59323"
+   },
+   {
+    "dossier": "SA_59301",
+    "titel": "Kleine-Gartmanplantsoen 5; Korte Leidsedwarsstraat 26",
+    "datum": "1946-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59301"
+   },
+   {
+    "dossier": "SA_59296",
+    "titel": "Kleine-Gartmanplantsoen 5; Korte Leidsedwarsstraat 26",
+    "datum": "1938-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59296"
+   },
+   {
+    "dossier": "SA_59299",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1938-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59299"
+   },
+   {
+    "dossier": "SA_59294",
+    "titel": "Kleine-Gartmanplantsoen 5; Korte Leidsedwarsstraat 26",
+    "datum": "1938-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59294"
+   },
+   {
+    "dossier": "SA_59277",
+    "titel": "Kleine-Gartmanplantsoen 5; Korte Leidsedwarsstraat 26",
+    "datum": "1936-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59277"
+   },
+   {
+    "dossier": "SA_59252",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1900-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59252"
+   },
+   {
+    "dossier": "SA_59248",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1900-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59248"
+   },
+   {
+    "dossier": "SA_59247",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1899-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59247"
+   },
+   {
+    "dossier": "SA_59245",
+    "titel": "Korte Leidsedwarsstraat 26",
+    "datum": "1899-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59245"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 29,
+  "gezocht": [
+   "Korte Leidsedwarsstraat 26",
+   "Korte Leidsedwarsstraat 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-1179",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Korte Leidsedwarsstraat 26 1017RC Amsterdam, Korte Leidsedwarsstraat 26 1017RC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-02",
+    "onderwerp": "plaatsen van een uithangbord op de voorgevel van het restaurant op de begane grond",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-1179.html",
+    "zaak": "Z2024-012692"
+   },
+   {
+    "id": "gmb-2021-377510",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Korte Leidsedwarsstraat 26 1017RC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-27",
+    "onderwerp": " uitvoeren van funderingsherstel met behoud van bestemming daarvan tot een bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-377510.html",
+    "zaak": "Z2021-C005327"
+   },
+   {
+    "id": "gmb-2021-292726",
+    "titel": "Aanvraag omgevingsvergunning Korte Leidsedwarsstraat 26 1017RC Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-08-30",
+    "onderwerp": " uitvoeren van funderingsherstel met behoud van bestemming daarvan tot een bijeenkomstfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-292726.html",
+    "zaak": "Z2021-C005327"
+   },
+   {
+    "id": "gmb-2020-275630",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Korte Leidsedwarsstraat 1A 1017PV Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-23",
+    "onderwerp": "het intern wijzigen van het gebouw Korte Leidsedwarsstraat 1 A ten behoeve van de woonfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-275630.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-1179",
+   "gmb-2021-377510",
+   "gmb-2021-292726",
+   "gmb-2020-275630"
+  ],
+  "zaaknummers": [
+   "Z2021-C005327",
+   "Z2024-012692"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-78372",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Korte Leidsedwarsstraat 26 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-02-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 26 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-78372.html"
+   },
+   {
+    "id": "gmb-2024-470061",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Korte Leidsedwarsstraat 26 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 26 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-470061.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2023-556954",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Korte Leidsedwarsstraat 26 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-12-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 26 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-556954.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-387751",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Korte Leidsedwarsstraat 26 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 26 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-387751.html"
+   },
+   {
+    "id": "gmb-2023-385794",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-09-07",
+    "onderwerp": "TVM Stremming,Korte Leidsedwarsstraat 26,op 11-09-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-385794.html"
+   },
+   {
+    "id": "gmb-2023-326211",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-07-25",
+    "onderwerp": "Stremmen - Korte Leidsedwarsstraat 26 - 8-8-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-326211.html"
+   },
+   {
+    "id": "gmb-2023-323542",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-07-24",
+    "onderwerp": "De weg (gedeeltelijk) afsluiten Korte Leidsedwarsstraat 26 26-07-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-323542.html"
+   },
+   {
+    "id": "gmb-2023-285564",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-06-30",
+    "onderwerp": "TVM stremmen Korte Leidsedwarsstraat 26, 23-06-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-285564.html"
+   },
+   {
+    "id": "gmb-2023-249073",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-06-08",
+    "onderwerp": "TVM stremmen - Korte Leidsedwarsstraat 26 - 09-06-2023 tot 16-6-2023 - 11:00 tot 15:00, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-249073.html"
+   },
+   {
+    "id": "gmb-2023-208459",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-05-12",
+    "onderwerp": "stremmen, Korte Leidsedwarsstraat 26, 16-5-2023 t-m 25-5-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-208459.html"
+   },
+   {
+    "id": "gmb-2023-197615",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-05-08",
+    "onderwerp": "OBJ Korte Leidsedwarsstraat 26 van 01-05-2023 t/m 10-05-2023., Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-197615.html"
+   },
+   {
+    "id": "gmb-2023-137717",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2023-03-30",
+    "onderwerp": "Objecten Korte Leidsedwarsstraat 26, 27-03-2023 t/m 02-08-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-137717.html"
+   },
+   {
+    "id": "gmb-2022-528649",
+    "titel": "Besluit apv vergunning Verleend Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2022-11-29",
+    "onderwerp": "TVM Stremmen, Korte Leidsedwarsstraat 26, 28-11-2022 t/m 2-12-2022, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-528649.html"
+   },
+   {
+    "id": "gmb-2022-526407",
+    "titel": "Besluit apv vergunning Verleend Korte Leidsedwarsstraat 26",
+    "soort": "andere vergunning",
+    "datum": "2022-11-28",
+    "onderwerp": "OBJ Korte Leidsedwarsstraat 26 van 25-11-2022 t/m 24-03-2023, Korte Leidsedwarsstraat 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-526407.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-452617",
+    "titel": "Besluit apv vergunning Verleend Korte Leidsedwarsstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-11",
+    "onderwerp": "Tvm/ Objecten, Korte Leidsedwarsstraat 1 t/m 15, 13-10-2022 t/m 13-1-2023 TVM: 13-10-2022 t/m 10-11-2022 Object:, Korte Leidsedwarsstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-452617.html"
+   },
+   {
+    "id": "gmb-2022-448900",
+    "titel": "Besluit apv vergunning Verleend Korte Leidsedwarsstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-10",
+    "onderwerp": "Tvm/ Objecten, Korte Leidsedwarsstraat 1 t/m 15, 10-10-2022 t/m 13-1-2023 TVM: 10-10-2022 t/m 10-11-2022 Object:, Korte Leidsedwarsstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-448900.html"
+   },
+   {
+    "id": "gmb-2022-449186",
+    "titel": "Besluit apv vergunning Verleend Korte Leidsedwarsstraat 1 t/m 15",
+    "soort": "andere vergunning",
+    "datum": "2022-10-10",
+    "onderwerp": "Tvm + Objecten voor bouwwerkzaamheden - 10-10-2022 t/m 13-01-2023 - Locatie: Korte Leidsedwarsstraat 1 t/m 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-449186.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 1,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Korte Leidsedwarsstraat 26"
+ ]
+}

@@ -1,0 +1,645 @@
+{
+ "id": "madam",
+ "naam": "Madam",
+ "adres": "Overhoeksplein 5, 1031 KS Amsterdam",
+ "termen": [
+  "Overhoeksplein 5",
+  "1031KS",
+  "1031 KS",
+  "A'DAM Toren"
+ ],
+ "pand": "0363100012071204",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 2,
+  "openbaar": 0,
+  "laatste": "2014-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_03817",
+    "titel": "Overhoeks 1",
+    "datum": "2014-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03817"
+   },
+   {
+    "dossier": "SN_01850",
+    "titel": "Overhoeksplein 1 - 2",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01850"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 72,
+  "gezocht": [
+   "Overhoeksplein 5",
+   "IJpromenade 4",
+   "Overhoeksplein 1",
+   "Overhoeksplein 21A",
+   "Overhoeksplein 21B",
+   "Overhoeksplein 21C",
+   "Overhoeksplein 21D",
+   "Overhoeksplein 21E",
+   "Overhoeksplein 23A",
+   "Overhoeksplein 23B",
+   "Overhoeksplein 23C",
+   "Overhoeksplein 23D",
+   "Overhoeksplein 23E"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-407378",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Overhoeksplein 1 1031 KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-19",
+    "onderwerp": "tijdelijk realiseren van een steigerconstructie (Temple of Peace) in de periode van 20 tot 28 september 2025",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-407378.html",
+    "zaak": "Z2025-031921"
+   },
+   {
+    "id": "gmb-2025-355034",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-13",
+    "onderwerp": "tijdelijk realiseren van een steigerconstructie (Temple of Peace)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-355034.html",
+    "zaak": "Z2025-031921"
+   },
+   {
+    "id": "gmb-2025-317275",
+    "titel": "Besluit omgevingsvergunning reguliere procedure buiten behandeling gesteld terrein t.o. IJpromenade 4 1031 KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-18",
+    "onderwerp": "plaatsen van een tijdelijke kunstinstallatie | Temple of Peace",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-317275.html",
+    "zaak": "Z2025-020326"
+   },
+   {
+    "id": "gmb-2025-303856",
+    "titel": "Aanvraag omgevingsvergunning terrein t.o. IJpromenade 4 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-11",
+    "onderwerp": "(wacht intrekking) plaatsen van een tijdelijke kunstinstallatie | Temple of Peace",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-303856.html",
+    "zaak": "Z2025-020326"
+   },
+   {
+    "id": "gmb-2025-233889",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-28",
+    "onderwerp": "plaatsen van een overheaddeur in de achtergevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-233889.html",
+    "zaak": "Z2025-010362"
+   },
+   {
+    "id": "gmb-2025-107295",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-13",
+    "onderwerp": "Overheaddeur Overhoeksplein 1",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-107295.html",
+    "zaak": "Z2025-010362"
+   },
+   {
+    "id": "gmb-2023-461241",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-30",
+    "onderwerp": "veranderen van de indeling en het gebruik van delen van de kelder naar kleed-en opslagruimten, werkplaats en VR-ruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-461241.html",
+    "zaak": "Z2022-N003294"
+   },
+   {
+    "id": "gmb-2023-337612",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-31",
+    "onderwerp": "veranderen van de indeling en het gebruik van delen van de kelder naar kleed-en opslagruimten, werkplaats en VR-ruimte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-337612.html",
+    "zaak": "Z2022-N003294"
+   },
+   {
+    "id": "gmb-2023-337457",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-31",
+    "onderwerp": "het veranderen van indeling en het gebruik van delen van de kelder als kleed-en opslagruimten, werkplaats  en VR-rumte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-337457.html",
+    "zaak": "Z2022-N003294"
+   },
+   {
+    "id": "gmb-2023-13524",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-11",
+    "onderwerp": "aanbrengen van een constructie met een beweegbare overkapping op het observatiedeck (21ste verdieping)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-13524.html",
+    "zaak": "Z2022-N002688"
+   },
+   {
+    "id": "gmb-2022-460966",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-17",
+    "onderwerp": "vergroten van het gebouw (het maken van een overkapping op het observatiedeck (21ste verdieping))",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-460966.html",
+    "zaak": "Z2022-N002688"
+   },
+   {
+    "id": "gmb-2022-348021",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2022-07-29",
+    "onderwerp": "20220318 tijdelijke voorziening parkeergarage ADAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-348021.html",
+    "zaak": "Z2022-N000841"
+   },
+   {
+    "id": "gmb-2022-220920",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-17",
+    "onderwerp": "het creëren van extra ruimten aan de huidige parkeergarage van de A'DAM toren op de locatie Overhoeksplein 1 in Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-220920.html",
+    "zaak": "Z2022-N001298"
+   },
+   {
+    "id": "gmb-2022-211964",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-11",
+    "onderwerp": "20220318 tijdelijke voorziening parkeergarage ADAM",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-211964.html",
+    "zaak": "Z2022-N000841"
+   },
+   {
+    "id": "gmb-2022-190188",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-28",
+    "onderwerp": "wijzigen van de indeling van de 20ste verdieping (toevoegen van een kleine bioscoopruimte)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-190188.html",
+    "zaak": "Z2022-N000835"
+   },
+   {
+    "id": "gmb-2022-190186",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-28",
+    "onderwerp": "wijzigen van de indeling van de 20ste verdieping (toevoegen van een kleine bioscoopruimte)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-190186.html",
+    "zaak": "Z2022-N000835"
+   },
+   {
+    "id": "gmb-2022-149159",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-04",
+    "onderwerp": "20220318 tijdelijke voorziening parkeergarage ADAM",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-149159.html",
+    "zaak": "Z2022-N000841"
+   },
+   {
+    "id": "gmb-2021-347182",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-06",
+    "onderwerp": "het plaatsen van een put en de aanleg van ondergrondse kabels en leidingen in het terrein nabij Overhoeksplein 1 te Amsterdam.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-347182.html",
+    "zaak": "Z2021-N002644"
+   },
+   {
+    "id": "gmb-2021-315291",
+    "titel": "Aanvraag omgevingsvergunning Overhoeksplein 1 1031KS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-14",
+    "onderwerp": "WKO bron Y-towers2",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-315291.html",
+    "zaak": "Z2021-N002644"
+   },
+   {
+    "id": "gmb-2021-157285",
+    "titel": "Ontvangst een aanvraag voor het realiseren van een nieuwe WKO nabij toren A'dam.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-20",
+    "onderwerp": " Het realiseren van een nieuwe WKO bron nabij toren A'dam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-157285.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-407378",
+   "gmb-2025-355034",
+   "gmb-2025-317275",
+   "gmb-2025-303856",
+   "gmb-2025-233889",
+   "gmb-2025-107295",
+   "gmb-2023-461241",
+   "gmb-2023-337457",
+   "gmb-2023-13524",
+   "gmb-2022-460966",
+   "gmb-2022-348021",
+   "gmb-2022-220920",
+   "gmb-2022-190188",
+   "gmb-2022-190186",
+   "gmb-2022-149159",
+   "gmb-2021-347182",
+   "gmb-2021-315291",
+   "gmb-2021-157285"
+  ],
+  "zaaknummers": [
+   "Z2021-N002644",
+   "Z2022-N000835",
+   "Z2022-N000841",
+   "Z2022-N001298",
+   "Z2022-N002688",
+   "Z2022-N003294",
+   "Z2025-010362",
+   "Z2025-020326",
+   "Z2025-031921"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-451256",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Object,Overhoeksplein 1 1031KS, 20261020, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451256.html"
+   },
+   {
+    "id": "gmb-2026-437782",
+    "titel": "Aanvraag evenementenvergunning Overhoeksplein 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Overhoeksplein 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-437782.html"
+   },
+   {
+    "id": "gmb-2026-435291",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-17",
+    "onderwerp": "Object,Overhoeksplein 1 1031KS, 20261021, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-435291.html"
+   },
+   {
+    "id": "gmb-2026-316959",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 4 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-03",
+    "onderwerp": "Afgesloten gebieden,Filmen,IJpromenade 4 1031KT, 20260708, IJpromenade ter hoogte van nummer: 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-316959.html"
+   },
+   {
+    "id": "gmb-2026-206878",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-05-01",
+    "onderwerp": "Upload_Object,Overhoeksplein 1 1031KS, 20260428, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-206878.html"
+   },
+   {
+    "id": "gmb-2025-529136",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-05",
+    "onderwerp": "Object,Overhoeksplein 1 1031KS, 20251208, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-529136.html"
+   },
+   {
+    "id": "gmb-2025-397160",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "Object,Overhoeksplein 1 1031KS, 20251001, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397160.html"
+   },
+   {
+    "id": "gmb-2025-380375",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "RVV,Filmen,Nachtwerk,Overhoeksplein 1 1031KS, 20250904, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-380375.html"
+   },
+   {
+    "id": "gmb-2025-361092",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-19",
+    "onderwerp": "Object,Afgesloten gebieden,Overhoeksplein 1 1031KS, 20250930, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-361092.html"
+   },
+   {
+    "id": "prb-2025-9973",
+    "titel": "Ontbrandingstoestemming Vuurwerk - Overhoeksplein 1, Amsterdam.",
+    "soort": "andere vergunning",
+    "datum": "2025-06-19",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-9973.html"
+   },
+   {
+    "id": "gmb-2025-219981",
+    "titel": "Besluit alcoholwetvergunning Verleend - Overhoeksplein 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-05-21",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Overhoeksplein 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-219981.html"
+   },
+   {
+    "id": "gmb-2025-183154",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Overhoeksplein 5 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Overhoeksplein 5 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183154.html"
+   },
+   {
+    "id": "gmb-2025-183081",
+    "titel": "Besluit alcoholwetvergunning Verleend - Overhoeksplein 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Overhoeksplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183081.html"
+   },
+   {
+    "id": "gmb-2025-183095",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Overhoeksplein 3 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Overhoeksplein 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183095.html"
+   },
+   {
+    "id": "gmb-2025-183103",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "Fietsen,TVM stremmen,Object,Overhoeksplein 1 1031KS, 20250526, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183103.html"
+   },
+   {
+    "id": "gmb-2025-158428",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein ter hoogte van nummer: 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-04-11",
+    "onderwerp": "Upload_on hold aanvullende gegevens RVV,Filmen, Overhoeksplein 1 1031KS, 20250415, Overhoeksplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-158428.html"
+   },
+   {
+    "id": "gmb-2025-103355",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Overhoeksplein 3 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-03-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overhoeksplein 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-103355.html"
+   },
+   {
+    "id": "gmb-2024-429253",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 5",
+    "soort": "andere vergunning",
+    "datum": "2024-10-11",
+    "onderwerp": "Object, Overhoeksplein 5 1031KS, 20241011, Overhoeksplein 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-429253.html"
+   },
+   {
+    "id": "gmb-2024-421678",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 1",
+    "soort": "andere vergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "Object, Overhoeksplein 1 1031KS, 20241008, Overhoeksplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-421678.html"
+   },
+   {
+    "id": "gmb-2024-217548",
+    "titel": "Besluit evenementenvergunning VerleendOverhoeksplein 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Overhoeksplein 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-217548.html"
+   },
+   {
+    "id": "gmb-2024-151330",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 5",
+    "soort": "andere vergunning",
+    "datum": "2024-04-08",
+    "onderwerp": "Nachtwerk, Overhoeksplein 5 1031KS, 20240412, Overhoeksplein 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-151330.html"
+   },
+   {
+    "id": "gmb-2024-137189",
+    "titel": "Aanvraag evenementenvergunning Overhoeksplein 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Overhoeksplein 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-137189.html"
+   },
+   {
+    "id": "gmb-2023-536399",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 5",
+    "soort": "andere vergunning",
+    "datum": "2023-12-15",
+    "onderwerp": "Werkzaamheden en vervoer op straat Overhoeksplein 5 1031KS, Overhoeksplein 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-536399.html"
+   },
+   {
+    "id": "gmb-2023-495025",
+    "titel": "Besluit alcoholwetvergunning Verleend - Overhoeksplein 1 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-11-21",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Overhoeksplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-495025.html"
+   },
+   {
+    "id": "gmb-2023-495106",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Overhoeksplein 3 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Overhoeksplein 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-495106.html"
+   },
+   {
+    "id": "gmb-2023-408144",
+    "titel": "Aanvraag alcoholwetvergunning Overhoeksplein 1",
+    "soort": "andere vergunning",
+    "datum": "2023-09-25",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Overhoeksplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-408144.html"
+   },
+   {
+    "id": "gmb-2023-406382",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 1",
+    "soort": "andere vergunning",
+    "datum": "2023-09-22",
+    "onderwerp": "TVM Objecten - Overhoeksplein 1 - 17 t/m 24 okt 2023, Overhoeksplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-406382.html"
+   },
+   {
+    "id": "gmb-2023-406328",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Ingetrokken - Overhoeksplein 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-22",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Overhoeksplein 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-406328.html"
+   },
+   {
+    "id": "gmb-2023-398448",
+    "titel": "Besluit apv vergunning Verleend - Overhoeksplein 1",
+    "soort": "andere vergunning",
+    "datum": "2023-09-18",
+    "onderwerp": "Object - Overhoeksplein 1 - 17-10-23 t/m 24-10-23, Overhoeksplein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398448.html"
+   },
+   {
+    "id": "gmb-2023-398423",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Overhoeksplein 3 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-18",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Overhoeksplein 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398423.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1702BPGST-VG01",
+   "naam": "Overhoeks 2016 Eerste partiele herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-04-03",
+   "opp_m2": 395001,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1501BPGST-VG01",
+   "naam": "Overhoeks 2016",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-10-05",
+   "opp_m2": 469614,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0006.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0007.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0008.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0011.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0012.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": " met respectievelijk 300, 120, 120 en 80 zitplaatsen. Toren Overhoeks/ A'dam Toren 'Toren Overhoeks', het voormalige hoofdkantoor van Shell Research aan de noordoever van het IJ, wordt momenteel getransformeerd tot A'dam: een multifunctionele toren met een observatiepunt, hotel, club, kantoren voor de creatieve industrie en diverse horeca waaronder een ronddraaiend restaurant. AÂ´dam zal rond het tweede kwartaal van 2016 worden opgeleverd, gelij"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": " Van der Pekbrug Voor de bouw van de Van der Pekbrug is een omgevingsvergunning verleend en in 2016 is de Van der Pekbrug in gebruik genomen. Deze brug zorgt ervoor dat het toekomstige verkeer richting de strip (A'DAM toren, Grootlab en de hoogbouw) een eigen route heeft, gescheiden van het woongedeelte van de wijk. Op deze manier blijft het Residentieel Kwartier een verkeersluwe buurt binnen de Campus. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": " bestemmingsverkeer. De verkeersafwikkeling per auto vindt plaats via de wegen in Buiksloterham ten noorden van het plangebied en via de Van der Pekstraat ten oosten van het plangebied. Realisatie van de Van der Pekbrug (gereed 2016) zal er voor zorgen dat het toekomstige verkeer richting de Strip (A'DAM toren, Grootlab en de hoogbouw) een eigen route heeft, gescheiden van het woongedeelte van de wijk. Op deze manier blijft het Residentieel Kwartier een verkeersluwe buurt binnen de Campus. Wat betreft bereikbaarheid per fiets en openbaar vervoer heeft het plangebied een gunstige geografische ligging. Het Buiksloterwegveer en het Distelwegveer liggen vlakbij het plangebied waardoor het c"
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0006.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0007.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0008.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0011.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/i_NL.IMRO.0363.N1501BPGST-VG01_0012.jpg"
+ ],
+ "duur_s": 1,
+ "pand_adressen": [
+  "IJpromenade 4",
+  "Overhoeksplein 1",
+  "Overhoeksplein 21A",
+  "Overhoeksplein 21B",
+  "Overhoeksplein 21C",
+  "Overhoeksplein 21D",
+  "Overhoeksplein 21E",
+  "Overhoeksplein 23A",
+  "Overhoeksplein 23B",
+  "Overhoeksplein 23C",
+  "Overhoeksplein 23D",
+  "Overhoeksplein 23E"
+ ]
+}

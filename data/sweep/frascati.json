@@ -1,0 +1,192 @@
+{
+ "id": "frascati",
+ "naam": "Frascati",
+ "adres": "Nes 63, 1012 KD Amsterdam",
+ "termen": [
+  "Nes 63",
+  "1012KD",
+  "1012 KD",
+  "Frascati"
+ ],
+ "pand": null,
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 10,
+  "gezocht": [
+   "Nes 63"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-317537",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Nes 63 1012KD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-18",
+    "onderwerp": "isoleren van de zuidgevel aan de buitenzijde ten behoeve van het verduurzamen van het theater",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-317537.html",
+    "zaak": "Z2025-016116"
+   },
+   {
+    "id": "gmb-2023-315363",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Nes 63 1012KD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-18",
+    "onderwerp": "verduurzamen en casco onderhoud van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-315363.html",
+    "zaak": "Z2023-C002050"
+   },
+   {
+    "id": "gmb-2023-241766",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Nes 63 1012KD Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2023-06-05",
+    "onderwerp": "Frascati verduurzaming en casco onderhoud",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-241766.html",
+    "zaak": "Z2023-C002050"
+   },
+   {
+    "id": "gmb-2023-159236",
+    "titel": "Aanvraag omgevingsvergunning Nes 63 1012KD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-12",
+    "onderwerp": "Frascati verduurzaming en casco onderhoud",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-159236.html",
+    "zaak": "Z2023-C002050"
+   },
+   {
+    "id": "gmb-2022-332603",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Nes 63 1012KD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-20",
+    "onderwerp": "het maken van een groen dak op het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-332603.html",
+    "zaak": "Z2022-C001372"
+   },
+   {
+    "id": "gmb-2022-138621",
+    "titel": "Aanvraag omgevingsvergunning Nes 63 1012KD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-29",
+    "onderwerp": "het maken van een groen dak op het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-138621.html",
+    "zaak": "Z2022-C001372"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-317537",
+   "gmb-2023-315363",
+   "gmb-2023-159236",
+   "gmb-2022-332603",
+   "gmb-2022-138621"
+  ],
+  "zaaknummers": [
+   "Z2022-C001372",
+   "Z2023-C002050",
+   "Z2025-016116"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-233486",
+    "titel": "Besluit apv vergunning Verleend - Nes ter hoogte van nummer: 63 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-18",
+    "onderwerp": "Object,Nes 63 1012KD, 20260601, Nes ter hoogte van nummer: 63",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-233486.html"
+   },
+   {
+    "id": "gmb-2022-286676",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Nes 63",
+    "soort": "andere vergunning",
+    "datum": "2022-06-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Nes 63",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-286676.html"
+   },
+   {
+    "id": "gmb-2022-73655",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Nes 71 en Nes 63",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-21",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Nes 71 en Nes 63",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-73655.html"
+   },
+   {
+    "id": "gmb-2021-380651",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Nes 71 en Nes 63",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Nes 71 en Nes 63",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380651.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0029.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "rondom de kerk heeft een intiem karakter en vormt de verbinding tussen een aantal dwarsstraten. Aan het plein is het gebruik, met onder meer horeca, prostitutie, woningbouw en een kinderdagverblijf, gevarieerd. Halverwege de Nes, een straat met een groot aantal theaters (Brakke Grond, Frascati, de Engelenbak, het comedytheater en het Parooltheater) en enkele horecazaken, ligt het wat verscholen Nesplein. Het plein grenst weliswaar direct aan het theater de Brakke Grond, maar het ontbreekt aan levendigheid. Nieuwe invullingen in het Fortis-gebouw en de aangrenzende Vleeshal moeten hier verandering in brengen. De Nieuwmarkt aan de rand van het plangebied, is Ã©Ã©n van de we"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.4.html",
+     "tekst": "llingen In het gebied zijn diverse theaters, musea en tentoonstellingsruimten, zoals de Oude en Nieuwe Kerk, Museum Amstelkring (Ons' Lieve Heer op Solder), Beurs van Berlage, Amsterdam Museum en het Allard Pierson Museum. Aan de Nes liggen meerdere theaters: de Brakke Grond, Frascati, de Engelenbak, het Cosmic Theater en het Vlaams Cultureel Centrum. Het gebied huisvest relatief veel religieuze en levensbeschouwelijke instellingen, zoals de Sint Nicolaaskerk, de Engelse Hervormde Kerk op het Begijnhof, De Papegaai in de Kalverstraat, de Chinese Tempel aan de Zeedijk en het Leger des Heils aan de Oudezijds Achterburgwal. <img id=\"o2793\" src=\"i_NL."
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 142,
+  "plannen": 137,
+  "woo": 22
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0029.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0045.jpg"
+ ],
+ "duur_s": 353,
+ "pand_adressen": []
+}

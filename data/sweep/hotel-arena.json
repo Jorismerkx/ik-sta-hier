@@ -1,0 +1,1314 @@
+{
+ "id": "hotel-arena",
+ "naam": "Hotel Arena",
+ "adres": "'s-Gravesandestraat 55, 1092 AA Amsterdam",
+ "termen": [
+  "'s-Gravesandestraat 55",
+  "1092AA",
+  "1092 AA",
+  "Hotel Arena"
+ ],
+ "pand": "0363100012236788",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "hoog",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 32,
+  "openbaar": 31,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_35201",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 138,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35201"
+   },
+   {
+    "dossier": "SU_35291",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35291"
+   },
+   {
+    "dossier": "SU_35075",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35075"
+   },
+   {
+    "dossier": "SU_16232",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_16232"
+   },
+   {
+    "dossier": "SU_35258",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_35258"
+   },
+   {
+    "dossier": "SU_16228",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2008-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_16228"
+   },
+   {
+    "dossier": "SU_33994",
+    "titel": "'s-Gravesandeplein 4 - 22; 's-Gravesandeplein 13 - 15; 's-Gravesandeplein 32 - 38; 's-Gravesandeplein 42; 's-Gravesandeplein 46 - 48; 's-Gravesandeplein 52 - 66; 's-Gravesandeplein 70; 's-Gravesandeplein 74 - 76; 's-Gravesandeplein 80 - 84; 's-Gravesandestraat 55; Akkerstraat 1 - 21; Akkerstraat 2 -",
+    "datum": "2008-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_33994"
+   },
+   {
+    "dossier": "SU_12873",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2001-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12873"
+   },
+   {
+    "dossier": "SU_12871",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2001-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 171,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12871"
+   },
+   {
+    "dossier": "SU_12815",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12815"
+   },
+   {
+    "dossier": "SU_12880",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2001-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12880"
+   },
+   {
+    "dossier": "SU_12840",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12840"
+   },
+   {
+    "dossier": "SU_12826",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12826"
+   },
+   {
+    "dossier": "SU_12844",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12844"
+   },
+   {
+    "dossier": "SU_01443",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01443"
+   },
+   {
+    "dossier": "SU_12811",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12811"
+   },
+   {
+    "dossier": "SU_12795",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12795"
+   },
+   {
+    "dossier": "SU_12845",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_12845"
+   },
+   {
+    "dossier": "SU_00763",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1995-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00763"
+   },
+   {
+    "dossier": "SU_00762",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1995-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00762"
+   },
+   {
+    "dossier": "SU_00760",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1993-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00760"
+   },
+   {
+    "dossier": "SU_00759",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1993-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00759"
+   },
+   {
+    "dossier": "SU_00758",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1993-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00758"
+   },
+   {
+    "dossier": "SU_05835",
+    "titel": "'s-Gravesandestraat 55 naast",
+    "datum": "1993-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_05835"
+   },
+   {
+    "dossier": "SU_00751",
+    "titel": "'s-Gravesandestraat 51",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 122,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00751"
+   },
+   {
+    "dossier": "SU_34347",
+    "titel": "'s-Gravesandestraat 1 - 39; Mauritskade 25 a - 25 h; Mauritskade 26 a - 27 e",
+    "datum": "1986-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_34347"
+   },
+   {
+    "dossier": "SU_00756",
+    "titel": "'s-Gravesandestraat 1 - 39; Mauritskade 25 a - 25 h; Mauritskade 26 a - 27 e",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00756"
+   },
+   {
+    "dossier": "SU_00757",
+    "titel": "'s-Gravesandestraat 53 - 55",
+    "datum": "1986-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00757"
+   },
+   {
+    "dossier": "SU_00752",
+    "titel": "'s-Gravesandestraat 1 - 3",
+    "datum": "1984-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00752"
+   },
+   {
+    "dossier": "SU_00754",
+    "titel": "Mauritskade 25 A - 27 C",
+    "datum": "1984-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_00754"
+   },
+   {
+    "dossier": "SU_05323",
+    "titel": "'s-Gravesandestraat 5",
+    "datum": "1937-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_05323"
+   },
+   {
+    "dossier": "SU_05327",
+    "titel": "'s-Gravesandestraat 5",
+    "datum": "1918-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_05327"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 84,
+  "gezocht": [
+   "'s-Gravesandestraat 55",
+   "'s-Gravesandestraat 1",
+   "'s-Gravesandestraat 11",
+   "'s-Gravesandestraat 13",
+   "'s-Gravesandestraat 15",
+   "'s-Gravesandestraat 17",
+   "'s-Gravesandestraat 19",
+   "'s-Gravesandestraat 21",
+   "'s-Gravesandestraat 23",
+   "'s-Gravesandestraat 25",
+   "'s-Gravesandestraat 27",
+   "'s-Gravesandestraat 29",
+   "'s-Gravesandestraat 3"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-477371",
+    "titel": "Ingediende aanvraag omgevingsvergunning, het realiseren van een dakopbouw, 's Gravesandestraat 3 1171XP Badhoevedorp, DSO-nummer: 2026092700075, Zaaknummer: 039413864726",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-13",
+    "onderwerp": "het realiseren van een dakopbouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477371.html",
+    "zaak": "039413864726"
+   },
+   {
+    "id": "gmb-2026-394838",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-20",
+    "onderwerp": "kappen van twee bomen",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-394838.html",
+    "zaak": "Z2026-030372"
+   },
+   {
+    "id": "gmb-2026-379617",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-10",
+    "onderwerp": "kappen van twee bomen",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-379617.html",
+    "zaak": "Z2026-030372"
+   },
+   {
+    "id": "gmb-2026-286294",
+    "titel": "Verleende Omgevingsvergunning, vergroten en transformeren van een bedrijfspand met woning naar 6 woningen, Van 's-Gravesandestraat 19 en Van 's-Gravesandestraat 25, te Utrecht, GU-Z2026-0045900",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-17",
+    "onderwerp": "Toelichting: vergroten en transformeren van een bedrijfspand met woning naar 6 woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-286294.html"
+   },
+   {
+    "id": "gmb-2026-94922",
+    "titel": "Verlengen beslistermijn aanvraag huisvestingsvergunning kadastraal splitsen Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2 en 4, 3112XP Schiedam",
+    "soort": "andere beschikking",
+    "datum": "2026-03-04",
+    "onderwerp": "Betreft: Beschikking verlenging beslistermijn op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2 en 4, 3112XP Schiedam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-94922.html",
+    "zaak": "Rx.Mission zaak Z2026-00000023"
+   },
+   {
+    "id": "gmb-2026-77949",
+    "titel": "Aanvraag omgevingsvergunning, het vergroten van het pand en ) en het splitsen in zes wooneenheden, Van 's-Gravesandestraat 19, 3514VR Utrecht, GU-Z2026-0045900",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-20",
+    "onderwerp": "Toelichting: het vergroten van het pand en ) en het splitsen in zes wooneenheden",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-77949.html",
+    "zaak": "Rx.Mission zaak GU-Z2026-0045900"
+   },
+   {
+    "id": "gmb-2025-476505",
+    "titel": "'s-Gravesandestraat 1 B, Omgevingsvergunning, verbouwing kerk",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-07",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-476505.html",
+    "zaak": "079618406604"
+   },
+   {
+    "id": "gmb-2025-392062",
+    "titel": "'s-Gravesandestraat 1b, omgevingsvergunning, het verbouwen van de Parousia Kerk",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-392062.html",
+    "zaak": "079618406604"
+   },
+   {
+    "id": "gmb-2025-309856",
+    "titel": "'s-Gravesandestraat 1 B, omgevingsvergunning, het verbouwen van de Parousie Kerk",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-18",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-309856.html",
+    "zaak": "079618186639"
+   },
+   {
+    "id": "gmb-2025-18047",
+    "titel": "Omgevingsvergunning Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-22",
+    "onderwerp": "Betreft:  besluit op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-18047.html",
+    "zaak": "Rx.Mission zaak Z2024-00001525"
+   },
+   {
+    "id": "gmb-2024-509436",
+    "titel": "Verlengen beslistermijn aanvraag omgevingsvergunning Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-11",
+    "onderwerp": "Betreft: Beschikking verlenging beslistermijn op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-509436.html",
+    "zaak": "Rx.Mission zaak Z2024-00001525"
+   },
+   {
+    "id": "gmb-2024-424877",
+    "titel": "Aanvraag omgevingsvergunning Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-09",
+    "onderwerp": "Betreft: aanvraag op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-424877.html",
+    "zaak": "Rx.Mission zaak Z2024-00001525"
+   },
+   {
+    "id": "gmb-2024-312708",
+    "titel": "Verlengen beslistermijn aanvraag omgevingsvergunning Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-24",
+    "onderwerp": "Betreft: Beschikking verlenging beslistermijn op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-312708.html",
+    "zaak": "Rx.Mission zaak Z2024-00000735"
+   },
+   {
+    "id": "gmb-2024-227979",
+    "titel": "Aanvraag Omgevingsvergunning Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-29",
+    "onderwerp": "Betreft: aanvraag op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2B en 4A, 3112XP Schiedam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-227979.html",
+    "zaak": "Rx.Mission zaak Z2024-00000735"
+   },
+   {
+    "id": "gmb-2022-571719",
+    "titel": "'s-Gravesandestraat 15, Omgevingsvergunning",
+    "soort": "andere vergunning",
+    "datum": "2022-12-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-571719.html",
+    "zaak": "079614408027"
+   },
+   {
+    "id": "gmb-2022-501153",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-10",
+    "onderwerp": "het brandveilig gebruik voor het gehele pand van Hotel Arena voor maximaal 1599 personen",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-501153.html",
+    "zaak": "Z2022-O002328"
+   },
+   {
+    "id": "gmb-2022-485620",
+    "titel": "'s-Gravensandestraat 15, omgevingsvergunning uitbreiden woonhuis",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-04",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-485620.html",
+    "zaak": "079614408027"
+   },
+   {
+    "id": "gmb-2022-414022",
+    "titel": "Ontwerpbesluit omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-15",
+    "onderwerp": "het brandveilig gebruik voor het gehele pand van Hotel Arena voor maximaal 1599 personen",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-414022.html",
+    "zaak": "Z2022-O002328"
+   },
+   {
+    "id": "gmb-2022-331291",
+    "titel": "Besluit omgevingsvergunning reguliere procedure 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-20",
+    "onderwerp": "het tijdelijk plaatsen van een kunstwerk in het water",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-331291.html",
+    "zaak": "Z2022-O001492"
+   },
+   {
+    "id": "gmb-2022-263229",
+    "titel": "Verlenging beslistermijn omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-10",
+    "onderwerp": "het tijdelijk plaatsen van een kunstwerk in het water",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-263229.html",
+    "zaak": "Z2022-O001492"
+   },
+   {
+    "id": "gmb-2022-250707",
+    "titel": "Aanvraag omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-02",
+    "onderwerp": "het brandveilig gebruik voor het gehele pand van Hotel Arena",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-250707.html",
+    "zaak": "Z2022-O002328"
+   },
+   {
+    "id": "gmb-2022-168340",
+    "titel": "Aanvraag omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-14",
+    "onderwerp": "het tijdelijk plaatsen van een kunstwerk in het water",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-168340.html",
+    "zaak": "Z2022-O001492"
+   },
+   {
+    "id": "gmb-2022-36821",
+    "titel": "Afgehandelde vergunning tijdelijke terrasuitbreiding, individuele uitbreiding restaurant Guusje, Van 's-Gravesandestraat 27 Utrecht,  HZ_VTTU-22-00035",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-28",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-36821.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-25243",
+    "titel": "Afgehandelde omgevingsvergunning, het afwijken van de bestemming voor een tijdelijke terrasuitbreiding, Van 's-Gravesandestraat 27 te Utrecht,  HZ_WABO-22-01479",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-20",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-25243.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-265563",
+    "titel": "Besluit omgevingsvergunning reguliere procedure 's-Gravesandestraat 55 1092AA Amsterdam, 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2021-08-06",
+    "onderwerp": "plaatsen van een tijdelijke modulaire squashbaan in de tuin",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-265563.html",
+    "zaak": "Z2021-O002759"
+   },
+   {
+    "id": "gmb-2021-242008",
+    "titel": "Verlenging beslistermijn omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam, 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2021-07-22",
+    "onderwerp": "plaatsen van een tijdelijke modulaire squashbaan in de tuin",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-242008.html",
+    "zaak": "Z2021-O002759"
+   },
+   {
+    "id": "gmb-2021-184564",
+    "titel": "Aanvraag omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam, 's-Gravesandestraat 55",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-11",
+    "onderwerp": "plaatsen van een tijdelijke modulaire squashbaan in de tuin",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-184564.html"
+   },
+   {
+    "id": "gmb-2021-154766",
+    "titel": "Besluit omgevingsvergunning reguliere procedure 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-19",
+    "onderwerp": "wijzigen van het gebruik van terras oost naar horecaterras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-154766.html"
+   },
+   {
+    "id": "gmb-2021-153190",
+    "titel": "Besluit omgevingsvergunning reguliere procedure 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-18",
+    "onderwerp": "gebruik van het terras aan de westzijde en de patio als horecaterras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-153190.html"
+   },
+   {
+    "id": "gmb-2021-122939",
+    "titel": "'s-Gravesandestraat 1 B, 5223 BR te 's-Hertogenbosch, geluidwerende maatregelingen dak en ramen, omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-122939.html"
+   },
+   {
+    "id": "gmb-2021-126357",
+    "titel": "Besluit omgevingsvergunning reguliere procedure 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-22",
+    "onderwerp": "wijzigen van de bestaande glazen tourniquet ter plaatse van de hoofdentree van hotel Arena ten behoeve van de logiesfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-126357.html"
+   },
+   {
+    "id": "gmb-2021-107788",
+    "titel": "Verlenging beslistermijn omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-08",
+    "onderwerp": "wijzigen van het gebruik van terras oost als horecaterras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-107788.html"
+   },
+   {
+    "id": "gmb-2021-107815",
+    "titel": "Verlenging beslistermijn omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-08",
+    "onderwerp": "voor het gebruik van het terras aan de westzijde en het de patio als horecaterras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-107815.html"
+   },
+   {
+    "id": "gmb-2021-88775",
+    "titel": "Afgehandelde omgevingsvergunning, Het afwijken van de bestemming voor een tijdelijke terrasuitbreiding, Van 's-Gravesandestraat 27 te Utrecht,  HZ_WABO-21-08697",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-88775.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-87526",
+    "titel": "Afgehandelde vergunning tijdelijke terrasuitbreiding, individuele uitbreiding restaurant Guusje, Van 's-Gravesandestraat 27 Utrecht,  HZ_VTTU-21-07280",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-87526.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-68750",
+    "titel": "Verlenging beslistermijn omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-05",
+    "onderwerp": "wijzigen van de bestaande glazen tourniquet ter plaatse van de hoofdentree van het gebouw met behoud van bestemming daarvan tot hotel/motel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-68750.html"
+   },
+   {
+    "id": "gmb-2021-56862",
+    "titel": "'s-Gravesandestraat 1 B, 5223 BR te 's-Hertogenbosch, geluidwerende maatregelingen dak en ramen, omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-56862.html"
+   },
+   {
+    "id": "gmb-2021-46478",
+    "titel": "Aanvraag omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-16",
+    "onderwerp": "het wijzigen van het gebruik van terras oost als horecaterras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-46478.html"
+   },
+   {
+    "id": "gmb-2021-46490",
+    "titel": "Aanvraag omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-16",
+    "onderwerp": "voor het gebruik van het terras aan de westzijde en het de patio als horecaterras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-46490.html"
+   },
+   {
+    "id": "gmb-2021-40369",
+    "titel": "Aanvraag omgevingsvergunning 's-Gravesandestraat 55 1092AA Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-10",
+    "onderwerp": "wijzigen van de bestaande glazen tourniquet ter plaatse van de hoofdentree van het gebouw met behoud van bestemming daarvan tot hotel/motel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-40369.html"
+   },
+   {
+    "id": "gmb-2020-211549",
+    "titel": "Afgehandelde omgevingsvergunning, het verbouwen van twee beneden- en twee bovenwoningen, Van 's-Gravesandestraat 15 - 15BS, 17 - 17BS te Utrecht,  HZ_WABO-20-20625",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-08-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-211549.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-203822",
+    "titel": "Verlenging beslistermijn omgevingsvergunning, het verbouwen van twee benedenwoningen en het veranderen van twee bovenwoningen naar zes onzelfstandige woonruimten op de verdiepingen, Van 's-Gravesandestraat 15 - 15BS, 17 - 17BS te Utrecht,  HZ_WABO-20-20625",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-08-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-203822.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-168792",
+    "titel": "RECTIFICATIE Aanvraag omgevingsvergunning, het verbouwen van twee benedenwoningen en het veranderen van twee bovenwoningen naar zes onzelfstandige woonruimten op de verdiepingen, Van 's-Gravesandestraat 15 - 15BS, 17 - 17BS te Utrecht, HZ_WABO-20-20625",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-168792.html"
+   },
+   {
+    "id": "gmb-2020-158036",
+    "titel": "Aanvraag omgevingsvergunning, het splitsen van vier woningen naar zes woningen, Van 's-Gravesandestraat 15 BS te Utrecht, HZ_WABO-20-20625",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-06-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-158036.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-111920",
+    "titel": "Aanvraag omgevingsvergunning, Het splitsen van vier woningen naar zes woningen, Van 's-Gravesandestraat 15 - 15BS - 17 - 17BS  te Utrecht, HZ_WABO-20-14019",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-05-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-111920.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2020-28332",
+    "titel": "Aanvraag kadastrale splitsingsvergunning, Van   's-Gravesandestraat 15-15 BS en 17-17 BS te Utrecht, HZ_HUIS-20-02607",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-02-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-28332.html"
+   },
+   {
+    "id": "gmb-2020-14362",
+    "titel": "Afgehandelde omgevingsvergunning, het wijzigen van kozijnen in de vorgevel, het aanpassen van daklichten en het verkleinen van de uitbouw, Van 's-Gravesandestraat 25 te Utrecht,  HZ_WABO-19-35145",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-01-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-14362.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2019-270827",
+    "titel": "Aanvraag omgevingsvergunning, het wijzigen van kozijnen in de vorgevel, het aanpassen van daklichten en het verkleinen van de uitbouw, Van 's-Gravesandestraat 25 te Utrecht, HZ_WABO-19-35145",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-11-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-270827.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2018-58824",
+    "titel": "aangevraagde vergunning Arent v 's-Gravesandestraat   29",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-03-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-58824.html"
+   },
+   {
+    "id": "gmb-2016-105664",
+    "titel": "Aanvraag omgevingsvergunning, Van 's-Gravesandestraat 27, 3112 JK te Schiedam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-08-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-105664.html"
+   },
+   {
+    "id": "gmb-2013-2507",
+    "titel": "Afgehandelde omgevingsvergunning, Van 's-Gravesandestraat 25 A te Utrecht, HZ_WABO-13-15127",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2013-10-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2013-2507.html"
+   },
+   {
+    "id": "gmb-2013-1657",
+    "titel": "Nieuwe omgevingsvergunning, Van 's-Gravesandestraat 25 A te Utrecht, HZ_WABO-13-15127",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2013-09-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2013-1657.html"
+   },
+   {
+    "id": "gmb-2013-1175",
+    "titel": "Nieuwe omgevingsvergunning, Van 's-Gravesandestraat 25 A te Utrecht, HZ_WABO-13-13111",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2013-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2013-1175.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-477371",
+   "gmb-2026-394838",
+   "gmb-2026-379617",
+   "gmb-2026-77949",
+   "gmb-2024-509436",
+   "gmb-2024-424877",
+   "gmb-2024-312708",
+   "gmb-2024-227979",
+   "gmb-2022-501153",
+   "gmb-2022-414022",
+   "gmb-2022-331291",
+   "gmb-2022-250707",
+   "gmb-2022-168340",
+   "gmb-2021-265563",
+   "gmb-2021-184564",
+   "gmb-2021-154766",
+   "gmb-2021-153190",
+   "gmb-2021-126357",
+   "gmb-2021-46478",
+   "gmb-2021-46490",
+   "gmb-2021-40369",
+   "gmb-2020-168792",
+   "gmb-2020-158036",
+   "gmb-2020-111920",
+   "gmb-2019-270827",
+   "gmb-2016-105664"
+  ],
+  "zaaknummers": [
+   "039413864726",
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "Rx.Mission zaak GU-Z2026-0045900",
+   "Rx.Mission zaak Z2024-00000735",
+   "Rx.Mission zaak Z2024-00001525",
+   "Z2021-O002759",
+   "Z2022-O001492",
+   "Z2022-O002328",
+   "Z2026-030372"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   },
+   {
+    "id": "gmb-2022-25243",
+    "titel": "Afgehandelde omgevingsvergunning, het afwijken van de bestemming voor een tijdelijke terrasuitbreiding, Van 's-Gravesandestraat 27 te Utrecht,  HZ_WABO-22-01479",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-20",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-25243.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-88775",
+    "titel": "Afgehandelde omgevingsvergunning, Het afwijken van de bestemming voor een tijdelijke terrasuitbreiding, Van 's-Gravesandestraat 27 te Utrecht,  HZ_WABO-21-08697",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-88775.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-446614",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2026-09-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-446614.html"
+   },
+   {
+    "id": "gmb-2026-436084",
+    "titel": "Schadevergoedingsovereenkomst nadeelcompensatie en bijdrage bovenwijkse voorzieningen Van s’-Gravesandestraat 19 en 25 te Utrecht",
+    "soort": "overige overheidsinformatie",
+    "datum": "2026-09-17",
+    "onderwerp": "Schadevergoedingsovereenkomst nadeelcompensatie en bijdrage bovenwijkse voorzieningen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-436084.html"
+   },
+   {
+    "id": "gmb-2026-261497",
+    "titel": "Huisvestingsvergunning kadastraal splitsen Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2 en 4, 3112XP Schiedam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-10",
+    "onderwerp": "Betreft:  besluit op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2 en 4, 3112XP Schiedam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-261497.html"
+   },
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2026-92464",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2026-03-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-92464.html"
+   },
+   {
+    "id": "gmb-2026-90117",
+    "titel": "Besluit apv vergunning Verleend - 's-Gravesandestraat ter hoogte van nummer: 55 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-27",
+    "onderwerp": "TVM parkeervak,'s-Gravesandestraat 55 1092AA, 20260309, 's-Gravesandestraat ter hoogte van nummer: 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-90117.html"
+   },
+   {
+    "id": "gmb-2026-13133",
+    "titel": "Aanvraag Huisvestingsvergunning kadastraal splitsen Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2 en 4, 3112XP Schiedam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-14",
+    "onderwerp": "Betreft: aanvraag op het adres Van 's-Gravesandestraat 25, 3112JK en Von Leibnizstraat 2 en 4, 3112XP Schiedam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-13133.html"
+   },
+   {
+    "id": "gmb-2025-479873",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - 's-Gravesandestraat 55 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres 's-Gravesandestraat 55 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-479873.html"
+   },
+   {
+    "id": "gmb-2025-455825",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2025-10-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-455825.html"
+   },
+   {
+    "id": "gmb-2025-312999",
+    "titel": "Besluit apv vergunning Verleend - 's-Gravesandestraat ter hoogte van nummer: 55 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-17",
+    "onderwerp": "TVM parkeervak,'s-Gravesandestraat 55 1092AA, 20250811, 's-Gravesandestraat ter hoogte van nummer: 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-312999.html"
+   },
+   {
+    "id": "gmb-2025-244113",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - 's-Gravesandestraat 55 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-05",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres 's-Gravesandestraat 55 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-244113.html"
+   },
+   {
+    "id": "gmb-2025-163341",
+    "titel": "Besluit apv vergunning Verleend - 's-Gravesandestraat ter hoogte van nummer: 55 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-15",
+    "onderwerp": "Filmen,'s-Gravesandestraat 55 1092AA, 20250416, 's-Gravesandestraat ter hoogte van nummer: 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-163341.html"
+   },
+   {
+    "id": "gmb-2024-390462",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2024-09-13",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-390462.html"
+   },
+   {
+    "id": "gmb-2023-544512",
+    "titel": "Besluit evenementenvergunning Verleend's-Gravesandestraat 55 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres 's-Gravesandestraat 55 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-544512.html"
+   },
+   {
+    "id": "gmb-2023-521434",
+    "titel": "Aanvraag evenementenvergunning 's-Gravesandestraat 55 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres 's-Gravesandestraat 55 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-521434.html"
+   },
+   {
+    "id": "gmb-2023-441865",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2023-10-17",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-441865.html"
+   },
+   {
+    "id": "gmb-2023-416167",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2023-09-29",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-416167.html"
+   },
+   {
+    "id": "gmb-2023-299540",
+    "titel": "Besluit apv vergunning Verleend - 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2023-07-10",
+    "onderwerp": "Object - 's-Gravesandestraat 55 - 6-7-2023 t/m 1-9-2023, 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-299540.html"
+   },
+   {
+    "id": "gmb-2022-402391",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2022-09-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-402391.html"
+   },
+   {
+    "id": "gmb-2022-400101",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2022-09-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-400101.html"
+   },
+   {
+    "id": "gmb-2022-238297",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend 's-Gravesandestraat 55",
+    "soort": "andere vergunning",
+    "datum": "2022-05-27",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-238297.html"
+   },
+   {
+    "id": "gmb-2022-147060",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend 's-Gravesandestraat 55",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-147060.html"
+   },
+   {
+    "id": "gmb-2022-137249",
+    "titel": "Besluit evenementenvergunning Verleend 's-Gravesandestraat 55",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-137249.html"
+   },
+   {
+    "id": "gmb-2022-76229",
+    "titel": "Aanvraag evenementenvergunning 's-Gravesandestraat 55",
+    "soort": "evenementenvergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-76229.html"
+   },
+   {
+    "id": "gmb-2021-426030",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend 's-Gravesandestraat 55",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres 's-Gravesandestraat 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-426030.html"
+   },
+   {
+    "id": "gmb-2021-367060",
+    "titel": "Besluit apv vergunning Verleend 's-Gravesandestraat 1",
+    "soort": "andere vergunning",
+    "datum": "2021-10-19",
+    "onderwerp": "fietsrek verwijderenOosterpark 1 3-11-2021 t/m 28-11-2021, 's-Gravesandestraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-367060.html"
+   },
+   {
+    "id": "gmb-2021-365328",
+    "titel": "Besluit apv vergunning Verleend 's-Gravesandestraat 1",
+    "soort": "andere vergunning",
+    "datum": "2021-10-19",
+    "onderwerp": "fietsrek verwijderenOosterpark 1 1-10-2021 t/m 28-11-2021, 's-Gravesandestraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-365328.html"
+   },
+   {
+    "id": "gmb-2021-308469",
+    "titel": "Besluit apv vergunning Verleend 's-Gravesandestraat 1",
+    "soort": "andere vergunning",
+    "datum": "2021-09-09",
+    "onderwerp": "fietsrek verwijderen 's-Gravesandestraat 1/3 1-10-2021 t/m 28-11-2021, 's-Gravesandestraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-308469.html"
+   },
+   {
+    "id": "gmb-2021-306135",
+    "titel": "Besluit apv vergunning Verleend 's-Gravesandestraat 1",
+    "soort": "andere vergunning",
+    "datum": "2021-09-07",
+    "onderwerp": "fietsrek verwijderen 's-Gravesandestraat 1/3 1-10-2021 t/m 28-11-2021, 's-Gravesandestraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-306135.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.U0901BPSTD-OH01",
+   "naam": "Oosterparkbuurt",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-02-27",
+   "opp_m2": 723816,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.U0901BPSTD-VG02",
+   "naam": "Oosterparkbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-04-03",
+   "opp_m2": 723816,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 28,
+  "plannen": 7,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 217,
+ "pand_adressen": [
+  "'s-Gravesandestraat 1",
+  "'s-Gravesandestraat 11",
+  "'s-Gravesandestraat 13",
+  "'s-Gravesandestraat 15",
+  "'s-Gravesandestraat 17",
+  "'s-Gravesandestraat 19",
+  "'s-Gravesandestraat 21",
+  "'s-Gravesandestraat 23",
+  "'s-Gravesandestraat 25",
+  "'s-Gravesandestraat 27",
+  "'s-Gravesandestraat 29",
+  "'s-Gravesandestraat 3"
+ ]
+}

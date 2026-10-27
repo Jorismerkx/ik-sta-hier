@@ -1,0 +1,483 @@
+{
+ "id": "mediahaven",
+ "naam": "Mediahaven",
+ "adres": "Moermanskkade 107, 1013 BC Amsterdam",
+ "termen": [
+  "Moermanskkade 107",
+  "1013BC",
+  "1013 BC",
+  "Mediahaven"
+ ],
+ "pand": "0363100012240348",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 1,
+  "openbaar": 1,
+  "laatste": "2012-01-01",
+  "dossiers": [
+   {
+    "dossier": "XY_01930",
+    "titel": "Moermanskkade 107 - 115",
+    "datum": "2012-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01930"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 36,
+  "gezocht": [
+   "Moermanskkade 107",
+   "Moermanskkade 105",
+   "Moermanskkade 109",
+   "Moermanskkade 111",
+   "Moermanskkade 113",
+   "Moermanskkade 115",
+   "Moermanskkade 241"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-424080",
+    "titel": "Vergunning verleend - Moermanskkade 107, Amsterdam - Tijdelijk strijdig gebruiken gebouw en terrein t.b.v. Amsterdam Dance Event edities 2026, 2027 en 2028",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-09",
+    "onderwerp": "het tijdelijk afwijken van het 'Omgevingsplan gemeente Amsterdam' t.b.v. incidentele evenementen van Loveland ADE",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-424080.html",
+    "zaak": "OD2026-0046009"
+   },
+   {
+    "id": "gmb-2026-347392",
+    "titel": "Aanvraag vergunning ontvangen - Moermanskkade 107, Amsterdam - Meerjaren omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-20",
+    "onderwerp": "het aanvragen van een meerjaren omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit t.b.v. incidentele evenementen van Loveland ADE",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-347392.html",
+    "zaak": "OD2026-0046009"
+   },
+   {
+    "id": "gmb-2021-356448",
+    "titel": "Moermanskkade 107, Amsterdam - tijdelijk afwijkend gebruik evenementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-356448.html",
+    "zaak": "1269390"
+   },
+   {
+    "id": "gmb-2021-276708",
+    "titel": "Moermanskkade 107, Amsterdam, tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-16",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-276708.html",
+    "zaak": "1267031"
+   },
+   {
+    "id": "gmb-2021-229749",
+    "titel": "Moermanskkade 107, Amsterdam - tijdelijk wijzigen bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-229749.html",
+    "zaak": "1266138"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-347392"
+  ],
+  "zaaknummers": [
+   "OD2026-0046009"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-347392",
+    "titel": "Aanvraag vergunning ontvangen - Moermanskkade 107, Amsterdam - Meerjaren omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-20",
+    "onderwerp": "het aanvragen van een meerjaren omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit t.b.v. incidentele evenementen van Loveland ADE",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-347392.html",
+    "zaak": "OD2026-0046009"
+   },
+   {
+    "id": "gmb-2021-356448",
+    "titel": "Moermanskkade 107, Amsterdam - tijdelijk afwijkend gebruik evenementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-356448.html",
+    "zaak": "1269390"
+   },
+   {
+    "id": "gmb-2021-276708",
+    "titel": "Moermanskkade 107, Amsterdam, tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-16",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-276708.html",
+    "zaak": "1267031"
+   },
+   {
+    "id": "gmb-2021-229749",
+    "titel": "Moermanskkade 107, Amsterdam - tijdelijk wijzigen bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-229749.html",
+    "zaak": "1266138"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-428822",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-428822.html"
+   },
+   {
+    "id": "gmb-2026-420402",
+    "titel": "Besluit apv vergunning Verleend - Moermanskkade ter hoogte van nummer: 107 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-08",
+    "onderwerp": "TVM parkeervak,Moermanskkade 107 1013BC, 20261017, Moermanskkade ter hoogte van nummer: 107",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-420402.html"
+   },
+   {
+    "id": "gmb-2026-314308",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-314308.html"
+   },
+   {
+    "id": "gmb-2026-289029",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-18",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-289029.html"
+   },
+   {
+    "id": "gmb-2026-206891",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-206891.html"
+   },
+   {
+    "id": "gmb-2025-436178",
+    "titel": "Besluit apv vergunning Verleend - Moermanskkade ter hoogte van nummer: 105 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-09",
+    "onderwerp": "TVM parkeervak,Moermanskkade 105 1013BC, 20251018, Moermanskkade ter hoogte van nummer: 105",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-436178.html"
+   },
+   {
+    "id": "gmb-2025-416700",
+    "titel": "Besluit evenementenvergunning Verleend - Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-416700.html"
+   },
+   {
+    "id": "gmb-2025-370949",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-26",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-370949.html"
+   },
+   {
+    "id": "gmb-2025-288793",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-288793.html"
+   },
+   {
+    "id": "gmb-2024-445454",
+    "titel": "Besluit evenementenvergunning Verleend - Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-445454.html"
+   },
+   {
+    "id": "gmb-2024-433455",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-433455.html"
+   },
+   {
+    "id": "gmb-2024-384977",
+    "titel": "Besluit apv vergunning Verleend - Moermanskkade 105",
+    "soort": "andere vergunning",
+    "datum": "2024-09-10",
+    "onderwerp": "TVM parkeervak, Moermanskkade 105 1013BC, 20241012, Moermanskkade 105",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-384977.html"
+   },
+   {
+    "id": "gmb-2024-379265",
+    "titel": "Besluit evenementenvergunning Verleend - Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-379265.html"
+   },
+   {
+    "id": "gmb-2024-363778",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-363778.html"
+   },
+   {
+    "id": "gmb-2024-272875",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-272875.html"
+   },
+   {
+    "id": "gmb-2024-174755",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174755.html"
+   },
+   {
+    "id": "gmb-2024-174695",
+    "titel": "Besluit evenementenvergunning VerleendMoermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174695.html"
+   },
+   {
+    "id": "gmb-2024-153695",
+    "titel": "Besluit evenementenvergunning Nog niet bekendMoermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-09",
+    "onderwerp": "Nog niet bekend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-153695.html"
+   },
+   {
+    "id": "gmb-2024-97017",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-04",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-97017.html"
+   },
+   {
+    "id": "gmb-2024-45874",
+    "titel": "Besluit evenementenvergunning VerleendMoermanskkade 107 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-30",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-45874.html"
+   },
+   {
+    "id": "gmb-2023-542192",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-542192.html"
+   },
+   {
+    "id": "gmb-2023-420244",
+    "titel": "Besluit apv vergunning Verleend - Moermanskkade 105",
+    "soort": "andere vergunning",
+    "datum": "2023-10-03",
+    "onderwerp": "Werkzaamheden en vervoer op straat Moermanskkade 105 1013BC, Moermanskkade 105",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-420244.html"
+   },
+   {
+    "id": "gmb-2023-391500",
+    "titel": "Besluit evenementenvergunning VerleendMoermanskkade 107 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-391500.html"
+   },
+   {
+    "id": "gmb-2023-382094",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-382094.html"
+   },
+   {
+    "id": "gmb-2022-455410",
+    "titel": "Besluit apv vergunning Verleend Moermanskkade 105",
+    "soort": "andere vergunning",
+    "datum": "2022-10-13",
+    "onderwerp": "TVM + 9 vakken/Moermanskade 105-241/15-10-2022 t/m 26-10-2022, Moermanskkade 105",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-455410.html"
+   },
+   {
+    "id": "gmb-2022-444940",
+    "titel": "Besluit evenementenvergunning Verleend Moermanskkade 107",
+    "soort": "evenementenvergunning",
+    "datum": "2022-10-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-444940.html"
+   },
+   {
+    "id": "gmb-2022-434014",
+    "titel": "Besluit apv vergunning Verleend Moermanskkade 109",
+    "soort": "andere vergunning",
+    "datum": "2022-09-29",
+    "onderwerp": "Parkeervakken reserveren/4 parkeervakken Moermanskkade, Moermanskkade 109",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-434014.html"
+   },
+   {
+    "id": "gmb-2022-278580",
+    "titel": "Aanvraag evenementenvergunning Moermanskkade 107",
+    "soort": "evenementenvergunning",
+    "datum": "2022-06-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Moermanskkade 107",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-278580.html"
+   },
+   {
+    "id": "gmb-2021-351726",
+    "titel": "Besluit evenementenvergunning Verleend Moermanskkade 107",
+    "soort": "evenementenvergunning",
+    "datum": "2021-10-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Moermanskkade 107",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-351726.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B0802BPGST-OH01",
+   "naam": "Bestemmingsplan Stadhaven Minerva",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-06-20",
+   "opp_m2": 959688,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 4,
+  "plannen": 33,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-347392.pdf",
+   "bron": "bekendmaking gmb-2026-347392: Aanvraag vergunning ontvangen - Moermanskkade 107, Amsterdam - Meerjaren omgevingsvergunning voor een buitenplanse omgevingsplanactiviteit",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-356448.pdf",
+   "bron": "bekendmaking gmb-2021-356448: Moermanskkade 107, Amsterdam - tijdelijk afwijkend gebruik evenementen",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-276708.pdf",
+   "bron": "bekendmaking gmb-2021-276708: Moermanskkade 107, Amsterdam, tijdelijk afwijken bestemmingsplan",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-229749.pdf",
+   "bron": "bekendmaking gmb-2021-229749: Moermanskkade 107, Amsterdam - tijdelijk wijzigen bestemmingsplan",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 39,
+ "pand_adressen": [
+  "Moermanskkade 105",
+  "Moermanskkade 107",
+  "Moermanskkade 109",
+  "Moermanskkade 111",
+  "Moermanskkade 113",
+  "Moermanskkade 115",
+  "Moermanskkade 241"
+ ]
+}

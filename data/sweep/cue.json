@@ -1,0 +1,473 @@
+{
+ "id": "cue",
+ "naam": "CUE",
+ "adres": "Utrechtsestraat 30A, 1017 VN Amsterdam",
+ "termen": [
+  "Utrechtsestraat 30",
+  "Utrechtsestraat 30A",
+  "Utrechtsestraat 30 A",
+  "1017VN",
+  "1017 VN"
+ ],
+ "pand": "0363100012178966",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 18,
+  "openbaar": 18,
+  "laatste": "2006-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_18924",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18924"
+   },
+   {
+    "dossier": "SA_18560",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18560"
+   },
+   {
+    "dossier": "SA_18922",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1996-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18922"
+   },
+   {
+    "dossier": "SA_18885",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1996-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18885"
+   },
+   {
+    "dossier": "SA_18923",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18923"
+   },
+   {
+    "dossier": "SA_18915",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18915"
+   },
+   {
+    "dossier": "SA_18914",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1985-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 65,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18914"
+   },
+   {
+    "dossier": "SA_101813",
+    "titel": "Utrechtsestraat 30",
+    "datum": "1982-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101813"
+   },
+   {
+    "dossier": "SA_18904",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1966-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18904"
+   },
+   {
+    "dossier": "SA_18911",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1959-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18911"
+   },
+   {
+    "dossier": "SA_18901",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1959-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18901"
+   },
+   {
+    "dossier": "SA_18906",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18906"
+   },
+   {
+    "dossier": "SA_77701",
+    "titel": "Utrechtsestraat 30",
+    "datum": "1951-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_77701"
+   },
+   {
+    "dossier": "SA_77698",
+    "titel": "Utrechtsestraat 30",
+    "datum": "1949-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_77698"
+   },
+   {
+    "dossier": "SA_18897",
+    "titel": "Utrechtsestraat 30 A",
+    "datum": "1931-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18897"
+   },
+   {
+    "dossier": "SA_77697",
+    "titel": "Utrechtsestraat 30",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_77697"
+   },
+   {
+    "dossier": "SA_77693",
+    "titel": "Utrechtsestraat 30",
+    "datum": "1894-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_77693"
+   },
+   {
+    "dossier": "SA_77690",
+    "titel": "Utrechtsestraat 30",
+    "datum": "1875-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_77690"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 19,
+  "gezocht": [
+   "Utrechtsestraat 30",
+   "Utrechtsestraat 30A",
+   "Utrechtsestraat 30 A"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-173536",
+    "titel": "Verleende omgevingsvergunning voor het wijzigen en plaatsen van gevelreclame aan de voorgevel op het perceel Utrechtsestraat 30, 3811 LB Amersfoort",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-23",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-173536.html",
+    "zaak": "CLZ-00022653"
+   },
+   {
+    "id": "gmb-2025-128457",
+    "titel": "Ontvangen aanvraag omgevingsvergunning voor het wijzigen en plaatsen van gevelreclame aan de voorgevel op het perceel Utrechtsestraat 30, 3811 LB Amersfoort",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-26",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-128457.html",
+    "zaak": "CLZ-00022653"
+   },
+   {
+    "id": "gmb-2025-110031",
+    "titel": "Kennisgeving intrekken aanvraag - wijzigen en plaatsen van gevelreclame en wijzigen van kozijn aan de voorgevel - Utrechtsestraat 30, 3811 LB Amersfoort",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-14",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-110031.html",
+    "zaak": "CLZ-00019996"
+   },
+   {
+    "id": "gmb-2025-7569",
+    "titel": "Ontvangen aanvraag omgevingsvergunning voor het wijzigen en plaatsen van gevelreclame en wijzigen van kozijn aan de voorgevel op het perceel Utrechtsestraat 30, 3811 LB Amersfoort",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-08",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-7569.html",
+    "zaak": "CLZ-00019996"
+   },
+   {
+    "id": "gmb-2017-81801",
+    "titel": "Amersfoort, Binnenstad, Omgevingsvergunning, Verleende vergunning (reguliere procedure), Utrechtsestraat 30, het vervangen van een winkeltrap, 03-05-2017. Rechtsmiddel: Bezwaar.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-05-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-81801.html",
+    "zaak": "5466826"
+   },
+   {
+    "id": "gmb-2015-97028",
+    "titel": "Amersfoort, Binnenstad, Omgevingsvergunning, Verleende vergunning (reguliere procedure), Utrechtsestraat 30, het plaatsen van een dubbelzijdige uitsteker en een reclame-uiting, 02-10-2015. Rechtsmiddel: Bezwaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-10-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-97028.html",
+    "zaak": "5061030"
+   },
+   {
+    "id": "gmb-2015-84232",
+    "titel": "Amersfoort, Binnenstad, Omgevingsvergunning, Ontvangen aanvragen, Utrechtsestraat 30, het plaatsen van een dubbelzijdige uitsteker en een reclame-uiting, Rechtsmiddel: Geen. Ter informatie.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-84232.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-128457",
+   "gmb-2025-110031",
+   "gmb-2025-7569"
+  ],
+  "zaaknummers": [
+   "CLZ-00019996",
+   "CLZ-00022653"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-234448",
+    "titel": "Besluit apv vergunning Verleend - Utrechtsestraat ter hoogte van nummer: 30 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-05-30",
+    "onderwerp": "Object,Utrechtsestraat 30 H 1017VN, 20250603, Utrechtsestraat ter hoogte van nummer: 30",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-234448.html"
+   },
+   {
+    "id": "gmb-2024-235717",
+    "titel": "Besluit alcoholwetvergunning Verleend - Utrechtsestraat 30A in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-05-31",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-235717.html"
+   },
+   {
+    "id": "gmb-2024-235748",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Utrechtsestraat 30A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-31",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Utrechtsestraat 30A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-235748.html"
+   },
+   {
+    "id": "gmb-2024-149153",
+    "titel": "Aanvraag alcoholwetvergunning Utrechtsestraat 30A",
+    "soort": "andere vergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-149153.html"
+   },
+   {
+    "id": "gmb-2024-149116",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Utrechtsestraat 30A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Utrechtsestraat 30A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-149116.html"
+   },
+   {
+    "id": "gmb-2024-91723",
+    "titel": "Besluit apv vergunning Verleend - Utrechtsestraat 30A",
+    "soort": "andere vergunning",
+    "datum": "2024-02-28",
+    "onderwerp": "Object, Utrechtsestraat 30 A 1017VN, 20240226, Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-91723.html"
+   },
+   {
+    "id": "gmb-2024-84107",
+    "titel": "Besluit apv vergunning Verleend - Utrechtsestraat 30A",
+    "soort": "andere vergunning",
+    "datum": "2024-02-23",
+    "onderwerp": "Object, Utrechtsestraat 30 A 1017VN, 20240226, Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-84107.html"
+   },
+   {
+    "id": "gmb-2022-378998",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Utrechtsestraat 30A",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-378998.html"
+   },
+   {
+    "id": "gmb-2022-379034",
+    "titel": "Besluit alcoholwetvergunning Verleend Utrechtsestraat 30A",
+    "soort": "andere vergunning",
+    "datum": "2022-08-22",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-379034.html"
+   },
+   {
+    "id": "gmb-2022-261598",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Utrechtsestraat 30A",
+    "soort": "exploitatievergunning",
+    "datum": "2022-06-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-261598.html"
+   },
+   {
+    "id": "gmb-2022-261569",
+    "titel": "Aanvraag alcoholwetvergunning Utrechtsestraat 30A",
+    "soort": "andere vergunning",
+    "datum": "2022-06-10",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Utrechtsestraat 30A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-261569.html"
+   },
+   {
+    "id": "gmb-2022-71545",
+    "titel": "Verordening bedrijveninvesteringszone Binnenstad gemeente IJsselstein 2022",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2022-02-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-71545.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 5
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 10,
+ "pand_adressen": [
+  "Utrechtsestraat 30A"
+ ]
+}

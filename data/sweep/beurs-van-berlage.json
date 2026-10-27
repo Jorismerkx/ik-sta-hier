@@ -1,0 +1,1757 @@
+{
+ "id": "beurs-van-berlage",
+ "naam": "Beurs van Berlage",
+ "adres": "Damrak 243, 1012 ZJ Amsterdam",
+ "termen": [
+  "Damrak 243",
+  "1012ZJ",
+  "1012 ZJ",
+  "Beurs van Berlage"
+ ],
+ "pand": "0363100012171966",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "hoog",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 50,
+  "openbaar": 26,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_93310",
+    "titel": "Damrak 277",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93310"
+   },
+   {
+    "dossier": "SA_93309",
+    "titel": "Damrak 213 - 215; Damrak 219 - 241; Damrak 245; Oudebrugsteeg 9 - 13",
+    "datum": "2009-01-01",
+    "soort": "bestemmingsplan, ontheffing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93309"
+   },
+   {
+    "dossier": "SA_92567",
+    "titel": "Beursplein 1; Beursstraat 12; Dam 1",
+    "datum": "2008-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 234,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92567"
+   },
+   {
+    "dossier": "SA_93308",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Beursstraat 6; Damrak 213 - 215; Damrak 219 - 241; Damrak 245 - 247; Damrak 251 - 387; Oudebrugsteeg 9 - 13",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93308"
+   },
+   {
+    "dossier": "SA_92552",
+    "titel": "Beursplein 1; Beursstraat 12; Dam 1",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 116,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92552"
+   },
+   {
+    "dossier": "SA_08961",
+    "titel": "Damrak 213 - 385",
+    "datum": "2006-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08961"
+   },
+   {
+    "dossier": "SA_93306",
+    "titel": "Beursplein 1 - 3; Damrak 213 - 387; Oudebrugsteeg 9 - 13",
+    "datum": "2004-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93306"
+   },
+   {
+    "dossier": "SA_08955",
+    "titel": "Damrak 213 - 387",
+    "datum": "2004-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08955"
+   },
+   {
+    "dossier": "SA_08949",
+    "titel": "Beursplein 1 - 3; Damrak 277",
+    "datum": "2003-01-01",
+    "soort": "bestemmingsplan, ontheffing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08949"
+   },
+   {
+    "dossier": "SA_08941",
+    "titel": "Damrak 277",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08941"
+   },
+   {
+    "dossier": "SA_08945",
+    "titel": "Damrak 277",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08945"
+   },
+   {
+    "dossier": "SA_08943",
+    "titel": "Beursplein 1 - 3; Beursstraat 2 - 6; Damrak 213 - 387; Oudebrugsteeg 9 - 13",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08943"
+   },
+   {
+    "dossier": "SA_93305",
+    "titel": "Damrak 277",
+    "datum": "2003-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93305"
+   },
+   {
+    "dossier": "SA_08924",
+    "titel": "Beursplein 1 - 3; Damrak 277",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08924"
+   },
+   {
+    "dossier": "SA_08928",
+    "titel": "Beursplein 1 - 3; Damrak 277",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08928"
+   },
+   {
+    "dossier": "SA_08906",
+    "titel": "Beursplein 1 - 3",
+    "datum": "2001-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 721,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08906"
+   },
+   {
+    "dossier": "SA_93328",
+    "titel": "Beursplein 1 - 3; Damrak 213 - 387; Oudebrugsteeg 9 - 13",
+    "datum": "1999-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 256,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93328"
+   },
+   {
+    "dossier": "SA_08888",
+    "titel": "Damrak 213 - 385",
+    "datum": "1998-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08888"
+   },
+   {
+    "dossier": "SA_08899",
+    "titel": "Damrak 245; Damrak 251 - 387",
+    "datum": "1997-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08899"
+   },
+   {
+    "dossier": "SA_08886",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 213 - 387; Oudebrugsteeg 9 - 13",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08886"
+   },
+   {
+    "dossier": "SA_08890",
+    "titel": "Damrak 251",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08890"
+   },
+   {
+    "dossier": "SA_08896",
+    "titel": "Damrak 251",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08896"
+   },
+   {
+    "dossier": "SA_08876",
+    "titel": "Damrak 277 - 279",
+    "datum": "1995-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08876"
+   },
+   {
+    "dossier": "SA_08880",
+    "titel": "Damrak 245",
+    "datum": "1994-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08880"
+   },
+   {
+    "dossier": "SA_08869",
+    "titel": "Damrak 245",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08869"
+   },
+   {
+    "dossier": "SA_08962",
+    "titel": "Damrak 213 - 215",
+    "datum": "1994-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08962"
+   },
+   {
+    "dossier": "SA_08873",
+    "titel": "Damrak 277",
+    "datum": "1994-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08873"
+   },
+   {
+    "dossier": "SA_22112",
+    "titel": "Beursplein 1 - 5; Beursstraat 43",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22112"
+   },
+   {
+    "dossier": "SA_08947",
+    "titel": "Damrak 213 - 215",
+    "datum": "1993-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08947"
+   },
+   {
+    "dossier": "SA_08865",
+    "titel": "Beursplein 1; Damrak 247",
+    "datum": "1992-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08865"
+   },
+   {
+    "dossier": "SA_08861",
+    "titel": "Beursplein 1",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08861"
+   },
+   {
+    "dossier": "SA_08749",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 46 A - 48 A; Damrak 50 A - 52 A; Damrak 62 A; Oudebrugsteeg 9 - 13",
+    "datum": "1989-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08749"
+   },
+   {
+    "dossier": "SA_08746",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 46 A - 48 A; Damrak 50 A - 52 A; Damrak 62 A; Oudebrugsteeg 9 - 13",
+    "datum": "1989-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08746"
+   },
+   {
+    "dossier": "SA_08740",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 46 A - 48 A; Damrak 50 A - 52 A; Damrak 62 A; Oudebrugsteeg 9 - 13",
+    "datum": "1989-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 182,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08740"
+   },
+   {
+    "dossier": "SA_08606",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 46 A - 48 A; Damrak 50 A - 52 A; Damrak 62 A; Oudebrugsteeg 9 - 13",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 121,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08606"
+   },
+   {
+    "dossier": "SA_08860",
+    "titel": "Damrak 213 - 215; Damrak 219 - 241; Damrak 245; Damrak 247; Damrak 251 - 387",
+    "datum": "1988-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08860"
+   },
+   {
+    "dossier": "SA_26013",
+    "titel": "Beursstraat 2; Warmoesstraat 88",
+    "datum": "1966-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26013"
+   },
+   {
+    "dossier": "SA_11291",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 46 A - 62 A; Oudebrugsteeg 9 - 13",
+    "datum": "1962-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11291"
+   },
+   {
+    "dossier": "SA_08597",
+    "titel": "Beursplein 1 - 3; Beursstraat 2; Damrak 46 a; Damrak 50 a - 52 a; Damrak 62 a; Damrak 64 a - 64 b; Oudebrugsteeg 9 - 13",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08597"
+   },
+   {
+    "dossier": "SA_02334",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 152,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02334"
+   },
+   {
+    "dossier": "SA_02329",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Visschersdam 1",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02329"
+   },
+   {
+    "dossier": "SA_02330",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Visschersdam 1",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02330"
+   },
+   {
+    "dossier": "SA_02320",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Warmoesstraat 174 - 176",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02320"
+   },
+   {
+    "dossier": "SA_02301",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Vischsteeg 1",
+    "datum": "1914-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02301"
+   },
+   {
+    "dossier": "SA_02302",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Vischsteeg 1",
+    "datum": "1913-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02302"
+   },
+   {
+    "dossier": "SA_02263",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Vischsteeg 1",
+    "datum": "1913-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02263"
+   },
+   {
+    "dossier": "SA_02308",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Vischsteeg 1",
+    "datum": "1912-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02308"
+   },
+   {
+    "dossier": "SA_02277",
+    "titel": "Beursplein 2; Beursstraat 6 - 12; Damrak 90 A; Vischsteeg 1",
+    "datum": "1912-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 472,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02277"
+   },
+   {
+    "dossier": "SA_08579",
+    "titel": "Beursplein 1 - 3",
+    "datum": "1911-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08579"
+   },
+   {
+    "dossier": "SA_08581",
+    "titel": "Beursstraat 2; Damrak 46 a; Damrak 50 a - 52 a; Damrak 62 a; Damrak 64 a - 64 b; Oudebrugsteeg 9 - 13",
+    "datum": "1905-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08581"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 202,
+  "gezocht": [
+   "Damrak 243",
+   "Beursplein 1",
+   "Beursplein 3",
+   "Beursstraat 2",
+   "Beursstraat 6",
+   "Damrak 213",
+   "Damrak 215",
+   "Damrak 219",
+   "Damrak 221",
+   "Damrak 223",
+   "Damrak 225",
+   "Damrak 227",
+   "Damrak 229"
+  ],
+  "vergunningen": [
+   {
+    "id": "bgr-2026-2096",
+    "titel": "Toestemming voor het inzetten van een autohoogwerker voor het vervangen van de banners ter hoogte van de Beurs van Berlage aan Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-15",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-2096.html"
+   },
+   {
+    "id": "bgr-2026-2075",
+    "titel": "Aanvraag vergunning voor het inzetten van een autohoogwerker voor het vervangen van de banners ter hoogte van de Beurs van Berlage Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-2075.html"
+   },
+   {
+    "id": "gmb-2026-412695",
+    "titel": "Kennisgeving beschikking maatwerkvoorschrift vetafscheider voor locatie Beursplein 1 te Vlissingen",
+    "soort": "omgevingsmelding",
+    "datum": "2026-09-02",
+    "onderwerp": "",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-412695.html"
+   },
+   {
+    "id": "gmb-2026-385243",
+    "titel": "Kennisgeving ontvangst aanvraag alcoholvergunning Heinde Hengelo aan de Beursstraat 2 in Hengelo",
+    "soort": "andere beschikking",
+    "datum": "2026-08-13",
+    "onderwerp": "Betreft: Aanvraag op locatie Beursstraat 2 in Hengelo",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-385243.html",
+    "zaak": "Rx.Mission zaak Z2026-00002950"
+   },
+   {
+    "id": "gmb-2026-325905",
+    "titel": "Besluit omgevingsvergunning Beursstraat 2, 8302CW Emmeloord: het wijzigen van de draagconstructie",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-08",
+    "onderwerp": "Beursstraat 2, 8302CW Emmeloord: Omgevingsvergunning 6 juli 2026 het wijzigen van de draagconstructie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-325905.html",
+    "zaak": "Rx.Mission zaak Z2026-00001600"
+   },
+   {
+    "id": "gmb-2026-263651",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-04",
+    "onderwerp": "renoveren en isoleren van de gesloten delen van het dak van het gebouw en het plaatsen van extra dakramen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-263651.html",
+    "zaak": "Z2025-054075"
+   },
+   {
+    "id": "gmb-2026-204663",
+    "titel": "Aanvraag vergunning Beursstraat 2, 8302CW Emmeloord: het wijzigen van de draagconstructie",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-30",
+    "onderwerp": "Beursstraat 2, 8302CW Emmeloord: het wijzigen van de draagconstructie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-204663.html",
+    "zaak": "Rx.Mission zaak Z2026-00001600"
+   },
+   {
+    "id": "gmb-2026-183725",
+    "titel": "Gemeente Bergen op Zoom - Verleend - omgevingsvergunning - het aanpassen van de kleurstellingen van panden  - Steenbergsestraat 7, 9, Beursplein 1, 1a, 2, 4, 4a, 5, 5a Moeregrebstraat 2, 2a, 2b Bergen op Zoom",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-22",
+    "onderwerp": "Gemeente Bergen op Zoom - Verleend - omgevingsvergunning - het aanpassen van de kleurstellingen van panden  - Steenbergsestraat 7, 9, Beursplein 1, 1a, 2, 4, 4a, 5, 5a Moeregrebstraat 2, 2a, 2b Bergen op Zoom",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-183725.html",
+    "zaak": "OW/2026/193"
+   },
+   {
+    "id": "bgr-2026-908",
+    "titel": "Toestemming voor het inzetten van een hoogwerker voor het uitvoeren van visuele inspectie aan de daken ter hoogte van Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-16",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-908.html"
+   },
+   {
+    "id": "bgr-2026-445",
+    "titel": "Toestemming voor het inzetten van een hoogwerker voor een dakgootinspectie ter hoogte van Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-445.html"
+   },
+   {
+    "id": "gmb-2025-572966",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-30",
+    "onderwerp": "renoveren en isoleren van de gesloten delen van het dak van het gebouw en het plaatsen van extra dakramen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-572966.html",
+    "zaak": "Z2025-054075"
+   },
+   {
+    "id": "gmb-2025-544998",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "vervangen van de glaskappen van de Grote Zaal, de Effectenbeurszaal, de Beursfoyer, garderobe en liftportaal van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544998.html",
+    "zaak": "Z2025-037613"
+   },
+   {
+    "id": "gmb-2025-485796",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-10",
+    "onderwerp": "wijzigen van reclame aan de gevel van het gebouw",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-485796.html",
+    "zaak": "Z2025-045138"
+   },
+   {
+    "id": "gmb-2025-464976",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "wijzigen van reclame aan de gevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-464976.html",
+    "zaak": "Z2025-045138"
+   },
+   {
+    "id": "bgr-2025-2402",
+    "titel": "Toestemming voor het inzetten van een autohoogwerker voor het plaatsen van 2 banners ter hoogte van Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-09",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-2402.html"
+   },
+   {
+    "id": "bgr-2025-2343",
+    "titel": "Aanvraag vergunning voor het inzetten van een autohoogwerker voor het plaatsen van 2 banners ter hoogte van Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-02",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-2343.html"
+   },
+   {
+    "id": "gmb-2025-416915",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-26",
+    "onderwerp": "vervangen van de glaskappen van de Grote Zaal, de Effectenbeurszaal, de Beursfoyer, garderobe en liftportaal van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-416915.html",
+    "zaak": "Z2025-037613"
+   },
+   {
+    "id": "bgr-2025-2243",
+    "titel": "Toestemming voor het inzetten van een autohoogwerker voor het plaatsen van doeken met uiting aan de gevel ter hoogte van Damrak 243 (Beurs van Berlage) te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-25",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-2243.html"
+   },
+   {
+    "id": "bgr-2025-2083",
+    "titel": "Toestemming voor het inzetten van een autohoogwerker voor het ophangen van spandoeken ter hoogte van Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-04",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-2083.html"
+   },
+   {
+    "id": "gmb-2025-311059",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-16",
+    "onderwerp": "wijzigen van de fietskelder met bestemming daarvan tot horeca-2 ten behoeve van de Seafoodbar en plaatsen twee airco-units op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-311059.html"
+   },
+   {
+    "id": "gmb-2025-311060",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-16",
+    "onderwerp": "wijzigen van de fietskelder met bestemming daarvan tot horeca-2 ten behoeve van de Seafoodbar en plaatsen twee airco-units op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-311060.html",
+    "zaak": "Z2025-014420"
+   },
+   {
+    "id": "gmb-2025-250101",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-10",
+    "onderwerp": "veranderen van de gevelbeglazing ten behoeve van het verbeteren van de thermische- en geluidsisolatie van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-250101.html",
+    "zaak": "Z2025-016951"
+   },
+   {
+    "id": "gmb-2025-194691",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-02",
+    "onderwerp": "veranderen van de gevelbeglazing ten behoeve van het verbeteren van de thermische- en geluidsisolatie van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-194691.html",
+    "zaak": "Z2025-016951"
+   },
+   {
+    "id": "gmb-2025-173016",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-18",
+    "onderwerp": "wijzigen van de fietskelder met bestemming daarvan tot horeca-2 ten behoeve van de Seafoodbar",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-173016.html",
+    "zaak": "Z2025-014420"
+   },
+   {
+    "id": "bgr-2025-815",
+    "titel": "Toestemming vergunning voor het inzetten van een hoogwerker voor de gevel aan Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-03",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-815.html"
+   },
+   {
+    "id": "bgr-2025-754",
+    "titel": "Aanvraag vergunning voor het inzetten van een autohoogwerker voor het ophangen van banners ter hoogte van Damrak 243 Beurs van Berlage te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-754.html"
+   },
+   {
+    "id": "bgr-2025-742",
+    "titel": "Toestemming voor het inzetten van een autohoogwerker voor het ophangen van banners ter hoogte van Damrak 243 Beurs van Berlage te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-742.html"
+   },
+   {
+    "id": "gmb-2024-525448",
+    "titel": "Besluit omgevingsvergunning Beursstraat 2, 8302CW Emmeloord: het aanbrengen van een handelsreclame aan de gevel van het pand",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-13",
+    "onderwerp": "Beursstraat 2, 8302CW Emmeloord: Omgevingsvergunning 11 december 2024 het aanbrengen van een handelsreclame aan de gevel van het pand",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-525448.html",
+    "zaak": "Rx.Mission zaak Z2024-00001982"
+   },
+   {
+    "id": "gmb-2024-525386",
+    "titel": "Besluit omgevingsvergunning Beursstraat 2, 8302CW Emmeloord: het plaatsen van een handelsreclame  op de begane grond van het pand",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-13",
+    "onderwerp": "Beursstraat 2, 8302CW Emmeloord: Omgevingsvergunning 11 december 2024 het plaatsen van een handelsreclame  op de begane grond van het pand",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-525386.html",
+    "zaak": "Rx.Mission zaak Z2024-00001989"
+   },
+   {
+    "id": "gmb-2024-418720",
+    "titel": "Aanvraag vergunning Beursstraat 2, 8302CW Emmeloord: het aanbrengen van een handelsreclame (gevel)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-03",
+    "onderwerp": "Beursstraat 2, 8302CW Emmeloord: het aanbrengen van een handelsreclame (gevel)",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-418720.html",
+    "zaak": "Rx.Mission zaak Z2024-00001982"
+   },
+   {
+    "id": "gmb-2024-419069",
+    "titel": "Aanvraag vergunning Beursstraat 2, 8302CW Emmeloord: het plaatsen van een handelsreclame (begane grond)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-03",
+    "onderwerp": "Beursstraat 2, 8302CW Emmeloord: het plaatsen van een handelsreclame (begane grond)",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-419069.html",
+    "zaak": "Rx.Mission zaak Z2024-00001989"
+   },
+   {
+    "id": "bgr-2024-1763",
+    "titel": "Toestemming voor het inzetten van een autohoogwerker voor het spannen van doeken aan de gevel van de Beurs van Berlage ter hoogte van Damrak 243 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-26",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1763.html"
+   },
+   {
+    "id": "gmb-2024-303218",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-11",
+    "onderwerp": "plaatsen van een warmtepomp op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-303218.html",
+    "zaak": "Z2024-009444"
+   },
+   {
+    "id": "gmb-2024-289127",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-03",
+    "onderwerp": "renoveren van de Keurzaal en het plaatsen van installaties op het dak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-289127.html",
+    "zaak": "Z2024-008806"
+   },
+   {
+    "id": "gmb-2024-259176",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-14",
+    "onderwerp": "renoveren van de Keurzaal en het plaatsen van installaties op het dak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-259176.html",
+    "zaak": "Z2024-008806"
+   },
+   {
+    "id": "gmb-2024-246837",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-06",
+    "onderwerp": "renoveren van de bestaande toiletgroepen in het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-246837.html",
+    "zaak": "Z2024-008807"
+   },
+   {
+    "id": "gmb-2024-216875",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-17",
+    "onderwerp": "plaatsen van een warmtepomp op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-216875.html"
+   },
+   {
+    "id": "gmb-2024-185916",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-26",
+    "onderwerp": "renoveren van de Keurzaal en het plaatsen van installaties op het dak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-185916.html",
+    "zaak": "Z2024-008806"
+   },
+   {
+    "id": "gmb-2024-185680",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-26",
+    "onderwerp": "renoveren bestaande toiletgroepen in het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-185680.html",
+    "zaak": "Z2024-008807"
+   },
+   {
+    "id": "gmb-2024-105214",
+    "titel": "Verleende omgevingsvergunning, Beursplein 1 en Willemskade 2k en Zaailand 108, 110 en Zuiderstraat 1, 1(tr) Leeuwarden, (11059273) verbouwen van \"de koepel\" naar hotel met kantoren, verzenddatum 23-02-2024.",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-07",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-105214.html"
+   },
+   {
+    "id": "gmb-2024-61232",
+    "titel": "Aanvraag omgevingsvergunning Beursstraat 6, 4515 AN IJzendijke",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-08",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-61232.html",
+    "zaak": "CLZ-00002999"
+   },
+   {
+    "id": "gmb-2023-543649",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-19",
+    "onderwerp": "aanpassen van het Masterplan 2015 met betrekking tot het maken van reclame aan de Beurs van Berlage",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-543649.html",
+    "zaak": "Z2023-C001998"
+   },
+   {
+    "id": "gmb-2023-433329",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-11",
+    "onderwerp": "maken van een vloersparing tussen begane grond en souterrain ten behoeven van een goederenlift",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-433329.html",
+    "zaak": "Z2023-C006278"
+   },
+   {
+    "id": "gmb-2023-394906",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-14",
+    "onderwerp": "maken van een vloersparing tussen begane grond en souterrain",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-394906.html",
+    "zaak": "Z2023-C006278"
+   },
+   {
+    "id": "gmb-2023-358713",
+    "titel": "Aangevraagde vergunning Zaailand 108 en 110, Zuiderstraat 1 tr en Beursplein 1 Leeuwarden, (11059273) verbouwen van \"de koepel\" naar hotel met kantoren.",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-16",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-358713.html"
+   },
+   {
+    "id": "gmb-2023-352409",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-10",
+    "onderwerp": "veranderen van de belettering op de gevels en de zonwering van het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-352409.html",
+    "zaak": "Z2023-C006608"
+   },
+   {
+    "id": "gmb-2023-342866",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-03",
+    "onderwerp": "veranderen van de belettering op de gevels en de zonwering van het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-342866.html",
+    "zaak": "Z2023-C006608"
+   },
+   {
+    "id": "gmb-2023-331480",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-27",
+    "onderwerp": "maken van een vloersparing tussen begane grond en souterrain",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-331480.html",
+    "zaak": "Z2023-C006278"
+   },
+   {
+    "id": "gmb-2023-315560",
+    "titel": "Aanvraag omgevingsvergunning realiseren tafeldak Beursplein 1",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-18",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-315560.html"
+   },
+   {
+    "id": "gmb-2023-291011",
+    "titel": "Beschikking maatwerkvoorschriften milieubeheer",
+    "soort": "omgevingsmelding",
+    "datum": "2023-07-05",
+    "onderwerp": "",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-291011.html"
+   },
+   {
+    "id": "gmb-2023-284436",
+    "titel": "Beschikking maatwerkvoorschriften milieubeheer",
+    "soort": "andere melding",
+    "datum": "2023-07-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-284436.html"
+   },
+   {
+    "id": "gmb-2023-265124",
+    "titel": "Opschorting beslistermijn omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "aanbrengen van twee banieren en het dichtzetten met folie van de ramen boven de entree van Tony's chocoloney",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-265124.html",
+    "zaak": "Z2023-C001998"
+   },
+   {
+    "id": "gmb-2023-202911",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-09",
+    "onderwerp": "aanbrengen van twee banieren en het dichtzetten met folie van de ramen boven de entree van Tony's chocoloney",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-202911.html",
+    "zaak": "Z2023-C001998"
+   },
+   {
+    "id": "gmb-2023-163574",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-14",
+    "onderwerp": "wijzigen van de indeling van de kelder van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-163574.html",
+    "zaak": "Z2023-C000510"
+   },
+   {
+    "id": "gmb-2023-150925",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-06",
+    "onderwerp": "wijzigen van de indeling van de kelder van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-150925.html",
+    "zaak": "Z2023-C000510"
+   },
+   {
+    "id": "gmb-2023-126038",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-23",
+    "onderwerp": "aanbrengen van twee banieren en het dichtzetten met folie van de ramen boven de entree van Tony's chocoloney",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-126038.html",
+    "zaak": "Z2023-C001998"
+   },
+   {
+    "id": "gmb-2023-83580",
+    "titel": "Aanvraag vergunning voor brandveilig gebruiken van het pand aan Beursplein 3 Dronten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-02",
+    "onderwerp": "Aanvraag vergunning voor brandveilig gebruiken van het pand ",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-83580.html",
+    "zaak": "2023-0211"
+   },
+   {
+    "id": "gmb-2022-95383",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Damrak 243 1012ZJ Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2022-03-03",
+    "onderwerp": "het plaatsen van ladders op het dak van het gebouw voor onderhoudsdoeleinden ten behoeve van de kantoor-, industrie en bijeenkomstfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-95383.html",
+    "zaak": "Z2022-C000056"
+   },
+   {
+    "id": "gmb-2022-58164",
+    "titel": "Aanvraag omgevingsvergunning Damrak 243 1012ZJ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-10",
+    "onderwerp": "het plaatsen van ladders op het dak van het gebouw voor onderhoudsdoeleinden ten behoeve van de kantoor-, industrie en bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-58164.html",
+    "zaak": "Z2022-C000056"
+   },
+   {
+    "id": "gmb-2021-30889",
+    "titel": "Maatwerk Beursplein 1",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-30889.html"
+   },
+   {
+    "id": "gmb-2021-19572",
+    "titel": "Melding Activiteitenbesluit Beursplein 1",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-19572.html"
+   },
+   {
+    "id": "gmb-2020-199989",
+    "titel": "Beursstraat 6 te Emmeloord: het handelen in strijd met regels ruimtelijke ordening in verband met het wijzigen van de bestemming van het pand",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-08-04",
+    "onderwerp": "Beursstraat 6 te Emmeloord: omgevingsvergunning  31 juli 2020   het handelen in strijd met regels ruimtelijke ordening in verband met het wijzigen van de bestemming van het pand.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-199989.html"
+   },
+   {
+    "id": "gmb-2020-181727",
+    "titel": "Beursstraat 6 te Emmeloord: het handelen in strijd met regels ruimtelijke ordening in verband met het wijzigen van de bestemming van het pand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-16",
+    "onderwerp": "Beursstraat 6 te Emmeloord: omgevingsvergunning   het handelen in strijd met regels ruimtelijke ordening in verband met het wijzigen van de bestemming van het pand.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-181727.html"
+   },
+   {
+    "id": "gmb-2019-291330",
+    "titel": "Verleende omgevingsvergunning Beursplein 1 Leeuwarden, (11036140) plaatsen van gevelbelettering, verzenddatum 26-11-2019.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-12-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-291330.html"
+   },
+   {
+    "id": "gmb-2019-243028",
+    "titel": "Aangevraagde omgevingsvergunning Beursplein 1 Leeuwarden, (11036140) plaatsen van gevelbelettering.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-10-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243028.html"
+   },
+   {
+    "id": "gmb-2019-218665",
+    "titel": "Plaatsen van zonnepanelen en vervangen van kozijnen Beursstraat 2",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-09-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-218665.html"
+   },
+   {
+    "id": "gmb-2019-119942",
+    "titel": "Schilderen gevels Beursstraat 2 Vlissingen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-05-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-119942.html"
+   },
+   {
+    "id": "gmb-2019-106488",
+    "titel": "Plaatsen zonnepanelen Beursstraat 2 en Smalle Kade 3 Vlissingen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-05-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-106488.html"
+   },
+   {
+    "id": "gmb-2018-203099",
+    "titel": "Verleende ontheffing zwak alcoholhoudende drank (art. 35 Drank- en Horecawet) Beursplein 1, (11027585) Theatervoorstelling Dorp Europa, op 22 en 23 november 2018, verzenddatum 12-09-2018.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-09-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-203099.html"
+   },
+   {
+    "id": "gmb-2018-73652",
+    "titel": "Verleende omgevingsvergunning Beursplein 1, (11022819) tijdelijk plaatsen van letters op de koepel Rabobank (van 3 april t/m 31 december 2018), verzenddatum 03-04-2018.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-04-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-73652.html"
+   },
+   {
+    "id": "gmb-2018-47262",
+    "titel": "Verdaagde aangevraagde vergunning Beursplein 1, (11022819) plaatsen van letters koepel Rabobank, einddatum 11-04-2018.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-03-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-47262.html"
+   },
+   {
+    "id": "gmb-2017-228246",
+    "titel": "Aangevraagde omgevingsvergunning  Beursplein 1, (11022819) verlichten van de koepel en het projecteren van het logo van de Rabobank tijdens LF2018.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-12-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-228246.html"
+   },
+   {
+    "id": "gmb-2017-60319",
+    "titel": "Verleende omgevingsvergunning - Bodegraven, Beursstraat 2",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-04-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-60319.html"
+   },
+   {
+    "id": "gmb-2017-12387",
+    "titel": "Verlenging beslistermijn omgevingsvergunning - Bodegraven, Beursstraat 2",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-01-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-12387.html"
+   },
+   {
+    "id": "gmb-2016-170969",
+    "titel": "Nieuwe aanvraag omgevingsvergunning - Bodegraven, Beursstraat 2",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-12-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-170969.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-325905",
+   "gmb-2026-263651",
+   "gmb-2026-204663",
+   "gmb-2025-572966",
+   "gmb-2025-544998",
+   "gmb-2025-485796",
+   "gmb-2025-464976",
+   "gmb-2025-416915",
+   "gmb-2025-311059",
+   "gmb-2025-311060",
+   "gmb-2025-250101",
+   "gmb-2025-194691",
+   "gmb-2025-173016",
+   "gmb-2024-525448",
+   "gmb-2024-525386",
+   "gmb-2024-303218",
+   "gmb-2024-289127",
+   "gmb-2024-246837",
+   "gmb-2024-216875",
+   "gmb-2024-185916",
+   "gmb-2024-185680",
+   "gmb-2024-61232",
+   "gmb-2023-543649",
+   "gmb-2023-433329",
+   "gmb-2023-352409",
+   "gmb-2023-342866",
+   "gmb-2023-331480",
+   "gmb-2023-315560",
+   "gmb-2023-163574",
+   "gmb-2023-126038",
+   "gmb-2023-83580",
+   "gmb-2022-95383",
+   "gmb-2022-58164",
+   "gmb-2016-170969"
+  ],
+  "zaaknummers": [
+   "2023-0211",
+   "CLZ-00002999",
+   "Rx.Mission zaak Z2024-00001982",
+   "Rx.Mission zaak Z2024-00001989",
+   "Rx.Mission zaak Z2026-00001600",
+   "Z2022-C000056",
+   "Z2023-C000510",
+   "Z2023-C001998",
+   "Z2023-C006278",
+   "Z2023-C006608",
+   "Z2024-008806",
+   "Z2024-008807",
+   "Z2024-009444",
+   "Z2025-014420",
+   "Z2025-016951",
+   "Z2025-037613",
+   "Z2025-045138",
+   "Z2025-054075"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-493091",
+    "titel": "Uitvoeringsbesluit Verordening Fysieke Leefomgeving Dronten Standplaatsen 2026",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-10-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-493091.html"
+   },
+   {
+    "id": "gmb-2026-480785",
+    "titel": "Besluit apv vergunning Verleend - Damrak ter hoogte van nummer: 243 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-15",
+    "onderwerp": "Object,Damrak 243 1012ZJ, 20261106, Damrak ter hoogte van nummer: 243",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-480785.html"
+   },
+   {
+    "id": "gmb-2026-480819",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-15",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 2 1012JV, 20261009, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-480819.html"
+   },
+   {
+    "id": "gmb-2026-446549",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-24",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20261027, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-446549.html"
+   },
+   {
+    "id": "gmb-2026-444771",
+    "titel": "Kennisgeving ontvangst aanvraag alcoholvergunning Heinde aan de Beursstraat 2 in Hengelo",
+    "soort": "andere vergunning",
+    "datum": "2026-09-23",
+    "onderwerp": "Betreft: Aanvraag op locatie Beursstraat 2 in Hengelo",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-444771.html"
+   },
+   {
+    "id": "gmb-2026-437741",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-18",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 2 1012JV, 20260922, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-437741.html"
+   },
+   {
+    "id": "gmb-2026-437763",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-18",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20261013, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-437763.html"
+   },
+   {
+    "id": "gmb-2026-437884",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-18",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20261006, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-437884.html"
+   },
+   {
+    "id": "gmb-2026-421271",
+    "titel": "Verleende standplaatsvergunning Beursplein ter hoogte van nummer 1",
+    "soort": "andere vergunning",
+    "datum": "2026-09-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-421271.html"
+   },
+   {
+    "id": "gmb-2026-421997",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-08",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 2 1012JV, 20260910, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-421997.html"
+   },
+   {
+    "id": "gmb-2026-400696",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-25",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Object,Beursstraat 2 1012JV, 20260829, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-400696.html"
+   },
+   {
+    "id": "gmb-2026-395129",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-21",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20260924, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-395129.html"
+   },
+   {
+    "id": "gmb-2026-374846",
+    "titel": "VERKEERSBESLUIT",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-08-12",
+    "onderwerp": "Aanwijzen van één parkeerplaats uitsluitend bedoeld voor het opladen van elektrische voertuigen op de locatie Beursplein ter hoogte van huisnummer 1 in Leeuwarden.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-374846.html"
+   },
+   {
+    "id": "gmb-2026-378807",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-10",
+    "onderwerp": "Object,Beursstraat 6 1012JV, 20260813, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-378807.html"
+   },
+   {
+    "id": "gmb-2026-355688",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-24",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 2 1012JV, 20260727, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-355688.html"
+   },
+   {
+    "id": "gmb-2026-353335",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-23",
+    "onderwerp": "Object,Beursstraat 2 1012JV, 20260727, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-353335.html"
+   },
+   {
+    "id": "gmb-2026-348076",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20260903, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-348076.html"
+   },
+   {
+    "id": "gmb-2026-347980",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20260910, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-347980.html"
+   },
+   {
+    "id": "gmb-2026-314338",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-02",
+    "onderwerp": "Object,Beursstraat 6 1012JV, 20260629, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-314338.html"
+   },
+   {
+    "id": "gmb-2026-311531",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Beursstraat 6 1012JV, 20260701, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-311531.html"
+   },
+   {
+    "id": "gmb-2026-294550",
+    "titel": "Besluit apv vergunning Verleend - Damrak ter hoogte van nummer: 243 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-22",
+    "onderwerp": "Object,Damrak 243 1012ZJ, 20260701, Damrak ter hoogte van nummer: 243",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-294550.html"
+   },
+   {
+    "id": "gmb-2026-294555",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-22",
+    "onderwerp": "Object,Beursstraat 6 1012JV, 20260629, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-294555.html"
+   },
+   {
+    "id": "gmb-2026-274842",
+    "titel": "Het College van Burgemeester en Wethouders van de Gemeente Rotterdam maakt bekend dat zij de volgende vergunning Inname Openbare Grond heeft verleend (art. 2.10 e.v. Algemene Plaatselijke Verordening (APV) Rotterdam 2012)",
+    "soort": "andere vergunning",
+    "datum": "2026-06-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-274842.html"
+   },
+   {
+    "id": "gmb-2026-246759",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Object,Beursstraat 2 1012JV, 20260713, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-246759.html"
+   },
+   {
+    "id": "gmb-2026-241290",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Damrak 213 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Damrak 213 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241290.html"
+   },
+   {
+    "id": "gmb-2026-238256",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "Fietsen,TVM parkeervak,TVM stremmen,Object,Beursstraat 2 1012JV, 20260625, Beursstraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238256.html"
+   },
+   {
+    "id": "gmb-2026-219663",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat ter hoogte van nummer: 6 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-11",
+    "onderwerp": "Object,Beursstraat 6 1012JV, 20260512, Beursstraat ter hoogte van nummer: 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-219663.html"
+   },
+   {
+    "id": "gmb-2026-202229",
+    "titel": "Besluit apv vergunning Verleend - Damrak ter hoogte van nummer: 243 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Object,Damrak 243 1012ZJ, 20260511, Damrak ter hoogte van nummer: 243",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202229.html"
+   },
+   {
+    "id": "gmb-2026-179294",
+    "titel": "Besluit apv vergunning Verleend - Beursplein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-16",
+    "onderwerp": "Object,Beursplein 1 1012JW, 20260420, Beursplein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-179294.html"
+   },
+   {
+    "id": "gmb-2026-167540",
+    "titel": "Besluit apv vergunning Verleend - Damrak ter hoogte van nummer: 243 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-09",
+    "onderwerp": "Object,Damrak 243 1012ZJ, 20260517, Damrak ter hoogte van nummer: 243",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-167540.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0016.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0027.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0028.png",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0045.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "g systeem van stegen en straatjes. Tussen de noord-zuid gerichte hoofdroutes liggen smalle en bredere bouwstroken. De vroegere Amstel, de centrale as Damrak - Dam - Rokin, is een brede stadsboulevard met een asymmetrisch profiel. Hier liggen het Koninklijk Paleis, de Nieuwe Kerk, de Beurs van Berlage en de Munttoren, gebouwen die tot de meest bekende gebouwen van Amsterdam behoren. Door hun omvang en positie, vrijstaande gebouwen aan de Dam en in de loop van de voormalige Amstel, zijn ze belangrijk als oriÃ«ntatiepunt binnen de stedelijke structuur. <img id=\"o2747\" src=\"i_NL.IMRO.0363.A1105BPSTD-VG03_0016.jpg\" alt=\"afbeelding \"i_NL.IMRO.0363.A1105BPSTD-VG03_0016.jp"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": ". Om de bereikbaarheid over land te verbeteren werden de westelijke burgwallen en delen van de Amstel gedempt. Het heeft geleid tot grote veranderingen in het stadsbeeld en een beperkt aantal veranderingen in de stedenbouwkundige structuur. Aan het Damrak werd een deel van de Amstel gedempt voor de Beurs van Berlage. De stad raakte afgesloten van open water door de bouw van het Centraal Station op de plaats van de haven. De Dam kreeg zijn huidige omvang, onder meer door de sloop van het Commandantshuis tussen de Bijenkorf en het Industria-gebouw (hoek Dam-Rokin) en de Damstraat werd verbreed. Sindsdien hebben de westelijke en oostelijke burgwallen ieder een duidelijk eigen karakter met versc"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "\"i_NL.IMRO.0363.A1105BPSTD-VG03_0027.jpg\" alt=\"afbeelding \"i_NL.IMRO.0363.A1105BPSTD-VG03_0027.jpg\"\" height=\"263\" width=\"350\"> Het Beursplein Het Beursplein is een voorplein van de Beurs van Berlage en de Effectenbeurs. Dankzij de aangrenzende 19 e eeuwse gebouwen heeft het een voornaam karakter, een rustig tegenwicht tegen de drukke voetgangersstromen aan de overzijde van het Damrak. <img id=\"o2750\" src=\"i_NL.IMRO.0363.A1105BPSTD-VG03_0028.png\" alt=\"afbeelding \"i_NL.IMRO.0363.A1105BPSTD-VG03_0028.png\"\" height=\"401"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.1.html",
+     "tekst": "inkelgebied, zoals rond de Bijenkorf en op het Muntplein. Hier wordt de doorgang voor voetgangers belemmerd door de grote concentraties fietsers en scooters en heeft de openbare ruimte een rommelig aanzien. Onder de Kalvertoren, met de ingang aan het Singel, op het Binnengasthuisterrein en onder de Beurs van Berlage (bij de hoek met het Beursplein) liggen de enige openbare fietsenstallingen in het gebied. Op het Beursplein is een bewaakte stalling. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.2.html",
+     "tekst": "treft het C&A-gebouw is begin 2013 een aanvraag omgevingsvergunning ingediend voor de volledige renovatie van het gebouw, met winkelruimte alle op bouwlagen en een voorstel voor verplaatsing van de huidige passage. Naast de bovengenoemde ontwikkelingen zijn er ook plannen voor de Beurs van Berlage en Euronext. De Beurs van Berlage onderzoekt in welke mate het gebouw beter geÃ«xploiteerd kan worden na het vertrek van het Nederlands Philharmonisch Orkest en Euronext heeft plannen om het bestaande cafÃ© als zelfstandige horeca te gaan exploiteren. Binnengasthuisterrein Voor het Binnengasthuisterrein is de huidige regeling opgenomen volgens"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.2.html",
+     "tekst": "2013 een aanvraag omgevingsvergunning ingediend voor de volledige renovatie van het gebouw, met winkelruimte alle op bouwlagen en een voorstel voor verplaatsing van de huidige passage. Naast de bovengenoemde ontwikkelingen zijn er ook plannen voor de Beurs van Berlage en Euronext. De Beurs van Berlage onderzoekt in welke mate het gebouw beter geÃ«xploiteerd kan worden na het vertrek van het Nederlands Philharmonisch Orkest en Euronext heeft plannen om het bestaande cafÃ© als zelfstandige horeca te gaan exploiteren. Binnengasthuisterrein Voor het Binnengasthuisterrein is de huidige regeling opgenomen volgens de bestemmingsplannen Binnengasth"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.1.html",
+     "tekst": "aak gaat om werk in hotels, gaat het in Burgwallen Nieuwe Zijde vaker om werk in restaurants. In Burgwallen Nieuwe Zijde zijn het Koninklijk Paleis, de Nieuwe Kerk, het Amsterdams Museum en Madame Tussaud de belangrijke culturele attracties. De belangrijke publieksfuncties zijn de Oude Kerk, de Beurs van Berlage en theaterstraat de Nes. Verder is heeft de Universiteit van Amsterdam in het gebied diverse panden in gebruik (Oudemanhuispoort, Binnengasthuis, Spinhuis) In de paragrafen 6.2 tot en met 6.12 wordt uitvoeriger ingegaan op de verschillende functies in de beide deelgebieden. Het cijfermateriaal dat in dit bestemmingsplan wordt gebruikt, is voornamelijk ontleend aan het Trendrappo"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.4.html",
+     "tekst": "essionals. De Lucas Borkelschool is een acteursopleiding en ligt in de Koestraat. Culturele instellingen In het gebied zijn diverse theaters, musea en tentoonstellingsruimten, zoals de Oude en Nieuwe Kerk, Museum Amstelkring (Ons' Lieve Heer op Solder), Beurs van Berlage, Amsterdam Museum en het Allard Pierson Museum. Aan de Nes liggen meerdere theaters: de Brakke Grond, Frascati, de Engelenbak, het Cosmic Theater en het Vlaams Cultureel Centrum. Het gebied huisvest relatief veel religieuze en levensbeschouwelijke instellingen, zoals de Sint Nicolaaskerk, de Engelse Hervormde Kerk op het Begijnhof, De Papegaai in de Kalverstraat, de Chinese Tempel aan d"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.7.html",
+     "tekst": "ikkelingsproject (bijv. de Vleeshal en het Fortisgebouw). Beursplein Aan het Beursplein zijn via een buitenplanse afwijkingsbevoegdheid twee nieuwe vestigingen van horeca 3 of 4 mogelijk in de Bijenkorf en de Euronext. Nieuwe horeca is ook mogelijk in de Beurs van Berlage in het kader van een nieuw programma. Rokin en Oude Turfmarkt Aan de oostzijde van het Rokin zijn met een buitenplanse afwijking twee nieuwe horeca 3- of horeca 4-vestigingen mogelijk en ook aan de Oude Turfmarkt zijn twee nieuwe horeca 3- of horeca 4-vestigingen mogelijk. Het vloeroppervlak voor deze nieuwe horeca 3- of horeca 4-vestigingen is maximaa"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Nader antwoord op vragen van de leden Omtzigt, Nijboer, Grinwis, Maatoug, Stoffer, Dassen en Inge van Dijk over de Uber-files en aanverwante zaken",
+   "datum": "2023-02-02",
+   "door": "Onbekend",
+   "url": "https://zoek.officielebekendmakingen.nl/blg-1072492.html",
+   "fragment": "uur Ontvangst en rondleiding StartupGarden 43 pers Locatie Ontvangst Beurs van Berlage begane grond. Hoofdingang Damrak 243. Opening StartupGarden en rondleiding door Venture Forum in de Effectenbeurszaal en Graanbeurszaal. Wat Aankomst ... of European Unicorns such as Adyen Booking.com and organisations like Seedcamp and Y-Combinator. The program will consist of more than 25 separate events throu"
+  },
+  {
+   "titel": "Bijlage 5 - Documenten EZK",
+   "datum": "2023-01-31",
+   "door": "Onbekend",
+   "url": "https://open.overheid.nl/documenten/ronl-a3415b537aad00d07ea4829345ccdd8fae9f825e",
+   "fragment": "uur Ontvangst en rondleiding StartupGarden 43 pers Locatie Ontvangst Beurs van Berlage begane grond. Hoofdingang Damrak 243. Opening StartupGarden en rondleiding door Venture Forum in de Effectenbeurszaal en Graanbeurszaal. Wat Aankomst ... of European Unicorns such as Adyen Booking.com and organisations like Seedcamp and Y-Combinator. The program will consist of more than 25 separate events throu"
+  },
+  {
+   "titel": "25087;35927, nr. Z - Bijlage 5 - Documenten ministerie van EZK waarbij Uber en Kroes zijn genoemd (105 p.)",
+   "datum": "2023-02-03",
+   "door": "Onbekend",
+   "url": "https://zoek.officielebekendmakingen.nl/blg-1072209.html",
+   "fragment": "uur Ontvangst en rondleiding StartupGarden 43 pers Locatie Ontvangst Beurs van Berlage begane grond. Hoofdingang Damrak 243. Opening StartupGarden en rondleiding door Venture Forum in de Effectenbeurszaal en Graanbeurszaal. Wat Aankomst ... of European Unicorns such as Adyen Booking.com and organisations like Seedcamp and Y-Combinator. The program will consist of more than 25 separate events throu"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 16,
+  "plannen": 21,
+  "woo": 4
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0016.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0027.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0028.png",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/i_NL.IMRO.0363.A1105BPSTD-VG03_0045.jpg"
+ ],
+ "duur_s": 43,
+ "pand_adressen": [
+  "Beursplein 1",
+  "Beursplein 3",
+  "Beursstraat 2",
+  "Beursstraat 6",
+  "Damrak 213",
+  "Damrak 215",
+  "Damrak 219",
+  "Damrak 221",
+  "Damrak 223",
+  "Damrak 225",
+  "Damrak 227",
+  "Damrak 229"
+ ]
+}

@@ -1,0 +1,894 @@
+{
+ "id": "fc-hyena",
+ "naam": "FC Hyena",
+ "adres": "Aambeeldstraat 24, 1021 KB Amsterdam",
+ "termen": [
+  "Aambeeldstraat 24",
+  "1021KB",
+  "1021 KB",
+  "FC Hyena"
+ ],
+ "pand": "0363100012136881",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 42,
+  "openbaar": 42,
+  "laatste": "2012-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_01562",
+    "titel": "Aambeeldstraat 10 - 34",
+    "datum": "2012-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01562"
+   },
+   {
+    "dossier": "SN_21455",
+    "titel": "Mokerstraat 4 a1 - 4 a7; Mokerstraat 4 b1 - 4 c14; Mokerstraat 6 a1 - 6 a5; Mokerstraat 6 b1 - 6 c10; Mokerstraat 8",
+    "datum": "2008-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 598,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21455"
+   },
+   {
+    "dossier": "SN_01577",
+    "titel": "Mokerstraat 4 a1 - 4 a7; Mokerstraat 4 b1 - 4 c14; Mokerstraat 6 a1 - 6 a5; Mokerstraat 6 b1 - 6 c10; Mokerstraat 8",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01577"
+   },
+   {
+    "dossier": "SN_22770",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2007-01-01",
+    "soort": "bestemmingsplan, ontheffing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_22770"
+   },
+   {
+    "dossier": "SN_01561",
+    "titel": "Aambeeldstraat 18; Aambeeldstraat 24",
+    "datum": "2007-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01561"
+   },
+   {
+    "dossier": "SN_22739",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 197,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_22739"
+   },
+   {
+    "dossier": "SN_22288",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2007-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_22288"
+   },
+   {
+    "dossier": "SN_21449",
+    "titel": "Mokerstraat 4 a1 - 4 a7; Mokerstraat 4 b1 - 4 c14; Mokerstraat 6 a1 - 6 a5; Mokerstraat 6 b1 - 6 c10; Mokerstraat 8",
+    "datum": "2007-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21449"
+   },
+   {
+    "dossier": "SN_19097",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19097"
+   },
+   {
+    "dossier": "SN_19888",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 78,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19888"
+   },
+   {
+    "dossier": "SN_19263",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_19263"
+   },
+   {
+    "dossier": "SN_00463",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2002-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 329,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00463"
+   },
+   {
+    "dossier": "SN_00445",
+    "titel": "Aambeeldstraat 10",
+    "datum": "2002-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00445"
+   },
+   {
+    "dossier": "SN_00443",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1992-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00443"
+   },
+   {
+    "dossier": "SN_00444",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1992-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00444"
+   },
+   {
+    "dossier": "SN_00442",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1991-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00442"
+   },
+   {
+    "dossier": "SN_01248",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1990-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01248"
+   },
+   {
+    "dossier": "SN_00440",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1989-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00440"
+   },
+   {
+    "dossier": "SN_00441",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1989-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00441"
+   },
+   {
+    "dossier": "SN_00439",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 104,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00439"
+   },
+   {
+    "dossier": "SN_00461",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1984-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00461"
+   },
+   {
+    "dossier": "SN_00460",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1984-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 63,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00460"
+   },
+   {
+    "dossier": "SN_00459",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1983-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00459"
+   },
+   {
+    "dossier": "SN_00434",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1978-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00434"
+   },
+   {
+    "dossier": "SN_00431",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00431"
+   },
+   {
+    "dossier": "SN_00437",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1965-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00437"
+   },
+   {
+    "dossier": "SN_00427",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1960-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 101,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00427"
+   },
+   {
+    "dossier": "SN_00435",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1959-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00435"
+   },
+   {
+    "dossier": "SN_00429",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1959-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00429"
+   },
+   {
+    "dossier": "SN_24125",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1958-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_24125"
+   },
+   {
+    "dossier": "SN_00432",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00432"
+   },
+   {
+    "dossier": "SN_00430",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00430"
+   },
+   {
+    "dossier": "SN_00428",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00428"
+   },
+   {
+    "dossier": "SN_00433",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1954-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 127,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00433"
+   },
+   {
+    "dossier": "SN_00456",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1954-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00456"
+   },
+   {
+    "dossier": "SN_00458",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1951-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00458"
+   },
+   {
+    "dossier": "SN_00457",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00457"
+   },
+   {
+    "dossier": "SN_00455",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00455"
+   },
+   {
+    "dossier": "SN_00436",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00436"
+   },
+   {
+    "dossier": "SN_00454",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1950-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00454"
+   },
+   {
+    "dossier": "SN_00452",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1949-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00452"
+   },
+   {
+    "dossier": "SN_00453",
+    "titel": "Aambeeldstraat 10",
+    "datum": "1948-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 95,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00453"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 48,
+  "gezocht": [
+   "Aambeeldstraat 24",
+   "Aambeeldstraat 10",
+   "Aambeeldstraat 12",
+   "Aambeeldstraat 14",
+   "Aambeeldstraat 16",
+   "Aambeeldstraat 18",
+   "Aambeeldstraat 20",
+   "Aambeeldstraat 22",
+   "Aambeeldstraat 26",
+   "Aambeeldstraat 28",
+   "Aambeeldstraat 30",
+   "Aambeeldstraat 32"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-545144",
+    "titel": "Kennisgeving besluit op aanvraag Omgevingsvergunning Aambeeldstraat 20 te Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-08",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-545144.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2022-431006",
+    "titel": "Kennisgeving ontvangst aanvraag Omgevingsvergunning Aambeeldstraat 20 te Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-27",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-431006.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-272026",
+    "titel": "Verleende omgevingsvergunning voor het bouwen van een bouwwerk aan Aambeeldstraat 18 in Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-272026.html",
+    "zaak": "HZ_WABO-21-5275"
+   },
+   {
+    "id": "gmb-2021-226525",
+    "titel": "Aanvraag vergunning voor het bouwen van een bouwwerk aan Aambeeldstraat 18 te Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-226525.html"
+   },
+   {
+    "id": "gmb-2020-211151",
+    "titel": "Wabo, reguliere procedure, vergunning verleend, Aambeeldstraat 10, Amsterdam, plaatsen van twee trappen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-08-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-211151.html"
+   },
+   {
+    "id": "gmb-2020-189643",
+    "titel": "Wabo, reguliere procedure, beslistermijn verlengd, Aambeeldstraat 10, Amsterdam, plaatsen 2 trappen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-189643.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2022-545144",
+   "gmb-2022-431006",
+   "gmb-2021-226525"
+  ],
+  "zaaknummers": [
+   "Aangemaakt met Squit 20/20 Publiceren"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-409655",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Aambeeldstraat 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-01",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-409655.html"
+   },
+   {
+    "id": "gmb-2026-402926",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Aambeeldstraat 28 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 28 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-402926.html"
+   },
+   {
+    "id": "gmb-2026-350013",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Aambeeldstraat 24 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Aambeeldstraat 24 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350013.html"
+   },
+   {
+    "id": "gmb-2026-339820",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Aambeeldstraat 24 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 24 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-339820.html"
+   },
+   {
+    "id": "gmb-2026-304635",
+    "titel": "Aanvraag evenementenvergunning Aambeeldstraat 24 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-26",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Aambeeldstraat 24 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-304635.html"
+   },
+   {
+    "id": "gmb-2026-164903",
+    "titel": "Besluit alcoholwetvergunning Verleend - Aambeeldstraat 12 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-08",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Aambeeldstraat 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-164903.html"
+   },
+   {
+    "id": "gmb-2026-164861",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 12 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 12 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-164861.html"
+   },
+   {
+    "id": "gmb-2026-130591",
+    "titel": "Aanvraag alcoholwetvergunning Aambeeldstraat 12",
+    "soort": "andere vergunning",
+    "datum": "2026-03-20",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Aambeeldstraat 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-130591.html"
+   },
+   {
+    "id": "gmb-2026-75689",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Aambeeldstraat 12 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 12 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-75689.html"
+   },
+   {
+    "id": "gmb-2026-26716",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 26 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-22",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 26 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-26716.html"
+   },
+   {
+    "id": "gmb-2025-526681",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Aambeeldstraat 26 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 26 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-526681.html"
+   },
+   {
+    "id": "gmb-2025-507893",
+    "titel": "Besluit alcoholwetvergunning Verleend - Aambeeldstraat 12 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-11-24",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Aambeeldstraat 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-507893.html"
+   },
+   {
+    "id": "gmb-2025-507943",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 12 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-24",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 12 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-507943.html"
+   },
+   {
+    "id": "gmb-2025-447303",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 30 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 30 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-447303.html"
+   },
+   {
+    "id": "gmb-2025-403296",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Aambeeldstraat 30 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-18",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 30 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-403296.html"
+   },
+   {
+    "id": "gmb-2025-399293",
+    "titel": "Aanvraag alcoholwetvergunning Aambeeldstraat 12",
+    "soort": "andere vergunning",
+    "datum": "2025-09-16",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Aambeeldstraat 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-399293.html"
+   },
+   {
+    "id": "gmb-2025-392918",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Aambeeldstraat 12 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 12 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-392918.html"
+   },
+   {
+    "id": "gmb-2025-334483",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) - Aambeeldstraat 24 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-29",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Aambeeldstraat 24 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-334483.html"
+   },
+   {
+    "id": "gmb-2025-272441",
+    "titel": "Aanvraag evenementenvergunning Aambeeldstraat 24 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Aambeeldstraat 24 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272441.html"
+   },
+   {
+    "id": "gmb-2025-73578",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 26 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-02-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 26 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-73578.html"
+   },
+   {
+    "id": "gmb-2025-63690",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Aambeeldstraat 26 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-02-17",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 26 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-63690.html"
+   },
+   {
+    "id": "gmb-2024-478488",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Aambeeldstraat 28",
+    "soort": "andere vergunning",
+    "datum": "2024-11-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Aambeeldstraat 28",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-478488.html"
+   },
+   {
+    "id": "gmb-2024-295403",
+    "titel": "Aanvraag evenementenvergunning Aambeeldstraat 24 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Aambeeldstraat 24 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-295403.html"
+   },
+   {
+    "id": "gmb-2024-293238",
+    "titel": "Besluit alcoholwetvergunning Verleend - Aambeeldstraat 28 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-07-05",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Aambeeldstraat 28",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-293238.html"
+   },
+   {
+    "id": "gmb-2024-293235",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 28 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-05",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 28 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-293235.html"
+   },
+   {
+    "id": "gmb-2024-196232",
+    "titel": "Aanvraag alcoholwetvergunning Aambeeldstraat 28",
+    "soort": "andere vergunning",
+    "datum": "2024-05-03",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Aambeeldstraat 28",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-196232.html"
+   },
+   {
+    "id": "gmb-2024-196283",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Aambeeldstraat 28 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-03",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 28 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-196283.html"
+   },
+   {
+    "id": "gmb-2024-179182",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Aambeeldstraat 28 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 28 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-179182.html"
+   },
+   {
+    "id": "gmb-2024-179159",
+    "titel": "Besluit () exploitatievergunning horecabedrijf Ingetrokken - Aambeeldstraat 28 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Aambeeldstraat 28 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-179159.html"
+   },
+   {
+    "id": "gmb-2023-418097",
+    "titel": "Besluit alcoholwetvergunning Verleend - Aambeeldstraat 10 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-10-02",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Aambeeldstraat 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-418097.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 0,
+  "plannen": 34,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 39,
+ "pand_adressen": [
+  "Aambeeldstraat 10",
+  "Aambeeldstraat 12",
+  "Aambeeldstraat 14",
+  "Aambeeldstraat 16",
+  "Aambeeldstraat 18",
+  "Aambeeldstraat 20",
+  "Aambeeldstraat 22",
+  "Aambeeldstraat 24",
+  "Aambeeldstraat 26",
+  "Aambeeldstraat 28",
+  "Aambeeldstraat 30",
+  "Aambeeldstraat 32"
+ ]
+}

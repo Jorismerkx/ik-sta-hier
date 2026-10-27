@@ -1,0 +1,538 @@
+{
+ "id": "vrankrijk",
+ "naam": "Vrankrijk",
+ "adres": "Spuistraat 216, 1012 VT Amsterdam",
+ "termen": [
+  "Spuistraat 216",
+  "1012VT",
+  "1012 VT",
+  "Vrankrijk"
+ ],
+ "pand": "0363100012175760",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 19,
+  "openbaar": 19,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_95432",
+    "titel": "Spuistraat 216",
+    "datum": "2010-01-01",
+    "soort": "kunstwerk",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95432"
+   },
+   {
+    "dossier": "SA_28534",
+    "titel": "Singel 267 A - 267 G; Spuistraat 216; Spuistraat 218 A - 218 N",
+    "datum": "2005-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28534"
+   },
+   {
+    "dossier": "SA_28529",
+    "titel": "Singel 267; Spuistraat 216 - 218",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28529"
+   },
+   {
+    "dossier": "SA_28528",
+    "titel": "Spuistraat 214 hs; Spuistraat 214 1; Spuistraat 214 3 - 214 4",
+    "datum": "1995-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28528"
+   },
+   {
+    "dossier": "SA_28521",
+    "titel": "Singel 267 A - G; Spuistraat 218 A - H; Spuistraat 218 K - N",
+    "datum": "1995-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28521"
+   },
+   {
+    "dossier": "SA_28524",
+    "titel": "Spuistraat 214 1 - 2",
+    "datum": "1995-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28524"
+   },
+   {
+    "dossier": "SA_28516",
+    "titel": "Singel 267 A - E; Spuistraat 218 A - H; Spuistraat 218 K - N",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28516"
+   },
+   {
+    "dossier": "SA_28513",
+    "titel": "Spuistraat 214 - 218",
+    "datum": "1983-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28513"
+   },
+   {
+    "dossier": "SA_95433",
+    "titel": "Spuistraat 214 - 218",
+    "datum": "1982-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95433"
+   },
+   {
+    "dossier": "SA_28512",
+    "titel": "Singel 267",
+    "datum": "1979-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28512"
+   },
+   {
+    "dossier": "SA_28507",
+    "titel": "Spuistraat 214 - 218",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28507"
+   },
+   {
+    "dossier": "SA_28504",
+    "titel": "Spuistraat 214",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28504"
+   },
+   {
+    "dossier": "SA_28501",
+    "titel": "Singel 263; Singel 267; Spuistraat 214 - 220",
+    "datum": "1957-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28501"
+   },
+   {
+    "dossier": "SA_28496",
+    "titel": "Spuistraat 214 - 216",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28496"
+   },
+   {
+    "dossier": "SA_28493",
+    "titel": "Singel 263; Singel 267 - 269; Spuistraat 216 - 220",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28493"
+   },
+   {
+    "dossier": "SA_28491",
+    "titel": "Singel 263; Singel 267; Spuistraat 214 - 218",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28491"
+   },
+   {
+    "dossier": "SA_28487",
+    "titel": "Singel 267; Spuistraat 216 - 218",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28487"
+   },
+   {
+    "dossier": "SA_28482",
+    "titel": "Spuistraat 214",
+    "datum": "1920-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28482"
+   },
+   {
+    "dossier": "SA_28474",
+    "titel": "Singel 267",
+    "datum": "1917-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_28474"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Spuistraat 216",
+   "Singel 267A",
+   "Singel 267B",
+   "Singel 267C",
+   "Singel 267D",
+   "Singel 267E",
+   "Singel 267F",
+   "Singel 267G",
+   "Spuistraat 214",
+   "Spuistraat 218A",
+   "Spuistraat 218B",
+   "Spuistraat 218C"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-169760",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Spuistraat 214-H 1012VT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-17",
+    "onderwerp": "veranderen van de pui in de voorgevel ter plaatse van de begane grond",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-169760.html",
+    "zaak": "Z2023-C011011"
+   },
+   {
+    "id": "gmb-2024-120023",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Spuistraat 214-H 1012VT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-18",
+    "onderwerp": "veranderen van de pui in de voorgevel ter plaatse van de begane grond",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-120023.html",
+    "zaak": "Z2023-C011011"
+   },
+   {
+    "id": "gmb-2024-17047",
+    "titel": "Aanvraag omgevingsvergunning Spuistraat 214-H 1012VT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-09",
+    "onderwerp": "veranderen van de pui in de voorgevel ter plaatse van de begane grond",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-17047.html"
+   },
+   {
+    "id": "gmb-2023-397430",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Spuistraat 214-2 1012VT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-15",
+    "onderwerp": "realiseren van een dakterras aan de achtergevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-397430.html",
+    "zaak": "Z2023-C004987"
+   },
+   {
+    "id": "gmb-2023-307307",
+    "titel": "Aanvraag omgevingsvergunning Spuistraat 214-2 1012VT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-13",
+    "onderwerp": "realiseren van twee dakterrassen aan de achtergevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-307307.html",
+    "zaak": "Z2023-C004987"
+   },
+   {
+    "id": "gmb-2020-320049",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Spuistraat 214-H 1012VT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-04",
+    "onderwerp": "wijzigen van de voorgevel en de indeling van het gebouw ten behoeve van de woningen en bedrijfsruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-320049.html"
+   },
+   {
+    "id": "gmb-2020-289178",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Spuistraat 214-H 1012VT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-06",
+    "onderwerp": "wijzigen van de voorgevel en de indeling van het gebouw ten behoeve van de woningen en bedrijfsruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-289178.html"
+   },
+   {
+    "id": "gmb-2020-207276",
+    "titel": "Aanvraag omgevingsvergunning Spuistraat 214-H 1012VT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-12",
+    "onderwerp": "wijzingen van de voorgevel en de indeling van het gebouw ten behoeve van de woningen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-207276.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-169760",
+   "gmb-2024-17047",
+   "gmb-2023-397430",
+   "gmb-2023-307307",
+   "gmb-2020-320049",
+   "gmb-2020-207276"
+  ],
+  "zaaknummers": [
+   "Z2023-C004987",
+   "Z2023-C011011"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-184669",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Spuistraat 216 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Spuistraat 216 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-184669.html"
+   },
+   {
+    "id": "gmb-2026-170517",
+    "titel": "Amsterdam Centrum, verkeersbesluit Spuistraat 214-218 aanleg gehandicaptenparkeerplaats kenteken 76-XK-SN",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-04-17",
+    "onderwerp": "Spuistraat 214-218 aanleg gehandicaptenparkeerplaats kenteken 76-XK-SN",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-170517.html"
+   },
+   {
+    "id": "gmb-2026-136018",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Spuistraat 216 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-03-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Spuistraat 216 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-136018.html"
+   },
+   {
+    "id": "gmb-2025-493986",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 214 in",
+    "soort": "andere vergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "Object,Spuistraat 214 2 1012VT, 20251120, Spuistraat ter hoogte van nummer: 214",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-493986.html"
+   },
+   {
+    "id": "gmb-2025-427661",
+    "titel": "Aanvraag voor splitsingsvergunning Spuistraat 214-1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-03",
+    "onderwerp": "Aanvraag voor het mogen splitsen van het gebouw in appartementsrechten op adres Spuistraat 214-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-427661.html"
+   },
+   {
+    "id": "gmb-2025-427730",
+    "titel": "Besluit voor splitsingsvergunning Verleend - Spuistraat 214-1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-03",
+    "onderwerp": "Het splitsen van het gebouw in 4 appartementsrechten op adres Spuistraat 214-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-427730.html"
+   },
+   {
+    "id": "gmb-2023-483800",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat 214-4",
+    "soort": "andere vergunning",
+    "datum": "2023-11-14",
+    "onderwerp": "Werkzaamheden en vervoer op straat (interne aanvraag) Spuistraat 214 4 1012VT, Spuistraat 214-4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-483800.html"
+   },
+   {
+    "id": "gmb-2022-485857",
+    "titel": "Besluit apv vergunning Verleend Spuistraat 214-1",
+    "soort": "andere vergunning",
+    "datum": "2022-11-01",
+    "onderwerp": "TVM OBJ - Spuistraat 214 - 7-11-2022 t/m 29-11-2022, Spuistraat 214-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-485857.html"
+   },
+   {
+    "id": "gmb-2022-142323",
+    "titel": "Besluit apv vergunning Verleend Spuistraat 216",
+    "soort": "andere vergunning",
+    "datum": "2022-03-31",
+    "onderwerp": "tvm 3 parkeervakken, Spuistraat 216 tot 212, 4-4-2022 t/m 8-4-2022, Spuistraat 216",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-142323.html"
+   },
+   {
+    "id": "gmb-2022-124426",
+    "titel": "Besluit apv vergunning Verleend Singel 267A",
+    "soort": "andere vergunning",
+    "datum": "2022-03-22",
+    "onderwerp": "OBV Singel 267 van 4-4 tot 29-4-2022, Singel 267A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-124426.html"
+   },
+   {
+    "id": "gmb-2022-19472",
+    "titel": "Besluit apv vergunning Verleend Spuistraat 216",
+    "soort": "andere vergunning",
+    "datum": "2022-01-18",
+    "onderwerp": "Objecten Spuistraat 216 29/01-01/02, Spuistraat 216",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-19472.html"
+   },
+   {
+    "id": "gmb-2021-468972",
+    "titel": "Besluit apv vergunning Verleend Singel 267A",
+    "soort": "andere vergunning",
+    "datum": "2021-12-23",
+    "onderwerp": "TVM stremmen, Singel 267, 31-01-2022, Singel 267A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-468972.html"
+   },
+   {
+    "id": "gmb-2021-222347",
+    "titel": "Besluit apv vergunning Verleend Spuistraat 214-1",
+    "soort": "andere vergunning",
+    "datum": "2021-07-12",
+    "onderwerp": "tvm 17 parkeervakken, Spuistraat 214 tot 266 (beide zijden), 12-7-2021, Spuistraat 214-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-222347.html"
+   },
+   {
+    "id": "ah-tk-20082009-450",
+    "titel": "Vragen van het lid Brinkman (PVV) aan de minister van Binnenlandse Zaken en Koninkrijksrelaties over de verkoop van alcoholische drank zonder vergunning in een krakerspand. (Ingezonden 25 september 2008)",
+    "soort": "Kamervragen (Aanhangsel)",
+    "datum": "2008-11-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20082009-450.html"
+   },
+   {
+    "id": "ah-tk-20062007-1461",
+    "titel": "Vragen van het lid Brinkman (PVV) aan de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie over een bijeenkomst in het krakerspand Vrankrijk. (Ingezonden 9 maart 2007)",
+    "soort": "Kamervragen (Aanhangsel)",
+    "datum": "2007-05-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20062007-1461.html"
+   },
+   {
+    "id": "kv-2060709130",
+    "titel": "Vragen van het lid Brinkman (PVV) aan de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie over een bijeenkomst in het krakerspand Vrankrijk. (Ingezonden 9 maart 2007)",
+    "soort": "Kamervragen zonder antwoord",
+    "datum": "2007-03-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/kv-2060709130.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Singel 267A",
+  "Singel 267B",
+  "Singel 267C",
+  "Singel 267D",
+  "Singel 267E",
+  "Singel 267F",
+  "Singel 267G",
+  "Spuistraat 214",
+  "Spuistraat 216",
+  "Spuistraat 218A",
+  "Spuistraat 218B",
+  "Spuistraat 218C"
+ ]
+}

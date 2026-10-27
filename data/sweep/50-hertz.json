@@ -1,0 +1,301 @@
+{
+ "id": "50-hertz",
+ "naam": "50:HERTZ House & Techno Cafe",
+ "adres": "Halvemaansteeg 14, 1017 CR Amsterdam",
+ "termen": [
+  "Halvemaansteeg 14",
+  "1017CR",
+  "1017 CR",
+  "50:HERTZ House & Techno Cafe"
+ ],
+ "pand": "0363100012179878",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 5,
+  "openbaar": 5,
+  "laatste": "1968-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_61278",
+    "titel": "Halvemaansteeg 14",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61278"
+   },
+   {
+    "dossier": "SA_61279",
+    "titel": "Halvemaansteeg 14",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61279"
+   },
+   {
+    "dossier": "SA_61272",
+    "titel": "Halvemaansteeg 14",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61272"
+   },
+   {
+    "dossier": "SA_61271",
+    "titel": "Halvemaansteeg 14",
+    "datum": "1935-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61271"
+   },
+   {
+    "dossier": "SA_61268",
+    "titel": "Halvemaansteeg 14; Reguliersbreestraat 49",
+    "datum": "1915-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61268"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 17,
+  "gezocht": [
+   "Halvemaansteeg 14"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-330346",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Halvemaansteeg 14-H",
+    "soort": "andere vergunning",
+    "datum": "2025-07-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Halvemaansteeg 14-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-330346.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-381293",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Halvemaansteeg 14-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Halvemaansteeg 14-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381293.html"
+   },
+   {
+    "id": "gmb-2024-313590",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Halvemaansteeg 14-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-18",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Halvemaansteeg 14-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-313590.html"
+   },
+   {
+    "id": "gmb-2024-289951",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend - Halvemaansteeg 14-H",
+    "soort": "andere vergunning",
+    "datum": "2024-07-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf Café Entre Nous / Bar Lunar - locatie: Halvemaansteeg 14-H ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-289951.html"
+   },
+   {
+    "id": "gmb-2023-517825",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2023-12-05",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Halvemaansteeg 14-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-517825.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-211316",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Café entre Nous bv",
+    "soort": "andere vergunning",
+    "datum": "2023-05-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf Café entre Nous bv, Halvemaansteeg 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-211316.html"
+   },
+   {
+    "id": "gmb-2022-581247",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf Café Entre Nous / Bar Lunar - 30-12-2022, Locatie: Halvemaansteeg 14-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-581247.html"
+   },
+   {
+    "id": "gmb-2022-531274",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2022-11-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf Café Entre Nous / Bar Lunar - 27/11/2022 t/m 31/12/2022, Locatie: Halvemaansteeg 14-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-531274.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-129531",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres  Halvemaansteeg 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-129531.html"
+   },
+   {
+    "id": "gmb-2021-310316",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Halvemaansteeg 14-H",
+    "soort": "exploitatievergunning",
+    "datum": "2021-09-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Halvemaansteeg 14-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-310316.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 64,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 187,
+ "pand_adressen": [
+  "Halvemaansteeg 14"
+ ]
+}

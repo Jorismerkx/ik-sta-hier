@@ -1,0 +1,254 @@
+{
+ "id": "bijlmer-parktheater",
+ "naam": "Bijlmer Parktheater",
+ "adres": "Anton de Komplein 240, 1102 DR Amsterdam",
+ "termen": [
+  "Anton de Komplein 240",
+  "1102DR",
+  "1102 DR",
+  "Bijlmer Parktheater"
+ ],
+ "pand": null,
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 21,
+  "gezocht": [
+   "Anton de Komplein 240"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-164090",
+    "titel": "Aanvraag omgevingsvergunning Anton de Komplein 240 1102DR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-12",
+    "onderwerp": "het plaatsen van lichtreclame op het dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-164090.html",
+    "zaak": "Z2022-ZO000627"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2022-164090"
+  ],
+  "zaaknummers": [
+   "Z2022-ZO000627"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-372974",
+    "titel": "Melding toepassen grond en baggerspecie - Nabij Anton de Komplein 240 Amsterdam , 111 meter richting noordwesten",
+    "soort": "omgevingsmelding",
+    "datum": "2026-08-05",
+    "onderwerp": "ROK Cult. Groen Deelopdracht 5 Amsterdam - Nelson Mandelapark",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-372974.html"
+   },
+   {
+    "id": "gmb-2026-278362",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-278362.html"
+   },
+   {
+    "id": "gmb-2026-171607",
+    "titel": "Melding toepassen grond en baggerspecie - Nabij Anton de Komplein 240 Amsterdam , 111 meter richting noordwesten",
+    "soort": "omgevingsmelding",
+    "datum": "2026-04-13",
+    "onderwerp": "ROK Cult. Groen Deelopdracht 5 Amsterdam - Nelson Mandelapark ",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-171607.html"
+   },
+   {
+    "id": "gmb-2026-160789",
+    "titel": "Besluit apv vergunning Verleend - Anton de Komplein ter hoogte van nummer: 240 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Object,Anton de Komplein 240 1102DR, 20260320, Anton de Komplein ter hoogte van nummer: 240",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-160789.html"
+   },
+   {
+    "id": "gmb-2026-146895",
+    "titel": "Aanvraag evenementenvergunning Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-146895.html"
+   },
+   {
+    "id": "gmb-2025-412543",
+    "titel": "Melding toepassen grond en baggerspecie - Anton de Komplein 240, Amsterdam",
+    "soort": "omgevingsmelding",
+    "datum": "2025-09-24",
+    "onderwerp": "ROK Cult. Groen Perceel 1 Amsterdam - loc Nelson Mandelapark",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-412543.html"
+   },
+   {
+    "id": "gmb-2025-269922",
+    "titel": "Besluit evenementenvergunning Verleend - Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-269922.html"
+   },
+   {
+    "id": "gmb-2025-262466",
+    "titel": "Besluit evenementenvergunning Verleend - Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-262466.html"
+   },
+   {
+    "id": "gmb-2025-215570",
+    "titel": "Aanvraag evenementenvergunning Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-215570.html"
+   },
+   {
+    "id": "gmb-2025-210871",
+    "titel": "Besluit evenementenvergunning Verleend - Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-210871.html"
+   },
+   {
+    "id": "gmb-2025-195158",
+    "titel": "Aanvraag evenementenvergunning Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-06",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-195158.html"
+   },
+   {
+    "id": "gmb-2025-139107",
+    "titel": "Aanvraag evenementenvergunning Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139107.html"
+   },
+   {
+    "id": "gmb-2025-128216",
+    "titel": "Aanvraag evenementenvergunning Anton de Komplein 240 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-128216.html"
+   },
+   {
+    "id": "gmb-2025-114093",
+    "titel": "Besluit alcoholwetvergunning Verleend - Anton de Komplein 240 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-18",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Anton de Komplein 240",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-114093.html"
+   },
+   {
+    "id": "gmb-2025-103395",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf  - Anton de Komplein 240 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-03-11",
+    "onderwerp": ": exploitatievergunning horecabedrijf op adres Anton de Komplein 240 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-103395.html"
+   },
+   {
+    "id": "gmb-2024-486494",
+    "titel": "Aanvraag alcoholwetvergunning Anton de Komplein 240",
+    "soort": "andere vergunning",
+    "datum": "2024-11-19",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Anton de Komplein 240",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-486494.html"
+   },
+   {
+    "id": "gmb-2022-72609",
+    "titel": "Aanvraag evenementenvergunning",
+    "soort": "evenementenvergunning",
+    "datum": "2022-02-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Anton de Komplein 240",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-72609.html"
+   },
+   {
+    "id": "gmb-2021-447878",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Anton de Komplein 240",
+    "soort": "exploitatievergunning",
+    "datum": "2021-12-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Anton de Komplein 240",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-447878.html"
+   },
+   {
+    "id": "gmb-2021-408449",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Anton de Komplein 240",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Anton de Komplein 240",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-408449.html"
+   },
+   {
+    "id": "gmb-2014-29707",
+    "titel": "Verlenging plaatsingsduur cameratoezicht Amsterdamse Poort(3B, 2014, 77)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2014-05-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-29707.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.T0902BPSTD-OH01",
+   "naam": "Bestemmingsplan De Amsterdamse Poort",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2011-12-20",
+   "opp_m2": 268515,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 33,
+  "plannen": 53,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 120,
+ "pand_adressen": []
+}

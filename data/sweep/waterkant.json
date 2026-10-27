@@ -1,0 +1,424 @@
+{
+ "id": "waterkant",
+ "naam": "Waterkant",
+ "adres": "Marnixstraat 246, 1016 TL Amsterdam",
+ "termen": [
+  "Marnixstraat 246",
+  "1016TL",
+  "1016 TL",
+  "Waterkant"
+ ],
+ "pand": "0363100012243632",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 46,
+  "gezocht": [
+   "Marnixstraat 246"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-571654",
+    "titel": "Besluit omgevingsvergunning reguliere procedure geweigerd Marnixstraat 246 1016TL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-29",
+    "onderwerp": "seizoensgebonden sauna ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-571654.html",
+    "zaak": "Z2025-046574"
+   },
+   {
+    "id": "gmb-2025-505460",
+    "titel": "Aanvraag omgevingsvergunning Marnixstraat 246 1016TL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-20",
+    "onderwerp": "seizoensgebonden Sauna op terras Waterkant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-505460.html",
+    "zaak": "Z2025-046574"
+   },
+   {
+    "id": "gmb-2025-295333",
+    "titel": "Besluit omgevingsvergunning reguliere procedure  Marnixstraat 246 1016TL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-07",
+    "onderwerp": "tijdelijke omgevingsvergunning voor het cafe/restaurant en het uitbreiden van bebouwing en terras ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-295333.html",
+    "zaak": "Z2023-C011782"
+   },
+   {
+    "id": "gmb-2024-80921",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Marnixstraat 246 1016TL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-21",
+    "onderwerp": "Verlenging tijdelijke omgevingsvergunning Waterkant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-80921.html",
+    "zaak": "Z2023-C011782"
+   },
+   {
+    "id": "gmb-2024-51498",
+    "titel": "Aanvraag omgevingsvergunning Marnixstraat 246 1016TL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-01",
+    "onderwerp": "Verlenging tijdelijke omgevingsvergunning Waterkant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-51498.html",
+    "zaak": "Z2023-C011782"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-571654",
+   "gmb-2025-505460",
+   "gmb-2025-295333",
+   "gmb-2024-51498"
+  ],
+  "zaaknummers": [
+   "Z2023-C011782",
+   "Z2025-046574"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-311550",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-311550.html"
+   },
+   {
+    "id": "gmb-2026-289259",
+    "titel": "Besluit evenementenvergunning Verleend aan Stichting Pride Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-18",
+    "onderwerp": "Verleend: evenementenvergunning World Pride Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-289259.html"
+   },
+   {
+    "id": "gmb-2026-227383",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-227383.html"
+   },
+   {
+    "id": "gmb-2026-172233",
+    "titel": "Aanvraag evenementenvergunning WorldPride 2026 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning voor WorldPride 2026 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-172233.html"
+   },
+   {
+    "id": "gmb-2026-12162",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-12162.html"
+   },
+   {
+    "id": "gmb-2025-531572",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Marnixstraat 246 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-531572.html"
+   },
+   {
+    "id": "gmb-2025-463872",
+    "titel": "Melding graven bodem - Marnixstraat 246 e.o (OW)",
+    "soort": "omgevingsmelding",
+    "datum": "2025-10-27",
+    "onderwerp": "251039878 Marnixstraat 246 e.o  (o.w.) Amsterdam ",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-463872.html"
+   },
+   {
+    "id": "gmb-2025-306875",
+    "titel": "Rectificatie: Besluit evenementenvergunning - Amsterdam Pride",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-14",
+    "onderwerp": ": evenementenvergunning Amsterdam Pride",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-306875.html"
+   },
+   {
+    "id": "gmb-2025-272628",
+    "titel": "Besluit evenementenvergunning - Amsterdam Pride",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "evenementenvergunning Pride Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272628.html"
+   },
+   {
+    "id": "gmb-2025-144910",
+    "titel": "Aanvraag evenementenvergunning Amsterdam Pride",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-03",
+    "onderwerp": "Aanvraag voor evenementenvergunning Amsterdam Pride",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-144910.html"
+   },
+   {
+    "id": "gmb-2025-126293",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-126293.html"
+   },
+   {
+    "id": "gmb-2025-126333",
+    "titel": "Besluit evenementenvergunning Verleend - Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-126333.html"
+   },
+   {
+    "id": "gmb-2025-101638",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-101638.html"
+   },
+   {
+    "id": "gmb-2024-381283",
+    "titel": "Besluit evenementenvergunning Verleend - Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381283.html"
+   },
+   {
+    "id": "gmb-2024-349399",
+    "titel": "Besluit evenementenvergunning Verleend - Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-349399.html"
+   },
+   {
+    "id": "gmb-2024-276665",
+    "titel": "Besluit evenementenvergunning Verleend Pride Amsterdam 2024",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Verleend: evenementenvergunning Pride Amsterdam 2024",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276665.html"
+   },
+   {
+    "id": "gmb-2024-276670",
+    "titel": "Besluit verleend: Evenementenvergunning Queer Amsterdam 2024",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Verleend: evenementenvergunning Queer Amsterdam 2024",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-276670.html"
+   },
+   {
+    "id": "gmb-2024-198414",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-06",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-198414.html"
+   },
+   {
+    "id": "gmb-2024-198469",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Marnixstraat 246 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-198469.html"
+   },
+   {
+    "id": "gmb-2024-195387",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-195387.html"
+   },
+   {
+    "id": "gmb-2024-159448",
+    "titel": "Aanvraag evenementenvergunning Queer Amsterdam 2024 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag evenementenvergunning Queer Amsterdam 2024",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-159448.html"
+   },
+   {
+    "id": "gmb-2024-159648",
+    "titel": "Aanvraag evenementenvergunning Dam 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag evenementenvergunning Pride Amsterdam 2024",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-159648.html"
+   },
+   {
+    "id": "gmb-2024-132571",
+    "titel": "Besluit evenementenvergunning VerleendMarnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-132571.html"
+   },
+   {
+    "id": "gmb-2023-556898",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-556898.html"
+   },
+   {
+    "id": "gmb-2023-266777",
+    "titel": "Besluit evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "Evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-266777.html"
+   },
+   {
+    "id": "gmb-2023-168377",
+    "titel": "Aanvraag evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-04-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning voor Queer en Pride Amsterdam 2023 op diverse locaties in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-168377.html"
+   },
+   {
+    "id": "gmb-2023-155615",
+    "titel": "Besluit evenementenvergunning VerleendMarnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-04-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-155615.html"
+   },
+   {
+    "id": "gmb-2023-65129",
+    "titel": "Besluit exploitatievergunning horecabedrijf Geweigerd - Marnixstraat 246 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "Geweigerd: exploitatievergunning horecabedrijf op adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-65129.html"
+   },
+   {
+    "id": "gmb-2023-17642",
+    "titel": "Aanvraag evenementenvergunning Marnixstraat 246 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Marnixstraat 246 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-17642.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1102BPSTD-VG01",
+   "naam": "Westelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-02-07",
+   "opp_m2": 1281977,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 10,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 11,
+ "pand_adressen": [
+  "Marnixstraat 246"
+ ]
+}

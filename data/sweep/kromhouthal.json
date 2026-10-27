@@ -1,0 +1,437 @@
+{
+ "id": "kromhouthal",
+ "naam": "Kromhouthal",
+ "adres": "Gedempt Hamerkanaal 231, 1021 KP Amsterdam",
+ "termen": [
+  "Gedempt Hamerkanaal 231",
+  "1021KP",
+  "1021 KP",
+  "Kromhouthal",
+  "Kromhouthal 231"
+ ],
+ "pand": "0363100012243116",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 4,
+  "openbaar": 4,
+  "laatste": "2013-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_21667",
+    "titel": "Gedempt Hamerkanaal 189; Gedempt Hamerkanaal 209; Gedempt Hamerkanaal 223 - 267",
+    "datum": "2013-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 388,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21667"
+   },
+   {
+    "dossier": "SN_01569",
+    "titel": "Gedempt Hamerkanaal 189; Gedempt Hamerkanaal 209; Gedempt Hamerkanaal 223 - 267",
+    "datum": "2013-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01569"
+   },
+   {
+    "dossier": "SN_20848",
+    "titel": "Gedempt Hamerkanaal 199; Gedempt Hamerkanaal 203 - 207",
+    "datum": "2013-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 159,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_20848"
+   },
+   {
+    "dossier": "SN_01570",
+    "titel": "Gedempt Hamerkanaal 199; Gedempt Hamerkanaal 203 - 207",
+    "datum": "2012-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01570"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 50,
+  "gezocht": [
+   "Gedempt Hamerkanaal 231",
+   "Gedempt Hamerkanaal 189",
+   "Gedempt Hamerkanaal 201",
+   "Gedempt Hamerkanaal 203",
+   "Gedempt Hamerkanaal 205",
+   "Gedempt Hamerkanaal 207",
+   "Gedempt Hamerkanaal 209",
+   "Gedempt Hamerkanaal 223",
+   "Gedempt Hamerkanaal 225",
+   "Gedempt Hamerkanaal 227",
+   "Gedempt Hamerkanaal 233",
+   "Gedempt Hamerkanaal 235"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-473554",
+    "titel": "Aanvraag omgevingsvergunning Gedempt Hamerkanaal 223 1021KP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-09",
+    "onderwerp": "tijdelijke tunnel tussen het tijdelijke parkeerterrein en bestaande supermarkt",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473554.html",
+    "zaak": "Z2026-037809"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-473554"
+  ],
+  "zaaknummers": [
+   "Z2026-037809"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-483252",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2026-10-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-483252.html"
+   },
+   {
+    "id": "gmb-2026-451187",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 201",
+    "soort": "andere vergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 201",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451187.html"
+   },
+   {
+    "id": "gmb-2026-428855",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 201 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 201 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-428855.html"
+   },
+   {
+    "id": "gmb-2026-390966",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 231 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 231 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-390966.html"
+   },
+   {
+    "id": "gmb-2026-390972",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 231 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-18",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-390972.html"
+   },
+   {
+    "id": "gmb-2026-311494",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-311494.html"
+   },
+   {
+    "id": "gmb-2026-311555",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 231 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 231 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-311555.html"
+   },
+   {
+    "id": "gmb-2026-196248",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal ter hoogte van nummer: 231 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-24",
+    "onderwerp": "Object,Gedempt Hamerkanaal 231 1021KP, 20260517, Gedempt Hamerkanaal ter hoogte van nummer: 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-196248.html"
+   },
+   {
+    "id": "gmb-2026-159656",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 223 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 223 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159656.html"
+   },
+   {
+    "id": "gmb-2025-479865",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 201 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-11-06",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 201",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-479865.html"
+   },
+   {
+    "id": "gmb-2025-433702",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 201 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 201 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-433702.html"
+   },
+   {
+    "id": "gmb-2025-414345",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 201 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 201 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-414345.html"
+   },
+   {
+    "id": "gmb-2025-414314",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 201",
+    "soort": "andere vergunning",
+    "datum": "2025-09-25",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 201",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-414314.html"
+   },
+   {
+    "id": "gmb-2025-400950",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 203 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 203 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-400950.html"
+   },
+   {
+    "id": "gmb-2025-400845",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 203 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-16",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 203",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-400845.html"
+   },
+   {
+    "id": "gmb-2025-348814",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2025-08-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-348814.html"
+   },
+   {
+    "id": "gmb-2025-325308",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 203 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 203 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325308.html"
+   },
+   {
+    "id": "gmb-2025-325300",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 203",
+    "soort": "andere vergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 203",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325300.html"
+   },
+   {
+    "id": "gmb-2025-260825",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 223 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 223 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-260825.html"
+   },
+   {
+    "id": "gmb-2025-123699",
+    "titel": "Besluit evenementenvergunning Verleend - Gedempt Hamerkanaal 201 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 201 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-123699.html"
+   },
+   {
+    "id": "gmb-2025-44472",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2025-02-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-44472.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-238059",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2024-06-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-238059.html"
+   },
+   {
+    "id": "gmb-2024-229055",
+    "titel": "Besluit evenementenvergunning VerleendGedempt Hamerkanaal 231 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 231 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-229055.html"
+   },
+   {
+    "id": "gmb-2024-174671",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 231 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 231 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-174671.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-408109",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal 207",
+    "soort": "andere vergunning",
+    "datum": "2023-09-25",
+    "onderwerp": "Werkzaamheden en vervoer op straat Gedempt Hamerkanaal 207 1021KP, Gedempt Hamerkanaal 207",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-408109.html"
+   },
+   {
+    "id": "gmb-2023-337739",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-337739.html"
+   },
+   {
+    "id": "gmb-2023-335531",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Gedempt Hamerkanaal 231",
+    "soort": "andere vergunning",
+    "datum": "2023-07-31",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Gedempt Hamerkanaal 231",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-335531.html"
+   },
+   {
+    "id": "gmb-2023-285508",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 231 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 231 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-285508.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/i_NL.IMRO.0363.N1002BPSTD-OH01_0032.png"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/t_NL.IMRO.0363.N1002BPSTD-OH01_16.3.html",
+     "tekst": "gebied wijzigde sterk toen de insteekkanalen in de jaren â80 en â90 grotendeels werden gedempt, zodat de scheepvaartgeschiedenis van het gebied vervaagde. Betekenisvolle gebouwen In het plangebied bevinden zich enkele betekenisvolle bouwwerken, zoals de Kromhouthal, de hijsinstallaties ter hoogte van Gedempt Hamerkanaal 86 en 92-98, Noordergasfabriek, De Ponthaven, Pand Noord en Voorwaarts. Het begrip âbetekenisvolâ geeft in principe aan dat het hier om een gebouw of comlex gaat aan de hand waarvan de ontstaangeschiedenis van het gebied nog altijd afleesbaar is. Daarmee heeft het betreffende gebouw of complex een cultuurhistorische betekenis. "
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/i_NL.IMRO.0363.N1002BPSTD-OH01_0032.png"
+ ],
+ "duur_s": 1,
+ "pand_adressen": [
+  "Gedempt Hamerkanaal 189",
+  "Gedempt Hamerkanaal 201",
+  "Gedempt Hamerkanaal 203",
+  "Gedempt Hamerkanaal 205",
+  "Gedempt Hamerkanaal 207",
+  "Gedempt Hamerkanaal 209",
+  "Gedempt Hamerkanaal 223",
+  "Gedempt Hamerkanaal 225",
+  "Gedempt Hamerkanaal 227",
+  "Gedempt Hamerkanaal 231",
+  "Gedempt Hamerkanaal 233",
+  "Gedempt Hamerkanaal 235"
+ ]
+}

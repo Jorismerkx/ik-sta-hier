@@ -1,0 +1,352 @@
+{
+ "id": "ndsm-loods",
+ "naam": "NDSM Loods",
+ "adres": "NDSM-Plein 93, 1033 WC Amsterdam",
+ "termen": [
+  "NDSM-Plein 93",
+  "1033WC",
+  "1033 WC",
+  "NDSM Loods"
+ ],
+ "pand": "0363100012062886",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 3,
+  "openbaar": 2,
+  "laatste": "2017-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_03813",
+    "titel": "NDSM-plein 17 - 167; Scheepsbouwkade 6 - 8; Scheepsbouwkade 7; Scheepsbouwkade 12 - 18; Scheepsbouwkade 22 - 34; Scheepsbouwkade 72",
+    "datum": "2017-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03813"
+   },
+   {
+    "dossier": "SN_21759",
+    "titel": "NDSM-plein 85",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21759"
+   },
+   {
+    "dossier": "SN_02273",
+    "titel": "NDSM-plein 76; NDSM-plein 84; NDSM-plein 102 - 104",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02273"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 25,
+  "gezocht": [
+   "NDSM-Plein 93",
+   "NDSM-plein 101",
+   "NDSM-plein 103",
+   "NDSM-plein 105",
+   "NDSM-plein 107",
+   "NDSM-plein 109",
+   "NDSM-plein 111",
+   "NDSM-plein 113",
+   "NDSM-plein 115",
+   "NDSM-plein 117",
+   "NDSM-plein 119",
+   "NDSM-plein 121",
+   "NDSM-plein 123"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-469232",
+    "titel": "Aanvraag omgevingsvergunning NDSM-plein 93 1033WC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-07",
+    "onderwerp": "Het tijdelijk plaatsen van een verwarmbare tent binnen in de NDSM Loods",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-469232.html",
+    "zaak": "Z2024-033555"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-469232"
+  ],
+  "zaaknummers": [
+   "Z2024-033555"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-402893",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-402893.html"
+   },
+   {
+    "id": "gmb-2026-382120",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-11",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-382120.html"
+   },
+   {
+    "id": "gmb-2026-329563",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-329563.html"
+   },
+   {
+    "id": "gmb-2026-222609",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-222609.html"
+   },
+   {
+    "id": "gmb-2026-209481",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) ter hoogte van NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-04",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-209481.html"
+   },
+   {
+    "id": "gmb-2026-199059",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-199059.html"
+   },
+   {
+    "id": "gmb-2026-174213",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-174213.html"
+   },
+   {
+    "id": "gmb-2026-159556",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159556.html"
+   },
+   {
+    "id": "gmb-2026-105442",
+    "titel": "Besluit apv vergunning Verleend - NDSM-plein ter hoogte van nummer: 93 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-09",
+    "onderwerp": "Object,NDSM-plein 93 1033WC, 20260311, NDSM-plein ter hoogte van nummer: 93",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-105442.html"
+   },
+   {
+    "id": "gmb-2026-78129",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-78129.html"
+   },
+   {
+    "id": "gmb-2026-65841",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-65841.html"
+   },
+   {
+    "id": "gmb-2026-20362",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-20362.html"
+   },
+   {
+    "id": "gmb-2025-546821",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-546821.html"
+   },
+   {
+    "id": "gmb-2025-534212",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-09",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-534212.html"
+   },
+   {
+    "id": "gmb-2025-469130",
+    "titel": "Besluit apv vergunning Verleend - NDSM-plein ter hoogte van nummer: 93 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-30",
+    "onderwerp": "Object,NDSM-plein 93 1033WC, 20251029, NDSM-plein ter hoogte van nummer: 93",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-469130.html"
+   },
+   {
+    "id": "gmb-2025-451757",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451757.html"
+   },
+   {
+    "id": "gmb-2025-146365",
+    "titel": "Besluit evenementenvergunning Verleend - NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-04",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-146365.html"
+   },
+   {
+    "id": "gmb-2025-121157",
+    "titel": "Besluit evenementenvergunning Verleend - NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-121157.html"
+   },
+   {
+    "id": "gmb-2025-64958",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-64958.html"
+   },
+   {
+    "id": "gmb-2025-27231",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 93 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 93 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-27231.html"
+   },
+   {
+    "id": "gmb-2023-440330",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440330.html"
+   },
+   {
+    "id": "gmb-2023-421883",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-03",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-421883.html"
+   },
+   {
+    "id": "gmb-2023-344365",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-344365.html"
+   },
+   {
+    "id": "gmb-2023-344411",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-344411.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1010BPSTD-VG01",
+   "naam": "NDSM-werf Oost",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-05-29",
+   "opp_m2": 548425,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 1,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "NDSM-plein 101",
+  "NDSM-plein 103",
+  "NDSM-plein 105",
+  "NDSM-plein 107",
+  "NDSM-plein 109",
+  "NDSM-plein 111",
+  "NDSM-plein 113",
+  "NDSM-plein 115",
+  "NDSM-plein 117",
+  "NDSM-plein 119",
+  "NDSM-plein 121",
+  "NDSM-plein 123"
+ ]
+}

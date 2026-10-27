@@ -1,0 +1,1435 @@
+{
+ "id": "rai-amsterdam",
+ "naam": "RAI Amsterdam",
+ "adres": "Europaplein 24, 1078 GZ Amsterdam",
+ "termen": [
+  "Europaplein 24",
+  "1078GZ",
+  "1078 GZ",
+  "RAI Amsterdam"
+ ],
+ "pand": "0363100012093034",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 28,
+  "openbaar": 28,
+  "laatste": "2010-11-01",
+  "dossiers": [
+   {
+    "dossier": "XY_05258",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2010-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 660,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05258"
+   },
+   {
+    "dossier": "XY_05281",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2009-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 160,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05281"
+   },
+   {
+    "dossier": "XY_05263",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2009-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 106,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05263"
+   },
+   {
+    "dossier": "XY_05232",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 133,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05232"
+   },
+   {
+    "dossier": "XY_05221",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 340,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05221"
+   },
+   {
+    "dossier": "XY_05213",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 98,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05213"
+   },
+   {
+    "dossier": "XY_05197",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05197"
+   },
+   {
+    "dossier": "XY_05195",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05195"
+   },
+   {
+    "dossier": "XY_05187",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 203,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05187"
+   },
+   {
+    "dossier": "XY_05186",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05186"
+   },
+   {
+    "dossier": "XY_05176",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 425,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05176"
+   },
+   {
+    "dossier": "XY_00199",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_00199"
+   },
+   {
+    "dossier": "XY_05170",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05170"
+   },
+   {
+    "dossier": "XY_04461",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 522,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_04461"
+   },
+   {
+    "dossier": "XY_05154",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05154"
+   },
+   {
+    "dossier": "XY_05149",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 372,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05149"
+   },
+   {
+    "dossier": "XY_05147",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05147"
+   },
+   {
+    "dossier": "XY_05058",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05058"
+   },
+   {
+    "dossier": "XY_05054",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 165,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05054"
+   },
+   {
+    "dossier": "XY_05053",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05053"
+   },
+   {
+    "dossier": "XY_05035",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 240,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05035"
+   },
+   {
+    "dossier": "XY_05046",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05046"
+   },
+   {
+    "dossier": "XY_05210",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05210"
+   },
+   {
+    "dossier": "XY_05011",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 91,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05011"
+   },
+   {
+    "dossier": "XY_04692",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 321,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_04692"
+   },
+   {
+    "dossier": "XY_05009",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_05009"
+   },
+   {
+    "dossier": "XY_04919",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 529,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_04919"
+   },
+   {
+    "dossier": "XY_04486",
+    "titel": "Europaplein 24 - 38",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 177,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_04486"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 193,
+  "gezocht": [
+   "Europaplein 24",
+   "Europaplein 26",
+   "Europaplein 28",
+   "Europaplein 30",
+   "Europaplein 32",
+   "Europaplein 34",
+   "Europaplein 36",
+   "Europaplein 38"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-472016",
+    "titel": "Ingekomen aanvraag omgevingsvergunning Europaplein 36, 4142 CD Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-09",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472016.html",
+    "zaak": "OVST-2026-012652"
+   },
+   {
+    "id": "gmb-2026-429175",
+    "titel": "Besluit aanvraag omgevingsvergunning (regulier) Europaplein 36 a, Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-429175.html"
+   },
+   {
+    "id": "gmb-2026-425394",
+    "titel": "Besluit aanvraag omgevingsvergunning (regulier) Europaplein 36 a, Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-10",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-425394.html",
+    "zaak": "OVST-2026-012275"
+   },
+   {
+    "id": "gmb-2026-419963",
+    "titel": "Aanvraag vergunning ontvangen - Europaplein 24, Amsterdam - Realiseren batterijsysteem - RAI Real Estate B.V.",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "het realiseren van een batterijsysteem",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-419963.html",
+    "zaak": "OD2026-0047891"
+   },
+   {
+    "id": "gmb-2026-402362",
+    "titel": "Ingekomen aanvraag omgevingsvergunning Europaplein 36 a, Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-26",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-402362.html",
+    "zaak": "OVST-2026-012275"
+   },
+   {
+    "id": "gmb-2026-375856",
+    "titel": "Ingekomen aanvraag omgevingsvergunning Europaplein 36 a, Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-06",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-375856.html",
+    "zaak": "OVR-2026-012148"
+   },
+   {
+    "id": "bgr-2026-1367",
+    "titel": "Aanvraag vergunning voor het inzetten van divers werkmaterieel voor het verwijderen van de oude bestrating, plaatsen van HWA en het aanbrengen van asfaltering van de in- en uitrit RAI ter hoogte van Europaplein 24 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-11",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-1367.html"
+   },
+   {
+    "id": "wsb-2026-14029",
+    "titel": "Nieuwe aanvraag omgevingsvergunning voor een wateractiviteit, ter hoogte van Europaplein 24 1078GZ Amsterdam - AGV - AGV2026-002507",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-06-02",
+    "onderwerp": "Omgevingsvergunning water, Van Hattum en Blankevoort B.V., ter hoogte van Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-14029.html",
+    "zaak": "AGV2026-002507"
+   },
+   {
+    "id": "gmb-2026-206431",
+    "titel": "Besluit aanvraag omgevingsvergunning (regulier) Europaplein 36 a, Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-206431.html",
+    "zaak": "OVST-2026-010743"
+   },
+   {
+    "id": "gmb-2026-200498",
+    "titel": "Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Europaplein 24, Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2026-04-28",
+    "onderwerp": "Geluids Event Free Your Mind 27 april 2026",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-200498.html",
+    "zaak": "OD2026-0016360"
+   },
+   {
+    "id": "gmb-2026-145085",
+    "titel": "Ingekomen aanvraag omgevingsvergunning Europaplein 36 a, Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-27",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-145085.html",
+    "zaak": "OVST-2026-010743"
+   },
+   {
+    "id": "gmb-2026-84440",
+    "titel": "Vergunning verleend - Europaplein 24, zuidzijde  RAI Amsterdam bij Europaboulevard, zijde station Amsterdam RAI, Amsterdam - Aanpassen een van de puien in de voorgevel - RAI Amsterdam B.V.",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "het aanpassen van een van de puien in de voorgevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-84440.html",
+    "zaak": "13874328"
+   },
+   {
+    "id": "gmb-2026-33382",
+    "titel": "Mededeling opruimen gezonken vaartuig volgens de Wrakkenwet aan Europaplein 24 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2026-01-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-33382.html",
+    "zaak": "PPNT2026-4961"
+   },
+   {
+    "id": "gmb-2025-532357",
+    "titel": "Besluit aanvraag omgevingsvergunning (regulier) Europaplein 24, 4142 CD Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-08",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-532357.html",
+    "zaak": "OVST-2025-009319"
+   },
+   {
+    "id": "gmb-2025-461070",
+    "titel": "Ingekomen aanvraag omgevingsvergunning Europaplein 24, 4142 CD Leerdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-24",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-461070.html",
+    "zaak": "OVST-2025-009319"
+   },
+   {
+    "id": "gmb-2025-356770",
+    "titel": "Aanvraag vergunning ontvangen - Europaplein 24 1078 GZ, Amsterdam - Aanpassen puien  voorgevel",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-14",
+    "onderwerp": "het aanpassen van een van de puien in de voorgevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-356770.html",
+    "zaak": "13874328"
+   },
+   {
+    "id": "gmb-2025-273032",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Europaplein 24, Amsterdam - Aanpassen puien in voorgevel",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-273032.html"
+   },
+   {
+    "id": "gmb-2025-106485",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Europaplein 24, Amsterdam - Vervangen reclame \"Het signaal\"- RAI Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-106485.html",
+    "zaak": "13632684"
+   },
+   {
+    "id": "gmb-2024-362254",
+    "titel": "Vergunning Omgevingswet geweigerd - Europaplein 24, Amsterdam - plaatsen 2 containers",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-362254.html",
+    "zaak": "13062749"
+   },
+   {
+    "id": "gmb-2024-318829",
+    "titel": "Vergunning Omgevingswet verleend - Europaplein 24, Amsterdam - aanpassen breedplaatvloeren",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-318829.html",
+    "zaak": "12967847"
+   },
+   {
+    "id": "gmb-2024-176344",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Europaplein 24, Amsterdam - Plaatsen 2 containers - RAI Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-176344.html",
+    "zaak": "12756914"
+   },
+   {
+    "id": "gmb-2024-151047",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen – Europaplein 24, Amsterdam – Aanpassen breedplaatvloeren – RAI Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-151047.html"
+   },
+   {
+    "id": "gmb-2024-63304",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen – Europaplein 24, Amsterdam – Plaatsen van tijdelijk oplaadstation – RAI Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-09",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-63304.html"
+   },
+   {
+    "id": "gmb-2023-158903",
+    "titel": "Vergunning Verleend - Europaplein 24, Amsterdam - het verplaatsen bestaande gasopslag",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-158903.html",
+    "zaak": "1319671"
+   },
+   {
+    "id": "gmb-2023-86681",
+    "titel": "Beslistermijn verlengd - Europaplein 24, Amsterdam - het verplaatsen de bestaande gasopslag",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-86681.html",
+    "zaak": "1314762"
+   },
+   {
+    "id": "gmb-2023-9183",
+    "titel": "Aanvraag vergunning - Europaplein 24, Amsterdam - het verplaatsen bestaande gasopslag",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-09",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-9183.html",
+    "zaak": "1309304"
+   },
+   {
+    "id": "gmb-2022-367388",
+    "titel": "Vergunning Verleend - Europaplein 24, Amsterdam - het wijzigen van de reeds verleende vergunning (zaak 10585953), voor het plaatsen van een test- en",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-367388.html",
+    "zaak": "1300686"
+   },
+   {
+    "id": "gmb-2022-323068",
+    "titel": "Aanvraag vergunning - Europaplein 24, Amsterdam - het wijzigen van de reeds verleende vergunning (zaak 10585953), voor het plaatsen van een test- en",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-323068.html",
+    "zaak": "1296794"
+   },
+   {
+    "id": "gmb-2022-226312",
+    "titel": "Vergunning verleend - Europaplein 24, Amsterdam - het vervangen van een harmonicadeur en het plaatsen van twee aparte dubbele vluchtdeuren",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-226312.html",
+    "zaak": "1292649"
+   },
+   {
+    "id": "gmb-2022-187260",
+    "titel": "Aanvraag vergunning - Europaplein 24, Amsterdam - het vervangen van een harmonicadeur en het plaatsen van twee aparte dubbele vluchtdeuren",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-187260.html",
+    "zaak": "1290968"
+   },
+   {
+    "id": "gmb-2022-142717",
+    "titel": "Vergunning Verleend - Europaplein 24, Amsterdam - het aanpassen van de toegangsdeur van het restaurant The Traveller",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-31",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-142717.html",
+    "zaak": "1289556"
+   },
+   {
+    "id": "gmb-2022-105586",
+    "titel": "Aanvraag vergunning - Europaplein 24 - Amsterdam - het aanpassen van de toegangsdeur van het restaurant The Traveller",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-105586.html",
+    "zaak": "1287042"
+   },
+   {
+    "id": "gmb-2021-478332",
+    "titel": "Europaplein 24, Amsterdam - tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-478332.html",
+    "zaak": "1273231"
+   },
+   {
+    "id": "gmb-2021-454372",
+    "titel": "Europaplein 24 , Amsterdam - tijdelijk gebruiken hal 10 Rai",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-454372.html",
+    "zaak": "1272360"
+   },
+   {
+    "id": "gmb-2021-452227",
+    "titel": "Aanvraag vergunning, Europaplein 24, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-14",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-452227.html",
+    "zaak": "1272289"
+   },
+   {
+    "id": "gmb-2021-402944",
+    "titel": "Europaplein 24, Amsterdam - plaatsen tijdelijke test- en vaccinatiegebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-402944.html",
+    "zaak": "1270795"
+   },
+   {
+    "id": "gmb-2021-323451",
+    "titel": "Aanvraag vergunning, Europaplein 24, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-21",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-323451.html",
+    "zaak": "1268379"
+   },
+   {
+    "id": "gmb-2021-147327",
+    "titel": "Europaplein 24, Amsterdam - tijdelijk plaatsen reuzenrad",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-147327.html",
+    "zaak": "1263845"
+   },
+   {
+    "id": "gmb-2021-143947",
+    "titel": "Europaplein 24, Amsterdam - aanpassing breedplaatvloeren",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-143947.html",
+    "zaak": "1263749"
+   },
+   {
+    "id": "gmb-2021-96328",
+    "titel": "Europaplein 24, Amsterdam - aanpassen van hal 8",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-96328.html",
+    "zaak": "1262453"
+   },
+   {
+    "id": "gmb-2021-88412",
+    "titel": "Europaplein 24, Amsterdam - legaliseren tijdelijk geplaatst reuzenrad",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-88412.html",
+    "zaak": "1262251"
+   },
+   {
+    "id": "gmb-2021-83079",
+    "titel": "Europaplein 24, Amsterdam - aanpassen breedplaatvloeren",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-83079.html",
+    "zaak": "1262036"
+   },
+   {
+    "id": "gmb-2021-18666",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Europaplein 24, Amsterdam, tijdelijk bouwen restaurant",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-01-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-18666.html"
+   },
+   {
+    "id": "gmb-2021-10608",
+    "titel": "Wabo, reguliere procedure, beslistermijn verlengd, Europaplein 24, Amsterdam, aanpassen hal 8 Rai",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-01-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-10608.html"
+   },
+   {
+    "id": "gmb-2020-290507",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Europaplein 24, Amsterdam, aanpassen hal 8",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-290507.html"
+   },
+   {
+    "id": "gmb-2019-188349",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning, Europaplein 36 in Leerdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-07-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-188349.html"
+   },
+   {
+    "id": "gmb-2018-247587",
+    "titel": "Kennisgeving besluit op aanvraag het vervangen van balkonhekken en plaatsen van een nieuwe lift Europaplein 24 te Elst",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-11-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-247587.html"
+   },
+   {
+    "id": "gmb-2018-219538",
+    "titel": "Kennisgeving ontvangst aanvraag het vervangen van balkonhekken en plaatsen van een nieuwe lift Europaplein 24 te Elst",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-219538.html"
+   },
+   {
+    "id": "gmb-2016-116581",
+    "titel": "Gemeente Leerdam verleende omgevingsvergunning Europaplein 36 te Leerdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-08-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-116581.html"
+   },
+   {
+    "id": "gmb-2016-93716",
+    "titel": "Gemeente Leerdam, verleende omgevingsvergunning Europaplein 36 en 37  te Leerdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-07-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-93716.html"
+   },
+   {
+    "id": "gmb-2016-85913",
+    "titel": "Gemeente Leerdam, verlenging beslistermijn aanvraag omgevingsvergunning Europaplein 36 en 37 te Leerdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-06-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-85913.html"
+   },
+   {
+    "id": "gmb-2016-77448",
+    "titel": "Gemeente Leerdam, ingediende omgevingsvergunningaanvraag Europaplein 36 te Leerdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-06-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-77448.html"
+   },
+   {
+    "id": "gmb-2016-64635",
+    "titel": "Gemeente Leerdam ingediende aanvraag omgevingsvergunning Europaplein 36 te Leerdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-05-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-64635.html"
+   },
+   {
+    "id": "gmb-2016-59540",
+    "titel": "Gemeente Leerdam ingediende aanvraag omgevingsvergrunning Europaplein 36 te Leerdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-05-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-59540.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-472016",
+   "gmb-2026-429175",
+   "gmb-2026-425394",
+   "gmb-2026-419963",
+   "gmb-2026-402362",
+   "gmb-2026-375856",
+   "wsb-2026-14029",
+   "gmb-2026-206431",
+   "gmb-2026-200498",
+   "gmb-2026-145085",
+   "gmb-2025-532357",
+   "gmb-2025-461070",
+   "gmb-2025-356770",
+   "gmb-2025-273032",
+   "gmb-2025-106485",
+   "gmb-2024-176344",
+   "gmb-2024-151047",
+   "gmb-2024-63304",
+   "gmb-2023-9183",
+   "gmb-2022-323068",
+   "gmb-2022-187260",
+   "gmb-2022-105586",
+   "gmb-2021-323451",
+   "gmb-2021-18666",
+   "gmb-2020-290507",
+   "gmb-2019-188349",
+   "gmb-2016-85913",
+   "gmb-2016-77448",
+   "gmb-2016-64635"
+  ],
+  "zaaknummers": [
+   "1268379",
+   "12756914",
+   "1287042",
+   "1290968",
+   "1296794",
+   "1309304",
+   "13632684",
+   "13874328",
+   "AGV2026-002507",
+   "OD2026-0016360",
+   "OD2026-0047891",
+   "OVR-2026-012148",
+   "OVST-2025-009319",
+   "OVST-2026-010743",
+   "OVST-2026-012275",
+   "OVST-2026-012652"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-200498",
+    "titel": "Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Europaplein 24, Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2026-04-28",
+    "onderwerp": "Geluids Event Free Your Mind 27 april 2026",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-200498.html",
+    "zaak": "OD2026-0016360"
+   },
+   {
+    "id": "gmb-2021-478332",
+    "titel": "Europaplein 24, Amsterdam - tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-478332.html",
+    "zaak": "1273231"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-492418",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-22",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20261019, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-492418.html"
+   },
+   {
+    "id": "gmb-2026-466278",
+    "titel": "Besluit tot Centrale Stemopneming door het Gemeentelijk Stembureau  op 18 en 19 maart 2027 in de Gemeente Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2026-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466278.html"
+   },
+   {
+    "id": "gmb-2026-451184",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451184.html"
+   },
+   {
+    "id": "gmb-2026-415861",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-04",
+    "onderwerp": "Nachtwerkontheffing, TVM stremmen,Europaplein 24 1078GZ, 20261101, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-415861.html"
+   },
+   {
+    "id": "gmb-2026-390945",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-18",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20260903, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-390945.html"
+   },
+   {
+    "id": "gmb-2026-362346",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-362346.html"
+   },
+   {
+    "id": "gmb-2026-344995",
+    "titel": "Rectificatie: Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-344995.html"
+   },
+   {
+    "id": "gmb-2026-297419",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-297419.html"
+   },
+   {
+    "id": "gmb-2026-248743",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20260529, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-248743.html"
+   },
+   {
+    "id": "gmb-2026-241281",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241281.html"
+   },
+   {
+    "id": "gmb-2026-212025",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20260603, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-212025.html"
+   },
+   {
+    "id": "gmb-2026-202160",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202160.html"
+   },
+   {
+    "id": "gmb-2026-202115",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202115.html"
+   },
+   {
+    "id": "gmb-2026-202214",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Object, RVV, Europaplein 24 1078GZ, 20260426, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202214.html"
+   },
+   {
+    "id": "gmb-2026-171368",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-13",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20260422, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-171368.html"
+   },
+   {
+    "id": "gmb-2026-168747",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-10",
+    "onderwerp": "Nachtwerk,Europaplein 24 1078GZ, 20260425, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-168747.html"
+   },
+   {
+    "id": "gmb-2026-75631",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-75631.html"
+   },
+   {
+    "id": "gmb-2026-65747",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-13",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20260212, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-65747.html"
+   },
+   {
+    "id": "gmb-2026-46604",
+    "titel": "Melding verrichten milieubelastende activiteit - Europaplein 24, Amsterdam - Plaatsen 2 tijdelijke diesel opslagtanks in verpakking - RAI Amsterdam B.V.",
+    "soort": "omgevingsmelding",
+    "datum": "2026-02-03",
+    "onderwerp": "Dieseltank Winter Paradijs 2025",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-46604.html"
+   },
+   {
+    "id": "gmb-2026-13767",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-13767.html"
+   },
+   {
+    "id": "gmb-2026-13729",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) ter hoogte van Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-13",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-13729.html"
+   },
+   {
+    "id": "gmb-2025-541476",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-541476.html"
+   },
+   {
+    "id": "gmb-2025-537243",
+    "titel": "Besluit evenementenvergunning Verleend - Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-537243.html"
+   },
+   {
+    "id": "gmb-2025-534290",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-534290.html"
+   },
+   {
+    "id": "gmb-2025-529197",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-05",
+    "onderwerp": "Fietsen,Nachtwerk,Europaplein 24 1078GZ, 20251208, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-529197.html"
+   },
+   {
+    "id": "gmb-2025-498027",
+    "titel": "Melding verrichten milieubelastende activiteit - Europaplein 24, Amsterdam - Plaatsen Dieselopslagtank",
+    "soort": "omgevingsmelding",
+    "datum": "2025-11-17",
+    "onderwerp": "Dieselopslagtank t.b.v. Renovatie Signaal",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-498027.html"
+   },
+   {
+    "id": "gmb-2025-454103",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-10-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-454103.html"
+   },
+   {
+    "id": "gmb-2025-339206",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-339206.html"
+   },
+   {
+    "id": "gmb-2025-325371",
+    "titel": "Aanvraag evenementenvergunning Europaplein 24 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Europaplein 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325371.html"
+   },
+   {
+    "id": "gmb-2025-272546",
+    "titel": "Besluit apv vergunning Verleend - Europaplein ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "Object,Europaplein 24 1078GZ, 20250620, Europaplein ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272546.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.K1005BPGST-VG01",
+   "naam": "Amsterdam RAI",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-12-18",
+   "opp_m2": 325222,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPGST-VG01/t_NL.IMRO.0363.K1005BPGST-VG01.html",
+     "tekst": "s en passanten leveren kwetsbare punten op die de flexibiliteit en het optimale gebruik van de open ruimtes beperken. Horeca nabij de havenkom Ten westen van het RAI-terrein bevindt zich een waterpartij. Aan het water, op gronden van RAI Amsterdam, bevindt zich horeca. Het betreft een locatie van circa 2500 mÂ² waar in de maanden april tot en met september een stadsstrand wordt geÃ«xploiteerd. Daarbij bevindt zich een horecagelegenheid die bestaat uit alles wat zich binnen de omheinde locatie bevindt (strand, paviljoens, terrassen en bijbehorende zaken zoals meubilair, aankleding, sfeerverlichting en een muziekinstallatie)"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.K1005BPGST-VG02",
+   "naam": "Amsterdam RAI",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-12-18",
+   "opp_m2": 325222,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPGST-VG02/t_NL.IMRO.0363.K1005BPGST-VG02.html",
+     "tekst": "s en passanten leveren kwetsbare punten op die de flexibiliteit en het optimale gebruik van de open ruimtes beperken. Horeca nabij de havenkom Ten westen van het RAI-terrein bevindt zich een waterpartij. Aan het water, op gronden van RAI Amsterdam, bevindt zich horeca. Het betreft een locatie van circa 2500 mÂ² waar in de maanden april tot en met september een stadsstrand wordt geÃ«xploiteerd. Daarbij bevindt zich een horecagelegenheid die bestaat uit alles wat zich binnen de omheinde locatie bevindt (strand, paviljoens, terrassen en bijbehorende zaken zoals meubilair, aankleding, sfeerverlichting en een muziekinstallatie)"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.K1504BPGST-VG01",
+   "naam": "Amsterdam RAI, partiële herziening (herstelbesluit)",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2017-06-09",
+   "opp_m2": 325222,
+   "pdfs": [
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb3.pdf",
+     "titel": "Bijlage 3 Geluidbelasting ten gevolge van dance evenementen",
+     "waarom": "link bij het adres"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb2.pdf",
+     "titel": "Bijlage 2 Onderzoek nachtelijke normering",
+     "waarom": "link bij het adres"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+     "titel": "Bijlage 4 Geluidsbelasting Koningsdag",
+     "waarom": "link bij het adres"
+    }
+   ],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/i_NL.IMRO.0363.K1504BPGST-VG01_0006.png"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/t_NL.IMRO.0363.K1504BPGST-VG01.html",
+     "tekst": "t, is sprake van een aanvaardbare mate van overlast. 7.4.3 Uitvoerbaarheid incidentele festiviteiten (dag en avond) Op verzoek van RAI Amsterdam heeft Tauw onderzocht wat de geluidbelasting op de direct rond de RAI gelegen woningen is ten gevolge van grote muziekevenementen in de hallen van de RAI (zie bijlage 3 ). Doel van het onderzoek is inzicht te krijgen in de hoogte van de geluidbelastingen die optreden op de gevel van de woningen die rondom de RAI gelegen zijn tijdens "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/t_NL.IMRO.0363.K1504BPGST-VG01.html",
+     "tekst": "alignjustify\">Op verzoek van de gemeente Amsterdam is door DPA Cauberg-Huygen voor de woningen aan de Wielingenstraat, het Europaplein en de Beethovenstraat een verkennend onderzoek uitgevoerd naar aanvaardbare geluidgrenswaarden gedurende de nachtperiode voor incidenteel te houden evenementen door RAI Amsterdam (zie bijlage 2 ). Daartoe is eerst de bestaande akoestische kwaliteit van diverse woningen aan de Wielingenstraat, het Europaplein en de Beethovenstraat beoordeeld voor wat betreft het omgevingsgeluid (voor de situatie zonder het evenement). Daartoe zijn de gevelbelastingen, die hoofdzakelijk wor"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/t_NL.IMRO.0363.K1504BPGST-VG01.html",
+     "tekst": "v id=\"_7.6_GeluidsnormeringKoningsdag\" class=\"paragraaf\"> 7.6 Geluidsnormering Koningsdag 7.6.1 Onderzoek muziekevenement Koningsdag Op verzoek van RAI Amsterdam heeft Tauw onderzocht wat de geluidbelasting op de direct rond de RAI gelegen woningen is ten gevolge van grote muziekevenementen op het voorplein (zie bijlage 4 ). Doel van het onderzoek is inzicht te krijgen in de hoogte van de geluidbelastingen die optreden op de gevel van de woningen die rondom de RAI gelegen zijn tijdens grote m"
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 92,
+  "plannen": 2,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb3.pdf",
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 3 Geluidbelasting ten gevolge van dance evenementen [link bij het adres]",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb2.pdf",
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 2 Onderzoek nachtelijke normering [link bij het adres]",
+   "noemingen": 5,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 4 Geluidsbelasting Koningsdag [link bij het adres]",
+   "noemingen": 4,
+   "kandidaten": 5,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-200498.pdf",
+   "bron": "bekendmaking gmb-2026-200498: Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Europaplein 24, Amsterdam",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-478332.pdf",
+   "bron": "bekendmaking gmb-2021-478332: Europaplein 24, Amsterdam - tijdelijk afwijken bestemmingsplan",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 2 Onderzoek nachtelijke normering [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\5515c43a89fee355.pdf",
+   "pagina": 5,
+   "paginas": 5,
+   "score": 8.0,
+   "tekening": true,
+   "vectoren": 59,
+   "beelddekking": 1.0,
+   "woorden": [],
+   "tekst": "Herstelbesluit bestemmingsplan RAI Amsterdam 00017-10824-03 Verkennend onderzoek optredende muziekgeluidniveaus incidentele evenementen 12-04-2016 Pagina 5 Tabel 3: Optredende muziekgeluidniveaus binnen en buiten woningen gedurende muziekevenementen Woningsituatie Optredend muziekgeluid- niveau buit",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb2.pdf",
+   "png": "data/sources/rai-amsterdam/sweep/5515c43a89fee355-p5.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 4 Geluidsbelasting Koningsdag [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\3aa828db1807e3e3.pdf",
+   "pagina": 13,
+   "paginas": 17,
+   "score": 5.0,
+   "tekening": true,
+   "vectoren": 1309,
+   "beelddekking": 0.0,
+   "woorden": [],
+   "tekst": "65/66/67/69/70 66/66/67/69/69/72 64/65/67/69/70/72 66/66/68/68/70 65/66/68/70/70 73/73/74/75/76 74/75/76/77/77 76/77/78/78/78 78/79/79/80/80 78/79/80/80/8 55/55/56/60/61 54/54/56/58/60 57/58/60 58/59/59 70/71/71/72 63/65/67/69 65/66/ Kingsland, resultaten Detail noordoost Tauw bv Industrielawaai - I",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+   "png": "data/sources/rai-amsterdam/sweep/3aa828db1807e3e3-p13.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 4 Geluidsbelasting Koningsdag [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\3aa828db1807e3e3.pdf",
+   "pagina": 14,
+   "paginas": 17,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 2047,
+   "beelddekking": 0.0,
+   "woorden": [],
+   "tekst": "62/64 62/63/65 63/64/64/64/64 61/62/64 61/61/61/61/61/61 65 56/56/57 62/62/63/63 62/62/63/63 60/60/60 Kingsland, resultaten Detail noordwest Tauw bv Industrielawaai - IL, [Bestemmingsplan - Kingsland contour 10 meter] , Geomilieu V3.10 120200 120400 120600 120800 484400 484200 484000 Hulplijn GPS pu",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+   "png": "data/sources/rai-amsterdam/sweep/3aa828db1807e3e3-p14.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 4 Geluidsbelasting Koningsdag [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\3aa828db1807e3e3.pdf",
+   "pagina": 15,
+   "paginas": 17,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 2877,
+   "beelddekking": 0.0,
+   "woorden": [],
+   "tekst": "73/73/74/75/76 74/75/76/77/77 76/77/78/78/78 78/79/79/80/80 78/79/80/80/80 78/79/79/80/80 81/82/82/82 75/75/76/77/77 76/75/76/77/77 81/82/82/82 63/65/67/69 65/66/68/70 67/67/68/71 70/70/71/71 85 88 98 Kingsland, resultaten Detail oost Tauw bv Industrielawaai - IL, [Bestemmingsplan - Kingsland contou",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+   "png": "data/sources/rai-amsterdam/sweep/3aa828db1807e3e3-p15.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 4 Geluidsbelasting Koningsdag [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\3aa828db1807e3e3.pdf",
+   "pagina": 16,
+   "paginas": 17,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 1638,
+   "beelddekking": 0.0,
+   "woorden": [],
+   "tekst": "62/64 63/64/64/64/64 61/61/61/61/61/61 63/64/64/64/64/65 65/65/65 65 62/62/63/63 62/62/63/63 Kingsland, resultaten Detail west Tauw bv Industrielawaai - IL, [Bestemmingsplan - Kingsland contour 10 meter] , Geomilieu V3.10 120000 120400 484000 483600 Hulplijn GPS punt Hoogtelijn Scherm Gebouw Bodemge",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+   "png": "data/sources/rai-amsterdam/sweep/3aa828db1807e3e3-p16.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.K1504BPGST-VG01 (Amsterdam RAI, partiële herziening (herstelbesluit)): Bijlage 4 Geluidsbelasting Koningsdag [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\3aa828db1807e3e3.pdf",
+   "pagina": 17,
+   "paginas": 17,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 725,
+   "beelddekking": 0.0,
+   "woorden": [],
+   "tekst": "61/62 59/59/59/59 53/54/55/60/61/61 61/60/61/61 60/60/61/62/64/66 67/68 59/59/59/60/60/61 63/63/64/65/66/67 68/68 Kingsland, resultaten Detail zuid Tauw bv Industrielawaai - IL, [Bestemmingsplan - Kingsland contour 10 meter] , Geomilieu V3.10 120600 120800 121000 483400 483200 Hulplijn GPS punt Hoog",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/b_NL.IMRO.0363.K1504BPGST-VG01_tb4.pdf",
+   "png": "data/sources/rai-amsterdam/sweep/3aa828db1807e3e3-p17.png"
+  }
+ ],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1504BPGST-VG01/i_NL.IMRO.0363.K1504BPGST-VG01_0006.png"
+ ],
+ "duur_s": 99,
+ "pand_adressen": [
+  "Europaplein 24",
+  "Europaplein 26",
+  "Europaplein 28",
+  "Europaplein 30",
+  "Europaplein 32",
+  "Europaplein 34",
+  "Europaplein 36",
+  "Europaplein 38"
+ ]
+}

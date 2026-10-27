@@ -1,0 +1,396 @@
+{
+ "id": "club-prime",
+ "naam": "Club Prime",
+ "adres": "Rembrandtplein 22, 1017 CV Amsterdam",
+ "termen": [
+  "Rembrandtplein 22",
+  "1017CV",
+  "1017 CV",
+  "Club Prime"
+ ],
+ "pand": "0363100012178862",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 12,
+  "openbaar": 12,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_86298",
+    "titel": "Rembrandtplein 3 - 46",
+    "datum": "2009-01-01",
+    "soort": "straatmeubilair",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86298"
+   },
+   {
+    "dossier": "SA_14126",
+    "titel": "Rembrandtplein 22",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14126"
+   },
+   {
+    "dossier": "SA_14689",
+    "titel": "Rembrandtplein 22 H; Rembrandtplein 22 2",
+    "datum": "1994-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14689"
+   },
+   {
+    "dossier": "SA_14123",
+    "titel": "Rembrandtplein 22",
+    "datum": "1977-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14123"
+   },
+   {
+    "dossier": "SA_14688",
+    "titel": "Rembrandtplein 22",
+    "datum": "1974-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14688"
+   },
+   {
+    "dossier": "SA_14677",
+    "titel": "Rembrandtplein 22",
+    "datum": "1974-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14677"
+   },
+   {
+    "dossier": "SA_14678",
+    "titel": "Rembrandtplein 22",
+    "datum": "1973-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 94,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_14678"
+   },
+   {
+    "dossier": "SA_33816",
+    "titel": "Rembrandtplein 16 - 24; Thorbeckeplein 1 - 3",
+    "datum": "1969-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33816"
+   },
+   {
+    "dossier": "SA_20757",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20757"
+   },
+   {
+    "dossier": "SA_20756",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20756"
+   },
+   {
+    "dossier": "SA_20758",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20758"
+   },
+   {
+    "dossier": "SA_20764",
+    "titel": "Rembrandtplein 18 - 22",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_20764"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 19,
+  "gezocht": [
+   "Rembrandtplein 22"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-497155",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rembrandtplein 22-H",
+    "soort": "andere vergunning",
+    "datum": "2026-10-26",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-497155.html"
+   },
+   {
+    "id": "gmb-2026-238200",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rembrandtplein 22-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 22-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-238200.html"
+   },
+   {
+    "id": "gmb-2025-512292",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rembrandtplein 22-H",
+    "soort": "andere vergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-512292.html"
+   },
+   {
+    "id": "gmb-2024-538517",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rembrandtplein 22-H",
+    "soort": "andere vergunning",
+    "datum": "2024-12-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-538517.html"
+   },
+   {
+    "id": "gmb-2024-455624",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rembrandtplein 22-H",
+    "soort": "andere vergunning",
+    "datum": "2024-10-29",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-455624.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-41983",
+    "titel": "Aanvraag alchoholontheffing Rembrandtplein 22-H in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-26",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Rembrandtplein 22-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-41983.html"
+   },
+   {
+    "id": "gmb-2023-561377",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2023-12-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rembrandtplein 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-561377.html"
+   },
+   {
+    "id": "gmb-2023-468987",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2023-11-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf Prime - Rembrandtplein 22-H ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-468987.html"
+   },
+   {
+    "id": "gmb-2022-578801",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2022-12-29",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf Prime - 26-12-2022 t/m 30-12-2022 Locatie: Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-578801.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-86449",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Rembrandtplein 22-H",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-28",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-86449.html"
+   },
+   {
+    "id": "gmb-2021-386707",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Rembrandtplein 22-H",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-386707.html"
+   },
+   {
+    "id": "gmb-2021-279044",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Rembrandtplein 22-H",
+    "soort": "exploitatievergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-279044.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 239,
+ "pand_adressen": [
+  "Rembrandtplein 22"
+ ]
+}

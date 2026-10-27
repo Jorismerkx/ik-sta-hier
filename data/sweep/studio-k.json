@@ -1,0 +1,954 @@
+{
+ "id": "studio-k",
+ "naam": "Studio",
+ "adres": "Timorplein 62, 1094 CC Amsterdam",
+ "termen": [
+  "Timorplein 62",
+  "1094CC",
+  "1094 CC",
+  "Studio"
+ ],
+ "pand": "0363100012237325",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 45,
+  "openbaar": 23,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_25607",
+    "titel": "Timorplein 21",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_25607"
+   },
+   {
+    "dossier": "SU_18306",
+    "titel": "Timorplein 62",
+    "datum": "2008-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_18306"
+   },
+   {
+    "dossier": "SU_26235",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2007-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 471,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26235"
+   },
+   {
+    "dossier": "SU_26220",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2007-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 83,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26220"
+   },
+   {
+    "dossier": "SU_26207",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 775,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26207"
+   },
+   {
+    "dossier": "SU_26321",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26321"
+   },
+   {
+    "dossier": "SU_26322",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26322"
+   },
+   {
+    "dossier": "SU_26323",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26323"
+   },
+   {
+    "dossier": "SU_26231",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 166,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26231"
+   },
+   {
+    "dossier": "SU_26205",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26205"
+   },
+   {
+    "dossier": "SU_32927",
+    "titel": "Lombokstraat 40",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32927"
+   },
+   {
+    "dossier": "SU_33025",
+    "titel": "Lombokstraat 42",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_33025"
+   },
+   {
+    "dossier": "SU_26282",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 189,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26282"
+   },
+   {
+    "dossier": "SU_32911",
+    "titel": "Timorplein 21; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32911"
+   },
+   {
+    "dossier": "SU_26324",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26324"
+   },
+   {
+    "dossier": "SU_26272",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 266,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26272"
+   },
+   {
+    "dossier": "SU_26274",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 344,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26274"
+   },
+   {
+    "dossier": "SU_26267",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26267"
+   },
+   {
+    "dossier": "SU_23863",
+    "titel": "Timorplein 21",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23863"
+   },
+   {
+    "dossier": "SU_19936",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_19936"
+   },
+   {
+    "dossier": "SU_30427",
+    "titel": "Lombokstraat 2 - 40",
+    "datum": "1992-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30427"
+   },
+   {
+    "dossier": "SU_23861",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1972-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23861"
+   },
+   {
+    "dossier": "SU_23860",
+    "titel": "Timorplein 21",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23860"
+   },
+   {
+    "dossier": "SU_23859",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1961-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 225,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23859"
+   },
+   {
+    "dossier": "SU_23856",
+    "titel": "Timorplein 21",
+    "datum": "1960-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23856"
+   },
+   {
+    "dossier": "SU_23855",
+    "titel": "Timorplein 21",
+    "datum": "1960-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23855"
+   },
+   {
+    "dossier": "SU_23854",
+    "titel": "Timorplein 21",
+    "datum": "1960-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23854"
+   },
+   {
+    "dossier": "SU_23853",
+    "titel": "Timorplein 21",
+    "datum": "1960-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23853"
+   },
+   {
+    "dossier": "SU_23851",
+    "titel": "Timorplein 21",
+    "datum": "1960-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 112,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23851"
+   },
+   {
+    "dossier": "SU_23850",
+    "titel": "Timorplein 21",
+    "datum": "1960-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23850"
+   },
+   {
+    "dossier": "SU_23848",
+    "titel": "Timorplein 21",
+    "datum": "1960-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23848"
+   },
+   {
+    "dossier": "SU_23792",
+    "titel": "Timorplein 21",
+    "datum": "1960-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23792"
+   },
+   {
+    "dossier": "SU_23857",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1959-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23857"
+   },
+   {
+    "dossier": "SU_23858",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1959-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23858"
+   },
+   {
+    "dossier": "SU_23787",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23787"
+   },
+   {
+    "dossier": "SU_23779",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1957-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23779"
+   },
+   {
+    "dossier": "SU_23776",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1956-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23776"
+   },
+   {
+    "dossier": "SU_23774",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23774"
+   },
+   {
+    "dossier": "SU_23769",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1937-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23769"
+   },
+   {
+    "dossier": "SU_23766",
+    "titel": "Lombokstraat 16; Timorplein 21",
+    "datum": "1935-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23766"
+   },
+   {
+    "dossier": "SU_23745",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "1911-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23745"
+   },
+   {
+    "dossier": "SU_23755",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23755"
+   },
+   {
+    "dossier": "SU_23759",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23759"
+   },
+   {
+    "dossier": "SU_23751",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23751"
+   },
+   {
+    "dossier": "SU_23757",
+    "titel": "Lombokstraat 40 - 42; Timorplein 21 - 63; Timorplein 21 A; Timorstraat 2",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_23757"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 67,
+  "gezocht": [
+   "Timorplein 62",
+   "Lombokstraat 40",
+   "Lombokstraat 42",
+   "Timorplein 21",
+   "Timorplein 22",
+   "Timorplein 23",
+   "Timorplein 24",
+   "Timorplein 25",
+   "Timorplein 26",
+   "Timorplein 27",
+   "Timorplein 28",
+   "Timorplein 29",
+   "Timorplein 30"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-393358",
+    "titel": "Aanvraag omgevingsvergunning Timorplein 22 t/m 62 Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-20",
+    "onderwerp": "veranderen van de raamkozijnen, plaatsen zonwering aan de gevel en installaties op het dak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-393358.html",
+    "zaak": "Z2026-031754"
+   },
+   {
+    "id": "gmb-2025-69432",
+    "titel": "Omgevingsvergunning verleend voor het plaatsen van dakisolatie, Lombokstraat 42, 2103TL Heemstede",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-19",
+    "onderwerp": "Betreft:  Besluit op locatie Lombokstraat 42, 2103TL Heemstede",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-69432.html",
+    "zaak": "Rx.Mission zaak Z2025-00000049"
+   },
+   {
+    "id": "gmb-2025-58129",
+    "titel": "Aanvraag omgevingsvergunning voor het plaatsen van dakisolatie,  Lombokstraat 42, 2103TL Heemstede",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-12",
+    "onderwerp": "Betreft: Aanvraag op locatie Lombokstraat 42, 2103TL Heemstede",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-58129.html",
+    "zaak": "Rx.Mission zaak Z2025-00000049"
+   },
+   {
+    "id": "gmb-2021-137368",
+    "titel": "Buiten behandeling stellen van aanvraag omgevingsvergunning Timorplein 22 1094CC Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-04",
+    "onderwerp": "het plaatsen van gevelreclame",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-137368.html"
+   },
+   {
+    "id": "gmb-2021-54260",
+    "titel": "Aanvraag omgevingsvergunning Timorplein 22 1094CC Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-23",
+    "onderwerp": "het plaatsen van gevelreclame",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-54260.html"
+   },
+   {
+    "id": "gmb-2021-34803",
+    "titel": "Verleende vergunning voor het aanleggenvan kabels en leidingen op Lombokstraat 40 2315EP Leiden",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-04",
+    "onderwerp": "LOMBOKSTRAAT 40 aanleggen telecommunicatiekabels Netwerk Exploitatiemaatschappij B.V.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-34803.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "gmb-2017-193165",
+    "titel": "Afgehandelde omgevingsvergunning, het bouwen van een dakkapel   aan de achterkant van een woning, Lombokstraat 40 te Utrecht,   HZ_WABO-17-30970",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-11-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-193165.html"
+   },
+   {
+    "id": "gmb-2017-171676",
+    "titel": "Nieuwe aanvraag omgevingsvergunning, het bouwen van een dakkapel   aan de achterkant van een woning, Lombokstraat 40 te Utrecht,   HZ_WABO-17-30970",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-171676.html"
+   },
+   {
+    "id": "gmb-2017-131839",
+    "titel": "Afgehandelde omgevingsvergunning, het bouwen van een dakkapel   aan de voorzijde van een woning, Lombokstraat 40 te Utrecht, HZ_WABO-17-21798",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-07-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-131839.html"
+   },
+   {
+    "id": "gmb-2017-120126",
+    "titel": "Nieuwe aanvraag omgevingsvergunning, het bouwen van een dakkapel   aan de voorzijde van een woning, Lombokstraat 40 te Utrecht, HZ_WABO-17-21798",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-07-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-120126.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-393358",
+   "gmb-2025-58129",
+   "gmb-2021-137368",
+   "gmb-2021-54260",
+   "gmb-2017-171676",
+   "gmb-2017-120126"
+  ],
+  "zaaknummers": [
+   "Rx.Mission zaak Z2025-00000049",
+   "Z2026-031754"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-353368",
+    "titel": "Besluit apv vergunning Verleend - Timorplein ter hoogte van nummer: 62 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-23",
+    "onderwerp": ")RVV,Filmen,Timorplein 62 1094CC, 20260721, Timorplein ter hoogte van nummer: 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-353368.html"
+   },
+   {
+    "id": "gmb-2026-301800",
+    "titel": "Besluit apv vergunning Verleend - Timorplein ter hoogte van nummer: 62 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-25",
+    "onderwerp": "RVV,Filmen,Timorplein 62 1094CC, 20260623, Timorplein ter hoogte van nummer: 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-301800.html"
+   },
+   {
+    "id": "gmb-2026-278310",
+    "titel": "Besluit apv vergunning Verleend - Timorplein ter hoogte van nummer: 21 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-12",
+    "onderwerp": "TVM parkeervak,Timorplein 21 1094CC, 30-6-26 van 08:30 uur t/m 11:00 uur., Timorplein ter hoogte van nummer: 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-278310.html"
+   },
+   {
+    "id": "gmb-2026-270631",
+    "titel": "Besluit apv vergunning Verleend - Timorplein ter hoogte van nummer: 21 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-09",
+    "onderwerp": "Object,Timorplein 21 1094CC, 20260612, Timorplein ter hoogte van nummer: 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-270631.html"
+   },
+   {
+    "id": "gmb-2026-227394",
+    "titel": "Besluit apv vergunning Verleend - Timorplein ter hoogte van nummer: 21 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-05-15",
+    "onderwerp": "TVM parkeervak,Timorplein 21 1094CC, 20260528, Timorplein ter hoogte van nummer: 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-227394.html"
+   },
+   {
+    "id": "gmb-2026-212094",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Timorplein 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-212094.html"
+   },
+   {
+    "id": "gmb-2026-135977",
+    "titel": "Aanvraag evenementenvergunning Timorplein 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-135977.html"
+   },
+   {
+    "id": "gmb-2026-130540",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Timorplein 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-20",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-130540.html"
+   },
+   {
+    "id": "gmb-2026-114942",
+    "titel": "Melding toepassen grond en baggerspecie - Nabij Timorplein 21 Amsterdam, 19 meter richting noordoosten",
+    "soort": "omgevingsmelding",
+    "datum": "2026-03-12",
+    "onderwerp": "G3817-25258 (Nabij Timorplein 21, Amsterdam)",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-114942.html"
+   },
+   {
+    "id": "gmb-2026-87368",
+    "titel": "Besluit apv vergunning Verleend - Timorplein ter hoogte van nummer: 21 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-02-26",
+    "onderwerp": "TVM parkeervak,Timorplein 21 1094CC, 20260303, Timorplein ter hoogte van nummer: 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-87368.html"
+   },
+   {
+    "id": "gmb-2026-82921",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Timorplein 21 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-82921.html"
+   },
+   {
+    "id": "gmb-2026-75747",
+    "titel": "Aanvraag evenementenvergunning Timorplein 21 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-75747.html"
+   },
+   {
+    "id": "gmb-2026-70970",
+    "titel": "Aanvraag evenementenvergunning Timorplein 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-70970.html"
+   },
+   {
+    "id": "gmb-2025-447312",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Timorplein 62 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-447312.html"
+   },
+   {
+    "id": "gmb-2025-359164",
+    "titel": "Besluit apv vergunning Verleend - Lombokstraat ter hoogte van nummer: 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-08-18",
+    "onderwerp": "TVM parkeervak,Lombokstraat 40 1094AL, 20250826, Lombokstraat ter hoogte van nummer: 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-359164.html"
+   },
+   {
+    "id": "gmb-2025-305520",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Timorplein 62",
+    "soort": "andere vergunning",
+    "datum": "2025-07-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Timorplein 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-305520.html"
+   },
+   {
+    "id": "gmb-2025-199290",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Timorplein 62 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-05-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-199290.html"
+   },
+   {
+    "id": "gmb-2025-197588",
+    "titel": "Aanvraag evenementenvergunning Timorplein 21 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-197588.html"
+   },
+   {
+    "id": "gmb-2025-180700",
+    "titel": "Besluit evenementenvergunning Verleend - Timorplein 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-180700.html"
+   },
+   {
+    "id": "gmb-2025-118613",
+    "titel": "Aanvraag evenementenvergunning Timorplein 62 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 62 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-118613.html"
+   },
+   {
+    "id": "gmb-2025-48225",
+    "titel": "Besluit evenementenvergunning Verleend - Timorplein 21 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-48225.html"
+   },
+   {
+    "id": "gmb-2025-19367",
+    "titel": "Aanvraag evenementenvergunning Timorplein 21 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-19367.html"
+   },
+   {
+    "id": "gmb-2024-518700",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Timorplein 21 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-12-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-518700.html"
+   },
+   {
+    "id": "gmb-2024-405685",
+    "titel": "Besluit apv vergunning Verleend - Timorplein 21",
+    "soort": "andere vergunning",
+    "datum": "2024-09-24",
+    "onderwerp": "RVV,Nachtwerk, Timorplein 21 1094CC, 20240929, Timorplein 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-405685.html"
+   },
+   {
+    "id": "gmb-2024-349552",
+    "titel": "Besluit apv vergunning Verleend - Timorplein 24",
+    "soort": "andere vergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Object, Timorplein 24 1094CC, 02-09-2024 t/m 31-01-2025, Timorplein 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-349552.html"
+   },
+   {
+    "id": "gmb-2024-323079",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Timorplein 21 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323079.html"
+   },
+   {
+    "id": "gmb-2024-244881",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Timorplein 62",
+    "soort": "andere vergunning",
+    "datum": "2024-06-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Timorplein 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-244881.html"
+   },
+   {
+    "id": "gmb-2024-195151",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Timorplein 62",
+    "soort": "andere vergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Timorplein 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-195151.html"
+   },
+   {
+    "id": "gmb-2024-151332",
+    "titel": "Aanvraag evenementenvergunning Timorplein 21 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Timorplein 21 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-151332.html"
+   },
+   {
+    "id": "gmb-2024-91864",
+    "titel": "Besluit apv vergunning Verleend - Timorplein 21",
+    "soort": "andere vergunning",
+    "datum": "2024-02-28",
+    "onderwerp": "Object, Timorplein 21 1094CC, 20240315, Timorplein 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-91864.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 3,
+ "pand_adressen": [
+  "Lombokstraat 40",
+  "Lombokstraat 42",
+  "Timorplein 21",
+  "Timorplein 22",
+  "Timorplein 23",
+  "Timorplein 24",
+  "Timorplein 25",
+  "Timorplein 26",
+  "Timorplein 27",
+  "Timorplein 28",
+  "Timorplein 29",
+  "Timorplein 30"
+ ]
+}

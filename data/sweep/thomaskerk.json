@@ -1,0 +1,540 @@
+{
+ "id": "thomaskerk",
+ "naam": "Thomaskerk",
+ "adres": "Prinses Irenestraat 36, 1077 WX Amsterdam",
+ "termen": [
+  "Prinses Irenestraat 36",
+  "1077WX",
+  "1077 WX",
+  "Thomaskerk"
+ ],
+ "pand": "0363100012099552",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 0,
+  "laatste": "1994-01-01",
+  "dossiers": [
+   {
+    "dossier": "SW_12438",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12438"
+   },
+   {
+    "dossier": "SW_12409",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1966-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12409"
+   },
+   {
+    "dossier": "SW_12437",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1965-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12437"
+   },
+   {
+    "dossier": "SW_12433",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1965-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12433"
+   },
+   {
+    "dossier": "SW_12436",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1965-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12436"
+   },
+   {
+    "dossier": "SW_12428",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12428"
+   },
+   {
+    "dossier": "SW_12430",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12430"
+   },
+   {
+    "dossier": "SW_12427",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12427"
+   },
+   {
+    "dossier": "SW_12424",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12424"
+   },
+   {
+    "dossier": "SW_12422",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12422"
+   },
+   {
+    "dossier": "SW_12415",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12415"
+   },
+   {
+    "dossier": "SW_12417",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12417"
+   },
+   {
+    "dossier": "SW_12411",
+    "titel": "Prinses Irenestraat 36",
+    "datum": "1964-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 159,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_12411"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 35,
+  "gezocht": [
+   "Prinses Irenestraat 36"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-469882",
+    "titel": "Aanvraag vergunning voor plaatsen van een dakkapel, Prinses Irenestraat 36, 7271GB Borculo",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-03",
+    "onderwerp": "Betreft: Aanvraag op locatie Prinses Irenestraat 36, 7271GB Borculo",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-469882.html",
+    "zaak": "Rx.Mission zaak Z2023-00001342"
+   },
+   {
+    "id": "gmb-2023-266508",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "realiseren van herstelwerkzaamheden aan de schil van het gebouw en reparatie werkzaamheden aan de begane grond vloer met behoud .............",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-266508.html",
+    "zaak": "Z2023-Z001438"
+   },
+   {
+    "id": "gmb-2023-193532",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-03",
+    "onderwerp": "realiseren van herstelwerkzaamheden aan de schil van het gebouw en reparatie werkzaamheden aan de begane grond vloer met behoud .............",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-193532.html",
+    "zaak": "Z2023-Z001438"
+   },
+   {
+    "id": "gmb-2023-167266",
+    "titel": "Aanvraag omgevingsvergunning Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-17",
+    "onderwerp": "realiseren van herstelwerkzaamheden aan de schil van het gebouw en reparatie werkzaamheden aan de begane grond vloer met behoud .............",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-167266.html",
+    "zaak": "Z2023-Z001438"
+   },
+   {
+    "id": "gmb-2022-498991",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-09",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-498991.html"
+   },
+   {
+    "id": "gmb-2022-453974",
+    "titel": "Aanvragen omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-453974.html"
+   },
+   {
+    "id": "gmb-2021-306535",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-08",
+    "onderwerp": "plaatsen van twee vlaggenmasten op de hoek Prinses Marigrietstraat - Prinses Irenestraat 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-306535.html",
+    "zaak": "Z2021-Z003378"
+   },
+   {
+    "id": "gmb-2021-241240",
+    "titel": "Gemeente Huizen - sloopmelding - verwijderen van asbesthoudende materialen - Prinses Irenestraat 36, Huizen",
+    "soort": "andere beschikking",
+    "datum": "2021-07-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-241240.html"
+   },
+   {
+    "id": "gmb-2021-240555",
+    "titel": "Aanvraag omgevingsvergunning Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-07-21",
+    "onderwerp": "plaatsen vlaggenmasten aan de Irenelaan voor de Thomaskerk",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-240555.html",
+    "zaak": "Z2021-Z003378"
+   },
+   {
+    "id": "gmb-2021-240638",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-07-21",
+    "onderwerp": "plaatsen vlaggenmasten aan de Irenelaan voor de Thomaskerk",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-240638.html",
+    "zaak": "Z2021-Z003378"
+   },
+   {
+    "id": "gmb-2021-159714",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-25",
+    "onderwerp": "tijdelijk, voor de duur van maximaal 6 maanden, plaatsen van kunstwerken op verschillende locaties in Zuid",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-159714.html"
+   },
+   {
+    "id": "gmb-2021-139455",
+    "titel": "Aanvraag omgevingsvergunning Prinses Irenestraat 36 1077WX Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-05",
+    "onderwerp": "plaatsing van kunstwerken voor de duur van 6 maanden op verschillende locaties in Zuid",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-139455.html"
+   },
+   {
+    "id": "gmb-2019-161542",
+    "titel": "Verleende omgevingsvergunning, het verbouwen en uitbreiden van de woning, Prinses Irenestraat 36 Oisterwijk",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-07-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-161542.html"
+   },
+   {
+    "id": "gmb-2019-122729",
+    "titel": "Aangevraagde omgevingsvergunning, het verbouwen en uitbreiden van de woning, Prinses Irenestraat 36 Oisterwijk",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-05-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-122729.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-469882",
+   "gmb-2023-266508",
+   "gmb-2023-167266",
+   "gmb-2021-306535",
+   "gmb-2021-240555",
+   "gmb-2021-159714",
+   "gmb-2021-139455"
+  ],
+  "zaaknummers": [
+   "Rx.Mission zaak Z2023-00001342",
+   "Z2021-Z003378",
+   "Z2023-Z001438"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2024-395746",
+    "titel": "Voornemen wijziging Omgevingsplan gemeente Amsterdam voor het gebied Prinses Irenebuurt",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2024-09-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-395746.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-292026",
+    "titel": "Besluit apv vergunning Verleend - Prinses Irenestraat ter hoogte van nummer: 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-06-19",
+    "onderwerp": "TVM parkeervak,Filmen,Prinses Irenestraat 36 1077WX, 20260622, Prinses Irenestraat ter hoogte van nummer: 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-292026.html"
+   },
+   {
+    "id": "gmb-2026-181914",
+    "titel": "Kennisgeving voornemen om een huurovereenkomst te sluiten met Protestantse Gemeente te Amsterdam voor de verhuur van een perceel grond in de openbare ruimte achter De Thomaskerk, gelegen aan Prinses Irenestraat 36, 1077 WX te Amsterdam",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2026-04-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-181914.html"
+   },
+   {
+    "id": "gmb-2026-133240",
+    "titel": "Besluit apv vergunning Verleend - Prinses Irenestraat ter hoogte van nummer: 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "RVV,Filmen,Prinses Irenestraat 36 1077WX, 20260413, Prinses Irenestraat ter hoogte van nummer: 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133240.html"
+   },
+   {
+    "id": "gmb-2026-121966",
+    "titel": "Besluit apv vergunning Verleend - Prinses Irenestraat ter hoogte van nummer: 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-03-17",
+    "onderwerp": "TVM parkeervak,RVV,Object,Afgesloten gebieden,Filmen,Prinses Irenestraat 36 1077WX, 20260324, Prinses Irenestraat ter hoogte van nummer: 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-121966.html"
+   },
+   {
+    "id": "gmb-2025-386697",
+    "titel": "Aanvraag evenementenvergunning Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-08",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Prinses Irenestraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-386697.html"
+   },
+   {
+    "id": "gmb-2025-313010",
+    "titel": "Besluit apv vergunning Verleend - Prinses Irenestraat ter hoogte van nummer: 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-17",
+    "onderwerp": "TVM parkeervak,RVV,Object,Filmen,Prinses Irenestraat 36 1077WX, 20250724, Prinses Irenestraat ter hoogte van nummer: 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-313010.html"
+   },
+   {
+    "id": "gmb-2024-476191",
+    "titel": "Besluit apv vergunning Verleend - Prinses Irenestraat ter hoogte van nummer: 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "TVM parkeervak,RVV,Filmen, Prinses Irenestraat 36 1077WX, 20241111, Prinses Irenestraat ter hoogte van nummer: 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-476191.html"
+   },
+   {
+    "id": "gmb-2024-264994",
+    "titel": "Besluit alcoholwetvergunning Verleend - Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-06-18",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Prinses Irenestraat 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-264994.html"
+   },
+   {
+    "id": "gmb-2024-263725",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Prinses Irenestraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-263725.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-110235",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-12",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Prinses Irenestraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-110235.html"
+   },
+   {
+    "id": "gmb-2023-483751",
+    "titel": "Besluit alcoholwetvergunning Ingetrokken - Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-11-14",
+    "onderwerp": "Ingetrokken: alcoholwetvergunning op adres Prinses Irenestraat 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-483751.html"
+   },
+   {
+    "id": "gmb-2023-483791",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Ingetrokken - Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-14",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Prinses Irenestraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-483791.html"
+   },
+   {
+    "id": "gmb-2023-389355",
+    "titel": "Aanvraag alcoholwetvergunning Prinses Irenestraat 36",
+    "soort": "andere vergunning",
+    "datum": "2023-09-11",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Prinses Irenestraat 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-389355.html"
+   },
+   {
+    "id": "gmb-2023-383610",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Prinses Irenestraat 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-05",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Prinses Irenestraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-383610.html"
+   },
+   {
+    "id": "gmb-2023-3929",
+    "titel": "Besluit apv vergunning Verleend Prinses Irenestraat 36",
+    "soort": "andere vergunning",
+    "datum": "2023-01-03",
+    "onderwerp": "Rvv, Prinses Irenestraat 36, 11-01-2023, Prinses Irenestraat 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-3929.html"
+   },
+   {
+    "id": "gmb-2021-360609",
+    "titel": "Melding voor het verwijderen van asbesthoudende materialen aan Prinses Irenestraat 36 te Huizen",
+    "soort": "andere melding",
+    "datum": "2021-10-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-360609.html"
+   },
+   {
+    "id": "stcrt-2021-25765",
+    "titel": "Gemeente Steenwijkerland – Opheffen gehandicaptenparkeerplaats Prinses Irenestraat 36 te Steenwijk",
+    "soort": "Verkeersbesluiten",
+    "datum": "2021-05-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2021-25765.html"
+   },
+   {
+    "id": "stcrt-2014-11569",
+    "titel": "Gemeente Steenwijkerland - Steenwijk - realiseren gehandicaptenparkeerplaats Prinses Irenestraat 36",
+    "soort": "Verkeersbesluiten",
+    "datum": "2014-04-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-11569.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 34,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-395746.pdf",
+   "bron": "bekendmaking gmb-2024-395746: Voornemen wijziging Omgevingsplan gemeente Amsterdam voor het gebied Prinses Irenebuurt",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 36,
+ "pand_adressen": [
+  "Prinses Irenestraat 36"
+ ]
+}

@@ -1,0 +1,348 @@
+{
+ "id": "disco-dolly",
+ "naam": "Tuftuf",
+ "adres": "Handboogstraat 11, 1012 XM Amsterdam",
+ "termen": [
+  "Handboogstraat 11",
+  "1012XM",
+  "1012 XM",
+  "Tuftuf",
+  "Disco Dolly, Tuf Tuf"
+ ],
+ "pand": "0363100012167923",
+ "status": "open",
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 14,
+  "openbaar": 14,
+  "laatste": "2003-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_48517",
+    "titel": "Voetboogstraat 10 - 12",
+    "datum": "2003-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48517"
+   },
+   {
+    "dossier": "SA_48512",
+    "titel": "Voetboogstraat 10 - 12",
+    "datum": "1995-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48512"
+   },
+   {
+    "dossier": "SA_48497",
+    "titel": "Voetboogstraat 10 - 12",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48497"
+   },
+   {
+    "dossier": "SA_48490",
+    "titel": "Voetboogstraat 10 - 12",
+    "datum": "1994-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48490"
+   },
+   {
+    "dossier": "SA_48474",
+    "titel": "Voetboogstraat 12",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48474"
+   },
+   {
+    "dossier": "SA_42181",
+    "titel": "Handboogstraat 11 - 13",
+    "datum": "1988-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42181"
+   },
+   {
+    "dossier": "SA_48473",
+    "titel": "Voetboogstraat 12",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48473"
+   },
+   {
+    "dossier": "SA_42177",
+    "titel": "Handboogstraat 11 - 13; Voetboogstraat 12",
+    "datum": "1985-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42177"
+   },
+   {
+    "dossier": "SA_48472",
+    "titel": "Voetboogstraat 12",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48472"
+   },
+   {
+    "dossier": "SA_48459",
+    "titel": "Voetboogstraat 10 - 12",
+    "datum": "1978-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48459"
+   },
+   {
+    "dossier": "SA_42174",
+    "titel": "Handboogstraat 11 - 13",
+    "datum": "1965-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42174"
+   },
+   {
+    "dossier": "SA_42374",
+    "titel": "Handboogstraat 11 - 13",
+    "datum": "1964-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42374"
+   },
+   {
+    "dossier": "SA_48349",
+    "titel": "Voetboogstraat 10 - 12",
+    "datum": "1912-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48349"
+   },
+   {
+    "dossier": "SA_42172",
+    "titel": "Handboogstraat 11 - 13",
+    "datum": "1909-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42172"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 13,
+  "gezocht": [
+   "Handboogstraat 11"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-465117",
+    "titel": "Besluit alcoholwetvergunning Verleend - Handboogstraat 11 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Handboogstraat 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465117.html"
+   },
+   {
+    "id": "gmb-2026-465049",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Handboogstraat 11 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Handboogstraat 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465049.html"
+   },
+   {
+    "id": "gmb-2024-462317",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Handboogstraat 11 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Handboogstraat 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-462317.html"
+   },
+   {
+    "id": "gmb-2024-462250",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Handboogstraat 11 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Handboogstraat 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-462250.html"
+   },
+   {
+    "id": "gmb-2024-427131",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Handboogstraat 11 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-10-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Handboogstraat 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-427131.html"
+   },
+   {
+    "id": "gmb-2023-287471",
+    "titel": "Besluit apv vergunning Verleend - Handboogstraat 11",
+    "soort": "andere vergunning",
+    "datum": "2023-07-03",
+    "onderwerp": "OBJ , Voetboogstraat 9-11- 30-06 tot 20-07, Handboogstraat 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-287471.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2021-426049",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Handboogstraat 11",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Handboogstraat 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-426049.html"
+   },
+   {
+    "id": "gmb-2021-345627",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Handboogstraat 11",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-05",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Handboogstraat 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-345627.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 1,
+ "pand_adressen": [
+  "Handboogstraat 11"
+ ]
+}

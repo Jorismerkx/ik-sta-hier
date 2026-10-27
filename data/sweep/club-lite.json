@@ -1,0 +1,143 @@
+{
+ "id": "club-lite",
+ "naam": "Club Lite",
+ "adres": "Jan van Galenstraat 24, 1051 KM Amsterdam",
+ "termen": [
+  "Jan van Galenstraat 24",
+  "1051KM",
+  "1051 KM",
+  "Club Lite"
+ ],
+ "pand": null,
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 5,
+  "gezocht": [
+   "Jan van Galenstraat 24"
+  ],
+  "vergunningen": [
+   {
+    "id": "wsb-2024-25323",
+    "titel": "Hoogheemraadschap van Delfland – aanvraag Omgevingsvergunning wateractiviteit - Jan van Galenstraat, Schiedam",
+    "soort": "andere vergunning",
+    "datum": "2024-11-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2024-25323.html",
+    "zaak": "Z-24-121253"
+   },
+   {
+    "id": "gmb-2020-288460",
+    "titel": "Gemeente Maassluis - vertrokken met onbekende bestemming - L.Z. Takács - Jan van Galenstraat 24, Maassluis",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-11-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-288460.html"
+   }
+  ],
+  "met_tekeningen": [
+   "wsb-2024-25323"
+  ],
+  "zaaknummers": [
+   "Z-24-121253"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-505657",
+    "titel": "Besluit apv vergunning Verleend - Jan van Galenstraat ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-11-21",
+    "onderwerp": "Object,Jan van Galenstraat 24 A 1051KM, 20251201, Jan van Galenstraat ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-505657.html"
+   },
+   {
+    "id": "gmb-2025-416659",
+    "titel": "Besluit apv vergunning Verleend - Jan van Galenstraat ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-26",
+    "onderwerp": "Upload_Object,Jan van Galenstraat 24 A 1051KM, 20250923, Jan van Galenstraat ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-416659.html"
+   },
+   {
+    "id": "gmb-2024-538492",
+    "titel": "Besluit apv vergunning Verleend - Jan van Galenstraat ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-23",
+    "onderwerp": "TVM parkeervak, Jan van Galenstraat 24 A 1051KM, 20241223, Jan van Galenstraat ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-538492.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1303BPSTD-VG01",
+   "naam": "Kop van Jut",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-03-04",
+   "opp_m2": 81010,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG02",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-04-05",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG03",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-10-08",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG04",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-10-08",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 5,
+  "plannen": 24,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 34,
+ "pand_adressen": []
+}

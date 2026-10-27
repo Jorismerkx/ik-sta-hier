@@ -1,0 +1,1609 @@
+{
+ "id": "soulkitchen",
+ "naam": "SoulKitchen",
+ "adres": "Amstelstraat 30, 1017 DA Amsterdam",
+ "termen": [
+  "Amstelstraat 30",
+  "1017DA",
+  "1017 DA",
+  "SoulKitchen"
+ ],
+ "pand": "0363100012182493",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 76,
+  "openbaar": 76,
+  "laatste": "2011-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_104431",
+    "titel": "Amstelstraat 26 - 30",
+    "datum": "2011-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104431"
+   },
+   {
+    "dossier": "SA_94162",
+    "titel": "Amstelstraat 16; Amstelstraat 20 - 24",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94162"
+   },
+   {
+    "dossier": "SA_11729",
+    "titel": "Amstelstraat 26 - 30",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11729"
+   },
+   {
+    "dossier": "SA_94161",
+    "titel": "Amstelstraat 16; Amstelstraat 20 - 24",
+    "datum": "2010-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94161"
+   },
+   {
+    "dossier": "SA_11736",
+    "titel": "Amstelstraat 26 - 30",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11736"
+   },
+   {
+    "dossier": "SA_104422",
+    "titel": "Amstelstraat 16; Amstelstraat 20 - 24",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104422"
+   },
+   {
+    "dossier": "SA_104430",
+    "titel": "Amstelstraat 26 - 30",
+    "datum": "2009-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104430"
+   },
+   {
+    "dossier": "SA_94166",
+    "titel": "Amstelstraat 32",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94166"
+   },
+   {
+    "dossier": "SA_94057",
+    "titel": "Amstelstraat 32",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94057"
+   },
+   {
+    "dossier": "SA_94157",
+    "titel": "Amstelstraat 16; Amstelstraat 20 - 24",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 108,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94157"
+   },
+   {
+    "dossier": "SA_94156",
+    "titel": "Amstelstraat 16; Amstelstraat 20 - 24",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94156"
+   },
+   {
+    "dossier": "SA_15633",
+    "titel": "Amstelstraat 26 - 30",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15633"
+   },
+   {
+    "dossier": "SA_94278",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2007-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94278"
+   },
+   {
+    "dossier": "SA_94154",
+    "titel": "Amstelstraat 24 - 26",
+    "datum": "2007-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94154"
+   },
+   {
+    "dossier": "SA_104442",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 78,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104442"
+   },
+   {
+    "dossier": "SA_104441",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104441"
+   },
+   {
+    "dossier": "SA_94277",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94277"
+   },
+   {
+    "dossier": "SA_104444",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104444"
+   },
+   {
+    "dossier": "SA_94276",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 89,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94276"
+   },
+   {
+    "dossier": "SA_94275",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94275"
+   },
+   {
+    "dossier": "SA_94274",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94274"
+   },
+   {
+    "dossier": "SA_94237",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 388,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94237"
+   },
+   {
+    "dossier": "SA_104438",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 179,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104438"
+   },
+   {
+    "dossier": "SA_104440",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_104440"
+   },
+   {
+    "dossier": "SA_94236",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 91,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94236"
+   },
+   {
+    "dossier": "SA_94235",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 172,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94235"
+   },
+   {
+    "dossier": "SA_84172",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_84172"
+   },
+   {
+    "dossier": "SA_15627",
+    "titel": "Amstelstraat 24 - 32",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15627"
+   },
+   {
+    "dossier": "SA_18717",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2005-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 628,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_18717"
+   },
+   {
+    "dossier": "SA_15614",
+    "titel": "Amstelstraat 24 - 32; Amstelstraat 32 A",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15614"
+   },
+   {
+    "dossier": "SA_94232",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94232"
+   },
+   {
+    "dossier": "SA_94233",
+    "titel": "Amstelstraat 24 - 32; Amstelstraat 32 A",
+    "datum": "2004-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_94233"
+   },
+   {
+    "dossier": "SA_15593",
+    "titel": "Amstelstraat 16 - 32",
+    "datum": "2004-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15593"
+   },
+   {
+    "dossier": "SA_15616",
+    "titel": "Amstelstraat 24",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15616"
+   },
+   {
+    "dossier": "SA_15589",
+    "titel": "Amstelstraat 24",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15589"
+   },
+   {
+    "dossier": "SA_15742",
+    "titel": "Amstelstraat 32 A",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15742"
+   },
+   {
+    "dossier": "SA_15646",
+    "titel": "Amstelstraat 32 A",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15646"
+   },
+   {
+    "dossier": "SA_15645",
+    "titel": "Amstelstraat 32 A",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15645"
+   },
+   {
+    "dossier": "SA_15588",
+    "titel": "Amstelstraat 26",
+    "datum": "2000-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15588"
+   },
+   {
+    "dossier": "SA_15551",
+    "titel": "Amstelstraat 24",
+    "datum": "1997-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15551"
+   },
+   {
+    "dossier": "SA_15587",
+    "titel": "Amstelstraat 30",
+    "datum": "1997-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15587"
+   },
+   {
+    "dossier": "SA_15548",
+    "titel": "Amstelstraat 24",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15548"
+   },
+   {
+    "dossier": "SA_15542",
+    "titel": "Amstelstraat 28 - 30",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15542"
+   },
+   {
+    "dossier": "SA_10394",
+    "titel": "Amstelstraat 26",
+    "datum": "1991-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_10394"
+   },
+   {
+    "dossier": "SA_15537",
+    "titel": "Amstelstraat 30",
+    "datum": "1987-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15537"
+   },
+   {
+    "dossier": "SA_15538",
+    "titel": "Amstelstraat 28 - 30",
+    "datum": "1987-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15538"
+   },
+   {
+    "dossier": "SA_15536",
+    "titel": "Amstelstraat 24",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15536"
+   },
+   {
+    "dossier": "SA_15535",
+    "titel": "Amstelstraat 24",
+    "datum": "1985-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15535"
+   },
+   {
+    "dossier": "SA_15493",
+    "titel": "Amstelstraat 26",
+    "datum": "1983-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15493"
+   },
+   {
+    "dossier": "SA_15502",
+    "titel": "Amstelstraat 32 A",
+    "datum": "1982-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15502"
+   },
+   {
+    "dossier": "SA_15489",
+    "titel": "Amstelstraat 32",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15489"
+   },
+   {
+    "dossier": "SA_15496",
+    "titel": "Amstelstraat 32",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15496"
+   },
+   {
+    "dossier": "SA_15881",
+    "titel": "Amstelstraat 24",
+    "datum": "1977-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15881"
+   },
+   {
+    "dossier": "SA_15485",
+    "titel": "Amstelstraat 26",
+    "datum": "1976-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15485"
+   },
+   {
+    "dossier": "SA_15531",
+    "titel": "Amstelstraat 32",
+    "datum": "1976-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15531"
+   },
+   {
+    "dossier": "SA_15468",
+    "titel": "Amstelstraat 32",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15468"
+   },
+   {
+    "dossier": "SA_15465",
+    "titel": "Amstelstraat 24 - 32; Amstelstraat 32 A",
+    "datum": "1967-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15465"
+   },
+   {
+    "dossier": "SA_15467",
+    "titel": "Amstelstraat 32",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15467"
+   },
+   {
+    "dossier": "SA_15460",
+    "titel": "Amstelstraat 26",
+    "datum": "1961-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15460"
+   },
+   {
+    "dossier": "SA_15438",
+    "titel": "Amstelstraat 26",
+    "datum": "1960-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15438"
+   },
+   {
+    "dossier": "SA_15463",
+    "titel": "Amstelstraat 26",
+    "datum": "1958-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15463"
+   },
+   {
+    "dossier": "SA_15462",
+    "titel": "Amstelstraat 26",
+    "datum": "1958-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15462"
+   },
+   {
+    "dossier": "SA_15397",
+    "titel": "Amstelstraat 24",
+    "datum": "1954-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15397"
+   },
+   {
+    "dossier": "SA_15448",
+    "titel": "Amstelstraat 24",
+    "datum": "1954-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15448"
+   },
+   {
+    "dossier": "SA_15446",
+    "titel": "Amstelstraat 24",
+    "datum": "1953-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15446"
+   },
+   {
+    "dossier": "SA_15442",
+    "titel": "Amstelstraat 24",
+    "datum": "1953-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15442"
+   },
+   {
+    "dossier": "SA_15445",
+    "titel": "Amstelstraat 24",
+    "datum": "1953-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15445"
+   },
+   {
+    "dossier": "SA_15389",
+    "titel": "Amstelstraat 20 - 32; Amstelstraat 32 A",
+    "datum": "1935-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15389"
+   },
+   {
+    "dossier": "SA_15361",
+    "titel": "Amstelstraat 30",
+    "datum": "1931-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15361"
+   },
+   {
+    "dossier": "SA_15358",
+    "titel": "Amstelstraat 30 - 32",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15358"
+   },
+   {
+    "dossier": "SA_15353",
+    "titel": "Amstelstraat 24 - 32; Amstelstraat 32 A",
+    "datum": "1926-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15353"
+   },
+   {
+    "dossier": "SA_15354",
+    "titel": "Amstelstraat 24 - 32; Amstelstraat 32 A",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15354"
+   },
+   {
+    "dossier": "SA_15349",
+    "titel": "Amstelstraat 30 - 32",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15349"
+   },
+   {
+    "dossier": "SA_15342",
+    "titel": "Amstelstraat 20; Amstelstraat 30 - 32",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15342"
+   },
+   {
+    "dossier": "SA_15338",
+    "titel": "Amstelstraat 22 - 28",
+    "datum": "1910-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15338"
+   },
+   {
+    "dossier": "SA_15332",
+    "titel": "Amstelstraat 24 - 32 A",
+    "datum": "1904-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_15332"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 81,
+  "gezocht": [
+   "Amstelstraat 30",
+   "Amstelstraat 24",
+   "Amstelstraat 26",
+   "Amstelstraat 28",
+   "Amstelstraat 32"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-446026",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Amstelstraat 26 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-15",
+    "onderwerp": "intern wijzigen van het restaurant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-446026.html",
+    "zaak": "Z2025-019349"
+   },
+   {
+    "id": "gmb-2025-446027",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Amstelstraat 26 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-15",
+    "onderwerp": "intern wijzigen van het restaurant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-446027.html",
+    "zaak": "Z2025-019349"
+   },
+   {
+    "id": "gmb-2025-200907",
+    "titel": "Aanvraag omgevingsvergunning Amstelstraat 26 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-08",
+    "onderwerp": "intern wijzigen van het restaurant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-200907.html",
+    "zaak": "Z2025-019349"
+   },
+   {
+    "id": "bgr-2025-138",
+    "titel": "Toestemming voor het handmatig graven van een sleuf voor het aanbrengen van een mantelbuis voor de VRI installatie ter hoogte van Wibautstraat 80 tm 150 - Eerste Oosterparkstraat 105A - Gijsbrecht van Amstelstraat 32 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-23",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-138.html"
+   },
+   {
+    "id": "gmb-2025-17841",
+    "titel": "Verleende omgevingsvergunning starten trimsalon aan huis, Jan van Amstelstraat 26, Kesteren (19-12-2024)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-16",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-17841.html"
+   },
+   {
+    "id": "bgr-2025-82",
+    "titel": "Aanvraag vergunning voor het handmatig graven van een sleuf voor het aanbrengen van een mantelbuis voor de VRI installatie ter hoogte van Wibautstraat 80 tm 150 - Eerste Oosterparkstraat 105A - Gijsbrecht van Amstelstraat 32 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-16",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-82.html"
+   },
+   {
+    "id": "gmb-2024-499772",
+    "titel": "Aangevraagde omgevingsvergunning starten trimsalon aan huis, Jan van Amstelstraat 26, Kesteren (17-11-2024)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-28",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-499772.html"
+   },
+   {
+    "id": "gmb-2024-392352",
+    "titel": "Kennisgeving melding sloopwerkzaamheden, het verwijderen van asbest locatie Amstelstraat 1 t'm 96 te Groningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-16",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-392352.html",
+    "zaak": "GRN-00006101"
+   },
+   {
+    "id": "gmb-2024-136031",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstelstraat 30 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-27",
+    "onderwerp": "wijzigen van de indeling en het gebruik ten behoeve van een restaurant en club",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-136031.html",
+    "zaak": "Z2023-C007040"
+   },
+   {
+    "id": "gmb-2023-531793",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Amstelstraat 30 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-13",
+    "onderwerp": "wijzigen van de indeling en het gebruik ten behoeve van een restaurant en club",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-531793.html",
+    "zaak": "Z2023-C007040"
+   },
+   {
+    "id": "gmb-2023-365032",
+    "titel": "Aanvraag omgevingsvergunning Amstelstraat 30 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-22",
+    "onderwerp": "wijzigen van de indeling en het gebruik ten behoeve van een restaurant en club",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-365032.html",
+    "zaak": "Z2023-C007040"
+   },
+   {
+    "id": "gmb-2022-550936",
+    "titel": "Gijsbrecht van Amstelstraat 28, 1213 CK Hilversum (plaatsen zonnepanelen); CLZ-00003069; 06-12-2022; Status: Zaak gestart, gemeente Hilversum",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-550936.html",
+    "zaak": "CLZ-00003069"
+   },
+   {
+    "id": "gmb-2022-225546",
+    "titel": "(plaatsen dakkapel voorzijde); ; 13-05-22; Aanvraag omgevingsvergunning",
+    "soort": "andere vergunning",
+    "datum": "2022-05-19",
+    "onderwerp": "plaatsen dakkapel voorzijde",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-225546.html"
+   },
+   {
+    "id": "gmb-2022-6721",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstelstraat 24 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-06",
+    "onderwerp": "het wijzigen van de gevel en het plaatsen van reclame haaks en plat op de gevel ten behoeve van het museum",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-6721.html",
+    "zaak": "Z2021-C006612"
+   },
+   {
+    "id": "gmb-2021-430005",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Eemkwartier/Isselt - verlening omgevingsvergunning - plaatsen van een dakkapel op het voordakvlak - Amstelstraat 24, Amersfoort",
+    "soort": "andere vergunning",
+    "datum": "2021-12-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-430005.html"
+   },
+   {
+    "id": "gmb-2021-366836",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Eemkwartier/Isselt - aanvraag omgevingsvergunning - plaatsen van een dakkapel op het voordakvlak - Amstelstraat 24, Amersfoort",
+    "soort": "andere vergunning",
+    "datum": "2021-10-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-366836.html",
+    "zaak": "1032425"
+   },
+   {
+    "id": "gmb-2021-351104",
+    "titel": "Aanvraag omgevingsvergunning Amstelstraat 24 1017DA Amsterdam, Amstelstraat 26 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-08",
+    "onderwerp": "het wijzigen van de gevel en het plaatsen van reclame haaks en plat op de gevel ten behoeve van het museum",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-351104.html",
+    "zaak": "Z2021-C006612"
+   },
+   {
+    "id": "gmb-2021-317360",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstelstraat 26 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-15",
+    "onderwerp": "het wijzigen van de indeling van de gebouwen ten behoeve van een museum en winkel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-317360.html",
+    "zaak": "Z2021-C004182"
+   },
+   {
+    "id": "gmb-2021-248779",
+    "titel": "Gijsbrecht van Amstelstraat 26 (onderkelderen woning); 781084; 14-06-21; Verleende omgevingsvergunning",
+    "soort": "andere vergunning",
+    "datum": "2021-07-27",
+    "onderwerp": "onderkelderen woning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-248779.html",
+    "zaak": "781084"
+   },
+   {
+    "id": "gmb-2021-226470",
+    "titel": "Gijsbrecht van Amstelstraat 26 (plaatsen 2 dakkapellen); 766955; 15-04-21; Verleende omgevingsvergunning",
+    "soort": "andere vergunning",
+    "datum": "2021-07-13",
+    "onderwerp": "plaatsen 2 dakkapellen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-226470.html",
+    "zaak": "766955"
+   },
+   {
+    "id": "gmb-2021-221266",
+    "titel": "Aanvraag omgevingsvergunning Amstelstraat 26 1017DA Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2021-07-09",
+    "onderwerp": "het wijzigen van de indeling van de gebouwen ten behoeve van een museum en winkel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-221266.html",
+    "zaak": "Z2021-C004182"
+   },
+   {
+    "id": "gmb-2021-191792",
+    "titel": "Gijsbrecht van Amstelstraat 26 (onderkelderen woning); 781084; 14-06-21; Aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-17",
+    "onderwerp": "onderkelderen woning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-191792.html",
+    "zaak": "781084"
+   },
+   {
+    "id": "gmb-2021-174692",
+    "titel": "Gijsbrecht van Amstelstraat 26 (plaatsen 2 dakkapellen); 766955; 15-04-21; Verlengen beslistermijn omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-04",
+    "onderwerp": "plaatsen 2 dakkapellen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-174692.html",
+    "zaak": "766955"
+   },
+   {
+    "id": "gmb-2021-121572",
+    "titel": "Gijsbrecht van Amstelstraat 26 (plaatsen 2 dakkapellen); 766955; 15-04-21; Aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-20",
+    "onderwerp": "plaatsen 2 dakkapellen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-121572.html",
+    "zaak": "766955"
+   },
+   {
+    "id": "gmb-2020-232738",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Isselt - verlening vergunning voor tijdelijk gebruik van de weg - tijdelijk plaatsen van een container van 7 t/m 28 september 2020 - Amstelstraat 30, Amersfoort",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-09-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-232738.html"
+   },
+   {
+    "id": "gmb-2020-189329",
+    "titel": "Gijsbrecht van Amstelstraat 32 (); 668525; 23-06-20; Verleende omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-23",
+    "onderwerp": "realiseren doorbraak tussen woonkamer en keuken",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-189329.html",
+    "zaak": "668525"
+   },
+   {
+    "id": "gmb-2020-169024",
+    "titel": "Gijsbrecht van Amstelstraat 32 (Doorbraak maken tussen woonkamer en keuken); 668525; 23-06-20; Aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-03",
+    "onderwerp": "Doorbraak maken tussen woonkamer en keuken",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-169024.html",
+    "zaak": "668525"
+   },
+   {
+    "id": "gmb-2020-134416",
+    "titel": "Gijsbrecht van Amstelstraat 30 (kappen 1 boom); 648023; 07-05-20; Verleende omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-05-28",
+    "onderwerp": "kappen 1 boom",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-134416.html"
+   },
+   {
+    "id": "gmb-2020-119416",
+    "titel": "Gijsbrecht van Amstelstraat 30 (kappen 1 boom); 648023; 07-05-20; Aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-05-12",
+    "onderwerp": "kappen 1 boom",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-119416.html",
+    "zaak": "648023"
+   },
+   {
+    "id": "gmb-2020-41201",
+    "titel": "Gijsbrecht van Amstelstraat 32 (kappen boom); 609296; 18-01-20; Verleende omgevingsvergunning",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-02-17",
+    "onderwerp": "kappen boom",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-41201.html",
+    "zaak": "609296"
+   },
+   {
+    "id": "gmb-2020-17404",
+    "titel": "Gijsbrecht van Amstelstraat 32 (kappen boom); 609296; 18-01-20; Aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-01-22",
+    "onderwerp": "kappen boom",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-17404.html",
+    "zaak": "609296"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "gmb-2019-198804",
+    "titel": "Gijsbrecht van Amstelstraat 28 (wijzigen voorgevel); 567963; 06-08-19; Aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-08-08",
+    "onderwerp": "wijzigen voorgevel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-198804.html",
+    "zaak": "567963"
+   },
+   {
+    "id": "gmb-2018-272655",
+    "titel": "Verleende omgevingsvergunning, plaatsen van een dakkapel op het voordakvlak van een woning, Amstelstraat 32, Alkmaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-272655.html",
+    "zaak": "1823EV32"
+   },
+   {
+    "id": "gmb-2018-232961",
+    "titel": "Plaatsen dakkapel Amstelstraat 28 Oost-Souburg",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-11-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-232961.html"
+   },
+   {
+    "id": "gmb-2018-226806",
+    "titel": "Plaatsen dakkapel Amstelstraat 28",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-226806.html"
+   },
+   {
+    "id": "gmb-2018-172883",
+    "titel": "Amersfoort, Binnenstad, Omgevingsvergunning, Verleende vergunning (reguliere procedure), Amstelstraat 30, het kappen van 1 lijsterbes, 30-07-2018. Rechtsmiddel: Bezwaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-08-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-172883.html",
+    "zaak": "1016499"
+   },
+   {
+    "id": "gmb-2018-135893",
+    "titel": "Amersfoort, Soesterkwartier/Isselt, Omgevingsvergunning, Ontvangen aanvragen, Amstelstraat 30, het kappen van 1 lijsterbes, Rechtsmiddel: Geen. Ter informatie.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-06-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-135893.html",
+    "zaak": "1016499"
+   },
+   {
+    "id": "gmb-2017-211019",
+    "titel": "Gijsbrecht van Amstelstraat 30 (vellen 2 bomen); 423296; 21-11-2017; status: verleende omgevingsvergunning, gemeente Hilversum",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-11-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-211019.html"
+   },
+   {
+    "id": "gmb-2017-176951",
+    "titel": "- Gijsbrecht van Amstelstraat 30 (vellen 2 bomen); 423296; 04-10-2017; status: aanvraag omgevingsvergunning, gemeente Hilversum",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-176951.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-446026",
+   "gmb-2025-446027",
+   "gmb-2025-200907",
+   "gmb-2024-136031",
+   "gmb-2023-365032",
+   "gmb-2022-225546",
+   "gmb-2022-6721",
+   "gmb-2021-366836",
+   "gmb-2021-351104",
+   "gmb-2021-317360",
+   "gmb-2021-221266",
+   "gmb-2021-191792",
+   "gmb-2021-121572",
+   "gmb-2020-169024",
+   "gmb-2020-119416",
+   "gmb-2020-17404",
+   "gmb-2019-198804",
+   "gmb-2017-176951"
+  ],
+  "zaaknummers": [
+   "1032425",
+   "567963",
+   "609296",
+   "648023",
+   "668525",
+   "766955",
+   "781084",
+   "Z2021-C004182",
+   "Z2021-C006612",
+   "Z2023-C007040",
+   "Z2025-019349"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-108295",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Amstelstraat 32 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108295.html"
+   },
+   {
+    "id": "gmb-2026-46126",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Amstelstraat 32 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-03",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-46126.html"
+   },
+   {
+    "id": "gmb-2026-26808",
+    "titel": "Aanvraag alchoholontheffing Amstelstraat 32 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-22",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-26808.html"
+   },
+   {
+    "id": "gmb-2025-416541",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Amstelstraat 32 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-416541.html"
+   },
+   {
+    "id": "gmb-2025-417121",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Amstelstraat 32 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-417121.html"
+   },
+   {
+    "id": "gmb-2025-416624",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Amstelstraat 32 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-416624.html"
+   },
+   {
+    "id": "gmb-2025-389083",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Amstelstraat 32 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 32 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-389083.html"
+   },
+   {
+    "id": "gmb-2025-204017",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Ingetrokken - Amstelstraat 24 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-05-12",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Amstelstraat 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-204017.html"
+   },
+   {
+    "id": "gmb-2025-123735",
+    "titel": "Besluit apv vergunning Verleend - Korte Amstelstraat ter hoogte van nummer: 24 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-24",
+    "onderwerp": "Object, Korte Amstelstraat 24 1018XS, 20250404, Korte Amstelstraat ter hoogte van nummer: 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-123735.html"
+   },
+   {
+    "id": "gmb-2025-111344",
+    "titel": "Besluit apv vergunning Verleend - Korte Amstelstraat ter hoogte van nummer: 26 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-17",
+    "onderwerp": "TVM parkeervak, Korte Amstelstraat 26 1018XS, 20250324, Korte Amstelstraat ter hoogte van nummer: 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-111344.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-363728",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Amstelstraat 24 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-363728.html"
+   },
+   {
+    "id": "gmb-2024-216297",
+    "titel": "GEMEENTE VUGHT – INGEKOMEN AANVRAAG GEBRUIK OPENBARE WEG – JAN VAN AMSTELSTRAAT 30 VUGHT",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-05-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-216297.html"
+   },
+   {
+    "id": "gmb-2024-217274",
+    "titel": "GEMEENTE VUGHT – GEBRUIK OPENBARE WEG – JAN VAN AMSTELSTRAAT 30 VUGHT",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-05-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-217274.html"
+   },
+   {
+    "id": "gmb-2024-205101",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Amstelstraat 24 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-205101.html"
+   },
+   {
+    "id": "gmb-2024-198419",
+    "titel": "Besluit alcoholwetvergunning Verleend - Amstelstraat 30 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-05-06",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Amstelstraat 30",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-198419.html"
+   },
+   {
+    "id": "gmb-2024-198422",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Amstelstraat 30 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 30 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-198422.html"
+   },
+   {
+    "id": "gmb-2024-160666",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Amstelstraat 30 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-12",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 30 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-160666.html"
+   },
+   {
+    "id": "gmb-2024-158238",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Amstelstraat 30 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 30 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158238.html"
+   },
+   {
+    "id": "gmb-2024-158252",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Amstelstraat 24 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 24 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158252.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-333345",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Amstelstraat 24",
+    "soort": "andere vergunning",
+    "datum": "2023-07-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Amstelstraat 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-333345.html"
+   },
+   {
+    "id": "gmb-2023-158397",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Amstelstraat 24",
+    "soort": "andere vergunning",
+    "datum": "2023-04-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Amstelstraat 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-158397.html"
+   },
+   {
+    "id": "gmb-2023-47667",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Amstelstraat 24",
+    "soort": "andere vergunning",
+    "datum": "2023-02-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Amstelstraat 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-47667.html"
+   },
+   {
+    "id": "gmb-2022-580791",
+    "titel": "Uitvoeringsbesluit Afvalstoffenverordening gemeente Meierijstad (Nadere regels en aanwijzingsbesluiten)",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-12-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-580791.html"
+   },
+   {
+    "id": "gmb-2022-496565",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Amstelstraat 24",
+    "soort": "andere vergunning",
+    "datum": "2022-11-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Amstelstraat 24",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-496565.html"
+   },
+   {
+    "id": "gmb-2022-478669",
+    "titel": "Melding voor het verwijderen van asbest aan Amstelstraat 24 te Groningen",
+    "soort": "omgevingsmelding",
+    "datum": "2022-10-27",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-478669.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-449237",
+    "titel": "Besluit beperking openbaarheid archiefbescheiden",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-449237.html"
+   },
+   {
+    "id": "gmb-2022-448834",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Amstelstraat 32",
+    "soort": "exploitatievergunning",
+    "datum": "2022-10-10",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 32",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-448834.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 4,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 6,
+ "pand_adressen": [
+  "Amstelstraat 24",
+  "Amstelstraat 26",
+  "Amstelstraat 28",
+  "Amstelstraat 30",
+  "Amstelstraat 32"
+ ]
+}

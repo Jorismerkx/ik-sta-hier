@@ -1,0 +1,422 @@
+{
+ "id": "h7-warehouse",
+ "naam": "H7 Warehouse",
+ "adres": "Humberweg 7, 1043 AC Amsterdam",
+ "termen": [
+  "Humberweg 7",
+  "1043AC",
+  "1043 AC",
+  "H7 Warehouse"
+ ],
+ "pand": "0363100012075700",
+ "status": "open",
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 2,
+  "openbaar": 2,
+  "laatste": "2003-01-01",
+  "dossiers": [
+   {
+    "dossier": "XY_00598",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_00598"
+   },
+   {
+    "dossier": "XY_00161",
+    "titel": "Rhôneweg 12",
+    "datum": "1969-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_00161"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 46,
+  "gezocht": [
+   "Humberweg 7",
+   "Rhôneweg 12"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-312050",
+    "titel": "Besluit maatwerkvoorschrift verleend Rhôneweg 12 1043AH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-17",
+    "onderwerp": "maatwerkvoorschrift voor het overschrijden van de geluidsnormen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-312050.html",
+    "zaak": "Z2024-011008"
+   },
+   {
+    "id": "gmb-2024-308048",
+    "titel": "Aanvraag omgevingsvergunning Rhôneweg 12 1043AH Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2024-07-15",
+    "onderwerp": "maatwerkvoorschrift voor het overschrijden van de geluidsnormen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-308048.html",
+    "zaak": "Z2024-011008"
+   },
+   {
+    "id": "gmb-2021-56744",
+    "titel": "Aangevraagde omgevingsvergunning Humberweg 5",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-56744.html"
+   },
+   {
+    "id": "gmb-2020-326275",
+    "titel": "Aanvraag omgevingsvergunning Rhôneweg 12 1043AH Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-10",
+    "onderwerp": "realiseren van een buurthuis, OLO 5587633",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-326275.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-312050",
+   "gmb-2024-308048",
+   "gmb-2020-326275"
+  ],
+  "zaaknummers": [
+   "Z2024-011008"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2026-33287",
+    "titel": "Besluit tot vaststelling van het projectbesluit Waterstofnetwerk Noordzeekanaalgebied (gemeenten Amsterdam, Beverwijk, Haarlemmermeer, Velsen en Zaanstad)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-33287.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-465215",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Humberweg 7 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Humberweg 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465215.html"
+   },
+   {
+    "id": "gmb-2026-297409",
+    "titel": "Besluit apv vergunning Verleend - Rhôneweg ter hoogte van nummer: 12 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "TVM parkeervak,Rhôneweg 12 1043AH, 20260626, Rhôneweg ter hoogte van nummer: 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-297409.html"
+   },
+   {
+    "id": "gmb-2026-235025",
+    "titel": "Besluit apv vergunning Verleend - Rhôneweg ter hoogte van nummer: 12 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-19",
+    "onderwerp": "TVM parkeervak,Rhôneweg 12 1043AH, 20260522, Rhôneweg ter hoogte van nummer: 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-235025.html"
+   },
+   {
+    "id": "gmb-2025-425464",
+    "titel": "Besluit apv vergunning Verleend - Rhôneweg ter hoogte van nummer: 12 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-02",
+    "onderwerp": "Upload_Object,Rhôneweg 12 1043AH, 20251003, Rhôneweg ter hoogte van nummer: 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-425464.html"
+   },
+   {
+    "id": "gmb-2025-327816",
+    "titel": "Besluit apv vergunning Verleend - Rhôneweg ter hoogte van nummer: 12 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "TVM parkeervak,Rhôneweg 12 1043AH, 2025-08-09, Rhôneweg ter hoogte van nummer: 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-327816.html"
+   },
+   {
+    "id": "gmb-2025-327965",
+    "titel": "Besluit apv vergunning Verleend - Rhôneweg ter hoogte van nummer: 12 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "TVM parkeervak,Rhôneweg 12 , 1043AH, 2025-08-16, Rhôneweg ter hoogte van nummer: 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-327965.html"
+   },
+   {
+    "id": "gmb-2025-99080",
+    "titel": "Besluit evenementenvergunning Verleend - Rhôneweg 12 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rhôneweg 12 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-99080.html"
+   },
+   {
+    "id": "gmb-2025-50909",
+    "titel": "Aanvraag evenementenvergunning Humberweg 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Humberweg 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-50909.html"
+   },
+   {
+    "id": "gmb-2025-50789",
+    "titel": "Aanvraag evenementenvergunning Humberweg 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Humberweg 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-50789.html"
+   },
+   {
+    "id": "gmb-2025-13662",
+    "titel": "Aanvraag evenementenvergunning Rhôneweg 12 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rhôneweg 12 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-13662.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-334468",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rhôneweg 14",
+    "soort": "andere vergunning",
+    "datum": "2024-07-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rhôneweg 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-334468.html"
+   },
+   {
+    "id": "gmb-2024-309076",
+    "titel": "Besluit evenementenvergunning VerleendHumberweg 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Humberweg 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-309076.html"
+   },
+   {
+    "id": "gmb-2024-289504",
+    "titel": "Aanvraag evenementenvergunning Humberweg 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-03",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Humberweg 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-289504.html"
+   },
+   {
+    "id": "gmb-2024-224685",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rhôneweg 12",
+    "soort": "andere vergunning",
+    "datum": "2024-05-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rhôneweg 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-224685.html"
+   },
+   {
+    "id": "gmb-2024-162874",
+    "titel": "Besluit apv vergunning Verleend - Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2024-04-15",
+    "onderwerp": "TVM parkeervak,Object,TVM stremmen, Humberweg 7 1043ac, 20240426, Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-162874.html"
+   },
+   {
+    "id": "gmb-2024-158278",
+    "titel": "Aanvraag evenementenvergunning Humberweg 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Humberweg 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158278.html"
+   },
+   {
+    "id": "gmb-2023-499655",
+    "titel": "Besluit apv vergunning Verleend - Rhôneweg 10 en Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2023-11-23",
+    "onderwerp": "Werkzaamheden en vervoer op straat Rhoneweg 10 1043AC, Rhôneweg 10 en Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-499655.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-236740",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2023-05-31",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-236740.html"
+   },
+   {
+    "id": "gmb-2023-223122",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2023-05-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-223122.html"
+   },
+   {
+    "id": "gmb-2023-155412",
+    "titel": "Besluit apv vergunning Verleend - Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2023-04-12",
+    "onderwerp": "TVM-PV 18X Humberweg 1 t/m 7 23-04-2023 t/m 29-04-2023, Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-155412.html"
+   },
+   {
+    "id": "gmb-2023-127956",
+    "titel": "Besluit evenementenvergunning VerleendRhôneweg 12 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rhôneweg 12 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-127956.html"
+   },
+   {
+    "id": "gmb-2023-34183",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2023-01-26",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-34183.html"
+   },
+   {
+    "id": "gmb-2023-3923",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Rhôneweg 14",
+    "soort": "andere vergunning",
+    "datum": "2023-01-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Rhôneweg 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-3923.html"
+   },
+   {
+    "id": "gmb-2022-581006",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-581006.html"
+   },
+   {
+    "id": "gmb-2022-561757",
+    "titel": "Aanvraag evenementenvergunning Rhôneweg 12 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2022-12-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rhôneweg 12 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-561757.html"
+   },
+   {
+    "id": "gmb-2022-552421",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 7",
+    "soort": "andere vergunning",
+    "datum": "2022-12-13",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-552421.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "stcrt-2022-23561",
+    "titel": "Waterstofnetwerk Noordzeekanaalgebied, Ministerie van Economische Zaken en Klimaat",
+    "soort": "overige overheidsinformatie",
+    "datum": "2022-09-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2022-23561.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B1103BPGST-VG02",
+   "naam": "Sloterdijk II",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-07-03",
+   "opp_m2": 439161,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 6,
+  "bekendmakingen": 39,
+  "plannen": 18,
+  "woo": 71
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 139,
+ "pand_adressen": [
+  "Rhôneweg 12"
+ ]
+}

@@ -1,0 +1,251 @@
+{
+ "id": "westweelde",
+ "naam": "WestWeelde",
+ "adres": "Klönneplein 4-6, 1014 DD Amsterdam",
+ "termen": [
+  "Klönneplein 4",
+  "Klönneplein 6",
+  "1014DD",
+  "1014 DD",
+  "WestWeelde",
+  "WesterUnie / WesterLiefde"
+ ],
+ "pand": "0363100012236238",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 4
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 19,
+  "gezocht": [
+   "Klönneplein 4",
+   "Klönneplein 6",
+   "Klönne plein 6",
+   "Klönne plein 8"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-224992",
+    "titel": "RECTIFICATIE: Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) diverse bomen in de openbare ruimte in Stadsdeel West verleend",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-22",
+    "onderwerp": "KAP - Het vellen van 95 houtopstanden in stadsdeel west (verschillende locaties) ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-224992.html",
+    "zaak": "Z2024-033153"
+   },
+   {
+    "id": "gmb-2025-203132",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) diverse bomen in de openbare ruimte in Stadsdeel West verleend",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-09",
+    "onderwerp": "KAP - Het vellen van 95 houtopstanden in stadsdeel west (verschillende locaties) ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-203132.html",
+    "zaak": "Z2024-033153"
+   },
+   {
+    "id": "gmb-2024-525576",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-13",
+    "onderwerp": "KAP - Het vellen van 95 houtopstanden in stadsdeel west (verschillende locaties) ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-525576.html",
+    "zaak": "Z2024-033153"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-224992",
+   "gmb-2025-203132",
+   "gmb-2024-525576"
+  ],
+  "zaaknummers": [
+   "Z2024-033153"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-488205",
+    "titel": "Melding toepassen grond en baggerspecie - Nabij Klönne plein 12 Amsterdam , 32 meter richting noordwesten",
+    "soort": "omgevingsmelding",
+    "datum": "2026-10-20",
+    "onderwerp": "Westerpark 1-3 Amsterdam 1 (Nabij Klönne plein 8, Amsterdam)",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-488205.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-244883",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf  - Klönne plein 6 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-06",
+    "onderwerp": ": exploitatievergunning horecabedrijf op adres Klönne plein 6 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-244883.html"
+   },
+   {
+    "id": "gmb-2024-153686",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Klönne plein 6 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Klönne plein 6 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-153686.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-253508",
+    "titel": "Besluit evenementenvergunning VerleendKlönne plein 6 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 6 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-253508.html"
+   },
+   {
+    "id": "gmb-2023-224409",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 6 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-05-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 6 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-224409.html"
+   },
+   {
+    "id": "gmb-2023-168220",
+    "titel": "Besluit evenementenvergunning Klönne plein 6 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-04-18",
+    "onderwerp": ": evenementenvergunning ter hoogte van adres Klönne plein 6 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-168220.html"
+   },
+   {
+    "id": "gmb-2023-110225",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein 4",
+    "soort": "andere vergunning",
+    "datum": "2023-03-14",
+    "onderwerp": "RVV Klönneplein 4-6, 11 mrt-12 mrt, Klönne plein 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-110225.html"
+   },
+   {
+    "id": "gmb-2022-517352",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Klönne plein 4",
+    "soort": "andere vergunning",
+    "datum": "2022-11-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Klönne plein 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-517352.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-431179",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Klönne plein 4",
+    "soort": "andere vergunning",
+    "datum": "2022-09-27",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Klönne plein 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-431179.html"
+   },
+   {
+    "id": "gmb-2022-305318",
+    "titel": "Besluit apv vergunning Verleend Klönne plein 4",
+    "soort": "andere vergunning",
+    "datum": "2022-07-06",
+    "onderwerp": "OBJECT/Klonneplein 4-6/7-7-2022 tm 14-7-2022, Klönne plein 4",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-305318.html"
+   },
+   {
+    "id": "gmb-2022-76154",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Klönne plein 6",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Klönne plein 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-76154.html"
+   },
+   {
+    "id": "gmb-2021-335165",
+    "titel": "Besluit evenementenvergunning Verleend Westerpark en Klönne plein 6",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Westerpark en Klönne plein 6",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-335165.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1209BPSTD-VG01",
+   "naam": "Westergasfabriek",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-01-28",
+   "opp_m2": 347587,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 1,
+ "pand_adressen": [
+  "Klönne plein 6",
+  "Klönne plein 8"
+ ]
+}

@@ -1,0 +1,591 @@
+{
+ "id": "club-raum",
+ "naam": "Club RAUM",
+ "adres": "Humberweg 3, 1043 AC Amsterdam",
+ "termen": [
+  "Humberweg 3",
+  "1043AC",
+  "1043 AC",
+  "Club RAUM"
+ ],
+ "pand": "0363100012134632",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 23,
+  "openbaar": 23,
+  "laatste": "2005-01-01",
+  "dossiers": [
+   {
+    "dossier": "SQ_17379",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2005-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17379"
+   },
+   {
+    "dossier": "SQ_17385",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17385"
+   },
+   {
+    "dossier": "SQ_17386",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17386"
+   },
+   {
+    "dossier": "SQ_17384",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17384"
+   },
+   {
+    "dossier": "SQ_17383",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17383"
+   },
+   {
+    "dossier": "SQ_17382",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17382"
+   },
+   {
+    "dossier": "SQ_17381",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 99,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17381"
+   },
+   {
+    "dossier": "SQ_17378",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17378"
+   },
+   {
+    "dossier": "SQ_17376",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17376"
+   },
+   {
+    "dossier": "XY_00598",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_00598"
+   },
+   {
+    "dossier": "SQ_17380",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 157,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17380"
+   },
+   {
+    "dossier": "SQ_17377",
+    "titel": "Humberweg 3 - 7; Rhôneweg 12 - 14",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 343,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_17377"
+   },
+   {
+    "dossier": "SQ_19689",
+    "titel": "Basisweg 35",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19689"
+   },
+   {
+    "dossier": "SQ_19688",
+    "titel": "Basisweg 35",
+    "datum": "1987-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 72,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19688"
+   },
+   {
+    "dossier": "SQ_19687",
+    "titel": "Basisweg 35",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19687"
+   },
+   {
+    "dossier": "SQ_19690",
+    "titel": "Basisweg 35",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19690"
+   },
+   {
+    "dossier": "SQ_19686",
+    "titel": "Basisweg 35",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19686"
+   },
+   {
+    "dossier": "SQ_19684",
+    "titel": "Basisweg 35",
+    "datum": "1969-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19684"
+   },
+   {
+    "dossier": "XY_01743",
+    "titel": "Basisweg 35",
+    "datum": "1969-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01743"
+   },
+   {
+    "dossier": "SQ_21876",
+    "titel": "Basisweg 35",
+    "datum": "1968-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_21876"
+   },
+   {
+    "dossier": "SQ_21871",
+    "titel": "Basisweg 35",
+    "datum": "1968-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_21871"
+   },
+   {
+    "dossier": "SQ_21873",
+    "titel": "Basisweg 35",
+    "datum": "1968-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_21873"
+   },
+   {
+    "dossier": "SQ_19685",
+    "titel": "Basisweg 35",
+    "datum": "1968-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SQ_19685"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 28,
+  "gezocht": [
+   "Humberweg 3",
+   "Basisweg 35"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-381388",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Basisweg 35 1043AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "aanpassen van de brandcompartimentering",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381388.html",
+    "zaak": "Z2024-023654"
+   },
+   {
+    "id": "gmb-2024-381074",
+    "titel": "Aanvraag omgevingsvergunning Basisweg 35 1043AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-05",
+    "onderwerp": "aanpassen van de brandcompartimentering",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381074.html",
+    "zaak": "Z2024-023654"
+   },
+   {
+    "id": "gmb-2024-212030",
+    "titel": "Aanvraag omgevingsvergunning Basisweg 35 1043AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-15",
+    "onderwerp": "OPPAKKEN - Club Raum",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-212030.html",
+    "zaak": "Z2024-010662"
+   },
+   {
+    "id": "prb-2023-9821",
+    "titel": "Kennisgeving beschikking Titan Clean Fuels (2019032)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-23",
+    "onderwerp": "GS hebben besloten vergunning te verlenen inzake wijzigen voorschriften voor bluswatervoorziening en gasdetectie en signalering. ",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-9821.html",
+    "zaak": "2019032"
+   },
+   {
+    "id": "prb-2023-7175",
+    "titel": "Kennisgeving ontwerpbeschikking Titan Clean Fuels (2019032)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-27",
+    "onderwerp": "GS hebben het voornemen vergunning te verlenen inzake inrichting bunkeren LNG aan schepen. ",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-7175.html",
+    "zaak": "2019032"
+   },
+   {
+    "id": "gmb-2023-79381",
+    "titel": "Rectificatie besluit omgevingsvergunning reguliere procedure Basisweg 35 1043AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-22",
+    "onderwerp": "handelen in strijd met het bestemmingsplan ten behoeve van het realiseren van een evenementenruimte",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-79381.html",
+    "zaak": "Z2022-NW002985"
+   },
+   {
+    "id": "gmb-2023-70376",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Basisweg 35 1043AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-16",
+    "onderwerp": "handelen in strijd met het bestemmingsplan t.b.v. het realiseren van een evenementenruimte, OLO 7114215",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-70376.html",
+    "zaak": "Z2022-NW002985"
+   },
+   {
+    "id": "gmb-2022-422008",
+    "titel": "Aanvraag omgevingsvergunning Basisweg 35 1043AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-21",
+    "onderwerp": "Afwijken van het bestemmingsplan voor het realiseren van een evenementenruimte, OLO 7114215",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-422008.html",
+    "zaak": "Z2022-NW002985"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-381388",
+   "gmb-2024-381074",
+   "gmb-2024-212030",
+   "gmb-2023-79381",
+   "gmb-2023-70376",
+   "gmb-2022-422008"
+  ],
+  "zaaknummers": [
+   "Z2022-NW002985",
+   "Z2024-010662",
+   "Z2024-023654"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-489769",
+    "titel": "Besluit apv vergunning Verleend - Humberweg ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Object,Humberweg 3 1043AC, 20261022, Humberweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489769.html"
+   },
+   {
+    "id": "gmb-2026-466830",
+    "titel": "Besluit apv vergunning Verleend - Humberweg ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "TVM parkeervak,Humberweg 3 1043AC, 20261012, Humberweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466830.html"
+   },
+   {
+    "id": "gmb-2026-248776",
+    "titel": "Besluit apv vergunning Verleend - Humberweg ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "Object,Humberweg 3 1043AC, 20260601, Humberweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-248776.html"
+   },
+   {
+    "id": "gmb-2026-241244",
+    "titel": "Besluit apv vergunning Verleend - Humberweg ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-05-22",
+    "onderwerp": "Filmen,Nachtwerk,Humberweg 3 1043AC, 20260528, Humberweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-241244.html"
+   },
+   {
+    "id": "gmb-2025-357470",
+    "titel": "Besluit apv vergunning Verleend - Humberweg ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-15",
+    "onderwerp": "Upload_Filmen,Nachtwerk,Humberweg 3 1043AC, 2025-08-19, Humberweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-357470.html"
+   },
+   {
+    "id": "gmb-2025-229756",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 3",
+    "soort": "andere vergunning",
+    "datum": "2025-05-27",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-229756.html"
+   },
+   {
+    "id": "gmb-2025-85423",
+    "titel": "Besluit apv vergunning Verleend - Humberweg ter hoogte van nummer: 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-02-28",
+    "onderwerp": "TVM parkeervak, Humberweg 3 1043AC, 20250306, Humberweg ter hoogte van nummer: 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-85423.html"
+   },
+   {
+    "id": "gmb-2025-64994",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 3",
+    "soort": "andere vergunning",
+    "datum": "2025-02-17",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-64994.html"
+   },
+   {
+    "id": "gmb-2024-447945",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Humberweg 3",
+    "soort": "andere vergunning",
+    "datum": "2024-10-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Humberweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-447945.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-332720",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Basisweg 35",
+    "soort": "andere vergunning",
+    "datum": "2024-07-30",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Basisweg 35",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-332720.html"
+   },
+   {
+    "id": "gmb-2024-270062",
+    "titel": "Amsterdam Nieuw-West, verkeersbesluit Humberweg, opheffen dubbelgebruik op twee parkeerplaatsen met venstertijden voor auto en fiets - bromfiets",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2024-06-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270062.html"
+   },
+   {
+    "id": "gmb-2024-161339",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Humberweg 3 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Humberweg 3 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-161339.html"
+   },
+   {
+    "id": "gmb-2024-149137",
+    "titel": "Besluit alcoholwetvergunning Verleend - Humberweg 3 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Humberweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-149137.html"
+   },
+   {
+    "id": "gmb-2023-503367",
+    "titel": "Amsterdam stadsdeel Nieuw-West, verkeersbesluit Basisweg 35 en Humberweg, dubbelgebruik parkeerplaatsen met venstertijden voor auto en fiets – bromfiets",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2023-11-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-503367.html"
+   },
+   {
+    "id": "gmb-2023-499660",
+    "titel": "Aanvraag alcoholwetvergunning Humberweg 3",
+    "soort": "andere vergunning",
+    "datum": "2023-11-23",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Humberweg 3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-499660.html"
+   },
+   {
+    "id": "gmb-2023-452538",
+    "titel": "Besluit evenementenvergunning GeweigerdHumberweg 3 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-24",
+    "onderwerp": "Geweigerd: evenementenvergunning ter hoogte van adres Humberweg 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-452538.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-402097",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Humberweg 3 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Humberweg 3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-402097.html"
+   },
+   {
+    "id": "stcrt-2015-28279",
+    "titel": "Verkeersbesluit Humberweg",
+    "soort": "Verkeersbesluiten",
+    "datum": "2015-09-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-28279.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B1103BPGST-VG02",
+   "naam": "Sloterdijk II",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-07-03",
+   "opp_m2": 439161,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 6,
+  "plannen": 8,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 19,
+ "pand_adressen": [
+  "Basisweg 35"
+ ]
+}

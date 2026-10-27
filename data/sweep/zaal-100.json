@@ -1,0 +1,286 @@
+{
+ "id": "zaal-100",
+ "naam": "Zaal 100",
+ "adres": "De Wittenstraat 100, 1052 BA Amsterdam",
+ "termen": [
+  "De Wittenstraat 100",
+  "1052BA",
+  "1052 BA",
+  "Zaal 100"
+ ],
+ "pand": "0363100012158161",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 4,
+  "openbaar": 4,
+  "laatste": "1992-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_42633",
+    "titel": "De Wittenstraat 98 - 100",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_42633"
+   },
+   {
+    "dossier": "SJ_36477",
+    "titel": "De Wittenstraat 98 - 100",
+    "datum": "1955-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_36477"
+   },
+   {
+    "dossier": "SJ_36475",
+    "titel": "De Wittenstraat 98 - 100",
+    "datum": "1921-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_36475"
+   },
+   {
+    "dossier": "SJ_36473",
+    "titel": "De Wittenstraat 100",
+    "datum": "1903-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_36473"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 11,
+  "gezocht": [
+   "De Wittenstraat 100",
+   "De Wittenstraat 100A",
+   "De Wittenstraat 100B",
+   "De Wittenstraat 100C",
+   "De Wittenstraat 100D",
+   "De Wittenstraat 100E",
+   "De Wittenstraat 100F",
+   "De Wittenstraat 100G",
+   "De Wittenstraat 100H",
+   "De Wittenstraat 100K",
+   "De Wittenstraat 100L",
+   "De Wittenstraat 100M",
+   "De Wittenstraat 100N"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-369356",
+    "titel": "Besluit apv vergunning Verleend - De Wittenstraat ter hoogte van nummer: 100 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-03",
+    "onderwerp": "TVM parkeervak,De Wittenstraat 100 A 1052BA, 14 augustus 2026, De Wittenstraat ter hoogte van nummer: 100",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-369356.html"
+   },
+   {
+    "id": "gmb-2026-117977",
+    "titel": "Amsterdam West, verkeersbesluit De Wittenstraat 100, aanleg twee elektrische oplaadvakken",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-03-13",
+    "onderwerp": "De Wittenstraat 100, aanleg twee elektrische oplaadvakken",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-117977.html"
+   },
+   {
+    "id": "gmb-2022-433901",
+    "titel": "Besluit apv vergunning Verleend De Wittenstraat 100A",
+    "soort": "andere vergunning",
+    "datum": "2022-09-29",
+    "onderwerp": "OBJ: De Wittenstraat 100, 03/10 - 14/10, 09.00 - 14.00 uur, De Wittenstraat 100A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-433901.html"
+   },
+   {
+    "id": "gmb-2022-320525",
+    "titel": "Besluit apv vergunning Verleend De Wittenstraat 100N",
+    "soort": "andere vergunning",
+    "datum": "2022-07-14",
+    "onderwerp": "OBJ, De Wittenstraat 100, 5-9-2022 t/m 30-9-2022, De Wittenstraat 100N",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-320525.html"
+   },
+   {
+    "id": "gmb-2022-295730",
+    "titel": "Verkeersbesluit De Wittenstraat 100 aanleg elektrische oplaadplaats in combinatie met bestaande autodeelplaats",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2022-07-01",
+    "onderwerp": "De Wittenstraat 100 aanleg elektrische oplaadplaats in combinatie met bestaande autodeelplaats",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-295730.html"
+   },
+   {
+    "id": "gmb-2022-182967",
+    "titel": "Besluit apv vergunning Verleend De Wittenstraat 100H",
+    "soort": "andere vergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Objecten-De Wittenstraat 100 -102 2 mei t/m 15 juli 2022, De Wittenstraat 100H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-182967.html"
+   },
+   {
+    "id": "gmb-2022-69046",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend De Wittenstraat 100A",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-17",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres De Wittenstraat 100A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-69046.html"
+   },
+   {
+    "id": "gmb-2022-49292",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf De Wittenstraat 100A",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-07",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres De Wittenstraat 100A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-49292.html"
+   },
+   {
+    "id": "gmb-2021-252503",
+    "titel": "Besluit aanleg belanghebbenden parkeerplaats Verleend De Wittenstraat 100H",
+    "soort": "andere vergunning",
+    "datum": "2021-07-29",
+    "onderwerp": "Het aanleggen van een Parkeerplaats verloskundigen ter hoogte van adres De Wittenstraat 100H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-252503.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG02",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-04-05",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG03",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-10-08",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG04",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-10-08",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 2,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\b12acf6528734320.pdf",
+   "pagina": 42,
+   "paginas": 172,
+   "score": 7.5,
+   "tekening": false,
+   "vectoren": 55,
+   "beelddekking": 0.01,
+   "woorden": [
+    "begane grond"
+   ],
+   "tekst": "T Bijlage II wordt op de aangegeven wijze gewijzigd: Bijlage II Overzicht Informatieobjecten A-locatie (parkeernormering) /join/id/regda- ta/gm0363/2024/5fea7f74c2e04297b605d0dce41e8b63/nld@2024- 09-25;12591980 aantal autoparkeerplaatsen /join/id/regda- ta/gm0363/2025/eb8df99e55ec4491aa8cc05e0aed6ab",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "png": "data/sources/zaal-100/sweep/b12acf6528734320-p42.png"
+  }
+ ],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "De Wittenstraat 100A",
+  "De Wittenstraat 100B",
+  "De Wittenstraat 100C",
+  "De Wittenstraat 100D",
+  "De Wittenstraat 100E",
+  "De Wittenstraat 100F",
+  "De Wittenstraat 100G",
+  "De Wittenstraat 100H",
+  "De Wittenstraat 100K",
+  "De Wittenstraat 100L",
+  "De Wittenstraat 100M",
+  "De Wittenstraat 100N"
+ ]
+}

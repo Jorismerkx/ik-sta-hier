@@ -1,0 +1,1663 @@
+{
+ "id": "club-john-doe",
+ "naam": "Club John Doe",
+ "adres": "Rembrandtplein 31, 1017 CT Amsterdam",
+ "termen": [
+  "Rembrandtplein 31",
+  "1017CT",
+  "1017 CT",
+  "Club John Doe"
+ ],
+ "pand": "0363100012171133",
+ "status": "open",
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 79,
+  "openbaar": 42,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_101223",
+    "titel": "Bakkersstraat 1 - 17",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101223"
+   },
+   {
+    "dossier": "SA_73854",
+    "titel": "Rembrandtplein 45",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73854"
+   },
+   {
+    "dossier": "SA_73861",
+    "titel": "Rembrandtplein 45",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73861"
+   },
+   {
+    "dossier": "SA_59460",
+    "titel": "Rembrandtplein 45",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59460"
+   },
+   {
+    "dossier": "SA_59456",
+    "titel": "Rembrandtplein 45",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59456"
+   },
+   {
+    "dossier": "SA_73848",
+    "titel": "Rembrandtplein 37 - 39",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73848"
+   },
+   {
+    "dossier": "SA_65464",
+    "titel": "Amstelstraat 5",
+    "datum": "2007-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65464"
+   },
+   {
+    "dossier": "SA_112063",
+    "titel": "Bakkersstraat 13 A - 13 B",
+    "datum": "2007-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_112063"
+   },
+   {
+    "dossier": "SA_65462",
+    "titel": "Amstelstraat 5",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65462"
+   },
+   {
+    "dossier": "SA_65460",
+    "titel": "Amstelstraat 5",
+    "datum": "2007-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65460"
+   },
+   {
+    "dossier": "SA_99574",
+    "titel": "Amstelstraat 5 - 7; Bakkersstraat 23; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_99574"
+   },
+   {
+    "dossier": "SA_73841",
+    "titel": "Bakkersstraat 15 - 17",
+    "datum": "2006-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73841"
+   },
+   {
+    "dossier": "SA_08181",
+    "titel": "Rembrandtplein 45",
+    "datum": "2005-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08181"
+   },
+   {
+    "dossier": "SA_73839",
+    "titel": "Bakkersstraat 23; Rembrandtplein 27 - 29",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73839"
+   },
+   {
+    "dossier": "SA_99575",
+    "titel": "Rembrandtplein 33 - 43",
+    "datum": "2005-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_99575"
+   },
+   {
+    "dossier": "SA_62654",
+    "titel": "Amstelstraat 5 - 7; Bakkersstraat 23; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62654"
+   },
+   {
+    "dossier": "SA_67696",
+    "titel": "Rembrandtplein 37 - 39",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67696"
+   },
+   {
+    "dossier": "SA_75877",
+    "titel": "Amstelstraat 7",
+    "datum": "2004-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_75877"
+   },
+   {
+    "dossier": "SA_73817",
+    "titel": "Bakkersstraat 23; Rembrandtplein 27 - 29",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73817"
+   },
+   {
+    "dossier": "SA_73785",
+    "titel": "Rembrandtplein 27 - 29",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73785"
+   },
+   {
+    "dossier": "SA_73746",
+    "titel": "Bakkersstraat 1",
+    "datum": "1999-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73746"
+   },
+   {
+    "dossier": "SA_73771",
+    "titel": "Bakkersstraat 1",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73771"
+   },
+   {
+    "dossier": "SA_75875",
+    "titel": "Amstelstraat 7",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_75875"
+   },
+   {
+    "dossier": "SA_59446",
+    "titel": "Rembrandtplein 45",
+    "datum": "1995-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59446"
+   },
+   {
+    "dossier": "SA_59438",
+    "titel": "Rembrandtplein 45",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59438"
+   },
+   {
+    "dossier": "SA_85601",
+    "titel": "Rembrandtplein 27 - 31",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85601"
+   },
+   {
+    "dossier": "SA_65121",
+    "titel": "Rembrandtplein 27 - 31",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65121"
+   },
+   {
+    "dossier": "SA_59421",
+    "titel": "Rembrandtplein 45",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59421"
+   },
+   {
+    "dossier": "SA_59403",
+    "titel": "Rembrandtplein 45",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59403"
+   },
+   {
+    "dossier": "SA_65459",
+    "titel": "Amstelstraat 5",
+    "datum": "1990-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65459"
+   },
+   {
+    "dossier": "SA_65098",
+    "titel": "Rembrandtplein 27 - 31",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65098"
+   },
+   {
+    "dossier": "SA_85605",
+    "titel": "Bakkersstraat 17",
+    "datum": "1989-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85605"
+   },
+   {
+    "dossier": "SA_65137",
+    "titel": "Rembrandtplein 27 - 29",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65137"
+   },
+   {
+    "dossier": "SA_86211",
+    "titel": "Rembrandtplein 29",
+    "datum": "1988-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86211"
+   },
+   {
+    "dossier": "SA_65457",
+    "titel": "Amstelstraat 5",
+    "datum": "1987-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65457"
+   },
+   {
+    "dossier": "SA_65453",
+    "titel": "Amstelstraat 5",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65453"
+   },
+   {
+    "dossier": "SA_65456",
+    "titel": "Amstelstraat 5",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65456"
+   },
+   {
+    "dossier": "SA_73745",
+    "titel": "Rembrandtplein 33 - 43",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73745"
+   },
+   {
+    "dossier": "SA_65449",
+    "titel": "Amstelstraat 5 - 7",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65449"
+   },
+   {
+    "dossier": "SA_64996",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1985-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_64996"
+   },
+   {
+    "dossier": "SA_85603",
+    "titel": "Bakkersstraat 13 - 17",
+    "datum": "1985-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85603"
+   },
+   {
+    "dossier": "SA_75848",
+    "titel": "Amstelstraat 7",
+    "datum": "1985-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_75848"
+   },
+   {
+    "dossier": "SA_85595",
+    "titel": "Rembrandtplein 31",
+    "datum": "1985-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85595"
+   },
+   {
+    "dossier": "SA_85604",
+    "titel": "Bakkersstraat 17",
+    "datum": "1985-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_85604"
+   },
+   {
+    "dossier": "SA_65452",
+    "titel": "Amstelstraat 5 - 7",
+    "datum": "1985-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_65452"
+   },
+   {
+    "dossier": "SA_59396",
+    "titel": "Rembrandtplein 45",
+    "datum": "1985-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_59396"
+   },
+   {
+    "dossier": "SA_73738",
+    "titel": "Paardenstraat 70; Rembrandtplein 29 - 45",
+    "datum": "1985-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73738"
+   },
+   {
+    "dossier": "SA_73685",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1984-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73685"
+   },
+   {
+    "dossier": "SA_73680",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1984-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73680"
+   },
+   {
+    "dossier": "SA_73679",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1984-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73679"
+   },
+   {
+    "dossier": "SA_73678",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1984-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73678"
+   },
+   {
+    "dossier": "SA_73531",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1984-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73531"
+   },
+   {
+    "dossier": "SA_73651",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73651"
+   },
+   {
+    "dossier": "SA_73653",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73653"
+   },
+   {
+    "dossier": "SA_73641",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 104,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73641"
+   },
+   {
+    "dossier": "SA_73615",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 128,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73615"
+   },
+   {
+    "dossier": "SA_73620",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73620"
+   },
+   {
+    "dossier": "SA_73611",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73611"
+   },
+   {
+    "dossier": "SA_73606",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 310,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73606"
+   },
+   {
+    "dossier": "SA_73610",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73610"
+   },
+   {
+    "dossier": "SA_73604",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 142,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73604"
+   },
+   {
+    "dossier": "SA_73599",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 213,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73599"
+   },
+   {
+    "dossier": "SA_73598",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73598"
+   },
+   {
+    "dossier": "SA_73579",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 144,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73579"
+   },
+   {
+    "dossier": "SA_73578",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 642,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73578"
+   },
+   {
+    "dossier": "SA_73574",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73574"
+   },
+   {
+    "dossier": "SA_73572",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73572"
+   },
+   {
+    "dossier": "SA_73666",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1983-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73666"
+   },
+   {
+    "dossier": "SA_73569",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1982-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73569"
+   },
+   {
+    "dossier": "SA_73538",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1982-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 241,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73538"
+   },
+   {
+    "dossier": "SA_73565",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1982-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73565"
+   },
+   {
+    "dossier": "SA_73537",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1982-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73537"
+   },
+   {
+    "dossier": "SA_73533",
+    "titel": "Amstel 116 A - 116 E; Amstel 118 A - 118 D; Amstel 120 A - 124 E; Amstel 126 A - 130 D; Amstelstraat 5 - 7; Bakkersstraat 1 - 13; Bakkersstraat 23; Paardenstraat 4 - 64; Paardenstraat 70; Rembrandtplein 27 - 45",
+    "datum": "1982-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 201,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73533"
+   },
+   {
+    "dossier": "SA_73742",
+    "titel": "Paardenstraat 70; Rembrandtplein 29 - 45",
+    "datum": "1982-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_73742"
+   },
+   {
+    "dossier": "SA_112801",
+    "titel": "Amstel 118; Amstel 122 - 124; Amstel 128 - 130; Bakkersstraat 1; Engelsesteeg 1; Paardenstraat 4; Rembrandtplein 41 - 43",
+    "datum": "1974-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_112801"
+   },
+   {
+    "dossier": "SA_109645",
+    "titel": "Rembrandtplein 43",
+    "datum": "1969-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109645"
+   },
+   {
+    "dossier": "SA_101221",
+    "titel": "Rembrandtplein 35",
+    "datum": "1968-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101221"
+   },
+   {
+    "dossier": "SA_101222",
+    "titel": "Rembrandtplein 35",
+    "datum": "1968-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_101222"
+   },
+   {
+    "dossier": "SA_112768",
+    "titel": "Amstel 120 - 122; Amstel 126; Rembrandtplein 41 - 43",
+    "datum": "1954-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_112768"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 82,
+  "gezocht": [
+   "Rembrandtplein 31",
+   "Amstelstraat 5",
+   "Amstelstraat 7",
+   "Bakkersstraat 1",
+   "Bakkersstraat 11",
+   "Bakkersstraat 13A",
+   "Bakkersstraat 13B",
+   "Bakkersstraat 15",
+   "Bakkersstraat 17",
+   "Bakkersstraat 3",
+   "Bakkersstraat 5",
+   "Bakkersstraat 7",
+   "Bakkersstraat 9"
+  ],
+  "vergunningen": [
+   {
+    "id": "prb-2026-12517",
+    "titel": "Provincie Noord-Brabant – besluit aanvraag omgevingsvergunning - Stichting Woonpartners, Admiraal de Ruyterplein 1 t/m 16, Piet Heinstraat 27 t/m 57 (oneven) en van Amstelstraat 5 & 7 te Helmond",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-22",
+    "onderwerp": "",
+    "activiteit": "natuur",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-12517.html",
+    "zaak": "Z/273319"
+   },
+   {
+    "id": "gmb-2026-301858",
+    "titel": "Verleende omgevingsvergunning Van Amstelstraat 7 Afferden",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-25",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-301858.html"
+   },
+   {
+    "id": "gmb-2026-188351",
+    "titel": "het uitbreiden van de woning Van Amstelstraat 7, Afferden",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-21",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-188351.html"
+   },
+   {
+    "id": "gmb-2026-94330",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 31 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-02",
+    "onderwerp": "plaatsen van een antennemast ten behoeve van mobiele telecommunicatie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-94330.html",
+    "zaak": "Z2026-004693"
+   },
+   {
+    "id": "gmb-2024-392352",
+    "titel": "Kennisgeving melding sloopwerkzaamheden, het verwijderen van asbest locatie Amstelstraat 1 t'm 96 te Groningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-16",
+    "onderwerp": "",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-392352.html",
+    "zaak": "GRN-00006101"
+   },
+   {
+    "id": "gmb-2024-256839",
+    "titel": "Besluit op aanvraag omgevingsvergunning: plaatsen van een aanbouw t.p.v. de achtergevel, Rembrandtplein 31 5613HD Eindhoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-13",
+    "onderwerp": "plaatsen van een aanbouw t.p.v. de achtergevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-256839.html",
+    "zaak": "EHV-ZP2023-006067"
+   },
+   {
+    "id": "gmb-2024-189413",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 29 1017CT Amsterdam, Rembrandtplein 29-45, Amstelstraat 5-7, Paardenstraat 8-70 Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-30",
+    "onderwerp": "renoveren van het kantoorgebouw met een gewijzigde entree en videtrap",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-189413.html"
+   },
+   {
+    "id": "gmb-2024-67628",
+    "titel": "Verlenging termijn omgevingsvergunning: EHV-ZP2023-006067, Rembrandtplein 31 5613HD Eindhoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-13",
+    "onderwerp": "plaatsen van een aanbouw t.p.v. de achtergevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-67628.html",
+    "zaak": "EHV-ZP2023-006067"
+   },
+   {
+    "id": "gmb-2024-27787",
+    "titel": "verlenen omgevingsvergunning, Bakkersstraat 5, 4431BH 's-Gravenpolder",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-16",
+    "onderwerp": "",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-27787.html",
+    "zaak": "Rx.Mission zaak Z2023-0888"
+   },
+   {
+    "id": "gmb-2024-8428",
+    "titel": "Ingediende aanvraag omgevingsvergunning: plaatsen van een aanbouw t.p.v. de achtergevel, Rembrandtplein 31 5613HD Eindhoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-04",
+    "onderwerp": "plaatsen van een aanbouw t.p.v. de achtergevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-8428.html",
+    "zaak": "EHV-ZP2023-006067"
+   },
+   {
+    "id": "gmb-2024-4244",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 29-45 1017CT Amsterdam, Amstelstraat 5-7, Paardenstraat 8-70 Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-02",
+    "onderwerp": "renoveren van het kantoorgebouw met nieuwe entree en trap in vide",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-4244.html",
+    "zaak": "Z2023-C011619"
+   },
+   {
+    "id": "gmb-2023-563273",
+    "titel": "Aanvraag omgevingsvergunning, Bakkersstraat 5, 4431BH 's-Gravenpolder",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-28",
+    "onderwerp": "",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-563273.html",
+    "zaak": "Rx.Mission zaak Z2023-0888"
+   },
+   {
+    "id": "gmb-2023-529820",
+    "titel": "Toestemming voor het renoveren en verduurzamen van de gevels aan Lauwersstraat en Amstelstraat te Groningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-12",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-529820.html",
+    "zaak": "202376527"
+   },
+   {
+    "id": "gmb-2023-442129",
+    "titel": "Aanvraag vergunning voor het verduurzamen door middel van het plaatsen van kunststof kozijnen aan Lauwersstraat 1 t/m 96 (e+o) en Amstelstraat 5 t/m 63 (o), 2 t/m 96 (e) te Groningen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-442129.html",
+    "zaak": "202376527"
+   },
+   {
+    "id": "gmb-2023-385473",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstelstraat 7 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-06",
+    "onderwerp": "plaatsen van nieuwe reclame-uitingen op de voorgevel en een uithangbord op de zijgevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-385473.html",
+    "zaak": "Z2023-C006172"
+   },
+   {
+    "id": "gmb-2023-341209",
+    "titel": "Aanvraag omgevingsvergunning Amstelstraat 7 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-02",
+    "onderwerp": "plaatsen van nieuwe reclame-uitingen op de voorgevel en een uithangbord op de zijgevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-341209.html",
+    "zaak": "Z2023-C006172"
+   },
+   {
+    "id": "gmb-2023-65593",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstelstraat 5 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-15",
+    "onderwerp": "aanbrengen van (verlichte) reclame aan de voorgevel van het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-65593.html",
+    "zaak": "Z2022-C009389"
+   },
+   {
+    "id": "gmb-2023-63989",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Amstelstraat 5 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "aanbrengen van (verlichte) reclame aan de voorgevel van het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-63989.html",
+    "zaak": "Z2022-C009389"
+   },
+   {
+    "id": "gmb-2023-5957",
+    "titel": "Verleende omgevingsvergunning plaatsen erker, Jan van Amstelstraat 7, Kesteren (22-12-2022)",
+    "soort": "andere vergunning",
+    "datum": "2023-01-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-5957.html"
+   },
+   {
+    "id": "gmb-2022-517822",
+    "titel": "Aanvraag omgevingsvergunning Amstelstraat 5 1017DA Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-22",
+    "onderwerp": "aanbrengen van (verlichte) reclame aan de voorgevel van het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-517822.html",
+    "zaak": "Z2022-C009389"
+   },
+   {
+    "id": "gmb-2022-499767",
+    "titel": "Aangevraagde omgevingsvergunning plaatsen erker, Jan van Amstelstraat 7, Kesteren (28-10-2022)",
+    "soort": "andere vergunning",
+    "datum": "2022-11-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-499767.html"
+   },
+   {
+    "id": "gmb-2021-377643",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Eemkwartier/Isselt - weigering omgevingsvergunning - kappen van 1 eik - Amstelstraat 7, Amersfoort",
+    "soort": "andere vergunning",
+    "datum": "2021-10-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-377643.html",
+    "zaak": "1031746"
+   },
+   {
+    "id": "gmb-2021-326012",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Isselt - aanvraag omgevingsvergunning - kappen van 1 eik - Amstelstraat 7, Amersfoort",
+    "soort": "andere vergunning",
+    "datum": "2021-09-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-326012.html",
+    "zaak": "1031746"
+   },
+   {
+    "id": "gmb-2020-257402",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Isselt - verlenging beslistermijn omgevingsvergunning - plaatsen van een blokhut op het zij-erf van de woning - Amstelstraat 7, Amersfoort",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-257402.html",
+    "zaak": "1026183"
+   },
+   {
+    "id": "gmb-2020-249749",
+    "titel": "Omgevingsvergunning - Aanvraag vergunningsvrij, Bakkersstraat 3 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-09-29",
+    "onderwerp": "Het veranderen van het atelier Bakkersstraat 3 tot woning en werkruimte. Deze bekendmaking bevat de activiteit(en): ontheffing kruimel.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-249749.html",
+    "zaak": "202014858/7732664"
+   },
+   {
+    "id": "gmb-2020-228120",
+    "titel": "Omgevingsvergunning - Aangevraagd, Bakkersstraat 3 te Den Haag",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-07",
+    "onderwerp": "Het veranderen van het pand Bakkersstraat 3 tot woning en werkruimte",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-228120.html",
+    "zaak": "202014858/7713671"
+   },
+   {
+    "id": "gmb-2020-193799",
+    "titel": "Gemeente Amersfoort, Soesterkwartier/Isselt - aanvraag omgevingsvergunning - plaatsen van een blokhut op het zij-erf - Amstelstraat 7, Amersfoort",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-193799.html",
+    "zaak": "1026183"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "gmb-2018-211067",
+    "titel": "Amersfoort, Soesterkwartier/Isselt, Omgevingsvergunning, Geweigerde vergunning (reguliere procedure), Amstelstraat 7, het kappen van 1 eik, 18-09-2018. Rechtsmiddel: Bezwaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-10-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-211067.html",
+    "zaak": "1017174"
+   },
+   {
+    "id": "gmb-2018-179921",
+    "titel": "Sloopmelding: Amstelstraat 7, 9725 KT Groningen – verwijderen asbest materialen (ontvangstdatum 09-08-2018, dossiernummer 201872985)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-08-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-179921.html"
+   },
+   {
+    "id": "gmb-2018-172882",
+    "titel": "Amersfoort, Soesterkwartier/Isselt, Omgevingsvergunning, Ontvangen aanvragen, Amstelstraat 7, het kappen van 1 eik, Rechtsmiddel: Geen. Ter informatie.",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-08-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-172882.html",
+    "zaak": "1017174"
+   },
+   {
+    "id": "gmb-2018-78648",
+    "titel": "Apv vergunning - Besluiten, Bakkersstraat 1 - Bakkersstraat, Breedstraat, Snoekstraat, Kalkoenstraat, Pastoorswarande/Geest, P. van den Zandestraat, OUde Boomgaardstraat, Gedempte Sloot en Noordstraat te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-04-16",
+    "onderwerp": "Rioolwerkzaamhedenhet in combinatie met het aanleggen van elementenverharding aan de Bakkersstraat, Breedstraat, Snoekstraat, Kalkoenstraat, Pastoorwarande/Geest, Pieter van den Zandestraat, Oude Boomgaardstraat, Gedempte Sloot en de Noordstraat in de periode van 3 september 2018 to...",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-78648.html",
+    "zaak": "00202IBA18/6702177"
+   },
+   {
+    "id": "gmb-2018-57061",
+    "titel": "Aanvraag omgevingsvergunning, slopen schoorsteen Bakkersstraat 7 te Bierum",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-03-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-57061.html"
+   },
+   {
+    "id": "gmb-2018-53306",
+    "titel": "Gemeente Midden-Delfland - Verleende omgevingsvergunning - Het vergroten van een woning met een dakopbouw aan de Bakkersstraat 1, 2636 CL Schipluiden",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-03-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-53306.html"
+   },
+   {
+    "id": "gmb-2017-227588",
+    "titel": "Gemeente Midden-Delfland - Aangevraagde omgevingsvergunning - Het vergroten van een woning met een dakopbouw en het uitbreiden van de begane grond aan de Bakkersstraat 1, 2636 CL Schipluiden",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-12-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-227588.html"
+   },
+   {
+    "id": "gmb-2016-148299",
+    "titel": "Sloopmelding: Amstelstraat 5, 9725 KT, Groningen – verwijderen asbest (22-09-2016, 201672466)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-10-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-148299.html"
+   },
+   {
+    "id": "gmb-2016-19752",
+    "titel": "Algemene Plaatselijke Verordening - Vergunningsaanvraag tot het innemen van een standplaats voor verkoop van levensmiddelen – parkeerplaats bij Amstelstraat 5",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-02-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-19752.html"
+   },
+   {
+    "id": "gmb-2014-11666",
+    "titel": "Verleende omgevingsvergunning, brandveilig gebruik, Amstelstraat 5, Alkmaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2014-03-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-11666.html"
+   },
+   {
+    "id": "gmb-2014-11673",
+    "titel": "Aanvraag omgevingsvergunning, brandveilig gebruik, Amstelstraat 5, Alkmaar ",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2014-03-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-11673.html"
+   },
+   {
+    "id": "gmb-2014-9815",
+    "titel": "Verleende omgevingsvergunning, tijdelijke antikraak (bewoning/bewaking) en/of ateliers in nieuw schoolgebouw (voor de periode van 6-12-2013 t/m 30-1-2014), Amstelstraat 5, Alkmaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2014-02-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-9815.html"
+   },
+   {
+    "id": "gmb-2014-8384",
+    "titel": "Ontwerpbesluit, geen zienswijzen naar voren gebracht, tijdelijke bewoning, Amstelstraat 5, Alkmaar",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2014-02-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-8384.html"
+   }
+  ],
+  "met_tekeningen": [
+   "prb-2026-12517",
+   "gmb-2026-94330",
+   "gmb-2024-256839",
+   "gmb-2024-189413",
+   "gmb-2024-8428",
+   "gmb-2024-4244",
+   "gmb-2023-563273",
+   "gmb-2023-442129",
+   "gmb-2023-385473",
+   "gmb-2023-341209",
+   "gmb-2023-65593",
+   "gmb-2022-517822",
+   "gmb-2021-326012",
+   "gmb-2020-249749",
+   "gmb-2020-193799",
+   "gmb-2018-57061",
+   "gmb-2014-11673"
+  ],
+  "zaaknummers": [
+   "1026183",
+   "1031746",
+   "202014858/7732664",
+   "202376527",
+   "EHV-ZP2023-006067",
+   "Rx.Mission zaak Z2023-0888",
+   "Z/273319",
+   "Z2022-C009389",
+   "Z2023-C006172",
+   "Z2023-C011619",
+   "Z2026-004693"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-353266",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Amstelstraat 7 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-353266.html"
+   },
+   {
+    "id": "gmb-2026-255641",
+    "titel": "Besluit voor Plaatsen bouwobjecten Amstelstraat 7 t/m 16 vanaf 01-06-2026 t/m 10-07-2026",
+    "soort": "andere vergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "Betreft:  Besluit op locatie Amstelstraat 7 t/m 16 Nijmegen ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-255641.html"
+   },
+   {
+    "id": "gmb-2026-183774",
+    "titel": "Aanvraag bouwobjectenvergunning voor Plaatsen bouwobjecten Amstelstraat 7 t/m 16 vanaf 01-06-2026 t/m 10-07-2026",
+    "soort": "andere vergunning",
+    "datum": "2026-04-17",
+    "onderwerp": "Betreft: Aanvraag op locatie Amstelstraat 7 t/m 16 Nijmegen ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-183774.html"
+   },
+   {
+    "id": "gmb-2026-141020",
+    "titel": "Aanvraag alchoholontheffing Amstelstraat 5 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-26",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Amstelstraat 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-141020.html"
+   },
+   {
+    "id": "gmb-2026-141207",
+    "titel": "Besluit alcoholontheffing Verleend ter hoogte van Amstelstraat 5 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-26",
+    "onderwerp": "Verleend: alcoholontheffing ter hoogte van adres Amstelstraat 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-141207.html"
+   },
+   {
+    "id": "gmb-2026-130265",
+    "titel": "Melding sloopmelding tbv renovatie en verduurzaming woningen, aan Amstelstraat 7, 8, 9, 10, 11, 12, 14, 16,18, Nijmegen",
+    "soort": "omgevingsmelding",
+    "datum": "2026-03-19",
+    "onderwerp": "Betreft: Melding op locatie Amstelstraat 7, 8, 9, 10, 11, 12, 14, 16,18, Nijmegen",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-130265.html"
+   },
+   {
+    "id": "gmb-2026-128049",
+    "titel": "Melding voor het renoveren en verduurzamen van woningen (Advies) op de locatie Amstelstraat 7,9,11 en 8,10,12,14,16,18 te Nijmegen zaaknummer Z26MA.0515",
+    "soort": "omgevingsmelding",
+    "datum": "2026-03-19",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-128049.html"
+   },
+   {
+    "id": "gmb-2026-26791",
+    "titel": "Aanvraag alchoholontheffing Amstelstraat 5 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-01-22",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Amstelstraat 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-26791.html"
+   },
+   {
+    "id": "gmb-2025-520854",
+    "titel": "Meldingen - Melding sloop, Amstelstraat 7, 2515 XM 's-Gravenhage",
+    "soort": "omgevingsmelding",
+    "datum": "2025-12-01",
+    "onderwerp": "het verwijderen van asbesthoudende materialen uit het pand Amstelstraat 7",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-520854.html"
+   },
+   {
+    "id": "gmb-2025-195103",
+    "titel": "Besluit alcoholwetvergunning Verleend - Amstelstraat 5 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-05-06",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Amstelstraat 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-195103.html"
+   },
+   {
+    "id": "gmb-2025-195126",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Amstelstraat 5 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-05-06",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-195126.html"
+   },
+   {
+    "id": "gmb-2025-139184",
+    "titel": "Besluit evenementenvergunning Verleend - Amstelstraat 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-01",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Amstelstraat 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-139184.html"
+   },
+   {
+    "id": "gmb-2025-96760",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Amstelstraat 5 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-03-07",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 5 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-96760.html"
+   },
+   {
+    "id": "gmb-2025-96782",
+    "titel": "Aanvraag alcoholwetvergunning Amstelstraat 5",
+    "soort": "andere vergunning",
+    "datum": "2025-03-07",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Amstelstraat 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-96782.html"
+   },
+   {
+    "id": "gmb-2025-15151",
+    "titel": "Aanvraag evenementenvergunning Amstelstraat 7 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Amstelstraat 7 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-15151.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-41974",
+    "titel": "Aanvraag alchoholontheffing Rembrandtplein 31 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-26",
+    "onderwerp": "Aanvraag voor een alcoholontheffing ter hoogte van adres Rembrandtplein 31 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-41974.html"
+   },
+   {
+    "id": "gmb-2023-503760",
+    "titel": "Besluit alcoholwetvergunning Verleend - Amstelstraat 7 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-11-27",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Amstelstraat 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-503760.html"
+   },
+   {
+    "id": "gmb-2023-503765",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Amstelstraat 7 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 7 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-503765.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-414163",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Amstelstraat 7 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 7 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-414163.html"
+   },
+   {
+    "id": "gmb-2023-414173",
+    "titel": "Aanvraag alcoholwetvergunning Amstelstraat 7",
+    "soort": "andere vergunning",
+    "datum": "2023-09-28",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Amstelstraat 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-414173.html"
+   },
+   {
+    "id": "gmb-2023-150368",
+    "titel": "Besluit apv vergunning Verleend - Bakkersstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2023-04-06",
+    "onderwerp": "Fietsen en fietsenrekken verwijderen - Bakkersstraat 1- 24-04, Bakkersstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-150368.html"
+   },
+   {
+    "id": "gmb-2023-45193",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Amstelstraat 5 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelstraat 5 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-45193.html"
+   },
+   {
+    "id": "gmb-2023-19561",
+    "titel": "Besluit apv vergunning Verleend Nieuwe Amstelstraat 7",
+    "soort": "andere vergunning",
+    "datum": "2023-01-17",
+    "onderwerp": "objecten/6 vakken, Nieuwe Amstelstraat 7, 18-01-2023, Nieuwe Amstelstraat 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-19561.html"
+   },
+   {
+    "id": "gmb-2022-561804",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Amstelstraat 5 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-12-20",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Amstelstraat 5 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-561804.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-448786",
+    "titel": "Besluit apv vergunning Verleend A.S. Onderwijzerhof 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-10",
+    "onderwerp": "OBV/TVM 6 parkeervakken Nieuwe Amstelstraat 7 t/m 55 van 14-10 tot 31-12-2022, A.S. Onderwijzerhof 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-448786.html"
+   },
+   {
+    "id": "gmb-2022-433930",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Rembrandtplein 31",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-29",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 31",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-433930.html"
+   },
+   {
+    "id": "gmb-2022-303210",
+    "titel": "Besluit apv vergunning Verleend Amstelstraat 5",
+    "soort": "andere vergunning",
+    "datum": "2022-07-05",
+    "onderwerp": "OBV Amstelstraat 5 van 13-7 tot 15-7-2022, Amstelstraat 5",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-303210.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 5,
+  "plannen": 0,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 8,
+ "pand_adressen": [
+  "Amstelstraat 5",
+  "Amstelstraat 7",
+  "Bakkersstraat 1",
+  "Bakkersstraat 11",
+  "Bakkersstraat 13A",
+  "Bakkersstraat 13B",
+  "Bakkersstraat 15",
+  "Bakkersstraat 17",
+  "Bakkersstraat 3",
+  "Bakkersstraat 5",
+  "Bakkersstraat 7",
+  "Bakkersstraat 9"
+ ]
+}

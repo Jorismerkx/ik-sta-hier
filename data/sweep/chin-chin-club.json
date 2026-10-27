@@ -1,0 +1,614 @@
+{
+ "id": "chin-chin-club",
+ "naam": "Chin Chin Club",
+ "adres": "Rozengracht 133, 1016 LV Amsterdam",
+ "termen": [
+  "Rozengracht 133",
+  "1016LV",
+  "1016 LV",
+  "Chin Chin Club"
+ ],
+ "pand": "0363100012175002",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 23,
+  "openbaar": 23,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_93697",
+    "titel": "Rozengracht 133",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93697"
+   },
+   {
+    "dossier": "SA_93696",
+    "titel": "Rozengracht 133",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93696"
+   },
+   {
+    "dossier": "SA_93695",
+    "titel": "Rozengracht 133 A - 133 B",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93695"
+   },
+   {
+    "dossier": "SA_93694",
+    "titel": "Rozenstraat 144 3",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93694"
+   },
+   {
+    "dossier": "SA_93541",
+    "titel": "Rozengracht 133",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93541"
+   },
+   {
+    "dossier": "SA_93542",
+    "titel": "Rozengracht 133",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93542"
+   },
+   {
+    "dossier": "SA_93530",
+    "titel": "Rozengracht 133",
+    "datum": "2005-01-01",
+    "soort": "antenne-installatie/sirene",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93530"
+   },
+   {
+    "dossier": "SA_93535",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "2001-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93535"
+   },
+   {
+    "dossier": "SA_93532",
+    "titel": "Rozengracht 133",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93532"
+   },
+   {
+    "dossier": "SA_11198",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11198"
+   },
+   {
+    "dossier": "SA_11203",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11203"
+   },
+   {
+    "dossier": "SA_11214",
+    "titel": "Rozenstraat 144 1v - 144 3v; Rozenstraat 144 1a - 144 3a",
+    "datum": "1997-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11214"
+   },
+   {
+    "dossier": "SA_11213",
+    "titel": "Rozengracht 133",
+    "datum": "1980-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11213"
+   },
+   {
+    "dossier": "SA_10820",
+    "titel": "Rozengracht 133",
+    "datum": "1980-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_10820"
+   },
+   {
+    "dossier": "SA_10813",
+    "titel": "Rozengracht 133",
+    "datum": "1978-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_10813"
+   },
+   {
+    "dossier": "SA_10800",
+    "titel": "Rozengracht 133",
+    "datum": "1971-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_10800"
+   },
+   {
+    "dossier": "SA_10787",
+    "titel": "Rozengracht 133",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_10787"
+   },
+   {
+    "dossier": "SA_11182",
+    "titel": "Rozengracht 133",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11182"
+   },
+   {
+    "dossier": "SA_11180",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "1946-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11180"
+   },
+   {
+    "dossier": "SA_11327",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "1945-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11327"
+   },
+   {
+    "dossier": "SA_11158",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11158"
+   },
+   {
+    "dossier": "SA_08631",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "1929-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_08631"
+   },
+   {
+    "dossier": "SA_11159",
+    "titel": "2e Rozendwarsstraat 5; Rozengracht 133; Rozenstraat 144",
+    "datum": "1928-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 305,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_11159"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 26,
+  "gezocht": [
+   "Rozengracht 133",
+   "Rozengracht 133A",
+   "Rozengracht 133B",
+   "Rozenstraat 144",
+   "Tweede Rozendwarsstraat 5"
+  ],
+  "vergunningen": [
+   {
+    "id": "prb-2026-12052",
+    "titel": "Ontbrandingstoestemming vuurwerk - Rozengracht 133, Amsterdam - 10 september 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-15",
+    "onderwerp": "Vuurwerk tbv een jubileum vanaf het dak van het pad aan de Rozengracht 133 te Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-12052.html",
+    "zaak": "OD2026-0035762"
+   },
+   {
+    "id": "bgr-2025-809",
+    "titel": "Toestemming vergunning voor het inzetten van een mobiele kraan voor het verrichten van werkzaamheden aan de antenne op het dak aan Rozengracht 133 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-03",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-809.html"
+   },
+   {
+    "id": "gmb-2024-502793",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Rozengracht 133A 1016LV Amsterdam, Rozengracht 133B 1016LV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-29",
+    "onderwerp": "wijzigen van de antenne-installaties op het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-502793.html",
+    "zaak": "Z2024-033219"
+   },
+   {
+    "id": "gmb-2024-463884",
+    "titel": "Aanvraag omgevingsvergunning Rozengracht 133 1016LV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-04",
+    "onderwerp": "wijzigen van de antenne-installaties op het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-463884.html",
+    "zaak": "Z2024-033219"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-502793",
+   "gmb-2024-463884"
+  ],
+  "zaaknummers": [
+   "Z2024-033219"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-307041",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rozengracht 133B in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rozengracht 133B in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-307041.html"
+   },
+   {
+    "id": "gmb-2026-202213",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Rozengracht 133B in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rozengracht 133B in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202213.html"
+   },
+   {
+    "id": "gmb-2025-538955",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rozengracht 133A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rozengracht 133A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-538955.html"
+   },
+   {
+    "id": "gmb-2025-447297",
+    "titel": "Besluit apv vergunning Verleend - Rozengracht ter hoogte van nummer: 133 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-16",
+    "onderwerp": "TVM parkeervak,Filmen,Rozengracht 133 A 1016LV, 20251014, Rozengracht ter hoogte van nummer: 133",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-447297.html"
+   },
+   {
+    "id": "gmb-2025-432123",
+    "titel": "Besluit apv vergunning Verleend - Rozengracht ter hoogte van nummer: 133 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-07",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Filmen,Rozengracht 133 A 1016LV, 20251014, Rozengracht ter hoogte van nummer: 133",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-432123.html"
+   },
+   {
+    "id": "gmb-2024-37537",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rozengracht 133A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-01-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rozengracht 133A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-37537.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-214854",
+    "titel": "Besluit evenementenvergunning VerleendNico Broekhuysenweg 7 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-05-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nico Broekhuysenweg 7 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-214854.html"
+   },
+   {
+    "id": "gmb-2023-180985",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Rozengracht 133A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-04-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rozengracht 133A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-180985.html"
+   },
+   {
+    "id": "gmb-2023-101569",
+    "titel": "Aanvraag evenementenvergunning Nico Broekhuysenweg 7 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Nico Broekhuysenweg 7 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-101569.html"
+   },
+   {
+    "id": "gmb-2022-564568",
+    "titel": "Besluit van de voorzitter van het dagelijks bestuur van stadsdeel Centrum van de gemeente Amsterdam betreffende het terrassenplan Rozengracht 2022",
+    "soort": "beleidsregel",
+    "datum": "2022-12-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-564568.html"
+   },
+   {
+    "id": "gmb-2022-499547",
+    "titel": "Besluit evenementenvergunning Verleend Nico Broekhuysenweg 7",
+    "soort": "evenementenvergunning",
+    "datum": "2022-11-10",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nico Broekhuysenweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-499547.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-293227",
+    "titel": "Besluit evenementenvergunning Geen aanvraag of dubbel Nico Broekhuysenweg 7",
+    "soort": "evenementenvergunning",
+    "datum": "2022-06-28",
+    "onderwerp": "Geen aanvraag of dubbel: evenementenvergunning ter hoogte van adres Nico Broekhuysenweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-293227.html"
+   },
+   {
+    "id": "gmb-2022-96428",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Rozengracht 133B",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-04",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Rozengracht 133B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-96428.html"
+   },
+   {
+    "id": "gmb-2021-426019",
+    "titel": "Besluit evenementenvergunning Verleend Nico Broekhuysenweg 7",
+    "soort": "evenementenvergunning",
+    "datum": "2021-11-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Nico Broekhuysenweg 7",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-426019.html"
+   },
+   {
+    "id": "gmb-2021-406078",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Rozengracht 133B",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-15",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Rozengracht 133B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-406078.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1102BPSTD-VG01",
+   "naam": "Westelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-02-07",
+   "opp_m2": 1281977,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Documenten deel 201-300c bij besluit op Woo-verzoek over overtredingen alcoholverkoop ",
+   "datum": "2025-12-18",
+   "door": "ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "url": "https://open.overheid.nl/documenten/a7a0eb08-8c86-4590-9ff9-c4194ef7021c",
+   "fragment": ". Ik heb dit rapport naar waarheid opgemaakt gedagtekend en ondertekend op 07-11-2023. 5.1.2.e I Pagina 3 van 3 Rozengracht 133B 1016 LV Amsterdam Geen verhoor met een vertegenwoordiger Er heeft geen verhoor plaatsgevonden met een vertegenwoordiger ... 64 GiGBEZORGD Alleen beschikbaar in A’dam Utrecht R39dam Delft en Leiden O Afhalen in Amsterdam Check je mail voor details of maak een afspraak via"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 7,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 122,
+ "pand_adressen": [
+  "Rozengracht 133A",
+  "Rozengracht 133B",
+  "Rozenstraat 144",
+  "Tweede Rozendwarsstraat 5"
+ ]
+}

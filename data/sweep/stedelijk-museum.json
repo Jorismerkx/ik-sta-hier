@@ -1,0 +1,1971 @@
+{
+ "id": "stedelijk-museum",
+ "naam": "Stedelijk Museum",
+ "adres": "Museumplein 10, 1071 DJ Amsterdam",
+ "termen": [
+  "Museumplein 10",
+  "1071DJ",
+  "1071 DJ",
+  "Stedelijk Museum",
+  "Museumplein Entree"
+ ],
+ "pand": "0363100012077791",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 140,
+  "openbaar": 2,
+  "laatste": "2012-12-01",
+  "dossiers": [
+   {
+    "dossier": "SW_44301",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2012-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44301"
+   },
+   {
+    "dossier": "SW_44409",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44409"
+   },
+   {
+    "dossier": "SW_44408",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44408"
+   },
+   {
+    "dossier": "SW_44407",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44407"
+   },
+   {
+    "dossier": "SW_44403",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 264,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44403"
+   },
+   {
+    "dossier": "SW_44404",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 249,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44404"
+   },
+   {
+    "dossier": "SW_44405",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44405"
+   },
+   {
+    "dossier": "SW_44398",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 176,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44398"
+   },
+   {
+    "dossier": "SW_44399",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 270,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44399"
+   },
+   {
+    "dossier": "SW_44400",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44400"
+   },
+   {
+    "dossier": "SW_54154",
+    "titel": "Museumplein 10; Paulus Potterstraat 13; Van Baerlestraat 31",
+    "datum": "2011-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_54154"
+   },
+   {
+    "dossier": "SW_44401",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2011-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 302,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44401"
+   },
+   {
+    "dossier": "SW_44395",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 363,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44395"
+   },
+   {
+    "dossier": "SW_44389",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44389"
+   },
+   {
+    "dossier": "SW_44372",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44372"
+   },
+   {
+    "dossier": "SW_44364",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44364"
+   },
+   {
+    "dossier": "SW_44391",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44391"
+   },
+   {
+    "dossier": "SW_44366",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1885,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44366"
+   },
+   {
+    "dossier": "SW_44371",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 364,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44371"
+   },
+   {
+    "dossier": "SW_44363",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 109,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44363"
+   },
+   {
+    "dossier": "SW_44377",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44377"
+   },
+   {
+    "dossier": "SW_44373",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 270,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44373"
+   },
+   {
+    "dossier": "SW_44386",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44386"
+   },
+   {
+    "dossier": "SW_44355",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 83,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44355"
+   },
+   {
+    "dossier": "SW_44384",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44384"
+   },
+   {
+    "dossier": "SW_44369",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 83,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44369"
+   },
+   {
+    "dossier": "SW_44388",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 218,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44388"
+   },
+   {
+    "dossier": "SW_44380",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44380"
+   },
+   {
+    "dossier": "SW_44379",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44379"
+   },
+   {
+    "dossier": "SW_44370",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44370"
+   },
+   {
+    "dossier": "SW_44353",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44353"
+   },
+   {
+    "dossier": "SW_44361",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44361"
+   },
+   {
+    "dossier": "SW_44358",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44358"
+   },
+   {
+    "dossier": "SW_44359",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44359"
+   },
+   {
+    "dossier": "SW_44357",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44357"
+   },
+   {
+    "dossier": "SW_44345",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44345"
+   },
+   {
+    "dossier": "SW_44349",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44349"
+   },
+   {
+    "dossier": "SW_44341",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44341"
+   },
+   {
+    "dossier": "SW_44342",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44342"
+   },
+   {
+    "dossier": "SW_44347",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44347"
+   },
+   {
+    "dossier": "SW_44339",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44339"
+   },
+   {
+    "dossier": "SW_44346",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44346"
+   },
+   {
+    "dossier": "SW_44337",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44337"
+   },
+   {
+    "dossier": "SW_44351",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44351"
+   },
+   {
+    "dossier": "SW_44338",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44338"
+   },
+   {
+    "dossier": "SW_44344",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44344"
+   },
+   {
+    "dossier": "SW_44352",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44352"
+   },
+   {
+    "dossier": "SW_44348",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44348"
+   },
+   {
+    "dossier": "SW_44354",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44354"
+   },
+   {
+    "dossier": "SW_44340",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44340"
+   },
+   {
+    "dossier": "SW_44343",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44343"
+   },
+   {
+    "dossier": "SW_44350",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44350"
+   },
+   {
+    "dossier": "SW_44334",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44334"
+   },
+   {
+    "dossier": "SW_44335",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44335"
+   },
+   {
+    "dossier": "SW_44323",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 552,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44323"
+   },
+   {
+    "dossier": "SW_44332",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44332"
+   },
+   {
+    "dossier": "SW_44297",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44297"
+   },
+   {
+    "dossier": "SW_44329",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44329"
+   },
+   {
+    "dossier": "SW_44328",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44328"
+   },
+   {
+    "dossier": "SW_44330",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44330"
+   },
+   {
+    "dossier": "SW_44326",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44326"
+   },
+   {
+    "dossier": "SW_44298",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44298"
+   },
+   {
+    "dossier": "SW_44336",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44336"
+   },
+   {
+    "dossier": "SW_44308",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44308"
+   },
+   {
+    "dossier": "SW_44284",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44284"
+   },
+   {
+    "dossier": "SW_44288",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44288"
+   },
+   {
+    "dossier": "SW_44307",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44307"
+   },
+   {
+    "dossier": "SW_44299",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44299"
+   },
+   {
+    "dossier": "SW_44306",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2010-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44306"
+   },
+   {
+    "dossier": "SW_44296",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44296"
+   },
+   {
+    "dossier": "SW_44316",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44316"
+   },
+   {
+    "dossier": "SW_44292",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44292"
+   },
+   {
+    "dossier": "SW_44291",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44291"
+   },
+   {
+    "dossier": "SW_44322",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44322"
+   },
+   {
+    "dossier": "SW_44319",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44319"
+   },
+   {
+    "dossier": "SW_44317",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44317"
+   },
+   {
+    "dossier": "SW_44318",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44318"
+   },
+   {
+    "dossier": "SW_44325",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 198,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44325"
+   },
+   {
+    "dossier": "SW_44311",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44311"
+   },
+   {
+    "dossier": "SW_44305",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44305"
+   },
+   {
+    "dossier": "SW_44289",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44289"
+   },
+   {
+    "dossier": "SW_44282",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44282"
+   },
+   {
+    "dossier": "SW_44286",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44286"
+   },
+   {
+    "dossier": "SW_44275",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44275"
+   },
+   {
+    "dossier": "SW_44276",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44276"
+   },
+   {
+    "dossier": "SW_44274",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 138,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44274"
+   },
+   {
+    "dossier": "SW_44278",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44278"
+   },
+   {
+    "dossier": "SW_44320",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 159,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44320"
+   },
+   {
+    "dossier": "SW_44281",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44281"
+   },
+   {
+    "dossier": "SW_44321",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44321"
+   },
+   {
+    "dossier": "SW_44280",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44280"
+   },
+   {
+    "dossier": "SW_44279",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44279"
+   },
+   {
+    "dossier": "SW_44269",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44269"
+   },
+   {
+    "dossier": "SW_44266",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 85,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44266"
+   },
+   {
+    "dossier": "SW_44263",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44263"
+   },
+   {
+    "dossier": "SW_44264",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44264"
+   },
+   {
+    "dossier": "SW_44261",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44261"
+   },
+   {
+    "dossier": "SW_44262",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44262"
+   },
+   {
+    "dossier": "SW_44333",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44333"
+   },
+   {
+    "dossier": "SW_44257",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44257"
+   },
+   {
+    "dossier": "SW_44259",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44259"
+   },
+   {
+    "dossier": "SW_44258",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44258"
+   },
+   {
+    "dossier": "SW_44253",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44253"
+   },
+   {
+    "dossier": "SW_44256",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44256"
+   },
+   {
+    "dossier": "SW_44252",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44252"
+   },
+   {
+    "dossier": "SW_44255",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44255"
+   },
+   {
+    "dossier": "SW_44327",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44327"
+   },
+   {
+    "dossier": "SW_44251",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44251"
+   },
+   {
+    "dossier": "SW_44240",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44240"
+   },
+   {
+    "dossier": "SW_44250",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 251,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44250"
+   },
+   {
+    "dossier": "SW_44242",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44242"
+   },
+   {
+    "dossier": "SW_44239",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 109,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44239"
+   },
+   {
+    "dossier": "SW_44227",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44227"
+   },
+   {
+    "dossier": "SW_44238",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 132,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44238"
+   },
+   {
+    "dossier": "SW_44226",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44226"
+   },
+   {
+    "dossier": "SW_44229",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44229"
+   },
+   {
+    "dossier": "SW_44225",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2008-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44225"
+   },
+   {
+    "dossier": "SW_44224",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2007-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 130,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44224"
+   },
+   {
+    "dossier": "SW_44212",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2007-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 212,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44212"
+   },
+   {
+    "dossier": "SW_44220",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2007-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44220"
+   },
+   {
+    "dossier": "SW_44211",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2007-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 42,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44211"
+   },
+   {
+    "dossier": "SW_50692",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2007-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 119,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_50692"
+   },
+   {
+    "dossier": "SW_44138",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2773,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44138"
+   },
+   {
+    "dossier": "SW_54119",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_54119"
+   },
+   {
+    "dossier": "SW_44109",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 91,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_44109"
+   },
+   {
+    "dossier": "SW_48097",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2003-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 117,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_48097"
+   },
+   {
+    "dossier": "SW_48129",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2003-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 263,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_48129"
+   },
+   {
+    "dossier": "SW_43425",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43425"
+   },
+   {
+    "dossier": "SW_60405",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2000-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_60405"
+   },
+   {
+    "dossier": "SW_43633",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2000-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 143,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43633"
+   },
+   {
+    "dossier": "SW_43398",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 370,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43398"
+   },
+   {
+    "dossier": "SW_40504",
+    "titel": "Van Baerlestraat 31",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_40504"
+   },
+   {
+    "dossier": "SW_29838",
+    "titel": "Paulus Potterstraat 13; Van Baerlestraat 31",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29838"
+   },
+   {
+    "dossier": "SW_29853",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29853"
+   },
+   {
+    "dossier": "SW_29864",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "1971-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29864"
+   },
+   {
+    "dossier": "SW_29878",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "1968-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29878"
+   },
+   {
+    "dossier": "SW_29834",
+    "titel": "Paulus Potterstraat 13",
+    "datum": "1960-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29834"
+   },
+   {
+    "dossier": "SW_29845",
+    "titel": "Paulus Potterstraat 13; Van Baerlestraat 31",
+    "datum": "1959-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29845"
+   },
+   {
+    "dossier": "SW_29827",
+    "titel": "Van Baerlestraat 31",
+    "datum": "1954-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29827"
+   },
+   {
+    "dossier": "SW_29829",
+    "titel": "Paulus Potterstraat 13; Van Baerlestraat 31",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_29829"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 39,
+  "gezocht": [
+   "Museumplein 10"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-500808",
+    "titel": "Vergunning Omgevingswet verleend - Museumplein 10, Amsterdam - Aanbrengen twee puien in glazen gevel",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-500808.html",
+    "zaak": "13344810"
+   },
+   {
+    "id": "gmb-2024-419536",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Museumplein 10, Amsterdam - het aanbrengen van 2 puien",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-419536.html",
+    "zaak": "13181641"
+   },
+   {
+    "id": "gmb-2024-351131",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Museumplein 10, Amsterdam - het restaureren, renoveren en verduurzamen van daken en kappen van het Stedelijk Museum",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-351131.html",
+    "zaak": "13025009"
+   },
+   {
+    "id": "gmb-2023-40831",
+    "titel": "Vergunning Verleend - Museumplein 10, Amsterdam - het tijdelijke plaatsen van een kunstwerk ten behoeve voor de tentoonstelling \"General Idea\"",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-31",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-40831.html",
+    "zaak": "1310596"
+   },
+   {
+    "id": "gmb-2022-562297",
+    "titel": "Aanvraag vergunning - Museumplein 10, Amsterdam - het tijdelijke plaatsen van een kunstwerk ten behoeve van de tentoonstelling \"General Idea\"",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-562297.html",
+    "zaak": "1308152"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-419536",
+   "gmb-2024-351131",
+   "gmb-2022-562297"
+  ],
+  "zaaknummers": [
+   "13025009",
+   "1308152",
+   "13181641"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-435330",
+    "titel": "Besluit apv vergunning Verleend - Museumplein ter hoogte van nummer: 10 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-17",
+    "onderwerp": "Object,Museumplein 10 1071DJ, 20260922, Museumplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-435330.html"
+   },
+   {
+    "id": "gmb-2026-299258",
+    "titel": "Aanvraag evenementenvergunning Museumplein 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Museumplein 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-299258.html"
+   },
+   {
+    "id": "gmb-2026-299229",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren) ter hoogte van Museumplein 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Museumplein 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-299229.html"
+   },
+   {
+    "id": "gmb-2026-281021",
+    "titel": "Besluit apv vergunning Verleend - Museumplein ter hoogte van nummer: 10 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-15",
+    "onderwerp": "RVV,Object,Afgesloten gebieden,Museumplein 10 1071DJ, 20260713, Museumplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-281021.html"
+   },
+   {
+    "id": "gmb-2026-261930",
+    "titel": "Besluit apv vergunning Verleend - Museumplein ter hoogte van nummer: 10 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-04",
+    "onderwerp": "RVV,Afgesloten gebieden,Nachtwerk,Museumplein 10 1071DJ, 20260623, Museumplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-261930.html"
+   },
+   {
+    "id": "gmb-2025-407921",
+    "titel": "Besluit apv vergunning Verleend - Museumplein ter hoogte van nummer: 10 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-09-22",
+    "onderwerp": "Object,Museumplein 10 1071DJ, 20251014, Museumplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-407921.html"
+   },
+   {
+    "id": "gmb-2025-269870",
+    "titel": "Besluit apv vergunning Verleend - Museumplein ter hoogte van nummer: 10 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-06-23",
+    "onderwerp": "RVV, Object, Afgesloten gebieden, Museumplein 10 1071DJ, 20250718, Museumplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-269870.html"
+   },
+   {
+    "id": "gmb-2025-260827",
+    "titel": "Besluit apv vergunning Verleend - Museumplein ter hoogte van nummer: 10 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "Object, Museumplein 10 1071DJ, 20250307, Museumplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-260827.html"
+   },
+   {
+    "id": "gmb-2025-170876",
+    "titel": "Aanvraag evenementenvergunning Museumplein 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Museumplein 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-170876.html"
+   },
+   {
+    "id": "gmb-2025-170867",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Museumplein 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-22",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Museumplein 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-170867.html"
+   },
+   {
+    "id": "gmb-2024-495574",
+    "titel": "Besluit alcoholwetvergunning Verleend - Museumplein 10 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-11-26",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-495574.html"
+   },
+   {
+    "id": "gmb-2024-495542",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Museumplein 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-26",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Museumplein 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-495542.html"
+   },
+   {
+    "id": "gmb-2024-383053",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Museumplein 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Museumplein 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-383053.html"
+   },
+   {
+    "id": "gmb-2024-349420",
+    "titel": "Besluit apv vergunning Verleend - Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Object, Museumplein 10 1071DJ, 20240917, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-349420.html"
+   },
+   {
+    "id": "gmb-2024-316106",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Verleend - Museumplein 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Museumplein 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-316106.html"
+   },
+   {
+    "id": "gmb-2024-302173",
+    "titel": "Voorgenomen besluit door de gemeente Amsterdam tot vervreemding van kunstwerk Odalisque van Henri Matisse",
+    "soort": "vervreemding erfgoed",
+    "datum": "2024-07-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-302173.html"
+   },
+   {
+    "id": "gmb-2024-288007",
+    "titel": "Aanvraag (Terras) exploitatievergunning horecabedrijf - Museumplein 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-02",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Museumplein 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-288007.html"
+   },
+   {
+    "id": "gmb-2024-72852",
+    "titel": "Besluit apv vergunning Verleend - Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2024-02-16",
+    "onderwerp": "TVM parkeervak, Museumplein 10 1071DJ, 8-2-2024, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-72852.html"
+   },
+   {
+    "id": "gmb-2023-339548",
+    "titel": "Besluit apv vergunning Verleend - Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Objecten, Museumpleim 10, 07-09-2023, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-339548.html"
+   },
+   {
+    "id": "gmb-2023-244026",
+    "titel": "Besluit apv vergunning Verleend - Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2023-06-06",
+    "onderwerp": "Objecten/ Rvv, Museumplein 10, 21-07-2023 t/m 07-08-2023, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-244026.html"
+   },
+   {
+    "id": "gmb-2023-203266",
+    "titel": "Besluit nachtwerkontheffing Verleend - Museumplein 10 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-05-09",
+    "onderwerp": "Nachtwerkontheffing, Museumplein 10, 15-5-2023 r/m 16-5-2023, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-203266.html"
+   },
+   {
+    "id": "gmb-2023-150384",
+    "titel": "Besluit apv vergunning Verleend - Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2023-04-06",
+    "onderwerp": "RVV, Museumplein 10, 18 april 2023, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-150384.html"
+   },
+   {
+    "id": "gmb-2023-1273",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2023-01-02",
+    "onderwerp": "TVM - Museumplein 5 - 10/01/23, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-1273.html"
+   },
+   {
+    "id": "gmb-2022-530248",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-11-29",
+    "onderwerp": "objecten Museumplein 10, 3-12-2022 t/m 17-12-2022, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-530248.html"
+   },
+   {
+    "id": "gmb-2022-490815",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-11-04",
+    "onderwerp": "Object, Museumplein 1, 2-11-2022, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-490815.html"
+   },
+   {
+    "id": "gmb-2022-444948",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-10-06",
+    "onderwerp": "OBV +RVV, Museumplein 1, 12-10-2022 t/m 12-10-2022, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-444948.html"
+   },
+   {
+    "id": "gmb-2022-373786",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-08-16",
+    "onderwerp": "Object, Museumplein 10, 12-9-2022, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-373786.html"
+   },
+   {
+    "id": "gmb-2022-349717",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-08-01",
+    "onderwerp": "Objecten/ Rondom evenementengebied Museumplein, Van Gogh Museum, Het Rijksmuseum, Het Stedelijk Museum, Concertgebouw enz/ 22-08-2022 t/m 31-8-2022, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-349717.html"
+   },
+   {
+    "id": "gmb-2022-199317",
+    "titel": "Besluit apv vergunning Verleend Museumplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-05-03",
+    "onderwerp": "Object / RVV - Museumplein 10 , 20-05-2022 - 03-06-2022, Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-199317.html"
+   },
+   {
+    "id": "gmb-2022-51701",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Museumplein 10",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Museumplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-51701.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.K1908BPSTD-VG03",
+   "naam": "Museumkwartier - Valeriusbuurt 2022",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-11-09",
+   "opp_m2": 1389605,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K1005BPSTD-VG01",
+   "naam": "Museumkwartier Valeriusbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2011-05-25",
+   "opp_m2": 1394025,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.2.html",
+     "tekst": "e long van belang zou zijn voor de gezondheidstoestand van de bewoners in de omliggende wijken. De monumentale en symmetrische vorm van het Rijksmuseum als stadspoort naar het nieuw te bouwen stadsdeel vroeg om een brede allee in het verlengde van de doorrit. De ligging van het Concertgebouw en het Stedelijk Museum maakte de stedenbouwkundige indeling van het Museumplein lastig. Het Concertgebouw (1888) ligt een kleine slag gedraaid en iets terzijde van de zichtas vanuit het Rijksmuseum. Het Stedelijk Museum (1894) ligt, net als het Rijksmuseum, met zijn rug naar het Museumplein gericht. Tot een goede inrichting van het Museumplein kwam het niet. Het terrein werd verhuurd voor grootschalige "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.2.html",
+     "tekst": "deel vroeg om een brede allee in het verlengde van de doorrit. De ligging van het Concertgebouw en het Stedelijk Museum maakte de stedenbouwkundige indeling van het Museumplein lastig. Het Concertgebouw (1888) ligt een kleine slag gedraaid en iets terzijde van de zichtas vanuit het Rijksmuseum. Het Stedelijk Museum (1894) ligt, net als het Rijksmuseum, met zijn rug naar het Museumplein gericht. Tot een goede inrichting van het Museumplein kwam het niet. Het terrein werd verhuurd voor grootschalige manifestaties en sportactiviteiten. Vanaf 1952 werd een nieuw inrichtingsplan van C. van Eesteren uitgevoerd, waarbij in aansluiting op de snelweg vanuit Den Haag en Schiphol een verbinding zou kom"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_3.2.html",
+     "tekst": "er hebben als planhorizon 2010-2020. De Structuurvisie door de gemeenteraad vastgesteld op 17 februari 2011. In de structuurvisie wordt het Museumkwartier als een unieke plek in Amsterdam met vier culturele instellingen van wereldniveau beschreven. Het gaat hierbij om het Rijksmuseum, Stedelijk Museum, Van Gogh Museum en het Concertgebouw. Het Museumkwartier is bovendien een belangrijke toeristische trekpleister. Alle vier de culturele instellingen zijn aan het verbouwen of hebben plannen daarvoor. De verwachting in de structuurvisie is dat hierdoor het aantal bezoekers groeit naar 5 miljoen per jaar. Door de aanleg van de Noord/Zuidlijn zal een groot deel van de bezoekers straks het Museump"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_4.3.html",
+     "tekst": "s Vermeerstraat (deel tussen de Hobbemastraat en de Honthorststraat). Culturele instellingen De culturele instellingen rond het Museumplein vormen het culturele hart van het Museumkwartier. Zowel het Rijksmuseum als het Stedelijk Museum zijn aan het verbouwen en verplaatsen hun ingangen naar de zijde van het Museumplein. Ook het Van Gogh Museum en het Concertgebouw hebben verbouwingsplannen. De verwachting is dat het aantal bezoekers zal toenemen van 3,5 miljoen naar 5 miljoen bezoekers per jaar. Branchering in winkelstraten In het Besluit ruimtelijk"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_4.3.html",
+     "tekst": " de bestaande situatie opgenomen. De instellingen hebben de bestemming ' Cultuur en Ontspanning ' in het bestemmingsplan. Binnen deze bestemming zijn onder andere musea en muziektheater mogelijk. De vergunde bouwplannen voor het Rijksmuseum en het Stedelijk Museum zijn opgenomen in het bestemmingsplan. De verbouwingsplannen van het Van Gogh museum en het Concertgebouw zijn nog niet concreet genoeg waardoor de bestaande situatie is opgenomen in het bestemmingsplan. Vanuit de Stichting Rijksmuseum is er een initiatief om een entree voor het Rijksmuseum in de passage van het Rijksmuseum te projecteren in de vorm van een trap naar beneden. Dit i"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_5.2.html",
+     "tekst": "anning De vier grote culturele instellingen rond het Museumplein hebben de bestemming ' Cultuur en Ontspanning '. Het gaat om het Rijksmuseum, het Stedelijk Museum, het Van Gogh Museum en het Concertgebouw. In bestemmingsomschrijving ( 4.1 ) is bepaald welke functies allemaal mogelijk zijn binnen de bestemming. In de specifieke gebruiksregels ( 4.4 ) zijn, voor zover daar aanleiding "
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 4,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 7,
+ "pand_adressen": [
+  "Museumplein 10"
+ ]
+}

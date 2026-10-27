@@ -1,0 +1,502 @@
+{
+ "id": "gashouder",
+ "naam": "Gashouder",
+ "adres": "Klönneplein 1, 1014 DD Amsterdam",
+ "termen": [
+  "Klönneplein 1",
+  "1014DD",
+  "1014 DD",
+  "Gashouder"
+ ],
+ "pand": "0363100012236081",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 118,
+  "gezocht": [
+   "Klönneplein 1",
+   "Klönne plein 1",
+   "Klönne plein 3",
+   "Klönne plein 3A",
+   "Klönne plein 3B"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-274125",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Klönneplein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-10",
+    "onderwerp": "(KAP) het kappen van vier bomen is noodzakelijk ten behoeve van de herinrichting van de openbare ruimte rondom de Gashouder",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-274125.html",
+    "zaak": "Z2026-023567"
+   },
+   {
+    "id": "gmb-2025-567590",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-24",
+    "onderwerp": "uitbreiden van het gebruik ten behoeve van horeca 2 in de Gashouder",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-567590.html",
+    "zaak": "Z2025-045422"
+   },
+   {
+    "id": "gmb-2025-499874",
+    "titel": "Aanvraag omgevingsvergunning Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "uitbreiden van het gebruik ten behoeve van horeca 2 in de Gashouder",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-499874.html",
+    "zaak": "Z2025-045422"
+   },
+   {
+    "id": "gmb-2025-252751",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-11",
+    "onderwerp": "wijzigen van de Omgevingsvergunning voor de kelder door de grindkoffer rondom de kelder achterwegen te laten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-252751.html",
+    "zaak": "Z2025-004190"
+   },
+   {
+    "id": "gmb-2025-149973",
+    "titel": "Beschikking, Bodem - Klönneplein 1, Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-149973.html",
+    "zaak": "1408528"
+   },
+   {
+    "id": "gmb-2025-48366",
+    "titel": "Aanvraag omgevingsvergunning Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-06",
+    "onderwerp": "wijzigen van de Omgevingsvergunning voor de kelder door de grindkoffer rondom de kelder achterwegen te laten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-48366.html",
+    "zaak": "Z2025-004190"
+   },
+   {
+    "id": "gmb-2024-420276",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-04",
+    "onderwerp": "maken van een kelder onder de gashouder en het herindelen van bestaande ruimten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-420276.html",
+    "zaak": "Z2023-W005148"
+   },
+   {
+    "id": "gmb-2024-357086",
+    "titel": "Ontwerpbesluit omgevingsvergunning Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-16",
+    "onderwerp": "maken van een kelder onder de gashouder en het herindelen van bestaande ruimten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-357086.html",
+    "zaak": "Z2023-W005148"
+   },
+   {
+    "id": "gmb-2024-126655",
+    "titel": "Aanvraag omgevingsvergunning Ingetrokken (aanvrager) Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-21",
+    "onderwerp": "tijdelijk afwijken van het omgevingsplan voor de Concertreeks Westergas 2024 om tijdelijk meer dan 3500 personen toe te laten (3900)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-126655.html",
+    "zaak": "Z2024-001074"
+   },
+   {
+    "id": "gmb-2024-54776",
+    "titel": "Aanvraag omgevingsvergunning Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-05",
+    "onderwerp": "tijdelijk afwijken van het omgevingsplan voor de Concertreeks Westergas 2024 om tijdelijk meer dan 3500 personen toe te laten (3900)",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-54776.html",
+    "zaak": "Z2024-001074"
+   },
+   {
+    "id": "gmb-2024-26253",
+    "titel": "Aanvraag omgevingsvergunning Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-15",
+    "onderwerp": "maken van een kelder onder de gashouder en het herindelen van bestaande ruimten",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-26253.html",
+    "zaak": "Z2023-W005148"
+   },
+   {
+    "id": "gmb-2022-362650",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Klönne plein 1 1014DD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-08",
+    "onderwerp": "uitvoeren van onderhoud aan- en conservering van de gashouder ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-362650.html",
+    "zaak": "Z2022-W001471"
+   },
+   {
+    "id": "gmb-2022-314886",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Klönne plein 1 1014DD Amsterdam, Postbus 14802 1001LH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-12",
+    "onderwerp": "uitvoeren van onderhoud aan- en conservering van de gashouder ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-314886.html",
+    "zaak": "Z2022-W001471"
+   },
+   {
+    "id": "gmb-2022-154801",
+    "titel": "Aanvraag omgevingsvergunning Klönne plein 1 1014DD Amsterdam, Postbus 14802 1001LH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-06",
+    "onderwerp": "uitvoeren van onderhoud aan- en conservering van de gashouder ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-154801.html",
+    "zaak": "Z2022-W001471"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-274125",
+   "gmb-2025-567590",
+   "gmb-2025-499874",
+   "gmb-2025-252751",
+   "gmb-2025-48366",
+   "gmb-2024-420276",
+   "gmb-2024-357086",
+   "gmb-2024-126655",
+   "gmb-2024-54776",
+   "gmb-2024-26253",
+   "gmb-2022-362650",
+   "gmb-2022-154801"
+  ],
+  "zaaknummers": [
+   "Z2022-W001471",
+   "Z2023-W005148",
+   "Z2024-001074",
+   "Z2025-004190",
+   "Z2025-045422",
+   "Z2026-023567"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-488110",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Object,Klönne plein 1 1014DD, 20261020, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-488110.html"
+   },
+   {
+    "id": "gmb-2026-469276",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-08",
+    "onderwerp": "Object,Klönne plein 1 1014DD, 20261009, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469276.html"
+   },
+   {
+    "id": "gmb-2026-417993",
+    "titel": "Besluit alcoholwetvergunning Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Klönne plein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-417993.html"
+   },
+   {
+    "id": "gmb-2026-417955",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-417955.html"
+   },
+   {
+    "id": "gmb-2026-386217",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-08-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-386217.html"
+   },
+   {
+    "id": "gmb-2026-311556",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-311556.html"
+   },
+   {
+    "id": "gmb-2026-275635",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Klönne plein 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-275635.html"
+   },
+   {
+    "id": "gmb-2026-216574",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-07",
+    "onderwerp": "Object,Klönne plein 1 1014DD, 8 mei t/m 1 oktober 2026, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-216574.html"
+   },
+   {
+    "id": "gmb-2025-491472",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-11-13",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-491472.html"
+   },
+   {
+    "id": "gmb-2025-311655",
+    "titel": "Melding ontvangen - Klönne plein 1, Amsterdam - Toepassen van grond of baggerspecie op of in de landbodem",
+    "soort": "omgevingsmelding",
+    "datum": "2025-07-16",
+    "onderwerp": "Amsterdam - Klönneplein 1",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-311655.html"
+   },
+   {
+    "id": "gmb-2025-297526",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "Upload_TVM stremmen, Object,Klönne plein 1 1014DD, 20250723, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-297526.html"
+   },
+   {
+    "id": "gmb-2025-213325",
+    "titel": "Besluit evenementenvergunning Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213325.html"
+   },
+   {
+    "id": "gmb-2025-11492",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-11492.html"
+   },
+   {
+    "id": "gmb-2024-547733",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-30",
+    "onderwerp": "Object, Klönne plein 1 1014DD, 20250203, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-547733.html"
+   },
+   {
+    "id": "gmb-2024-535740",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-20",
+    "onderwerp": "Object, Klönne plein 1 1014DD, 20250106, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-535740.html"
+   },
+   {
+    "id": "gmb-2024-480595",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-11-15",
+    "onderwerp": "Object, Klönne plein 1 1014DD, 20241119, Klönne plein ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-480595.html"
+   },
+   {
+    "id": "gmb-2024-478504",
+    "titel": "Besluit evenementenvergunning Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-11-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-478504.html"
+   },
+   {
+    "id": "gmb-2024-460284",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein 1",
+    "soort": "andere vergunning",
+    "datum": "2024-11-01",
+    "onderwerp": "Object, Klönne plein 1 1014DD, 20241210, Klönne plein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-460284.html"
+   },
+   {
+    "id": "gmb-2024-410097",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-410097.html"
+   },
+   {
+    "id": "gmb-2024-392252",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-392252.html"
+   },
+   {
+    "id": "gmb-2024-388454",
+    "titel": "Besluit evenementenvergunning Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-388454.html"
+   },
+   {
+    "id": "gmb-2024-379282",
+    "titel": "Besluit evenementenvergunning Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-379282.html"
+   },
+   {
+    "id": "gmb-2024-363740",
+    "titel": "Besluit evenementenvergunning Verleend - Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-363740.html"
+   },
+   {
+    "id": "gmb-2024-349307",
+    "titel": "Besluit apv vergunning Verleend - Klönne plein 1",
+    "soort": "andere vergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Filmen, Klönne plein 1 1014DD, 20240909, Klönne plein 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-349307.html"
+   },
+   {
+    "id": "gmb-2024-318464",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-22",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-318464.html"
+   },
+   {
+    "id": "gmb-2024-313640",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-313640.html"
+   },
+   {
+    "id": "gmb-2024-304679",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-304679.html"
+   },
+   {
+    "id": "gmb-2024-304671",
+    "titel": "Besluit evenementenvergunning VerleendKlönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-12",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-304671.html"
+   },
+   {
+    "id": "gmb-2024-302383",
+    "titel": "Besluit evenementenvergunning Nog niet bekendKlönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-11",
+    "onderwerp": "Nog niet bekend: evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-302383.html"
+   },
+   {
+    "id": "gmb-2024-270847",
+    "titel": "Aanvraag evenementenvergunning Klönne plein 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Klönne plein 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270847.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1209BPSTD-VG01",
+   "naam": "Westergasfabriek",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2014-01-28",
+   "opp_m2": 347587,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 26,
+  "bekendmakingen": 44,
+  "plannen": 35,
+  "woo": 44
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 165,
+ "pand_adressen": [
+  "Klönne plein 1",
+  "Klönne plein 3",
+  "Klönne plein 3A",
+  "Klönne plein 3B"
+ ]
+}

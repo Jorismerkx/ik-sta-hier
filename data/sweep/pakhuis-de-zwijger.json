@@ -1,0 +1,475 @@
+{
+ "id": "pakhuis-de-zwijger",
+ "naam": "Pakhuis de Zwijger",
+ "adres": "Piet Heinkade 179, 1019 HC Amsterdam",
+ "termen": [
+  "Piet Heinkade 179",
+  "1019HC",
+  "1019 HC",
+  "Pakhuis de Zwijger"
+ ],
+ "pand": "0363100012088034",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 13,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_27700",
+    "titel": "Piet Heinkade 179",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_27700"
+   },
+   {
+    "dossier": "SU_30069",
+    "titel": "Piet Heinkade 179 - 181",
+    "datum": "2007-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30069"
+   },
+   {
+    "dossier": "SU_30783",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2006-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30783"
+   },
+   {
+    "dossier": "SU_30782",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30782"
+   },
+   {
+    "dossier": "SU_30777",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30777"
+   },
+   {
+    "dossier": "SU_30779",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30779"
+   },
+   {
+    "dossier": "SU_30774",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2006-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 89,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30774"
+   },
+   {
+    "dossier": "SU_26882",
+    "titel": "Piet Heinkade 179 - 181",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26882"
+   },
+   {
+    "dossier": "XY_01709",
+    "titel": "Oostelijke Handelskade 21; Piet Heinkade 179 a - 179 c; Piet Heinkade 181 a - 181 h; Piet Heinkade 181 k",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01709"
+   },
+   {
+    "dossier": "SU_30771",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30771"
+   },
+   {
+    "dossier": "SU_30766",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2005-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 109,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30766"
+   },
+   {
+    "dossier": "SU_30765",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2005-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 286,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30765"
+   },
+   {
+    "dossier": "SU_30764",
+    "titel": "Piet Heinkade 179 A - 179 C; Piet Heinkade 181 A - 181 K",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 295,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30764"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Piet Heinkade 179",
+   "Piet Heinkade 179A",
+   "Piet Heinkade 179B",
+   "Piet Heinkade 181A",
+   "Piet Heinkade 181B",
+   "Piet Heinkade 181C",
+   "Piet Heinkade 181D",
+   "Piet Heinkade 181E",
+   "Piet Heinkade 181F",
+   "Piet Heinkade 181G",
+   "Piet Heinkade 181H",
+   "Piet Heinkade 181K"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-206055",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Piet Heinkade 179A 1019HC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-12",
+    "onderwerp": "uitvoeren van onderhoudswerkzaamheden rijksmonument  Piet Heinkade 179-181",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-206055.html",
+    "zaak": "Z2025-004398"
+   },
+   {
+    "id": "gmb-2025-58936",
+    "titel": "Aanvraag omgevingsvergunning Piet Heinkade 179A 1019HC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-12",
+    "onderwerp": "uitvoeren van onderhoudswerkzaamheden rijksmonument  Piet Heinkade 179-181",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-58936.html",
+    "zaak": "Z2025-004398"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-206055",
+   "gmb-2025-58936"
+  ],
+  "zaaknummers": [
+   "Z2025-004398"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-420167",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade ter hoogte van nummer: 179 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-29",
+    "onderwerp": "Object,Piet Heinkade 179 A 1019HC, 20250929, Piet Heinkade ter hoogte van nummer: 179",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-420167.html"
+   },
+   {
+    "id": "gmb-2024-213235",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2024-05-16",
+    "onderwerp": "Filmen, Piet Heinkade 179 A 1019HC, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-213235.html"
+   },
+   {
+    "id": "gmb-2024-200747",
+    "titel": "Besluit evenementenvergunning VerleendPiet Heinkade 179A in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Piet Heinkade 179A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-200747.html"
+   },
+   {
+    "id": "gmb-2024-194576",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Object,RVV, Piet Heinkade 179 A 1019HC, 20240618, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-194576.html"
+   },
+   {
+    "id": "gmb-2024-139607",
+    "titel": "Aanvraag evenementenvergunning Piet Heinkade 179A in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Piet Heinkade 179A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-139607.html"
+   },
+   {
+    "id": "gmb-2024-26565",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 179B",
+    "soort": "andere vergunning",
+    "datum": "2024-01-16",
+    "onderwerp": "Werkzaamheden en vervoer op straat Piet Heinkade 179 B 1019HC, Piet Heinkade 179B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-26565.html"
+   },
+   {
+    "id": "gmb-2023-441194",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Piet Heinkade 181B in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Piet Heinkade 181B in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-441194.html"
+   },
+   {
+    "id": "gmb-2023-440215",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Piet Heinkade 181C in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Piet Heinkade 181C in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440215.html"
+   },
+   {
+    "id": "gmb-2023-425061",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf  -  in  en Piet Heinkade 181B in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-10-05",
+    "onderwerp": ": exploitatievergunning horecabedrijf op adres Piet Heinkade 181B in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-425061.html"
+   },
+   {
+    "id": "gmb-2023-424950",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf  -  in  en Piet Heinkade 181C in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-10-05",
+    "onderwerp": ": exploitatievergunning horecabedrijf op adres Piet Heinkade 181C in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-424950.html"
+   },
+   {
+    "id": "gmb-2023-353785",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Piet Heinkade 181B in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Piet Heinkade 181B in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-353785.html"
+   },
+   {
+    "id": "gmb-2023-351976",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Piet Heinkade 181C in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Piet Heinkade 181C in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-351976.html"
+   },
+   {
+    "id": "gmb-2023-229987",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2023-05-26",
+    "onderwerp": "Object+RVV+Piet Heinkade 179A + 12-6-2023 t/m 26-6-2023, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-229987.html"
+   },
+   {
+    "id": "gmb-2023-227490",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Object+RVV+Piet Heinkade 179A + 12-6-2023 t/m 26-6-2023, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-227490.html"
+   },
+   {
+    "id": "gmb-2023-128069",
+    "titel": "Besluit apv vergunning Verleend - Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2023-03-24",
+    "onderwerp": "Objecten & RVV - Piet Heinkade 179 - 19-5-2023 t/m 22-5-2023, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-128069.html"
+   },
+   {
+    "id": "gmb-2022-455507",
+    "titel": "Besluit apv vergunning Verleend Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2022-10-13",
+    "onderwerp": "objecten- Piet Heinkade 179 t/m 181- 27-10-2022, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-455507.html"
+   },
+   {
+    "id": "gmb-2022-314606",
+    "titel": "Besluit apv vergunning Verleend Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2022-07-12",
+    "onderwerp": "Objecten en RVV / Piet Heinkade 179-183 / 1-9 tm 31-10-2022, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-314606.html"
+   },
+   {
+    "id": "gmb-2022-303177",
+    "titel": "Besluit evenementenvergunning Verleend Piet Heinkade 179A",
+    "soort": "evenementenvergunning",
+    "datum": "2022-07-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-303177.html"
+   },
+   {
+    "id": "gmb-2022-248563",
+    "titel": "Besluit apv vergunning Verleend Piet Heinkade 179A",
+    "soort": "andere vergunning",
+    "datum": "2022-06-02",
+    "onderwerp": "RVV - Piet Heinkade 179 - 2-6-2022, Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-248563.html"
+   },
+   {
+    "id": "gmb-2022-243720",
+    "titel": "Besluit apv vergunning Verleend Piet Heinkade 179",
+    "soort": "andere vergunning",
+    "datum": "2022-05-30",
+    "onderwerp": "Object - Piet Heinkade 179 t/m 181 - 21-6-2022 t/m 25-6-2022, Piet Heinkade 179",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-243720.html"
+   },
+   {
+    "id": "gmb-2022-217101",
+    "titel": "Aanvraag evenementenvergunning Piet Heinkade 179A",
+    "soort": "evenementenvergunning",
+    "datum": "2022-05-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Piet Heinkade 179A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-217101.html"
+   },
+   {
+    "id": "stcrt-2016-49232",
+    "titel": "Voornemen Programma Hoogfrequent Spoorvervoer Amsterdam Centraal",
+    "soort": "Overig",
+    "datum": "2016-09-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2016-49232.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.BP01117-OH01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-10-11",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.BP01117-VG01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.G0902PBPGST-OH01",
+   "naam": "BP_Facet herziening zonebesluit Oostelijk Havengebied-Zeeburg",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2010-09-03",
+   "opp_m2": 2752310,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 4,
+ "pand_adressen": [
+  "Piet Heinkade 179A",
+  "Piet Heinkade 179B",
+  "Piet Heinkade 181A",
+  "Piet Heinkade 181B",
+  "Piet Heinkade 181C",
+  "Piet Heinkade 181D",
+  "Piet Heinkade 181E",
+  "Piet Heinkade 181F",
+  "Piet Heinkade 181G",
+  "Piet Heinkade 181H",
+  "Piet Heinkade 181K"
+ ]
+}

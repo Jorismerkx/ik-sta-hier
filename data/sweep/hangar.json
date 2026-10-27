@@ -1,0 +1,102 @@
+{
+ "id": "hangar",
+ "naam": "Hangar",
+ "adres": "Aambeeldstraat 36, 1021 KB Amsterdam",
+ "termen": [
+  "Aambeeldstraat 36",
+  "1021KB",
+  "1021 KB",
+  "Hangar"
+ ],
+ "pand": "0363100012246330",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 3,
+  "gezocht": [
+   "Aambeeldstraat 36"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2024-97104",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Aambeeldstraat 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-03-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Aambeeldstraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-97104.html"
+   },
+   {
+    "id": "gmb-2023-556919",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Aambeeldstraat 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-12-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Aambeeldstraat 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-556919.html"
+   },
+   {
+    "id": "prb-2023-5999",
+    "titel": "Melding Vuurwerk - Aambeeldstraat 36, Amsterdam",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-05-30",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-5999.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 0,
+  "plannen": 31,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 35,
+ "pand_adressen": [
+  "Aambeeldstraat 36"
+ ]
+}

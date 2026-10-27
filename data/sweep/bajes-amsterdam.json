@@ -1,0 +1,961 @@
+{
+ "id": "bajes-amsterdam",
+ "naam": "Bajes Amsterdam",
+ "adres": "H.J.E. Wenckebachweg 48, 1096 AN Amsterdam",
+ "termen": [
+  "H.J.E. Wenckebachweg 48",
+  "1096AN",
+  "1096 AN",
+  "Bajes Amsterdam",
+  "Levenslang"
+ ],
+ "pand": "0363100012094176",
+ "status": "open",
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "middel",
+  "zalen": 4
+ },
+ "bouwdossiers": {
+  "n": 32,
+  "openbaar": 0,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_36374",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_36374"
+   },
+   {
+    "dossier": "SU_36311",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 279,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_36311"
+   },
+   {
+    "dossier": "SU_36329",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 227,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_36329"
+   },
+   {
+    "dossier": "SU_15901",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "2001-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15901"
+   },
+   {
+    "dossier": "SU_15902",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "2001-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15902"
+   },
+   {
+    "dossier": "SU_15531",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15531"
+   },
+   {
+    "dossier": "SU_15528",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "2000-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15528"
+   },
+   {
+    "dossier": "SU_10793",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10793"
+   },
+   {
+    "dossier": "SU_10532",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1999-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10532"
+   },
+   {
+    "dossier": "SU_15112",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1999-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 481,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15112"
+   },
+   {
+    "dossier": "SU_10531",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1999-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10531"
+   },
+   {
+    "dossier": "SU_10525",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1998-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10525"
+   },
+   {
+    "dossier": "SU_16369",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1998-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_16369"
+   },
+   {
+    "dossier": "SU_10530",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "1998-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10530"
+   },
+   {
+    "dossier": "SU_09921",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1998-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09921"
+   },
+   {
+    "dossier": "SU_10521",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10521"
+   },
+   {
+    "dossier": "SU_10791",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1996-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10791"
+   },
+   {
+    "dossier": "SU_10790",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1996-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10790"
+   },
+   {
+    "dossier": "SU_10787",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10787"
+   },
+   {
+    "dossier": "SU_10000",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10000"
+   },
+   {
+    "dossier": "SU_10519",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10519"
+   },
+   {
+    "dossier": "SU_09987",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09987"
+   },
+   {
+    "dossier": "SU_09993",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "1992-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09993"
+   },
+   {
+    "dossier": "SU_09992",
+    "titel": "H.J.E. Wenckebachweg 48",
+    "datum": "1992-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09992"
+   },
+   {
+    "dossier": "SU_10516",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1987-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10516"
+   },
+   {
+    "dossier": "SU_10514",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1986-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10514"
+   },
+   {
+    "dossier": "SU_15526",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1986-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_15526"
+   },
+   {
+    "dossier": "SU_10001",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1982-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10001"
+   },
+   {
+    "dossier": "SU_09997",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1982-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09997"
+   },
+   {
+    "dossier": "SU_09995",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1982-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09995"
+   },
+   {
+    "dossier": "SU_09991",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1981-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 565,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_09991"
+   },
+   {
+    "dossier": "SU_10518",
+    "titel": "H.J.E. Wenckebachweg 48 - 50",
+    "datum": "1981-01-01",
+    "soort": "brug/viaduct/duiker/tunnel",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_10518"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 86,
+  "gezocht": [
+   "H.J.E. Wenckebachweg 48",
+   "H.J.E. Wenckebachweg 48A",
+   "H.J.E. Wenckebachweg 48B",
+   "H.J.E. Wenckebachweg 48C",
+   "H.J.E. Wenckebachweg 48D"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-547141",
+    "titel": "Besluit tijdelijke omgevingsvergunning reguliere procedure verleend H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-16",
+    "onderwerp": "tijdelijk gebruiken van een deel van het pand als evenementenlocatie voor maximaal 25 evenementen per jaar voor een periode van maximaal 5 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-547141.html",
+    "zaak": "Z2024-O000012"
+   },
+   {
+    "id": "gmb-2025-547145",
+    "titel": "Besluit tijdelijke omgevingsvergunning reguliere procedure verleend H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-16",
+    "onderwerp": "tijdelijk gebruiken van een deel van het pand als evenementenlocatie voor maximaal 25 evenementen per jaar voor een periode van maximaal 5 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-547145.html",
+    "zaak": "Z2024-O000012"
+   },
+   {
+    "id": "gmb-2024-147860",
+    "titel": "Verlenging beslistermijn omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-04",
+    "onderwerp": "tijdelijk gebruiken van een deel van het pand als evenementen locatie (max. 5 jaar)",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-147860.html",
+    "zaak": "Z2024-O000012"
+   },
+   {
+    "id": "gmb-2024-122694",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-19",
+    "onderwerp": "wijzigen van de brandcompartimering",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-122694.html",
+    "zaak": "Z2024-000964"
+   },
+   {
+    "id": "gmb-2024-70834",
+    "titel": "Aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-15",
+    "onderwerp": "wijzigen van de brandcompartimering",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-70834.html",
+    "zaak": "Z2024-000964"
+   },
+   {
+    "id": "gmb-2024-37353",
+    "titel": "Aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-23",
+    "onderwerp": "tijdelijk gebruiken van een deel van het pand als evenementen locatie (max. 5 jaar)",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-37353.html",
+    "zaak": "Z2024-O000012"
+   },
+   {
+    "id": "gmb-2023-330826",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48A 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-26",
+    "onderwerp": "Het wijzigen van het gebruik van 293,1 m2 horeca 2 naar gezamenlijk 655,7 m2 horeca 2 , 3 en 4",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-330826.html",
+    "zaak": "Z2023-O000327"
+   },
+   {
+    "id": "gmb-2023-208242",
+    "titel": "Besluit omgevingsvergunning reguliere procedure H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-11",
+    "onderwerp": "verbouwen van de begane grond naar ESCO centrale ten behoeve van de warmtelevering aan het Bajeskwartier",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-208242.html",
+    "zaak": "Z2022-O005825"
+   },
+   {
+    "id": "gmb-2023-174529",
+    "titel": "Verlenging beslistermijn omgevingsvergunning H.J.E. Wenckebachweg 48A 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-20",
+    "onderwerp": "Het wijzigen van het gebruik van 293,1 m2 horeca 2 naar gezamenlijk 655,7 m2 horeca 2 , 3 en 4",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-174529.html",
+    "zaak": "Z2023-O000327"
+   },
+   {
+    "id": "gmb-2023-126047",
+    "titel": "Verlenging beslistermijn omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-23",
+    "onderwerp": "verbouwen van de begane grond naar ESCO centrale ten behoeve van de warmtelevering aan het Bajeskwartier",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-126047.html",
+    "zaak": "Z2022-O005825"
+   },
+   {
+    "id": "gmb-2023-73877",
+    "titel": "Besluit omgevingsvergunning reguliere procedure H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-20",
+    "onderwerp": "het kappen van 85 bomen ter bevordering van de bouw Bajes Kwartier (oosterlijke oever bajes kwartier)",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-73877.html",
+    "zaak": "Z2023-O000145"
+   },
+   {
+    "id": "gmb-2023-73927",
+    "titel": "Aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48A 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-20",
+    "onderwerp": "Het wijzigen van het gebruik van 293,1 m2 horeca 2 naar gezamenlijk 655,7 m2 horeca 2 en 3 ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-73927.html",
+    "zaak": "Z2023-O000327"
+   },
+   {
+    "id": "gmb-2023-20749",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-17",
+    "onderwerp": "het kappen van 85 bomen ter bevordering van de bouw Bajes Kwartier (oosterlijke oever bajes kwartier)",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-20749.html",
+    "zaak": "Z2023-O000145"
+   },
+   {
+    "id": "gmb-2022-568687",
+    "titel": "Aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-22",
+    "onderwerp": "verbouwen van de begane grond naar ESCO centrale ten behoeve van de warmtelevering aan het Bajeskwartier",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-568687.html",
+    "zaak": "Z2022-O005825"
+   },
+   {
+    "id": "gmb-2022-552165",
+    "titel": "Besluit omgevingsvergunning reguliere procedure H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-13",
+    "onderwerp": "een tijdelijke omgevingsvergunning te verlenen voor de duur van 10 jaar na bekendmaking van deze omgevingsvergunning voor het oprichten van een microb",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-552165.html",
+    "zaak": "Z2022-O001044"
+   },
+   {
+    "id": "gmb-2022-222604",
+    "titel": "Verlenging beslistermijn omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-18",
+    "onderwerp": "OBM: H.J.E. Wenckebachweg 48, Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-222604.html",
+    "zaak": "Z2022-O001044"
+   },
+   {
+    "id": "gmb-2022-128618",
+    "titel": "Aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "OBM: H.J.E. Wenckebachweg 48, Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-128618.html",
+    "zaak": "Z2022-O001044"
+   },
+   {
+    "id": "gmb-2021-422538",
+    "titel": "Besluit omgevingsvergunning reguliere procedure H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-24",
+    "onderwerp": "wijzigen van de gevel en het plaatsen van een installatie op het dak ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-422538.html",
+    "zaak": "Z2021-O001849"
+   },
+   {
+    "id": "gmb-2021-273490",
+    "titel": "Verlenging beslistermijn omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-12",
+    "onderwerp": "wijzigen van de gevel, het plaatsen van een installatie op het dak en het tijdelijk wijzigen van het gebruik naar horeca en een fietsenstalling",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-273490.html",
+    "zaak": "Z2021-O001849"
+   },
+   {
+    "id": "gmb-2021-136905",
+    "titel": "Besluit omgevingsvergunning reguliere procedure H.J.E. Wenckebachweg 48 1096AN Amsterdam, H.J.E. Wenckebachweg 48 1096AN, [ASD02AG00976]Straatnaam Amsterdam A AG 976",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-03",
+    "onderwerp": "realiseren van een ondergrondse parkeergarage voor het project Bajeskwartier",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-136905.html"
+   },
+   {
+    "id": "gmb-2021-130685",
+    "titel": "Aanvraag omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-28",
+    "onderwerp": "wijzigen van de gevel, het plaatsen van een installatie op het dak en het tijdelijk wijzigen van het gebruik naar horeca en een fietsenstalling",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-130685.html"
+   },
+   {
+    "id": "gmb-2021-83343",
+    "titel": "Verlenging beslistermijn omgevingsvergunning H.J.E. Wenckebachweg 48 1096AN Amsterdam,",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-17",
+    "onderwerp": "realiseren van een ondergrondse parkeergarage voor het project Bajeskwartier",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-83343.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-547141",
+   "gmb-2025-547145",
+   "gmb-2024-122694",
+   "gmb-2024-70834",
+   "gmb-2024-37353",
+   "gmb-2023-330826",
+   "gmb-2023-208242",
+   "gmb-2023-73877",
+   "gmb-2023-73927",
+   "gmb-2023-20749",
+   "gmb-2022-568687",
+   "gmb-2022-552165",
+   "gmb-2022-128618",
+   "gmb-2021-422538",
+   "gmb-2021-136905",
+   "gmb-2021-130685"
+  ],
+  "zaaknummers": [
+   "Z2021-O001849",
+   "Z2022-O001044",
+   "Z2022-O005825",
+   "Z2023-O000145",
+   "Z2023-O000327",
+   "Z2024-000964",
+   "Z2024-O000012"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-335001",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-335001.html"
+   },
+   {
+    "id": "gmb-2026-292029",
+    "titel": "Aanvraag alcoholwetvergunning H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2026-06-19",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-292029.html"
+   },
+   {
+    "id": "gmb-2026-291978",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-291978.html"
+   },
+   {
+    "id": "gmb-2026-292047",
+    "titel": "Besluit alcoholwetvergunning Verleend - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-19",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-292047.html"
+   },
+   {
+    "id": "gmb-2026-281094",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-15",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-281094.html"
+   },
+   {
+    "id": "gmb-2026-246730",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-246730.html"
+   },
+   {
+    "id": "gmb-2026-146973",
+    "titel": "Aanvraag evenementenvergunning H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-30",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-146973.html"
+   },
+   {
+    "id": "gmb-2026-34058",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Dijkmeerlaan 378 in",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Dijkmeerlaan 378 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-34058.html"
+   },
+   {
+    "id": "gmb-2025-462874",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-462874.html"
+   },
+   {
+    "id": "gmb-2025-422792",
+    "titel": "Besluit evenementenvergunning Verleend - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-30",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-422792.html"
+   },
+   {
+    "id": "gmb-2025-372821",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - H.J.E. Wenckebachweg 48 in Amsterdam en C.J.van Houtenlaan 36-WV in",
+    "soort": "exploitatievergunning",
+    "datum": "2025-08-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in Amsterdam en C.J.van Houtenlaan 36-WV in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-372821.html"
+   },
+   {
+    "id": "gmb-2025-274279",
+    "titel": "Aanvraag evenementenvergunning H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-274279.html"
+   },
+   {
+    "id": "gmb-2025-227488",
+    "titel": "Besluit apv vergunning Verleend - H.J.E. Wenckebachweg ter hoogte van nummer: 48 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-05-26",
+    "onderwerp": "TVM parkeervak,Filmen,H.J.E. Wenckebachweg 48 1096AN, 20250526, H.J.E. Wenckebachweg ter hoogte van nummer: 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-227488.html"
+   },
+   {
+    "id": "gmb-2025-133799",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-03-28",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-133799.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-425005",
+    "titel": "Besluit evenementenvergunning Verleend - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-08",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-425005.html"
+   },
+   {
+    "id": "gmb-2024-404074",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-404074.html"
+   },
+   {
+    "id": "gmb-2024-349342",
+    "titel": "Aanvraag evenementenvergunning H.J.E. Wenckebachweg 48 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-349342.html"
+   },
+   {
+    "id": "gmb-2024-227700",
+    "titel": "Melding verrichten milieubelastende activiteit - H.J.E. Wenckebachweg 48, Amsterdam - Het drogen van beton - Verboom Installatietechniek B.V.",
+    "soort": "omgevingsmelding",
+    "datum": "2024-05-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam - Stadsdeel Oost",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-227700.html"
+   },
+   {
+    "id": "gmb-2024-212321",
+    "titel": "Melding Milieubelastende activiteit - H.J.E. Wenckebachweg 48, Amsterdam - Drogen van beton",
+    "soort": "omgevingsmelding",
+    "datum": "2024-05-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam - Stadsdeel Oost",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-212321.html"
+   },
+   {
+    "id": "gmb-2024-17496",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2024-01-09",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-17496.html"
+   },
+   {
+    "id": "wsb-2023-16462",
+    "titel": "Verleende Watervergunning voor het aanleggen van een nieuwe brug, het dempen en graven van oppervlaktewater en het inrichten van een natuurvriendelijke oever, ter hoogte van H.J.E. Wenckebachweg 48 1096AN Amsterdam, [ASD02AG02272] Amsterdam A AG 2272 - AGV - WN2023-006517",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2023-12-28",
+    "onderwerp": "Watervergunning, Bajes Kwartier B.V., H.J.E. Wenckebachweg in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2023-16462.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-418045",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2023-10-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-418045.html"
+   },
+   {
+    "id": "gmb-2023-416170",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2023-09-29",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-416170.html"
+   },
+   {
+    "id": "gmb-2023-410228",
+    "titel": "Besluit evenementenvergunning VerleendH.J.E. Wenckebachweg 48 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres H.J.E. Wenckebachweg 48 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-410228.html"
+   },
+   {
+    "id": "gmb-2023-389395",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2023-09-11",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-389395.html"
+   },
+   {
+    "id": "gmb-2023-383667",
+    "titel": "Aanvraag alcoholwetvergunning H.J.E. Wenckebachweg 48",
+    "soort": "andere vergunning",
+    "datum": "2023-09-05",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-383667.html"
+   },
+   {
+    "id": "gmb-2023-383698",
+    "titel": "Besluit alcoholwetvergunning Verleend - H.J.E. Wenckebachweg 48 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-09-05",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres H.J.E. Wenckebachweg 48",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-383698.html"
+   },
+   {
+    "id": "gmb-2023-383619",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - H.J.E. Wenckebachweg 48 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-05",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres H.J.E. Wenckebachweg 48 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-383619.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.M1913BPGST-VG01",
+   "naam": "Weespertrekvaart West - Bajes Kwartier",
+   "type": "uitwerkingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-04-20",
+   "opp_m2": 74756,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.M1814BPGST-VG01",
+   "naam": "Weespertrekvaart West 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-06-27",
+   "opp_m2": 81286,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.M1603BPGST-VG01",
+   "naam": "Weespertrekvaart West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2017-11-29",
+   "opp_m2": 83832,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 9,
+  "plannen": 8,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 19,
+ "pand_adressen": [
+  "H.J.E. Wenckebachweg 48",
+  "H.J.E. Wenckebachweg 48A",
+  "H.J.E. Wenckebachweg 48B",
+  "H.J.E. Wenckebachweg 48C",
+  "H.J.E. Wenckebachweg 48D"
+ ]
+}

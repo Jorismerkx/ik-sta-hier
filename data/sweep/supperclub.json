@@ -1,0 +1,488 @@
+{
+ "id": "supperclub",
+ "naam": "Supperclub",
+ "adres": "Singel 460, 1017 AW Amsterdam",
+ "termen": [
+  "Singel 460",
+  "1017AW",
+  "1017 AW",
+  "Supperclub"
+ ],
+ "pand": "0363100012171740",
+ "status": "open",
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 12,
+  "openbaar": 12,
+  "laatste": "2004-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_22747",
+    "titel": "Singel 460",
+    "datum": "2004-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22747"
+   },
+   {
+    "dossier": "SA_22750",
+    "titel": "Singel 460",
+    "datum": "2004-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22750"
+   },
+   {
+    "dossier": "SA_22751",
+    "titel": "Singel 460",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22751"
+   },
+   {
+    "dossier": "SA_22737",
+    "titel": "Singel 460",
+    "datum": "2002-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22737"
+   },
+   {
+    "dossier": "SA_22734",
+    "titel": "Singel 460",
+    "datum": "2002-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22734"
+   },
+   {
+    "dossier": "SA_22742",
+    "titel": "Singel 460",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22742"
+   },
+   {
+    "dossier": "SA_22690",
+    "titel": "Singel 460",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 82,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22690"
+   },
+   {
+    "dossier": "SA_22677",
+    "titel": "Singel 460",
+    "datum": "1990-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 131,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22677"
+   },
+   {
+    "dossier": "SA_22670",
+    "titel": "Singel 460",
+    "datum": "1977-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22670"
+   },
+   {
+    "dossier": "SA_22665",
+    "titel": "Singel 460",
+    "datum": "1939-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22665"
+   },
+   {
+    "dossier": "SA_22660",
+    "titel": "Singel 460",
+    "datum": "1936-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22660"
+   },
+   {
+    "dossier": "SA_22647",
+    "titel": "Singel 460",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_22647"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 30,
+  "gezocht": [
+   "Singel 460",
+   "Singel 460A"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-205569",
+    "titel": "Besluit omgevingsvergunning reguliere procedure geweigerd Singel 460 1017AW Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-10",
+    "onderwerp": "plaatsen van twee banieren aan de gevel",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-205569.html",
+    "zaak": "Z2024-004835"
+   },
+   {
+    "id": "gmb-2024-148878",
+    "titel": "Aanvraag omgevingsvergunning Singel 460 1017AW Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-04",
+    "onderwerp": "plaatsen van twee banieren aan de gevel",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-148878.html",
+    "zaak": "Z2024-004835"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-205569",
+   "gmb-2024-148878"
+  ],
+  "zaaknummers": [
+   "Z2024-004835"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "stcrt-2026-35773",
+    "titel": "Rechtbank Amsterdam; Faillissementen,surseances en schuldsaneringen",
+    "soort": "faillissement, surseance van betaling of schuldsanering",
+    "datum": "2026-10-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-35773.html"
+   },
+   {
+    "id": "gmb-2025-359513",
+    "titel": "Amsterdam Centrum, verkeersbesluit Singel 460, opheffen taxistandplaats en venstertijden laad- en losplaats",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2025-08-18",
+    "onderwerp": "Singel 460, opheffen taxistandplaats en venstertijden laad- en losplaats",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-359513.html"
+   },
+   {
+    "id": "gmb-2025-136321",
+    "titel": "Besluit evenementenvergunning Verleend - Singel 460 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-31",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-136321.html"
+   },
+   {
+    "id": "gmb-2025-11466",
+    "titel": "Aanvraag evenementenvergunning Singel 460 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-11466.html"
+   },
+   {
+    "id": "gmb-2024-374021",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Singel 460 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-02",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-374021.html"
+   },
+   {
+    "id": "gmb-2024-32213",
+    "titel": "Besluit evenementenvergunning Buiten behandelingSingel 460 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-19",
+    "onderwerp": "Buiten behandeling: evenementenvergunning ter hoogte van adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-32213.html"
+   },
+   {
+    "id": "gmb-2023-563881",
+    "titel": "Aanvraag evenementenvergunning Singel 460 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-563881.html"
+   },
+   {
+    "id": "gmb-2023-507346",
+    "titel": "Besluit apv vergunning Verleend - Singel 460",
+    "soort": "andere vergunning",
+    "datum": "2023-11-28",
+    "onderwerp": "Werkzaamheden en vervoer op straat Singel 460 1017AW, Singel 460",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-507346.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-291856",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Geweigerd - Singel 460 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Geweigerd: exploitatievergunning horecabedrijf op adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-291856.html"
+   },
+   {
+    "id": "gmb-2023-285516",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Singel 460A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Singel 460A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-285516.html"
+   },
+   {
+    "id": "gmb-2023-245850",
+    "titel": "Aanvraag (Terras) exploitatievergunning horecabedrijf - Singel 460 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Singel 460 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-245850.html"
+   },
+   {
+    "id": "gmb-2023-152947",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Singel 460A in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-04-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Singel 460A in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-152947.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-380762",
+    "titel": "Besluit exploitatievergunning horecabedrijf Ingetrokken Singel 460",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-23",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Singel 460",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-380762.html"
+   },
+   {
+    "id": "gmb-2022-286700",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Singel 460",
+    "soort": "exploitatievergunning",
+    "datum": "2022-06-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Singel 460",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-286700.html"
+   },
+   {
+    "id": "gmb-2022-261492",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Singel 460",
+    "soort": "exploitatievergunning",
+    "datum": "2022-06-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Singel 460",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-261492.html"
+   },
+   {
+    "id": "gmb-2022-78231",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Singel 460",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Singel 460",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-78231.html"
+   },
+   {
+    "id": "gmb-2022-78192",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Singel 460A",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Singel 460A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-78192.html"
+   },
+   {
+    "id": "gmb-2021-379958",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Singel 460",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Singel 460",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-379958.html"
+   },
+   {
+    "id": "gmb-2021-380211",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Singel 460A",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Singel 460A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380211.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   },
+   {
+    "id": "stcrt-2014-33613",
+    "titel": "Verkeersbesluit Singel 460",
+    "soort": "Verkeersbesluiten",
+    "datum": "2014-11-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-33613.html"
+   },
+   {
+    "id": "stcrt-2010-13820",
+    "titel": "Ontbindingen Kamer van Koophandel",
+    "soort": "Registermutaties | Handelsregister Kamer van Koophandel",
+    "datum": "2010-09-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-13820.html"
+   },
+   {
+    "id": "stcrt-2010-6952",
+    "titel": "Ontbindingen Kamer van Koophandel",
+    "soort": "Registermutaties | Handelsregister Kamer van Koophandel",
+    "datum": "2010-05-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2010-6952.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 3,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 5,
+ "pand_adressen": [
+  "Singel 460",
+  "Singel 460A"
+ ]
+}

@@ -1,0 +1,359 @@
+{
+ "id": "de-nieuwe-anita",
+ "naam": "De Nieuwe Anita",
+ "adres": "Frederik Hendrikstraat 111, 1052 HN Amsterdam",
+ "termen": [
+  "Frederik Hendrikstraat 111",
+  "1052HN",
+  "1052 HN",
+  "De Nieuwe Anita"
+ ],
+ "pand": "0363100012136487",
+ "status": null,
+ "huidig": {
+  "basis": "schatting",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 10,
+  "openbaar": 10,
+  "laatste": "1994-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_59856",
+    "titel": "Frederik Hendrikstraat 111 A - 111 E; Frederik Hendrikstraat 113 A - 113 H; Frederik Hendrikstraat 113 K - 113 N; Frederik Hendrikstraat 113 P; Frederik Hendrikstraat 115 A - 115 H; Frederik Hendrikstraat 115 K - 115 N",
+    "datum": "1994-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_59856"
+   },
+   {
+    "dossier": "SJ_42080",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_42080"
+   },
+   {
+    "dossier": "SJ_42068",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_42068"
+   },
+   {
+    "dossier": "SJ_42050",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_42050"
+   },
+   {
+    "dossier": "SJ_42076",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_42076"
+   },
+   {
+    "dossier": "SJ_35148",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_35148"
+   },
+   {
+    "dossier": "SJ_35147",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_35147"
+   },
+   {
+    "dossier": "SJ_35150",
+    "titel": "Frederik Hendrikstraat 111 - 115",
+    "datum": "1937-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_35150"
+   },
+   {
+    "dossier": "SJ_35149",
+    "titel": "Frederik Hendrikstraat 115",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_35149"
+   },
+   {
+    "dossier": "SJ_35155",
+    "titel": "Frederik Hendrikstraat 115",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_35155"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 13,
+  "gezocht": [
+   "Frederik Hendrikstraat 111",
+   "Frederik Hendrikstraat 111A",
+   "Frederik Hendrikstraat 111B",
+   "Frederik Hendrikstraat 111C",
+   "Frederik Hendrikstraat 111D",
+   "Frederik Hendrikstraat 111E",
+   "Frederik Hendrikstraat 113A",
+   "Frederik Hendrikstraat 113B",
+   "Frederik Hendrikstraat 113C",
+   "Frederik Hendrikstraat 113D",
+   "Frederik Hendrikstraat 113E",
+   "Frederik Hendrikstraat 113F",
+   "Frederik Hendrikstraat 113G"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-478282",
+    "titel": "Verleende Omgevingsvergunning, maken van een dakterras (balkon), kelder, overkapping en constructieve aanpass., Frederik Hendrikstraat 111, 3583VJ Utrecht, GU-Z2025-0029138",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-05",
+    "onderwerp": "Toelichting: maken van een dakterras (balkon), kelder, overkapping en constructieve aanpass.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-478282.html",
+    "zaak": "Rx.Mission zaak GU-Z2025-0029138"
+   },
+   {
+    "id": "gmb-2025-386844",
+    "titel": "Aanvraag omgevingsvergunning, het maken van een uitbouw, kelder, overkapping en constructieve aanpassingen, Frederik Hendrikstraat 111, 3583VJ Utrecht, GU-Z2025-0029138",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-08",
+    "onderwerp": "Toelichting: het maken van een uitbouw, kelder, overkapping en constructieve aanpassingen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-386844.html",
+    "zaak": "Rx.Mission zaak GU-Z2025-0029138"
+   },
+   {
+    "id": "gmb-2014-11474",
+    "titel": "Verleende omgevingsvergunning reguliere procedure verzonden op 25 februari 2014 ",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2014-03-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-11474.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-386844"
+  ],
+  "zaaknummers": [
+   "Rx.Mission zaak GU-Z2025-0029138"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-412198",
+    "titel": "Verleende vergunning voor het kadastraal splitsen van een gebouw in twee appartementsrechten, Frederik Hendrikstraat 111 en 113, 3583VJ Utrecht, GU-Z2026-0056740",
+    "soort": "andere vergunning",
+    "datum": "2026-09-02",
+    "onderwerp": "Verleende vergunning voor het kadastraal splitsen van een gebouw in twee appartementsrechten, Frederik Hendrikstraat 111 en 113, 3583VJ Utrecht, GU-Z2026-0056740",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-412198.html"
+   },
+   {
+    "id": "gmb-2026-405126",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Ingetrokken - Frederik Hendrikstraat 111D in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-28",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Frederik Hendrikstraat 111D in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-405126.html"
+   },
+   {
+    "id": "gmb-2026-378866",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Frederik Hendrikstraat 111D in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Frederik Hendrikstraat 111D in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-378866.html"
+   },
+   {
+    "id": "gmb-2026-256370",
+    "titel": "Aanvraag vergunning voor het kadastraal splitsen van een gebouw in twee appartementsrechten, Frederik Hendrikstraat 111 en 113, 3583VJ Utrecht, GU-Z2026-0056740",
+    "soort": "andere vergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "Aanvraag vergunning voor het kadastraal splitsen van een gebouw in twee appartementsrechten, Frederik Hendrikstraat 111 en 113, 3583VJ Utrecht, GU-Z2026-0056740",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-256370.html"
+   },
+   {
+    "id": "blg-1185965",
+    "titel": "Alpha Quick Scan: een zoektocht naar 'flakka'",
+    "soort": "Bijlage",
+    "datum": "2025-03-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-1185965.html"
+   },
+   {
+    "id": "gmb-2024-351398",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Frederik Hendrikstraat 111A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-13",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Frederik Hendrikstraat 111A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-351398.html"
+   },
+   {
+    "id": "gmb-2024-323046",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Frederik Hendrikstraat 111A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Frederik Hendrikstraat 111A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323046.html"
+   },
+   {
+    "id": "gmb-2024-79155",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Frederik Hendrikstraat 111A in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-20",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Frederik Hendrikstraat 111A in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-79155.html"
+   },
+   {
+    "id": "gmb-2021-399204",
+    "titel": "Besluit apv vergunning Verleend Frederik Hendrikstraat 111A",
+    "soort": "andere vergunning",
+    "datum": "2021-11-09",
+    "onderwerp": "TVM, Stremmen, Frederik Hendrikstraat 111-117, 25-11-2021 tm 26-11-2021, Frederik Hendrikstraat 111A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-399204.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG02",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-04-05",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG03",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-10-08",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1804BPSTD-VG04",
+   "naam": "Westerpark Zuid",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2025-10-08",
+   "opp_m2": 1067147,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Alpha Quick Scan: een zoektocht naar ‘flakka’ - de feiten, perspectieven en oplossingen",
+   "datum": "2025-03-10",
+   "door": "ministerie van Volksgezondheid, Welzijn en Sport",
+   "url": "https://open.overheid.nl/documenten/c988f930-c41f-4f2d-a35b-47edd7a6a916",
+   "fragment": "Rapportage en coördinatie Ingrid Bakker en Machteld Busz Copyright Stichting Mainline februari 2025. Mainline Frederik Hendrikstraat 111a 1052 HN Amsterdam info64mainline.nl www.mainline.nl mailtoinfo64mainline.nl http"
+  },
+  {
+   "titel": "24077, nr. 552 - Alpha Quick Scan: een zoektocht naar 'flakka'",
+   "datum": "2025-03-11",
+   "door": "Onbekend",
+   "url": "https://zoek.officielebekendmakingen.nl/blg-1185965.html",
+   "fragment": "Rapportage en coördinatie Ingrid Bakker en Machteld Busz Copyright Stichting Mainline februari 2025. Mainline Frederik Hendrikstraat 111a 1052 HN Amsterdam info64mainline.nl www.mainline.nl mailtoinfo64mainline.nl http"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 5,
+  "plannen": 0,
+  "woo": 4
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 12,
+ "pand_adressen": [
+  "Frederik Hendrikstraat 111A",
+  "Frederik Hendrikstraat 111B",
+  "Frederik Hendrikstraat 111C",
+  "Frederik Hendrikstraat 111D",
+  "Frederik Hendrikstraat 111E",
+  "Frederik Hendrikstraat 113A",
+  "Frederik Hendrikstraat 113B",
+  "Frederik Hendrikstraat 113C",
+  "Frederik Hendrikstraat 113D",
+  "Frederik Hendrikstraat 113E",
+  "Frederik Hendrikstraat 113F",
+  "Frederik Hendrikstraat 113G"
+ ]
+}

@@ -1,0 +1,412 @@
+{
+ "id": "klaproos",
+ "naam": "Klaproos",
+ "adres": "Papaverhoek 39, 1032 JZ Amsterdam",
+ "termen": [
+  "Papaverhoek 39",
+  "1032JZ",
+  "1032 JZ",
+  "Klaproos"
+ ],
+ "pand": "0363100012135403",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 15,
+  "openbaar": 15,
+  "laatste": "1997-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_23630",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1997-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_23630"
+   },
+   {
+    "dossier": "SN_23631",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1995-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_23631"
+   },
+   {
+    "dossier": "SN_07670",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1977-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07670"
+   },
+   {
+    "dossier": "SN_02060",
+    "titel": "Papaverhoek 39",
+    "datum": "1973-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02060"
+   },
+   {
+    "dossier": "SN_07647",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1972-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07647"
+   },
+   {
+    "dossier": "SN_07625",
+    "titel": "Papaverhoek 39",
+    "datum": "1972-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07625"
+   },
+   {
+    "dossier": "SN_07603",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07603"
+   },
+   {
+    "dossier": "SN_07575",
+    "titel": "Korte Papaverweg 14; Papaverweg 7 b",
+    "datum": "1962-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07575"
+   },
+   {
+    "dossier": "SN_07540",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1959-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07540"
+   },
+   {
+    "dossier": "SN_07496",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07496"
+   },
+   {
+    "dossier": "SN_07200",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07200"
+   },
+   {
+    "dossier": "SN_07100",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1928-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07100"
+   },
+   {
+    "dossier": "SN_07052",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1921-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07052"
+   },
+   {
+    "dossier": "SN_07048",
+    "titel": "Korte Papaverweg 14; Papaverweg 7 b",
+    "datum": "1920-01-01",
+    "soort": "omgevingsvergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07048"
+   },
+   {
+    "dossier": "SN_07058",
+    "titel": "Korte Papaverweg 14",
+    "datum": "1920-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_07058"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 17,
+  "gezocht": [
+   "Papaverhoek 39"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-348104",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-09",
+    "onderwerp": "tijdelijk plaatsen van een container voor een radiostation op het terras van restaurant Klaproos",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-348104.html",
+    "zaak": "Z2024-009810"
+   },
+   {
+    "id": "gmb-2024-224385",
+    "titel": "Aanvraag omgevingsvergunning Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-23",
+    "onderwerp": "plaatsen van een container op het terras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-224385.html",
+    "zaak": "Z2024-009810"
+   },
+   {
+    "id": "gmb-2024-41700",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-25",
+    "onderwerp": "inpandig en constructief wijzigen en het realiseren van nooduitgangen ten behoeve van het vestigen van een restaurant met een instandhoudingster .....",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-41700.html",
+    "zaak": "Z2023-N002190"
+   },
+   {
+    "id": "gmb-2023-491662",
+    "titel": "Stadsdeel Noord Melding milieu activiteitenbesluit, melding ontvangen Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-17",
+    "onderwerp": "starten van een restaurant",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-491662.html"
+   },
+   {
+    "id": "gmb-2023-468818",
+    "titel": "Aanvraag omgevingsvergunning Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-03",
+    "onderwerp": "inpandig en constructief wijzigen en het realiseren van nooduitgangen ten behoeve van het tijdelijk vestigen van een restaurant",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-468818.html",
+    "zaak": "Z2023-N002190"
+   },
+   {
+    "id": "gmb-2023-398259",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-15",
+    "onderwerp": "functiewijziging ten behoeve van het tijdelijk vestigen van een horeca gelegenheid ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398259.html",
+    "zaak": "Z2023-N001416"
+   },
+   {
+    "id": "gmb-2023-361291",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-17",
+    "onderwerp": "functiewijziging ten behoeve van het tijdelijk vestigen van een horeca gelegenheid",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-361291.html",
+    "zaak": "Z2023-N001416"
+   },
+   {
+    "id": "gmb-2023-306698",
+    "titel": "Aanvraag omgevingsvergunning Papaverhoek 39 1032JZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-12",
+    "onderwerp": "functiewijziging ten behoeve van het tijdelijk vestigen van een horeca gelegenheid",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-306698.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-348104",
+   "gmb-2024-224385",
+   "gmb-2024-41700",
+   "gmb-2023-468818",
+   "gmb-2023-398259",
+   "gmb-2023-306698"
+  ],
+  "zaaknummers": [
+   "Z2023-N001416",
+   "Z2023-N002190",
+   "Z2024-009810"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-424470",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Papaverhoek 39 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Papaverhoek 39 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-424470.html"
+   },
+   {
+    "id": "gmb-2026-413605",
+    "titel": "Aanvraag alcoholwetvergunning Papaverhoek 39",
+    "soort": "andere vergunning",
+    "datum": "2026-09-03",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Papaverhoek 39",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-413605.html"
+   },
+   {
+    "id": "gmb-2024-263884",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Verleend - Papaverhoek 39 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Papaverhoek 39 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-263884.html"
+   },
+   {
+    "id": "gmb-2024-160718",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Papaverhoek 39 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-12",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Papaverhoek 39 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-160718.html"
+   },
+   {
+    "id": "gmb-2024-71422",
+    "titel": "Publicatie voornemen om een tijdelijke huurovereenkomst sluiten met Klaproos 3 BV voor de verhuur van een perceel grond grenzend aan Papaverhoek 39 in Amsterdam",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2024-02-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-71422.html"
+   },
+   {
+    "id": "gmb-2023-460125",
+    "titel": "Besluit alcoholwetvergunning Verleend - Papaverhoek 39 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-10-30",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Papaverhoek 39",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-460125.html"
+   },
+   {
+    "id": "gmb-2023-460037",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Papaverhoek 39 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-10-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Papaverhoek 39 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-460037.html"
+   },
+   {
+    "id": "gmb-2023-344317",
+    "titel": "Aanvraag alcoholwetvergunning Papaverhoek 39",
+    "soort": "andere vergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Papaverhoek 39",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-344317.html"
+   },
+   {
+    "id": "gmb-2023-272035",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Papaverhoek 39 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-22",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Papaverhoek 39 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-272035.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N2002BPGST-VG01",
+   "naam": "Buiksloterham 7e part herz",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-06-22",
+   "opp_m2": 39283,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1405BPSTD-VG01",
+   "naam": "Vierde partiële herziening bestemmingsplan Buiksloterham",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-12-21",
+   "opp_m2": 1028099,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 12,
+  "plannen": 15,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 28,
+ "pand_adressen": [
+  "Papaverhoek 39"
+ ]
+}

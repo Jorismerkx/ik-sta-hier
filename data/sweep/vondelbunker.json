@@ -1,0 +1,154 @@
+{
+ "id": "vondelbunker",
+ "naam": "Vondelbunker",
+ "adres": "Vondelpark 8A, 1071 AA Amsterdam",
+ "termen": [
+  "Vondelpark 8",
+  "Vondelpark 8A",
+  "Vondelpark 8 A",
+  "1071AA",
+  "1071 AA",
+  "Vondelbunker"
+ ],
+ "pand": "0363100012241657",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 3,
+  "gezocht": [
+   "Vondelpark 8",
+   "Vondelpark 8A",
+   "Vondelpark 8 A",
+   "Vondelpark 8B",
+   "Vondelpark 8C"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2024-304669",
+    "titel": "Besluit apv vergunning Verleend - Vondelpark 8A",
+    "soort": "andere vergunning",
+    "datum": "2024-07-12",
+    "onderwerp": "Object,Vezip, Vondelpark 8 A 1071AA, 20240909, Vondelpark 8A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-304669.html"
+   },
+   {
+    "id": "gmb-2024-270739",
+    "titel": "Aanvraag evenementenvergunning Vondelpark 8C in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Vondelpark 8C in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270739.html"
+   },
+   {
+    "id": "gmb-2024-270717",
+    "titel": "Besluit evenementenvergunning Buiten behandelingVondelpark 8C in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Buiten behandeling: evenementenvergunning ter hoogte van adres Vondelpark 8C in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270717.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-VG02",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-11-07",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2001BPSTD-VG01",
+   "naam": "Oud West 2018 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-02-15",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2002BPSTD-VG01",
+   "naam": "Oud West 2018 2e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-11-10",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2202BPSTD-VG01",
+   "naam": "Oud West 2018 3e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-06-26",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2203BPSTD-VG01",
+   "naam": "Oud West 4e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-10-06",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-OW01",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2018-05-03",
+   "opp_m2": 1696790,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Vondelpark 8A",
+  "Vondelpark 8B",
+  "Vondelpark 8C"
+ ]
+}

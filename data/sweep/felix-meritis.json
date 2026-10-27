@@ -1,0 +1,856 @@
+{
+ "id": "felix-meritis",
+ "naam": "Felix Meritis",
+ "adres": "Keizersgracht 324, 1016 EZ Amsterdam",
+ "termen": [
+  "Keizersgracht 324",
+  "1016EZ",
+  "1016 EZ",
+  "Felix Meritis"
+ ],
+ "pand": "0363100012168556",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "hoog",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 31,
+  "openbaar": 31,
+  "laatste": "2012-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_105970",
+    "titel": "Keizersgracht 324",
+    "datum": "2012-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_105970"
+   },
+   {
+    "dossier": "SA_109217",
+    "titel": "Keizersgracht 324",
+    "datum": "2012-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109217"
+   },
+   {
+    "dossier": "SA_105975",
+    "titel": "Keizersgracht 324",
+    "datum": "2012-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_105975"
+   },
+   {
+    "dossier": "SA_105996",
+    "titel": "Keizersgracht 324",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_105996"
+   },
+   {
+    "dossier": "SA_95098",
+    "titel": "Keizersgracht 324",
+    "datum": "2010-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95098"
+   },
+   {
+    "dossier": "SA_26086",
+    "titel": "Keizersgracht 324",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26086"
+   },
+   {
+    "dossier": "SA_26083",
+    "titel": "Keizersgracht 324",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26083"
+   },
+   {
+    "dossier": "SA_105993",
+    "titel": "Keizersgracht 324",
+    "datum": "2006-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_105993"
+   },
+   {
+    "dossier": "SA_26082",
+    "titel": "Keizersgracht 324",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 133,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26082"
+   },
+   {
+    "dossier": "SA_26081",
+    "titel": "Keizersgracht 324",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26081"
+   },
+   {
+    "dossier": "SA_43813",
+    "titel": "Keizersgracht 324 - 326",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_43813"
+   },
+   {
+    "dossier": "SA_26076",
+    "titel": "Keizersgracht 324",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26076"
+   },
+   {
+    "dossier": "SA_26065",
+    "titel": "Keizersgracht 324",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26065"
+   },
+   {
+    "dossier": "SA_26056",
+    "titel": "Prinsengracht 473 K",
+    "datum": "1995-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26056"
+   },
+   {
+    "dossier": "SA_26058",
+    "titel": "Prinsengracht 473 K",
+    "datum": "1995-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26058"
+   },
+   {
+    "dossier": "SA_26048",
+    "titel": "Prinsengracht 473 K",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26048"
+   },
+   {
+    "dossier": "SA_26052",
+    "titel": "Keizersgracht 324",
+    "datum": "1985-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26052"
+   },
+   {
+    "dossier": "SA_26045",
+    "titel": "Prinsengracht 471 A - 473 H; Prinsengracht 473 K",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26045"
+   },
+   {
+    "dossier": "SA_26051",
+    "titel": "Prinsengracht 471 A - 473 H; Prinsengracht 473 K",
+    "datum": "1984-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26051"
+   },
+   {
+    "dossier": "SA_26040",
+    "titel": "Prinsengracht 473",
+    "datum": "1975-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26040"
+   },
+   {
+    "dossier": "SA_26037",
+    "titel": "Keizersgracht 324",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26037"
+   },
+   {
+    "dossier": "SA_26036",
+    "titel": "Keizersgracht 324",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_26036"
+   },
+   {
+    "dossier": "SA_25716",
+    "titel": "Keizersgracht 324; Prinsengracht 471 - 473",
+    "datum": "1954-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25716"
+   },
+   {
+    "dossier": "SA_25713",
+    "titel": "Keizersgracht 324; Prinsengracht 471 - 473",
+    "datum": "1951-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25713"
+   },
+   {
+    "dossier": "SA_25709",
+    "titel": "Keizersgracht 324; Prinsengracht 471 - 473",
+    "datum": "1948-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 52,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25709"
+   },
+   {
+    "dossier": "SA_25705",
+    "titel": "Keizersgracht 324",
+    "datum": "1947-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25705"
+   },
+   {
+    "dossier": "SA_25704",
+    "titel": "Prinsengracht 473",
+    "datum": "1940-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25704"
+   },
+   {
+    "dossier": "SA_25693",
+    "titel": "Prinsengracht 473",
+    "datum": "1939-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25693"
+   },
+   {
+    "dossier": "SA_25681",
+    "titel": "Keizersgracht 324",
+    "datum": "1932-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25681"
+   },
+   {
+    "dossier": "SA_25677",
+    "titel": "Keizersgracht 324",
+    "datum": "1928-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25677"
+   },
+   {
+    "dossier": "SA_25675",
+    "titel": "Prinsengracht 471",
+    "datum": "1920-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_25675"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 38,
+  "gezocht": [
+   "Keizersgracht 324",
+   "Prinsengracht 471A",
+   "Prinsengracht 471B",
+   "Prinsengracht 471C",
+   "Prinsengracht 471D",
+   "Prinsengracht 471E",
+   "Prinsengracht 471F",
+   "Prinsengracht 471G",
+   "Prinsengracht 471H",
+   "Prinsengracht 473A",
+   "Prinsengracht 473B",
+   "Prinsengracht 473C"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2020-296237",
+    "titel": "Aanvraag omgevingsvergunning Prinsengracht 471A 1016HP Amsterdam, Prinsengracht 183L 1015DS AMSTERDAM",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-12",
+    "onderwerp": "innemen van een  nieuwe ligplaats tegenover Prinsengracht 471 door de woonboot Grietje waarbij de huidige ligplaats Prinsengracht 183L wordt opgeh",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-296237.html"
+   },
+   {
+    "id": "gmb-2020-287955",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Keizersgracht 324, Keizersgracht 326A 1016EZ Amsterdam, Keizersgracht 326B 1016EZ Amsterdam, Keizersgracht 326C 1016EZ Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-05",
+    "onderwerp": "bouwen in afwijking van omgevingsvergunning OLO 2348675 Felix Merites, culturele instelling Felix Merites, restaurant en drie woningen ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-287955.html"
+   },
+   {
+    "id": "gmb-2020-262778",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Prinsengracht 471A 1016HP Amsterdam, Prinsengracht 183L 1015DS AMSTERDAM",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-12",
+    "onderwerp": "innemen van een nieuwe ligplaats door woonboot Grietje met behoud van bestemming daarvan tot woning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-262778.html"
+   },
+   {
+    "id": "gmb-2020-258000",
+    "titel": "Aanvraag omgevingsvergunning Prinsengracht 471A 1016HP Amsterdam, Prinsengracht 183L 1015DS AMSTERDAM",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-07",
+    "onderwerp": "het innemen van een nieuwe ligplaats tegenover Prinsengracht 471 door woonboot Grietje met behoud van bestemming daarvan tot woning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-258000.html"
+   },
+   {
+    "id": "gmb-2020-241026",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Keizersgracht 324, Keizersgracht 326A 1016EZ Amsterdam, Keizersgracht 326B 1016EZ Amsterdam, Keizersgracht 326C 1016EZ Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-21",
+    "onderwerp": "bouwen in afwijking van omgevingsvergunning OLO 2348675 Felix Meritis",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-241026.html"
+   },
+   {
+    "id": "gmb-2020-229365",
+    "titel": "Aanvraag omgevingsvergunning Keizersgracht 324, Keizersgracht 326A 1016EZ Amsterdam, Keizersgracht 326B 1016EZ Amsterdam, Keizersgracht 326C 1016EZ Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-08",
+    "onderwerp": "bouwen in afwijking van omgevingsvergunning OLO 2348675 Felix Meritis",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-229365.html"
+   },
+   {
+    "id": "stcrt-2017-15382",
+    "titel": "Verlening omgevingsvergunning met projectafwijking voor de gebouwen Keizersgracht 326 en Keizersgracht 324/Prinsengracht 473 (Felix Meritis)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-03-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-15382.html"
+   },
+   {
+    "id": "stcrt-2017-426",
+    "titel": "Ontwerpomgevingsvergunning met projectafwijking voor de gebouwen Keizersgracht 326 en Keizersgracht 324/Prinsengracht 473 (Felix Meritis)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2017-01-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2017-426.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2020-296237",
+   "gmb-2020-287955",
+   "gmb-2020-262778",
+   "gmb-2020-258000",
+   "gmb-2020-229365"
+  ],
+  "zaaknummers": [],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-478167",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht ter hoogte van nummer: 324 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-10-13",
+    "onderwerp": "TVM parkeervak,TVM stremmen,Object,Keizersgracht 324 1016EZ, 20261018, Keizersgracht ter hoogte van nummer: 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-478167.html"
+   },
+   {
+    "id": "gmb-2026-442536",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht ter hoogte van nummer: 324 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-22",
+    "onderwerp": "Object,Keizersgracht 324 1016EZ, 20261014, Keizersgracht ter hoogte van nummer: 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-442536.html"
+   },
+   {
+    "id": "gmb-2026-409734",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Keizersgracht 324 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-09-01",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Keizersgracht 324 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-409734.html"
+   },
+   {
+    "id": "gmb-2025-574170",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht ter hoogte van nummer: 324 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-12-30",
+    "onderwerp": "TVM parkeervak, Keizersgracht 324 1016EZ, 20260107, Keizersgracht ter hoogte van nummer: 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-574170.html"
+   },
+   {
+    "id": "gmb-2025-443229",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht ter hoogte van nummer: 324 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-10-14",
+    "onderwerp": "Object,Keizersgracht 324 1016EZ, 20251016, Keizersgracht ter hoogte van nummer: 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-443229.html"
+   },
+   {
+    "id": "gmb-2025-260930",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht ter hoogte van nummer: 324 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-06-17",
+    "onderwerp": "TVM parkeervak,TVM stremmen,RVV,Filmen,Keizersgracht 324 1016EZ, 20250702, Keizersgracht ter hoogte van nummer: 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-260930.html"
+   },
+   {
+    "id": "gmb-2024-455649",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2024-10-29",
+    "onderwerp": "TVM parkeervak,Filmen, Keizersgracht 324 1016EZ, 20241105, Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-455649.html"
+   },
+   {
+    "id": "gmb-2024-431332",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2024-10-14",
+    "onderwerp": "Object, Keizersgracht 324 1016EZ, 20241010, Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-431332.html"
+   },
+   {
+    "id": "gmb-2024-381294",
+    "titel": "Besluit alcoholwetvergunning Verleend - Keizersgracht 324 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381294.html"
+   },
+   {
+    "id": "gmb-2024-381309",
+    "titel": "Besluit () exploitatievergunning horecabedrijf Ingetrokken - Keizersgracht 324 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Keizersgracht 324 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-381309.html"
+   },
+   {
+    "id": "gmb-2024-362065",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Keizersgracht 324 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-22",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Keizersgracht 324 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-362065.html"
+   },
+   {
+    "id": "gmb-2024-207626",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Keizersgracht 324 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Keizersgracht 324 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-207626.html"
+   },
+   {
+    "id": "gmb-2024-37568",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2024-01-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-37568.html"
+   },
+   {
+    "id": "gmb-2023-526097",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2023-12-11",
+    "onderwerp": "Werkzaamheden en vervoer op straat Keizersgracht 324 1016EZ, Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-526097.html"
+   },
+   {
+    "id": "gmb-2023-481281",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Keizersgracht 324 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-11-13",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Keizersgracht 324 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-481281.html"
+   },
+   {
+    "id": "gmb-2023-440054",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Werkzaamheden en vervoer op straat Keizersgracht 324 1016EZ, Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440054.html"
+   },
+   {
+    "id": "gmb-2022-447038",
+    "titel": "Besluit apv vergunning Verleend Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2022-10-07",
+    "onderwerp": "Objectvergunning,Keizersgracht 324,op 11-10-2022 tot 26-10-2022, Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-447038.html"
+   },
+   {
+    "id": "gmb-2022-173028",
+    "titel": "Besluit alcoholwetvergunning Verleend Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-173028.html"
+   },
+   {
+    "id": "gmb-2022-173054",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Keizersgracht 324",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-173054.html"
+   },
+   {
+    "id": "gmb-2022-173100",
+    "titel": "Besluit alcoholwetvergunning Verleend Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-173100.html"
+   },
+   {
+    "id": "gmb-2022-173147",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Keizersgracht 324",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-173147.html"
+   },
+   {
+    "id": "gmb-2022-173053",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Keizersgracht 324",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-173053.html"
+   },
+   {
+    "id": "gmb-2021-341454",
+    "titel": "Aanvraag alcoholwetvergunning Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2021-10-04",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-341454.html"
+   },
+   {
+    "id": "gmb-2021-341398",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Keizersgracht 324",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-341398.html"
+   },
+   {
+    "id": "gmb-2021-341404",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Keizersgracht 324",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-341404.html"
+   },
+   {
+    "id": "gmb-2021-341436",
+    "titel": "Aanvraag alcoholwetvergunning Keizersgracht 324",
+    "soort": "andere vergunning",
+    "datum": "2021-10-04",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Keizersgracht 324",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-341436.html"
+   },
+   {
+    "id": "nds-ocw0800398-b1",
+    "titel": "Brief van de minister van OCW over de budgettair neutrale overdracht subsidies",
+    "soort": "Bijlage",
+    "datum": "2008-04-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/nds-ocw0800398-b1.html"
+   },
+   {
+    "id": "kst-28989-30-b1",
+    "titel": "Rapportage 'Huis voor de Culturele Dialoog'",
+    "soort": "Bijlage",
+    "datum": "2006-03-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/kst-28989-30-b1.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1102BPSTD-VG01",
+   "naam": "Westelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-02-07",
+   "opp_m2": 1281977,
+   "pdfs": [],
+   "figuren": [
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/i_NL.IMRO.0363.A1102BPSTD-VG01_0039.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/i_NL.IMRO.0363.A1102BPSTD-VG01_0040.jpg",
+    "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/i_NL.IMRO.0363.A1102BPSTD-VG01_0041.jpg"
+   ],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_14.html",
+     "tekst": " Hoofdstuk 14 Inspraak Over het concept-ontwerpbestemmingsplan is op 7 maart 2012, overeenkomstig de gemeentelijke inspraakverordening, in Felix Meritis aan de Keizergracht een inspraakbijeenkomst gehouden. Voorafgaand aan de inspraakbijeenkomst heeft het plan vanaf 22 februari 2012 ter inzage gelegen. Vanaf dat moment was het plan ook digitaal te raadplegen. Op de inspraakbijeenkomst waren 50 bewoners en anderen die betrokken zijn bij (delen van) het plangebied aanwezig. Een aantal aanwezigen heeft op de inspraakbijeenkomst een mondelinge i"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_14.html",
+     "tekst": "nen als terras wordt gezien als bedrijfsmatig gebruik dat verboden is gesteld. Bovenstaande tekst is ter verduidelijking aan de toelichting toegevoegd. Binnen het plangebied hebben zes culturele instellingen de mogelijkheid om horeca te exploiteren. Dit zijn De Rode Hoed, Felix Meritis, het Bijbels Museum, Huis Marseille, het Grachtenhuis en de Westerkerk. Voordat deze instellingen horeca-activiteiten kunnen uitvoeren, dient eerst een aanvraag omgevingsvergunning voor afwijking van het bestemmingsplan te worden aangevraagd. Aan de omgevingsvergunning kunnen voorwaarden worden verbonden, bijvoorbeeld over de manier waarop de horeca geÃ«xploiteerd wordt of het treffen van maatre"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_5.1.html",
+     "tekst": "omt een aantal functies voor met (privÃ©)parkeren op eigen terrein: de brandweer, het hoofdbureau van politie en naast het gebouw Raamplein 1 (15 parkeerplaatsen). Op sommige plaatsen vormt het fiets- en scooterparkeren een groot probleem, bijvoorbeeld bij publieksfuncties (Rode Hoed, Felix Meritis) en bij de radiale winkelstraatjes in de grachtengordel. Fietsen worden op plekken neergezet die hiervoor niet bedoeld zijn. Het gevolg is dat de openbare ruimte verrommelt en voetgangers belemmerd worden. Om de openbare ruimte te ontlasten is Ã©Ã©n van de oplossingen om bij herontwikkeling van grote gebouwen inpandige fietsenstallingen op te nemen. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_6.4.html",
+     "tekst": "ne vestigingen waaronder veel galerieÃ«n/expositieruimten. Culturele instellingen Het plangebied kent een groot aantal culturele instellingen. In de Westelijke grachtengordel ondermeer het Anne Frank Huis, het Bijbelsmuseum, het Grachtenhuis en Felix Meritis. Jeugdtheater De Krakeling, het Rozentheater, het Pianolamuseum en het Theo Thijssenmuseum zijn voorbeelden van culturele instellingen in de Jordaan. Het Anne Frank Huis aan de Prinsengracht trok in 2011, 1.104.233 bezoekers, ruim 50.000 meer dan in 2010. Het meerendeel van het bezoek â rond de 85% â komt uit het buitenland. In vergelijking met overige musea in Amsterdam is de "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_6.4.html",
+     "tekst": "uze voorwerpen uit de joodse en christelijke traditie te zien. Op 15 april 2011 is Het Grachtenhuis aan de Herengracht 386 te Amsterdam geopend. Het Grachtenhuis brengt de geschiedenis van het zeventiende-eeuwse stadsuitbreiding, de Amsterdamse grachtengordel, in beeld. Felix Meritis, onafhankelijk Europees centrum voor kunst, cultuur en wetenschap is een (inter)nationale ontmoetingsplaats. Het zet tradities en waarden voortÂ die uit de Verlichting stammen enÂ die de oprichters van Felix Meritis inspireerden. Deze 40 burgers lieten een imposant pand aan de Keizersgracht bouwen, ingewijd in 1788. <img id=\"o1452\" src=\"i_NL.IMRO.0363.A1102BPSTD-VG01_0040."
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_6.4.html",
+     "tekst": "nde-eeuwse stadsuitbreiding, de Amsterdamse grachtengordel, in beeld. Felix Meritis, onafhankelijk Europees centrum voor kunst, cultuur en wetenschap is een (inter)nationale ontmoetingsplaats. Het zet tradities en waarden voortÂ die uit de Verlichting stammen enÂ die de oprichters van Felix Meritis inspireerden. Deze 40 burgers lieten een imposant pand aan de Keizersgracht bouwen, ingewijd in 1788. Felix Meritis Jeugdtheater de Krakeling is opgericht in 1"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_6.4.html",
+     "tekst": "eze 40 burgers lieten een imposant pand aan de Keizersgracht bouwen, ingewijd in 1788. Felix Meritis Jeugdtheater de Krakeling is opgericht in 1978. Het theater is gehuisvest in het pand dat eerst onder de naam 'De Turnhallen' in gebruik is genomen door twee turnverenigingen. De grote gymzaal (39 x 13 meter) wordt In 1977 omgebouwd tot een theaterzaal. Tegenwoordig vinden er jaarlijks 250 voorstellingen plaats in de leeftijdscategorieÃ«n van 2 tot 17 jaar voor circa 35"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_6.9.html",
+     "tekst": " in reguliere horecabestemmingen. In het plangebied kunnen in ieder geval de volgende culturele instellingen en musea een aanvraag indienen om in aanmerking te komen voor horeca 6 (culturele horeca) : De Rode Hoed; Felix Meritis; Het Bijbels Museum Huis Marseille Het Grachtenhuis De Westerkerk 6.9.2 Ontwikkeling Horeca 6 is een nieuwe horecacategorie in het plangebied. <div id=\"_6.9.3_Uitgangspunten\" c"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 47,
+  "bekendmakingen": 142,
+  "plannen": 325,
+  "woo": 4
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/i_NL.IMRO.0363.A1102BPSTD-VG01_0039.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/i_NL.IMRO.0363.A1102BPSTD-VG01_0040.jpg",
+  "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/i_NL.IMRO.0363.A1102BPSTD-VG01_0041.jpg"
+ ],
+ "duur_s": 841,
+ "pand_adressen": [
+  "Keizersgracht 324",
+  "Prinsengracht 471A",
+  "Prinsengracht 471B",
+  "Prinsengracht 471C",
+  "Prinsengracht 471D",
+  "Prinsengracht 471E",
+  "Prinsengracht 471F",
+  "Prinsengracht 471G",
+  "Prinsengracht 471H",
+  "Prinsengracht 473A",
+  "Prinsengracht 473B",
+  "Prinsengracht 473C"
+ ]
+}

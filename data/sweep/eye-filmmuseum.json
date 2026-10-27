@@ -1,0 +1,386 @@
+{
+ "id": "eye-filmmuseum",
+ "naam": "EYE Filmmuseum",
+ "adres": "IJpromenade 1, 1031 KT Amsterdam",
+ "termen": [
+  "IJpromenade 1",
+  "1031KT",
+  "1031 KT",
+  "EYE Filmmuseum"
+ ],
+ "pand": "0363100012237838",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 73,
+  "gezocht": [
+   "IJpromenade 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2022-549653",
+    "titel": "Aanvraag omgevingsvergunning ter hoogte van IJpromenade 1 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-12",
+    "onderwerp": "aanleggen van een drainage Schegpark",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-549653.html",
+    "zaak": "Z2022-N003035"
+   },
+   {
+    "id": "gmb-2022-550366",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Schegpark Overhoeks ter hoogte van IJpromenade 1 1031KT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-12",
+    "onderwerp": "aanleggen van een drainage Schegpark",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-550366.html",
+    "zaak": "Z2022-N003035"
+   },
+   {
+    "id": "gmb-2021-8586",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning IJpromenade 1 1031KT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-01-11",
+    "onderwerp": "oprichten lichtkunstwerk in kader van Amsterdam Light Festival",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-8586.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2022-549653",
+   "gmb-2022-550366",
+   "gmb-2021-8586"
+  ],
+  "zaaknummers": [
+   "Z2022-N003035"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-407240",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-31",
+    "onderwerp": "Object,Afgesloten gebieden,IJpromenade 1 1031KT, 20260904, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-407240.html"
+   },
+   {
+    "id": "gmb-2026-395078",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-21",
+    "onderwerp": "Filmen,IJpromenade 1 1031KT, 20260830, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-395078.html"
+   },
+   {
+    "id": "gmb-2026-371659",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-04",
+    "onderwerp": "Object,IJpromenade 1 1031KT, 20260804, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-371659.html"
+   },
+   {
+    "id": "gmb-2026-286100",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-16",
+    "onderwerp": "Filmen,IJpromenade 1 1031KT, 20260617, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-286100.html"
+   },
+   {
+    "id": "gmb-2026-278455",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-12",
+    "onderwerp": "Filmen,IJpromenade 1 1031KT, 20260620, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-278455.html"
+   },
+   {
+    "id": "gmb-2026-133022",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "RVV,Object,IJpromenade 1 1031KT, 20260309, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133022.html"
+   },
+   {
+    "id": "gmb-2026-95472",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Noord tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Noord [Besluit ter bekrachtiging geldende afvalregels stadsdeel Noord]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-95472.html"
+   },
+   {
+    "id": "gmb-2026-80185",
+    "titel": "Besluit alcoholwetvergunning Verleend - IJpromenade 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-23",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-80185.html"
+   },
+   {
+    "id": "gmb-2026-80236",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - IJpromenade 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-80236.html"
+   },
+   {
+    "id": "gmb-2026-62846",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - IJpromenade 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-02-12",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-62846.html"
+   },
+   {
+    "id": "gmb-2026-62873",
+    "titel": "Aanvraag alcoholwetvergunning IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2026-02-12",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-62873.html"
+   },
+   {
+    "id": "gmb-2026-20387",
+    "titel": "Besluit alcoholwetvergunning Verleend - IJpromenade 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-19",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-20387.html"
+   },
+   {
+    "id": "gmb-2026-20390",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - IJpromenade 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-19",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-20390.html"
+   },
+   {
+    "id": "gmb-2025-523867",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-02",
+    "onderwerp": "Object,Afgesloten gebieden, IJpromenade 1 1031KT, 20251214, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-523867.html"
+   },
+   {
+    "id": "gmb-2025-512419",
+    "titel": "Aanvraag alcoholwetvergunning IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-512419.html"
+   },
+   {
+    "id": "gmb-2025-510640",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - IJpromenade 1 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-510640.html"
+   },
+   {
+    "id": "gmb-2025-213329",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Object,IJpromenade 1 1031KT, 20250718, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213329.html"
+   },
+   {
+    "id": "gmb-2025-103304",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade ter hoogte van nummer: 1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-11",
+    "onderwerp": "Filmen, IJpromenade 1 1031KT, 20250314, IJpromenade ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-103304.html"
+   },
+   {
+    "id": "gmb-2025-85539",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - IJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-28",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-85539.html"
+   },
+   {
+    "id": "gmb-2024-413947",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-10-01",
+    "onderwerp": "Object,RVV, IJpromenade 1 1031KT, 20240930, IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-413947.html"
+   },
+   {
+    "id": "gmb-2024-415515",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-10-01",
+    "onderwerp": "Object,Vezip, IJpromenade 1 1031KT, 20241022, IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-415515.html"
+   },
+   {
+    "id": "gmb-2024-401933",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - IJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-09-23",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-401933.html"
+   },
+   {
+    "id": "gmb-2024-398191",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-09-19",
+    "onderwerp": "Object, IJpromenade 1 1031KT, 20241010, IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-398191.html"
+   },
+   {
+    "id": "gmb-2024-368483",
+    "titel": "Aanvraag evenementenvergunning IJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-368483.html"
+   },
+   {
+    "id": "gmb-2024-368491",
+    "titel": "Besluit evenementenvergunning Verleend - IJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-368491.html"
+   },
+   {
+    "id": "gmb-2024-338935",
+    "titel": "Aanvraag evenementenvergunning IJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-08-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-338935.html"
+   },
+   {
+    "id": "gmb-2024-244855",
+    "titel": "Besluit evenementenvergunning VerleendIJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-244855.html"
+   },
+   {
+    "id": "gmb-2024-220204",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-05-22",
+    "onderwerp": "Object,RVV, IJpromenade 1 , 20240523, IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-220204.html"
+   },
+   {
+    "id": "gmb-2024-155629",
+    "titel": "Aanvraag evenementenvergunning IJpromenade 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres IJpromenade 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-155629.html"
+   },
+   {
+    "id": "gmb-2024-42048",
+    "titel": "Besluit apv vergunning Verleend - IJpromenade 1",
+    "soort": "andere vergunning",
+    "datum": "2024-01-26",
+    "onderwerp": "Werkzaamheden en vervoer op straat IJpromenade 1 1031KT, IJpromenade 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-42048.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1702BPGST-VG01",
+   "naam": "Overhoeks 2016 Eerste partiele herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-04-03",
+   "opp_m2": 395001,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1501BPGST-VG01",
+   "naam": "Overhoeks 2016",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-10-05",
+   "opp_m2": 469614,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1501BPGST-VG01/t_NL.IMRO.0363.N1501BPGST-VG01.html",
+     "tekst": "gie zijn of worden uitgewerkt in ander beleid en andere programmaâs. Onderdeel van de uitvoeringsagenda is het onderzoek naar het verbeteren van de IJ-verbindingen in 2017. EÃ©n van de verbindingen die daarbij wordt onderzocht is de veerverbinding van het Centraal Station naar het Eye Filmmuseum. In het vigerende bestemmingsplan is de aanlandingsplek voor deze veerverbinding opgenomen, gelet op de (concept) uitvoeringsagenda is het wenselijk om deze planologische mogelijkheid uit het vigerende bestemmingsplan te handhaven. 16.2.4 Beleid waterschappen <span cla"
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 1,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 8,
+ "pand_adressen": [
+  "IJpromenade 1"
+ ]
+}

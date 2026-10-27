@@ -1,0 +1,1040 @@
+{
+ "id": "mezrab",
+ "naam": "Mezrab",
+ "adres": "Veemkade 576, 1019 BL Amsterdam",
+ "termen": [
+  "Veemkade 576",
+  "1019BL",
+  "1019 BL",
+  "Mezrab"
+ ],
+ "pand": "0363100012118320",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 60,
+  "openbaar": 60,
+  "laatste": "2009-09-01",
+  "dossiers": [
+   {
+    "dossier": "SU_31986",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2009-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31986"
+   },
+   {
+    "dossier": "SU_27066",
+    "titel": "Veemkade 594 B",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_27066"
+   },
+   {
+    "dossier": "SU_33581",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2008-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_33581"
+   },
+   {
+    "dossier": "SU_32211",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2007-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32211"
+   },
+   {
+    "dossier": "SU_32210",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2007-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 379,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32210"
+   },
+   {
+    "dossier": "SU_26956",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2007-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 125,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26956"
+   },
+   {
+    "dossier": "SU_32208",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 116,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32208"
+   },
+   {
+    "dossier": "SU_32209",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32209"
+   },
+   {
+    "dossier": "SU_32207",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32207"
+   },
+   {
+    "dossier": "SU_32206",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32206"
+   },
+   {
+    "dossier": "SU_27432",
+    "titel": "Piet Heinkade 227 - 229",
+    "datum": "2006-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_27432"
+   },
+   {
+    "dossier": "SU_32205",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 119,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32205"
+   },
+   {
+    "dossier": "XY_01265",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01265"
+   },
+   {
+    "dossier": "SU_32203",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32203"
+   },
+   {
+    "dossier": "SU_32204",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 204,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32204"
+   },
+   {
+    "dossier": "SU_26885",
+    "titel": "Veemkade 598",
+    "datum": "2006-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_26885"
+   },
+   {
+    "dossier": "SU_32202",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32202"
+   },
+   {
+    "dossier": "SU_32111",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 152,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32111"
+   },
+   {
+    "dossier": "SU_32109",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2005-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 264,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32109"
+   },
+   {
+    "dossier": "SU_32108",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2005-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32108"
+   },
+   {
+    "dossier": "SU_32104",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2005-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 341,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32104"
+   },
+   {
+    "dossier": "SU_30534",
+    "titel": "Veemkade 598",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_30534"
+   },
+   {
+    "dossier": "SU_32102",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2004-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32102"
+   },
+   {
+    "dossier": "SU_32103",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2004-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 249,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32103"
+   },
+   {
+    "dossier": "SU_32099",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2004-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 106,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32099"
+   },
+   {
+    "dossier": "SU_32098",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2004-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32098"
+   },
+   {
+    "dossier": "SU_32096",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2004-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32096"
+   },
+   {
+    "dossier": "SU_32093",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2003-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32093"
+   },
+   {
+    "dossier": "SU_32091",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2003-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32091"
+   },
+   {
+    "dossier": "SU_32092",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2003-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 173,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32092"
+   },
+   {
+    "dossier": "SU_32089",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2003-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 82,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32089"
+   },
+   {
+    "dossier": "SU_32025",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32025"
+   },
+   {
+    "dossier": "SU_32023",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32023"
+   },
+   {
+    "dossier": "SU_32024",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2003-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32024"
+   },
+   {
+    "dossier": "SU_32022",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2003-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32022"
+   },
+   {
+    "dossier": "SU_32076",
+    "titel": "Piet Heinkade 227 - 229; Waagdragerhof 2 - 198",
+    "datum": "2003-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 677,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32076"
+   },
+   {
+    "dossier": "SU_31709",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31709"
+   },
+   {
+    "dossier": "SU_32019",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32019"
+   },
+   {
+    "dossier": "SU_32020",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32020"
+   },
+   {
+    "dossier": "SU_32018",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32018"
+   },
+   {
+    "dossier": "SU_32021",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32021"
+   },
+   {
+    "dossier": "SU_32012",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 100,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32012"
+   },
+   {
+    "dossier": "SU_32006",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32006"
+   },
+   {
+    "dossier": "SU_32004",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32004"
+   },
+   {
+    "dossier": "SU_32000",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32000"
+   },
+   {
+    "dossier": "SU_32002",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32002"
+   },
+   {
+    "dossier": "SU_31995",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31995"
+   },
+   {
+    "dossier": "SU_31991",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31991"
+   },
+   {
+    "dossier": "SU_31987",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31987"
+   },
+   {
+    "dossier": "SU_31993",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31993"
+   },
+   {
+    "dossier": "SU_31982",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 132,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31982"
+   },
+   {
+    "dossier": "SU_31985",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31985"
+   },
+   {
+    "dossier": "SU_31981",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 82,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31981"
+   },
+   {
+    "dossier": "SU_31983",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31983"
+   },
+   {
+    "dossier": "SU_31980",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31980"
+   },
+   {
+    "dossier": "SU_31979",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31979"
+   },
+   {
+    "dossier": "SU_31978",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31978"
+   },
+   {
+    "dossier": "SU_31977",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 173,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31977"
+   },
+   {
+    "dossier": "SU_31961",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2002-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 433,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_31961"
+   },
+   {
+    "dossier": "SU_28507",
+    "titel": "Groenhoedenveem 2 - 30; Veemkade 570 - 598",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_28507"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 34,
+  "gezocht": [
+   "Veemkade 576",
+   "Groenhoedenveem 10",
+   "Groenhoedenveem 12",
+   "Groenhoedenveem 14",
+   "Groenhoedenveem 16",
+   "Groenhoedenveem 18",
+   "Groenhoedenveem 2",
+   "Groenhoedenveem 20",
+   "Groenhoedenveem 22",
+   "Groenhoedenveem 24",
+   "Groenhoedenveem 26",
+   "Groenhoedenveem 28",
+   "Groenhoedenveem 30"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-322249",
+    "titel": "Besluit apv vergunning Verleend - Groenhoedenveem ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-07",
+    "onderwerp": "Object,Groenhoedenveem 2 1019BL, 20260703, Groenhoedenveem ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-322249.html"
+   },
+   {
+    "id": "gmb-2026-303747",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-303747.html"
+   },
+   {
+    "id": "gmb-2026-31969",
+    "titel": "Nadere regels Parkeerverordening Amsterdam 2025",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2026-02-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31969.html"
+   },
+   {
+    "id": "gmb-2026-34035",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Veemkade 576 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Veemkade 576 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-34035.html"
+   },
+   {
+    "id": "gmb-2025-425417",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Veemkade 576 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-02",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Veemkade 576 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-425417.html"
+   },
+   {
+    "id": "gmb-2025-273310",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-06-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-273310.html"
+   },
+   {
+    "id": "gmb-2025-5647",
+    "titel": "Rectificatie: Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2025-01-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-5647.html"
+   },
+   {
+    "id": "gmb-2024-550336",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende nadere regels over voorwaarden rondom het verlenen van parkeervergunningen, de wijze waarop en wanneer betaald parkeren geldt op deeltariefgebiedniveau en garageparkeren voor vergunninghouders (Nadere regels Parkeerverordening Amsterdam 2025)",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-12-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550336.html"
+   },
+   {
+    "id": "gmb-2024-270795",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Verleend - Veemkade 576 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Veemkade 576 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270795.html"
+   },
+   {
+    "id": "gmb-2024-270746",
+    "titel": "Besluit alcoholwetvergunning Verleend - Veemkade 576 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-06-21",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Veemkade 576",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-270746.html"
+   },
+   {
+    "id": "gmb-2024-213249",
+    "titel": "Aanvraag (Terras) exploitatievergunning horecabedrijf - Veemkade 576 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Veemkade 576 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-213249.html"
+   },
+   {
+    "id": "gmb-2024-178303",
+    "titel": "Uitwerkingsbesluit Parkeerverordening 2013 Amsterdam juli 2024",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2024-04-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-178303.html"
+   },
+   {
+    "id": "gmb-2023-423236",
+    "titel": "Uitwerkingsbesluit Parkeerverordening 2013 Amsterdam december 2023",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2023-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-423236.html"
+   },
+   {
+    "id": "gmb-2023-283141",
+    "titel": "Uitwerkingsbesluit Parkeerverordening Amsterdam juli 2023",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2023-06-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-283141.html"
+   },
+   {
+    "id": "gmb-2023-108488",
+    "titel": "Besluit apv vergunning Verleend - Veemkade 576",
+    "soort": "andere vergunning",
+    "datum": "2023-03-14",
+    "onderwerp": "RVV + TVM stremmen - Veemkade 576 - 17-3-2023, Veemkade 576",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-108488.html"
+   },
+   {
+    "id": "gmb-2022-581011",
+    "titel": "Besluit apv vergunning Verleend Veemkade 576",
+    "soort": "andere vergunning",
+    "datum": "2022-12-30",
+    "onderwerp": "Stremming Veemkade 576 12-1-2023, Veemkade 576",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-581011.html"
+   },
+   {
+    "id": "gmb-2022-559245",
+    "titel": "Uitwerkingsbesluit Parkeerverordening Amsterdam",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2022-12-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-559245.html"
+   },
+   {
+    "id": "gmb-2022-362978",
+    "titel": "Besluit apv vergunning Verleend Groenhoedenveem 22",
+    "soort": "andere vergunning",
+    "datum": "2022-08-09",
+    "onderwerp": "OBJ - Groenhoedenveem 22 - 05 aug 2022 / 01 sep 2022, Groenhoedenveem 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-362978.html"
+   },
+   {
+    "id": "gmb-2022-277913",
+    "titel": "Uitwerkingsbesluit Parkeerverordening 2013",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-06-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-277913.html"
+   },
+   {
+    "id": "gmb-2022-20798",
+    "titel": "Uitwerkingsbesluit Parkeerverordening Amsterdam 2022",
+    "soort": "algemeen verbindend voorschrift (verordening)",
+    "datum": "2022-01-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-20798.html"
+   },
+   {
+    "id": "gmb-2021-214670",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende regels omtrent voorwaarden rondom het verlenen van parkeervergunningen op stadsdeelniveau, zoals het vaststellen van de grenzen en plafonds van vergunningengebieden (Uitwerkingsbesluit Parkeerverordening 2021)",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2021-07-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-214670.html"
+   },
+   {
+    "id": "gmb-2020-342258",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende regels omtrent voorwaarden rondom het verlenen van parkeervergunningen op stadsdeelniveau, zoals het vaststellen van de grenzen en plafonds van vergunningengebieden (Uitwerkingsbesluit Parkeerverordening 2021)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2020-12-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-342258.html"
+   },
+   {
+    "id": "gmb-2020-193251",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende regels omtrent voorwaarden rondom het verlenen van parkeervergunningen op stadsdeelniveau, zoals het vaststellen van de grenzen en plafonds van vergunningengebieden (Uitwerkingsbesluit Parkeerverordening Amsterdam)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2020-07-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-193251.html"
+   },
+   {
+    "id": "gmb-2020-5348",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende regels omtrent voorwaarden rondom het verlenen van parkeervergunningen op stadsdeelniveau, zoals het vaststellen van de grenzen en plafonds van vergunningengebieden (Uitwerkingsbesluit Parkeerverordening Amsterdam)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2020-01-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-5348.html"
+   },
+   {
+    "id": "gmb-2019-160352",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende regels omtrent nadere parkeerregelgeving 2019 (Uitwerkingsbesluit Parkeerverordening)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-06-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-160352.html"
+   },
+   {
+    "id": "gmb-2019-15882",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam regels omtrent parkeren Uitwerkingsbesluit Parkeerverordening",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2019-01-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-15882.html"
+   },
+   {
+    "id": "gmb-2018-283128",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam tot vaststellen van het Uitwerkingsbesluit Parkeerverordening, versie 1 januari 2019",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-12-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-283128.html"
+   },
+   {
+    "id": "gmb-2018-116787",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende uitwerking parkeerverordening Uitwerkingsbesluit Parkeerverordening",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-06-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-116787.html"
+   },
+   {
+    "id": "gmb-2018-33139",
+    "titel": "Besluit van het college van burgemeester en wethouders van de gemeente Amsterdam houdende regels omtrent parkeren Uitwerkingsbesluit parkeerverordening stadsdeel Oost 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-02-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-33139.html"
+   },
+   {
+    "id": "gmb-2017-126520",
+    "titel": "Wijzigingen Uitwerkingsbesluiten parkeerverordening stadsdelen",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-126520.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.BP01117-OH01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-10-11",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.BP01117-VG01",
+   "naam": "Oostelijk Havengebied Noord",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-25",
+   "opp_m2": 1482815,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.G0902PBPGST-OH01",
+   "naam": "BP_Facet herziening zonebesluit Oostelijk Havengebied-Zeeburg",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2010-09-03",
+   "opp_m2": 2752310,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Groenhoedenveem 10",
+  "Groenhoedenveem 12",
+  "Groenhoedenveem 14",
+  "Groenhoedenveem 16",
+  "Groenhoedenveem 18",
+  "Groenhoedenveem 2",
+  "Groenhoedenveem 20",
+  "Groenhoedenveem 22",
+  "Groenhoedenveem 24",
+  "Groenhoedenveem 26",
+  "Groenhoedenveem 28",
+  "Groenhoedenveem 30"
+ ]
+}

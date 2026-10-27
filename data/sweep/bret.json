@@ -1,0 +1,188 @@
+{
+ "id": "bret",
+ "naam": "BRET",
+ "adres": "Orlyplein 76, 1043 DP Amsterdam",
+ "termen": [
+  "Orlyplein 76",
+  "1043DP",
+  "1043 DP"
+ ],
+ "pand": "0363100012243513",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 13,
+  "gezocht": [
+   "Orlyplein 76"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-464051",
+    "titel": "Besluit omgevingsvergunning (kap) reguliere procedure verleend vellen van 110 houtopstanden op verschillende locaties in het gebied van Stadsdeel Nieuw West Amsterdam (veiligheidskap)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-27",
+    "onderwerp": "vellen van 110 houtopstanden op verschillende locaties in het gebied van Stadsdeel Nieuw West (veiligheidskap)",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-464051.html",
+    "zaak": "Z2025-039363"
+   },
+   {
+    "id": "gmb-2025-437908",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) vellen van 110 houtopstanden op verschillende locaties in het gebied van Stadsdeel Nieuw West Amsterdam (veiligheidskap)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-09",
+    "onderwerp": "vellen van 110 houtopstanden op verschillende locaties in het gebied van Stadsdeel Nieuw West (veiligheidskap)",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-437908.html",
+    "zaak": "Z2025-039363"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "stcrt-2014-24351",
+    "titel": "Omgevingsvergunning voor plaatsen dakopbouw en pergola op Orlyplein 76 te Amsterdam, Omgevingsdienst Noordzeekanaalgebied",
+    "soort": "Vergunningen",
+    "datum": "2014-08-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-24351.html"
+   },
+   {
+    "id": "stcrt-2014-18503",
+    "titel": "Omgevingsvergunning voor uitbreiden gebouw Orlyplein 76 met een dakopbouw en pergola, Omgevingsdienst Noordzeekanaalgebied",
+    "soort": "Vergunningen",
+    "datum": "2014-07-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-18503.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-464051",
+   "gmb-2025-437908"
+  ],
+  "zaaknummers": [
+   "Z2025-039363"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-350609",
+    "titel": "Aanvraag evenementenvergunning Orlyplein 76 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Orlyplein 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-350609.html"
+   },
+   {
+    "id": "gmb-2025-78344",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Orlyplein 76 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-02-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Orlyplein 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-78344.html"
+   },
+   {
+    "id": "gmb-2022-51785",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Orlyplein 76",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Orlyplein 76",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-51785.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "wsb-2016-3321",
+    "titel": "Verleende Watervergunning voor het bouwen van 10 tijdelijke paviljoens op stelconplaten en aanleg randvoorzieningen ter hoogte van Orlyplein 76, 1043 DP Amsterdam - AGV - W-16.00683",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-04-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2016-3321.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B1105BPGST-VG02",
+   "naam": "Sloterdijk",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-07-03",
+   "opp_m2": 774867,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 3,
+  "plannen": 2,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 7,
+ "pand_adressen": [
+  "Orlyplein 76"
+ ]
+}

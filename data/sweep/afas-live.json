@@ -1,0 +1,420 @@
+{
+ "id": "afas-live",
+ "naam": "AFAS Live",
+ "adres": "Johan Cruijff Boulevard 590, 1101 DS Amsterdam",
+ "termen": [
+  "Johan Cruijff Boulevard 590",
+  "1101DS",
+  "1101 DS",
+  "AFAS Live"
+ ],
+ "pand": "0363100012123240",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "hoog",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 96,
+  "gezocht": [
+   "Johan Cruijff Boulevard 590"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-375096",
+    "titel": "Aanvraag vergunning ontvangen - Johan Cruijff Boulevard 590, Amsterdam - Verbouwen bestaande verdiepingsvloer in foyer AFAS Live tot toiletgroep - Live Nation Venues (Netherlands) B.V.",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-06",
+    "onderwerp": "het verbouwen van een bestaande verdiepingsvloer in de foyer van AFAS Live tot een toiletgroep",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-375096.html",
+    "zaak": "OD2026-0048780"
+   },
+   {
+    "id": "gmb-2026-166746",
+    "titel": "Vergunning verleend - Johan Cruijff Boulevard 590, Amsterdam - het realiseren van een skybox concept in een bestaande ruimte binnen het gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-09",
+    "onderwerp": "het realiseren van een skybox concept in een bestaande ruimte binnen het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-166746.html",
+    "zaak": "OD2026-0007738"
+   },
+   {
+    "id": "gmb-2026-101998",
+    "titel": "Aanvraag vergunning ontvangen - Johan Cruijff Boulevard 590, Amsterdam - Realiseren skybox concept in bestaande ruimte binnen gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-05",
+    "onderwerp": "het realiseren van een skybox concept in een bestaande ruimte binnen het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-101998.html",
+    "zaak": "OD2026-0007738"
+   },
+   {
+    "id": "prb-2021-3393",
+    "titel": "Vuurwerk, Johan Cruijff Boulevard 590, Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-03",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-3393.html",
+    "zaak": "1263548"
+   },
+   {
+    "id": "gmb-2021-90745",
+    "titel": "Aanvraag omgevingsvergunning Johan Cruijff Boulevard 590, 1101 DS Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-24",
+    "onderwerp": "het plaatsen van een digitaal object (Mupi) in de openbare ruimte, t.h.v. Johan Cruijff Boulevard 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-90745.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-375096",
+   "gmb-2026-101998",
+   "gmb-2021-90745"
+  ],
+  "zaaknummers": [
+   "OD2026-0007738",
+   "OD2026-0048780"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-500666",
+    "titel": "Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Johan Cruijff Boulevard 590, Amsterdam - AFASLive",
+    "soort": "andere vergunning",
+    "datum": "2026-10-27",
+    "onderwerp": "Maatwerkbesluit AFASLive op verzoek",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-500666.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-418042",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260903, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-418042.html"
+   },
+   {
+    "id": "gmb-2026-372789",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-08-04",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260806, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-372789.html"
+   },
+   {
+    "id": "gmb-2026-348121",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260807, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-348121.html"
+   },
+   {
+    "id": "gmb-2026-309699",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-30",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260731, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-309699.html"
+   },
+   {
+    "id": "gmb-2026-304501",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-26",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260707, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-304501.html"
+   },
+   {
+    "id": "gmb-2026-270802",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-09",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-270802.html"
+   },
+   {
+    "id": "gmb-2026-174209",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-14",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260502, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-174209.html"
+   },
+   {
+    "id": "gmb-2026-167632",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-167632.html"
+   },
+   {
+    "id": "gmb-2026-75663",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260302, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-75663.html"
+   },
+   {
+    "id": "gmb-2025-529148",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-05",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20260112, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-529148.html"
+   },
+   {
+    "id": "gmb-2025-438705",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-10",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20251002 (2-10), Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-438705.html"
+   },
+   {
+    "id": "gmb-2025-378984",
+    "titel": "Besluit evenementenvergunning Verleend - Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-02",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-378984.html"
+   },
+   {
+    "id": "gmb-2025-370913",
+    "titel": "Besluit evenementenvergunning  - Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-26",
+    "onderwerp": ": evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-370913.html"
+   },
+   {
+    "id": "gmb-2025-339182",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-08-01",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20250902, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-339182.html"
+   },
+   {
+    "id": "gmb-2025-325301",
+    "titel": "Besluit evenementenvergunning Verleend - Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325301.html"
+   },
+   {
+    "id": "gmb-2025-320406",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-22",
+    "onderwerp": "Object,Afgesloten gebieden,Johan Cruijff Boulevard 590 1101DS, 20250804, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-320406.html"
+   },
+   {
+    "id": "gmb-2025-310225",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-15",
+    "onderwerp": "Object,Afgesloten gebieden,Johan Cruijff Boulevard 590 1101DS, 20250729, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-310225.html"
+   },
+   {
+    "id": "gmb-2025-291205",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-04",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20250701, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-291205.html"
+   },
+   {
+    "id": "gmb-2025-272432",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "24-6 Object,Johan Cruijff Boulevard 590 1101DS, 20250624, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272432.html"
+   },
+   {
+    "id": "gmb-2025-229771",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-27",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-229771.html"
+   },
+   {
+    "id": "gmb-2025-215564",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-215564.html"
+   },
+   {
+    "id": "gmb-2025-213298",
+    "titel": "Besluit evenementenvergunning Verleend - Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213298.html"
+   },
+   {
+    "id": "gmb-2025-185584",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-04-29",
+    "onderwerp": "Object,Johan Cruijff Boulevard 590 1101DS, 20250502, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-185584.html"
+   },
+   {
+    "id": "gmb-2025-148895",
+    "titel": "Aanvraag evenementenvergunning Johan Cruijff Boulevard 590 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Johan Cruijff Boulevard 590 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-148895.html"
+   },
+   {
+    "id": "gmb-2025-123719",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-24",
+    "onderwerp": "Object,Vezip, Johan Cruijff Boulevard 590 1101DS, 20250422, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-123719.html"
+   },
+   {
+    "id": "gmb-2025-108865",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-14",
+    "onderwerp": "Object, Johan Cruijff Boulevard 590 1101DS, 20250315, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-108865.html"
+   },
+   {
+    "id": "gmb-2025-87291",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-03",
+    "onderwerp": "Object, Johan Cruijff Boulevard 590 1101DS, 20250228, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-87291.html"
+   },
+   {
+    "id": "gmb-2025-37464",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-01-30",
+    "onderwerp": "Object, Johan Cruijff Boulevard 590 1101DS, 20250201, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-37464.html"
+   },
+   {
+    "id": "gmb-2024-549502",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-30",
+    "onderwerp": "Object, Johan Cruijff Boulevard 590 1101DS, 20250104, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-549502.html"
+   },
+   {
+    "id": "gmb-2024-507796",
+    "titel": "Besluit apv vergunning Verleend - Johan Cruijff Boulevard ter hoogte van nummer: 590 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-03",
+    "onderwerp": "Object, Johan Cruijff Boulevard 590 1101DS, 20241202, Johan Cruijff Boulevard ter hoogte van nummer: 590",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-507796.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.T1201BPGST-VG01",
+   "naam": "ArenAPoort West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-11-29",
+   "opp_m2": 559945,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.T1201BPGST-VG02",
+   "naam": "ArenAPoort West",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-09-30",
+   "opp_m2": 559945,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 3,
+  "plannen": 4,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-500666.pdf",
+   "bron": "bekendmaking gmb-2026-500666: Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Johan Cruijff Boulevard 590, Amsterdam - AFASLive",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 10,
+ "pand_adressen": [
+  "Johan Cruijff Boulevard 590"
+ ]
+}

@@ -1,0 +1,1428 @@
+{
+ "id": "escape",
+ "naam": "Escape",
+ "adres": "Rembrandtplein 11, 1017 CT Amsterdam",
+ "termen": [
+  "Rembrandtplein 11",
+  "1017CT",
+  "1017 CT",
+  "Escape"
+ ],
+ "pand": "0363100012171128",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 79,
+  "openbaar": 79,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_92611",
+    "titel": "Rembrandtplein 15",
+    "datum": "2010-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92611"
+   },
+   {
+    "dossier": "SA_86298",
+    "titel": "Rembrandtplein 3 - 46",
+    "datum": "2009-01-01",
+    "soort": "straatmeubilair",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_86298"
+   },
+   {
+    "dossier": "SA_103315",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_103315"
+   },
+   {
+    "dossier": "SA_03133",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03133"
+   },
+   {
+    "dossier": "SA_03016",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03016"
+   },
+   {
+    "dossier": "SA_92619",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "2006-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92619"
+   },
+   {
+    "dossier": "SA_92615",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "2006-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 144,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92615"
+   },
+   {
+    "dossier": "SA_92818",
+    "titel": "Rembrandtplein 11",
+    "datum": "2002-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92818"
+   },
+   {
+    "dossier": "SA_92609",
+    "titel": "Amstel 62 - 64",
+    "datum": "1999-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92609"
+   },
+   {
+    "dossier": "SA_03045",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1999-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03045"
+   },
+   {
+    "dossier": "SA_03433",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03433"
+   },
+   {
+    "dossier": "SA_92608",
+    "titel": "Amstel 62 - 64",
+    "datum": "1998-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92608"
+   },
+   {
+    "dossier": "SA_03281",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1997-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03281"
+   },
+   {
+    "dossier": "SA_03689",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1996-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03689"
+   },
+   {
+    "dossier": "SA_03843",
+    "titel": "Rembrandtplein 13 - 15",
+    "datum": "1994-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03843"
+   },
+   {
+    "dossier": "SA_03373",
+    "titel": "Rembrandtplein 11",
+    "datum": "1993-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03373"
+   },
+   {
+    "dossier": "SA_03048",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03048"
+   },
+   {
+    "dossier": "SA_03089",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1992-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03089"
+   },
+   {
+    "dossier": "SA_03611",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1989-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03611"
+   },
+   {
+    "dossier": "SA_03614",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1989-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03614"
+   },
+   {
+    "dossier": "SA_112495",
+    "titel": "Amstel 62 3",
+    "datum": "1989-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_112495"
+   },
+   {
+    "dossier": "SA_03569",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1986-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03569"
+   },
+   {
+    "dossier": "SA_03349",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03349"
+   },
+   {
+    "dossier": "SA_02700",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02700"
+   },
+   {
+    "dossier": "SA_03605",
+    "titel": "Rembrandtplein 11 - 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03605"
+   },
+   {
+    "dossier": "SA_04676",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_04676"
+   },
+   {
+    "dossier": "SA_03603",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03603"
+   },
+   {
+    "dossier": "SA_03571",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03571"
+   },
+   {
+    "dossier": "SA_03600",
+    "titel": "Rembrandtplein 11 - 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03600"
+   },
+   {
+    "dossier": "SA_02996",
+    "titel": "Rembrandtplein 11",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02996"
+   },
+   {
+    "dossier": "SA_03595",
+    "titel": "Rembrandtplein 15 - 17",
+    "datum": "1986-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03595"
+   },
+   {
+    "dossier": "SA_03630",
+    "titel": "Rembrandtplein 15",
+    "datum": "1982-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03630"
+   },
+   {
+    "dossier": "SA_03658",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1979-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03658"
+   },
+   {
+    "dossier": "SA_04689",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1978-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_04689"
+   },
+   {
+    "dossier": "SA_03624",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1977-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03624"
+   },
+   {
+    "dossier": "SA_03488",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03488"
+   },
+   {
+    "dossier": "SA_02133",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02133"
+   },
+   {
+    "dossier": "SA_03694",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03694"
+   },
+   {
+    "dossier": "SA_03012",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03012"
+   },
+   {
+    "dossier": "SA_03014",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1973-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03014"
+   },
+   {
+    "dossier": "SA_03628",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03628"
+   },
+   {
+    "dossier": "SA_03609",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1972-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03609"
+   },
+   {
+    "dossier": "SA_03267",
+    "titel": "Rembrandtplein 15",
+    "datum": "1970-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03267"
+   },
+   {
+    "dossier": "SA_03259",
+    "titel": "Rembrandtplein 15",
+    "datum": "1970-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03259"
+   },
+   {
+    "dossier": "SA_03261",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1970-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03261"
+   },
+   {
+    "dossier": "SA_03262",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1970-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03262"
+   },
+   {
+    "dossier": "SA_03260",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1970-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03260"
+   },
+   {
+    "dossier": "SA_03276",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03276"
+   },
+   {
+    "dossier": "SA_03270",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03270"
+   },
+   {
+    "dossier": "SA_03271",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03271"
+   },
+   {
+    "dossier": "SA_03272",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03272"
+   },
+   {
+    "dossier": "SA_03279",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1967-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03279"
+   },
+   {
+    "dossier": "SA_03268",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03268"
+   },
+   {
+    "dossier": "SA_03274",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03274"
+   },
+   {
+    "dossier": "SA_03296",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1965-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03296"
+   },
+   {
+    "dossier": "SA_03250",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1965-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03250"
+   },
+   {
+    "dossier": "SA_03256",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1964-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03256"
+   },
+   {
+    "dossier": "SA_03244",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1962-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03244"
+   },
+   {
+    "dossier": "SA_03245",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1958-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03245"
+   },
+   {
+    "dossier": "SA_03251",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1954-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03251"
+   },
+   {
+    "dossier": "SA_03252",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1950-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03252"
+   },
+   {
+    "dossier": "SA_03231",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03231"
+   },
+   {
+    "dossier": "SA_03253",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03253"
+   },
+   {
+    "dossier": "SA_03234",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03234"
+   },
+   {
+    "dossier": "SA_03229",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1931-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03229"
+   },
+   {
+    "dossier": "SA_03354",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1931-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03354"
+   },
+   {
+    "dossier": "SA_03215",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1930-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03215"
+   },
+   {
+    "dossier": "SA_03303",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1929-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 123,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03303"
+   },
+   {
+    "dossier": "SA_03237",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1929-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03237"
+   },
+   {
+    "dossier": "SA_03239",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1928-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03239"
+   },
+   {
+    "dossier": "SA_03228",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03228"
+   },
+   {
+    "dossier": "SA_03224",
+    "titel": "Amstel 62 - 64; Halvemaansteeg 13; Rembrandtplein 11 - 15",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03224"
+   },
+   {
+    "dossier": "SA_03299",
+    "titel": "Rembrandtplein 11 - 15",
+    "datum": "1922-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03299"
+   },
+   {
+    "dossier": "SA_03130",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1921-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03130"
+   },
+   {
+    "dossier": "SA_03109",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1921-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03109"
+   },
+   {
+    "dossier": "SA_03027",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1921-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03027"
+   },
+   {
+    "dossier": "SA_03110",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1921-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03110"
+   },
+   {
+    "dossier": "SA_03082",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1921-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03082"
+   },
+   {
+    "dossier": "SA_03088",
+    "titel": "Amstel 62 - 64; Rembrandtplein 11 - 15",
+    "datum": "1920-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_03088"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 48,
+  "gezocht": [
+   "Rembrandtplein 11",
+   "Amstel 62",
+   "Amstel 64",
+   "Rembrandtplein 15"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-126194",
+    "titel": "Toestemming voor het vergroten van een dakkapel aan Amstel 62 te Wijk bij Duurstede",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-19",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-126194.html",
+    "zaak": "1234235"
+   },
+   {
+    "id": "gmb-2025-397685",
+    "titel": "Besluit op aanvraag omgevingsvergunning: uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397685.html",
+    "zaak": "EHV-ZP2025-002889"
+   },
+   {
+    "id": "gmb-2025-397684",
+    "titel": "Besluit op aanvraag omgevingsvergunning: uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-15",
+    "onderwerp": "uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-397684.html",
+    "zaak": "EHV-ZP2025-002889"
+   },
+   {
+    "id": "gmb-2025-245237",
+    "titel": "Verlenging termijn omgevingsvergunning: EHV-ZP2025-002889, Rembrandtplein 15 5613HC Eindhoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-05",
+    "onderwerp": "uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-245237.html",
+    "zaak": "EHV-ZP2025-002889"
+   },
+   {
+    "id": "gmb-2025-169254",
+    "titel": "Ingediende aanvraag omgevingsvergunning: uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken, Rembrandtplein 15 5613HC Eindhoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-17",
+    "onderwerp": "uitbreiden van de woning aan de achterzijde, doorbreken van een draagmuur en plaatsen van steunbalken",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-169254.html",
+    "zaak": "EHV-ZP2025-002889"
+   },
+   {
+    "id": "gmb-2025-164489",
+    "titel": "Besluit op aanvraag omgevingsvergunning: uitbreiden woonkamer en renovatie keuken en badkamer",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-15",
+    "onderwerp": "uitbreiden woonkamer en renovatie keuken en badkamer",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-164489.html",
+    "zaak": "EHV-ZP2025-001610"
+   },
+   {
+    "id": "gmb-2025-92889",
+    "titel": "Ingediende aanvraag omgevingsvergunning: uitbreiden woonkamer en renovatie keuken en badkamer, Rembrandtplein 15 5613HC Eindhoven",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-05",
+    "onderwerp": "uitbreiden woonkamer en renovatie keuken en badkamer",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-92889.html",
+    "zaak": "EHV-ZP2025-001610"
+   },
+   {
+    "id": "gmb-2023-338917",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "het vervangen van een luchtbehandelingsinstallatie op het dak",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-338917.html",
+    "zaak": "Z2023-C001038"
+   },
+   {
+    "id": "gmb-2023-298641",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstel 62 1017AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-07",
+    "onderwerp": "plaatsen van zonnepanelen op het platte dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-298641.html",
+    "zaak": "Z2023-C004623"
+   },
+   {
+    "id": "gmb-2023-273892",
+    "titel": "Aanvraag omgevingsvergunning Amstel 62 1017AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-22",
+    "onderwerp": "plaatsen van zonnepanelen op het platte dak van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-273892.html",
+    "zaak": "Z2023-C004623"
+   },
+   {
+    "id": "gmb-2023-217804",
+    "titel": "Opschorting beslistermijn omgevingsvergunning Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-17",
+    "onderwerp": "het vervangen van een luchtbehandelingsinstallatie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-217804.html",
+    "zaak": "Z2023-C001038"
+   },
+   {
+    "id": "gmb-2023-147102",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-04",
+    "onderwerp": "het vervangen van een luchtbehandelingsinstallatie",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-147102.html",
+    "zaak": "Z2023-C001038"
+   },
+   {
+    "id": "gmb-2023-100737",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-08",
+    "onderwerp": "het vervangen van een luchtbehandelingsinstallatie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-100737.html",
+    "zaak": "Z2023-C001038"
+   },
+   {
+    "id": "gmb-2023-48476",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 11/15 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-03",
+    "onderwerp": "plaatsen van zonnepanelen op het dak van het gebouwgedeelte ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-48476.html",
+    "zaak": "Z2022-C009936"
+   },
+   {
+    "id": "gmb-2022-544655",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 11/15 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-08",
+    "onderwerp": "plaatsen van zonnepanelen op het dak van het gebouwgedeelte ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-544655.html",
+    "zaak": "Z2022-C009936"
+   },
+   {
+    "id": "gmb-2022-485200",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-01",
+    "onderwerp": "verbouwing 2022 Rembrandtplein 11-15",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-485200.html",
+    "zaak": "Z2022-C007508"
+   },
+   {
+    "id": "gmb-2022-466166",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-19",
+    "onderwerp": "het veranderen van de garderobe en het maken van een extra vluchtweg op de 1e verdieping",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466166.html",
+    "zaak": "Z2022-C006373"
+   },
+   {
+    "id": "gmb-2022-435677",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 11 1017CT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-29",
+    "onderwerp": "het veranderen van de garderobe en het maken van een extra vluchtweg op de 1e verdieping",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-435677.html",
+    "zaak": "Z2022-C006373"
+   },
+   {
+    "id": "gmb-2021-150260",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Rembrandtplein 15 1017CT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-14",
+    "onderwerp": "wijzigen van de gevel van de serre aan het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-150260.html"
+   },
+   {
+    "id": "gmb-2021-137148",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Rembrandtplein 15 1017CT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-04",
+    "onderwerp": "wijzigen van de gevel van de serre aan het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-137148.html"
+   },
+   {
+    "id": "gmb-2021-79980",
+    "titel": "Aanvraag omgevingsvergunning Rembrandtplein 15 1017CT Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-16",
+    "onderwerp": "wijzigen van de gevel van de serre aan het gebouw ten behoeve van de bijeenkomstfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-79980.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-397685",
+   "gmb-2025-397684",
+   "gmb-2025-169254",
+   "gmb-2025-164489",
+   "gmb-2025-92889",
+   "gmb-2023-338917",
+   "gmb-2023-298641",
+   "gmb-2023-273892",
+   "gmb-2023-100737",
+   "gmb-2023-48476",
+   "gmb-2022-544655",
+   "gmb-2022-485200",
+   "gmb-2022-466166",
+   "gmb-2022-435677",
+   "gmb-2021-150260",
+   "gmb-2021-79980"
+  ],
+  "zaaknummers": [
+   "EHV-ZP2025-001610",
+   "EHV-ZP2025-002889",
+   "Z2022-C006373",
+   "Z2022-C007508",
+   "Z2022-C009936",
+   "Z2023-C001038",
+   "Z2023-C004623"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-224417",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 15 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 15 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-224417.html"
+   },
+   {
+    "id": "gmb-2025-519935",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rembrandtplein 11 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-01",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rembrandtplein 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-519935.html"
+   },
+   {
+    "id": "gmb-2025-484768",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rembrandtplein 15 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-10",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 15 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-484768.html"
+   },
+   {
+    "id": "gmb-2025-384901",
+    "titel": "Aanvraag evenementenvergunning Rembrandtplein 11 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rembrandtplein 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-384901.html"
+   },
+   {
+    "id": "gmb-2025-339173",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 62 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-08-01",
+    "onderwerp": "Object, Amstel 62 1017AC, 20250304, Amstel ter hoogte van nummer: 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-339173.html"
+   },
+   {
+    "id": "gmb-2025-295859",
+    "titel": "Besluit apv vergunning Verleend - Amstel ter hoogte van nummer: 62 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "w8 op info Object,Amstel 62 1017AC, 20250708, Amstel ter hoogte van nummer: 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-295859.html"
+   },
+   {
+    "id": "gmb-2025-213878",
+    "titel": "Besluit op aanvraag: plaatsen van een container, Rembrandtplein 15 5613HC Eindhoven",
+    "soort": "andere vergunning",
+    "datum": "2025-05-16",
+    "onderwerp": "plaatsen van een container",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-213878.html"
+   },
+   {
+    "id": "gmb-2025-187410",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rembrandtplein 11 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rembrandtplein 11 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-187410.html"
+   },
+   {
+    "id": "gmb-2024-431274",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein 15",
+    "soort": "andere vergunning",
+    "datum": "2024-10-14",
+    "onderwerp": "Upload_Object, Rembrandtplein 15 1017CT, 20241021, Rembrandtplein 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-431274.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2023-301971",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein 11",
+    "soort": "andere vergunning",
+    "datum": "2023-07-11",
+    "onderwerp": "OBJ, Rembrandtplein 11, 04-09 tot 13-10, Rembrandtplein 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-301971.html"
+   },
+   {
+    "id": "gmb-2023-195342",
+    "titel": "Besluit apv vergunning Verleend - Rembrandtplein 11",
+    "soort": "andere vergunning",
+    "datum": "2023-05-04",
+    "onderwerp": "OBJ - Rembrandtplein 11 - 8-5-2023 t/m 23-6-2023, Rembrandtplein 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-195342.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-216018",
+    "titel": "Aanwijzingsbesluit ex artikel 2.6 van de Algemene Plaatselijke Verordening Amsterdam (Veiligheidsrisicogebieden omgeving Johan Cruijff ArenA, omgeving Leidseplein en omgeving Rembrandtplein 11 mei 2022)",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-05-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-216018.html"
+   },
+   {
+    "id": "gmb-2022-142343",
+    "titel": "Besluit apv vergunning Verleend Rembrandtplein 11",
+    "soort": "andere vergunning",
+    "datum": "2022-03-31",
+    "onderwerp": "Objecten, Rembrandtplein 11, 8-4-2022, Rembrandtplein 11",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-142343.html"
+   },
+   {
+    "id": "gmb-2022-86262",
+    "titel": "Besluit toestemming tijdelijk terras Verleend Rembrandtplein 15",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-28",
+    "onderwerp": "Verleend: toestemming tijdelijk terras op adres Rembrandtplein 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-86262.html"
+   },
+   {
+    "id": "gmb-2022-19441",
+    "titel": "Besluit apv vergunning Verleend Amstel 62",
+    "soort": "andere vergunning",
+    "datum": "2022-01-18",
+    "onderwerp": "Objecten Amstel 62, 20-01-2022 t/m 21-01-2022, Amstel 62",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-19441.html"
+   },
+   {
+    "id": "gmb-2021-380184",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Rembrandtplein 15",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Rembrandtplein 15",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380184.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   },
+   {
+    "id": "blg-363979",
+    "titel": "Rapport 'Evaluatie pachtregelgeving'",
+    "soort": "Bijlage",
+    "datum": "2014-08-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-363979.html"
+   },
+   {
+    "id": "blg-323603",
+    "titel": "Rapport Evaluatie pachtregelgeving",
+    "soort": "Bijlage",
+    "datum": "2014-05-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-323603.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 2,
+  "plannen": 0,
+  "woo": 2
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 5,
+ "pand_adressen": [
+  "Amstel 62",
+  "Amstel 64",
+  "Rembrandtplein 11",
+  "Rembrandtplein 15"
+ ]
+}

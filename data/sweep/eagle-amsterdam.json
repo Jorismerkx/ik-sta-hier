@@ -1,0 +1,176 @@
+{
+ "id": "eagle-amsterdam",
+ "naam": "Eagle Amsterdam",
+ "adres": "Warmoesstraat 90, 1012 JH Amsterdam",
+ "termen": [
+  "Warmoesstraat 90",
+  "1012JH",
+  "1012 JH",
+  "Eagle Amsterdam"
+ ],
+ "pand": "0363100012177731",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 6,
+  "openbaar": 5,
+  "laatste": "2006-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_100393",
+    "titel": "Warmoesstraat 90 A - 90 F",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_100393"
+   },
+   {
+    "dossier": "SA_67083",
+    "titel": "Warmoesstraat 90 A - 90 D",
+    "datum": "1991-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67083"
+   },
+   {
+    "dossier": "SA_67085",
+    "titel": "Warmoesstraat 90 A - 90 D",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 63,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67085"
+   },
+   {
+    "dossier": "SA_67077",
+    "titel": "Beursstraat 25; Warmoesstraat 90",
+    "datum": "1920-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67077"
+   },
+   {
+    "dossier": "SA_67031",
+    "titel": "Warmoesstraat 90",
+    "datum": "1889-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67031"
+   },
+   {
+    "dossier": "SA_68099",
+    "titel": "Warmoesstraat 90",
+    "datum": "1887-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_68099"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 3,
+  "gezocht": [
+   "Warmoesstraat 90",
+   "Warmoesstraat 90A",
+   "Warmoesstraat 90B",
+   "Warmoesstraat 90C",
+   "Warmoesstraat 90D"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2023-514542",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Warmoesstraat 90D in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-12-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Warmoesstraat 90D in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-514542.html"
+   },
+   {
+    "id": "gmb-2023-389448",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Warmoesstraat 90D in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-11",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Warmoesstraat 90D in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-389448.html"
+   },
+   {
+    "id": "gmb-2021-274428",
+    "titel": "Besluit apv vergunning Verleend Warmoesstraat 90A en Warmoesstraat 90D",
+    "soort": "andere vergunning",
+    "datum": "2021-08-13",
+    "onderwerp": "object, Warmoesstraat 90, 6-8-2021 t/m 27-8-2021, Warmoesstraat 90A en Warmoesstraat 90D",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-274428.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 332,
+  "woo": 21
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 359,
+ "pand_adressen": [
+  "Warmoesstraat 90A",
+  "Warmoesstraat 90B",
+  "Warmoesstraat 90C",
+  "Warmoesstraat 90D"
+ ]
+}

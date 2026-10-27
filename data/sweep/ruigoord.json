@@ -1,0 +1,1055 @@
+{
+ "id": "ruigoord",
+ "naam": "Ruigoord",
+ "adres": "Ruigoord 76, 1047 HH Amsterdam",
+ "termen": [
+  "Ruigoord 76",
+  "1047HH",
+  "1047 HH",
+  "Ruigoord"
+ ],
+ "pand": "0363100012155591",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 79,
+  "gezocht": [
+   "Ruigoord 76"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-338187",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - Tijdelijk afwijken  omgevingsplan voor  meerdaags cultureel festivalterrein en camping",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-15",
+    "onderwerp": "het tijdelijk afwijken  van het omgevingsplan voor een meerdaags cultureel festivalterrein en camping voor de  periode van 23 tot en met 26 juli 2026",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-338187.html",
+    "zaak": "OD2026-0029756"
+   },
+   {
+    "id": "gmb-2026-298685",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - Tijdelijk afwijken van omgevingsplan voor organiseren ‘Solstice festival’ op 20 juni 2026 - Stichting Landjuweel 2000",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "het organiseren van het Solstice festival",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-298685.html",
+    "zaak": "OD2026-0024567"
+   },
+   {
+    "id": "gmb-2026-246354",
+    "titel": "Aanvraag vergunning ontvangen - Ruigoord 76, Amsterdam - Wijzigen functie naar meerdaags cultureel festivalterrein",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "het wijzigen van de functie naar een meerdaags cultureel festivalterrein",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-246354.html",
+    "zaak": "OD2026-0029756"
+   },
+   {
+    "id": "gmb-2026-217413",
+    "titel": "Aanvraag vergunning ontvangen - Ruigoord 76, Amsterdam -  Organiseren Solstice festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-08",
+    "onderwerp": "het organiseren van het Solstice festival",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-217413.html",
+    "zaak": "OD2026-0024567"
+   },
+   {
+    "id": "gmb-2025-352919",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - het houden van een evenement",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-12",
+    "onderwerp": "het houden van het meerdaagse evenement Landjuweel van 7 tot en met 10 augustus 2025",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-352919.html",
+    "zaak": "OD2025-0010082"
+   },
+   {
+    "id": "gmb-2025-330117",
+    "titel": "Aanvraag vergunning ontvangen - Ruigoord 76, Amsterdam - Houden meerdaagse evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "het houden van het meerdaagse evenement Landjuweel van 7 tot en met 10 augustus 2025",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-330117.html",
+    "zaak": "OD2025-0010082"
+   },
+   {
+    "id": "gmb-2024-359750",
+    "titel": "Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van de regels van het omgevingsplan ten behoeve van het evenement “Landjuweel 2024”",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-359750.html",
+    "zaak": "13056833"
+   },
+   {
+    "id": "gmb-2024-323463",
+    "titel": "Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam- tijdelijk afwijken van het omgevingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-24",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323463.html",
+    "zaak": "12978234"
+   },
+   {
+    "id": "gmb-2024-275584",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Ruigoord 76, Amsterdam - afwijken regels omgevingsplan t.b.v. het evenement Georgie's Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-275584.html",
+    "zaak": "12901678"
+   },
+   {
+    "id": "gmb-2024-266310",
+    "titel": "Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van het omgevingsplan t.b.v. het evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-266310.html",
+    "zaak": "12884087"
+   },
+   {
+    "id": "gmb-2024-239308",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Ruigoord 76, Amsterdam - afwijken regels omgevingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239308.html",
+    "zaak": "12854012"
+   },
+   {
+    "id": "gmb-2024-124596",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen - Ruigoord 76, Amsterdam - Afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-20",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-124596.html"
+   },
+   {
+    "id": "gmb-2023-352329",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - wijzigen van het bestemmingsplan t.b.v. het festival Georgies Wundergarten op 25 en 26 augustus 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-352329.html",
+    "zaak": "1331794"
+   },
+   {
+    "id": "gmb-2023-338643",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van het bestemmingsplan t.b.v. van het festival Landjuweel 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-338643.html",
+    "zaak": "1330862"
+   },
+   {
+    "id": "gmb-2023-290538",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het wijzigen van het bestemmingsplan t.b.v. het festival Georgies Wundergarten augustus 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-290538.html",
+    "zaak": "1327565"
+   },
+   {
+    "id": "gmb-2023-290566",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het wijzigen van het bestemmingsplan t.b.v. het festival Landjuweel juli 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-290566.html",
+    "zaak": "1327566"
+   },
+   {
+    "id": "gmb-2023-271847",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-21",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-271847.html",
+    "zaak": "1325799"
+   },
+   {
+    "id": "gmb-2023-233055",
+    "titel": "Vergunning verleend - nabij Ruigoord 76, Amsterdam - het bouwen van een schuur",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-30",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-233055.html",
+    "zaak": "1322776"
+   },
+   {
+    "id": "gmb-2023-228095",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het wijzigen van het bestemmingplan t.b.v. het festival Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-228095.html",
+    "zaak": "1322508"
+   },
+   {
+    "id": "gmb-2023-228062",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het splitsen van van de activiteiten",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-228062.html"
+   },
+   {
+    "id": "gmb-2023-228075",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het wijzigen van de bestemmingsplan t.b.v. het festival Landjuweel 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-228075.html",
+    "zaak": "1322506"
+   },
+   {
+    "id": "gmb-2023-166241",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het bouwen van een schuur",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-166241.html",
+    "zaak": "1320008"
+   },
+   {
+    "id": "gmb-2023-59580",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het bouwen van een schuur",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-59580.html",
+    "zaak": "1311256"
+   },
+   {
+    "id": "gmb-2022-342606",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het tijdelijk plaatsen van een schuur",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-342606.html",
+    "zaak": "1297413"
+   },
+   {
+    "id": "gmb-2022-331164",
+    "titel": "Vergunning Verleend - Ruigoord 76, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Georgies Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-331164.html",
+    "zaak": "1297104"
+   },
+   {
+    "id": "gmb-2022-331252",
+    "titel": "Vergunning Verleend - Ruigoord 76, Amsterdam - het afwijken van de regels van het bestemmingsplan t.b.v. het evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-331252.html",
+    "zaak": "1297107"
+   },
+   {
+    "id": "gmb-2022-289148",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Georgies Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-289148.html",
+    "zaak": "1295691"
+   },
+   {
+    "id": "gmb-2022-282165",
+    "titel": "Vergunning Verleend - Ruigoord 76, Amsterdam - afwijken bestemmingsplan t.b.v. evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-282165.html",
+    "zaak": "1295261"
+   },
+   {
+    "id": "gmb-2022-253685",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het afwijken van de regels van het bestemmingsplan t.b.v. het evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-253685.html",
+    "zaak": "1294030"
+   },
+   {
+    "id": "gmb-2022-183766",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het afwijken van de regels van het bestemmingsplan t.b.v. het evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-183766.html",
+    "zaak": "1290900"
+   },
+   {
+    "id": "gmb-2022-160802",
+    "titel": "Aanvraag vergunning - Ruigoord 76 - Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Georgies Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160802.html",
+    "zaak": "1289968"
+   },
+   {
+    "id": "gmb-2022-160788",
+    "titel": "Aanvraag vergunning - Ruigoord 76 - Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160788.html",
+    "zaak": "1289967"
+   },
+   {
+    "id": "gmb-2021-278145",
+    "titel": "Ruigoord 76, Amsterdam, tijdelijk afwijken bestemmingsplan t.b.v. festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-278145.html",
+    "zaak": "1267066"
+   },
+   {
+    "id": "gmb-2021-278395",
+    "titel": "Ruigoord 76, Amsterdam, afwijken bestemmingsplan t.b.v. Landjuweel Festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-278395.html",
+    "zaak": "1267068"
+   },
+   {
+    "id": "gmb-2021-213220",
+    "titel": "Ruigoord 76, Amsterdam, afwijken bestemmingsplan t.b.v. festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-213220.html",
+    "zaak": "1265814"
+   },
+   {
+    "id": "gmb-2021-213260",
+    "titel": "Ruigoord 76, Amsterdam - tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-213260.html",
+    "zaak": "1265815"
+   },
+   {
+    "id": "gmb-2020-277933",
+    "titel": "Wabo, reguliere procedure, beslistermijn verlengd, Ruigoord 76, Amsterdam, wijzigen bestemmingsplan",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-10-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-277933.html"
+   },
+   {
+    "id": "gmb-2020-236250",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Ruigoord 76, Amsterdam, wijzigen bestemmingsplan",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-236250.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-246354",
+   "gmb-2026-217413",
+   "gmb-2024-275584",
+   "gmb-2024-239308",
+   "gmb-2024-124596",
+   "gmb-2023-228095",
+   "gmb-2023-228075",
+   "gmb-2023-59580",
+   "gmb-2022-342606",
+   "gmb-2022-183766",
+   "gmb-2022-160802",
+   "gmb-2022-160788",
+   "gmb-2020-236250"
+  ],
+  "zaaknummers": [
+   "12854012",
+   "1289967",
+   "1289968",
+   "12901678",
+   "1290900",
+   "1297413",
+   "1311256",
+   "1322506",
+   "1322508",
+   "OD2026-0024567",
+   "OD2026-0029756"
+  ],
+  "plannen": [
+   {
+    "id": "stcrt-2026-32607",
+    "titel": "Waterstofnetwerk NoordzeekanaalgebiedKennisgeving terinzagelegging ontwerpprojectbesluit Waterstofnetwerk Noordzeekanaalgebied, Ministerie van Economische Zaken en Klimaat",
+    "soort": "andere vergunning",
+    "datum": "2026-09-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32607.html"
+   },
+   {
+    "id": "gmb-2026-338187",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - Tijdelijk afwijken  omgevingsplan voor  meerdaags cultureel festivalterrein en camping",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-15",
+    "onderwerp": "het tijdelijk afwijken  van het omgevingsplan voor een meerdaags cultureel festivalterrein en camping voor de  periode van 23 tot en met 26 juli 2026",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-338187.html",
+    "zaak": "OD2026-0029756"
+   },
+   {
+    "id": "gmb-2026-298685",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - Tijdelijk afwijken van omgevingsplan voor organiseren ‘Solstice festival’ op 20 juni 2026 - Stichting Landjuweel 2000",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-23",
+    "onderwerp": "het organiseren van het Solstice festival",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-298685.html",
+    "zaak": "OD2026-0024567"
+   },
+   {
+    "id": "gmb-2024-359750",
+    "titel": "Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van de regels van het omgevingsplan ten behoeve van het evenement “Landjuweel 2024”",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-359750.html",
+    "zaak": "13056833"
+   },
+   {
+    "id": "gmb-2024-323463",
+    "titel": "Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam- tijdelijk afwijken van het omgevingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-24",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323463.html",
+    "zaak": "12978234"
+   },
+   {
+    "id": "gmb-2024-275584",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Ruigoord 76, Amsterdam - afwijken regels omgevingsplan t.b.v. het evenement Georgie's Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-275584.html",
+    "zaak": "12901678"
+   },
+   {
+    "id": "gmb-2024-266310",
+    "titel": "Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van het omgevingsplan t.b.v. het evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-266310.html",
+    "zaak": "12884087"
+   },
+   {
+    "id": "gmb-2024-239308",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Ruigoord 76, Amsterdam - afwijken regels omgevingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239308.html",
+    "zaak": "12854012"
+   },
+   {
+    "id": "gmb-2024-124596",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen - Ruigoord 76, Amsterdam - Afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-20",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-124596.html"
+   },
+   {
+    "id": "gmb-2023-352329",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - wijzigen van het bestemmingsplan t.b.v. het festival Georgies Wundergarten op 25 en 26 augustus 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-352329.html",
+    "zaak": "1331794"
+   },
+   {
+    "id": "gmb-2023-338643",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van het bestemmingsplan t.b.v. van het festival Landjuweel 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-01",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-338643.html",
+    "zaak": "1330862"
+   },
+   {
+    "id": "gmb-2023-290538",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het wijzigen van het bestemmingsplan t.b.v. het festival Georgies Wundergarten augustus 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-290538.html",
+    "zaak": "1327565"
+   },
+   {
+    "id": "gmb-2023-290566",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het wijzigen van het bestemmingsplan t.b.v. het festival Landjuweel juli 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-290566.html",
+    "zaak": "1327566"
+   },
+   {
+    "id": "gmb-2023-271847",
+    "titel": "Vergunning verleend - Ruigoord 76, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-21",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-271847.html",
+    "zaak": "1325799"
+   },
+   {
+    "id": "gmb-2023-228075",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het wijzigen van de bestemmingsplan t.b.v. het festival Landjuweel 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-228075.html",
+    "zaak": "1322506"
+   },
+   {
+    "id": "gmb-2022-331164",
+    "titel": "Vergunning Verleend - Ruigoord 76, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Georgies Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-331164.html",
+    "zaak": "1297104"
+   },
+   {
+    "id": "gmb-2022-331252",
+    "titel": "Vergunning Verleend - Ruigoord 76, Amsterdam - het afwijken van de regels van het bestemmingsplan t.b.v. het evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-331252.html",
+    "zaak": "1297107"
+   },
+   {
+    "id": "gmb-2022-289148",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Georgies Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-289148.html",
+    "zaak": "1295691"
+   },
+   {
+    "id": "gmb-2022-282165",
+    "titel": "Vergunning Verleend - Ruigoord 76, Amsterdam - afwijken bestemmingsplan t.b.v. evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-282165.html",
+    "zaak": "1295261"
+   },
+   {
+    "id": "gmb-2022-253685",
+    "titel": "Beslistermijn verlengd - Ruigoord 76, Amsterdam - het afwijken van de regels van het bestemmingsplan t.b.v. het evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-253685.html",
+    "zaak": "1294030"
+   },
+   {
+    "id": "gmb-2022-183766",
+    "titel": "Aanvraag vergunning - Ruigoord 76, Amsterdam - het afwijken van de regels van het bestemmingsplan t.b.v. het evenement Landjuweel",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-183766.html",
+    "zaak": "1290900"
+   },
+   {
+    "id": "gmb-2022-160802",
+    "titel": "Aanvraag vergunning - Ruigoord 76 - Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Georgies Wundergarten",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160802.html",
+    "zaak": "1289968"
+   },
+   {
+    "id": "gmb-2022-160788",
+    "titel": "Aanvraag vergunning - Ruigoord 76 - Amsterdam - het afwijken van het bestemmingsplan t.b.v. het evenement Solstice",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160788.html",
+    "zaak": "1289967"
+   },
+   {
+    "id": "gmb-2021-278145",
+    "titel": "Ruigoord 76, Amsterdam, tijdelijk afwijken bestemmingsplan t.b.v. festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-278145.html",
+    "zaak": "1267066"
+   },
+   {
+    "id": "gmb-2021-278395",
+    "titel": "Ruigoord 76, Amsterdam, afwijken bestemmingsplan t.b.v. Landjuweel Festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-278395.html",
+    "zaak": "1267068"
+   },
+   {
+    "id": "gmb-2021-213220",
+    "titel": "Ruigoord 76, Amsterdam, afwijken bestemmingsplan t.b.v. festival",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-213220.html",
+    "zaak": "1265814"
+   },
+   {
+    "id": "gmb-2021-213260",
+    "titel": "Ruigoord 76, Amsterdam - tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-213260.html",
+    "zaak": "1265815"
+   },
+   {
+    "id": "gmb-2020-277933",
+    "titel": "Wabo, reguliere procedure, beslistermijn verlengd, Ruigoord 76, Amsterdam, wijzigen bestemmingsplan",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-10-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-277933.html"
+   },
+   {
+    "id": "gmb-2020-236250",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Ruigoord 76, Amsterdam, wijzigen bestemmingsplan",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-236250.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-360777",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-360777.html"
+   },
+   {
+    "id": "gmb-2026-319505",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-319505.html"
+   },
+   {
+    "id": "gmb-2026-292000",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-292000.html"
+   },
+   {
+    "id": "gmb-2026-256994",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-06-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-256994.html"
+   },
+   {
+    "id": "gmb-2026-246774",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-246774.html"
+   },
+   {
+    "id": "gmb-2026-209367",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-04",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-209367.html"
+   },
+   {
+    "id": "gmb-2026-116198",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-116198.html"
+   },
+   {
+    "id": "gmb-2026-105267",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-105267.html"
+   },
+   {
+    "id": "gmb-2026-92418",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-02",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-92418.html"
+   },
+   {
+    "id": "gmb-2026-78109",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-78109.html"
+   },
+   {
+    "id": "gmb-2025-344728",
+    "titel": "Besluit evenementenvergunning Verleend - Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-08-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-344728.html"
+   },
+   {
+    "id": "gmb-2025-281856",
+    "titel": "Besluit evenementenvergunning Verleend - Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-30",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-281856.html"
+   },
+   {
+    "id": "gmb-2025-279522",
+    "titel": "Besluit evenementenvergunning Verleend - Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-27",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-279522.html"
+   },
+   {
+    "id": "gmb-2025-253277",
+    "titel": "Besluit evenementenvergunning Verleend - Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-11",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-253277.html"
+   },
+   {
+    "id": "gmb-2025-155834",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-155834.html"
+   },
+   {
+    "id": "gmb-2025-118661",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-118661.html"
+   },
+   {
+    "id": "gmb-2025-111444",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-111444.html"
+   },
+   {
+    "id": "gmb-2025-66559",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-66559.html"
+   },
+   {
+    "id": "gmb-2025-66498",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-66498.html"
+   },
+   {
+    "id": "gmb-2024-318472",
+    "titel": "Besluit evenementenvergunning Verleend - Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-318472.html"
+   },
+   {
+    "id": "gmb-2024-313639",
+    "titel": "Besluit evenementenvergunning Verleend - Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-18",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-313639.html"
+   },
+   {
+    "id": "gmb-2024-258271",
+    "titel": "Besluit evenementenvergunning VerleendRuigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-258271.html"
+   },
+   {
+    "id": "gmb-2024-217566",
+    "titel": "Besluit evenementenvergunning VerleendRuigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-217566.html"
+   },
+   {
+    "id": "gmb-2024-209754",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-209754.html"
+   },
+   {
+    "id": "gmb-2024-158274",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158274.html"
+   },
+   {
+    "id": "gmb-2024-91845",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-91845.html"
+   },
+   {
+    "id": "gmb-2024-77419",
+    "titel": "Aanvraag evenementenvergunning Ruigoord 76 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-20",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Ruigoord 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-77419.html"
+   },
+   {
+    "id": "gmb-2023-376578",
+    "titel": "Besluit evenementenvergunning VerleendRuigoord 76 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-31",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-376578.html"
+   },
+   {
+    "id": "gmb-2023-358046",
+    "titel": "Besluit evenementenvergunning VerleendRuigoord 76 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-15",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-358046.html"
+   },
+   {
+    "id": "gmb-2023-272051",
+    "titel": "Besluit evenementenvergunning VerleendRuigoord 76 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-22",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Ruigoord 76 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-272051.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 101,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32607.pdf",
+   "bron": "bekendmaking stcrt-2026-32607: Waterstofnetwerk NoordzeekanaalgebiedKennisgeving terinzagelegging ontwerpprojectbesluit Waterstofnetwerk Noordzeekanaalgebied, Ministerie van Economische Zaken en Klimaat",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-338187.pdf",
+   "bron": "bekendmaking gmb-2026-338187: Vergunning verleend - Ruigoord 76, Amsterdam - Tijdelijk afwijken  omgevingsplan voor  meerdaags cultureel festivalterrein en camping",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-298685.pdf",
+   "bron": "bekendmaking gmb-2026-298685: Vergunning verleend - Ruigoord 76, Amsterdam - Tijdelijk afwijken van omgevingsplan voor organiseren ‘Solstice festival’ op 20 juni 2026 - Stichting Landjuweel 2000",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-359750.pdf",
+   "bron": "bekendmaking gmb-2024-359750: Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam - het tijdelijk afwijken van de regels van het omgevingsplan ten behoeve van het evenement “Landjuweel 2024”",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323463.pdf",
+   "bron": "bekendmaking gmb-2024-323463: Vergunning Omgevingswet verleend - Ruigoord 76, Amsterdam- tijdelijk afwijken van het omgevingsplan",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-275584.pdf",
+   "bron": "bekendmaking gmb-2024-275584: Aanvraag vergunning Omgevingswet ontvangen - Ruigoord 76, Amsterdam - afwijken regels omgevingsplan t.b.v. het evenement Georgie's Wundergarten",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 105,
+ "pand_adressen": [
+  "Ruigoord 76"
+ ]
+}

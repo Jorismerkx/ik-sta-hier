@@ -1,0 +1,637 @@
+{
+ "id": "oedipus-craft-space",
+ "naam": "Oedipus Craft Space",
+ "adres": "Schaafstraat 21, 1021 KL Amsterdam",
+ "termen": [
+  "Schaafstraat 21",
+  "1021KL",
+  "1021 KL",
+  "Oedipus Craft Space"
+ ],
+ "pand": "0363100012091631",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 26,
+  "openbaar": 26,
+  "laatste": "1990-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_01603",
+    "titel": "Schaafstraat 17 - 19",
+    "datum": "1990-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01603"
+   },
+   {
+    "dossier": "SN_06158",
+    "titel": "Schaafstraat 21",
+    "datum": "1986-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06158"
+   },
+   {
+    "dossier": "SN_06091",
+    "titel": "Schaafstraat 21",
+    "datum": "1974-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06091"
+   },
+   {
+    "dossier": "SN_00652",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1972-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00652"
+   },
+   {
+    "dossier": "SN_00651",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1972-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00651"
+   },
+   {
+    "dossier": "SN_00648",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1972-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00648"
+   },
+   {
+    "dossier": "SN_00649",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1972-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00649"
+   },
+   {
+    "dossier": "SN_00650",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1972-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 102,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00650"
+   },
+   {
+    "dossier": "SN_06081",
+    "titel": "Beitelkade 4",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_06081"
+   },
+   {
+    "dossier": "SN_01615",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1972-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01615"
+   },
+   {
+    "dossier": "SN_00647",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 140,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00647"
+   },
+   {
+    "dossier": "SN_00645",
+    "titel": "Beitelkade 2 - 4; Schaafstraat 21",
+    "datum": "1965-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00645"
+   },
+   {
+    "dossier": "SN_00641",
+    "titel": "Beitelkade 2 - 4; Schaafstraat 21",
+    "datum": "1965-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00641"
+   },
+   {
+    "dossier": "SN_00642",
+    "titel": "Beitelkade 2 - 4; Schaafstraat 21",
+    "datum": "1965-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00642"
+   },
+   {
+    "dossier": "SN_00644",
+    "titel": "Beitelkade 2 - 4; Schaafstraat 21",
+    "datum": "1965-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00644"
+   },
+   {
+    "dossier": "SN_00643",
+    "titel": "Beitelkade 2 - 4; Schaafstraat 21",
+    "datum": "1964-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00643"
+   },
+   {
+    "dossier": "SN_00640",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1960-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 140,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00640"
+   },
+   {
+    "dossier": "SN_00632",
+    "titel": "Schaafstraat 21",
+    "datum": "1934-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00632"
+   },
+   {
+    "dossier": "SN_00628",
+    "titel": "Schaafstraat 21",
+    "datum": "1928-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00628"
+   },
+   {
+    "dossier": "SN_00627",
+    "titel": "Schaafstraat 21",
+    "datum": "1928-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00627"
+   },
+   {
+    "dossier": "SN_00630",
+    "titel": "Beitelkade 4; Schaafstraat 21",
+    "datum": "1928-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00630"
+   },
+   {
+    "dossier": "SN_00625",
+    "titel": "Beitelkade 4",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00625"
+   },
+   {
+    "dossier": "SN_00626",
+    "titel": "Beitelkade 4",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00626"
+   },
+   {
+    "dossier": "SN_00624",
+    "titel": "Beitelkade 4",
+    "datum": "1922-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00624"
+   },
+   {
+    "dossier": "SN_00622",
+    "titel": "Beitelkade 4",
+    "datum": "1919-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00622"
+   },
+   {
+    "dossier": "SN_00623",
+    "titel": "Beitelkade 4",
+    "datum": "1918-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_00623"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 25,
+  "gezocht": [
+   "Schaafstraat 21",
+   "Beitelkade 4",
+   "Schaafstraat 17"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-314469",
+    "titel": "Vergunning Omgevingswet verleend - Schaafstraat 21, Amsterdam - het tijdelijk inrichten van het buitenterrein",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-18",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-314469.html",
+    "zaak": "12960449"
+   },
+   {
+    "id": "gmb-2024-306205",
+    "titel": "Geen vergunning nodig - Schaafstraat 21, Amsterdam - het realiseren van een interne verbouwing ten behoeve van de brandveiligheid",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-306205.html",
+    "zaak": "12950453"
+   },
+   {
+    "id": "gmb-2024-241341",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Schaafstraat 21, Amsterdam - brandveiligheid",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-241341.html",
+    "zaak": "12856650"
+   },
+   {
+    "id": "gmb-2024-208722",
+    "titel": "Vergunning geweigerd - Schaafstraat 21, Amsterdam - het wijzigen van de brandveiligheid van een gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-208722.html",
+    "zaak": "1372622"
+   },
+   {
+    "id": "gmb-2024-195912",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Schaafstraat 21, Amsterdam - het tijdelijk inrichten van het buitenterrein",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-195912.html",
+    "zaak": "12780927"
+   },
+   {
+    "id": "gmb-2024-79013",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Beitelkade 4 en Schaafstraat 17-21 1021KG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-20",
+    "onderwerp": "het wijzigen van het gebruik van het bestaande gebouw t.b.v. bierbrouwerij",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-79013.html",
+    "zaak": "Z2023-N001650"
+   },
+   {
+    "id": "gmb-2024-40656",
+    "titel": "Beslistermijn verlengd - Schaafstraat 21, Amsterdam - het wijzigen van de brandveiligheid van een gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-40656.html",
+    "zaak": "1356233"
+   },
+   {
+    "id": "gmb-2023-497801",
+    "titel": "Aanvraag vergunning - Schaafstraat 21, Amsterdam - het wijzigen van de brandveiligheid van een gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-497801.html",
+    "zaak": "1347595"
+   },
+   {
+    "id": "gmb-2023-356794",
+    "titel": "Aanvraag omgevingsvergunning Beitelkade 4 en Schaafstraat 17-21 1021KG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-14",
+    "onderwerp": "het wijzigen van het gebruik van het bestaande gebouw t.b.v. bierbrouwerij",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-356794.html",
+    "zaak": "Z2023-N001650"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-241341",
+   "gmb-2024-195912",
+   "gmb-2024-79013",
+   "gmb-2023-497801",
+   "gmb-2023-356794"
+  ],
+  "zaaknummers": [
+   "12780927",
+   "12856650",
+   "1347595",
+   "Z2023-N001650"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-95472",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Noord tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Noord [Besluit ter bekrachtiging geldende afvalregels stadsdeel Noord]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-95472.html"
+   },
+   {
+    "id": "gmb-2025-260304",
+    "titel": "Melding verrichten milieubelastende activiteit - Beitelkade 4, Amsterdam - het in werking hebben van twee stookinstallaties - Oedipus Brewing B.V.",
+    "soort": "omgevingsmelding",
+    "datum": "2025-06-16",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-260304.html"
+   },
+   {
+    "id": "gmb-2024-547712",
+    "titel": "Besluit alcoholwetvergunning Verleend - Schaafstraat 21 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-30",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Schaafstraat 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-547712.html"
+   },
+   {
+    "id": "gmb-2024-474710",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Schaafstraat 21 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Schaafstraat 21 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-474710.html"
+   },
+   {
+    "id": "gmb-2024-451687",
+    "titel": "Aanvraag alcoholwetvergunning Schaafstraat 21",
+    "soort": "andere vergunning",
+    "datum": "2024-10-28",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Schaafstraat 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-451687.html"
+   },
+   {
+    "id": "gmb-2024-451714",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Schaafstraat 21 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-10-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Schaafstraat 21 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-451714.html"
+   },
+   {
+    "id": "gmb-2024-311044",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Schaafstraat 21",
+    "soort": "andere vergunning",
+    "datum": "2024-07-16",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Schaafstraat 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-311044.html"
+   },
+   {
+    "id": "gmb-2024-248537",
+    "titel": "Besluit alcoholwetvergunning Verleend - Schaafstraat 21 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-06-07",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Schaafstraat 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-248537.html"
+   },
+   {
+    "id": "gmb-2024-248536",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Schaafstraat 21 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Schaafstraat 21 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-248536.html"
+   },
+   {
+    "id": "gmb-2024-233709",
+    "titel": "Aanvraag alcoholwetvergunning Schaafstraat 21",
+    "soort": "andere vergunning",
+    "datum": "2024-05-30",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Schaafstraat 21",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-233709.html"
+   },
+   {
+    "id": "gmb-2024-77359",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Schaafstraat 21 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-20",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Schaafstraat 21 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-77359.html"
+   },
+   {
+    "id": "gmb-2024-16578",
+    "titel": "Melding Activiteitenbesluit - Schaafstraat 17 t/m 21, Amsterdam - Oedipus Brewing B.V. - de verhuizing en oprichting op een andere locatie van een bierbrouwerij",
+    "soort": "overige overheidsinformatie",
+    "datum": "2024-01-09",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-16578.html"
+   },
+   {
+    "id": "gmb-2021-24836",
+    "titel": "Activiteitenbesluit, melding ontvangen, Oedipus Brewing B.V., Gedempt Hamerkanaal 85 - Schaafstraat 21, Amsterdam",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2021-01-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-24836.html"
+   },
+   {
+    "id": "stcrt-2015-43218",
+    "titel": "Gemeente Amsterdam",
+    "soort": "Overig",
+    "datum": "2015-12-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-43218.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/t_NL.IMRO.0363.N1002BPSTD-OH01_8.3.html",
+     "tekst": "ek van LBP/Sight zijn vier vergunningplichtige bedrijven geÃ¯nventariseerd, met name: - Draka Kabel op het adres Hamerstraat 2; - Canter Vleeswaren op het adres Johan van Hasseltweg 73; - SchÃ¶ne Edelmetaal op het adres Meeuwenlaan 88; - Exclusiva Schoonmaakmiddelen op het adres Schaafstraat 21. Deze bedrijven hebben allemaal een vergunde geluidruimte van 50 dB(A) op 50 meter afstand. Om te voorkomen dat deze bedrijven in hun bedrijfsvoering belemmerd worden, kan binnen 50 meter afstand van deze bedrijven geen geluidsgevoelige functie gerealiseerd worden. Conform de voorwaarden voor het toestaan van woningen of scholen, dienen deze afstanden in acht te worden genomen bij "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.N1002BPSTD-OH01/t_NL.IMRO.0363.N1002BPSTD-OH01_18.2.html",
+     "tekst": "euhindercategorieÃ«n 1 of 2. Onder voorwaarden zijn categorie 3.1 functies ook mengbaar met wonen. Het bedrijf SchÃ¶ne Edelmetaal dat edelmetalen verwerkt op het adres Meeuwenlaan 88 (SBI-code 382.A2), valt in categorie 3.2. Het bedrijf Exclusiva, een groothandel in chemische producten op het adres Schaafstraat 21 (SBI-code 46751), valt tevens in categorie 3.2. Deze functies krijgen een maatwerkbestemming. De bedrijven mogen hiermee hun activiteit voortzetten. Als die genoemde functie verdwijnt worden slechts functies toegestaan die geen belemmering opleveren voor de transformatie naar een gemengd werk-woongebied. De aanwezigheid van het LPG-tankstation aan de Meeuwenlaan beperkt de ontwikke"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 0
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 96,
+ "pand_adressen": [
+  "Beitelkade 4",
+  "Schaafstraat 17",
+  "Schaafstraat 21"
+ ]
+}

@@ -1,0 +1,297 @@
+{
+ "id": "bourbon-street",
+ "naam": "Bourbon Street",
+ "adres": "Leidsekruisstraat 6-8, 1017 RH Amsterdam",
+ "termen": [
+  "Leidsekruisstraat 6",
+  "Leidsekruisstraat 8",
+  "1017RH",
+  "1017 RH",
+  "Bourbon Street"
+ ],
+ "pand": "0363100012172384",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 14,
+  "openbaar": 14,
+  "laatste": "2008-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_99660",
+    "titel": "Leidsekruisstraat 8",
+    "datum": "2008-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_99660"
+   },
+   {
+    "dossier": "SA_63579",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63579"
+   },
+   {
+    "dossier": "SA_63566",
+    "titel": "Leidsekruisstraat 8",
+    "datum": "1979-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63566"
+   },
+   {
+    "dossier": "SA_63565",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1975-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63565"
+   },
+   {
+    "dossier": "SA_63561",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63561"
+   },
+   {
+    "dossier": "SA_63563",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63563"
+   },
+   {
+    "dossier": "SA_63557",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63557"
+   },
+   {
+    "dossier": "SA_63560",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63560"
+   },
+   {
+    "dossier": "SA_63559",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1969-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63559"
+   },
+   {
+    "dossier": "SA_63509",
+    "titel": "Leidsekruisstraat 8",
+    "datum": "1968-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63509"
+   },
+   {
+    "dossier": "SA_63558",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1968-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63558"
+   },
+   {
+    "dossier": "SA_63504",
+    "titel": "Leidsekruisstraat 8",
+    "datum": "1955-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63504"
+   },
+   {
+    "dossier": "SA_63506",
+    "titel": "Leidsekruisstraat 8",
+    "datum": "1953-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63506"
+   },
+   {
+    "dossier": "SA_63490",
+    "titel": "Leidsekruisstraat 6 - 8",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_63490"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 6,
+  "gezocht": [
+   "Leidsekruisstraat 6",
+   "Leidsekruisstraat 8"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-451856",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Leidsekruisstraat 8 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Leidsekruisstraat 8 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451856.html"
+   },
+   {
+    "id": "gmb-2025-451793",
+    "titel": "Besluit alcoholwetvergunning Verleend - Leidsekruisstraat 8 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Leidsekruisstraat 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451793.html"
+   },
+   {
+    "id": "gmb-2025-433737",
+    "titel": "Aanvraag alcoholwetvergunning Leidsekruisstraat 8",
+    "soort": "andere vergunning",
+    "datum": "2025-10-07",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Leidsekruisstraat 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-433737.html"
+   },
+   {
+    "id": "gmb-2025-369663",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Leidsekruisstraat 8 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-08-26",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Leidsekruisstraat 8 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-369663.html"
+   },
+   {
+    "id": "gmb-2016-90608",
+    "titel": "Verlenging van de Proef Twaalfdagenregeling voor de nachtzaken. Het  beleidskader ontheffingen, als bedoeld in artikel 3.15, derde lid, van  de Algemene Plaatselijke Verordening 2008 in de uitgaansgebieden  Leidseplein en Rembrandtplein (gemeenteblad 2012, afdeling 3B, nummer  83). (3B, 2016, 131)",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-07-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-90608.html"
+   },
+   {
+    "id": "gmb-2015-57458",
+    "titel": "Verlenging van de Proef Twaalfdagenregeling voor de nachtzaken. Het beleidskader ontheffingen, als bedoeld in artikel 3.15, derde lid, van de Algemene Plaatselijke Verordening 2008 in de uitgaansgebieden Leidseplein en Rembrandtplein (gemeenteblad 2012, afdeling 3B, nummer 83).(3b, 2015, 136)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-06-26",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-57458.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 137,
+  "woo": 3
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 145,
+ "pand_adressen": [
+  "Leidsekruisstraat 8"
+ ]
+}

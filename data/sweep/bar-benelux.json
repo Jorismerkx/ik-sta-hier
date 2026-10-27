@@ -1,0 +1,180 @@
+{
+ "id": "bar-benelux",
+ "naam": "Bar Benelux",
+ "adres": "Gedempt Hamerkanaal 83, 1021 KP Amsterdam",
+ "termen": [
+  "Gedempt Hamerkanaal 83",
+  "1021KP",
+  "1021 KP",
+  "Bar Benelux"
+ ],
+ "pand": "0363100012063232",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 2,
+  "openbaar": 2,
+  "laatste": "2001-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_01589",
+    "titel": "Gedempt Hamerkanaal 83",
+    "datum": "2001-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01589"
+   },
+   {
+    "dossier": "SN_01374",
+    "titel": "Gedempt Hamerkanaal 75 - 81; Hamerstraat 1 a - 1 f",
+    "datum": "2000-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_01374"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 8,
+  "gezocht": [
+   "Gedempt Hamerkanaal 83",
+   "Gedempt Hamerkanaal 81"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-13965",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Gedempt Hamerkanaal 81 1021KP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-11",
+    "onderwerp": "kappen van 19 bomen tbv gebiedsontwikkeling",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-13965.html",
+    "zaak": "Z2022-N002945"
+   },
+   {
+    "id": "gmb-2022-514601",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Gedempt Hamerkanaal 81 1021KP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-18",
+    "onderwerp": "kappen van 19 bomen tbv gebiedsontwikkeling",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-514601.html",
+    "zaak": "Z2022-N002945"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-13965",
+   "gmb-2022-514601"
+  ],
+  "zaaknummers": [
+   "Z2022-N002945"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2023-450181",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal 83",
+    "soort": "andere vergunning",
+    "datum": "2023-10-23",
+    "onderwerp": "Werkzaamheden en vervoer op straat Gedempt Hamerkanaal 83 1021KP, Gedempt Hamerkanaal 83",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-450181.html"
+   },
+   {
+    "id": "gmb-2023-80016",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 83 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-02-23",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 83",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-80016.html"
+   },
+   {
+    "id": "gmb-2023-79927",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 83 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 83 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-79927.html"
+   },
+   {
+    "id": "gmb-2022-20780",
+    "titel": "Aanvraag alcoholwetvergunning",
+    "soort": "andere vergunning",
+    "datum": "2022-01-18",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 83",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-20780.html"
+   },
+   {
+    "id": "gmb-2021-415465",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Gedempt Hamerkanaal 83",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 83",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-415465.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 2,
+  "plannen": 606,
+  "woo": 11
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 624,
+ "pand_adressen": [
+  "Gedempt Hamerkanaal 81",
+  "Gedempt Hamerkanaal 83"
+ ]
+}

@@ -1,0 +1,435 @@
+{
+ "id": "vondelkerk",
+ "naam": "Vondelkerk",
+ "adres": "Vondelstraat 120, 1054 GS Amsterdam",
+ "termen": [
+  "Vondelstraat 120",
+  "1054GS",
+  "1054 GS",
+  "Vondelkerk"
+ ],
+ "pand": "0363100012236196",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 8,
+  "openbaar": 0,
+  "laatste": "2003-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_49189",
+    "titel": "Vondelstraat 120",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_49189"
+   },
+   {
+    "dossier": "SJ_62992",
+    "titel": "Vondelstraat 120",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_62992"
+   },
+   {
+    "dossier": "SJ_65592",
+    "titel": "Vondelstraat 120 a - 120 d",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_65592"
+   },
+   {
+    "dossier": "SJ_49227",
+    "titel": "Vondelstraat 120 d",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 79,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_49227"
+   },
+   {
+    "dossier": "SJ_44101",
+    "titel": "Vondelstraat 120 a - 120 d",
+    "datum": "1986-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_44101"
+   },
+   {
+    "dossier": "SJ_49266",
+    "titel": "Vondelstraat 120 a - 120 d",
+    "datum": "1985-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_49266"
+   },
+   {
+    "dossier": "SJ_49238",
+    "titel": "Vondelstraat 120 a - 120 d",
+    "datum": "1985-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 65,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_49238"
+   },
+   {
+    "dossier": "SJ_51327",
+    "titel": "Vondelstraat 120",
+    "datum": "1910-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_51327"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 21,
+  "gezocht": [
+   "Vondelstraat 120",
+   "Vondelstraat 120A",
+   "Vondelstraat 120B",
+   "Vondelstraat 120C",
+   "Vondelstraat 120D"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-372681",
+    "titel": "Aanvraag omgevingsvergunning Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-04",
+    "onderwerp": "restaureren en verbouwen van de Vondelkerk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-372681.html",
+    "zaak": "Z2026-031862"
+   },
+   {
+    "id": "gmb-2026-214829",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "plaatsen van een tijdelijke steigerconstructie met beschermkap t.b.v. de beredding van de Vondelkerk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-214829.html",
+    "zaak": "Z2026-013221"
+   },
+   {
+    "id": "gmb-2026-157531",
+    "titel": "Aanvraag omgevingsvergunning Vondelstraat 120 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-02",
+    "onderwerp": "plaatsen van een tijdelijke steigerconstructie met beschermkap t.b.v. de beredding van de Vondelkerk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-157531.html",
+    "zaak": "Z2026-013221"
+   },
+   {
+    "id": "gmb-2026-30480",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (SPOEDKAP) verleend Vondelstraat 120 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-23",
+    "onderwerp": "(KAP) - het kappen van vier bomen, staande in de openbare ruimte rondom de monumentale Vondelkerk, ten behoeve van het treffen van acute const........",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-30480.html",
+    "zaak": "Z2026-002415"
+   },
+   {
+    "id": "gmb-2026-27561",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (SPOEDKAP) Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-22",
+    "onderwerp": "(KAP) - het kappen van vier bomen in de openbare ruimte rondom de Vondelkerk vanwege acute constructieve veiligheidsrisico’s in het kader van.........",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-27561.html",
+    "zaak": "Z2026-002415"
+   },
+   {
+    "id": "gmb-2025-309520",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-15",
+    "onderwerp": "(KAP) - vellen van 6 houtopstanden in de openbare ruimte (snoeien)",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-309520.html",
+    "zaak": "Z2025-025491"
+   },
+   {
+    "id": "gmb-2025-278697",
+    "titel": "Aanvraag omgevingsvergunning Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-26",
+    "onderwerp": "(KAP) - vellen van 6 houtopstanden ",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-278697.html",
+    "zaak": "Z2025-025491"
+   },
+   {
+    "id": "gmb-2025-14167",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "wijzigen van de entree van de Vondelkerk door het plaatsen van nieuwe entree deuren en nieuwe luiken",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-14167.html",
+    "zaak": "Z2024-036602"
+   },
+   {
+    "id": "gmb-2024-484618",
+    "titel": "Aanvraag omgevingsvergunning Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-18",
+    "onderwerp": "wijzigen van de entree van de Vondelkerk door het plaatsen van nieuwe entree deuren en nieuwe luiken",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-484618.html",
+    "zaak": "Z2024-036602"
+   },
+   {
+    "id": "gmb-2023-392046",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-12",
+    "onderwerp": "maken van vier sparingen ten behoeve van de ventilatie installatie.",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-392046.html",
+    "zaak": "Z2023-W003253"
+   },
+   {
+    "id": "gmb-2023-355466",
+    "titel": "Aanvraag omgevingsvergunning Vondelstraat 120A 1054GS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-14",
+    "onderwerp": "maken van vier sparingen ten behoeve van de ventilatie installatie.",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-355466.html",
+    "zaak": "Z2023-W003253"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-372681",
+   "gmb-2026-214829",
+   "gmb-2026-157531",
+   "gmb-2026-30480",
+   "gmb-2026-27561",
+   "gmb-2025-309520",
+   "gmb-2025-278697",
+   "gmb-2025-14167",
+   "gmb-2024-484618",
+   "gmb-2023-392046",
+   "gmb-2023-355466"
+  ],
+  "zaaknummers": [
+   "Z2023-W003253",
+   "Z2024-036602",
+   "Z2025-025491",
+   "Z2026-002415",
+   "Z2026-013221",
+   "Z2026-031862"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-353283",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat ter hoogte van nummer: 120 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-23",
+    "onderwerp": "Object, Vondelstraat 120, 31 jul-30 okt., Vondelstraat ter hoogte van nummer: 120",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-353283.html"
+   },
+   {
+    "id": "gmb-2026-267701",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat ter hoogte van nummer: 120 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-08",
+    "onderwerp": "TVM 26 parkeervak,TVM stremmen,Object,Vondelstraat 120 D 1054GS, 26 juni t/m 31 juli 2026, Vondelstraat ter hoogte van nummer: 120",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-267701.html"
+   },
+   {
+    "id": "gmb-2026-144056",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat ter hoogte van nummer: 120 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-27",
+    "onderwerp": "TVM 27 parkeervak,TVM stremmen,Object,Vondelstraat 120 D 1054GS, 14 mei t/m 26 juni 2026, Vondelstraat ter hoogte van nummer: 120",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-144056.html"
+   },
+   {
+    "id": "gmb-2026-16039",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat ter hoogte van nummer: 120 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-01-15",
+    "onderwerp": "Fietsen,TVM 32 parkeervak,TVM stremmen,Object,Vondelstraat 120 D 1054GS, 16 januari t/m 15 mei 2026, Vondelstraat ter hoogte van nummer: 120",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-16039.html"
+   },
+   {
+    "id": "gmb-2024-215274",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat 126 en Vondelstraat 120A",
+    "soort": "andere vergunning",
+    "datum": "2024-05-17",
+    "onderwerp": "Object, Vondelstraat 126 A 1054GS, 20240528, Vondelstraat 126 en Vondelstraat 120A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-215274.html"
+   },
+   {
+    "id": "gmb-2024-158276",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat 120D",
+    "soort": "andere vergunning",
+    "datum": "2024-04-11",
+    "onderwerp": "RVV, Filmen, Vondelstraat 120 -Vondelpark, 5 apr, Vondelstraat 120D",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-158276.html"
+   },
+   {
+    "id": "gmb-2024-125859",
+    "titel": "Besluit apv vergunning Verleend - Vondelstraat 120D",
+    "soort": "andere vergunning",
+    "datum": "2024-03-21",
+    "onderwerp": "RVV,Vezip,Filmen, Vondelstraat 120 D 1054GS, 20240326, Vondelstraat 120D",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-125859.html"
+   },
+   {
+    "id": "gmb-2021-438890",
+    "titel": "Besluit apv vergunning Verleend Vondelstraat 164-H",
+    "soort": "andere vergunning",
+    "datum": "2021-12-06",
+    "onderwerp": "TVM6PV, Vondelstraat 120, 15-12-21 - 19-12-21, Vondelstraat 164-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-438890.html"
+   },
+   {
+    "id": "gmb-2021-404262",
+    "titel": "Besluit apv vergunning Verleend Vondelstraat 120C",
+    "soort": "andere vergunning",
+    "datum": "2021-11-12",
+    "onderwerp": "OBJ / Vondelstraat 120 / 15-12-2021 t/m 19-12-2021, Vondelstraat 120C",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-404262.html"
+   },
+   {
+    "id": "gmb-2021-397376",
+    "titel": "Besluit apv vergunning Verleend Vondelstraat 164-H",
+    "soort": "andere vergunning",
+    "datum": "2021-11-09",
+    "onderwerp": "TVM6PV, Vondelstraat 120, 15-12-21 - 19-12-21, Vondelstraat 164-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-397376.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-VG02",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-11-07",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2001BPSTD-VG01",
+   "naam": "Oud West 2018 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-02-15",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2002BPSTD-VG01",
+   "naam": "Oud West 2018 2e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-11-10",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2202BPSTD-VG01",
+   "naam": "Oud West 2018 3e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-06-26",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2203BPSTD-VG01",
+   "naam": "Oud West 4e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-10-06",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-OW01",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2018-05-03",
+   "opp_m2": 1696790,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 2,
+ "pand_adressen": [
+  "Vondelstraat 120A",
+  "Vondelstraat 120B",
+  "Vondelstraat 120C",
+  "Vondelstraat 120D"
+ ]
+}

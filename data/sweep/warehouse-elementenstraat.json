@@ -1,0 +1,687 @@
+{
+ "id": "warehouse-elementenstraat",
+ "naam": "Warehouse Elementenstraat",
+ "adres": "Elementenstraat 25, 1014 AR Amsterdam",
+ "termen": [
+  "Elementenstraat 25",
+  "1014AR",
+  "1014 AR",
+  "Warehouse Elementenstraat"
+ ],
+ "pand": "0363100012128444",
+ "status": null,
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 19,
+  "openbaar": 19,
+  "laatste": "1988-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_58874",
+    "titel": "Elementenstraat  25; Isolatorweg 36",
+    "datum": "1988-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58874"
+   },
+   {
+    "dossier": "SJ_58873",
+    "titel": "Elementenstraat  25; Isolatorweg 36",
+    "datum": "1987-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58873"
+   },
+   {
+    "dossier": "SJ_58868",
+    "titel": "Elementenstraat  25; Isolatorweg 36",
+    "datum": "1987-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58868"
+   },
+   {
+    "dossier": "SJ_58857",
+    "titel": "Isolatorweg 36",
+    "datum": "1978-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 108,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58857"
+   },
+   {
+    "dossier": "SJ_58841",
+    "titel": "Isolatorweg 36",
+    "datum": "1978-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58841"
+   },
+   {
+    "dossier": "XY_01072",
+    "titel": "Elementenstraat 25",
+    "datum": "1977-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01072"
+   },
+   {
+    "dossier": "SJ_58869",
+    "titel": "Elementenstraat  25",
+    "datum": "1977-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58869"
+   },
+   {
+    "dossier": "SJ_58833",
+    "titel": "Isolatorweg 36",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58833"
+   },
+   {
+    "dossier": "SJ_58832",
+    "titel": "Isolatorweg 36",
+    "datum": "1972-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58832"
+   },
+   {
+    "dossier": "SJ_58830",
+    "titel": "Isolatorweg 36",
+    "datum": "1972-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58830"
+   },
+   {
+    "dossier": "SJ_58822",
+    "titel": "Isolatorweg 36",
+    "datum": "1971-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58822"
+   },
+   {
+    "dossier": "SJ_58751",
+    "titel": "Isolatorweg 36",
+    "datum": "1971-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58751"
+   },
+   {
+    "dossier": "SJ_58816",
+    "titel": "Isolatorweg 36",
+    "datum": "1970-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58816"
+   },
+   {
+    "dossier": "SJ_58777",
+    "titel": "Isolatorweg 36",
+    "datum": "1962-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58777"
+   },
+   {
+    "dossier": "SJ_58766",
+    "titel": "Isolatorweg 36",
+    "datum": "1962-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58766"
+   },
+   {
+    "dossier": "SJ_58763",
+    "titel": "Isolatorweg 36",
+    "datum": "1962-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58763"
+   },
+   {
+    "dossier": "XY_01213",
+    "titel": "Isolatorweg 36",
+    "datum": "1962-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01213"
+   },
+   {
+    "dossier": "SJ_58772",
+    "titel": "Isolatorweg 36",
+    "datum": "1961-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58772"
+   },
+   {
+    "dossier": "SJ_58770",
+    "titel": "Isolatorweg 36",
+    "datum": "1961-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_58770"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 13,
+  "gezocht": [
+   "Elementenstraat 25",
+   "Isolatorweg 36"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-422630",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Elementenstraat 25 1014AR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "plaatsen van een reclamebord aan de gevel",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-422630.html",
+    "zaak": "Z2024-012827"
+   },
+   {
+    "id": "gmb-2024-422606",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Elementenstraat 25 1014AR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "plaatsen van een reclamebord aan de gevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-422606.html",
+    "zaak": "Z2024-012827"
+   },
+   {
+    "id": "gmb-2024-393238",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Elementenstraat 25 1014AR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-16",
+    "onderwerp": "plaatsen van reclameborden aan de gevel",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-393238.html",
+    "zaak": "Z2024-012827"
+   },
+   {
+    "id": "gmb-2024-260485",
+    "titel": "Aanvraag omgevingsvergunning Elementenstraat 25 1014AR Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-14",
+    "onderwerp": "plaatsen van Heineken reclame",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-260485.html",
+    "zaak": "Z2024-012827"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-422630",
+   "gmb-2024-422606",
+   "gmb-2024-260485"
+  ],
+  "zaaknummers": [
+   "Z2024-012827"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-188061",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Elementenstraat 25 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Elementenstraat 25 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-188061.html"
+   },
+   {
+    "id": "gmb-2026-184895",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Elementenstraat 25 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Elementenstraat 25 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-184895.html"
+   },
+   {
+    "id": "gmb-2025-522228",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Elementenstraat 25 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-02",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Elementenstraat 25 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-522228.html"
+   },
+   {
+    "id": "gmb-2024-472409",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Elementenstraat 25 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-11",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Elementenstraat 25 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-472409.html"
+   },
+   {
+    "id": "gmb-2023-313648",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Elementenstraat 25 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-07-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Elementenstraat 25 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-313648.html"
+   },
+   {
+    "id": "gmb-2023-79919",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Elementenstraat 25 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Elementenstraat 25 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-79919.html"
+   },
+   {
+    "id": "gmb-2022-528713",
+    "titel": "Besluit apv vergunning Verleend Elementenstraat 25",
+    "soort": "andere vergunning",
+    "datum": "2022-11-29",
+    "onderwerp": "Parkeervakken reserveren, Elementenstraat 25",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-528713.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B1104BPGST-VG02",
+   "naam": "Sloterdijk I",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-07-03",
+   "opp_m2": 602925,
+   "pdfs": [
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+     "titel": "Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004",
+     "waarom": "link bij het adres"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb2.pdf",
+     "titel": "Bijlage 2 Ruimtelijke onderbouwing The Element, Elementenstraat 25/ Isolatorweg 36",
+     "waarom": "link bij het adres"
+    },
+    {
+     "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+     "titel": "Bijlage 18 Printversie toelichting",
+     "waarom": "link bij het adres"
+    }
+   ],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb.html",
+     "tekst": " Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 Bijlage 2 Ruimtelijke onderbouwing The Element, Elementenstraat 25/ Isolatorweg 36 Bijlage 3 Verkeersonderzoek Westpoort, Dienst Infrastructuur, Verkeer en Vervoer, 17 september 2009 Bijlage 4 Aanvulling Verkeersonderzoek Westpoort (inten"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb.html",
+     "tekst": "\" class=\"pdf\">Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 Bijlage 2 Ruimtelijke onderbouwing The Element, Elementenstraat 25/ Isolatorweg 36 Bijlage 3 Verkeersonderzoek Westpoort, Dienst Infrastructuur, Verkeer en Vervoer, 17 september 2009 <a href=\"b_"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/t_NL.IMRO.0363.B1104BPGST-VG02.html",
+     "tekst": "ieningen in de activiteitenzone van Sloterdijk I kunnen worden gehuisvest. Het opnemen van een activiteitenzone in Sloterdijk I kan gezien worden als een aanzet tot transformatie van het plangebied naar een meer gemengd gebied zoals verwoord in de verkenning Haven Stad. Voor het pand Elementenstraat 25/ Isolatorweg 36 is verzocht de functie horeca II (nachtzaak: dancing, discotheek, sociÃ«teit, zaalaccommodatie, nachtcafÃ© en naar de aard daarmee te vergelijken bedrijven) mogelijk te maken met een maximale oppervlakte van 2000 mÂ². Het pand wordt gebruikt voor de ontwikkeling van de Nederlandse elektronische dansmuziek. De missie van het Platform voor elektronische dansmuziek is"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/t_NL.IMRO.0363.B1104BPGST-VG02.html",
+     "tekst": "pand een kleine kantinegelegenheid gerealiseerd (400 mÂ²) die openbaar toegankelijk wordt (bijvoorbeeld voor gebruikers van het bedrijventerrein inclusief voor gebruikers van het gebouw zelf). Dit betreft geen zware horecagelegenheid, maar eerder een wat uitgebreide kantine. Het pand Elementenstraat 25/ Isolatorweg 36 ligt binnen de Activiteitenzone. Het plan, onder de werktitel The Element, past binnen de ontwikkelingen die voor de Activiteitenzone in het gebied Sloterdijk I is voorzien. Zie bijlage 2 voor een onderbouwing van het plan van The Element. Ambulante handel Voor de Slote"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/t_NL.IMRO.0363.B1104BPGST-VG02.html",
+     "tekst": "tie aanduidingen binnen de hoofdbestemming 'Bedrijf', dan ook positief bestemd. Er is gekozen voor een systematiek met gebruikmaking van functieaanduidingen omdat, met het oog op het conserverend karakter van dit bestemmingsplan, de hoofdfunctie van het plangebied bedrijventerrein is. Voor het pand Elementenstraat 25/ Isolatorweg 36 is de functieaanduiding 'horeca' opgenomen. Binnen dit pand is Ã©Ã©n horeca II voorziening met een maximale oppervlakte van 2000 mÂ² toegestaan en Ã©Ã©n horeca IV voorzieningen met een maximale oppervlakte van 400 mÂ². De maximale bouwhoogtes en maximale bebouwingspercentages zijn per bestemmingsvlak aangegeven. De maximale hoogtes zijn overeenkomstig die ingevol"
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 27,
+  "plannen": 1,
+  "woo": 0
+ },
+ "gescand": [
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "noemingen": 0,
+   "kandidaten": 29,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb2.pdf",
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 2 Ruimtelijke onderbouwing The Element, Elementenstraat 25/ Isolatorweg 36 [link bij het adres]",
+   "noemingen": 0,
+   "kandidaten": 0,
+   "scan_zonder_tekst": true
+  },
+  {
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "noemingen": 3,
+   "kandidaten": 6,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\f0c16538ecacee79.pdf",
+   "pagina": 22,
+   "paginas": 114,
+   "score": 9.0,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "begane grond"
+   ],
+   "tekst": "blz. 22 landschap een belangrijke bijdrage levert aan de kwaliteit van de stad om de metropool te kunnen laten functioneren. Bij verder toenemende stedelijke druk pleit dit uitgangspunt dan ook voor een sterke transformatie van Haven-Stad, maar een kanttekening is op zijn plaats: mocht transformatie",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/f0c16538ecacee79-p22.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\f0c16538ecacee79.pdf",
+   "pagina": 95,
+   "paginas": 114,
+   "score": 5.5,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": " blz. 95 Hoofdstuk 16 Luchthavenindelingbesluit Schiphol Het Luchthavenindelingbesluit Schiphol kent een beperkingengebied (met beperkingen ten aanzien van de aard van de bebouwing, beperkingen ten aanzien van de hoogte en beperkingen aan functies die vogels aantrekken). Het plangebied ligt geheel b",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/f0c16538ecacee79-p95.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\f0c16538ecacee79.pdf",
+   "pagina": 99,
+   "paginas": 114,
+   "score": 5.5,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "begane grond"
+   ],
+   "tekst": " blz. 99 Artikel 4 Gemengd De strook ten noorden van de Generatorstraat heeft de bestemming 'Gemengd' gekregen, waarbinnen bedrijven en maatschappelijke voorzieningen, die niet geluidgevoelig zijn, zijn toegestaan. Er is reeds een thuis- en daklozenopvang en een moskee in deze strook gerealiseerd. D",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/f0c16538ecacee79-p99.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 41,
+   "paginas": 79,
+   "score": 5.0,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": "41 Milieuhinderzones sluiten woningbouw uit De Sloterdijken blijven op de korte en ook op de lange termijn binnen de milieuhinderzones van het Westpoortgebied liggen. Hierdoor zal woningbouw in het gebied tot in 2030 beperkt blijven tot bedrijfswoningen. Wel geeft het ontwerp Structuurplan Amsterdam",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p41.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 44,
+   "paginas": 79,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 5,
+   "beelddekking": 0.0,
+   "woorden": [
+    "begane grond"
+   ],
+   "tekst": "44 Teleportgebied de kleur van grootstedelijk werkgebied met een accent op kantoren gekregen. Het merendeel van deze ruimte is recent bebouwd en kent binnen dit milieutype eigenlijk al een optimaal ruimtegebruik. Voor het parkeren geldt de b-norm en dient het parkeren op eigen terrein in gebouwde vo",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p44.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\f0c16538ecacee79.pdf",
+   "pagina": 3,
+   "paginas": 114,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": " blz. 3 9.5 Resultaten onderzoek vervoer gevaarlijke stoffen over weg/spoor 49 9.6 Resultaten onderzoek buisleidingen 52 9.7 Resultaten onderzoek overige risicobronnen 56 9.8 Advies Brandweer Amsterdam-Amstelland 56 9.9 Conclusie 58 Hoofdstuk 10 Milieuhinder bedrijvigheid 59 Hoofdstuk 11 Bodem 61 11",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/f0c16538ecacee79-p3.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\f0c16538ecacee79.pdf",
+   "pagina": 51,
+   "paginas": 114,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.18,
+   "woorden": [
+    "indeling"
+   ],
+   "tekst": " blz. 51 De spoorlijn ten zuiden van de Transformatorweg is bestemd voor transport van gevaarlijke stoffen uit het havengebied. Uit risicoberekeningen voor Basisnet blijkt dat het plaatsgebonden risico kleiner is dan 10-6 per jaar. Het plan voldoet daarmee aan de grens- en de richtwaarde voor het pl",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/f0c16538ecacee79-p51.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 18 Printversie toelichting [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\f0c16538ecacee79.pdf",
+   "pagina": 100,
+   "paginas": 114,
+   "score": 4.5,
+   "tekening": false,
+   "vectoren": 0,
+   "beelddekking": 0.0,
+   "woorden": [
+    "begane grond"
+   ],
+   "tekst": "blz. 100 de begane grond een sportschool toegestaan. De maximale bouwhoogte en maximale bebouwingspercentage bedragen respectievelijk 40 meter en 100%, overeenkomstig het voorgaande bestemmingsplan. Alleen het perceel aan de Transformatorweg heeft een afwijkende maximale bouwhoogte, namelijk 24 mete",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb18.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/f0c16538ecacee79-p100.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 1,
+   "paginas": 79,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 4,
+   "beelddekking": 0.69,
+   "woorden": [],
+   "tekst": "3 maart 2004 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p1.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 6,
+   "paginas": 79,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 0.64,
+   "woorden": [],
+   "tekst": "6 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p6.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 8,
+   "paginas": 79,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 0.45,
+   "woorden": [],
+   "tekst": "8 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p8.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 10,
+   "paginas": 79,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 0.61,
+   "woorden": [],
+   "tekst": "10 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p10.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 18,
+   "paginas": 79,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 0.63,
+   "woorden": [],
+   "tekst": "18 Plan voor landschappelijke inpassing Westrandweg (RWS, 1997) Ontwerpstudie landschappelijke inpassing Westrandweg (West 8 i.o.v. gemeente Amsterdam, 2002) ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p18.png"
+  },
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 1 Visie Sloterdijken, Dienst Ruimtelijke Ordening, maart 2004 [link bij het adres]",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\7ae5402b5b57be41.pdf",
+   "pagina": 21,
+   "paginas": 79,
+   "score": 4.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 0.53,
+   "woorden": [],
+   "tekst": "21 ",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb1.pdf",
+   "png": "data/sources/warehouse-elementenstraat/sweep/7ae5402b5b57be41-p21.png"
+  }
+ ],
+ "contactvellen": [
+  {
+   "bron": "plan NL.IMRO.0363.B1104BPGST-VG02 (Sloterdijk I): Bijlage 2 Ruimtelijke onderbouwing The Element, Elementenstraat 25/ Isolatorweg 36 [link bij het adres]",
+   "url": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb2.pdf",
+   "pdf": "data/sources/_sweep_cache/304fa027afb533bd.pdf",
+   "vellen": [
+    "data/sources/warehouse-elementenstraat/sweep/vel-304fa027-1.png",
+    "data/sources/warehouse-elementenstraat/sweep/vel-304fa027-21.png",
+    "data/sources/warehouse-elementenstraat/sweep/vel-304fa027-41.png",
+    "data/sources/warehouse-elementenstraat/sweep/vel-304fa027-61.png"
+   ]
+  }
+ ],
+ "figuren": [],
+ "duur_s": 30,
+ "pand_adressen": [
+  "Isolatorweg 36"
+ ]
+}

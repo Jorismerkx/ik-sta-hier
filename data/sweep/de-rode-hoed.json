@@ -1,0 +1,539 @@
+{
+ "id": "de-rode-hoed",
+ "naam": "De Rode Hoed",
+ "adres": "Keizersgracht 102, 1015 CV Amsterdam",
+ "termen": [
+  "Keizersgracht 102",
+  "1015CV",
+  "1015 CV",
+  "De Rode Hoed"
+ ],
+ "pand": "0363100012167695",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 25,
+  "openbaar": 25,
+  "laatste": "2010-04-01",
+  "dossiers": [
+   {
+    "dossier": "SA_92749",
+    "titel": "Keizersgracht 102",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92749"
+   },
+   {
+    "dossier": "SA_92742",
+    "titel": "Keizersgracht 102",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92742"
+   },
+   {
+    "dossier": "SA_92740",
+    "titel": "Keizersgracht 100 - 104",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92740"
+   },
+   {
+    "dossier": "SA_92744",
+    "titel": "Keizersgracht 100 - 104",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 89,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92744"
+   },
+   {
+    "dossier": "SA_92747",
+    "titel": "Keizersgracht 102",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92747"
+   },
+   {
+    "dossier": "SA_92739",
+    "titel": "Keizersgracht 100 - 104",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92739"
+   },
+   {
+    "dossier": "SA_92490",
+    "titel": "Keizersgracht 100 - 104",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92490"
+   },
+   {
+    "dossier": "SA_92492",
+    "titel": "Keizersgracht 100 - 104",
+    "datum": "2007-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92492"
+   },
+   {
+    "dossier": "SA_107532",
+    "titel": "Keizersgracht 100 B",
+    "datum": "2007-01-01",
+    "soort": "woningmutatie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_107532"
+   },
+   {
+    "dossier": "SA_32997",
+    "titel": "Keizersgracht 100 A - 100 B",
+    "datum": "2007-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32997"
+   },
+   {
+    "dossier": "SA_01730",
+    "titel": "Keizersgracht 102",
+    "datum": "2005-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01730"
+   },
+   {
+    "dossier": "SA_16525",
+    "titel": "Keizersgracht 102",
+    "datum": "2003-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_16525"
+   },
+   {
+    "dossier": "SA_01709",
+    "titel": "Keizersgracht 102",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01709"
+   },
+   {
+    "dossier": "SA_01728",
+    "titel": "Keizersgracht 102",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01728"
+   },
+   {
+    "dossier": "SA_01722",
+    "titel": "Keizersgracht 102",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01722"
+   },
+   {
+    "dossier": "SA_01713",
+    "titel": "Keizersgracht 102",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01713"
+   },
+   {
+    "dossier": "SA_01799",
+    "titel": "Keizersgracht 102",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01799"
+   },
+   {
+    "dossier": "SA_32984",
+    "titel": "Keizersgracht 102",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32984"
+   },
+   {
+    "dossier": "SA_32996",
+    "titel": "Keizersgracht 100 A - 100 B; Keizersgracht 102 - 104",
+    "datum": "1992-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32996"
+   },
+   {
+    "dossier": "SA_32992",
+    "titel": "Keizersgracht 100 A - 100 B; Keizersgracht 102 - 104",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32992"
+   },
+   {
+    "dossier": "SA_32928",
+    "titel": "Keizersgracht 100 A - 100 B; Keizersgracht 102 - 104",
+    "datum": "1991-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32928"
+   },
+   {
+    "dossier": "SA_32965",
+    "titel": "Keizersgracht 100 A - 100 B; Keizersgracht 102 - 104",
+    "datum": "1988-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32965"
+   },
+   {
+    "dossier": "SA_32949",
+    "titel": "Keizersgracht 100 A - 100 B; Keizersgracht 102 - 104",
+    "datum": "1988-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32949"
+   },
+   {
+    "dossier": "SA_32917",
+    "titel": "Keizersgracht 100",
+    "datum": "1961-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32917"
+   },
+   {
+    "dossier": "SA_01810",
+    "titel": "Keizersgracht 102",
+    "datum": "1905-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_01810"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 16,
+  "gezocht": [
+   "Keizersgracht 102"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-43855",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Keizersgracht 102 1015CV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-26",
+    "onderwerp": "kappen van één boom, esdoorn in de binnentuin van het gebouw de Rode Hoed",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-43855.html",
+    "zaak": "Z2023-C010893"
+   },
+   {
+    "id": "gmb-2024-7639",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Keizersgracht 102 1015CV Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-03",
+    "onderwerp": "kappen van één boom, esdoorn in de binnentuin van het gebouw de Rode Hoed",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-7639.html",
+    "zaak": "Z2023-C010893"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-43855",
+   "gmb-2024-7639"
+  ],
+  "zaaknummers": [
+   "Z2023-C010893"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-452442",
+    "titel": "Intrekken verkeersbesluit verbod ligplaats te nemen Keizersgracht langs de oever tegenover perceel 123",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-09-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-452442.html"
+   },
+   {
+    "id": "gmb-2026-314247",
+    "titel": "Besluit alcoholwetvergunning Verleend - Keizersgracht 102 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-02",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Keizersgracht 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-314247.html"
+   },
+   {
+    "id": "gmb-2026-314317",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Keizersgracht 102 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Keizersgracht 102 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-314317.html"
+   },
+   {
+    "id": "gmb-2026-41141",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Keizersgracht 102 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-01-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Keizersgracht 102 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-41141.html"
+   },
+   {
+    "id": "gmb-2024-474681",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Keizersgracht 102",
+    "soort": "andere vergunning",
+    "datum": "2024-11-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Keizersgracht 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-474681.html"
+   },
+   {
+    "id": "gmb-2023-280507",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Keizersgracht 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Keizersgracht 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-280507.html"
+   },
+   {
+    "id": "gmb-2023-280466",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Keizersgracht 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-27",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Keizersgracht 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-280466.html"
+   },
+   {
+    "id": "gmb-2023-280444",
+    "titel": "Besluit apv vergunning Verleend - Keizersgracht 106",
+    "soort": "andere vergunning",
+    "datum": "2023-06-27",
+    "onderwerp": "TVM Parkeervakken 5x,Stremming,Keizersgracht 102 tot 110,op 29-06-2023, Keizersgracht 106",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-280444.html"
+   },
+   {
+    "id": "gmb-2023-197688",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Keizersgracht 102 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-08",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Keizersgracht 102 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-197688.html"
+   },
+   {
+    "id": "gmb-2022-360771",
+    "titel": "Besluit apv vergunning Verleend Keizersgracht 102",
+    "soort": "andere vergunning",
+    "datum": "2022-08-08",
+    "onderwerp": "2 Parkeervakken, Keizersgracht 102, 12-08-2022 t/m 21-08-2022, Keizersgracht 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-360771.html"
+   },
+   {
+    "id": "gmb-2022-258546",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Keizersgracht 102",
+    "soort": "andere vergunning",
+    "datum": "2022-06-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Keizersgracht 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-258546.html"
+   },
+   {
+    "id": "gmb-2022-98125",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Keizersgracht 102",
+    "soort": "andere vergunning",
+    "datum": "2022-03-07",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Keizersgracht 102",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-98125.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1102BPSTD-VG01",
+   "naam": "Westelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-02-07",
+   "opp_m2": 1281977,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_14.html",
+     "tekst": "e binnenterreinen als terras wordt gezien als bedrijfsmatig gebruik dat verboden is gesteld. Bovenstaande tekst is ter verduidelijking aan de toelichting toegevoegd. Binnen het plangebied hebben zes culturele instellingen de mogelijkheid om horeca te exploiteren. Dit zijn De Rode Hoed, Felix Meritis, het Bijbels Museum, Huis Marseille, het Grachtenhuis en de Westerkerk. Voordat deze instellingen horeca-activiteiten kunnen uitvoeren, dient eerst een aanvraag omgevingsvergunning voor afwijking van het bestemmingsplan te worden aangevraagd. Aan de omgevingsvergunning kunnen voorwaarden worden verbonden, bijvoorbeeld over de manier waarop de horeca geÃ«xploiteerd wordt of het tre"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1102BPSTD-VG01/t_NL.IMRO.0363.A1102BPSTD-VG01_6.9.html",
+     "tekst": "deze panden niet worden omgezet in reguliere horecabestemmingen. In het plangebied kunnen in ieder geval de volgende culturele instellingen en musea een aanvraag indienen om in aanmerking te komen voor horeca 6 (culturele horeca) : De Rode Hoed; Felix Meritis; Het Bijbels Museum Huis Marseille Het Grachtenhuis De Westerkerk 6.9.2 Ontwikkeling Horeca 6 is een nieuwe horecacategorie in het plangebied. <"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 8,
+  "plannen": 559,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 845,
+ "pand_adressen": [
+  "Keizersgracht 102"
+ ]
+}

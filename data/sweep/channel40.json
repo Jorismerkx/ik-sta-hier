@@ -1,0 +1,786 @@
+{
+ "id": "channel40",
+ "naam": "Channel40",
+ "adres": "Beursstraat 1, 1012 JZ Amsterdam",
+ "termen": [
+  "Beursstraat 1",
+  "1012JZ",
+  "1012 JZ",
+  "Channel40",
+  "kanaal40"
+ ],
+ "pand": "0363100012172030",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 27,
+  "openbaar": 12,
+  "laatste": "2011-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_103463",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "2011-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_103463"
+   },
+   {
+    "dossier": "SA_103462",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_103462"
+   },
+   {
+    "dossier": "SA_92704",
+    "titel": "Beursstraat 1",
+    "datum": "2007-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92704"
+   },
+   {
+    "dossier": "SA_02335",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02335"
+   },
+   {
+    "dossier": "SA_02332",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02332"
+   },
+   {
+    "dossier": "SA_92703",
+    "titel": "Beursstraat 1",
+    "datum": "2007-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92703"
+   },
+   {
+    "dossier": "SA_92700",
+    "titel": "Beursstraat 1",
+    "datum": "2006-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92700"
+   },
+   {
+    "dossier": "SA_62614",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 123,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62614"
+   },
+   {
+    "dossier": "SA_92698",
+    "titel": "Beursstraat 1",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 159,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92698"
+   },
+   {
+    "dossier": "SA_92691",
+    "titel": "Beursstraat 1",
+    "datum": "2006-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_92691"
+   },
+   {
+    "dossier": "SA_02347",
+    "titel": "Beursstraat 1",
+    "datum": "2006-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02347"
+   },
+   {
+    "dossier": "SA_02342",
+    "titel": "Beursstraat 1",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 155,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02342"
+   },
+   {
+    "dossier": "SA_02333",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2005-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02333"
+   },
+   {
+    "dossier": "SA_62621",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2004-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62621"
+   },
+   {
+    "dossier": "SA_62620",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2003-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62620"
+   },
+   {
+    "dossier": "SA_62612",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2003-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62612"
+   },
+   {
+    "dossier": "SA_02350",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02350"
+   },
+   {
+    "dossier": "SA_62611",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2003-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 109,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62611"
+   },
+   {
+    "dossier": "SA_62593",
+    "titel": "Beursstraat 1; Oudebrugsteeg 1; Warmoesstraat 66",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62593"
+   },
+   {
+    "dossier": "SA_02358",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02358"
+   },
+   {
+    "dossier": "SA_02355",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "1994-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02355"
+   },
+   {
+    "dossier": "SA_02707",
+    "titel": "Beursstraat 1",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02707"
+   },
+   {
+    "dossier": "SA_02713",
+    "titel": "Beursstraat 1",
+    "datum": "1966-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02713"
+   },
+   {
+    "dossier": "SA_02788",
+    "titel": "Beursstraat 1; Warmoesstraat 66",
+    "datum": "1965-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02788"
+   },
+   {
+    "dossier": "SA_02787",
+    "titel": "Beursstraat 1",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02787"
+   },
+   {
+    "dossier": "SA_02786",
+    "titel": "Beursstraat 1",
+    "datum": "1927-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02786"
+   },
+   {
+    "dossier": "SA_02777",
+    "titel": "Beursstraat 1",
+    "datum": "1905-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_02777"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 40,
+  "gezocht": [
+   "Beursstraat 1",
+   "Beursstraat 1A",
+   "Beursstraat 1B",
+   "Beursstraat 1C",
+   "Beursstraat 1D",
+   "Beursstraat 1E",
+   "Beursstraat 1F",
+   "Oudebrugsteeg 1",
+   "Warmoesstraat 66"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-259260",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Beursstraat 1 1012JT Amsterdam, Oudebrugsteeg 5-1 1012JN Amsterdam, Oudebrugsteeg 5-H 1012JN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-16",
+    "onderwerp": "uitruilen van een seksinrichting en het renoveren van de gebouwen ten behoeve van horeca, winkel en acht woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-259260.html",
+    "zaak": "Z2023-C011662"
+   },
+   {
+    "id": "gmb-2025-184322",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Beursstraat 1 1012JT Amsterdam, Oudebrugsteeg 5-1 1012JN Amsterdam, Oudebrugsteeg 5-H 1012JN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-28",
+    "onderwerp": "renoveren van de gebouwen ten behoeve van horeca, winkel en acht woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-184322.html",
+    "zaak": "Z2023-C011662"
+   },
+   {
+    "id": "gmb-2024-77309",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Beursstraat 1 1012JT Amsterdam, Oudebrugsteeg 5-1 1012JN Amsterdam, Oudebrugsteeg 5-H 1012JN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-19",
+    "onderwerp": "renoveren van de gebouwen met bestemming daarvan tot acht woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-77309.html",
+    "zaak": "Z2023-C011662"
+   },
+   {
+    "id": "gmb-2024-77307",
+    "titel": "Aanvraag omgevingsvergunning Beursstraat 1 1012JT Amsterdam, Oudebrugsteeg 5-1 1012JN Amsterdam, Oudebrugsteeg 5-H 1012JN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-19",
+    "onderwerp": "renoveren van de gebouwen met bestemming daarvan tot acht woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-77307.html",
+    "zaak": "Z2023-C011662"
+   },
+   {
+    "id": "gmb-2023-466478",
+    "titel": "Buiten behandeling stellen van aanvraag omgevingsvergunning Beursstraat 1 1012JT Amsterdam, Oudebrugsteeg 5 1012JN",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-02",
+    "onderwerp": "verbouwen en vergroten van de gebouwen ten behoeve van woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-466478.html"
+   },
+   {
+    "id": "gmb-2023-343399",
+    "titel": "Aanvraag omgevingsvergunning Beursstraat 1 1012JT Amsterdam, Oudebrugsteeg 5-1 1012JN Amsterdam, Oudebrugsteeg 5-H 1012JN Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-03",
+    "onderwerp": "verbouwen en vergroten van de gebouwen ten behoeve van woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-343399.html",
+    "zaak": "Z2023-C006357"
+   },
+   {
+    "id": "gmb-2023-228499",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Oudebrugsteeg 7 1012JN Amsterdam, Beursstraat 1 1012JT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "plaatsen van reclame haaks op de gevel ten behoeve van het café",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-228499.html",
+    "zaak": "Z2023-C002967"
+   },
+   {
+    "id": "gmb-2023-178973",
+    "titel": "Aanvraag omgevingsvergunning Oudebrugsteeg 7 1012JN Amsterdam, Beursstraat 1 1012JT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-24",
+    "onderwerp": "plaatsen van reclame haaks op de gevel ten behoeve van het café",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-178973.html",
+    "zaak": "Z2023-C002967"
+   },
+   {
+    "id": "gmb-2022-460507",
+    "titel": "Aanvraag omgevingsvergunning Beursstraat 1 1012JT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-17",
+    "onderwerp": "tijdelijk gebruiken van het gebouw ten behoeve van culturele horeca",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-460507.html",
+    "zaak": "Z2022-C006636"
+   },
+   {
+    "id": "gmb-2022-460509",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Beursstraat 1 1012JT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-17",
+    "onderwerp": "tijdelijk gebruiken van het gebouw ten behoeve van culturele horeca",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-460509.html",
+    "zaak": "Z2022-C006636"
+   },
+   {
+    "id": "gmb-2021-389594",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Beursstraat 1A in Hengelo",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-09",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-389594.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-322421",
+    "titel": "Kennisgeving verlenging beslistermijn omgevingsvergunning Beursstraat 1A in Hengelo",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-21",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-322421.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-187597",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Beursstraat 1 A in Hengelo",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-187597.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2019-190307",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Beursstraat 1 A in Hengelo",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-08-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-190307.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2018-181135",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Beursstraat 1A in Hengelo",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-08-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-181135.html"
+   },
+   {
+    "id": "gmb-2018-151376",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Beursstraat 1 A in Hengelo",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-07-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-151376.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-259260",
+   "gmb-2025-184322",
+   "gmb-2024-77307",
+   "gmb-2023-466478",
+   "gmb-2023-343399",
+   "gmb-2023-228499",
+   "gmb-2023-178973",
+   "gmb-2022-460507",
+   "gmb-2022-460509",
+   "gmb-2021-389594",
+   "gmb-2021-187597",
+   "gmb-2019-190307",
+   "gmb-2018-181135",
+   "gmb-2018-151376"
+  ],
+  "zaaknummers": [
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "Z2022-C006636",
+   "Z2023-C002967",
+   "Z2023-C006357",
+   "Z2023-C011662"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2024-443789",
+    "titel": "Besluit apv vergunning Verleend - Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2024-10-22",
+    "onderwerp": "Object, Beursstraat 1 1012JT, 20241021, Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-443789.html"
+   },
+   {
+    "id": "gmb-2024-132704",
+    "titel": "Besluit evenementenvergunning VerleendBeursstraat 1 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Beursstraat 1 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-132704.html"
+   },
+   {
+    "id": "gmb-2023-560284",
+    "titel": "Aanvraag evenementenvergunning Beursstraat 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Beursstraat 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-560284.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-342208",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Beursstraat 1 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-03",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Beursstraat 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-342208.html"
+   },
+   {
+    "id": "gmb-2023-257831",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2023-06-13",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-257831.html"
+   },
+   {
+    "id": "gmb-2023-113682",
+    "titel": "Besluit evenementenvergunning VerleendBeursstraat 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Beursstraat 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-113682.html"
+   },
+   {
+    "id": "gmb-2023-17448",
+    "titel": "Aanvraag evenementenvergunning Beursstraat 1 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Beursstraat 1 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-17448.html"
+   },
+   {
+    "id": "gmb-2022-475016",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Beursstraat 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-10-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-475016.html"
+   },
+   {
+    "id": "gmb-2022-475111",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Beursstraat 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-10-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-475111.html"
+   },
+   {
+    "id": "gmb-2022-475012",
+    "titel": "Besluit alcoholwetvergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-25",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-475012.html"
+   },
+   {
+    "id": "gmb-2022-475007",
+    "titel": "Besluit alcoholwetvergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-25",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-475007.html"
+   },
+   {
+    "id": "gmb-2022-468967",
+    "titel": "Besluit apv vergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-21",
+    "onderwerp": "OBJ, Beursstraat 1, 24-10-2022 t/m 28-10-2022, Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-468967.html"
+   },
+   {
+    "id": "gmb-2022-438226",
+    "titel": "Besluit apv vergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-03",
+    "onderwerp": "OBJ, Beursstraat 1, 04-10 tot 06-10, Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-438226.html"
+   },
+   {
+    "id": "gmb-2022-404617",
+    "titel": "Besluit apv vergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-09-09",
+    "onderwerp": "OBJ plaatsen Beursstraat 1 13-09-2022 tot 15-09-2022, Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-404617.html"
+   },
+   {
+    "id": "gmb-2022-398472",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Beursstraat 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-398472.html"
+   },
+   {
+    "id": "gmb-2022-398544",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Beursstraat 1",
+    "soort": "exploitatievergunning",
+    "datum": "2022-09-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-398544.html"
+   },
+   {
+    "id": "gmb-2022-372218",
+    "titel": "Besluit apv vergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-08-16",
+    "onderwerp": "Rijden of een voertuig plaatsen waar dat normaal niet mag, Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-372218.html"
+   },
+   {
+    "id": "gmb-2022-366940",
+    "titel": "Besluit apv vergunning Verleend Beursstraat 1",
+    "soort": "andere vergunning",
+    "datum": "2022-08-11",
+    "onderwerp": "RVV- Beursstraat 1 - 09-08-2022, Beursstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-366940.html"
+   },
+   {
+    "id": "gmb-2022-281640",
+    "titel": "Verkeersbesluit Warmoesstraat thv nummer 66 - reserveren van twee parkeerplaatsen voor het opladen van elektrische auto’s",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2022-06-23",
+    "onderwerp": "Verkeersbesluit Warmoesstraat thv nummer 66 - reserveren van twee parkeerplaatsen voor het opladen van elektrische auto’s",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-281640.html"
+   },
+   {
+    "id": "stcrt-2015-18697",
+    "titel": "Vereffening nalatenschap Jan Hendrik Noordegraaf",
+    "soort": "Gerechtelijke aankondigingen | Overige aankondigingen",
+    "datum": "2015-07-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-18697.html"
+   },
+   {
+    "id": "stcrt-2013-33777",
+    "titel": "Benoeming vereffenaar nalatenschap Jan Hendrik Noordegraaf",
+    "soort": "Gerechtelijke aankondigingen | Oproeping schuldeisers",
+    "datum": "2013-11-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-33777.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 22,
+  "bekendmakingen": 485,
+  "plannen": 1,
+  "woo": 5
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 550,
+ "pand_adressen": [
+  "Beursstraat 1",
+  "Beursstraat 1A",
+  "Beursstraat 1B",
+  "Beursstraat 1C",
+  "Beursstraat 1D",
+  "Beursstraat 1E",
+  "Beursstraat 1F",
+  "Oudebrugsteeg 1",
+  "Warmoesstraat 66"
+ ]
+}

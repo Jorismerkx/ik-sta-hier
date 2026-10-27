@@ -1,0 +1,842 @@
+{
+ "id": "plantage-dok",
+ "naam": "Plantage Dok",
+ "adres": "Plantage Doklaan 8-12, 1018 CM Amsterdam",
+ "termen": [
+  "Plantage Doklaan 8",
+  "Plantage Doklaan 12",
+  "1018CM",
+  "1018 CM",
+  "Plantage Dok"
+ ],
+ "pand": "0363100012170607",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 44,
+  "openbaar": 21,
+  "laatste": "2014-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_108967",
+    "titel": "Henri Polaklaan 9 A",
+    "datum": "2014-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_108967"
+   },
+   {
+    "dossier": "SA_93763",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2009-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93763"
+   },
+   {
+    "dossier": "SA_93764",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2009-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93764"
+   },
+   {
+    "dossier": "SA_12792",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12792"
+   },
+   {
+    "dossier": "SA_12776",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2008-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 69,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12776"
+   },
+   {
+    "dossier": "SA_93750",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2008-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93750"
+   },
+   {
+    "dossier": "SA_93754",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 153,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_93754"
+   },
+   {
+    "dossier": "SA_12791",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12791"
+   },
+   {
+    "dossier": "SA_62127",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62127"
+   },
+   {
+    "dossier": "SA_90570",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "2005-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90570"
+   },
+   {
+    "dossier": "SA_90355",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2005-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90355"
+   },
+   {
+    "dossier": "SA_90354",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2004-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90354"
+   },
+   {
+    "dossier": "SA_90350",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2004-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90350"
+   },
+   {
+    "dossier": "SA_90353",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2004-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90353"
+   },
+   {
+    "dossier": "SA_90351",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2004-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 177,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90351"
+   },
+   {
+    "dossier": "SA_90347",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2003-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90347"
+   },
+   {
+    "dossier": "SA_90349",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2003-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90349"
+   },
+   {
+    "dossier": "SA_62088",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "2003-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62088"
+   },
+   {
+    "dossier": "SA_35175",
+    "titel": "Plantage Parklaan 26 - 28",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_35175"
+   },
+   {
+    "dossier": "SA_62072",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 87,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62072"
+   },
+   {
+    "dossier": "SA_62045",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "2001-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62045"
+   },
+   {
+    "dossier": "SA_12768",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12768"
+   },
+   {
+    "dossier": "SA_12764",
+    "titel": "Henri Polaklaan 9",
+    "datum": "2000-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12764"
+   },
+   {
+    "dossier": "SA_12716",
+    "titel": "Henri Polaklaan 9",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 74,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12716"
+   },
+   {
+    "dossier": "SA_62036",
+    "titel": "Henri Polaklaan 9 A; Henri Polaklaan 11 - 11 A; Plantage Doklaan 8 - 12",
+    "datum": "1984-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62036"
+   },
+   {
+    "dossier": "SA_12680",
+    "titel": "Henri Polaklaan 9",
+    "datum": "1981-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12680"
+   },
+   {
+    "dossier": "SA_62030",
+    "titel": "Plantage Doklaan 8 - 12",
+    "datum": "1965-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62030"
+   },
+   {
+    "dossier": "SA_12697",
+    "titel": "Henri Polaklaan 9",
+    "datum": "1960-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_12697"
+   },
+   {
+    "dossier": "SA_47767",
+    "titel": "Henri Polaklaan 9 - 11; Plantage Doklaan 8 - 12",
+    "datum": "1960-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_47767"
+   },
+   {
+    "dossier": "SA_61960",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "1956-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61960"
+   },
+   {
+    "dossier": "SA_62005",
+    "titel": "Plantage Doklaan 8 - 12",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_62005"
+   },
+   {
+    "dossier": "SA_61952",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61952"
+   },
+   {
+    "dossier": "SA_61989",
+    "titel": "Henri Polaklaan 9 A; Plantage Doklaan 8 - 12",
+    "datum": "1955-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61989"
+   },
+   {
+    "dossier": "SA_61931",
+    "titel": "Plantage Doklaan 8 - 12; Plantage Fransche laan 9 A",
+    "datum": "1940-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61931"
+   },
+   {
+    "dossier": "SA_61908",
+    "titel": "Plantage Doklaan 8 - 12; Plantage Fransche laan 9 A",
+    "datum": "1939-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 94,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61908"
+   },
+   {
+    "dossier": "SA_61902",
+    "titel": "Plantage Doklaan 8",
+    "datum": "1931-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61902"
+   },
+   {
+    "dossier": "SA_61864",
+    "titel": "Plantage Doklaan 8",
+    "datum": "1929-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 135,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61864"
+   },
+   {
+    "dossier": "SA_61847",
+    "titel": "Plantage Doklaan 8",
+    "datum": "1914-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61847"
+   },
+   {
+    "dossier": "SA_61843",
+    "titel": "Plantage Doklaan 8",
+    "datum": "1914-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61843"
+   },
+   {
+    "dossier": "SA_61751",
+    "titel": "Plantage Doklaan 10",
+    "datum": "1890-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61751"
+   },
+   {
+    "dossier": "SA_87276",
+    "titel": "Plantage Parklaan 26",
+    "datum": "1887-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_87276"
+   },
+   {
+    "dossier": "SA_87270",
+    "titel": "Plantage Parklaan 26",
+    "datum": "1886-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_87270"
+   },
+   {
+    "dossier": "SA_61721",
+    "titel": "Plantage Doklaan 12",
+    "datum": "1882-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61721"
+   },
+   {
+    "dossier": "SA_61726",
+    "titel": "Plantage Doklaan 10",
+    "datum": "1879-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_61726"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Plantage Doklaan 8",
+   "Plantage Doklaan 12",
+   "Henri Polaklaan 9A",
+   "Plantage Doklaan 10",
+   "Plantage Parklaan 26"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-255945",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Plantage Doklaan 8-12 1018CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "plaatsen van een hellingbaan evenwijdig aan de voorgevel ter plaatse van de entree van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-255945.html",
+    "zaak": "Z2025-039504"
+   },
+   {
+    "id": "gmb-2025-437183",
+    "titel": "Aanvraag omgevingsvergunning Plantage Doklaan 8-12 1018CM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-09",
+    "onderwerp": "plaatsen van een hellingbaan evenwijdig aan de voorgevel ter plaatse van de entree van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-437183.html",
+    "zaak": "Z2025-039504"
+   },
+   {
+    "id": "gmb-2021-346582",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Henri Polaklaan 9A 1018CP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-06",
+    "onderwerp": "het betrekken van een gedeelte van de begane grond bij eerste verdieping en het plaatsen van een trap ten behoeve van de woonfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-346582.html",
+    "zaak": "Z2021-C005136"
+   },
+   {
+    "id": "gmb-2021-308387",
+    "titel": "Aanvraag omgevingsvergunning Henri Polaklaan 9A 1018CP Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-08",
+    "onderwerp": "het betrekken van een gedeelte van de begane grond bij eerste verdieping en het plaatsen van een trap ten behoeve van de woonfunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-308387.html",
+    "zaak": "Z2021-C005136"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-255945",
+   "gmb-2025-437183",
+   "gmb-2021-346582",
+   "gmb-2021-308387"
+  ],
+  "zaaknummers": [
+   "Z2021-C005136",
+   "Z2025-039504"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-351767",
+    "titel": "Amsterdam Centrum, verkeersbesluit aanleg gehandicaptenparkeerplaats op kenteken, Plantage Parklaan 26",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2026-07-22",
+    "onderwerp": "aanleg gehandicaptenparkeerplaats op kenteken, Plantage Parklaan 26",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-351767.html"
+   },
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2025-498775",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Plantage Doklaan 8 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Plantage Doklaan 8 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-498775.html"
+   },
+   {
+    "id": "gmb-2025-500515",
+    "titel": "Besluit apv vergunning Verleend - Plantage Doklaan ter hoogte van nummer: 8 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "Object,Plantage Doklaan 8 1018CM, 20251121, Plantage Doklaan ter hoogte van nummer: 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-500515.html"
+   },
+   {
+    "id": "gmb-2025-253269",
+    "titel": "Besluit apv vergunning Verleend - Plantage Doklaan ter hoogte van nummer: 12 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-06-11",
+    "onderwerp": "Object,Plantage Doklaan 12 1018CM, 20250613, Plantage Doklaan ter hoogte van nummer: 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-253269.html"
+   },
+   {
+    "id": "gmb-2024-490905",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Plantage Doklaan 8 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-11-22",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Plantage Doklaan 8 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-490905.html"
+   },
+   {
+    "id": "gmb-2024-464576",
+    "titel": "Besluit apv vergunning Verleend - Plantage Doklaan 8",
+    "soort": "andere vergunning",
+    "datum": "2024-11-05",
+    "onderwerp": "Upload_TVM parkeervak,Filmen, Plantage Doklaan 8 1018CM, 20241105, Plantage Doklaan 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-464576.html"
+   },
+   {
+    "id": "gmb-2024-311020",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Plantage Parklaan 26-3",
+    "soort": "andere vergunning",
+    "datum": "2024-07-16",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Plantage Parklaan 26-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-311020.html"
+   },
+   {
+    "id": "gmb-2023-473734",
+    "titel": "Besluit evenementenvergunning VerleendPlantage Doklaan 8 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-11-07",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Plantage Doklaan 8 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-473734.html"
+   },
+   {
+    "id": "gmb-2023-443655",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Plantage Parklaan 26-3",
+    "soort": "andere vergunning",
+    "datum": "2023-10-17",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Plantage Parklaan 26-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-443655.html"
+   },
+   {
+    "id": "gmb-2023-371274",
+    "titel": "Aanvraag evenementenvergunning Plantage Doklaan 8 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Plantage Doklaan 8 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-371274.html"
+   },
+   {
+    "id": "gmb-2023-137639",
+    "titel": "Besluit apv vergunning Verleend - Plantage Doklaan 8",
+    "soort": "andere vergunning",
+    "datum": "2023-03-30",
+    "onderwerp": "TVM 4 pv, Plantage Doklaan 8-12 van 05/04 t/m 06/04, Plantage Doklaan 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-137639.html"
+   },
+   {
+    "id": "gmb-2023-125689",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Plantage Parklaan 26-3",
+    "soort": "andere vergunning",
+    "datum": "2023-03-23",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Plantage Parklaan 26-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-125689.html"
+   },
+   {
+    "id": "gmb-2023-44918",
+    "titel": "Melding Activiteitenbesluit - Plantage Doklaan 10, Amsterdam - Ruud Dubel Meubelmaker-Fijnhoutbewerker - het oprichten van een inrichting voor kleinschalige productie en reparatie van meubels",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-02-01",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam - Stadsdeel Centrum",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-44918.html"
+   },
+   {
+    "id": "gmb-2022-464067",
+    "titel": "Besluit apv vergunning Verleend Henri Polaklaan 9A-1",
+    "soort": "andere vergunning",
+    "datum": "2022-10-18",
+    "onderwerp": "Stremming - Henri Polaklaan 11-C - 26-10-2022, Henri Polaklaan 9A-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-464067.html"
+   },
+   {
+    "id": "gmb-2022-327535",
+    "titel": "Besluit apv vergunning Verleend Plantage Doklaan 8",
+    "soort": "andere vergunning",
+    "datum": "2022-07-19",
+    "onderwerp": "TVM 5 parkeervakken, Plantage Doklaan 8, 18-7-22, Plantage Doklaan 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-327535.html"
+   },
+   {
+    "id": "gmb-2022-215150",
+    "titel": "Besluit apv vergunning Verleend Plantage Doklaan 10",
+    "soort": "andere vergunning",
+    "datum": "2022-05-13",
+    "onderwerp": "TVM stremmen Plantage Doklaan 4 10/06, Plantage Doklaan 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-215150.html"
+   },
+   {
+    "id": "gmb-2022-160383",
+    "titel": "Besluit vakantieverhuur vergunning Verleend Plantage Parklaan 26-3",
+    "soort": "andere vergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "Verleend: vakantieverhuur vergunning op adres Plantage Parklaan 26-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160383.html"
+   },
+   {
+    "id": "gmb-2021-388334",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Plantage Doklaan 8",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Plantage Doklaan 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-388334.html"
+   },
+   {
+    "id": "gmb-2021-363087",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Plantage Doklaan 8",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-18",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Plantage Doklaan 8",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-363087.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A0902BPSTD-OH01",
+   "naam": "Oostelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-07-04",
+   "opp_m2": 1199029,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_1.2.html",
+     "tekst": "tnummer\">6. 1e herziening Plantage- en Muiderpoortbuurt e.o. (1e fase uitbreiding Artis uit 1994, middendeel en oeverstrook); 7. 2e herziening Plantage- en Muiderpoortbuurt e.o. (Anne Frankstraat 21, nieuwbouwterrein begrensd door de Plantage Doklaan, Nieuwe Herengracht, Entrepotdok, de Plantage Doklaan en de Anne Frankstraat); 8. 1e uitwerking Plantage- en Muiderpoortbuurt e.o. (uitwerking uit 1987 nieuwbouwterrein begrensd door de Plantage Doklaan, Nieuwe Herengracht, Entrepotdok en de Plantage Kerklaan); 9. 2e uitwerkin"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_1.2.html",
+     "tekst": "ortbuurt e.o. (1e fase uitbreiding Artis uit 1994, middendeel en oeverstrook); 7. 2e herziening Plantage- en Muiderpoortbuurt e.o. (Anne Frankstraat 21, nieuwbouwterrein begrensd door de Plantage Doklaan, Nieuwe Herengracht, Entrepotdok, de Plantage Doklaan en de Anne Frankstraat); 8. 1e uitwerking Plantage- en Muiderpoortbuurt e.o. (uitwerking uit 1987 nieuwbouwterrein begrensd door de Plantage Doklaan, Nieuwe Herengracht, Entrepotdok en de Plantage Kerklaan); 9. 2e uitwerking Plantage- en Muiderpoortbuurt e.o. (2e fase uitbreid"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_1.2.html",
+     "tekst": "21, nieuwbouwterrein begrensd door de Plantage Doklaan, Nieuwe Herengracht, Entrepotdok, de Plantage Doklaan en de Anne Frankstraat); 8. 1e uitwerking Plantage- en Muiderpoortbuurt e.o. (uitwerking uit 1987 nieuwbouwterrein begrensd door de Plantage Doklaan, Nieuwe Herengracht, Entrepotdok en de Plantage Kerklaan); 9. 2e uitwerking Plantage- en Muiderpoortbuurt e.o. (2e fase uitbreiding Artis uit 1995, oostelijk deel, dierenverblijven); 10. Bestemmingsplan Roetersstraat e.o.; 11."
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_4.2.html",
+     "tekst": "tedenbouwkundige structuur wordt bepaald door een serie van 19 e eeuwse gesloten bouwblokken. Deze blokken volgen het oorspronkelijke patroon van de tuinen. De bebouwing bestaat grotendeels uit grotere ensembles en seriebouw. De later toegevoegde appartementen aan de Plantage Doklaan voegen zich in dit systeem. Deze bebouwing is aan de kant van de Plantagekade 22 meter hoog. De bebouwing aan de Anne Frankstraat valt buiten de bestaande structuur en ligt in het verlengde van de groene strook met de Hortus, het Wertheimpark en sportterrein Swift. Het gebouw heeft een alzijdig karakter en een bouwhoogte van 16 meter, vergelijkbaar met de hoogte van de oorspronkelijke bouwblo"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_4.2.html",
+     "tekst": "baar bij de overgang van de Plantagebuurt naar het Roeterseiland via de fietsbrug over de Plantage Muidergracht. De oorspronkelijk met fabriekjes en bedrijven bebouwde binnenterreinen zijn ook nu nog voor een groot deel volgebouwd. De meeste verdichting heeft plaatsgevonden tussen de Plantage Doklaan en de Henri Polaklaan. Grote bouwvolumes van voormalige schoolgebouwen en het Verzetsmuseum domineren dit binnenterrein. In het bouwblok tussen de Plantage Muidergracht en de Plantage Middenlaan is een zelfstandig appartementengebouw gerealiseerd met entree via het binnenterrein. Meerdere binnenterreinen in de Plantagebuurt zijn via stegen en onderdoorgangen (semi)openbaar toegankelijk. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_4.2.html",
+     "tekst": "de oorspronkelijke tuinblokken in beslag. In het groen zijn losse paviljoenachtige gebouwen te vinden. De breedtemaat van de monumentale hoofdbebouwing is gebaseerd op de oorspronkelijke blokmaat van de tuinen. De hoofdas met entree ligt in het verlengde van de Henri Polaklaan. Het verlengde van de Plantage Doklaan vormde oorspronkelijk de begrenzing van het terrein. Het terrein is in twee fasen uitgebreid op de plaats van het voormalige spooremplacement. Het huidige Artisterrein wordt begrensd door het Entrepotdok. De Hortus Botanicus en het Wertheimpark liggen in een driehoek ontstaan door de hoekverdraaiing van de Plantagebuurt ten opzichte van de grachtengordel. De bebouwing van de Ho"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_4.5.html",
+     "tekst": "ft het doortrekken van de watergang die het terrein in tweeÃ«n deelt. Deze ingreep vormt feitelijk een herstel van een oude historische situatie. Verder wordt herstructurering van een aantal dierenverblijven voorgesteld. In het Masterplan is ook de bouw van een parkeergarage in het verlengde van de Plantage Doklaan genoemd. Derde fase uitbreiding Artis De derde fase van de uitbreiding van Artis is niet opgenomen in het plangebied omdat recent een bestemmingsplan voor deze locatie vastgesteld is (onherroepelijk 1 oktober 2009). De derde fase van de uitbreiding omvat de bouw van een ondergrondse parkeergarage in combinatie met een dierenverblijf ter ho"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A0902BPSTD-OH01/t_NL.IMRO.0363.A0902BPSTD-OH01_5.4.html",
+     "tekst": "plan is aangenomen hebben, naast de onderwijspanden, nog vier andere panden de bestemming 'Maatschappelijk-1' gekregen. Het gaat om het Verzetsmuseum aan de Plantage Kerklaan, De Burcht (Vakbondsmuseum) aan de Henrik Polaklaan, voormalig bioscoop Desmet aan de Plantage Middenlaan en het pand aan de Plantage Doklaan 8 t/m 12 waarin broedplaatsen gevestigd zijn. 5.4.4 Kinderopvang Bestaande kinderopvang is met de aanduiding 'Specifieke vorm van gemengd-kinderopvang (sgd-kov)' op de verbeelding aangegeven. Voor voorzieningen voor kinderopvang geldt dat binnen de bestemming 'Gemengd-1 en -2' en 'Wo"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 1,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 4,
+ "pand_adressen": [
+  "Henri Polaklaan 9A",
+  "Plantage Doklaan 10",
+  "Plantage Doklaan 12",
+  "Plantage Doklaan 8",
+  "Plantage Parklaan 26"
+ ]
+}

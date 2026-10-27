@@ -1,0 +1,282 @@
+{
+ "id": "ijver",
+ "naam": "IJver",
+ "adres": "Scheepsbouwkade 72, 1033 WM Amsterdam",
+ "termen": [
+  "Scheepsbouwkade 72",
+  "1033WM",
+  "1033 WM"
+ ],
+ "pand": "0363100012062886",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 3,
+  "openbaar": 2,
+  "laatste": "2017-01-01",
+  "dossiers": [
+   {
+    "dossier": "SN_03813",
+    "titel": "NDSM-plein 17 - 167; Scheepsbouwkade 6 - 8; Scheepsbouwkade 7; Scheepsbouwkade 12 - 18; Scheepsbouwkade 22 - 34; Scheepsbouwkade 72",
+    "datum": "2017-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_03813"
+   },
+   {
+    "dossier": "SN_21759",
+    "titel": "NDSM-plein 85",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_21759"
+   },
+   {
+    "dossier": "SN_02273",
+    "titel": "NDSM-plein 76; NDSM-plein 84; NDSM-plein 102 - 104",
+    "datum": "2010-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_02273"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 18,
+  "gezocht": [
+   "Scheepsbouwkade 72",
+   "NDSM-plein 101",
+   "NDSM-plein 103",
+   "NDSM-plein 105",
+   "NDSM-plein 107",
+   "NDSM-plein 109",
+   "NDSM-plein 111",
+   "NDSM-plein 113",
+   "NDSM-plein 115",
+   "NDSM-plein 117",
+   "NDSM-plein 119",
+   "NDSM-plein 121",
+   "NDSM-plein 123"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-387791",
+    "titel": "Besluit apv vergunning Verleend - Scheepsbouwkade ter hoogte van nummer: 72 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-08-17",
+    "onderwerp": "Filmen,Scheepsbouwkade 72 1033WM, 20260811, Scheepsbouwkade ter hoogte van nummer: 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-387791.html"
+   },
+   {
+    "id": "gmb-2026-84778",
+    "titel": "Besluit apv vergunning Verleend - Scheepsbouwkade ter hoogte van nummer: 72 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "Filmen,Scheepsbouwkade 72 1033WM, 20260225, Scheepsbouwkade ter hoogte van nummer: 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-84778.html"
+   },
+   {
+    "id": "gmb-2025-498755",
+    "titel": "Besluit alcoholwetvergunning Verleend - Scheepsbouwkade 72 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-498755.html"
+   },
+   {
+    "id": "gmb-2025-498756",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Scheepsbouwkade 72 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-11-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Scheepsbouwkade 72 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-498756.html"
+   },
+   {
+    "id": "gmb-2025-469204",
+    "titel": "Aanvraag alcoholwetvergunning Scheepsbouwkade 72",
+    "soort": "andere vergunning",
+    "datum": "2025-10-30",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-469204.html"
+   },
+   {
+    "id": "gmb-2025-460593",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Scheepsbouwkade 72 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Scheepsbouwkade 72 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-460593.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-368498",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Scheepsbouwkade 72",
+    "soort": "andere vergunning",
+    "datum": "2024-08-27",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-368498.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-440330",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440330.html"
+   },
+   {
+    "id": "gmb-2023-421883",
+    "titel": "Besluit evenementenvergunning VerleendNDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-03",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-421883.html"
+   },
+   {
+    "id": "gmb-2023-344365",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-344365.html"
+   },
+   {
+    "id": "gmb-2023-344411",
+    "titel": "Aanvraag evenementenvergunning NDSM-plein 101 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres NDSM-plein 101 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-344411.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-438114",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Scheepsbouwkade 72",
+    "soort": "exploitatievergunning",
+    "datum": "2022-10-03",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-438114.html"
+   },
+   {
+    "id": "gmb-2022-314670",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Scheepsbouwkade 72",
+    "soort": "exploitatievergunning",
+    "datum": "2022-07-12",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-314670.html"
+   },
+   {
+    "id": "gmb-2022-183048",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Scheepsbouwkade 72",
+    "soort": "exploitatievergunning",
+    "datum": "2022-04-25",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-183048.html"
+   },
+   {
+    "id": "gmb-2021-386509",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Scheepsbouwkade 72",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Scheepsbouwkade 72",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-386509.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1010BPSTD-VG01",
+   "naam": "NDSM-werf Oost",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-05-29",
+   "opp_m2": 548425,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 58,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 62,
+ "pand_adressen": [
+  "NDSM-plein 101",
+  "NDSM-plein 103",
+  "NDSM-plein 105",
+  "NDSM-plein 107",
+  "NDSM-plein 109",
+  "NDSM-plein 111",
+  "NDSM-plein 113",
+  "NDSM-plein 115",
+  "NDSM-plein 117",
+  "NDSM-plein 119",
+  "NDSM-plein 121",
+  "NDSM-plein 123"
+ ]
+}

@@ -1,0 +1,503 @@
+{
+ "id": "bar-twenty-two",
+ "naam": "Bar Twenty Two",
+ "adres": "Leidseplein 20-22, 1017 PT Amsterdam",
+ "termen": [
+  "Leidseplein 20",
+  "Leidseplein 22",
+  "1017PT",
+  "1017 PT",
+  "Bar Twenty Two"
+ ],
+ "pand": "0363100012173454",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 18,
+  "openbaar": 18,
+  "laatste": "2014-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_109294",
+    "titel": "Leidseplein 22 Hs - 22 2",
+    "datum": "2014-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109294"
+   },
+   {
+    "dossier": "SA_109293",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2012-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109293"
+   },
+   {
+    "dossier": "SA_109292",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2011-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 93,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109292"
+   },
+   {
+    "dossier": "SA_95390",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2011-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95390"
+   },
+   {
+    "dossier": "SA_95389",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 187,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95389"
+   },
+   {
+    "dossier": "SA_106223",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106223"
+   },
+   {
+    "dossier": "SA_27969",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2008-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27969"
+   },
+   {
+    "dossier": "SA_27951",
+    "titel": "Leidseplein 20 hs - 22 hs",
+    "datum": "2008-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27951"
+   },
+   {
+    "dossier": "SA_27957",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27957"
+   },
+   {
+    "dossier": "SA_27961",
+    "titel": "Leidseplein 20 hs - 22 hs",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27961"
+   },
+   {
+    "dossier": "SA_45071",
+    "titel": "Leidseplein 22",
+    "datum": "1998-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_45071"
+   },
+   {
+    "dossier": "SA_45068",
+    "titel": "Leidseplein 22",
+    "datum": "1992-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_45068"
+   },
+   {
+    "dossier": "SA_27933",
+    "titel": "Leidseplein 22",
+    "datum": "1990-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27933"
+   },
+   {
+    "dossier": "SA_45063",
+    "titel": "Leidseplein 22",
+    "datum": "1987-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_45063"
+   },
+   {
+    "dossier": "SA_27920",
+    "titel": "Leidseplein 20 - 22",
+    "datum": "1987-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27920"
+   },
+   {
+    "dossier": "SA_45054",
+    "titel": "Leidseplein 22",
+    "datum": "1974-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_45054"
+   },
+   {
+    "dossier": "SA_46880",
+    "titel": "Leidseplein 22",
+    "datum": "1957-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_46880"
+   },
+   {
+    "dossier": "SA_27893",
+    "titel": "Leidseplein 22 - 24",
+    "datum": "1910-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_27893"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 21,
+  "gezocht": [
+   "Leidseplein 20",
+   "Leidseplein 22"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-447802",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Leidseplein 22-2 1017PT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-24",
+    "onderwerp": "naïsoleren van het dak en onderhoud aan het dak ten behoeve van de woning",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-447802.html",
+    "zaak": "Z2026-019386"
+   },
+   {
+    "id": "gmb-2026-293004",
+    "titel": "Aanvraag omgevingsvergunning Leidseplein 22-2, 1017PT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-19",
+    "onderwerp": "naïsoleren van het dak en onderhoud aan het dak ten behoeve van de woning",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-293004.html",
+    "zaak": "Z2026-019386"
+   },
+   {
+    "id": "gmb-2023-266019",
+    "titel": "Aanvraag omgevingsvergunning Leidseplein 22-H 1017PT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "vervangen van twee vouwwanden van de serre van het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-266019.html",
+    "zaak": "Z2023-C002968"
+   },
+   {
+    "id": "gmb-2023-266178",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Leidseplein 22-H 1017PT Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "vervangen van twee vouwwanden van de serre van het gebouwgedeelte",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-266178.html",
+    "zaak": "Z2023-C002968"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-447802",
+   "gmb-2026-293004",
+   "gmb-2023-266019",
+   "gmb-2023-266178"
+  ],
+  "zaaknummers": [
+   "Z2023-C002968",
+   "Z2026-019386"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-526631",
+    "titel": "Besluit () exploitatievergunning horecabedrijf Verleend - Leidseplein 22-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-12-04",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Leidseplein 22-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-526631.html"
+   },
+   {
+    "id": "gmb-2025-526712",
+    "titel": "Besluit alcoholwetvergunning Verleend - Leidseplein 22-H in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-04",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Leidseplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-526712.html"
+   },
+   {
+    "id": "gmb-2025-411853",
+    "titel": "Besluit apv vergunning Verleend - Leidseplein ter hoogte van nummer: 22 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-23",
+    "onderwerp": "Object,Leidseplein 22 H 1017PT, 20250925, Leidseplein ter hoogte van nummer: 22",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-411853.html"
+   },
+   {
+    "id": "gmb-2024-439562",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Leidseplein 22-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-10-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Leidseplein 22-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-439562.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-401969",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Leidseplein 22-H in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Leidseplein 22-H in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-401969.html"
+   },
+   {
+    "id": "gmb-2024-401988",
+    "titel": "Besluit apv vergunning Verleend - Leidseplein 22-1",
+    "soort": "andere vergunning",
+    "datum": "2024-09-23",
+    "onderwerp": "Object, Leidseplein 22 1 1017PT, 20241014, Leidseplein 22-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-401988.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-385902",
+    "titel": "Besluit apv vergunning Verleend Leidseplein 19",
+    "soort": "andere vergunning",
+    "datum": "2022-08-26",
+    "onderwerp": "OBJ, Leidseplein 20, 30-8-2022 t/m 30-9-2022, Leidseplein 19",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-385902.html"
+   },
+   {
+    "id": "gmb-2022-51779",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Leidseplein 22-H",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Leidseplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-51779.html"
+   },
+   {
+    "id": "gmb-2021-430167",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Leidseplein 22-H",
+    "soort": "exploitatievergunning",
+    "datum": "2021-11-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Leidseplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-430167.html"
+   },
+   {
+    "id": "gmb-2021-430226",
+    "titel": "Aanvraag alcoholwetvergunning Leidseplein 22-H",
+    "soort": "andere vergunning",
+    "datum": "2021-11-30",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Leidseplein 22-H",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-430226.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "gmb-2015-92158",
+    "titel": "Ontheffing openingstijden horeca en eindtijden evenementen tijdens het Amsterdam Dance Event(3B, 2015, 199)",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2015-10-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-92158.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 2,
+  "plannen": 303,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 2,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 514,
+ "pand_adressen": []
+}

@@ -1,0 +1,633 @@
+{
+ "id": "under-hans",
+ "naam": "Under Hans",
+ "adres": "Kerkstraat 136-138, 1017 GR Amsterdam",
+ "termen": [
+  "Kerkstraat 136",
+  "Kerkstraat 138",
+  "1017GR",
+  "1017 GR",
+  "Under Hans",
+  "Onder Hans"
+ ],
+ "pand": "0363100012177101",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 16,
+  "openbaar": 16,
+  "laatste": "2004-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_43040",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 50,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_43040"
+   },
+   {
+    "dossier": "SA_42983",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1993-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 345,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42983"
+   },
+   {
+    "dossier": "SA_42948",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1992-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42948"
+   },
+   {
+    "dossier": "SA_42909",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1991-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42909"
+   },
+   {
+    "dossier": "SA_97939",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_97939"
+   },
+   {
+    "dossier": "SA_43141",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1988-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_43141"
+   },
+   {
+    "dossier": "SA_42882",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42882"
+   },
+   {
+    "dossier": "SA_43174",
+    "titel": "Kerkstraat 136",
+    "datum": "1982-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_43174"
+   },
+   {
+    "dossier": "SA_42835",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1970-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42835"
+   },
+   {
+    "dossier": "SA_42837",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1956-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42837"
+   },
+   {
+    "dossier": "SA_43205",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1936-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_43205"
+   },
+   {
+    "dossier": "SA_42815",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42815"
+   },
+   {
+    "dossier": "SA_42805",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1929-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42805"
+   },
+   {
+    "dossier": "SA_42790",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1927-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 113,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42790"
+   },
+   {
+    "dossier": "SA_42788",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1926-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42788"
+   },
+   {
+    "dossier": "SA_42785",
+    "titel": "Kerkstraat 136 - 138",
+    "datum": "1925-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_42785"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 39,
+  "gezocht": [
+   "Kerkstraat 136",
+   "Kerkstraat 138"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-435673",
+    "titel": "Kennisgeving afhandeling een melding tijdelijk brandveilig gebruik van een pand, Kerkstraat 138 te Nijverdal",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-16",
+    "onderwerp": "Betreft: Melding op locatie Kerkstraat 138 te Nijverdal",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-435673.html",
+    "zaak": "Rx.Mission zaak Z2024-00002061"
+   },
+   {
+    "id": "gmb-2021-387722",
+    "titel": "Kerkstraat 138A t/m 140R Hoogezand, Verleende omgevingsvergunning (reguliere procedure) Z2021-008220",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-02",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-387722.html"
+   },
+   {
+    "id": "gmb-2021-360618",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Kerkstraat 138 te Giesbeek het plaatsen van een erfafscheiding (legalisering)",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-14",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-360618.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-341155",
+    "titel": "Kennisgeving verlenging beslistermijn omgevingsvergunning: Kerkstraat 138 te Giesbeek het plaatsen van een erfafscheiding (legalisering)",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-01",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-341155.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-271307",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning: Kerkstraat 138 te Giesbeek, het plaatsen van een erfafscheiding (legalisering)",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-271307.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2018-270974",
+    "titel": "Verleende omgevingsvergunning: Kerkstraat 136, 9745 CM Groningen – vellen 1 boom (verzenddatum 11-12-2018, dossiernummer 201874557)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-270974.html"
+   },
+   {
+    "id": "gmb-2018-265760",
+    "titel": "Aanvraag omgevingsvergunning: Kerkstraat 136, 9745 CM Groningen – vellen 1 boom (ontvangstdatum 03-12-2018, dossiernummer 201874557)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-12-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-265760.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2021-360618",
+   "gmb-2021-271307",
+   "gmb-2018-265760"
+  ],
+  "zaaknummers": [
+   "Aangemaakt met Squit 20/20 Publiceren"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-474023",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2026-10-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474023.html"
+   },
+   {
+    "id": "gmb-2026-347988",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-347988.html"
+   },
+   {
+    "id": "gmb-2025-487234",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat ter hoogte van nummer: 136 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-11-11",
+    "onderwerp": "Object,Kerkstraat 136 1017GR, 20251201, Kerkstraat ter hoogte van nummer: 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-487234.html"
+   },
+   {
+    "id": "gmb-2024-490881",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat ter hoogte van nummer: 136 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-11-22",
+    "onderwerp": "TVM parkeervak, Kerkstraat 136 1017GR, 20241218, Kerkstraat ter hoogte van nummer: 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-490881.html"
+   },
+   {
+    "id": "gmb-2024-346040",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Kerkstraat 136 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-08",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Kerkstraat 136 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-346040.html"
+   },
+   {
+    "id": "gmb-2024-226298",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Kerkstraat 136 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-05-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Kerkstraat 136 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-226298.html"
+   },
+   {
+    "id": "gmb-2023-303836",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2023-07-11",
+    "onderwerp": "Fietsnietjes en fietsrek(ken) verwijderen Kerkstraat 146 t/m 220, 01-08-2023 t/m 15-09-2023, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-303836.html"
+   },
+   {
+    "id": "gmb-2023-302048",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2023-07-11",
+    "onderwerp": "Fietsnietjes en fietsrek(ken) verwijderen Kerkstraat 146 t/m 220, 01-08-2023 t/m 15-09-2023, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-302048.html"
+   },
+   {
+    "id": "gmb-2023-256041",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2023-06-13",
+    "onderwerp": "TVM 4PV + stremmen Kerkstraat 136, 12 tot 13 juni, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-256041.html"
+   },
+   {
+    "id": "gmb-2023-213145",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2023-05-16",
+    "onderwerp": "TVM 8 parkeervakken Kerkstraat 134 t/m 140 op 17-5-2023, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-213145.html"
+   },
+   {
+    "id": "gmb-2023-175870",
+    "titel": "Besluit apv vergunning Verleend - Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2023-04-21",
+    "onderwerp": "TVM 4PV + Stremmen - Kerkstraat 136 - 25 apr t/m 26 apr 2023, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-175870.html"
+   },
+   {
+    "id": "gmb-2022-492439",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2022-11-07",
+    "onderwerp": "2 PV, Kerkstraat 136 tot 142, 14-11, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-492439.html"
+   },
+   {
+    "id": "gmb-2022-137296",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2022-03-29",
+    "onderwerp": "tvm 2 parkeervakken Kerkstraat 136 , 31-03-2022 t/m 01-04-2022, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-137296.html"
+   },
+   {
+    "id": "gmb-2022-117722",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2022-03-17",
+    "onderwerp": "tvm 2 parkeervakken, Kerkstraat 136 tot 134, 21-3-2022 t/m 22-3-2022, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-117722.html"
+   },
+   {
+    "id": "gmb-2021-447908",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2021-12-10",
+    "onderwerp": "OBV/ 2 Pvakken Kerkstraat 136, 20-12-2021 tot 21-3-2022, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-447908.html"
+   },
+   {
+    "id": "gmb-2021-327616",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Kerkstraat 136",
+    "soort": "exploitatievergunning",
+    "datum": "2021-09-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-327616.html"
+   },
+   {
+    "id": "gmb-2021-327673",
+    "titel": "Besluit alcoholwetvergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2021-09-23",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-327673.html"
+   },
+   {
+    "id": "gmb-2021-311813",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2021-09-13",
+    "onderwerp": "TVM/ 4 vakken, Kerkstraat 136, 11-10-2021 t/m 13-10-2021, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-311813.html"
+   },
+   {
+    "id": "gmb-2021-308518",
+    "titel": "Besluit apv vergunning Verleend Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2021-09-09",
+    "onderwerp": "tvm 2 parkeervakken, Kerkstraat 136 ,13-09-2021t/m 17-12-2021, Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-308518.html"
+   },
+   {
+    "id": "gmb-2021-298233",
+    "titel": "Aanvraag alcoholwetvergunning Kerkstraat 136",
+    "soort": "andere vergunning",
+    "datum": "2021-09-02",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-298233.html"
+   },
+   {
+    "id": "gmb-2021-275942",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Kerkstraat 136",
+    "soort": "exploitatievergunning",
+    "datum": "2021-08-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Kerkstraat 136",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-275942.html"
+   },
+   {
+    "id": "gmb-2020-67366",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum van de gemeente Amsterdam betreffende de vaststelling van het ontwerp aanwijzingsbesluit locatie inzamelvoorzieningen Kerkstraat 136",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2020-03-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-67366.html"
+   },
+   {
+    "id": "stcrt-2019-39384",
+    "titel": "Verkeersbesluit Kerkstraat 136 tijdelijk onttrekken van twee parkeerplaatsen ten behoeve van werkzaamheden",
+    "soort": "Verkeersbesluiten",
+    "datum": "2019-07-11",
+    "onderwerp": "Kerkstraat 136 tijdelijk onttrekken van twee parkeerplaatsen ten behoeve van werkzaamheden\r\n",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2019-39384.html"
+   },
+   {
+    "id": "stcrt-2019-24942",
+    "titel": "Bijlage 1, 2 en 3 Regeling aanmerking psychiatrisch ziekenhuis Bopz, Ministerie van Volksgezondheid, Welzijn en Sport",
+    "soort": "Overig",
+    "datum": "2019-05-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2019-24942.html"
+   },
+   {
+    "id": "stcrt-2019-14055",
+    "titel": "Bijlage 1, 2 en 3 Regeling aanmerking psychiatrisch ziekenhuis Bopz, Ministerie van Volksgezondheid, Welzijn en Sport",
+    "soort": "Overig",
+    "datum": "2019-03-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2019-14055.html"
+   },
+   {
+    "id": "stcrt-2018-38256",
+    "titel": "Verkeersbesluit Kerkstraat 136 tijdelijk onttrekken van één parkeerplaats",
+    "soort": "Verkeersbesluiten",
+    "datum": "2018-07-05",
+    "onderwerp": "Kerkstraat 136 tijdelijk onttrekken van één parkeerplaats t.b.v. bouwwerkzaamheden",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2018-38256.html"
+   },
+   {
+    "id": "stcrt-2018-21008",
+    "titel": "Regeling aanmerking psychiatrisch ziekenhuis Bopz, bijlage 1, 2 en 3, Ministerie van Volksgezondheid, Welzijn en Sport",
+    "soort": "Overig",
+    "datum": "2018-04-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2018-21008.html"
+   },
+   {
+    "id": "stcrt-2015-29179",
+    "titel": "Regeling aanmerking psychiatrisch ziekenhuis Bopz, bijlage 1, 2 en 3, Ministerie van Volksgezondheid, Welzijn en Sport",
+    "soort": "Overig",
+    "datum": "2015-09-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-29179.html"
+   },
+   {
+    "id": "stcrt-2015-3385",
+    "titel": "Mededeling inzake aanmerking als Bopz-voorziening (gehandicaptenzorg), als bedoeld in artikel 1, eerste lid, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen",
+    "soort": "Overig",
+    "datum": "2015-02-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2015-3385.html"
+   },
+   {
+    "id": "gmb-2014-64100",
+    "titel": "Nadere regels ten aanzien van het plaatsen van tijdelijke publiciteitsborden gemeente Eijsden-Margraten",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2014-11-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-64100.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 21,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 23,
+ "pand_adressen": [
+  "Kerkstraat 136"
+ ]
+}

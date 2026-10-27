@@ -1,0 +1,960 @@
+{
+ "id": "bitterzoet",
+ "naam": "Bitterzoet",
+ "adres": "Spuistraat 2, 1012 TS Amsterdam",
+ "termen": [
+  "Spuistraat 2",
+  "1012TS",
+  "1012 TS",
+  "Bitterzoet"
+ ],
+ "pand": "0363100012171035",
+ "status": "open",
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 29,
+  "openbaar": 29,
+  "laatste": "2006-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_58966",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58966"
+   },
+   {
+    "dossier": "SA_58889",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2005-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58889"
+   },
+   {
+    "dossier": "SA_58958",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2001-01-01",
+    "soort": "revisie",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58958"
+   },
+   {
+    "dossier": "SA_48550",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_48550"
+   },
+   {
+    "dossier": "SA_58952",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 175,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58952"
+   },
+   {
+    "dossier": "SA_58943",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58943"
+   },
+   {
+    "dossier": "SA_58934",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58934"
+   },
+   {
+    "dossier": "SA_58928",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58928"
+   },
+   {
+    "dossier": "SA_58939",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 57,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58939"
+   },
+   {
+    "dossier": "SA_58936",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "2000-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58936"
+   },
+   {
+    "dossier": "SA_58933",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58933"
+   },
+   {
+    "dossier": "SA_58932",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58932"
+   },
+   {
+    "dossier": "SA_58931",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58931"
+   },
+   {
+    "dossier": "SA_58930",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58930"
+   },
+   {
+    "dossier": "SA_58929",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58929"
+   },
+   {
+    "dossier": "SA_58916",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58916"
+   },
+   {
+    "dossier": "SA_58923",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58923"
+   },
+   {
+    "dossier": "SA_58888",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58888"
+   },
+   {
+    "dossier": "SA_90352",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 193,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_90352"
+   },
+   {
+    "dossier": "SA_58883",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58883"
+   },
+   {
+    "dossier": "SA_58851",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1983-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58851"
+   },
+   {
+    "dossier": "SA_58853",
+    "titel": "Spuistraat 2",
+    "datum": "1978-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58853"
+   },
+   {
+    "dossier": "SA_58850",
+    "titel": "Kattengat 10; Spuistraat 2; Teerketelsteeg 1",
+    "datum": "1970-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58850"
+   },
+   {
+    "dossier": "SA_58841",
+    "titel": "Spuistraat 2",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58841"
+   },
+   {
+    "dossier": "SA_58835",
+    "titel": "Spuistraat 2",
+    "datum": "1943-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58835"
+   },
+   {
+    "dossier": "SA_58828",
+    "titel": "Spuistraat 2",
+    "datum": "1942-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58828"
+   },
+   {
+    "dossier": "SA_58824",
+    "titel": "Spuistraat 2",
+    "datum": "1902-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58824"
+   },
+   {
+    "dossier": "SA_58818",
+    "titel": "Spuistraat 2",
+    "datum": "1889-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_58818"
+   },
+   {
+    "dossier": "SA_67722",
+    "titel": "Korte Korsjespoortsteeg 2 - 4; Spuistraat 10 - 12; Teerketelsteeg 1 - 5",
+    "datum": "1883-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_67722"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 66,
+  "gezocht": [
+   "Spuistraat 2",
+   "Kattengat 10",
+   "Teerketelsteeg 1"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-489015",
+    "titel": "Omgevingsvergunning - Aangevraagd, Spuistraat 2, 2511 BD 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "het veranderen van de gevel van het pand Spuistraat 2 door het plaatsen van 7 reclame-uitingen",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-489015.html",
+    "zaak": "VTH2026-72857"
+   },
+   {
+    "id": "gmb-2026-350511",
+    "titel": "Omgevingsvergunning - Aangevraagd, Spuistraat 2, 2511 BD 's-Gravenhage",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-22",
+    "onderwerp": "het veranderen van de gevel van het pand Spuistraat 2 door het wijzigen van 10 reclame-uitingen",
+    "activiteit": "reclame",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-350511.html",
+    "zaak": "VTH2026-64055"
+   },
+   {
+    "id": "gmb-2023-234551",
+    "titel": "Aanvraag vergunning voor het vervangen van een raamkozijn en het houtwerk van de loggia op de locatie Kleine Spuistraat 2   Dordrecht zaaknummer Z-23-426317",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-30",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-234551.html"
+   },
+   {
+    "id": "gmb-2023-64040",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Spuistraat 2 1012TS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "afwijken van het bestemmingsplan ten behoeve van de exploitatie van horeca 6, culturele horeca, in het gebouwgedeelte",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-64040.html",
+    "zaak": "Z2022-C009560"
+   },
+   {
+    "id": "gmb-2023-25196",
+    "titel": "Aanvraag omgevingsvergunning Spuistraat 2 1012TS Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-19",
+    "onderwerp": "afwijken van het bestemmingsplan ten behoeve van de exploitatie van culturele horeca in het gebouwgedeelte",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-25196.html",
+    "zaak": "Z2022-C009560"
+   },
+   {
+    "id": "gmb-2021-321779",
+    "titel": "Kennisgeving ontvangst aanvraag Omgevingsvergunning Spuistraat 2 te Edam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-20",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-321779.html"
+   },
+   {
+    "id": "gmb-2021-279612",
+    "titel": "Gemeente Dordrecht Kennisgeving intrekking omgevingsvergunning Kleine Spuistraat 2 A te Dordrecht",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-279612.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-234267",
+    "titel": "Gemeente Dordrecht, verlengen beslistermijn aanvraag om een omgevingsvergunning Kleine Spuistraat 2 A te Dordrecht",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-234267.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2021-179924",
+    "titel": "Gemeente Dordrecht, ingediende aanvraag om een omgevingsvergunning Kleine Spuistraat 2 A te Dordrecht",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-179924.html",
+    "zaak": "Aangemaakt met Squit 20/20 Publiceren"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "gmb-2019-57435",
+    "titel": "ODRA Gemeente Arnhem - Aanvraag omgevingsvergunning, verleggen waterleiding slaakweg, Spuistraat 2",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-03-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-57435.html"
+   },
+   {
+    "id": "gmb-2019-2100",
+    "titel": "Omgevingsvergunning - Beschikking verleend regulier, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-01-03",
+    "onderwerp": "Het veranderen van de zijgevel van de winkel Spuistraat 2 door het plaatsen van een lichtbak/reclame-uiting. Deze bekendmaking bevat de activiteit(en): reclame apv, beschermd monument, bouwen.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-2100.html",
+    "zaak": "201822271/7026816"
+   },
+   {
+    "id": "gmb-2018-246825",
+    "titel": "Omgevingsvergunning - Aangevraagd, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-11-20",
+    "onderwerp": "Het veranderen van de zijgevel van het pand Spuistraat 2 door het plaatsen van een lichtbak/reclame-uiting",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-246825.html",
+    "zaak": "201822271/6975892"
+   },
+   {
+    "id": "gmb-2017-195178",
+    "titel": "Apv vergunning - Besluiten, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-11-08",
+    "onderwerp": "Het plaatsen van bouwhekken aan de Spuistraat 2 in de periode van 10 november 2017 tot 15 november 2017.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-195178.html",
+    "zaak": "01384GGB17/6529095"
+   },
+   {
+    "id": "gmb-2017-160741",
+    "titel": "Omgevingsvergunning - Beschikking verleend regulier, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-09-18",
+    "onderwerp": "Het veranderen van de gevel van de winkel Spuistraat 2 door het plaatsen van reclame-uitingen. Deze bekendmaking bevat de activiteit(en): reclame apv, bouwen.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-160741.html",
+    "zaak": "201712850/6470803"
+   },
+   {
+    "id": "gmb-2017-157342",
+    "titel": "Omgevingsvergunning - Verlengen behandeltermijn regulier, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-09-12",
+    "onderwerp": "Het veranderen van de gevel van de winkel Spuistraat 2 door het plaatsen van reclame-uitingen. Deze bekendmaking bevat de activiteit(en): reclame apv, bouwen.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-157342.html",
+    "zaak": "201712850/6463990"
+   },
+   {
+    "id": "gmb-2017-123978",
+    "titel": "Omgevingsvergunning - Aangevraagd, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-07-19",
+    "onderwerp": "Het veranderen van de gevel van de winkel Spuistraat 2 door het plaatsen van reclame-uitingen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-123978.html",
+    "zaak": "201712850/6405191"
+   },
+   {
+    "id": "gmb-2017-111975",
+    "titel": "Apv vergunning - Besluiten, Spuistraat 2 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-06-30",
+    "onderwerp": "Promotie aktie voor Colgate Naturals op 30 juli 2017",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-111975.html",
+    "zaak": "00879GGB17/6384014"
+   },
+   {
+    "id": "gmb-2015-49940",
+    "titel": "Gemeente Goeree-Overflakkee - verleende omgevingsvergunning (activiteit planologische afwijking) Middelharnis, Spuistraat 2: wijzigen bestemming atelier/galerie, verzenddatum: 01/06/15",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-06-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-49940.html"
+   },
+   {
+    "id": "gmb-2015-36910",
+    "titel": "Gemeente Goeree-Overflakkee - Ontvangen aanvraag omgevingsvergunning (activiteit planologische afwijking) - Middelharnis, Spuistraat 2 en Oostdijk 13: wijzigen bestemming atelier/galerie, ontvangstdatum: 17/04/15",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-04-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-36910.html"
+   },
+   {
+    "id": "gmb-2015-20088",
+    "titel": "Verleende omgevingsvergunning Bouwen, Spuistraat 2,  Spijkenisse",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2015-03-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-20088.html"
+   },
+   {
+    "id": "gmb-2015-15892",
+    "titel": "Aanvraag omgevingsvergunning Bouwen Spuistraat 2, Spijkenisse",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-02-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-15892.html"
+   },
+   {
+    "id": "gmb-2014-12153",
+    "titel": "Verleende beschikking regulier Laan van Presikhaaf 314 t/m 328, Roompotstraat 3 t/m 25, 204 t/m 218 en 260 t/m 274, Slaakweg 215 t/m 231, 273 t/m 289 en 331 t/m 337, Spuistraat 2 B t/m 28, 49 t/m 95 C",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2014-03-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-12153.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-64040",
+   "gmb-2023-25196",
+   "gmb-2021-321779",
+   "gmb-2021-234267",
+   "gmb-2021-179924",
+   "gmb-2019-57435",
+   "gmb-2017-195178",
+   "gmb-2015-36910",
+   "gmb-2015-15892"
+  ],
+  "zaaknummers": [
+   "01384GGB17/6529095",
+   "Aangemaakt met Squit 20/20 Publiceren",
+   "Z2022-C009560"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-466778",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 2",
+    "soort": "andere vergunning",
+    "datum": "2026-10-06",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466778.html"
+   },
+   {
+    "id": "gmb-2026-450530",
+    "titel": "Tarievenoverzicht straatparkeren Rotterdam 2026",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-09-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-450530.html"
+   },
+   {
+    "id": "gmb-2026-283552",
+    "titel": "Gemeente Nissewaard – ontheffing sluitingstijd Murray’s - Spuistraat 2, 3201 AR  Spijkenisse",
+    "soort": "andere vergunning",
+    "datum": "2026-06-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-283552.html"
+   },
+   {
+    "id": "gmb-2026-244613",
+    "titel": "APV Vergunning - Besluiten, Spuistraat 2, 2511 BD 's-Gravenhage",
+    "soort": "andere vergunning",
+    "datum": "2026-05-26",
+    "onderwerp": "Promotie, Het houden van een promotieactiviteit op 22-5-2026 ter hoogte van locatie Spuistraat 2A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-244613.html"
+   },
+   {
+    "id": "gmb-2026-133130",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Spuistraat 2",
+    "soort": "andere vergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Spuistraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-133130.html"
+   },
+   {
+    "id": "gmb-2026-104195",
+    "titel": "Gemeente Nissewaard – ontheffing sluitingstijd Murrays.",
+    "soort": "andere melding",
+    "datum": "2026-03-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-104195.html"
+   },
+   {
+    "id": "gmb-2026-98209",
+    "titel": "Besluit van het dagelijks bestuur van stadsdeel Centrum tot het aanwijzen van afvalinzamellocaties en de geldende inzameldagen en inzameltijden in stadsdeel Centrum [Besluit ter bekrachtiging geldende afvalregels stadsdeel Centrum]",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2026-03-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-98209.html"
+   },
+   {
+    "id": "gmb-2025-546780",
+    "titel": "Tarievenoverzicht straatparkeren Rotterdam 2026",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2025-12-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-546780.html"
+   },
+   {
+    "id": "gmb-2025-357238",
+    "titel": "Kennisgeving melding in Vlissingen, muziek i.v.m. 10 jarig bestaan Kiddo’z",
+    "soort": "evenementmelding",
+    "datum": "2025-08-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-357238.html"
+   },
+   {
+    "id": "gmb-2025-325294",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Spuistraat 2 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-24",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Spuistraat 2 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-325294.html"
+   },
+   {
+    "id": "gmb-2025-300605",
+    "titel": "Vierde wijziging van het Tarievenoverzicht straatparkeren Rotterdam 2025",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2025-07-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-300605.html"
+   },
+   {
+    "id": "gmb-2025-293407",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Spuistraat 2 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-07-07",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Spuistraat 2 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-293407.html"
+   },
+   {
+    "id": "gmb-2025-291893",
+    "titel": "Gemeente Nissewaard – bekendmaking incidentele festiviteit - Murray’s Irish Pub & Whiskey Bar - Spuistraat 2, Spijkenisse",
+    "soort": "andere melding",
+    "datum": "2025-07-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-291893.html"
+   },
+   {
+    "id": "gmb-2025-136356",
+    "titel": "Besluit apv vergunning Verleend - Spuistraat ter hoogte van nummer: 2 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-03-31",
+    "onderwerp": "TVM parkeervak,Object, Spuistraat 2 1012TS, 20250407, Spuistraat ter hoogte van nummer: 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-136356.html"
+   },
+   {
+    "id": "gmb-2024-544848",
+    "titel": "Tarievenoverzicht straatparkeren Rotterdam 2025",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-12-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-544848.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2023-542812",
+    "titel": "Tarievenoverzicht straatparkeren Rotterdam 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2023-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-542812.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "blg-1100229",
+    "titel": "Evaluation ES Monitoring NMIA  Executive Summary",
+    "soort": "Bijlage",
+    "datum": "2023-07-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-1100229.html"
+   },
+   {
+    "id": "gmb-2023-116003",
+    "titel": "Besluit alcoholwetvergunning Verleend - Spuistraat 2 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-03-17",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Spuistraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-116003.html"
+   },
+   {
+    "id": "gmb-2023-77317",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Spuistraat 2 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-21",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Spuistraat 2 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-77317.html"
+   },
+   {
+    "id": "gmb-2023-65171",
+    "titel": "Besluit exploitatievergunning horecabedrijf Ingetrokken - Kattengat 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Kattengat 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-65171.html"
+   },
+   {
+    "id": "gmb-2022-562204",
+    "titel": "Tarievenoverzicht straatparkeren Rotterdam 2023",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-12-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-562204.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-414246",
+    "titel": "Tarievenoverzicht straatparkeren Rotterdam 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-09-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-414246.html"
+   },
+   {
+    "id": "gmb-2022-354160",
+    "titel": "Besluit apv vergunning Verleend Teerketelsteeg 1",
+    "soort": "andere vergunning",
+    "datum": "2022-08-02",
+    "onderwerp": "OBV Teerketelsteeg 1 t/m 3 op 5-9-2022, Teerketelsteeg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-354160.html"
+   },
+   {
+    "id": "gmb-2022-337158",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Kattengat 10",
+    "soort": "exploitatievergunning",
+    "datum": "2022-07-25",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Kattengat 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-337158.html"
+   },
+   {
+    "id": "gmb-2022-261553",
+    "titel": "Besluit apv vergunning Verleend Spuistraat 2",
+    "soort": "andere vergunning",
+    "datum": "2022-06-10",
+    "onderwerp": "Object - Spuistraat 2 - 17-6-2022, Spuistraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-261553.html"
+   },
+   {
+    "id": "gmb-2022-209710",
+    "titel": "Besluit apv vergunning Verleend Spuistraat 2",
+    "soort": "andere vergunning",
+    "datum": "2022-05-10",
+    "onderwerp": "10 PV, Spuistraat 2 tot 14, 09-05 tot 20-05, Spuistraat 2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-209710.html"
+   },
+   {
+    "id": "gmb-2022-197160",
+    "titel": "Besluit apv vergunning Verleend Teerketelsteeg 1",
+    "soort": "andere vergunning",
+    "datum": "2022-05-03",
+    "onderwerp": "7 parkeervakken Stromarkt 5-37, 19-5-2022 op 20-5-2022, Teerketelsteeg 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-197160.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.2.html",
+     "tekst": "scommissie Bouwen en Wonen de ontwerpverklaring van geen bedenking aangehouden. De portefeuillehouder heeft hierop toegezegd met De Key in gesprek te gaan om te onderzoeken of het mogelijk is de huidige bewoners en gebruikers van Spuistraat 199 (het 'Slangenpand'), vertegenwoordigd door S199 en van Spuistraat 219, vertegenwoordigd door Stichting Langgewagt, een plek te geven in de nieuwe plannen van De Key. Het gebouw aan de Nieuwezijds Voorburgwal 226, waarin op de begane grond Albert Heijn Food Plaza is gevestigd, wordt verbouwd tot een hotel met 185 kamers en een zelfstandig restaurant/lounge op de bovenste bouwlaag (600 mÂ²). Hiertoe is eind december 2012 een omgevingsvergunning verlee"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_5.2.html",
+     "tekst": "Als gevolg hiervan zal de UvA een deel van de panden afstoten, waaronder een aantal gelegen in het plangebied. Op dit moment wordt een visie ontwikkeld voor de toekomstige invulling van een aantal van deze panden. Het gaat om de panden Singel 425/Handboogstraat 10-12: Universiteitsbibliotheek (UB), Spuistraat 210-212: Bungehuis, Spuistraat 128, 134 en 136: PC Hoofthuis, Oudezijds Achterburgwal 185: Spinhuis (zie ook hoofdstuk 6). Natte Damrak Voor het Natte Damrak wordt een visie ontwikkeld om te komen tot een ruimtelijke en functionele kwaliteitsverbetering van het gebruik van het water. Deze visie zal worden vertaald in een apart bestemmingsplan.</"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.4.html",
+     "tekst": "nomen. Dit betekent dat wanneer in een pand een opvangvoorziening wordt vervangen door een andere functie, daarna niet opnieuw een opvangvoorziening in dat pand gevestigd mag worden. In dit bestemmingsplan is de bestemming 'Maatschappelijk' gegeven aan het voormalige ROC-gebouw aan de Spuistraat 239 en aan het gebouwencomplex Kloveniersburgwal 48/Oude Hoogstraat 24, panden in gebruik bij de Universiteit van Amsterdam. Leegkomende (onderwijs)panden kunnen, wanneer zij geen aparte bestemming 'Maatschappelijk' hebben, tegen marktwaarde worden verkocht. De verkoop van deze specifieke panden tegen marktwaarde kan op gespannen voet staan met de behoefte aan onderwijsvo"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_6.7.html",
+     "tekst": " De overige horecacategorieÃ«n, Hotels en Horeca in culturele instellingen worden in respectievelijk paragraaf 6.8 en 6.9 behandeld. In het plangebied zijn veel gelegenheden waar men kan overnachten, eten en drinken. Er zijn bekende uitgaansgelegenheden (bijvoorbeeld Bitterzoet en Dansen bij Jansen), hippe cafÃ©s en bekende bruine kroegen (bijvoorbeeld Scheltema op de Nieuwezijds Voorburgwal). Vooral daar waar grote bezoekersaantallen de stad instromen (Damrak en de Wallen) zitten veel fastfoodzaken. Naast deze categorie horeca zijn er eetcafÃ©s en restaurants met internationale keukens: Spaans, Italiaans en Aziatisch (de laatste vooral rond de Nieuwmarkt"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.A1105BPSTD-VG03/t_NL.IMRO.0363.A1105BPSTD-VG03_7.4.html",
+     "tekst": " bestemming 'Maatschappelijk' voor, die normaliter voor basisscholen, in ieder geval voor onderwijspanden is gereserveerd. In dit bestemmingsplan is de bestemming gegeven aan onderwijspanden van de Universiteit van Amsterdam (hoek Oude Hoogstraat/Kloveniersburgwal) en aan het voormalige ROC- gebouw Spuistraat 239. De ratio van deze bestemmingsregeling is het behoud van panden in gebruik voor onderwijsdoeleinden. Naast onderwijs is kinderopvang toegelaten binnen de bestemming. Alle overige functies zijn niet toegestaan. Voor panden met de maatschappelijke bestemming gelden in grote lijnen dezelfde bebouwingsregels als voor de gemengde bestemmingen. De bepalingen die dienen ter bescherming van"
+    }
+   ]
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 10,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 5,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 131,
+ "pand_adressen": [
+  "Kattengat 10",
+  "Spuistraat 2",
+  "Teerketelsteeg 1"
+ ]
+}

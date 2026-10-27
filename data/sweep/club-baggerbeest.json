@@ -1,0 +1,273 @@
+{
+ "id": "club-baggerbeest",
+ "naam": "Club Baggerbeest",
+ "adres": "Rudi van Dantzigstraat 1-15, 1095 PK Amsterdam",
+ "termen": [
+  "Rudi van Dantzigstraat 1",
+  "1095PK",
+  "1095 PK",
+  "Club Baggerbeest"
+ ],
+ "pand": "0363100012571042",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 17,
+  "gezocht": [
+   "Rudi van Dantzigstraat 1",
+   "Rudi van Dantzigstraat 13",
+   "Rudi van Dantzigstraat 15"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2024-330130",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Rudi van Dantzigstraat 1, 3, 5, 7, 9, 11, 13, 15 1095PK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-26",
+    "onderwerp": " plaatsen van meerdere pergola's aan het Baggerbeest voor een termijn van 10 jaar ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-330130.html",
+    "zaak": "Z2024-013007"
+   },
+   {
+    "id": "gmb-2024-326053",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Rudi van Dantzigstraat 1 1095PK Amsterdam, Rudi van Dantzigstraat 3 1095PK Amsterdam, Rudi van Dantzigstraat 5 1095PK Amsterdam, Rudi van Dantzigstraat 7 1095PK Amsterdam, Rudi van Dantzigstraat 9 1095PK Amsterdam, Rudi van Dantzigstraat 11 1095PK Amsterdam, Rudi van Dantzigstraat 13 1095PK Amsterdam, Rudi van Dantzigstraat 15 1095PK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-25",
+    "onderwerp": "tijdelijk voor 10 jaar plaatsen van pergola aan het Baggerbeest ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-326053.html",
+    "zaak": "Z2024-013007"
+   },
+   {
+    "id": "gmb-2024-297629",
+    "titel": "Aanvraag omgevingsvergunning Rudi van Dantzigstraat 1 1095PK Amsterdam, Rudi van Dantzigstraat 3 1095PK Amsterdam, Rudi van Dantzigstraat 5 1095PK Amsterdam, Rudi van Dantzigstraat 7 1095PK Amsterdam, Rudi van Dantzigstraat 9 1095PK Amsterdam, Rudi van Dantzigstraat 11 1095PK Amsterdam, Rudi van Dantzigstraat 13 1095PK Amsterdam, Rudi van Dantzigstraat 15 1095PK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-08",
+    "onderwerp": "tijdelijk voor 10 jaar plaatsen van pergola aan het Baggerbeest ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-297629.html",
+    "zaak": "Z2024-013007"
+   },
+   {
+    "id": "gmb-2024-98273",
+    "titel": "Besluit (tijdelijke) omgevingsvergunning reguliere procedure Rudi van Dantzigstraat 1 1095PK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-04",
+    "onderwerp": "tijdelijk wijzigen van het gebruik voor café/ restaurant met terras, dancing en culturele evenementen",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-98273.html",
+    "zaak": "Z2023-A000270"
+   },
+   {
+    "id": "gmb-2023-502202",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Rudi van Dantzigstraat 1 1095PK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-24",
+    "onderwerp": "het tijdelijk wijzigen van het gebruik voor café/ restaurant /dancing en culturele evenementen in broedplaats Baggerbeest met terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-502202.html",
+    "zaak": "Z2023-A000270"
+   },
+   {
+    "id": "gmb-2023-391279",
+    "titel": "Aanvraag omgevingsvergunning Rudi van Dantzigstraat 1 1095PK Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-11",
+    "onderwerp": "het tijdelijk wijzigen van het gebruik voor café/ restaurant /dancing en culturele evenementen in broedplaats Baggerbeest met terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-391279.html",
+    "zaak": "Z2023-A000270"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2024-330130",
+   "gmb-2024-297629",
+   "gmb-2024-98273",
+   "gmb-2023-391279"
+  ],
+  "zaaknummers": [
+   "Z2023-A000270",
+   "Z2024-013007"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-278412",
+    "titel": "Besluit apv vergunning Verleend - Rudi van Dantzigstraat ter hoogte van nummer: 1 in",
+    "soort": "andere vergunning",
+    "datum": "2026-06-12",
+    "onderwerp": "Object,Rudi van Dantzigstraat 1 1095PK, 20260612, Rudi van Dantzigstraat ter hoogte van nummer: 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-278412.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-150056",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-150056.html"
+   },
+   {
+    "id": "gmb-2024-150064",
+    "titel": "Besluit alcoholwetvergunning Verleend - Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Rudi van Dantzigstraat 1, 1095 PK",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-150064.html"
+   },
+   {
+    "id": "gmb-2024-99284",
+    "titel": "Aanvraag evenementenvergunning Rudi van Dantzigstraat 1-3 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rudi van Dantzigstraat 1-3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-99284.html"
+   },
+   {
+    "id": "gmb-2024-99258",
+    "titel": "Besluit evenementenvergunning VerleendRudi van Dantzigstraat 1-3 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rudi van Dantzigstraat 1-3 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-99258.html"
+   },
+   {
+    "id": "gmb-2023-446499",
+    "titel": "Rectificatie: Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-10-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-446499.html"
+   },
+   {
+    "id": "gmb-2023-334773",
+    "titel": "Aanvraag alcoholwetvergunning Rudi van Dantzigstraat 1, 1095 PK",
+    "soort": "andere vergunning",
+    "datum": "2023-07-28",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Rudi van Dantzigstraat 1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-334773.html"
+   },
+   {
+    "id": "gmb-2023-334763",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-07-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rudi van Dantzigstraat 1, 1095 PK in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-334763.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.M1711BPGST-VG01",
+   "naam": "Sluisbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-11-28",
+   "opp_m2": 787919,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.M2308BPGST-VG01",
+   "naam": "Partiele technische herziening Sluisbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-04-24",
+   "opp_m2": 787919,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.G0902PBPGST-OH01",
+   "naam": "BP_Facet herziening zonebesluit Oostelijk Havengebied-Zeeburg",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2010-09-03",
+   "opp_m2": 2752310,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 12,
+  "plannen": 218,
+  "woo": 2
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 525,
+ "pand_adressen": [
+  "Rudi van Dantzigstraat 13",
+  "Rudi van Dantzigstraat 15"
+ ]
+}

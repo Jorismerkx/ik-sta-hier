@@ -1,0 +1,280 @@
+{
+ "id": "akhnaton",
+ "naam": "Akhnaton",
+ "adres": "Nieuwezijds Kolk 25, 1012 PV Amsterdam",
+ "termen": [
+  "Nieuwezijds Kolk 25",
+  "1012PV",
+  "1012 PV",
+  "Akhnaton"
+ ],
+ "pand": "0363100012179320",
+ "status": "open",
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 12,
+  "openbaar": 12,
+  "laatste": "1997-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_60225",
+    "titel": "Nieuwezijds Kolk 25 - 27",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60225"
+   },
+   {
+    "dossier": "SA_60276",
+    "titel": "Nieuwezijds Kolk 25; Nieuwezijds Kolk 27 A - 27 H; Nieuwezijds Kolk 27 K",
+    "datum": "1989-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60276"
+   },
+   {
+    "dossier": "SA_60214",
+    "titel": "Nieuwezijds Kolk 25; Nieuwezijds Kolk 27 A - 27 H; Nieuwezijds Kolk 27 K",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60214"
+   },
+   {
+    "dossier": "SA_60278",
+    "titel": "Nieuwezijds Kolk 25; Nieuwezijds Kolk 27 A - 27 H; Nieuwezijds Kolk 27 K",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60278"
+   },
+   {
+    "dossier": "SA_60234",
+    "titel": "Nieuwezijds Kolk 25 - 27",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60234"
+   },
+   {
+    "dossier": "SA_60307",
+    "titel": "Nieuwezijds Kolk 25",
+    "datum": "1977-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60307"
+   },
+   {
+    "dossier": "SA_60166",
+    "titel": "Nieuwezijds Kolk 25 - 27",
+    "datum": "1936-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60166"
+   },
+   {
+    "dossier": "SA_60165",
+    "titel": "Nieuwezijds Kolk 25 - 27",
+    "datum": "1936-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60165"
+   },
+   {
+    "dossier": "SA_60189",
+    "titel": "Nieuwezijds Kolk 25 - 27",
+    "datum": "1930-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60189"
+   },
+   {
+    "dossier": "SA_60192",
+    "titel": "Nieuwezijds Kolk 27",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60192"
+   },
+   {
+    "dossier": "SA_60155",
+    "titel": "Nieuwezijds Kolk 25",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60155"
+   },
+   {
+    "dossier": "SA_60318",
+    "titel": "Nieuwezijds Kolk 27",
+    "datum": "1913-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_60318"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 6,
+  "gezocht": [
+   "Nieuwezijds Kolk 25",
+   "Nieuwezijds Kolk 27A",
+   "Nieuwezijds Kolk 27B",
+   "Nieuwezijds Kolk 27C",
+   "Nieuwezijds Kolk 27D",
+   "Nieuwezijds Kolk 27E",
+   "Nieuwezijds Kolk 27F",
+   "Nieuwezijds Kolk 27G",
+   "Nieuwezijds Kolk 27H",
+   "Nieuwezijds Kolk 27K"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-364797",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Nieuwezijds Kolk 25 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-30",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Nieuwezijds Kolk 25 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-364797.html"
+   },
+   {
+    "id": "gmb-2026-212054",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Nieuwezijds Kolk 25 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Nieuwezijds Kolk 25 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-212054.html"
+   },
+   {
+    "id": "gmb-2022-212890",
+    "titel": "Besluit apv vergunning Verleend Nieuwezijds Kolk 25",
+    "soort": "andere vergunning",
+    "datum": "2022-05-12",
+    "onderwerp": "RVV Nieuwezijds Kolk 25 tot 27, 11-5-2022, Nieuwezijds Kolk 25",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-212890.html"
+   },
+   {
+    "id": "gmb-2022-173006",
+    "titel": "Besluit apv vergunning Verleend Nieuwezijds Kolk 25",
+    "soort": "andere vergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Stremmen+ RVV, Nieuwezijds Kolk 25, 19-04, Nieuwezijds Kolk 25",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-173006.html"
+   },
+   {
+    "id": "gmb-2022-44714",
+    "titel": "Besluit apv vergunning Verleend Nieuwezijds Kolk 25",
+    "soort": "andere vergunning",
+    "datum": "2022-02-03",
+    "onderwerp": "RVV, Nieuwezijds Kolk 25 tot 27, 07-02 tot 11-03-, Nieuwezijds Kolk 25",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-44714.html"
+   },
+   {
+    "id": "gmb-2021-408457",
+    "titel": "Besluit apv vergunning Verleend Nieuwezijds Kolk 25",
+    "soort": "andere vergunning",
+    "datum": "2021-11-16",
+    "onderwerp": "TVM Parkeervakken 2x,Objectvergunning,Nieuwezijds Kolk 25,op 25-11-2021 tot 07-02-2022, Nieuwezijds Kolk 25",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-408457.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1105BPSTD-VG03",
+   "naam": "Postcodegebied 1012",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2015-02-25",
+   "opp_m2": 720177,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 1,
+  "plannen": 72,
+  "woo": 66
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 139,
+ "pand_adressen": [
+  "Nieuwezijds Kolk 25",
+  "Nieuwezijds Kolk 27A",
+  "Nieuwezijds Kolk 27B",
+  "Nieuwezijds Kolk 27C",
+  "Nieuwezijds Kolk 27D",
+  "Nieuwezijds Kolk 27E",
+  "Nieuwezijds Kolk 27F",
+  "Nieuwezijds Kolk 27G",
+  "Nieuwezijds Kolk 27H",
+  "Nieuwezijds Kolk 27K"
+ ]
+}

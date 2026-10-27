@@ -1,0 +1,820 @@
+{
+ "id": "the-other-side",
+ "naam": "The Other Side",
+ "adres": "Rigakade 10, 1013 BC Amsterdam",
+ "termen": [
+  "Rigakade 10",
+  "1013BC",
+  "1013 BC",
+  "The Other Side"
+ ],
+ "pand": "0363100012133795",
+ "status": "open",
+ "huidig": {
+  "basis": "plattegrond",
+  "confidence": "hoog",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 12,
+  "openbaar": 12,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "XY_02080",
+    "titel": "Rigakade 10",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_02080"
+   },
+   {
+    "dossier": "XY_02119",
+    "titel": "Rigakade 10",
+    "datum": "2007-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_02119"
+   },
+   {
+    "dossier": "XY_09641",
+    "titel": "Rigakade 10",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_09641"
+   },
+   {
+    "dossier": "XY_08902",
+    "titel": "Rigakade 10",
+    "datum": "1997-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08902"
+   },
+   {
+    "dossier": "XY_08828",
+    "titel": "Rigakade 10",
+    "datum": "1996-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08828"
+   },
+   {
+    "dossier": "XY_08847",
+    "titel": "Rigakade 10",
+    "datum": "1996-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 327,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_08847"
+   },
+   {
+    "dossier": "XY_09608",
+    "titel": "Rigakade 10",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_09608"
+   },
+   {
+    "dossier": "XY_12511",
+    "titel": "Rigakade 10",
+    "datum": "1991-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_12511"
+   },
+   {
+    "dossier": "XY_01958",
+    "titel": "Rigakade 10",
+    "datum": "1990-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_01958"
+   },
+   {
+    "dossier": "XY_12521",
+    "titel": "Rigakade 10",
+    "datum": "1989-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_12521"
+   },
+   {
+    "dossier": "XY_12522",
+    "titel": "Rigakade 8 - 12",
+    "datum": "1988-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_12522"
+   },
+   {
+    "dossier": "XY_12490",
+    "titel": "Rigakade 8 - 12",
+    "datum": "1971-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/XY_12490"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 71,
+  "gezocht": [
+   "Rigakade 10"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-361995",
+    "titel": "Vergunning verleend - Rigakade 10, Amsterdam - Verlengen instandhoudingstermijn van omgevingsvergunning voor gebruik van gebouw als evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-28",
+    "onderwerp": "het verlengen van de instandhoudingstermijn tot 1 februari 2029 voor een evenementenruimte (z11842159) en het toevoegen van een poolcentrum",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-361995.html",
+    "zaak": "OD2025-0015968"
+   },
+   {
+    "id": "gmb-2025-413610",
+    "titel": "Aanvraag vergunning ontvangen - Rigakade 10, Amsterdam - Verlengen instandhoudingstermijn gebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-24",
+    "onderwerp": "het verlengen van de instandhoudingstermijn voor een evenementenruimte (z11842159) en het toevoegen van een poolcentrum",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-413610.html",
+    "zaak": "OD2025-0015968"
+   },
+   {
+    "id": "gmb-2025-107134",
+    "titel": "Vergunning Omgevingswet verleend - Rigakade 10, Amsterdam - het verlengen van de tijdelijke vergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-107134.html",
+    "zaak": "13627037"
+   },
+   {
+    "id": "gmb-2024-345271",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Rigakade 10, Amsterdam - Verlengen tijdelijke vergunning (z10559659)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-345271.html",
+    "zaak": "13013399"
+   },
+   {
+    "id": "gmb-2024-251490",
+    "titel": "Vergunning verleend - Rigakade 10, Amsterdam - het wijzigen van de aanvraag met zaak 9992006, voor het bouwen van een kantoorgebouw met parkeren",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-251490.html",
+    "zaak": "1375206"
+   },
+   {
+    "id": "gmb-2024-82302",
+    "titel": "Ontwerpbesluit (weigering) - Rigakade 10, Amsterdam - het nieuwbouwen van een kantoorgebouw",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-82302.html",
+    "zaak": "1360724"
+   },
+   {
+    "id": "gmb-2023-296038",
+    "titel": "Vergunning Verleend - Rigakade 10, Amsterdam - het aanpassen van bestaande vergunning(OLO-6562741), verlengen instandhoudingstermijn",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-06",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-296038.html",
+    "zaak": "1328059"
+   },
+   {
+    "id": "gmb-2023-138338",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het wijzigen van de aanvraag met zaak 9992006, voor het bouwen van een kantoorgebouw met parkeren",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-30",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-138338.html",
+    "zaak": "1318799"
+   },
+   {
+    "id": "gmb-2023-135537",
+    "titel": "Beslistermijn verlengd - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. een horeca-2 bestemming voor de evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-135537.html",
+    "zaak": "1318600"
+   },
+   {
+    "id": "gmb-2023-73152",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. een horeca-2 bestemming voor de evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-73152.html",
+    "zaak": "1313343"
+   },
+   {
+    "id": "gmb-2023-1794",
+    "titel": "Vergunning Verleend - Rigakade 10, Amsterdam - The Other Side - Temporary Palaces - het afwijken van het bestemmingsplan t.b.v. het realiseren van een evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-1794.html",
+    "zaak": "1308917"
+   },
+   {
+    "id": "gmb-2022-484538",
+    "titel": "Vergunning Verleend - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-01",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-484538.html",
+    "zaak": "1305186"
+   },
+   {
+    "id": "gmb-2022-387174",
+    "titel": "Beslistermijn verlengd - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387174.html",
+    "zaak": "1301596"
+   },
+   {
+    "id": "gmb-2022-315667",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-315667.html",
+    "zaak": "1296563"
+   },
+   {
+    "id": "gmb-2022-205515",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het realiseren van een evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-06",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-205515.html",
+    "zaak": "1291846"
+   },
+   {
+    "id": "gmb-2021-374747",
+    "titel": "Rigakade 10, Amsterdam - tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-374747.html",
+    "zaak": "1270097"
+   },
+   {
+    "id": "gmb-2021-310349",
+    "titel": "Aanvraag vergunning, Rigakade 10, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-310349.html",
+    "zaak": "1267977"
+   },
+   {
+    "id": "gmb-2021-285148",
+    "titel": "Rigakade 10, Amsterdam, afwijken van het bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-285148.html",
+    "zaak": "1267260"
+   },
+   {
+    "id": "prb-2021-3679",
+    "titel": "Waterwet Bodemenergie, Rigakade 10, Amsterdam",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-11",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-3679.html",
+    "zaak": "1263822"
+   },
+   {
+    "id": "gmb-2020-329767",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Rigakade 10, Amsterdam, realiseren kantoorgebouw",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-329767.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-413610",
+   "gmb-2024-345271",
+   "gmb-2024-251490",
+   "gmb-2024-82302",
+   "gmb-2023-138338",
+   "gmb-2023-73152",
+   "gmb-2022-315667",
+   "gmb-2022-205515",
+   "gmb-2020-329767"
+  ],
+  "zaaknummers": [
+   "1291846",
+   "1296563",
+   "13013399",
+   "1313343",
+   "1318799",
+   "1360724",
+   "1375206",
+   "OD2025-0015968"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2023-135537",
+    "titel": "Beslistermijn verlengd - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. een horeca-2 bestemming voor de evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-135537.html",
+    "zaak": "1318600"
+   },
+   {
+    "id": "gmb-2023-73152",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. een horeca-2 bestemming voor de evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-73152.html",
+    "zaak": "1313343"
+   },
+   {
+    "id": "gmb-2023-1794",
+    "titel": "Vergunning Verleend - Rigakade 10, Amsterdam - The Other Side - Temporary Palaces - het afwijken van het bestemmingsplan t.b.v. het realiseren van een evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-1794.html",
+    "zaak": "1308917"
+   },
+   {
+    "id": "gmb-2022-484538",
+    "titel": "Vergunning Verleend - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-11-01",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-484538.html",
+    "zaak": "1305186"
+   },
+   {
+    "id": "gmb-2022-387174",
+    "titel": "Beslistermijn verlengd - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387174.html",
+    "zaak": "1301596"
+   },
+   {
+    "id": "gmb-2022-315667",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-315667.html",
+    "zaak": "1296563"
+   },
+   {
+    "id": "gmb-2022-205515",
+    "titel": "Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. het realiseren van een evenementenruimte",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-06",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-205515.html",
+    "zaak": "1291846"
+   },
+   {
+    "id": "gmb-2021-374747",
+    "titel": "Rigakade 10, Amsterdam - tijdelijk afwijken bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-374747.html",
+    "zaak": "1270097"
+   },
+   {
+    "id": "gmb-2021-285148",
+    "titel": "Rigakade 10, Amsterdam, afwijken van het bestemmingsplan",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-285148.html",
+    "zaak": "1267260"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-492441",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Griseldestraat 6-3",
+    "soort": "andere vergunning",
+    "datum": "2026-10-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Griseldestraat 6-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-492441.html"
+   },
+   {
+    "id": "gmb-2026-386111",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rigakade 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-08-14",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-386111.html"
+   },
+   {
+    "id": "gmb-2025-461355",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend",
+    "soort": "andere vergunning",
+    "datum": "2025-10-24",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden voor bedrijf THE OTHER SIDE - Rigakade 10 - 1013BC",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-461355.html"
+   },
+   {
+    "id": "gmb-2025-449633",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Rigakade 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-17",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-449633.html"
+   },
+   {
+    "id": "gmb-2025-240100",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Rigakade 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-240100.html"
+   },
+   {
+    "id": "gmb-2024-448888",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Borisov - Rigakade 10 - 1013 BC in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-10-24",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rigakade 10 - 1013 BC in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-448888.html"
+   },
+   {
+    "id": "gmb-2024-439510",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Griseldestraat 6-3",
+    "soort": "andere vergunning",
+    "datum": "2024-10-18",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Griseldestraat 6-3",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-439510.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-421660",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-421660.html"
+   },
+   {
+    "id": "gmb-2024-421607",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - Rigakade 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-10-07",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-421607.html"
+   },
+   {
+    "id": "gmb-2024-242065",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Ingetrokken - Rigakade 10 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-04",
+    "onderwerp": "Ingetrokken: exploitatievergunning horecabedrijf op adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-242065.html"
+   },
+   {
+    "id": "gmb-2024-130186",
+    "titel": "Besluit evenementenvergunning VerleendRigakade 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-03-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-130186.html"
+   },
+   {
+    "id": "gmb-2024-28027",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-28027.html"
+   },
+   {
+    "id": "gmb-2023-526147",
+    "titel": "Besluit (Terras) exploitatievergunning horecabedrijf Verleend - Rigakade 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-12-11",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-526147.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-440746",
+    "titel": "Besluit evenementenvergunning AanvraagRigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Aanvraag: evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440746.html"
+   },
+   {
+    "id": "gmb-2023-440379",
+    "titel": "Besluit evenementenvergunning VerleendRigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-440379.html"
+   },
+   {
+    "id": "gmb-2023-400632",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-19",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-400632.html"
+   },
+   {
+    "id": "gmb-2023-400640",
+    "titel": "Besluit evenementenvergunning VerleendRigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-09-19",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-400640.html"
+   },
+   {
+    "id": "gmb-2023-359875",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-359875.html"
+   },
+   {
+    "id": "gmb-2023-359858",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-359858.html"
+   },
+   {
+    "id": "gmb-2023-355240",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Rigakade 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-355240.html"
+   },
+   {
+    "id": "gmb-2023-355292",
+    "titel": "Aanvraag alcoholwetvergunning Rigakade 10",
+    "soort": "andere vergunning",
+    "datum": "2023-08-14",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Rigakade 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-355292.html"
+   },
+   {
+    "id": "gmb-2023-327923",
+    "titel": "Besluit evenementenvergunning VerleendRigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-07-25",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-327923.html"
+   },
+   {
+    "id": "gmb-2023-294693",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-07-06",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-294693.html"
+   },
+   {
+    "id": "gmb-2023-165617",
+    "titel": "Besluit evenementenvergunning Verleend (Bijzonder/Bewaren)Rigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-04-17",
+    "onderwerp": "Verleend (Bijzonder/Bewaren): evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-165617.html"
+   },
+   {
+    "id": "gmb-2023-104549",
+    "titel": "Melding Activiteitenbesluit - Rigakade 10, Amsterdam - The Other Side - Temporary Palaces - het in gebruik nemen van een evenementenruimte voor meer dan 12 dagen per jaar",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-03-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-104549.html"
+   },
+   {
+    "id": "gmb-2023-94899",
+    "titel": "Besluit evenementenvergunning VerleendRigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-06",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-94899.html"
+   },
+   {
+    "id": "gmb-2023-75233",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Rigakade 10 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-21",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-75233.html"
+   },
+   {
+    "id": "gmb-2023-19550",
+    "titel": "Aanvraag evenementenvergunning Rigakade 10 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-01-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Rigakade 10 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-19550.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.B0802BPGST-OH01",
+   "naam": "Bestemmingsplan Stadhaven Minerva",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-06-20",
+   "opp_m2": 959688,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 74,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-135537.pdf",
+   "bron": "bekendmaking gmb-2023-135537: Beslistermijn verlengd - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. een horeca-2 bestemming voor de evenementenruimte",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-73152.pdf",
+   "bron": "bekendmaking gmb-2023-73152: Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan t.b.v. een horeca-2 bestemming voor de evenementenruimte",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-1794.pdf",
+   "bron": "bekendmaking gmb-2023-1794: Vergunning Verleend - Rigakade 10, Amsterdam - The Other Side - Temporary Palaces - het afwijken van het bestemmingsplan t.b.v. het realiseren van een evenementenruimte",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-484538.pdf",
+   "bron": "bekendmaking gmb-2022-484538: Vergunning Verleend - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387174.pdf",
+   "bron": "bekendmaking gmb-2022-387174: Beslistermijn verlengd - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-315667.pdf",
+   "bron": "bekendmaking gmb-2022-315667: Aanvraag vergunning - Rigakade 10, Amsterdam - het afwijken van het bestemmingsplan ten behoeve van het plaatsen van een terras",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 78,
+ "pand_adressen": [
+  "Rigakade 10"
+ ]
+}

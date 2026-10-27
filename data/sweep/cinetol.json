@@ -1,0 +1,344 @@
+{
+ "id": "cinetol",
+ "naam": "Cinetol",
+ "adres": "Tolstraat 182, 1074 VM Amsterdam",
+ "termen": [
+  "Tolstraat 182",
+  "1074VM",
+  "1074 VM",
+  "Cinetol"
+ ],
+ "pand": "0363100012233667",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 3,
+  "openbaar": 3,
+  "laatste": "2001-01-01",
+  "dossiers": [
+   {
+    "dossier": "SW_43562",
+    "titel": "Tolstraat 182",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43562"
+   },
+   {
+    "dossier": "SW_45560",
+    "titel": "Tolstraat 182",
+    "datum": "1995-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_45560"
+   },
+   {
+    "dossier": "SW_16692",
+    "titel": "Tolstraat 182",
+    "datum": "1983-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_16692"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 24,
+  "gezocht": [
+   "Tolstraat 182"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-315267",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Tolstraat 182 1074VM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-18",
+    "onderwerp": "wijzigen van de brandcompartimentering op de eerste en derde verdieping met behoud van bestemming tot bijeenkomst- en kantoorfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-315267.html",
+    "zaak": "Z2023-Z003806"
+   },
+   {
+    "id": "gmb-2023-283873",
+    "titel": "Aanvraag omgevingsvergunning Tolstraat 182 1074VM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-29",
+    "onderwerp": "wijzigen van de brandcompartimentering op de eerste en derde verdieping met behoud van bestemming tot bijeenkomstfunctie",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-283873.html",
+    "zaak": "Z2023-Z003806"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-315267",
+   "gmb-2023-283873"
+  ],
+  "zaaknummers": [
+   "Z2023-Z003806"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-488025",
+    "titel": "Besluit apv vergunning Verleend - Tolstraat ter hoogte van nummer: 182 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "Object,Afgesloten gebieden,Tolstraat 182 1074VM, 20261012, Tolstraat ter hoogte van nummer: 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-488025.html"
+   },
+   {
+    "id": "gmb-2026-185033",
+    "titel": "Besluit apv vergunning Verleend - Tolstraat ter hoogte van nummer: 182 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-20",
+    "onderwerp": "Object,Afgesloten gebieden,Tolstraat 182 1074VM, 20260511, Tolstraat ter hoogte van nummer: 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-185033.html"
+   },
+   {
+    "id": "gmb-2026-159901",
+    "titel": "Besluit apv vergunning Verleend - Tolstraat ter hoogte van nummer: 182 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-07",
+    "onderwerp": "RVV,Object,Afgesloten gebieden,Tolstraat 182 1074VM, 20260514, Tolstraat ter hoogte van nummer: 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-159901.html"
+   },
+   {
+    "id": "gmb-2026-136024",
+    "titel": "Besluit apv vergunning Verleend - Tolstraat ter hoogte van nummer: 182 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-24",
+    "onderwerp": "Object,Tolstraat 182 1074VM, 20260504, Tolstraat ter hoogte van nummer: 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-136024.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-419738",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Tolstraat 182",
+    "soort": "andere vergunning",
+    "datum": "2024-10-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Tolstraat 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-419738.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-406425",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Tolstraat 182",
+    "soort": "andere vergunning",
+    "datum": "2023-09-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Tolstraat 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-406425.html"
+   },
+   {
+    "id": "gmb-2023-392902",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Tolstraat 182 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-12",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Tolstraat 182 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-392902.html"
+   },
+   {
+    "id": "gmb-2023-373100",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Tolstraat 182 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Tolstraat 182 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-373100.html"
+   },
+   {
+    "id": "gmb-2023-192479",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Tolstraat 182 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-02",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Tolstraat 182 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-192479.html"
+   },
+   {
+    "id": "gmb-2023-68217",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Tolstraat 182 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-16",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Tolstraat 182 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-68217.html"
+   },
+   {
+    "id": "gmb-2022-533200",
+    "titel": "Besluit apv vergunning Verleend Tolstraat 182",
+    "soort": "andere vergunning",
+    "datum": "2022-12-01",
+    "onderwerp": "Object - Tolstraat 182 - 01/12/2022 t/m 15/12/2022, Tolstraat 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-533200.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-401874",
+    "titel": "Amsterdam Zuid, verkeersbesluit Tolstraat 182, aanleg laad- en losplaats.",
+    "soort": "verkeersbesluit of -mededeling",
+    "datum": "2022-09-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-401874.html"
+   },
+   {
+    "id": "gmb-2022-394743",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Tolstraat 182",
+    "soort": "andere vergunning",
+    "datum": "2022-09-02",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Tolstraat 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-394743.html"
+   },
+   {
+    "id": "gmb-2022-69108",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Tolstraat 182",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-17",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Tolstraat 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-69108.html"
+   },
+   {
+    "id": "gmb-2021-380304",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Tolstraat 182",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Tolstraat 182",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380304.html"
+   },
+   {
+    "id": "stcrt-2020-15213",
+    "titel": "Amsterdam, Zuid verkeersbesluit het instellen van laad en losplaats in de Tolstraat",
+    "soort": "Verkeersbesluiten",
+    "datum": "2020-03-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2020-15213.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.K1603BPSTD-VG01",
+   "naam": "De Pijp 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2018-09-19",
+   "opp_m2": 1450282,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K1902BPSTD-VG01",
+   "naam": "De Pijp 2018 1e herz",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-10-09",
+   "opp_m2": 1450282,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K2103BPSTD-VG02",
+   "naam": "De Pijp 2018 tweede herziening (2021)",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-10-07",
+   "opp_m2": 1450282,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 3,
+  "bekendmakingen": 168,
+  "plannen": 450,
+  "woo": 3
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 627,
+ "pand_adressen": [
+  "Tolstraat 182"
+ ]
+}

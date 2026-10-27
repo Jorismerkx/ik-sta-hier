@@ -1,0 +1,14 @@
+{
+ "id": "warehouse-elementenstraat",
+ "gevonden": true,
+ "document": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb2.pdf",
+ "pagina": 33,
+ "jaar": 2013,
+ "wat": "plattegrond begane grond 'Herindeling Isolatorweg 36/Elementenstraat 25, voorstel functie-indeling' (MSTRS, 08-03-2013): drie zalen, gang, chill-zaal, entree/garderobe, toiletten, binnenplaats",
+ "actueel": "onbekend",
+ "zalen_gedekt": [
+  "Begane grond (alle zalen, indeling 2013)"
+ ],
+ "getekend": false,
+ "opmerking": "Al verwerkt in data/batches/precisie-11-warehouse-elementenstraat.json (zelfde tekening, p. 33 van bijlage 2). De sweep vond geen recentere of vollediger tekening: de rest van bijlage 2 (contactvellen p. 1-69) is tekst, luchtfoto's, straatfoto's, parkeersituatie (p. 35) en het rapport Dance-onomics; de 14 kandidaten uit Visie Sloterdijken (2004) en de printversie toelichting zijn kaarten en tekstpagina's. De vergunningen 'met tekeningen' (2024) gaan over een reclamebord aan de gevel. Tekening is een voorstel van voor de opening (2014); sinds 2021 zit AMAZE in het pand, dus actualiteit onbekend."
+}

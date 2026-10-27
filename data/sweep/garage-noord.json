@@ -1,0 +1,535 @@
+{
+ "id": "garage-noord",
+ "naam": "Garage Noord",
+ "adres": "Gedempt Hamerkanaal 40, 1021 KM Amsterdam",
+ "termen": [
+  "Gedempt Hamerkanaal 40",
+  "1021KM",
+  "1021 KM",
+  "Garage Noord"
+ ],
+ "pand": "0363100012079768",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 8,
+  "openbaar": 8,
+  "laatste": "1992-10-01",
+  "dossiers": [
+   {
+    "dossier": "SN_14172",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14172"
+   },
+   {
+    "dossier": "SN_14169",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14169"
+   },
+   {
+    "dossier": "SN_14160",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14160"
+   },
+   {
+    "dossier": "SN_14163",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14163"
+   },
+   {
+    "dossier": "SN_14156",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14156"
+   },
+   {
+    "dossier": "SN_14154",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14154"
+   },
+   {
+    "dossier": "SN_14149",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1992-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14149"
+   },
+   {
+    "dossier": "SN_14146",
+    "titel": "Gedempt Hamerkanaal 40",
+    "datum": "1991-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SN_14146"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 40,
+  "gezocht": [
+   "Gedempt Hamerkanaal 40"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2023-315633",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-18",
+    "onderwerp": "het bouwen van een tijdelijke kas",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-315633.html",
+    "zaak": "Z2023-N000457"
+   },
+   {
+    "id": "gmb-2023-291654",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2023-07-04",
+    "onderwerp": "plaatsen van een kas (uitbouw tbv horeca)",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-291654.html",
+    "zaak": "Z2023-N000457"
+   },
+   {
+    "id": "gmb-2023-113493",
+    "titel": "Aanvraag omgevingsvergunning Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-16",
+    "onderwerp": "plaatsen van een kas (uitbouw tbv horeca)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-113493.html",
+    "zaak": "Z2023-N000457"
+   },
+   {
+    "id": "gmb-2022-244782",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-31",
+    "onderwerp": "het gedeeltelijk veranderen en vergroten van het gebouw door het tijdelijk plaatsen van een terras op poten aan de achterzijde",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-244782.html",
+    "zaak": "Z2022-N000570"
+   },
+   {
+    "id": "gmb-2022-95268",
+    "titel": "Aanvraag omgevingsvergunning Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-03",
+    "onderwerp": "het gedeeltelijk veranderen van het gebouw door het tijdelijk plaatsen van een terras op poten aan de achterzijde",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-95268.html",
+    "zaak": "Z2022-N000570"
+   },
+   {
+    "id": "gmb-2022-8759",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2022-01-07",
+    "onderwerp": "Luifel Garage Noord",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-8759.html",
+    "zaak": "Z2021-N002220"
+   },
+   {
+    "id": "gmb-2021-427190",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-26",
+    "onderwerp": "Luifel Garage Noord",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-427190.html",
+    "zaak": "Z2021-N002220"
+   },
+   {
+    "id": "gmb-2021-258940",
+    "titel": "Aanvraag omgevingsvergunning Gedempt Hamerkanaal 40 1021KM Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2021-08-02",
+    "onderwerp": "Luifel Garage Noord",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-258940.html",
+    "zaak": "Z2021-N002220"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2023-315633",
+   "gmb-2023-113493",
+   "gmb-2022-244782",
+   "gmb-2022-95268",
+   "gmb-2022-8759",
+   "gmb-2021-258940"
+  ],
+  "zaaknummers": [
+   "Z2021-N002220",
+   "Z2022-N000570",
+   "Z2023-N000457"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-355678",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal ter hoogte van nummer: 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-24",
+    "onderwerp": "TVM parkeervak,Gedempt Hamerkanaal 40 1021KM, 20260804, Gedempt Hamerkanaal ter hoogte van nummer: 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-355678.html"
+   },
+   {
+    "id": "gmb-2026-306989",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal ter hoogte van nummer: 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-29",
+    "onderwerp": "TVM parkeervak,Filmen,Gedempt Hamerkanaal 40 1021KM, 20260705, Gedempt Hamerkanaal ter hoogte van nummer: 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-306989.html"
+   },
+   {
+    "id": "gmb-2026-202245",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202245.html"
+   },
+   {
+    "id": "gmb-2026-202202",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202202.html"
+   },
+   {
+    "id": "gmb-2026-118940",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-16",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-118940.html"
+   },
+   {
+    "id": "gmb-2026-108095",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108095.html"
+   },
+   {
+    "id": "gmb-2026-108223",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108223.html"
+   },
+   {
+    "id": "gmb-2026-68258",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal ter hoogte van nummer: 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-16",
+    "onderwerp": "TVM parkeervak,Filmen,Gedempt Hamerkanaal 40 1021KM, 20260219, Gedempt Hamerkanaal ter hoogte van nummer: 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-68258.html"
+   },
+   {
+    "id": "gmb-2025-258401",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-06-16",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-258401.html"
+   },
+   {
+    "id": "gmb-2025-258402",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-06-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-258402.html"
+   },
+   {
+    "id": "gmb-2025-241275",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal ter hoogte van nummer: 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-06-03",
+    "onderwerp": "Object,Filmen,Nachtwerk,Gedempt Hamerkanaal 40 1021KM, 20250526, Gedempt Hamerkanaal ter hoogte van nummer: 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-241275.html"
+   },
+   {
+    "id": "gmb-2025-114085",
+    "titel": "Besluit evenementenvergunning Verleend - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-03-18",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-114085.html"
+   },
+   {
+    "id": "gmb-2025-33562",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-01-28",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-33562.html"
+   },
+   {
+    "id": "gmb-2025-15049",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 40",
+    "soort": "andere vergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-15049.html"
+   },
+   {
+    "id": "gmb-2025-15109",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-01-14",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-15109.html"
+   },
+   {
+    "id": "gmb-2024-321033",
+    "titel": "Besluit evenementenvergunning Verleend - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-321033.html"
+   },
+   {
+    "id": "gmb-2024-179215",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-179215.html"
+   },
+   {
+    "id": "gmb-2024-179172",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-04-23",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-179172.html"
+   },
+   {
+    "id": "gmb-2024-153639",
+    "titel": "Aanvraag alcoholwetvergunning Gedempt Hamerkanaal 40",
+    "soort": "andere vergunning",
+    "datum": "2024-04-09",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-153639.html"
+   },
+   {
+    "id": "gmb-2024-57535",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-02-06",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-57535.html"
+   },
+   {
+    "id": "gmb-2024-49876",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2024-02-01",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-49876.html"
+   },
+   {
+    "id": "gmb-2023-542204",
+    "titel": "Besluit apv vergunning Verleend - Gedempt Hamerkanaal 40",
+    "soort": "andere vergunning",
+    "datum": "2023-12-19",
+    "onderwerp": "Werkzaamheden en vervoer op straat Gedempt Hamerkanaal 40 1021KM, Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-542204.html"
+   },
+   {
+    "id": "gmb-2023-398459",
+    "titel": "Besluit alcoholwetvergunning Verleend - Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2023-09-18",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398459.html"
+   },
+   {
+    "id": "gmb-2023-398378",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-09-18",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-398378.html"
+   },
+   {
+    "id": "gmb-2023-376573",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-31",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-376573.html"
+   },
+   {
+    "id": "gmb-2023-262938",
+    "titel": "Besluit evenementenvergunning VerleendGedempt Hamerkanaal 40 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-16",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-262938.html"
+   },
+   {
+    "id": "gmb-2023-53635",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-02-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-53635.html"
+   },
+   {
+    "id": "gmb-2022-268217",
+    "titel": "Besluit evenementenvergunning Verleend Gedempt Hamerkanaal 40",
+    "soort": "evenementenvergunning",
+    "datum": "2022-06-14",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-268217.html"
+   },
+   {
+    "id": "gmb-2022-188401",
+    "titel": "Aanvraag evenementenvergunning Gedempt Hamerkanaal 40",
+    "soort": "evenementenvergunning",
+    "datum": "2022-04-26",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-188401.html"
+   },
+   {
+    "id": "gmb-2021-311868",
+    "titel": "Besluit evenementenvergunning Geweigerd Gedempt Hamerkanaal 40",
+    "soort": "evenementenvergunning",
+    "datum": "2021-09-13",
+    "onderwerp": "Geweigerd: evenementenvergunning ter hoogte van adres Gedempt Hamerkanaal 40",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-311868.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1002BPSTD-OH01",
+   "naam": "bestemmingsplan Hamerstraatgebied",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-06-26",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1902BPGST-VG02",
+   "naam": "Hamerstraatgebied 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 517603,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 1,
+  "bekendmakingen": 2,
+  "plannen": 32,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 35,
+ "pand_adressen": [
+  "Gedempt Hamerkanaal 40"
+ ]
+}

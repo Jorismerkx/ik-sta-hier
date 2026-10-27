@@ -1,0 +1,4080 @@
+{
+ "id": "artis",
+ "naam": "ARTIS",
+ "adres": "Plantage Kerklaan 38-40, 1018 CZ Amsterdam",
+ "termen": [
+  "Plantage Kerklaan 38",
+  "Plantage Kerklaan 40",
+  "1018CZ",
+  "1018 CZ",
+  "Planetarium & Aquarium"
+ ],
+ "pand": "0363100012170549",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 198,
+  "openbaar": 11,
+  "laatste": "2012-01-01",
+  "dossiers": [
+   {
+    "dossier": "SA_106697",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2012-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 211,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106697"
+   },
+   {
+    "dossier": "SA_106738",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106738"
+   },
+   {
+    "dossier": "SA_106715",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106715"
+   },
+   {
+    "dossier": "SA_106714",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106714"
+   },
+   {
+    "dossier": "SA_106737",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 49,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106737"
+   },
+   {
+    "dossier": "SA_106672",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106672"
+   },
+   {
+    "dossier": "SA_95757",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 118,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95757"
+   },
+   {
+    "dossier": "SA_106702",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106702"
+   },
+   {
+    "dossier": "SA_106700",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106700"
+   },
+   {
+    "dossier": "SA_95758",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2011-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 62,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95758"
+   },
+   {
+    "dossier": "SA_106713",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 131,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106713"
+   },
+   {
+    "dossier": "SA_106710",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106710"
+   },
+   {
+    "dossier": "SA_95742",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95742"
+   },
+   {
+    "dossier": "SA_110963",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_110963"
+   },
+   {
+    "dossier": "SA_106719",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106719"
+   },
+   {
+    "dossier": "SA_106720",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106720"
+   },
+   {
+    "dossier": "SA_106721",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106721"
+   },
+   {
+    "dossier": "SA_95741",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 214,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95741"
+   },
+   {
+    "dossier": "SA_106712",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106712"
+   },
+   {
+    "dossier": "SA_106717",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 201,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106717"
+   },
+   {
+    "dossier": "SA_106718",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106718"
+   },
+   {
+    "dossier": "SA_106711",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106711"
+   },
+   {
+    "dossier": "SA_106716",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106716"
+   },
+   {
+    "dossier": "SA_95744",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95744"
+   },
+   {
+    "dossier": "SA_95750",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95750"
+   },
+   {
+    "dossier": "SA_95748",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 169,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95748"
+   },
+   {
+    "dossier": "SA_106661",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 125,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106661"
+   },
+   {
+    "dossier": "SA_95752",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95752"
+   },
+   {
+    "dossier": "SA_95746",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95746"
+   },
+   {
+    "dossier": "SA_95743",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 186,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95743"
+   },
+   {
+    "dossier": "SA_95745",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95745"
+   },
+   {
+    "dossier": "SA_95751",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95751"
+   },
+   {
+    "dossier": "SA_95740",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 251,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95740"
+   },
+   {
+    "dossier": "SA_95738",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 84,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95738"
+   },
+   {
+    "dossier": "SA_95753",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 73,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95753"
+   },
+   {
+    "dossier": "SA_95739",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2010-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 53,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95739"
+   },
+   {
+    "dossier": "SA_95607",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95607"
+   },
+   {
+    "dossier": "SA_95706",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2009-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95706"
+   },
+   {
+    "dossier": "SA_95605",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95605"
+   },
+   {
+    "dossier": "SA_95609",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 72,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95609"
+   },
+   {
+    "dossier": "SA_95728",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95728"
+   },
+   {
+    "dossier": "SA_95606",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95606"
+   },
+   {
+    "dossier": "SA_95732",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95732"
+   },
+   {
+    "dossier": "SA_95734",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95734"
+   },
+   {
+    "dossier": "SA_95704",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 65,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95704"
+   },
+   {
+    "dossier": "SA_95729",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 63,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95729"
+   },
+   {
+    "dossier": "SA_95608",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95608"
+   },
+   {
+    "dossier": "SA_95759",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2009-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95759"
+   },
+   {
+    "dossier": "SA_95597",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95597"
+   },
+   {
+    "dossier": "SA_34409",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 39,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34409"
+   },
+   {
+    "dossier": "SA_34405",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34405"
+   },
+   {
+    "dossier": "SA_110188",
+    "titel": "Plantage Kerklaan 38 - 42",
+    "datum": "2008-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 97,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_110188"
+   },
+   {
+    "dossier": "SA_34398",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34398"
+   },
+   {
+    "dossier": "SA_95604",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95604"
+   },
+   {
+    "dossier": "SA_34403",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34403"
+   },
+   {
+    "dossier": "SA_106750",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2008-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106750"
+   },
+   {
+    "dossier": "SA_34406",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34406"
+   },
+   {
+    "dossier": "SA_95602",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95602"
+   },
+   {
+    "dossier": "SA_95603",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2008-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 61,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95603"
+   },
+   {
+    "dossier": "SA_95610",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 112,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95610"
+   },
+   {
+    "dossier": "SA_95601",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2008-01-01",
+    "soort": "kiosk",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95601"
+   },
+   {
+    "dossier": "SA_95600",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2008-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95600"
+   },
+   {
+    "dossier": "SA_34523",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2007-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 192,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34523"
+   },
+   {
+    "dossier": "SA_34508",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2007-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34508"
+   },
+   {
+    "dossier": "SA_34663",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34663"
+   },
+   {
+    "dossier": "SA_34658",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34658"
+   },
+   {
+    "dossier": "SA_34656",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 174,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34656"
+   },
+   {
+    "dossier": "SA_34651",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 134,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34651"
+   },
+   {
+    "dossier": "SA_34648",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 527,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34648"
+   },
+   {
+    "dossier": "SA_34647",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 334,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34647"
+   },
+   {
+    "dossier": "SA_34511",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 41,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34511"
+   },
+   {
+    "dossier": "SA_106742",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106742"
+   },
+   {
+    "dossier": "SA_34491",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2006-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34491"
+   },
+   {
+    "dossier": "SA_34642",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2006-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34642"
+   },
+   {
+    "dossier": "SA_109991",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2005-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109991"
+   },
+   {
+    "dossier": "SA_34433",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2005-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 413,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34433"
+   },
+   {
+    "dossier": "SA_34630",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2005-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 234,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34630"
+   },
+   {
+    "dossier": "SA_34431",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2005-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34431"
+   },
+   {
+    "dossier": "SA_34427",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34427"
+   },
+   {
+    "dossier": "SA_33192",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33192"
+   },
+   {
+    "dossier": "SA_34426",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2004-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34426"
+   },
+   {
+    "dossier": "SA_33305",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33305"
+   },
+   {
+    "dossier": "SA_34423",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34423"
+   },
+   {
+    "dossier": "SA_33276",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33276"
+   },
+   {
+    "dossier": "SA_33272",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33272"
+   },
+   {
+    "dossier": "SA_33271",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33271"
+   },
+   {
+    "dossier": "SA_109995",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_109995"
+   },
+   {
+    "dossier": "SA_34420",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34420"
+   },
+   {
+    "dossier": "SA_34425",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2003-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34425"
+   },
+   {
+    "dossier": "SA_33247",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33247"
+   },
+   {
+    "dossier": "SA_33270",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33270"
+   },
+   {
+    "dossier": "SA_34419",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 38,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34419"
+   },
+   {
+    "dossier": "SA_34416",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34416"
+   },
+   {
+    "dossier": "SA_33267",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 44,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33267"
+   },
+   {
+    "dossier": "SA_33285",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33285"
+   },
+   {
+    "dossier": "SA_33224",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 29,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33224"
+   },
+   {
+    "dossier": "SA_34850",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34850"
+   },
+   {
+    "dossier": "SA_33263",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33263"
+   },
+   {
+    "dossier": "SA_34414",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34414"
+   },
+   {
+    "dossier": "SA_33266",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2002-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33266"
+   },
+   {
+    "dossier": "SA_33229",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "2002-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33229"
+   },
+   {
+    "dossier": "SA_33298",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2001-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33298"
+   },
+   {
+    "dossier": "SA_33218",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "2001-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33218"
+   },
+   {
+    "dossier": "SA_95727",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95727"
+   },
+   {
+    "dossier": "SA_95726",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 210,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95726"
+   },
+   {
+    "dossier": "SA_95725",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95725"
+   },
+   {
+    "dossier": "SA_95724",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 123,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95724"
+   },
+   {
+    "dossier": "SA_34929",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "2000-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34929"
+   },
+   {
+    "dossier": "SA_33160",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33160"
+   },
+   {
+    "dossier": "SA_33163",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33163"
+   },
+   {
+    "dossier": "SA_33290",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-01-01",
+    "soort": "nuts-voorziening",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33290"
+   },
+   {
+    "dossier": "SA_33482",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33482"
+   },
+   {
+    "dossier": "SA_33510",
+    "titel": "Plantage Kerklaan 38",
+    "datum": "2000-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33510"
+   },
+   {
+    "dossier": "SA_33220",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "2000-01-01",
+    "soort": "kiosk",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33220"
+   },
+   {
+    "dossier": "SA_95723",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95723"
+   },
+   {
+    "dossier": "SA_34922",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "1999-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 178,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34922"
+   },
+   {
+    "dossier": "SA_95722",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-03-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 177,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95722"
+   },
+   {
+    "dossier": "SA_33459",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33459"
+   },
+   {
+    "dossier": "SA_33490",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33490"
+   },
+   {
+    "dossier": "SA_34455",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34455"
+   },
+   {
+    "dossier": "SA_33155",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "1999-01-01",
+    "soort": "sloop, asbestverwijdering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33155"
+   },
+   {
+    "dossier": "SA_33153",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33153"
+   },
+   {
+    "dossier": "SA_95720",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1999-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 76,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95720"
+   },
+   {
+    "dossier": "SA_95719",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 140,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95719"
+   },
+   {
+    "dossier": "SA_34454",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 188,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34454"
+   },
+   {
+    "dossier": "SA_95718",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 60,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95718"
+   },
+   {
+    "dossier": "SA_95717",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95717"
+   },
+   {
+    "dossier": "SA_34452",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 207,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34452"
+   },
+   {
+    "dossier": "SA_34451",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 142,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34451"
+   },
+   {
+    "dossier": "SA_33489",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33489"
+   },
+   {
+    "dossier": "SA_33405",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 51,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33405"
+   },
+   {
+    "dossier": "SA_33906",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 95,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33906"
+   },
+   {
+    "dossier": "SA_33923",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33923"
+   },
+   {
+    "dossier": "SA_33485",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33485"
+   },
+   {
+    "dossier": "SA_33464",
+    "titel": "Plantage Kerklaan 38",
+    "datum": "1998-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 83,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33464"
+   },
+   {
+    "dossier": "SA_95507",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 356,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_95507"
+   },
+   {
+    "dossier": "SA_33403",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33403"
+   },
+   {
+    "dossier": "SA_33920",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33920"
+   },
+   {
+    "dossier": "SA_34448",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1998-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34448"
+   },
+   {
+    "dossier": "SA_33894",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 128,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33894"
+   },
+   {
+    "dossier": "SA_33870",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 25,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33870"
+   },
+   {
+    "dossier": "SA_33395",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33395"
+   },
+   {
+    "dossier": "SA_34446",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 128,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34446"
+   },
+   {
+    "dossier": "SA_33879",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33879"
+   },
+   {
+    "dossier": "SA_34382",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "1997-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34382"
+   },
+   {
+    "dossier": "SA_33880",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33880"
+   },
+   {
+    "dossier": "SA_09899",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_09899"
+   },
+   {
+    "dossier": "SA_34394",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34394"
+   },
+   {
+    "dossier": "SA_33401",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "1997-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33401"
+   },
+   {
+    "dossier": "SA_34390",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1997-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34390"
+   },
+   {
+    "dossier": "SA_34379",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1996-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34379"
+   },
+   {
+    "dossier": "SA_33852",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33852"
+   },
+   {
+    "dossier": "SA_34378",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1996-01-01",
+    "soort": "antenne-installatie/sirene",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34378"
+   },
+   {
+    "dossier": "SA_34970",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34970"
+   },
+   {
+    "dossier": "SA_33850",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33850"
+   },
+   {
+    "dossier": "SA_34968",
+    "titel": "Plantage Kerklaan 36",
+    "datum": "1996-01-01",
+    "soort": "fundering",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34968"
+   },
+   {
+    "dossier": "SA_33857",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33857"
+   },
+   {
+    "dossier": "SA_34384",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "1995-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 56,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34384"
+   },
+   {
+    "dossier": "SA_34380",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1995-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34380"
+   },
+   {
+    "dossier": "SA_34383",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "1995-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34383"
+   },
+   {
+    "dossier": "SA_34946",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "1994-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 21,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34946"
+   },
+   {
+    "dossier": "SA_34938",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1993-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34938"
+   },
+   {
+    "dossier": "SA_33982",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 45,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33982"
+   },
+   {
+    "dossier": "SA_33148",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1990-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 26,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33148"
+   },
+   {
+    "dossier": "SA_33997",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33997"
+   },
+   {
+    "dossier": "SA_34963",
+    "titel": "Plantage Kerklaan 38 - 40",
+    "datum": "1989-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 59,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34963"
+   },
+   {
+    "dossier": "SA_33140",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1988-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33140"
+   },
+   {
+    "dossier": "SA_33137",
+    "titel": "Plantage Doklaan 44; Plantage Kerklaan 40",
+    "datum": "1987-01-01",
+    "soort": "revisie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33137"
+   },
+   {
+    "dossier": "SA_33134",
+    "titel": "Plantage Doklaan 44; Plantage Kerklaan 40",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33134"
+   },
+   {
+    "dossier": "SA_34972",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1984-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_34972"
+   },
+   {
+    "dossier": "SA_33119",
+    "titel": "Plantage Kerklaan 36 - 40",
+    "datum": "1981-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33119"
+   },
+   {
+    "dossier": "SA_32922",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1979-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32922"
+   },
+   {
+    "dossier": "SA_32818",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1973-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32818"
+   },
+   {
+    "dossier": "SA_32817",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1973-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32817"
+   },
+   {
+    "dossier": "SA_32810",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1971-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32810"
+   },
+   {
+    "dossier": "SA_106743",
+    "titel": "Plantage Kerklaan 40 ohs",
+    "datum": "1966-01-01",
+    "soort": "woningmutatie",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_106743"
+   },
+   {
+    "dossier": "SA_32804",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1954-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32804"
+   },
+   {
+    "dossier": "SA_32793",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1954-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32793"
+   },
+   {
+    "dossier": "SA_32792",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1954-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32792"
+   },
+   {
+    "dossier": "SA_32782",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1952-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 89,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32782"
+   },
+   {
+    "dossier": "SA_32779",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1951-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32779"
+   },
+   {
+    "dossier": "SA_32773",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1950-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32773"
+   },
+   {
+    "dossier": "SA_32757",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1948-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32757"
+   },
+   {
+    "dossier": "SA_32755",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1942-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32755"
+   },
+   {
+    "dossier": "SA_32724",
+    "titel": "Plantage Kerklaan 36 - 40; Plantage Middenlaan 43",
+    "datum": "1941-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32724"
+   },
+   {
+    "dossier": "SA_32706",
+    "titel": "Plantage Kerklaan 40; Plantage Middenlaan 41 - 43",
+    "datum": "1940-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32706"
+   },
+   {
+    "dossier": "SA_32745",
+    "titel": "Plantage Kerklaan 36 - 40; Plantage Middenlaan 43",
+    "datum": "1940-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 68,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32745"
+   },
+   {
+    "dossier": "SA_32719",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1940-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32719"
+   },
+   {
+    "dossier": "SA_32666",
+    "titel": "Plantage Kerklaan 40; Plantage Middenlaan 41; Plantage Middenlaan 45",
+    "datum": "1939-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32666"
+   },
+   {
+    "dossier": "SA_32656",
+    "titel": "Plantage Kerklaan 40; Plantage Middenlaan 41 - 45",
+    "datum": "1928-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 47,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32656"
+   },
+   {
+    "dossier": "SA_32631",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1922-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32631"
+   },
+   {
+    "dossier": "SA_32629",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1920-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32629"
+   },
+   {
+    "dossier": "SA_33839",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1909-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 33,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33839"
+   },
+   {
+    "dossier": "SA_32590",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1908-01-01",
+    "soort": "oprichting",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_32590"
+   },
+   {
+    "dossier": "SA_33186",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1905-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33186"
+   },
+   {
+    "dossier": "SA_33189",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1897-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33189"
+   },
+   {
+    "dossier": "SA_33190",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1868-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33190"
+   },
+   {
+    "dossier": "SA_33187",
+    "titel": "Plantage Kerklaan 40",
+    "datum": "1866-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_33187"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 207,
+  "gezocht": [
+   "Plantage Kerklaan 38",
+   "Plantage Kerklaan 40",
+   "Plantage Kerklaan 36"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-498895",
+    "titel": "Aanvraag omgevingsvergunning ontvangen - Plantage Kerklaan 38, Amsterdam - Intrekken vergunning realiseren E-inkoopstation t.b.v. elektriciteitsvoorziening - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-26",
+    "onderwerp": "het intrekken van de vergunning met zaaknummer 3281004 voor het realiseren van een E-inkoopstation t.b.v. de elektriciteitsvoorziening",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-498895.html"
+   },
+   {
+    "id": "gmb-2026-495302",
+    "titel": "Aanvraag omgevingsvergunning ontvangen - Plantage Kerklaan 38, Amsterdam - Robbenverblijf transformeren naar pinguïnverblijf - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-23",
+    "onderwerp": "het gedeeltelijk slopen van het zeeleeuwenverblijf t.b.v de transformatie naar een tijdelijk pinguïnverblijf",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-495302.html",
+    "zaak": "OD2026-0066415"
+   },
+   {
+    "id": "gmb-2026-496332",
+    "titel": "Omgevingsvergunning verleend - Plantage Kerklaan 38, Amsterdam - Kappen dode boom - Stichting tot Instandhouding van de Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-23",
+    "onderwerp": "het kappen van een dode acer op het terrein van Artis",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-496332.html",
+    "zaak": "OD2026-0055548"
+   },
+   {
+    "id": "gmb-2026-488000",
+    "titel": "Omgevingsvergunning verleend - Plantage Kerklaan 38-40, Amsterdam - Tijdelijk bouwkundig aanpassen pandaverblijf - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-10-20",
+    "onderwerp": "het bouwkundig aanpassen van het voormalige rode pandaverblijf voor de grootoorvossen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-488000.html",
+    "zaak": "OD2026-0059743"
+   },
+   {
+    "id": "gmb-2026-451462",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38-40, Amsterdam - Plaatsen van zonnepanelen - Stichting tot Instandhouding van de Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "het plaatsen van zonnepanelen op het Planetariumgebouw (gebouw 107) in de dierentuin Artis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451462.html",
+    "zaak": "OD2026-0059922"
+   },
+   {
+    "id": "gmb-2026-449224",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam - Aanpassen voormalige rode pandaverblijf - Stichting tot Instandhouding van de Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-25",
+    "onderwerp": "het bouwkundig aanpassen van het voormalige rode pandaverblijf voor de grootoorvossen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-449224.html",
+    "zaak": "OD2026-0059743"
+   },
+   {
+    "id": "gmb-2026-431704",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam - Kappen één boom - Stichting tot Instandhouding van de Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-15",
+    "onderwerp": "het kappen van een dode acer op het terrein van Artis",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-431704.html",
+    "zaak": "OD2026-0055548"
+   },
+   {
+    "id": "prb-2026-15193",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38-40 Amsterdam - Lozen grondwater op vuilwaterriool - Stichting tot Instandhouding van de Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-07",
+    "onderwerp": "het wijzigen van de verleende vergunning voor een open bodemenergiesysteem door het toevoegen van een lozing op het vuilwaterriool",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-15193.html",
+    "zaak": "OD2026-0050620"
+   },
+   {
+    "id": "gmb-2026-400241",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam  - Tijdelijk transformeren van Robbenverblijf naar Pinguïnverblijf",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-25",
+    "onderwerp": "het tijdelijk transformeren van het huidige Robbenverblijf naar een tijdelijk Pinguïnverblijf met een instandhoudingstermijn van vijftien jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-400241.html",
+    "zaak": "OD2026-0029113"
+   },
+   {
+    "id": "gmb-2026-375901",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - Bouwkundig aanpassen van terras van restaurant 'De Waterkant' - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-06",
+    "onderwerp": "het oprichten verhoging van het terras van het restaurant 'De Waterkant'",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-375901.html",
+    "zaak": "OD2026-0037904"
+   },
+   {
+    "id": "gmb-2026-301506",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38-40, Amsterdam - Oprichten van gebouw bij  dienstencentrum - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-24",
+    "onderwerp": "het oprichten van een gebouw bij het dienstencentrum in de dierentuin Artis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-301506.html",
+    "zaak": "OD2026-0039313"
+   },
+   {
+    "id": "gmb-2026-289584",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam -Bouwkundig aanpassen terras   restaurant \"De Waterkant\"",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-18",
+    "onderwerp": "het oprichten verhoging van het terras van het restaurant 'De Waterkant'",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-289584.html",
+    "zaak": "OD2026-0037904"
+   },
+   {
+    "id": "gmb-2026-249843",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - Ten gehore brengen versterkte muziek op 13 juni 2026 voor opening Artis Aquarium - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-28",
+    "onderwerp": "ten gehore brengen van versterkte muziek op zaterdag, 13 juni 2026 ter gelegenheid van de opening van het Aquariumgebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-249843.html",
+    "zaak": "OD2026-0023736"
+   },
+   {
+    "id": "gmb-2026-232916",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - het ten gehore brengen van versterkte muziek tijdens de Artis ZOOmeravonden 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-18",
+    "onderwerp": "het ten gehore brengen van versterkte muziek tijdens de Artis ZOOmeravonden 2026",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-232916.html",
+    "zaak": "OD2026-0016138"
+   },
+   {
+    "id": "gmb-2026-221034",
+    "titel": "Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam - Stichting Artis Natura Magistra",
+    "soort": "andere beschikking",
+    "datum": "2026-05-11",
+    "onderwerp": "ARTIS Zoomeravonden 2026 (maatwerk geluid)",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-221034.html",
+    "zaak": "OD2026-0015659"
+   },
+   {
+    "id": "gmb-2026-214995",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38-40, Amsterdam - Tijdelijk transformeren huidige Robbenverblijf naar tijdelijk Pinguïnverblijf - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-05-06",
+    "onderwerp": "het tijdelijk transformeren van het huidige Robbenverblijf naar een tijdelijk Pinguïnverblijf",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-214995.html",
+    "zaak": "OD2026-0029113"
+   },
+   {
+    "id": "gmb-2026-172054",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38 - 40, Amsterdam - Kappen boom t.b.v. herinrichting Wolvenhuis - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-13",
+    "onderwerp": "het kappen van een boom ten behoeve van de herinrichting van het Wolvenhuis",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-172054.html",
+    "zaak": "OD2026-0007232"
+   },
+   {
+    "id": "gmb-2026-170667",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam - ten gehore brengen van versterkte muziek",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-10",
+    "onderwerp": "ten gehore brengen van versterkte muziek op zaterdag, 13 juni 2026 ter gelegenheid van de opening van het Aquariumgebouw",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-170667.html",
+    "zaak": "OD2026-0023736"
+   },
+   {
+    "id": "gmb-2026-164611",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - Kappen boom - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-08",
+    "onderwerp": "het kappen van 1 boom",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-164611.html",
+    "zaak": "OD2026-0014467"
+   },
+   {
+    "id": "gmb-2026-134602",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - Verplanten 4 bomen - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-23",
+    "onderwerp": "het verplanten van vier bomen",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-134602.html",
+    "zaak": "OD2026-0004209"
+   },
+   {
+    "id": "gmb-2026-129878",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 40, Amsterdam - het ten gehore brengen van versterkte muziek tijdens de Artis ZOOmeravonden 2026 - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-19",
+    "onderwerp": "het ten gehore brengen van versterkte muziek tijdens de Artis ZOOmeravonden 2026",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-129878.html",
+    "zaak": "OD2026-0016138"
+   },
+   {
+    "id": "gmb-2026-97375",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam - Kappen boom - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-04",
+    "onderwerp": "het kappen van 1 boom",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-97375.html",
+    "zaak": "OD2026-0014467"
+   },
+   {
+    "id": "gmb-2026-76186",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38 - 40, Amsterdam -  Oprichten fontein op  Salmplein ten zuiden van het Aquariumgebouw in  dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-19",
+    "onderwerp": "het oprichten van een fontein op het Salmplein ten zuiden van het Aquariumgebouw in de dierentuin Artis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-76186.html",
+    "zaak": "OD2025-0043682"
+   },
+   {
+    "id": "gmb-2026-67096",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38 - 40, Amsterdam - het kappen van een boom (zaailing) - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-13",
+    "onderwerp": "het kappen van een boom (zaailing) ten behoeve van de herinrichting van het Wolvenhuis",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-67096.html",
+    "zaak": "OD2026-0007232"
+   },
+   {
+    "id": "gmb-2026-51741",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38 Amsterdam - Tijdelijk oprichten paviljoen voor additionele horeca",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-05",
+    "onderwerp": "het oprichten van een paviljoen ten behoeve van (additionele) horeca",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-51741.html",
+    "zaak": "OD2025-0040550"
+   },
+   {
+    "id": "bgr-2026-188",
+    "titel": "Toestemming voor het inzetten van een knijperauto voor het verwijderen van de boomstobbe en het vervangen voor bomengrond ter hoogte van Plantage Kerklaan 36 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-29",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-188.html"
+   },
+   {
+    "id": "gmb-2026-28100",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam - verplanten van vier bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-22",
+    "onderwerp": "het verplanten van vier bomen",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-28100.html",
+    "zaak": "OD2026-0004209"
+   },
+   {
+    "id": "gmb-2026-8434",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - het kappen van een zaailing ten behoeve van een nieuw horeca punt - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-09",
+    "onderwerp": "het kappen van een zaailing ten behoeve van een nieuw horeca punt",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-8434.html",
+    "zaak": "OD2025-0035863"
+   },
+   {
+    "id": "gmb-2026-5209",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38 - 40,  Amsterdam - Oprichten fontein  Salmplein ten zuiden van het  Aquariumgebouw in dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-07",
+    "onderwerp": "het oprichten van een fontein op het Salmplein ten zuiden van het Aquariumgebouw in de dierentuin Artis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-5209.html",
+    "zaak": "OD2025-0043682"
+   },
+   {
+    "id": "gmb-2025-564684",
+    "titel": "Vergunning verleend -  Plantage Kerklaan 38, Amsterdam - Tijdelijk oprichten container bij gebouw 202 - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-23",
+    "onderwerp": " het tijdelijk oprichten van een container in de dierentuin Artis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-564684.html"
+   },
+   {
+    "id": "gmb-2025-544789",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - Kappen 4 bomen en verplanten 1 boom op terrein Artis - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "het kappen/verplanten van 5 bomen op het terrein van Artis",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544789.html",
+    "zaak": "OD2025-0024783"
+   },
+   {
+    "id": "gmb-2025-544593",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 36, Amsterdam - Oprichten paviljoen t.b.v. (additionele) horeca - Stichting Artis Natura Magista",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "het oprichten van een paviljoen ten behoeve van (additionele) horeca",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544593.html"
+   },
+   {
+    "id": "gmb-2025-512920",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38, Amsterdam - Kappen zaailing t.b.v. nieuw horecapunt - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-26",
+    "onderwerp": "het kappen van een zaailing ten behoeve van een nieuw horeca punt",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-512920.html",
+    "zaak": "OD2025-0035863"
+   },
+   {
+    "id": "gmb-2025-492487",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 40, Amsterdam - Tijdelijk oprichten container in  dierentuin - Stichting Artis Natura Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-13",
+    "onderwerp": " het tijdelijk oprichten van een container in de dierentuin Artis",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-492487.html",
+    "zaak": "OD2025-0033467"
+   },
+   {
+    "id": "gmb-2025-466411",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - het kappen van zieke bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-28",
+    "onderwerp": "het kappen van zieke bomen",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-466411.html",
+    "zaak": "OD2025-0017566"
+   },
+   {
+    "id": "gmb-2025-393656",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38-40, Amsterdam - Kappen 2 zieke bomen Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-11",
+    "onderwerp": "het kappen van zieke bomen",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-393656.html",
+    "zaak": "OD2025-0017566"
+   },
+   {
+    "id": "gmb-2025-365026",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 40, Amsterdam - Jaarvergunning Bomenbeheerplan ARTIS 2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-08-21",
+    "onderwerp": "het aanvragen van een jaarvergunning voor het Bomenbeheerplan ARTIS 2025",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-365026.html",
+    "zaak": "OD2025-0014258"
+   },
+   {
+    "id": "gmb-2025-255061",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - het aanpassen van het Chimpanseehuis - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-255061.html",
+    "zaak": "13867530"
+   },
+   {
+    "id": "gmb-2025-246084",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38- 40, Amsterdam - het ten gehore brengen van versterkte muziek tijdens de ARTIS ZOOmeravonden 2025 - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-246084.html",
+    "zaak": "13853436"
+   },
+   {
+    "id": "gmb-2025-243465",
+    "titel": "Maatwerkvoorschriften op grond van het omgevingsplan voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2025-06-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-243465.html",
+    "zaak": "13848751"
+   },
+   {
+    "id": "prb-2025-8525",
+    "titel": "Omgevingsvergunning verleend voor Plantage Kerklaan 38 te Amsterdam (Flora- en fauna-activiteit)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-26",
+    "onderwerp": "",
+    "activiteit": "natuur",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-8525.html",
+    "zaak": "OMG-041300 publicatie Plantage Kerklaan 38 Amsterdam"
+   },
+   {
+    "id": "gmb-2025-181048",
+    "titel": "Aanvraag vergunning ontvangen - Plantage Kerklaan 38-40, Amsterdam - Verbouwing Chimpanseeverblijf Artis - Stichting tot Instandhouding Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-181048.html",
+    "zaak": "13743852"
+   },
+   {
+    "id": "bgr-2025-957",
+    "titel": "Toestemming voor het inzetten van een mobiele kraan met zaagkop voor het verwijderen van 2 bomen ter hoogte van Plantage Kerklaan 36 en Nieuwe Jonkerstraat 52 te Amsterdam t",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-17",
+    "onderwerp": "",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-957.html"
+   },
+   {
+    "id": "gmb-2025-151154",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38-40, Amsterdam - het ten gehore brengen van versterkte muziek tijdens de ARTIS Zoomeravonden 2025 - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-151154.html",
+    "zaak": "13699005"
+   },
+   {
+    "id": "gmb-2025-53555",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38-40, Amsterdam - Oprichten loopbruggen voor panda's",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-53555.html",
+    "zaak": "13539962"
+   },
+   {
+    "id": "gmb-2025-13441",
+    "titel": "Vergunning verleend – Plantage Kerklaan 38-40, Amsterdam – het tijdelijk plaatsen van vier tenten op het Artisplein in de dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-13441.html",
+    "zaak": "13460793"
+   },
+   {
+    "id": "gmb-2024-539846",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38, Amsterdam - het bouwkundig aanpassen van de apenrots voor andere diersoorten - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-539846.html",
+    "zaak": "13413806"
+   },
+   {
+    "id": "gmb-2024-540402",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38- 40 te Amsterdam - Het transformeren van verschillende gebouwen als nieuw lemurenverblijf - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-540402.html",
+    "zaak": "13393295"
+   },
+   {
+    "id": "gmb-2024-537902",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38, Amsterdam - het tijdelijk plaatsen van vier tenten op het Artisplein - Stichting tot Instandhouding van de Diergaarde van het Koninklijk Zoölogisch Genootschap Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-20",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-537902.html",
+    "zaak": "13411103"
+   },
+   {
+    "id": "gmb-2024-527632",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38, Amsterdam - Kappen 4 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-12-16",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-527632.html",
+    "zaak": "13391654"
+   },
+   {
+    "id": "gmb-2024-504115",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38, Amsterdam - Vellen houtopstand",
+    "soort": "andere beschikking",
+    "datum": "2024-12-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-504115.html",
+    "zaak": "13347487"
+   },
+   {
+    "id": "gmb-2024-498801",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38, Amsterdam - Houtopstand vellen - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-498801.html",
+    "zaak": "13342365"
+   },
+   {
+    "id": "prb-2024-17092",
+    "titel": "Ontvangst aanvraag omgevingsvergunning Plantage Kerklaan 38 te Amsterdam Flora- en fauna-activiteit",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-08",
+    "onderwerp": "",
+    "activiteit": "natuur",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2024-17092.html",
+    "zaak": "OMG-041300/DMS488975"
+   },
+   {
+    "id": "gmb-2024-440401",
+    "titel": "Ontwerpbesluit Omgevingswet - Plantage Kerklaan 38- 40, Amsterdam - Het transformeren van verschillende gebouwen als nieuw lemurenverblijf - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-18",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-440401.html",
+    "zaak": "13221075"
+   },
+   {
+    "id": "gmb-2024-427781",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het gebruiken van de gebouwen 102, 214, 307, 310 en de robbenzaal (321) voor horeca-activiteiten",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-427781.html",
+    "zaak": "1389888"
+   },
+   {
+    "id": "gmb-2024-384800",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 40, Amsterdam - het kappen van 3 bomen - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-09",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-384800.html",
+    "zaak": "13107297"
+   },
+   {
+    "id": "gmb-2024-331688",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 40, Amsterdam - het kappen van bomen bij de Moeflonstal - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-331688.html",
+    "zaak": "12990962"
+   },
+   {
+    "id": "gmb-2024-322106",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38-40, Amsterdam - ZOOmeravonden 2024 - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-322106.html",
+    "zaak": "12977937"
+   },
+   {
+    "id": "gmb-2024-301086",
+    "titel": "Maatwerkvoorschriften op grond van het omgevingsplan voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2024-07-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-301086.html",
+    "zaak": "12937457"
+   },
+   {
+    "id": "gmb-2024-249752",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38-40, Amsterdam - het tijdelijk oprichten van een beeld van een leeuw en een houten brug met pontonsteiger - Stichting Natura Artis Magistra",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249752.html",
+    "zaak": "12865331"
+   },
+   {
+    "id": "gmb-2024-226543",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38-40, Amsterdam - Herinrichting terras - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-226543.html"
+   },
+   {
+    "id": "gmb-2024-227435",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38-40, Amsterdam - Houden Zoomeravonden - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-227435.html"
+   },
+   {
+    "id": "gmb-2024-207229",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 40, Amsterdam - het kappen van negen bomen - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-207229.html"
+   },
+   {
+    "id": "gmb-2024-197623",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38, Amsterdam - kappen 2 bomen - Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-197623.html"
+   },
+   {
+    "id": "gmb-2024-194438",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Plantage Kerklaan 38-40, Amsterdam - het tijdelijk oprichten van een brug met pontons naar het Kerbertterras",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-194438.html"
+   },
+   {
+    "id": "gmb-2024-196008",
+    "titel": "Vergunning Omgevingswet verleend - Plantage Kerklaan 38-40, Amsterdam - het kappen van een boom",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-196008.html"
+   },
+   {
+    "id": "gmb-2024-120045",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen – Plantage Kerklaan 40, Amsterdam – Het kappen van 2 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-18",
+    "onderwerp": "",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-120045.html"
+   },
+   {
+    "id": "gmb-2024-91680",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het oprichten van een container in de voormalige Kinderboerderij in de dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-91680.html"
+   },
+   {
+    "id": "gmb-2024-85558",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen – Plantage Kerklaan 38-40, Amsterdam – Het kappen van 9 bomen – Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-23",
+    "onderwerp": "",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-85558.html"
+   },
+   {
+    "id": "gmb-2024-85274",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het verlengen van de tijdelijke instandhoudingstermijn van de glazen kas, zaak 9378946",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-85274.html"
+   },
+   {
+    "id": "gmb-2024-63834",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen – Plantage Kerklaan 38-40, Amsterdam – Kappen van een boom – Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-09",
+    "onderwerp": "",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-63834.html"
+   },
+   {
+    "id": "gmb-2024-50296",
+    "titel": "Aanvraag vergunning omgevingswet ontvangen – Plantage Kerklaan 40, Amsterdam – Het kappen van een boom wegens ziekte",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-01",
+    "onderwerp": "",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-50296.html"
+   },
+   {
+    "id": "prb-2024-975",
+    "titel": "Wet natuurbescherming ontheffing voor de restauratie en herbestemming van het gebouw Duivenhuis aan de Plantage Kerklaan 38 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2024-01-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2024-975.html"
+   },
+   {
+    "id": "gmb-2024-33135",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het restaureren en herbestemmen van het gebouw 'Duivenhuis', het Oude Broedmachinehuis (gebouw 217)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-33135.html"
+   },
+   {
+    "id": "gmb-2024-23132",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het verlengen van de tijdelijke instandhoudingstermijn van de glazen kas, zaak 9378946",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-23132.html"
+   },
+   {
+    "id": "gmb-2024-23117",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het gebruiken van gebouw 102, 214, 307, 310 en de robbenzaal (321) voor horeca in Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-23117.html"
+   },
+   {
+    "id": "gmb-2023-567689",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 40, Amsterdam - het plaatsen van een (demontabele) container in de voormalige Kinderboerderij van ARTIS",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-567689.html"
+   },
+   {
+    "id": "gmb-2023-540328",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - het kappen van 3 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-18",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-540328.html"
+   },
+   {
+    "id": "gmb-2023-529072",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het restaureren van de Moeflonstal (gebouw 218).",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-529072.html"
+   },
+   {
+    "id": "gmb-2023-497884",
+    "titel": "Ontwerpbesluit - Plantage Kerklaan 38-40, Amsterdam - het restaureren en herbestemmen van het gebouw 'Duivenhuis', het Oude Broedmachinehuis (gebouw 217)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-497884.html"
+   },
+   {
+    "id": "gmb-2023-487802",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - het kappen van 3 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-487802.html"
+   },
+   {
+    "id": "gmb-2023-444538",
+    "titel": "Ontwerpbesluit - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - het restaureren van de Moeflonstal (gebouw 218)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-444538.html"
+   },
+   {
+    "id": "gmb-2023-417364",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het oprichten van verrijkingselementen",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-09-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-417364.html"
+   },
+   {
+    "id": "gmb-2023-363237",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - het plaatsen van een verrijkingselement in het olifantenbuitenverblijf",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-21",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-363237.html"
+   },
+   {
+    "id": "gmb-2023-357479",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38, Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het aanpassen van het Gorillahuis in Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-357479.html"
+   },
+   {
+    "id": "gmb-2023-286916",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het houden van muziekoptredens in het kader van tien ZOOmeravonden 2023",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-30",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-286916.html"
+   },
+   {
+    "id": "gmb-2023-274679",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het restaureren en herbestemmen van het gebouw 'Duivenhuis', het Oude Broedmachinehuis (gebouw 217)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-274679.html"
+   },
+   {
+    "id": "prb-2023-6338",
+    "titel": "Ontheffing Wet natuurbescherming voor de uitbreiding van het gorillaverblijf aan de Plantage Kerklaan 40 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2023-06-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-6338.html"
+   },
+   {
+    "id": "gmb-2023-237709",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het houden van muziekoptredens in het kader van tien ZOOmeravonden 2023 in de dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-01",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-237709.html"
+   },
+   {
+    "id": "gmb-2023-230434",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het gebruiken van de gronden als kantoor inclusief als congres- en vergaderruimte door derden",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-30",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-230434.html"
+   },
+   {
+    "id": "gmb-2023-187978",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - onderhoudswerkzaamheden aan de Salmhuisjes (gebouwen nummer 328-330)",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-187978.html"
+   },
+   {
+    "id": "gmb-2023-176392",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het oprichten van een constructie t.b.v zonwering voor het zeeleeuwenverblijf in de dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-21",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-176392.html"
+   },
+   {
+    "id": "gmb-2023-140807",
+    "titel": "Aanvraag vergunning - Artis, Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het gebruiken van de gronden als kantoor en- of als congres- en vergaderruimte door derden",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-31",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-140807.html"
+   },
+   {
+    "id": "gmb-2023-104418",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het onderhouden van de gevels van de Salmhuisjes in de dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-104418.html"
+   },
+   {
+    "id": "gmb-2023-84554",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het oprichten van een houten speeltoestel op het speeleiland bij het nieuwe leeuwenverblijf in Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-84554.html"
+   },
+   {
+    "id": "gmb-2023-20239",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het oprichten van een houten speeltoestel op het speeleiland bij het nieuwe leeuwenverblijf in Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-17",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-20239.html"
+   },
+   {
+    "id": "gmb-2022-478752",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het oprichten van een constructie t.b.v. zonwering bij het zeeleeuwenverblijf in Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-10-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-478752.html"
+   },
+   {
+    "id": "gmb-2022-387022",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het tijdelijk afwijken van het bestemmingsplan t.b.v. het houden van de ZOOmeravonden 2022",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387022.html"
+   },
+   {
+    "id": "gmb-2022-335515",
+    "titel": "Beslistermijn verlengd - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - het tijdelijk afwijken bestemmingsplan voor de ZOOmeravonden",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-335515.html"
+   },
+   {
+    "id": "gmb-2022-303529",
+    "titel": "Vergunning geweigerd - Plantage Kerklaan 38, Amsterdam - Artis Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het tijdelijk gebruiken van de steiger achter het restaurant De Waterkant als terras in Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-05",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-303529.html"
+   },
+   {
+    "id": "gmb-2022-264027",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het tijdelijk afwijken van het bestemmingsplan t.b.v. ZOOmeravonden 2022 in ARTIS",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-264027.html"
+   },
+   {
+    "id": "gmb-2022-238971",
+    "titel": "Beslistermijn verlengd - Plantage Kerklaan 38, Amsterdam - Artis Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het wijzigen van de reeds verleende vergunning, zaak 9018785 voor het restaureren van het Aquarium",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-238971.html"
+   },
+   {
+    "id": "gmb-2022-201381",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het ingrijpend wijzigen en transformeren van het algazellenverblijf tot leeuwenverblijf, in de diere",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-201381.html"
+   },
+   {
+    "id": "gmb-2022-192330",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het strijdig gebruiken van de gronden van een deel van het Artisplein bij het Groote Museum",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-192330.html"
+   },
+   {
+    "id": "gmb-2022-166587",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38 - Amsterdam - het wijzigen van de reeds verleende vergunning voor het restaureren van het Aquarium",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-13",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-166587.html"
+   },
+   {
+    "id": "gmb-2022-127578",
+    "titel": "Vergunning Verleend - Plantage Kerklaan 38, Amsterdam - het kappen van 27 bomen en het verplanten van 9 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-127578.html"
+   },
+   {
+    "id": "gmb-2022-100471",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38 - Amsterdam - het tijdelijk gebruiken van de steiger achter het restaurant De Waterklant als terras in de dierentuin Artis",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-03-08",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-100471.html"
+   },
+   {
+    "id": "gmb-2022-76256",
+    "titel": "Aanvraag vergunning, Plantage Kerklaan 38, Amsterdam - het tijdelijke opstellen uitloop-terrassen met statafels",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-76256.html"
+   },
+   {
+    "id": "gmb-2022-71898",
+    "titel": "Aanvraag vergunning, Plantage Kerklaan 38, Amsterdam - het kappen van 28 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-02-18",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-71898.html"
+   },
+   {
+    "id": "gmb-2021-474623",
+    "titel": "Plantage Kerklaan 38, Amsterdam - kappen 1 boom en verplanten 3 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-474623.html"
+   },
+   {
+    "id": "gmb-2021-474669",
+    "titel": "Plantage Kerklaan 40, Amsterdam - kappen 1 boom",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-474669.html"
+   },
+   {
+    "id": "prb-2021-12368",
+    "titel": "Ontheffing verleend in het kader van de Wet natuurbescherming voor het vernielen, beschadigen of weg nemen van nesten en het rapen en onder zich hebben van eieren van de blauwe reiger aan de Plantage Kerklaan 38 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2021-12-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-12368.html"
+   },
+   {
+    "id": "gmb-2021-448011",
+    "titel": "Aanvraag vergunning, het algazellenverblijf, Plantage Kerklaan 38, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-448011.html"
+   },
+   {
+    "id": "gmb-2021-441103",
+    "titel": "Aanvraag vergunning, Plantage Kerklaan 40, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-441103.html"
+   },
+   {
+    "id": "gmb-2021-434904",
+    "titel": "Plantage Kerklaan 38, Amsterdam - tijdelijk oprichten klassieke draaimolen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-434904.html"
+   },
+   {
+    "id": "gmb-2021-406998",
+    "titel": "Plantage Kerklaan 40, Amsterdam - kappen 4 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-11-15",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-406998.html"
+   },
+   {
+    "id": "prb-2021-10823",
+    "titel": "Besluit in het kader van de Wet natuurbescherming Plantage Kerklaan 38-40 te Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2021-11-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-10823.html"
+   },
+   {
+    "id": "gmb-2021-382950",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-10-29",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-382950.html"
+   },
+   {
+    "id": "gmb-2021-332877",
+    "titel": "Plantage Kerklaan 40, Amsterdam - kappen 7 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-27",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-332877.html"
+   },
+   {
+    "id": "gmb-2021-318969",
+    "titel": "Plantage Kerklaan 38, Amsterdam - verplanten 3 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-16",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-318969.html"
+   },
+   {
+    "id": "gmb-2021-285159",
+    "titel": "Plantage Kerklaan 38, Amsterdam, verplanten van 3 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-23",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-285159.html"
+   },
+   {
+    "id": "gmb-2021-267660",
+    "titel": "Plantage Kerklaan 40, Amsterdam, kappen van 7 bomen",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-09",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-267660.html"
+   },
+   {
+    "id": "gmb-2021-218623",
+    "titel": "Plantage Kerklaan 38, Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-08",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-218623.html"
+   },
+   {
+    "id": "gmb-2021-154723",
+    "titel": "Plantage Kerklaan 38, Amsterdam - tijdelijk oprichten pop-up winkel",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-05-19",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-154723.html"
+   },
+   {
+    "id": "gmb-2021-132287",
+    "titel": "Plantage Kerklaan 38, Amsterdam, tijdelijk plaatsen 4 marktkramen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-28",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-132287.html"
+   },
+   {
+    "id": "gmb-2021-109935",
+    "titel": "Plantage Kerklaan 38, Amsterdam - interne, bouwkundige aanpassingen gebouw",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-09",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-109935.html"
+   },
+   {
+    "id": "gmb-2021-65198",
+    "titel": "Plantage Kerklaan 38, Amsterdam - tijdelijk plaatsen 4 marktkramen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-65198.html"
+   },
+   {
+    "id": "gmb-2021-59046",
+    "titel": "Plantage Kerklaan 38, Amsterdam - kappen 6 bomen en verplanten 5 bomen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-59046.html"
+   },
+   {
+    "id": "gmb-2021-32731",
+    "titel": "Wabo, reguliere procedure, vergunning verleend, Plantage Kerklaan 38, Amsterdam - tijdelijk oprichten klassieke draaimolen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-32731.html"
+   },
+   {
+    "id": "gmb-2021-33052",
+    "titel": "Plantage Kerklaan 38, Amsterdam - tijdelijk oprichten klassieke draaimolen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-02-03",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-33052.html"
+   },
+   {
+    "id": "gmb-2021-6181",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, kappen 7 bomen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-01-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-6181.html"
+   },
+   {
+    "id": "gmb-2020-330273",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, tijdelijk plaatsen klassieke draaimolen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-330273.html"
+   },
+   {
+    "id": "gmb-2020-323575",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, realiseren nieuwe trap",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-323575.html"
+   },
+   {
+    "id": "gmb-2020-309049",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, onderhoud en restauratie gevels en daken",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-309049.html"
+   },
+   {
+    "id": "gmb-2020-260881",
+    "titel": "Wabo, reguliere procedure, vergunning verleend, Plantage Kerklaan 38-40, Amsterdam, slopen buitenverblijf gibbons",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-10-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-260881.html"
+   },
+   {
+    "id": "gmb-2020-254753",
+    "titel": "Wabo, reguliere procedure, vergunning verleend,  Plantage Kerklaan 38-40, Amsterdam, realiseren verbindingsbrug",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-10-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-254753.html"
+   },
+   {
+    "id": "gmb-2020-221332",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, slopen gibbonverblijf",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-221332.html"
+   },
+   {
+    "id": "gmb-2020-220732",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, realiseren gibbonverblijf",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-220732.html"
+   },
+   {
+    "id": "gmb-2020-211914",
+    "titel": "Wabo, reguliere procedure, vergunning verleend, Plantage Kerklaan 38, Amsterdam, tijdelijk plaatsen marktkramen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-08-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-211914.html"
+   },
+   {
+    "id": "gmb-2020-198735",
+    "titel": "Wabo, reguliere procedure, aanvraag ontvangen, Plantage Kerklaan 38, Amsterdam, tijdelijk plaatsen marktkramen",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-08-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-198735.html"
+   },
+   {
+    "id": "gmb-2020-196800",
+    "titel": "Wabo, reguliere procedure, vergunning verleend, Plantage Kerklaan 38, Amsterdam, oprichten fietsen- en motorstalling",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-196800.html"
+   },
+   {
+    "id": "gmb-2020-192385",
+    "titel": "Wabo, reguliere procedure, vergunning verleend, Plantage Kerklaan 38, Amsterdam, vergroten eiland centrale vijver",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-192385.html"
+   },
+   {
+    "id": "wsb-2017-9512",
+    "titel": "Genomen Maatwerkbesluit voor het onttrekken van grondwater tijdens restauratiewerkzaamheden aan het ARTIS-Groote Museum ter hoogte van Plantage Kerklaan 38, 1018 CZ Amsterdam - AGV - W-17.02205",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-10-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2017-9512.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-498895",
+   "gmb-2026-495302",
+   "gmb-2026-451462",
+   "gmb-2026-449224",
+   "prb-2026-15193",
+   "gmb-2026-301506",
+   "gmb-2026-289584",
+   "gmb-2026-221034",
+   "gmb-2026-214995",
+   "gmb-2026-170667",
+   "gmb-2026-5209",
+   "gmb-2025-544593",
+   "gmb-2025-492487",
+   "gmb-2025-181048",
+   "gmb-2024-539846",
+   "gmb-2024-537902",
+   "prb-2024-17092",
+   "gmb-2024-440401",
+   "gmb-2024-226543",
+   "gmb-2024-227435",
+   "gmb-2024-194438",
+   "gmb-2024-23132",
+   "gmb-2024-23117",
+   "gmb-2023-567689",
+   "gmb-2023-497884",
+   "gmb-2023-444538",
+   "gmb-2023-363237",
+   "gmb-2023-274679",
+   "gmb-2023-140807",
+   "gmb-2023-104418",
+   "gmb-2023-20239",
+   "gmb-2022-478752",
+   "gmb-2022-264027",
+   "gmb-2022-166587",
+   "gmb-2022-100471",
+   "gmb-2021-448011",
+   "gmb-2021-382950",
+   "gmb-2020-323575",
+   "gmb-2020-220732"
+  ],
+  "zaaknummers": [
+   "13221075",
+   "13411103",
+   "13413806",
+   "13743852",
+   "OD2025-0033467",
+   "OD2025-0043682",
+   "OD2026-0015659",
+   "OD2026-0023736",
+   "OD2026-0029113",
+   "OD2026-0037904",
+   "OD2026-0039313",
+   "OD2026-0050620",
+   "OD2026-0059743",
+   "OD2026-0059922",
+   "OD2026-0066415",
+   "OMG-041300/DMS488975"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-221034",
+    "titel": "Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam - Stichting Artis Natura Magistra",
+    "soort": "andere beschikking",
+    "datum": "2026-05-11",
+    "onderwerp": "ARTIS Zoomeravonden 2026 (maatwerk geluid)",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-221034.html",
+    "zaak": "OD2026-0015659"
+   },
+   {
+    "id": "gmb-2025-243465",
+    "titel": "Maatwerkvoorschriften op grond van het omgevingsplan voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2025-06-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-243465.html",
+    "zaak": "13848751"
+   },
+   {
+    "id": "gmb-2024-301086",
+    "titel": "Maatwerkvoorschriften op grond van het omgevingsplan voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2024-07-10",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-301086.html",
+    "zaak": "12937457"
+   },
+   {
+    "id": "gmb-2022-387022",
+    "titel": "Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het tijdelijk afwijken van het bestemmingsplan t.b.v. het houden van de ZOOmeravonden 2022",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387022.html"
+   },
+   {
+    "id": "gmb-2022-335515",
+    "titel": "Beslistermijn verlengd - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - het tijdelijk afwijken bestemmingsplan voor de ZOOmeravonden",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-22",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-335515.html"
+   },
+   {
+    "id": "gmb-2022-264027",
+    "titel": "Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het tijdelijk afwijken van het bestemmingsplan t.b.v. ZOOmeravonden 2022 in ARTIS",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-13",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-264027.html"
+   },
+   {
+    "id": "stcrt-2013-2222",
+    "titel": "Kennisgeving Stadsdeel Centrum 1e wijziging bestemmingsplan Oostelijke Binnenstad, Amsterdam – Centrum",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-01-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-2222.html"
+   },
+   {
+    "id": "stcrt-2013-1673",
+    "titel": "Kennisgeving Stadsdeel Centrum 1e wijziging bestemmingsplan Oostelijke Binnenstad, Amsterdam – Centrum",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-01-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-1673.html"
+   },
+   {
+    "id": "stcrt-2012-14009",
+    "titel": "Ontwerpwijzigingsplan 1e wijziging bestemmingsplan Oostelijke Binnenstad (Plantage Kerklaan, Artis)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-07-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-14009.html"
+   },
+   {
+    "id": "stcrt-2012-12996",
+    "titel": "Ontwerpwijzigingsplan 1e wijziging bestemmingsplan Oostelijke Binnenstad (Plantage Kerklaan, Artis)",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-06-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-12996.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-254508",
+    "titel": "Aanvraag alcoholwetvergunning Plantage Kerklaan 38",
+    "soort": "andere vergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Plantage Kerklaan 38",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-254508.html"
+   },
+   {
+    "id": "gmb-2026-254364",
+    "titel": "Besluit alcoholwetvergunning Verleend - Plantage Kerklaan 38 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Plantage Kerklaan 38",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-254364.html"
+   },
+   {
+    "id": "gmb-2026-254457",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Plantage Kerklaan 38 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-01",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Plantage Kerklaan 38 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-254457.html"
+   },
+   {
+    "id": "gmb-2026-216534",
+    "titel": "Aanvraag evenementenvergunning Plantage Kerklaan 38 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Plantage Kerklaan 38 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-216534.html"
+   },
+   {
+    "id": "gmb-2026-216569",
+    "titel": "Aanvraag evenementenvergunning Plantage Kerklaan 38 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-07",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Plantage Kerklaan 38 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-216569.html"
+   },
+   {
+    "id": "gmb-2026-196259",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan ter hoogte van nummer: 38 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-24",
+    "onderwerp": "Object,Plantage Kerklaan 38 1018CZ, 20260611, Plantage Kerklaan ter hoogte van nummer: 38",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-196259.html"
+   },
+   {
+    "id": "gmb-2026-176118",
+    "titel": "Aanvraag evenementenvergunning Plantage Kerklaan 38 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2026-04-14",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Plantage Kerklaan 38 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-176118.html"
+   },
+   {
+    "id": "gmb-2026-163991",
+    "titel": "Melding graven bodem - Nabij Plantage Kerklaan 36 Amsterdam , 21 meter richting westen",
+    "soort": "omgevingsmelding",
+    "datum": "2026-04-08",
+    "onderwerp": "Melding 20260299 Plantage Kerklaan 38-40, Amsterdam (Artis)",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-163991.html"
+   },
+   {
+    "id": "gmb-2026-149607",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan ter hoogte van nummer: 36 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-31",
+    "onderwerp": "TVM parkeervak,Plantage Kerklaan 36 1018CZ, 20260414, Plantage Kerklaan ter hoogte van nummer: 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-149607.html"
+   },
+   {
+    "id": "gmb-2026-82908",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan ter hoogte van nummer: 38 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-02-24",
+    "onderwerp": "TVM parkeervak,Object,Filmen,Plantage Kerklaan 38 1018CZ, 20260303, Plantage Kerklaan ter hoogte van nummer: 38",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-82908.html"
+   },
+   {
+    "id": "gmb-2025-451764",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Plantage Kerklaan 36 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-10-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Plantage Kerklaan 36 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-451764.html"
+   },
+   {
+    "id": "gmb-2025-421354",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - Plantage Kerklaan 36 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-09-30",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Plantage Kerklaan 36 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-421354.html"
+   },
+   {
+    "id": "gmb-2025-94744",
+    "titel": "Melding graven bodem - Plantage Kerklaan 38-40, Amsterdam",
+    "soort": "omgevingsmelding",
+    "datum": "2025-03-06",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-94744.html"
+   },
+   {
+    "id": "gmb-2025-94737",
+    "titel": "Melding graven bodem - Plantage Kerklaan 38-40, Amsterdam",
+    "soort": "omgevingsmelding",
+    "datum": "2025-03-06",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-94737.html"
+   },
+   {
+    "id": "gmb-2024-550295",
+    "titel": "Melding graven bodem - Plantage Kerklaan 38-40, Amsterdam",
+    "soort": "omgevingsmelding",
+    "datum": "2024-12-31",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-550295.html"
+   },
+   {
+    "id": "gmb-2024-410092",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan 38",
+    "soort": "andere vergunning",
+    "datum": "2024-09-27",
+    "onderwerp": "Filmen, Plantage Kerklaan 38 1018CZ, 20241004, Plantage Kerklaan 38",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-410092.html"
+   },
+   {
+    "id": "gmb-2024-224591",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan 36",
+    "soort": "andere vergunning",
+    "datum": "2024-05-24",
+    "onderwerp": "Filmen, Plantage Kerklaan 36 1018CZ, 20240612, Plantage Kerklaan 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-224591.html"
+   },
+   {
+    "id": "gmb-2024-44376",
+    "titel": "BUS-melding Bodem - Plantage Kerklaan 38-40, Amsterdam",
+    "soort": "overige overheidsinformatie",
+    "datum": "2024-01-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-44376.html"
+   },
+   {
+    "id": "gmb-2023-522145",
+    "titel": "BUS-melding Bodem - Plantage Kerklaan 36 , Amsterdam",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-12-07",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-522145.html"
+   },
+   {
+    "id": "gmb-2023-361321",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken)Plantage Kerklaan 38 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-08-18",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres Plantage Kerklaan 38 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-361321.html"
+   },
+   {
+    "id": "gmb-2023-340590",
+    "titel": "Melding Activiteitenbesluit - Plantage Kerklaan 40, Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het realiseren van een horeca-uitgiftepunt met terras in het Duivenhuis",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-08-02",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-340590.html"
+   },
+   {
+    "id": "gmb-2023-315704",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan 36",
+    "soort": "andere vergunning",
+    "datum": "2023-07-18",
+    "onderwerp": "OBJ, Plantage Kerklaan 36, 25-07, Plantage Kerklaan 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-315704.html"
+   },
+   {
+    "id": "gmb-2023-218978",
+    "titel": "Maatwerkbesluit - Plantage Kerklaan 38-40, Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - maatwerk voor het geluid van de leeuwen vanuit het nieuwe leeuwenverblijf van ARTIS",
+    "soort": "andere vergunning",
+    "datum": "2023-05-26",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-218978.html"
+   },
+   {
+    "id": "gmb-2023-228259",
+    "titel": "Melding Activiteitenbesluit - Plantage Kerklaan 40, Amsterdam - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - de melding betreft het uitbreiden van het binnenverblijf van de westelijke laaglandgorilla's",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-05-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-228259.html"
+   },
+   {
+    "id": "gmb-2023-173387",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan 38",
+    "soort": "andere vergunning",
+    "datum": "2023-04-20",
+    "onderwerp": "OBJ Plantage Kerklaan 38 t/m 40 van 20-04-2023 tot 4-8-2023, Plantage Kerklaan 38",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-173387.html"
+   },
+   {
+    "id": "gmb-2023-146841",
+    "titel": "Verzoek om maatwerk - Plantage Kerklaan 38-40, Amsterdam - het verzoek om maatwerkvoorschrift voor een nieuw leeuwenverblijf in ARTIS",
+    "soort": "andere vergunning",
+    "datum": "2023-04-04",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-146841.html"
+   },
+   {
+    "id": "gmb-2023-68275",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Plantage Kerklaan 36 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-02-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Plantage Kerklaan 36 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-68275.html"
+   },
+   {
+    "id": "gmb-2023-63257",
+    "titel": "Besluit apv vergunning Verleend - Plantage Kerklaan 36",
+    "soort": "andere vergunning",
+    "datum": "2023-02-14",
+    "onderwerp": "OBV Plantage Kerklaan 36 , 20-02-2023, Plantage Kerklaan 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-63257.html"
+   },
+   {
+    "id": "gmb-2023-36432",
+    "titel": "Besluit apv vergunning Verleend Plantage Kerklaan 36",
+    "soort": "andere vergunning",
+    "datum": "2023-01-27",
+    "onderwerp": "OBJ, Plantage Kerklaan 36 tot 40, 01-02, Plantage Kerklaan 36",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-36432.html"
+   },
+   {
+    "id": "gmb-2022-546332",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Plantage Kerklaan 38 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-12-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Plantage Kerklaan 38 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-546332.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A0902BPSTD-OH01",
+   "naam": "Oostelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-07-04",
+   "opp_m2": 1199029,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "Documenten bij 1e deelbesluit Woo-verzoek CITES vergunningen en certificaten wolven",
+   "datum": "2025-06-23",
+   "door": "ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "url": "https://open.overheid.nl/documenten/3d42958c-5ce9-4478-800c-8a946155fb98",
+   "fragment": "Docnr1 EUROPEAN UNION 1 1. Exporterre-exporter PERMITCERTIFICATE No. - Stg. tot lnstandh. Diergaarde Natura Artis □ IMPORT 13NL21285912 Plantage Kerklaan 38  EXPORT 2. Last day of vaidity 1018 CZ AMSTERDAM THE NETHE RLANDS □ RE-EXPORT ... . Houder  Hoder CERTIFICAAT GERTIFIGATE Nr. No. 1 STG. TOT INSTANDH . DIERGAARDE NATURA ARTIS Niet bestemd voor gebruik buiten de Europese Unie 13NL21347620 - Pl"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 3,
+  "bekendmakingen": 19,
+  "plannen": 308,
+  "woo": 5
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-221034.pdf",
+   "bron": "bekendmaking gmb-2026-221034: Besluit vaststellen maatwerkvoorschriften voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam - Stichting Artis Natura Magistra",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-243465.pdf",
+   "bron": "bekendmaking gmb-2025-243465: Maatwerkvoorschriften op grond van het omgevingsplan voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-301086.pdf",
+   "bron": "bekendmaking gmb-2024-301086: Maatwerkvoorschriften op grond van het omgevingsplan voor het afwijken van de geldende geluidsbepalingen - Plantage Kerklaan 40, Amsterdam",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-387022.pdf",
+   "bron": "bekendmaking gmb-2022-387022: Vergunning verleend - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - Stichting tot Instandhouding van de Diergaarde van het Natura Artis Magistra - het tijdelijk afwijken van het bestemmingsplan t.b.v. het houden van de ZOOmeravonden 2022",
+   "fout": "niet te downloaden of te groot"
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-335515.pdf",
+   "bron": "bekendmaking gmb-2022-335515: Beslistermijn verlengd - Plantage Kerklaan 38-40, Amsterdam - B8 Centrum Artis - het tijdelijk afwijken bestemmingsplan voor de ZOOmeravonden",
+   "fout": "niet te downloaden of te groot"
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-264027.pdf",
+   "bron": "bekendmaking gmb-2022-264027: Aanvraag vergunning - Plantage Kerklaan 38, Amsterdam - B8 Centrum Artis - het tijdelijk afwijken van het bestemmingsplan t.b.v. ZOOmeravonden 2022 in ARTIS",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 582,
+ "pand_adressen": [
+  "Plantage Kerklaan 36",
+  "Plantage Kerklaan 38"
+ ]
+}

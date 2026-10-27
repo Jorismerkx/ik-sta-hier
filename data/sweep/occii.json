@@ -1,0 +1,313 @@
+{
+ "id": "occii",
+ "naam": "OCCII",
+ "adres": "Amstelveenseweg 134, 1075 XL Amsterdam",
+ "termen": [
+  "Amstelveenseweg 134",
+  "1075XL",
+  "1075 XL"
+ ],
+ "pand": "0363100012233440",
+ "status": null,
+ "huidig": {
+  "basis": "bag+fotos",
+  "confidence": "middel",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 8,
+  "openbaar": 8,
+  "laatste": "2007-01-01",
+  "dossiers": [
+   {
+    "dossier": "SW_59704",
+    "titel": "Amstelveenseweg 134",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 40,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_59704"
+   },
+   {
+    "dossier": "SW_17100",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_17100"
+   },
+   {
+    "dossier": "SW_27382",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1921-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27382"
+   },
+   {
+    "dossier": "SW_27377",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27377"
+   },
+   {
+    "dossier": "SW_27381",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1911-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27381"
+   },
+   {
+    "dossier": "SW_27379",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1910-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27379"
+   },
+   {
+    "dossier": "SW_27367",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1907-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27367"
+   },
+   {
+    "dossier": "SW_27363",
+    "titel": "Amstelveenseweg 134",
+    "datum": "1907-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27363"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 14,
+  "gezocht": [
+   "Amstelveenseweg 134"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-257454",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-13",
+    "onderwerp": "het uitvoeren van onderhoudswerkzaamheden aan het dak en het wijzigen van kozijnen en het isoleren van de gevels aan de binnenzijde  ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-257454.html",
+    "zaak": "Z2025-015708"
+   },
+   {
+    "id": "gmb-2025-183004",
+    "titel": "Aanvraag omgevingsvergunning Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-04-25",
+    "onderwerp": "realiseren van onderhoudswerkzaamheden aan het dak, en het wijzigen van kozijnen en isoleren van de gevels ten dienste van de bestemming ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-183004.html",
+    "zaak": "Z2025-015708"
+   },
+   {
+    "id": "gmb-2023-205146",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-10",
+    "onderwerp": "vernieuwen van het dak en vervangen lichtstraat",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-205146.html",
+    "zaak": "Z2023-Z000724"
+   },
+   {
+    "id": "gmb-2023-142238",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-03-31",
+    "onderwerp": "vernieuwen van het dak en vervangen lichtstraat",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-142238.html",
+    "zaak": "Z2023-Z000724"
+   },
+   {
+    "id": "gmb-2023-62094",
+    "titel": "Aanvraag omgevingsvergunning Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-02-13",
+    "onderwerp": "vernieuwen van het dak en vervangen lichtstraat",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-62094.html",
+    "zaak": "Z2023-Z000724"
+   },
+   {
+    "id": "gmb-2022-392129",
+    "titel": "Buiten behandeling stellen van aanvraag omgevingsvergunning Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-08-31",
+    "onderwerp": "veranderen en vernieuwen van het pand door middel van interne wijzigingen, toevoegen ramen, vernieuwen van de lichtstraten en het na-isoleren...",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-392129.html",
+    "zaak": "Z2022-Z003798"
+   },
+   {
+    "id": "gmb-2022-338210",
+    "titel": "Aanvraag omgevingsvergunning Amstelveenseweg 134 1075XL Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-25",
+    "onderwerp": "veranderen van de gevels, het vernieuwen van het achterste deel van het dak en het intern wijzigen van de indeling met behoud van de bestemming...",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-338210.html",
+    "zaak": "Z2022-Z003798"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-257454",
+   "gmb-2025-183004",
+   "gmb-2023-205146",
+   "gmb-2023-62094",
+   "gmb-2022-392129",
+   "gmb-2022-338210"
+  ],
+  "zaaknummers": [
+   "Z2022-Z003798",
+   "Z2023-Z000724",
+   "Z2025-015708"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2025-350527",
+    "titel": "Besluit apv vergunning Verleend - Amstelveenseweg ter hoogte van nummer: 134 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-08-11",
+    "onderwerp": "Object,Amstelveenseweg 134 1075XL, 20250812, Amstelveenseweg ter hoogte van nummer: 134",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-350527.html"
+   },
+   {
+    "id": "gmb-2024-149019",
+    "titel": "Besluit apv vergunning Verleend - Amstelveenseweg 134",
+    "soort": "andere vergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "TVM parkeervak, Amstelveenseweg 134 1075XL, 20240522, Amstelveenseweg 134",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-149019.html"
+   },
+   {
+    "id": "gmb-2021-341526",
+    "titel": "Besluit apv vergunning Verleend Amstelveenseweg 134",
+    "soort": "andere vergunning",
+    "datum": "2021-10-04",
+    "onderwerp": "Objecten, schilderen, Amstelveenseweg 134 op 7-10, Amstelveenseweg 134",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-341526.html"
+   },
+   {
+    "id": "gmb-2021-306167",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Amstelveenseweg 134",
+    "soort": "exploitatievergunning",
+    "datum": "2021-09-07",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Amstelveenseweg 134",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-306167.html"
+   },
+   {
+    "id": "gmb-2021-266948",
+    "titel": "Besluit apv vergunning Verleend Amstelveenseweg 134",
+    "soort": "andere vergunning",
+    "datum": "2021-08-09",
+    "onderwerp": "Objecten, schilderen, Amstelveenseweg 134 op 30-8, Amstelveenseweg 134",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-266948.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.K1907BPSTD-VG01",
+   "naam": "Hoofddorpplein- en Schinkelbuurt 2022",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-11-09",
+   "opp_m2": 712717,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 2,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 97,
+ "pand_adressen": [
+  "Amstelveenseweg 134"
+ ]
+}

@@ -1,0 +1,922 @@
+{
+ "id": "oosterbar",
+ "naam": "Oosterbar",
+ "adres": "Mauritskade 57, 1092 AD Amsterdam",
+ "termen": [
+  "Mauritskade 57",
+  "1092AD",
+  "1092 AD",
+  "Oosterbar"
+ ],
+ "pand": "0363100012235952",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 13,
+  "openbaar": 9,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SU_32828",
+    "titel": "Mauritskade 57 idnv",
+    "datum": "2009-01-01",
+    "soort": "kunstwerk",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_32828"
+   },
+   {
+    "dossier": "SU_34359",
+    "titel": "Mauritskade 57 c",
+    "datum": "1988-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_34359"
+   },
+   {
+    "dossier": "SU_01397",
+    "titel": "Mauritskade 57 c",
+    "datum": "1988-01-01",
+    "soort": "bijgebouw",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01397"
+   },
+   {
+    "dossier": "SU_01394",
+    "titel": "Mauritskade 57; Mauritskade 57 a; Mauritskade 57 b",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 71,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01394"
+   },
+   {
+    "dossier": "SU_01395",
+    "titel": "Mauritskade 57",
+    "datum": "1962-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 13,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01395"
+   },
+   {
+    "dossier": "SU_01398",
+    "titel": "Mauritskade 57",
+    "datum": "1958-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01398"
+   },
+   {
+    "dossier": "SU_01396",
+    "titel": "Mauritskade 57",
+    "datum": "1948-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01396"
+   },
+   {
+    "dossier": "SU_01401",
+    "titel": "Mauritskade 57",
+    "datum": "1916-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 43,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01401"
+   },
+   {
+    "dossier": "SU_01404",
+    "titel": "Mauritskade 57",
+    "datum": "1915-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 77,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01404"
+   },
+   {
+    "dossier": "SU_01403",
+    "titel": "Mauritskade 57",
+    "datum": "1915-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 106,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01403"
+   },
+   {
+    "dossier": "SU_01400",
+    "titel": "Mauritskade 57",
+    "datum": "1914-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01400"
+   },
+   {
+    "dossier": "SU_01399",
+    "titel": "Mauritskade 57",
+    "datum": "1914-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 27,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01399"
+   },
+   {
+    "dossier": "SU_01402",
+    "titel": "Mauritskade 57",
+    "datum": "1914-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SU_01402"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 64,
+  "gezocht": [
+   "Mauritskade 57"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-452471",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Ertskade 149 1019ED Amsterdam, Insulindeweg 999 1095DH Amsterdam, Linnaeusstraat 111 1093EN Amsterdam, Mauritskade 57 1092AD Amsterdam, Oetewalerpad 1 1093JV Amsterdam, Reitzstraat 1A 1091VZ Amsterdam, Zeeburgerpad 182 1019DZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "kandelaberen van 7 bomen in de openbare ruimte met veiligheidsrisico's op verspreide locaties binnen stadsdeel Oost",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-452471.html",
+    "zaak": "Z2026-035632"
+   },
+   {
+    "id": "gmb-2026-451822",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand nabij locatie: Ertskade 149 1019ED Amsterdam, Insulindeweg 999 1095DH Amsterdam, Linnaeusstraat 111 1093EN Amsterdam, Mauritskade 57 1092AD Amsterdam, Oetewalerpad 1 1093JV Amsterdam, Reitzstraat 1A 1091VZ Amsterdam, Zeeburgerpad 182 1019DZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "kandelaberen van 7 bomen in de openbare ruimte met veiligheidsrisico's op verspreide locaties binnen stadsdeel Oost",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-451822.html",
+    "zaak": "Z2026-035632"
+   },
+   {
+    "id": "gmb-2026-412386",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (snoei) nabij de volgende adressen Ertskade 149 1019ED Amsterdam, Insulindeweg 999 1095DH Amsterdam, Linnaeusstraat 111 1093EN Amsterdam, Mauritskade 57 1092AD Amsterdam, Oetewalerpad 1 1093JV Amsterdam, Reitzstraat 1A 1091VZ Amsterdam, Zeeburgerpad 182 1019DZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-02",
+    "onderwerp": "snoeien van 7 bomen in de openbare ruimte met veiligheidsrisico's op verspreide locaties binnen stadsdeel Oost",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-412386.html",
+    "zaak": "Z2026-035632"
+   },
+   {
+    "id": "gmb-2026-385224",
+    "titel": "Omgevingsvergunning - Beschikking Verleend, hoek Mauritskade-Nieuwe Schoolstraat ter hoogte van Mauritskade 57",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-08-13",
+    "onderwerp": "het veranderen van de kiosk hoek Mauritskade-Nieuwe Schoolstraat ter hoogte van Mauritskade 57 door het vervangen van de koelcel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-385224.html",
+    "zaak": "VTH2026-66359"
+   },
+   {
+    "id": "gmb-2026-258743",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-02",
+    "onderwerp": "realiseren van een openbaar toiletgebouw in het Oosterpark nabij de locatie Mauritskade 57",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-258743.html",
+    "zaak": "Z2025-030423"
+   },
+   {
+    "id": "gmb-2026-72341",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-02-17",
+    "onderwerp": "kandelaberen van één monumentale boom in openbaar gebied",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-72341.html",
+    "zaak": "Z2026-000387"
+   },
+   {
+    "id": "gmb-2026-31160",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-23",
+    "onderwerp": "kappen van één boom in openbaar gebied",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-31160.html",
+    "zaak": "Z2026-000387"
+   },
+   {
+    "id": "gmb-2025-290546",
+    "titel": "Omgevingsvergunning - Beschikking geweigerd, hoek Mauritskade-Nieuwe Schoolstraat ter hoogte van Mauritskade 57",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-03",
+    "onderwerp": "het veranderen van de kiosk hoek Mauritskade-Nieuwe Schoolstraat ter hoogte van Mauritskade 57 door het vervangen van de koelcel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-290546.html",
+    "zaak": "VTH2024-03008"
+   },
+   {
+    "id": "gmb-2025-73658",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend H.J.M. Walenkampstraat 95 1019EA Amsterdam, Linnaeusstraat 2A 1092CK Amsterdam, Linnaeusstraat 2B 1092CK Amsterdam, Linnaeusstraat 2C 1092CK Amsterdam, Linnaeusstraat 2D 1092CK Amsterdam, Mauritskade 57 1092AD Amsterdam, Schokkerjachtdijk 5 1086VK Amsterdam, 's-Gravesandeplein 120 1091BC Amsterdam, Zuiderzeeweg 26A 1095KJ Amsterdam, Zuiderzeeweg 26B Amsterdam, Zuiderzeeweg 27 1095KZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-21",
+    "onderwerp": "kappen van 8 bomen in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-73658.html",
+    "zaak": "Z2024-042383"
+   },
+   {
+    "id": "gmb-2025-16577",
+    "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) H.J.M. Walenkampstraat 95 1019EA Amsterdam, Linnaeusstraat 2A 1092CK Amsterdam, Linnaeusstraat 2B 1092CK Amsterdam, Linnaeusstraat 2C 1092CK Amsterdam, Linnaeusstraat 2D 1092CK Amsterdam, Mauritskade 57 1092AD Amsterdam, Ouderkerkerdijk 230 1096CR Amsterdam, Schokkerjachtdijk 5 1086VK Amsterdam, 's-Gravesandeplein 120 1091BC Amsterdam, Zuiderzeeweg 26A 1095KJ Amsterdam, Zuiderzeeweg 26B Amsterdam, Zuiderzeeweg 27 1095KZ Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-01-15",
+    "onderwerp": "kappen van 9 bomen in de openbare ruimte",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-16577.html",
+    "zaak": "Z2024-042383"
+   },
+   {
+    "id": "gmb-2024-249179",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-07",
+    "onderwerp": "een zomerterras aan de voorzijde van het Generator Hotel ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-249179.html",
+    "zaak": "Z2024-008978"
+   },
+   {
+    "id": "gmb-2024-206102",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-10",
+    "onderwerp": "een zomerterras vergunning aan de voorzijde van het Generator Hotel ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-206102.html",
+    "zaak": "Z2024-008978"
+   },
+   {
+    "id": "gmb-2024-112850",
+    "titel": "Omgevingsvergunning - Aangevraagd, hoek Mauritskade-Nieuwe Schoolstraat ter hoogte van Mauritskade 57",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-13",
+    "onderwerp": "het veranderen van de kiosk door het vervangen van de koelcel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-112850.html",
+    "zaak": "VTH2024-03008"
+   },
+   {
+    "id": "gmb-2024-35151",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-22",
+    "onderwerp": "aanbrengen van twee raamroosters aan de zuidgevel van het souterrain van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-35151.html"
+   },
+   {
+    "id": "gmb-2023-550949",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure (rectificatie) Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-21",
+    "onderwerp": "het plaatsen van een openbare toiletvoorziening in het Oosterpark",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-550949.html",
+    "zaak": "Z2023-O002100"
+   },
+   {
+    "id": "gmb-2023-537833",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-15",
+    "onderwerp": "het plaatsen van een openbare toiletvoorziening in het Oosterpark",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-537833.html",
+    "zaak": "Z2023-O002100"
+   },
+   {
+    "id": "gmb-2023-513872",
+    "titel": "Aanvraag omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-01",
+    "onderwerp": "aanbrengen van twee raamroosters aan de zuidgevel van het souterrain van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-513872.html",
+    "zaak": "Z2023-O005447"
+   },
+   {
+    "id": "gmb-2023-448037",
+    "titel": "Ontwerpbesluit omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-19",
+    "onderwerp": "het plaatsen van een openbare toiletvoorziening in het Oosterpark",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-448037.html",
+    "zaak": "Z2023-O002100"
+   },
+   {
+    "id": "gmb-2023-437542",
+    "titel": "Besluit omgevingsvergunning uitgebreide procedure Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-13",
+    "onderwerp": "het wijzigen van de kelderindeling",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-437542.html",
+    "zaak": "Z2023-O002709"
+   },
+   {
+    "id": "gmb-2023-345513",
+    "titel": "Ontwerpbesluit omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "het wijzigen van de kelderindeling",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-345513.html",
+    "zaak": "Z2023-O002709"
+   },
+   {
+    "id": "gmb-2023-271384",
+    "titel": "Aanvraag omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-21",
+    "onderwerp": "het wijzigen van de kelderindeling",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-271384.html",
+    "zaak": "Z2023-O002709"
+   },
+   {
+    "id": "gmb-2023-208312",
+    "titel": "Aanvraag omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-11",
+    "onderwerp": "het plaatsen van een openbare toiletvoorziening in het Oosterpark",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-208312.html",
+    "zaak": "Z2023-O002100"
+   },
+   {
+    "id": "gmb-2021-323817",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Mauritskade 57 1092AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-21",
+    "onderwerp": "gebruiken van de gronden voor het gebouw voor een terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-323817.html",
+    "zaak": "Z2021-O003047"
+   },
+   {
+    "id": "gmb-2021-263374",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-08-05",
+    "onderwerp": "gebruiken van de gronden voor het gebouw voor een terras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-263374.html",
+    "zaak": "Z2021-O003047"
+   },
+   {
+    "id": "gmb-2021-240422",
+    "titel": "Omgevingsvergunning - Beschikking verleend regulier, Mauritskade 57 te Den Haag",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-21",
+    "onderwerp": "Het wijzigen van de vergunning met kenmerk 201825277 door het wijzigen van de woningen aan de Mauritskade 57, door het veranderen van de gevel, het intern verbouwen, het bouwen van een garage met uitrit en het plaatsen van een erfafscheiding",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-240422.html",
+    "zaak": "202101358/8003779"
+   },
+   {
+    "id": "gmb-2021-199943",
+    "titel": "Aanvraag omgevingsvergunning Mauritskade 57 1092AD Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-24",
+    "onderwerp": "gebruiken van de gronden voor het gebouw voor een terras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-199943.html"
+   },
+   {
+    "id": "gmb-2021-119270",
+    "titel": "Omgevingsvergunning - Verlengen behandeltermijn regulier, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-04-16",
+    "onderwerp": "Het wijzigen van de vergunningmet kenmerk 201825277 door het wijzigen van de woningen aan de Mauritskade 57, door het veranderen van de gevel, het intern verbouwen, het bouwen van een g.... Deze bekendmaking bevat de activiteit(en): uitweg, beschermd monument, ontheffing kruimel, bouwen.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-119270.html",
+    "zaak": "202101358/7908107"
+   },
+   {
+    "id": "gmb-2021-25980",
+    "titel": "Omgevingsvergunning - Aangevraagd, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-01-28",
+    "onderwerp": "Het veranderen van het pand Mauritskade 57 tot 4 woningen, het bouwen van een garage met uitrit en het plaatsen van een erfafscheiding",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-25980.html",
+    "zaak": "202101358/7837192"
+   },
+   {
+    "id": "gmb-2020-334682",
+    "titel": "Omgevingsvergunning - Beschikking aanvraag buiten behandeling gesteld, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-12-17",
+    "onderwerp": "Het veranderen van het kantoor Mauritskade 57 tot vier woningen en het plaatsen van een garage met uitweg en een erfafscheiding. Deze bekendmaking bevat de activiteit(en): uitweg, ontheffing kruimel, beschermd monument, bouwen.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-334682.html",
+    "zaak": "202016347/7804908"
+   },
+   {
+    "id": "gmb-2020-252099",
+    "titel": "Omgevingsvergunning - Aangevraagd, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-10-01",
+    "onderwerp": "Het bouwen van een garage in de achtertuin van het pand Mauritskade 57, het plaatsen van de erfafscheiding en het realiseren van een in- of uitrit aan de zijkant",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-252099.html",
+    "zaak": "202016347/7734651"
+   },
+   {
+    "id": "gmb-2020-193141",
+    "titel": "Apv vergunning - Besluiten, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-28",
+    "onderwerp": "Het graven, invoeren en afmonteren van vier nieuwe C9 vanuit EV naar aansluitadres ter hoogte van de Mautritskade 57 in Den Haag. De aanvraag is ingediend voor de periode van 21 juli 2020 tot en met 30 september 2020.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-193141.html",
+    "zaak": "01034IBA20/7681651"
+   },
+   {
+    "id": "gmb-2020-56233",
+    "titel": "Omgevingsvergunning - Aangevraagd beginseluitspraak, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-03-03",
+    "onderwerp": "Het veranderen van het pand Mauritskade 57 tot 4 appartementen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-56233.html",
+    "zaak": "202003656/7532172"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   },
+   {
+    "id": "gmb-2019-80078",
+    "titel": "Omgevingsvergunning - Beschikking verleend regulier, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-04-04",
+    "onderwerp": "Het veranderen van het kantoorgebouw Mauritskade 57 tot 4 appartementen. Deze bekendmaking bevat de activiteit(en): beschermd monument, bouwen, binnenplanse ontheffing.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-80078.html",
+    "zaak": "201825277/7144220"
+   },
+   {
+    "id": "gmb-2019-62308",
+    "titel": "Omgevingsvergunning - Verlengen behandeltermijn regulier, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-03-15",
+    "onderwerp": "Het veranderen van het kantoorgebouw Mauritskade 57 tot 4 appartementen. Deze bekendmaking bevat de activiteit(en): beschermd monument, bouwen, binnenplanse ontheffing.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-62308.html",
+    "zaak": "201825277/7119357"
+   },
+   {
+    "id": "gmb-2019-5392",
+    "titel": "Omgevingsvergunning - Aangevraagd, Mauritskade 57 te Den Haag",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-01-09",
+    "onderwerp": "Het veranderen van het pand Mauritskade 57 tot 4 appartementen",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-5392.html",
+    "zaak": "201825277/7033607"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-452471",
+   "gmb-2026-451822",
+   "gmb-2026-412386",
+   "gmb-2026-258743",
+   "gmb-2026-72341",
+   "gmb-2026-31160",
+   "gmb-2025-73658",
+   "gmb-2025-16577",
+   "gmb-2024-249179",
+   "gmb-2024-206102",
+   "gmb-2024-35151",
+   "gmb-2023-550949",
+   "gmb-2023-537833",
+   "gmb-2023-513872",
+   "gmb-2023-448037",
+   "gmb-2023-437542",
+   "gmb-2023-345513",
+   "gmb-2023-271384",
+   "gmb-2023-208312",
+   "gmb-2021-323817",
+   "gmb-2021-199943",
+   "gmb-2020-334682"
+  ],
+  "zaaknummers": [
+   "202016347/7804908",
+   "Z2021-O003047",
+   "Z2023-O002100",
+   "Z2023-O002709",
+   "Z2023-O005447",
+   "Z2024-008978",
+   "Z2024-042383",
+   "Z2025-030423",
+   "Z2026-000387",
+   "Z2026-035632"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-342432",
+    "titel": "Besluit evenementenvergunning Verleend ter hoogte van Mauritskade 57 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-17",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-342432.html"
+   },
+   {
+    "id": "gmb-2026-326764",
+    "titel": "Aanvraag evenementenvergunning Mauritskade 57 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-326764.html"
+   },
+   {
+    "id": "gmb-2025-562857",
+    "titel": "Aanvraag evenementenvergunning Mauritskade 57 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2025-12-23",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-562857.html"
+   },
+   {
+    "id": "gmb-2025-384865",
+    "titel": "Besluit apv vergunning Verleend - Mauritskade ter hoogte van nummer: 57 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-09-05",
+    "onderwerp": "Filmen,Mauritskade 57 1092AD, 20250915, Mauritskade ter hoogte van nummer: 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-384865.html"
+   },
+   {
+    "id": "gmb-2025-327882",
+    "titel": "Besluit apv vergunning Verleend - Mauritskade ter hoogte van nummer: 57 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-25",
+    "onderwerp": "Object,Mauritskade 57 1092AD, 20251008, Mauritskade ter hoogte van nummer: 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-327882.html"
+   },
+   {
+    "id": "gmb-2025-44449",
+    "titel": "Besluit apv vergunning Verleend - Mauritskade ter hoogte van nummer: 57 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-02-04",
+    "onderwerp": "Filmen, Mauritskade 57 1092AD, 4-2-2025, Mauritskade ter hoogte van nummer: 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-44449.html"
+   },
+   {
+    "id": "gmb-2024-350012",
+    "titel": "Besluit alcoholwetvergunning Verleend",
+    "soort": "andere vergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Verleend: alcoholwetvergunning voor bedrijf Generator Hostel - Mauritskade 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-350012.html"
+   },
+   {
+    "id": "gmb-2024-347768",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Mauritskade 57 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-347768.html"
+   },
+   {
+    "id": "gmb-2024-347762",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - Mauritskade 57 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-347762.html"
+   },
+   {
+    "id": "gmb-2024-347757",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - Mauritskade 57 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-09",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-347757.html"
+   },
+   {
+    "id": "gmb-2024-343287",
+    "titel": "Aanvraag alcoholwetvergunning Mauritskade 57 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-08-06",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Mauritskade 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-343287.html"
+   },
+   {
+    "id": "gmb-2024-330303",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Mauritskade 57 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-330303.html"
+   },
+   {
+    "id": "gmb-2024-316015",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - Mauritskade 57 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-316015.html"
+   },
+   {
+    "id": "gmb-2024-316028",
+    "titel": "Aanvraag () exploitatievergunning horecabedrijf - Mauritskade 57 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-19",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-316028.html"
+   },
+   {
+    "id": "gmb-2024-186503",
+    "titel": "Melding toepassen grond en baggerspecie - Mauritskade 57, Amsterdam",
+    "soort": "omgevingsmelding",
+    "datum": "2024-04-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-186503.html"
+   },
+   {
+    "id": "gmb-2024-186466",
+    "titel": "Melding toepassen grond en baggerspecie - Mauritskade 57, Amsterdam",
+    "soort": "omgevingsmelding",
+    "datum": "2024-04-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-186466.html"
+   },
+   {
+    "id": "gmb-2024-11006",
+    "titel": "Aanvraag evenementenvergunning Mauritskade 57 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2024-01-05",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Mauritskade 57 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-11006.html"
+   },
+   {
+    "id": "wsb-2023-13456",
+    "titel": "Hoogheemraadschap van Delfland – Watervergunning –  Mauritskade te Den Haag",
+    "soort": "andere vergunning",
+    "datum": "2023-11-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2023-13456.html"
+   },
+   {
+    "id": "wsb-2023-12254",
+    "titel": "Hoogheemraadschap van Delfland – aanvraag Watervergunning - Mauritskade Den Haag",
+    "soort": "andere vergunning",
+    "datum": "2023-10-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2023-12254.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2022-120172",
+    "titel": "Besluit evenementenvergunning Verleend Mauritskade 57",
+    "soort": "evenementenvergunning",
+    "datum": "2022-03-18",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Mauritskade 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-120172.html"
+   },
+   {
+    "id": "gmb-2022-91021",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Mauritskade 57",
+    "soort": "exploitatievergunning",
+    "datum": "2022-03-01",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Mauritskade 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-91021.html"
+   },
+   {
+    "id": "gmb-2022-64015",
+    "titel": "Aanvraag evenementenvergunning Mauritskade 57",
+    "soort": "evenementenvergunning",
+    "datum": "2022-02-15",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Mauritskade 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-64015.html"
+   },
+   {
+    "id": "gmb-2021-380461",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Mauritskade 57",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Mauritskade 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380461.html"
+   },
+   {
+    "id": "gmb-2018-215585",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2018",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2018-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-215585.html"
+   },
+   {
+    "id": "gmb-2017-177173",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2017",
+    "soort": "Overige besluiten van algemene strekking",
+    "datum": "2017-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177173.html"
+   },
+   {
+    "id": "gmb-2016-139617",
+    "titel": "Lijst van horecabedrijven behorende bij de ontheffing openingstijden voor het Amsterdam Dance Event 2016",
+    "soort": "Overige overheidsinformatie",
+    "datum": "2016-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-139617.html"
+   },
+   {
+    "id": "stcrt-2011-21458",
+    "titel": "Besluit van de Minister van Volksgezondheid, Welzijn en Sport van 21 november 2011, nr. Farmatec-BMC/JZ 11744, registernummer 5384 WIBV13, houdende aanwijzing van een rechtspersoon waaraan tussenproducten mogen worden afgeleverd",
+    "soort": "Besluiten van algemene strekking",
+    "datum": "2011-11-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2011-21458.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.U0901BPSTD-OH01",
+   "naam": "Oosterparkbuurt",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-02-27",
+   "opp_m2": 723816,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.U0901BPSTD-VG02",
+   "naam": "Oosterparkbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-04-03",
+   "opp_m2": 723816,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [
+  {
+   "titel": "10_10-40_2e_dww_deel_1_",
+   "datum": "2024-03-07",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/158031/10_10-40_2e_dww_deel_1_.pdf",
+   "fragment": "Zeist Vogeltrekstation Postbus 40 6666 ZG Heteren Werkgroep Amfibieën en Reptielen Nederland WARN Mauritskade 57 Postbus 4766 1009 AT Amsterdam 141 Literatuur Algemeen Bouwman B. e.a. 1988. Planten langs weg en water. Stichting ... . van den 1978. Zoogdierengids. Elsevier Amsterdam  Brussel. Broekhuizen S. e.a. red. 1992. Atlas van de Nederlandse Zoogdieren. Uitgeverij KNNV Utrecht. Lange R. R Twi"
+  },
+  {
+   "titel": "169280",
+   "datum": "2024-03-05",
+   "door": "Rijkswaterstaat",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/42039/169280.pdf",
+   "fragment": "-VOEGOVERGANGrEN. 1. ARNOLD MAASSEN van Hasseitkade 10 Maastricht. 2. BOLIDT Postbus 55 Alblasserdam. 3. IMBEMA  Mauritskade 5-7 Haarlem. Postbus 160. 4. ROS EVA Scheepmakersstraat Industrie t e r r e i n   t Keen34 Postbus 100 ... construction. 6 rue de Pareelens. AsniereasurSeine F r a n k r i j k . v i a dhr. D.D. Brown D.S. Brown co. North Baltimore Ohio u. S • A • v i a Merrem amp La Porte Am"
+  }
+ ],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 7,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/158031/10_10-40_2e_dww_deel_1_.pdf",
+   "bron": "woo: 10_10-40_2e_dww_deel_1_",
+   "noemingen": 1,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/42039/169280.pdf",
+   "bron": "woo: 169280",
+   "noemingen": 1,
+   "kandidaten": 1,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [
+  {
+   "bron": "woo: 10_10-40_2e_dww_deel_1_",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\191bf29c19945f6a.pdf",
+   "pagina": 57,
+   "paginas": 70,
+   "score": 6.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 1.0,
+   "woorden": [],
+   "tekst": "Adressen Ministerie van Landbouw, Natuurbeheer en Visserij, Dienst Landbouwkundig Onderzoek, Instituut voor Bos- en Natuuronderzoek (IBN-dIo) Postbus 23 6700 AA Wageningen Ministerie van Landbouw, Natuurbeheer en Visserij, Directie Natuur, Bos, Landschap en Fauna, Informatie- en Kenniscentrum (NBLF-",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/158031/10_10-40_2e_dww_deel_1_.pdf",
+   "png": "data/sources/oosterbar/sweep/191bf29c19945f6a-p57.png"
+  },
+  {
+   "bron": "woo: 169280",
+   "pdf": "C:\\Users\\JorisMerkx\\OneDrive - Agyle\\Documenten\\Hassan RSA\\ik-sta-hier\\data\\sources\\_sweep_cache\\260dfcd80c251730.pdf",
+   "pagina": 72,
+   "paginas": 92,
+   "score": 6.0,
+   "tekening": true,
+   "vectoren": 0,
+   "beelddekking": 1.0,
+   "woorden": [],
+   "tekst": "LEVERANCIERS VAN KUNSTSTOP-VOEGOVERGANGrEN. 1. ARNOLD MAASSEN, van Hasseitkade 10, Maastricht. 2. BOLIDT, Postbus 55, Alblasserdam. 3. I M B E M A , Mauritskade 5-7, Haarlem. Postbus 160. 4. ROS EVA, Scheepmakersstraat, Industrie t e r r e i n * * t Keen\", Postbus 100, Katwijk. 5. VREDESTEIN, Loosdu",
+   "url": "https://open.rijkswaterstaat.nl/publish/pages/42039/169280.pdf",
+   "png": "data/sources/oosterbar/sweep/260dfcd80c251730-p72.png"
+  }
+ ],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 15,
+ "pand_adressen": [
+  "Mauritskade 57"
+ ]
+}

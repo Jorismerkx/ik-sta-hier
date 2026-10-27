@@ -1,0 +1,669 @@
+{
+ "id": "lab111",
+ "naam": "LAB111",
+ "adres": "Arie Biemondstraat 111, 1054 PD Amsterdam",
+ "termen": [
+  "Arie Biemondstraat 111",
+  "1054PD",
+  "1054 PD",
+  "LAB111"
+ ],
+ "pand": "0363100012237077",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 3
+ },
+ "bouwdossiers": {
+  "n": 9,
+  "openbaar": 1,
+  "laatste": "2010-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_45653",
+    "titel": "Arie Biemondstraat 111",
+    "datum": "2010-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_45653"
+   },
+   {
+    "dossier": "SJ_45867",
+    "titel": "Arie Biemondstraat 111",
+    "datum": "2010-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_45867"
+   },
+   {
+    "dossier": "SJ_69489",
+    "titel": "Arie Biemondstraat 101 - 111",
+    "datum": "2007-12-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_69489"
+   },
+   {
+    "dossier": "SJ_61373",
+    "titel": "Arie Biemondstraat 110 - 111",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 66,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_61373"
+   },
+   {
+    "dossier": "SJ_61383",
+    "titel": "Arie Biemondstraat 101 - 111",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_61383"
+   },
+   {
+    "dossier": "SJ_69477",
+    "titel": "Arie Biemondstraat 101 - 111",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 120,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_69477"
+   },
+   {
+    "dossier": "SJ_55663",
+    "titel": "Arie Biemondstraat 101 - 111",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 32,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_55663"
+   },
+   {
+    "dossier": "SJ_57265",
+    "titel": "Arie Biemondstraat 109 a - 109 c; Arie Biemondstraat 113",
+    "datum": "2003-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_57265"
+   },
+   {
+    "dossier": "SJ_49378",
+    "titel": "Arie Biemondstraat 101 - 103; Arie Biemondstraat 105 a - 105 b; Arie Biemondstraat 107 a - 107 c; Arie Biemondstraat 109 a - 109 b; Arie Biemondstraat 111; Nicolaas Beetsstraat 325",
+    "datum": "1985-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_49378"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 44,
+  "gezocht": [
+   "Arie Biemondstraat 111",
+   "Arie Biemondstraat 105A",
+   "Arie Biemondstraat 105B",
+   "Arie Biemondstraat 107A",
+   "Arie Biemondstraat 107B",
+   "Arie Biemondstraat 107C",
+   "Arie Biemondstraat 109A",
+   "Arie Biemondstraat 109B",
+   "Arie Biemondstraat 109C",
+   "Nicolaas Beetsstraat 305"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2025-502409",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-19",
+    "onderwerp": "realiseren van een hellingbaan naar souterrain, plaatsen lift, verbeteren geluids- en thermische isolatie, vergroten van de vloer en muurdoorbraak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-502409.html",
+    "zaak": "Z2025-026458"
+   },
+   {
+    "id": "gmb-2025-307651",
+    "titel": "Aanvraag omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-14",
+    "onderwerp": "realiseren van een hellingbaan naar souterrain, plaatsen lift, verbeteren geluids- en thermische isolatie, vergroten van de vloer en muurdoorbraak",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-307651.html",
+    "zaak": "Z2025-026458"
+   },
+   {
+    "id": "gmb-2024-455526",
+    "titel": "RECTIFICATIE: Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Arie Biemondstraat 111 1054PD Amsterdam, Arie Biemondstraat 103 1054PD Amsterdam, Jeltje de Bosch Kemperpad 155 1054PJ Amsterdam, Tweede Constantijn Huygensstraat 30D 1054CT Amsterdam, WG-plein 86 1054RC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-29",
+    "onderwerp": "(KAP) - Kappen van 14 bomen Energiesysteem KetelhuisWG",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-455526.html",
+    "zaak": "Z2024-020335"
+   },
+   {
+    "id": "gmb-2024-447505",
+    "titel": "Besluit omgevingsvergunning reguliere procedure  Arie Biemondstraat 111 1054PD Amsterdam, Arie Biemondstraat 103 1054PD Amsterdam, Jeltje de Bosch Kemperpad 155 1054PJ Amsterdam, Tweede Constantijn Huygensstraat 30D 1054CT Amsterdam, WG-plein 86 1054RC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-23",
+    "onderwerp": "(KAP) - Kappen van 14 bomen Energiesysteem KetelhuisWG",
+    "activiteit": "kappen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-447505.html",
+    "zaak": "Z2024-020335"
+   },
+   {
+    "id": "gmb-2024-146056",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-03",
+    "onderwerp": "wijzigen van het gebruik van de ondergeschikte horeca naar zelfstandige horeca en het realiseren van een horecaterras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-146056.html",
+    "zaak": "Z2024-W000013"
+   },
+   {
+    "id": "gmb-2024-88197",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-26",
+    "onderwerp": "wijzigen van het gebruik van de ondergeschikte horeca naar zelfstandige horeca en het realiseren van een horecaterras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-88197.html",
+    "zaak": "Z2024-W000013"
+   },
+   {
+    "id": "gmb-2024-22471",
+    "titel": "Aanvraag omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-11",
+    "onderwerp": "wijzigen van het gebruik van de ondergeschikte horeca naar zelfstandige horeca en het realiseren van een horecaterras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-22471.html",
+    "zaak": "Z2024-W000013"
+   },
+   {
+    "id": "gmb-2023-198565",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-05",
+    "onderwerp": "restaureren van de stalen kozijnen en het vervangen van de kunststof kozijnen naar stalen kozijnen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-198565.html",
+    "zaak": "Z2023-W000224"
+   },
+   {
+    "id": "gmb-2023-39160",
+    "titel": "Aanvraag omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-01-30",
+    "onderwerp": "restaureren van de stalen kozijnen en het vervangen van de kunststof kozijnen naar stalen kozijnen ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-39160.html",
+    "zaak": "Z2023-W000224"
+   },
+   {
+    "id": "gmb-2022-220149",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-05-17",
+    "onderwerp": "veranderen van de interne indeling en de brandcompartimenten van het souterrain en de begane grond en het vervangen van een kozijn in de ...",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-220149.html",
+    "zaak": "Z2022-W000123"
+   },
+   {
+    "id": "gmb-2022-38022",
+    "titel": "Aanvraag omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-01-31",
+    "onderwerp": "veranderen van de interne indeling en de brandcompartimenten van het souterrain en de begane grond en het vervangen van een kozijn in de ...",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-38022.html",
+    "zaak": "Z2022-W000123"
+   },
+   {
+    "id": "gmb-2021-303290",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-06",
+    "onderwerp": "veranderen van een monumentaal voormalig wachtlokaal tot multifunctionele ruimte met kantoor op de zolder en plaatsen van een dakkapel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-303290.html",
+    "zaak": "Z2021-W003807"
+   },
+   {
+    "id": "gmb-2021-259349",
+    "titel": "Aanvraag omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2021-08-03",
+    "onderwerp": "veranderen van een monumentaal voormalig wachtlokaal tot multifunctionele ruimte met kantoor op de zolder",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-259349.html",
+    "zaak": "Z2021-W003807"
+   },
+   {
+    "id": "gmb-2021-160342",
+    "titel": "Aanvraag omgevingsvergunning Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-25",
+    "onderwerp": "maken entresols in studios op 2e verdieping, maken entresol, kantoorfunctie en verhogen dak in klokkentoren en wijzigen vergaderzaal in filmzaal",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-160342.html"
+   },
+   {
+    "id": "gmb-2021-160452",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Arie Biemondstraat 111 1054PD Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-25",
+    "onderwerp": "maken entresols in studios op 2e verdieping, maken entresol, kantoorfunctie en verhogen dak in klokkentoren en wijzigen vergaderzaal in filmzaal",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-160452.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2025-502409",
+   "gmb-2025-307651",
+   "gmb-2024-455526",
+   "gmb-2024-447505",
+   "gmb-2024-146056",
+   "gmb-2024-22471",
+   "gmb-2023-198565",
+   "gmb-2023-39160",
+   "gmb-2022-220149",
+   "gmb-2022-38022",
+   "gmb-2021-303290",
+   "gmb-2021-259349",
+   "gmb-2021-160342",
+   "gmb-2021-160452"
+  ],
+  "zaaknummers": [
+   "Z2021-W003807",
+   "Z2022-W000123",
+   "Z2023-W000224",
+   "Z2024-020335",
+   "Z2024-W000013",
+   "Z2025-026458"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2026-232107",
+    "titel": "Besluit apv vergunning Verleend - Arie Biemondstraat ter hoogte van nummer: 111 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-18",
+    "onderwerp": "TVM 1 parkeervak,Arie Biemondstraat 111 1054PD, 20260520, 20-5-2026, Arie Biemondstraat ter hoogte van nummer: 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-232107.html"
+   },
+   {
+    "id": "gmb-2026-174367",
+    "titel": "Besluit apv vergunning Verleend - Arie Biemondstraat ter hoogte van nummer: 111 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-04-14",
+    "onderwerp": "TVM 2 P vakken, ,Arie Biemondstraat 111-113, 23 apr., Arie Biemondstraat ter hoogte van nummer: 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-174367.html"
+   },
+   {
+    "id": "gmb-2025-392960",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2025-09-11",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-392960.html"
+   },
+   {
+    "id": "gmb-2024-423625",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2024-10-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-423625.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-137176",
+    "titel": "Besluit apv vergunning Verleend - Arie Biemondstraat 107B",
+    "soort": "andere vergunning",
+    "datum": "2024-03-28",
+    "onderwerp": "TVM 3 P vakken, Fietsparkeerverboden, Arie Biemondstraat 107, 18 apr., Arie Biemondstraat 107B",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-137176.html"
+   },
+   {
+    "id": "gmb-2023-472391",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2023-11-07",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-472391.html"
+   },
+   {
+    "id": "gmb-2023-202069",
+    "titel": "Besluit apv vergunning Verleend - Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2023-05-09",
+    "onderwerp": "TVM-2PV, Arie Biemondstraat 111-113 12 mei 2023, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-202069.html"
+   },
+   {
+    "id": "gmb-2023-29677",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2023-01-24",
+    "onderwerp": "TVM, 4 vakken, Arie Biemondstraat 111, 26-1-2023, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-29677.html"
+   },
+   {
+    "id": "gmb-2022-557330",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Arie Biemondstraat 111 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2022-12-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Arie Biemondstraat 111 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-557330.html"
+   },
+   {
+    "id": "gmb-2022-524404",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-11-25",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-524404.html"
+   },
+   {
+    "id": "gmb-2022-515191",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-11-21",
+    "onderwerp": "TVM 6 PV, Arie Biemondstraat 111, 22-11-2022, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-515191.html"
+   },
+   {
+    "id": "gmb-2022-480101",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-10-28",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-480101.html"
+   },
+   {
+    "id": "gmb-2022-475051",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-10-25",
+    "onderwerp": "TVM 6 PV, Arie Biemondstraat 111, 9-11-2022, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-475051.html"
+   },
+   {
+    "id": "gmb-2022-469035",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-10-21",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-469035.html"
+   },
+   {
+    "id": "gmb-2022-357023",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf Arie Biemondstraat 111",
+    "soort": "exploitatievergunning",
+    "datum": "2022-08-04",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-357023.html"
+   },
+   {
+    "id": "gmb-2022-228001",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 105A",
+    "soort": "andere vergunning",
+    "datum": "2022-05-20",
+    "onderwerp": "Fietsverboden/ Fietsenrekken verwijderen , Arie Biemondstraat 105 16 juni 2022, Arie Biemondstraat 105A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-228001.html"
+   },
+   {
+    "id": "gmb-2022-160234",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "TVM: Arie Biemondstraat 111, 20 en 21 april, 6 p-vak, Dagelijks van: 07.00 - 16.00 uur, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160234.html"
+   },
+   {
+    "id": "gmb-2022-160293",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 105A",
+    "soort": "andere vergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "TVM 6 PV, Arie Biemondstraat 105/113, 14-4-2022, Arie Biemondstraat 105A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160293.html"
+   },
+   {
+    "id": "gmb-2022-142373",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-03-31",
+    "onderwerp": "TVM: Arie Biemondstraat 111, 4 en 5 april, 6 p-vak, 07.00 - 14.00 uur, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-142373.html"
+   },
+   {
+    "id": "gmb-2022-137270",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2022-03-29",
+    "onderwerp": "TVM 4 PV/Stremming, Arie Biemondstraat 111 t/m 112, 05-04-2022, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-137270.html"
+   },
+   {
+    "id": "gmb-2022-73857",
+    "titel": "Besluit toestemming tijdelijk terras Verlenging verleend Arie Biemondstraat 111 en Revaleiland 500",
+    "soort": "exploitatievergunning",
+    "datum": "2022-02-21",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terras op adres Arie Biemondstraat 111 en Revaleiland 500",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-73857.html"
+   },
+   {
+    "id": "gmb-2022-35972",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 105A",
+    "soort": "andere vergunning",
+    "datum": "2022-01-28",
+    "onderwerp": "De weg (gedeeltelijk) afsluiten Arie Biemondstraat 105 tot 113 01-02-2022, Arie Biemondstraat 105A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-35972.html"
+   },
+   {
+    "id": "gmb-2021-447947",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 105A",
+    "soort": "andere vergunning",
+    "datum": "2021-12-10",
+    "onderwerp": "6 Parkeervakken reserveren, Arie Biemondstraat 105 / 113 14-12-2021, Arie Biemondstraat 105A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-447947.html"
+   },
+   {
+    "id": "gmb-2021-427972",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 105A",
+    "soort": "andere vergunning",
+    "datum": "2021-11-29",
+    "onderwerp": "TVM 5 vakken, Arie Biemondstraat 105-113, 30-11-2021 tm -1-12-2021, Arie Biemondstraat 105A",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-427972.html"
+   },
+   {
+    "id": "gmb-2021-380363",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verleend Berenstraat 12 en Arie Biemondstraat 111 en Revaleiland 500",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verleend: toestemming tijdelijk terrtas op adres Berenstraat 12 en Arie Biemondstraat 111 en Revaleiland 500",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380363.html"
+   },
+   {
+    "id": "gmb-2021-306168",
+    "titel": "Besluit apv vergunning Verleend Arie Biemondstraat 111",
+    "soort": "andere vergunning",
+    "datum": "2021-09-07",
+    "onderwerp": "Objecten plaatsen Arie Biemondstraat 111 tot 113 13-09-2021 tot 13-12-2021, Arie Biemondstraat 111",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-306168.html"
+   },
+   {
+    "id": "stcrt-2020-4819",
+    "titel": "Verkeersbesluit Nicolaas Beetsstraat 305 aanleg elektrische oplaadplaats",
+    "soort": "Verkeersbesluiten",
+    "datum": "2020-01-23",
+    "onderwerp": "Nicolaas Beetsstraat 305 aanleg elektrische oplaadplaats",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2020-4819.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-VG02",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2019-11-07",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2001BPSTD-VG01",
+   "naam": "Oud West 2018 1e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-02-15",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2002BPSTD-VG01",
+   "naam": "Oud West 2018 2e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2020-11-10",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2202BPSTD-VG01",
+   "naam": "Oud West 2018 3e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2024-06-26",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E2203BPSTD-VG01",
+   "naam": "Oud West 4e herziening",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2022-10-06",
+   "opp_m2": 1696721,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.E1503BPSTD-OW01",
+   "naam": "Oud West 2018",
+   "type": "bestemmingsplan",
+   "status": "ontwerp",
+   "datum": "2018-05-03",
+   "opp_m2": 1696790,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 5,
+  "plannen": 4,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 11,
+ "pand_adressen": [
+  "Arie Biemondstraat 105A",
+  "Arie Biemondstraat 105B",
+  "Arie Biemondstraat 107A",
+  "Arie Biemondstraat 107B",
+  "Arie Biemondstraat 107C",
+  "Arie Biemondstraat 109A",
+  "Arie Biemondstraat 109B",
+  "Arie Biemondstraat 109C",
+  "Arie Biemondstraat 111",
+  "Nicolaas Beetsstraat 305"
+ ]
+}

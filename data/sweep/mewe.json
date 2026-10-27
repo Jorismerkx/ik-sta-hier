@@ -1,0 +1,781 @@
+{
+ "id": "mewe",
+ "naam": "MEWE",
+ "adres": "Korte Leidsedwarsstraat 14, 1017 RC Amsterdam",
+ "termen": [
+  "Korte Leidsedwarsstraat 14",
+  "1017RC",
+  "1017 RC"
+ ],
+ "pand": "0363100012168741",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 18,
+  "openbaar": 6,
+  "laatste": "2007-02-01",
+  "dossiers": [
+   {
+    "dossier": "SA_102062",
+    "titel": "Korte Leidsedwarsstraat 12",
+    "datum": "2007-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 31,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102062"
+   },
+   {
+    "dossier": "SA_102006",
+    "titel": "Korte Leidsedwarsstraat 12",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_102006"
+   },
+   {
+    "dossier": "SA_82242",
+    "titel": "Lijnbaansgracht 238",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 46,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82242"
+   },
+   {
+    "dossier": "SA_82226",
+    "titel": "Korte Leidsedwarsstraat 12 - 14; Lijnbaansgracht 238",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82226"
+   },
+   {
+    "dossier": "SA_82230",
+    "titel": "Korte Leidsedwarsstraat 12 - 14; Lijnbaansgracht 238",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 89,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82230"
+   },
+   {
+    "dossier": "SA_82227",
+    "titel": "Korte Leidsedwarsstraat 14",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82227"
+   },
+   {
+    "dossier": "SA_82218",
+    "titel": "Korte Leidsedwarsstraat 12 - 14; Lijnbaansgracht 238",
+    "datum": "2001-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82218"
+   },
+   {
+    "dossier": "SA_82216",
+    "titel": "Korte Leidsedwarsstraat 12",
+    "datum": "1994-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82216"
+   },
+   {
+    "dossier": "SA_82213",
+    "titel": "Korte Leidsedwarsstraat 12 - 14",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82213"
+   },
+   {
+    "dossier": "SA_82210",
+    "titel": "Korte Leidsedwarsstraat 12 - 14; Lijnbaansgracht 238",
+    "datum": "1989-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82210"
+   },
+   {
+    "dossier": "SA_82207",
+    "titel": "Korte Leidsedwarsstraat 12 - 14",
+    "datum": "1981-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82207"
+   },
+   {
+    "dossier": "SA_82203",
+    "titel": "Korte Leidsedwarsstraat 12 - 14",
+    "datum": "1979-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 2,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82203"
+   },
+   {
+    "dossier": "SA_82196",
+    "titel": "Korte Leidsedwarsstraat 10 A - 10 F; Korte Leidsedwarsstraat 12 A - 12 B; Korte Leidsedwarsstraat 14; Korte Leidsedwarsstraat 16 A - 16 H; Korte Leidsedwarsstraat 16 K; Lijnbaansgracht 224 - 240",
+    "datum": "1976-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 90,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82196"
+   },
+   {
+    "dossier": "SA_82193",
+    "titel": "Korte Leidsedwarsstraat 10 A - 10 F; Korte Leidsedwarsstraat 12 A - 12 B; Korte Leidsedwarsstraat 14; Korte Leidsedwarsstraat 16 A - 16 H; Korte Leidsedwarsstraat 16 K; Lijnbaansgracht 224 - 240",
+    "datum": "1976-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82193"
+   },
+   {
+    "dossier": "SA_82180",
+    "titel": "Korte Leidsedwarsstraat 14; Lijnbaansgracht 237 - 240",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82180"
+   },
+   {
+    "dossier": "SA_82178",
+    "titel": "Korte Leidsedwarsstraat 14",
+    "datum": "1932-01-01",
+    "soort": "reclame",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82178"
+   },
+   {
+    "dossier": "SA_82171",
+    "titel": "Korte Leidsedwarsstraat 14",
+    "datum": "1924-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82171"
+   },
+   {
+    "dossier": "SA_82163",
+    "titel": "Korte Leidsedwarsstraat 14; Lijnbaansgracht 237 - 240",
+    "datum": "1921-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 64,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SA_82163"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 53,
+  "gezocht": [
+   "Korte Leidsedwarsstraat 14",
+   "Korte Leidsedwarsstraat 12",
+   "Lijnbaansgracht 238"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-326133",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-08",
+    "onderwerp": "wijzigen van de exploitatie van de begane grond en eerste verdieping van het gebouwgedeelte met bestemming daarvan tot culturele horeca (horeca 6)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-326133.html",
+    "zaak": "Z2026-015252"
+   },
+   {
+    "id": "gmb-2026-195936",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-23",
+    "onderwerp": "wijzigen van de exploitatie van de begane grond en eerste verdieping van het gebouwgedeelte met bestemming daarvan tot culturele horeca (horeca 6)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-195936.html",
+    "zaak": "Z2026-015252"
+   },
+   {
+    "id": "gmb-2025-324950",
+    "titel": "Besluit omgevingsvergunning reguliere procedure geweigerd Korte Leidsedwarsstraat 12 1017RC Amsterdam, Korte Leidsedwarsstraat 14 1017RC Amsterdam, Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-23",
+    "onderwerp": "wijzigen van het gebruik van de eerste verdieping van het gebouw met bestemming daarvan tot nachtclub (horeca 2)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-324950.html",
+    "zaak": "Z2025-001502"
+   },
+   {
+    "id": "gmb-2025-88505",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-03-03",
+    "onderwerp": "wijzigen van het gebruik van de eerste verdieping van het gebouw met bestemming daarvan tot nachtclub (horeca 2)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-88505.html",
+    "zaak": "Z2025-001502"
+   },
+   {
+    "id": "gmb-2024-424955",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-08",
+    "onderwerp": "wijzigen van het gebruik van de begane grond van het gebouw met bestemming daarvan tot culturele horeca (horeca 6)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-424955.html",
+    "zaak": "Z2023-C010256"
+   },
+   {
+    "id": "gmb-2024-346156",
+    "titel": "Besluit omgevingsvergunning reguliere procedure vergunningsvrij Korte Leidsedwarsstraat 12 1017RC Amsterdam, Korte Leidsedwarsstraat 14 1017RC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-08",
+    "onderwerp": "wijzigen van de indeling en het plaatsen van nieuwe trappen tussen de begane grond en 1e verdieping ten behoeve van de horecagelegenheid",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-346156.html",
+    "zaak": "Z2024-007906"
+   },
+   {
+    "id": "gmb-2024-247870",
+    "titel": "Aanvraag omgevingsvergunning Korte Leidsedwarsstraat 14 1017RC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-07",
+    "onderwerp": "wijzigen van de indeling en het plaatsen van nieuwe trappen tussen de begane grond en 1e verdieping ten behoeve van de horecagelegenheid",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-247870.html",
+    "zaak": "Z2024-007906"
+   },
+   {
+    "id": "gmb-2024-241818",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-04",
+    "onderwerp": "wijzigen van het gebruik van de begane grond van het gebouw met bestemming daarvan tot culturele horeca (horeca 6)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-241818.html",
+    "zaak": "Z2023-C010256"
+   },
+   {
+    "id": "gmb-2024-35795",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-22",
+    "onderwerp": "wijzigen van de exploitatie van de begane grond van het gebouw met behoud van bestemming daarvan tot culturele horeca (horeca 6)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-35795.html",
+    "zaak": "Z2023-C010256"
+   },
+   {
+    "id": "gmb-2024-35780",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-01-22",
+    "onderwerp": "wijzigen van de exploitatie van de begane grond van het gebouw met behoud van bestemming daarvan tot culturele horeca (horeca 6)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-35780.html",
+    "zaak": "Z2023-C010256"
+   },
+   {
+    "id": "wsb-2024-813",
+    "titel": "Verleende omgevingsvergunning voor een wateractiviteit ter hoogte van Lijnbaansgracht 238 1017PH Amsterdam, [ASD02E09186] Amsterdam A E 9186 - AGV - WN2023-004640",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2024-01-19",
+    "onderwerp": "Watervergunning, Gemeente Amsterdam, Lijnbaansgracht in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2024-813.html",
+    "zaak": "WN2023-004640"
+   },
+   {
+    "id": "gmb-2023-514955",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Lijnbaansgracht 219 1017PH Amsterdam, Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-04",
+    "onderwerp": "tijdelijk plaatsen van een steundamwand ten behoeve van de kademuur ter hoogte van Lijnbaansgracht 219-238 voor de duur van maximaal 30 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-514955.html",
+    "zaak": "Z2023-C005857"
+   },
+   {
+    "id": "gmb-2023-493357",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Lijnbaansgracht 219 1017PH Amsterdam, Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-20",
+    "onderwerp": "tijdelijk plaatsen van een steundamwand ten behoeve van de kademuur ter hoogte van Lijnbaansgracht 219-238 voor de duur van maximaal 30 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-493357.html",
+    "zaak": "Z2023-C005857"
+   },
+   {
+    "id": "gmb-2023-450493",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 219 1017PH Amsterdam, Lijnbaansgracht 238 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-10-23",
+    "onderwerp": "tijdelijk plaatsen van een steundamwand ten behoeve van de kademuur ter hoogte van Lijnbaansgracht 219-238 voor de duur van maximaal 30 jaar",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-450493.html",
+    "zaak": "Z2023-C005857"
+   },
+   {
+    "id": "gmb-2023-312383",
+    "titel": "Aanvraag omgevingsvergunning Lijnbaansgracht 238 1017PH Amsterdam, Lijnbaansgracht 219 1017PH Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-07-17",
+    "onderwerp": "plaatsen van een steundamwand ten behoeve van de kademuur ter hoogte van Lijnbaansgracht 219-238",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-312383.html",
+    "zaak": "Z2023-C005857"
+   },
+   {
+    "id": "gmb-2021-44970",
+    "titel": "Besluit omgevingsvergunning van rechtswege Korte Leidsedwarsstraat 14 1017RC Amsterdam",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-02-15",
+    "onderwerp": "legaliseren van de bestaande doorbraken op de eerste verdieping van het pand ten behoeve van de horecafunctie",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-44970.html"
+   },
+   {
+    "id": "gmb-2019-243935",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2019",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-243935.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-326133",
+   "gmb-2026-195936",
+   "gmb-2025-324950",
+   "gmb-2025-88505",
+   "gmb-2024-424955",
+   "gmb-2024-346156",
+   "gmb-2024-247870",
+   "gmb-2024-241818",
+   "gmb-2024-35780",
+   "gmb-2023-514955",
+   "gmb-2023-450493",
+   "gmb-2023-312383",
+   "gmb-2021-44970"
+  ],
+  "zaaknummers": [
+   "Z2023-C005857",
+   "Z2023-C010256",
+   "Z2024-007906",
+   "Z2025-001502",
+   "Z2026-015252"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-348036",
+    "titel": "Besluit alcoholwetvergunning Verleend - Lijnbaansgracht 238 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-21",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Lijnbaansgracht 238",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-348036.html"
+   },
+   {
+    "id": "gmb-2026-339763",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Lijnbaansgracht 238 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-07-16",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Lijnbaansgracht 238 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-339763.html"
+   },
+   {
+    "id": "gmb-2026-322230",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat ter hoogte van nummer: 14 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-07",
+    "onderwerp": "TVM parkeervak,RVV,Object,Filmen,Korte Leidsedwarsstraat 14 1017RC, 20260705, Korte Leidsedwarsstraat ter hoogte van nummer: 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-322230.html"
+   },
+   {
+    "id": "gmb-2026-270797",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Lijnbaansgracht 238 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2026-06-09",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Lijnbaansgracht 238 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-270797.html"
+   },
+   {
+    "id": "gmb-2025-544144",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544144.html"
+   },
+   {
+    "id": "gmb-2025-541488",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2025-12-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-541488.html"
+   },
+   {
+    "id": "gmb-2025-510649",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-510649.html"
+   },
+   {
+    "id": "gmb-2025-352422",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat ter hoogte van nummer: 14 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-08-12",
+    "onderwerp": "w8 op info TVM parkeervak,RVV,Filmen,Korte Leidsedwarsstraat 14 1017RC, 20250811, Korte Leidsedwarsstraat ter hoogte van nummer: 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-352422.html"
+   },
+   {
+    "id": "gmb-2025-295779",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2025-07-08",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-295779.html"
+   },
+   {
+    "id": "gmb-2025-136357",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2025-03-31",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-136357.html"
+   },
+   {
+    "id": "gmb-2024-541673",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Korte Leidsedwarsstraat 14 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-12-24",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-541673.html"
+   },
+   {
+    "id": "gmb-2024-541661",
+    "titel": "Besluit alcoholwetvergunning Verleend - Korte Leidsedwarsstraat 14 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2024-12-24",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-541661.html"
+   },
+   {
+    "id": "gmb-2024-323084",
+    "titel": "Aanvraag alcoholwetvergunning Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323084.html"
+   },
+   {
+    "id": "gmb-2024-323085",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Korte Leidsedwarsstraat 14 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-07-23",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-323085.html"
+   },
+   {
+    "id": "gmb-2024-238007",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Korte Leidsedwarsstraat 14 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-06-03",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-238007.html"
+   },
+   {
+    "id": "gmb-2024-238038",
+    "titel": "Aanvraag alcoholwetvergunning Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2024-06-03",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-238038.html"
+   },
+   {
+    "id": "gmb-2024-149029",
+    "titel": "Besluit apv vergunning Verleend - Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2024-04-05",
+    "onderwerp": "Object, Korte Leidsedwarsstraat 14 1017RC, 20240408, Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-149029.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-239491",
+    "titel": "Besluit apv vergunning Verleend - Lijnbaansgracht 238",
+    "soort": "andere vergunning",
+    "datum": "2023-06-02",
+    "onderwerp": "Objectvergunning Lijnbaansgracht 238, 19-6-2023 t/m 25-8-2023 (betaling nakijken), Lijnbaansgracht 238",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-239491.html"
+   },
+   {
+    "id": "gmb-2023-5781",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Korte Leidsedwarsstraat 14 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-01-05",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-5781.html"
+   },
+   {
+    "id": "gmb-2023-5765",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - Korte Leidsedwarsstraat 14 in AMSTERDAM",
+    "soort": "exploitatievergunning",
+    "datum": "2023-01-05",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-5765.html"
+   },
+   {
+    "id": "gmb-2022-490714",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend Lijnbaansgracht 238",
+    "soort": "andere vergunning",
+    "datum": "2022-11-04",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres Lijnbaansgracht 238",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-490714.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   },
+   {
+    "id": "gmb-2021-415431",
+    "titel": "Besluit apv vergunning Verleend Korte Leidsedwarsstraat 12",
+    "soort": "andere vergunning",
+    "datum": "2021-11-19",
+    "onderwerp": "tvm stremmen Korte Leidsedwarsstraat 12 tot 18, 26-11-2021, Korte Leidsedwarsstraat 12",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-415431.html"
+   },
+   {
+    "id": "gmb-2021-238032",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Korte Leidsedwarsstraat 14",
+    "soort": "exploitatievergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-238032.html"
+   },
+   {
+    "id": "gmb-2021-237935",
+    "titel": "Besluit alcoholwetvergunning Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-237935.html"
+   },
+   {
+    "id": "gmb-2021-237955",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Korte Leidsedwarsstraat 14",
+    "soort": "exploitatievergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-237955.html"
+   },
+   {
+    "id": "gmb-2021-237924",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Korte Leidsedwarsstraat 14",
+    "soort": "exploitatievergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-237924.html"
+   },
+   {
+    "id": "gmb-2021-238029",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend Korte Leidsedwarsstraat 14",
+    "soort": "exploitatievergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-238029.html"
+   },
+   {
+    "id": "gmb-2021-238023",
+    "titel": "Besluit alcoholwetvergunning Verleend Korte Leidsedwarsstraat 14",
+    "soort": "andere vergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres Korte Leidsedwarsstraat 14",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-238023.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.A1006BPSTD-OH01",
+   "naam": "Zuidelijke binnenstad",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2013-01-09",
+   "opp_m2": 1252142,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1103BPSTD-VG01",
+   "naam": "Bestemmingsplan Water",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2012-07-27",
+   "opp_m2": 3881674,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.A1905PBPSTD-VG01",
+   "naam": "Kantoren met baliefunctie Centrum",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2021-07-08",
+   "opp_m2": 4947131,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 1,
+  "plannen": 0,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 121,
+ "pand_adressen": [
+  "Korte Leidsedwarsstraat 12",
+  "Korte Leidsedwarsstraat 14",
+  "Lijnbaansgracht 238"
+ ]
+}

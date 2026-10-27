@@ -1,0 +1,1137 @@
+{
+ "id": "concertgebouw",
+ "naam": "Het Concertgebouw",
+ "adres": "Concertgebouwplein 10, 1071 LN Amsterdam",
+ "termen": [
+  "Concertgebouwplein 10",
+  "1071LN",
+  "1071 LN",
+  "Het Concertgebouw"
+ ],
+ "pand": "0363100012233435",
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "hoog",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 72,
+  "openbaar": 0,
+  "laatste": "2009-01-01",
+  "dossiers": [
+   {
+    "dossier": "SW_52205",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 83,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_52205"
+   },
+   {
+    "dossier": "SW_52115",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2009-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_52115"
+   },
+   {
+    "dossier": "SW_53601",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 67,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_53601"
+   },
+   {
+    "dossier": "SW_52429",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2009-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 133,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_52429"
+   },
+   {
+    "dossier": "SW_53626",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2009-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 75,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_53626"
+   },
+   {
+    "dossier": "SW_54128",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2009-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_54128"
+   },
+   {
+    "dossier": "SW_51283",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2008-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_51283"
+   },
+   {
+    "dossier": "SW_51282",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2008-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_51282"
+   },
+   {
+    "dossier": "SW_51277",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2007-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 111,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_51277"
+   },
+   {
+    "dossier": "SW_50328",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2007-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_50328"
+   },
+   {
+    "dossier": "SW_54536",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2007-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_54536"
+   },
+   {
+    "dossier": "SW_51294",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2007-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 22,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_51294"
+   },
+   {
+    "dossier": "SW_50175",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2006-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_50175"
+   },
+   {
+    "dossier": "SW_48128",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2006-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 30,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_48128"
+   },
+   {
+    "dossier": "SW_48188",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2006-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_48188"
+   },
+   {
+    "dossier": "SW_46892",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2004-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_46892"
+   },
+   {
+    "dossier": "SW_52254",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2004-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_52254"
+   },
+   {
+    "dossier": "SW_46937",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 58,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_46937"
+   },
+   {
+    "dossier": "SW_43014",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2001-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43014"
+   },
+   {
+    "dossier": "SW_45128",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2001-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_45128"
+   },
+   {
+    "dossier": "SW_45168",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2001-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_45168"
+   },
+   {
+    "dossier": "SW_42937",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "2000-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_42937"
+   },
+   {
+    "dossier": "SW_43074",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1997-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43074"
+   },
+   {
+    "dossier": "SW_27936",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27936"
+   },
+   {
+    "dossier": "SW_42264",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1997-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_42264"
+   },
+   {
+    "dossier": "SW_42198",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1996-11-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 55,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_42198"
+   },
+   {
+    "dossier": "SW_42232",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1996-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_42232"
+   },
+   {
+    "dossier": "SW_43591",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1996-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_43591"
+   },
+   {
+    "dossier": "SW_42203",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1996-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 80,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_42203"
+   },
+   {
+    "dossier": "SW_27885",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1993-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 28,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27885"
+   },
+   {
+    "dossier": "SW_27894",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1993-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 35,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27894"
+   },
+   {
+    "dossier": "SW_27932",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1993-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27932"
+   },
+   {
+    "dossier": "SW_27883",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1992-01-01",
+    "soort": "monument",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27883"
+   },
+   {
+    "dossier": "SW_36925",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1992-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 6,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_36925"
+   },
+   {
+    "dossier": "SW_27865",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1990-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27865"
+   },
+   {
+    "dossier": "SW_36921",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1989-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 20,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_36921"
+   },
+   {
+    "dossier": "SW_27817",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1987-07-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 416,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27817"
+   },
+   {
+    "dossier": "SW_27813",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1987-05-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 164,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27813"
+   },
+   {
+    "dossier": "SW_27814",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1987-02-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 48,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27814"
+   },
+   {
+    "dossier": "SW_27879",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1987-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27879"
+   },
+   {
+    "dossier": "SW_27866",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1987-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27866"
+   },
+   {
+    "dossier": "SW_27800",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1987-01-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27800"
+   },
+   {
+    "dossier": "SW_27787",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1986-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 253,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27787"
+   },
+   {
+    "dossier": "SW_27783",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1986-09-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27783"
+   },
+   {
+    "dossier": "SW_27762",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1986-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 183,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27762"
+   },
+   {
+    "dossier": "SW_27777",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1986-08-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 24,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27777"
+   },
+   {
+    "dossier": "SW_27747",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1986-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 456,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27747"
+   },
+   {
+    "dossier": "SW_27623",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1986-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 404,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27623"
+   },
+   {
+    "dossier": "SW_27864",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1985-01-01",
+    "soort": "sloop",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27864"
+   },
+   {
+    "dossier": "SW_27383",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1983-01-01",
+    "soort": "fundering",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 913,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27383"
+   },
+   {
+    "dossier": "SW_27288",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1961-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 14,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27288"
+   },
+   {
+    "dossier": "SW_60839",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1959-01-01",
+    "soort": "reclame",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_60839"
+   },
+   {
+    "dossier": "SW_27286",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1954-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 15,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27286"
+   },
+   {
+    "dossier": "SW_27240",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27240"
+   },
+   {
+    "dossier": "SW_27280",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27280"
+   },
+   {
+    "dossier": "SW_27283",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1953-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27283"
+   },
+   {
+    "dossier": "SW_27275",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 8,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27275"
+   },
+   {
+    "dossier": "SW_27259",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1950-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 37,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27259"
+   },
+   {
+    "dossier": "SW_27268",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27268"
+   },
+   {
+    "dossier": "SW_27266",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1948-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27266"
+   },
+   {
+    "dossier": "SW_27244",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1947-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 34,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27244"
+   },
+   {
+    "dossier": "SW_27232",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1944-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 36,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27232"
+   },
+   {
+    "dossier": "SW_27223",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1943-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27223"
+   },
+   {
+    "dossier": "SW_27211",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1942-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 17,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27211"
+   },
+   {
+    "dossier": "SW_27197",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1934-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 16,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27197"
+   },
+   {
+    "dossier": "SW_27195",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1926-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 23,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27195"
+   },
+   {
+    "dossier": "SW_27194",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1925-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 7,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27194"
+   },
+   {
+    "dossier": "SW_27183",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1919-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 12,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27183"
+   },
+   {
+    "dossier": "SW_27182",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1917-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27182"
+   },
+   {
+    "dossier": "SW_27180",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1916-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27180"
+   },
+   {
+    "dossier": "SW_27179",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1907-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 5,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27179"
+   },
+   {
+    "dossier": "SW_27177",
+    "titel": "Concertgebouwplein 2 - 10; Jan Willem Brouwersstraat 1; Van Baerlestraat 98",
+    "datum": "1906-01-01",
+    "soort": "verbouwing",
+    "toegang": "RESTRICTED",
+    "olo": null,
+    "bestanden": 4,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SW_27177"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 23,
+  "gezocht": [
+   "Concertgebouwplein 10",
+   "Van Baerlestraat 98"
+  ],
+  "vergunningen": [
+   {
+    "id": "prb-2025-21460",
+    "titel": "Vergunning verleend - Concertgebouwplein 10, Amsterdam - Aanleggen en gebruiken open  bodemenergiesysteem - Het Koninklijk Concertgebouw N.V.",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-22",
+    "onderwerp": "440587 - KWO Amsterdam Concertgebouw",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-21460.html",
+    "zaak": "OD2025-0029837"
+   },
+   {
+    "id": "prb-2025-18505",
+    "titel": "Aanvraag vergunning ontvangen - - Concertgebouwplein 10, Amsterdam - Aanleg en gebruiken open bodemenergiesysteem - Het Koninklijk Concertgebouw N.V.",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-10",
+    "onderwerp": "440587 - KWO Amsterdam Concertgebouw",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-18505.html",
+    "zaak": "OD2025-0029837"
+   },
+   {
+    "id": "gmb-2024-450306",
+    "titel": "Vergunning Omgevingswet verleend - Concertgebouwplein 10, Amsterdam - Afbreken en wijzigen omkasting",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-25",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-450306.html",
+    "zaak": "13245488"
+   },
+   {
+    "id": "gmb-2024-371053",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Concertgebouwplein 10, Amsterdam - het afbreken en verplaatsen van de omkasting van een installatie",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-29",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-371053.html"
+   },
+   {
+    "id": "gmb-2024-350979",
+    "titel": "Aanvraag vergunning Omgevingswet ontvangen - Concertgebouwplein 10, Amsterdam - Aanpassen omkasting WKO-installatie",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-12",
+    "onderwerp": "Bekendmaking van Gemeente Amsterdam",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-350979.html",
+    "zaak": "13024086"
+   }
+  ],
+  "met_tekeningen": [
+   "prb-2025-18505",
+   "gmb-2024-371053",
+   "gmb-2024-350979"
+  ],
+  "zaaknummers": [
+   "13024086",
+   "OD2025-0029837"
+  ],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-559090",
+    "titel": "Besluit apv vergunning Verleend - Van Baerlestraat ter hoogte van nummer: 98 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-22",
+    "onderwerp": "TVM parkeervak,TVM stremmen,RVV,Van Baerlestraat 98 1071BB, 20251219, Van Baerlestraat ter hoogte van nummer: 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-559090.html"
+   },
+   {
+    "id": "gmb-2025-395145",
+    "titel": "Besluit apv vergunning Verleend - Concertgebouwplein ter hoogte van nummer: 10 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-09-12",
+    "onderwerp": "Object,Concertgebouwplein 10 1071LN, 20251022, Concertgebouwplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-395145.html"
+   },
+   {
+    "id": "gmb-2025-291118",
+    "titel": "Besluit apv vergunning Verleend - Concertgebouwplein ter hoogte van nummer: 10 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-07-04",
+    "onderwerp": "TVM parkeervak,Concertgebouwplein 10 1071LN, 20250709, Concertgebouwplein ter hoogte van nummer: 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-291118.html"
+   },
+   {
+    "id": "gmb-2025-272499",
+    "titel": "Aanvraag evenementenvergunning Concertgebouwplein 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Concertgebouwplein 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272499.html"
+   },
+   {
+    "id": "gmb-2025-272385",
+    "titel": "Besluit evenementenvergunning Verleend - Concertgebouwplein 10 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-24",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Concertgebouwplein 10 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-272385.html"
+   },
+   {
+    "id": "gmb-2025-261800",
+    "titel": "Meldingen - Melding sloop, Van Baerlestraat 4-132",
+    "soort": "omgevingsmelding",
+    "datum": "2025-06-17",
+    "onderwerp": "het verwijderen van asbesthoudende materialen uit de panden",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-261800.html"
+   },
+   {
+    "id": "gmb-2024-239954",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-239954.html"
+   },
+   {
+    "id": "gmb-2024-240073",
+    "titel": "Besluit tot aanwijzing voor de stembureaus voor de verkiezingen in Amsterdam",
+    "soort": "verkiezingen",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240073.html"
+   },
+   {
+    "id": "gmb-2024-122964",
+    "titel": "Besluit apv vergunning Verleend - Concertgebouwplein 10",
+    "soort": "andere vergunning",
+    "datum": "2024-03-19",
+    "onderwerp": "Filmen, , 20240321, Concertgebouwplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-122964.html"
+   },
+   {
+    "id": "gmb-2024-107813",
+    "titel": "Besluit apv vergunning Verleend - Concertgebouwplein 10",
+    "soort": "andere vergunning",
+    "datum": "2024-03-11",
+    "onderwerp": "Filmen, Concertgebouwplein 10 1071LN, 20240314, Concertgebouwplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-107813.html"
+   },
+   {
+    "id": "gmb-2023-518661",
+    "titel": "Besluit apv vergunning Verleend - Van Baerlestraat 98",
+    "soort": "andere vergunning",
+    "datum": "2023-12-05",
+    "onderwerp": "Werkzaamheden en vervoer op straat Van Baerlestraat 98 1071BB, Van Baerlestraat 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-518661.html"
+   },
+   {
+    "id": "gmb-2023-364588",
+    "titel": "Besluit apv vergunning Verleend - Van Baerlestraat 98",
+    "soort": "andere vergunning",
+    "datum": "2023-08-22",
+    "onderwerp": "Stremmen/ RVV, Van Baerlestraat 98, 24-8-2023, Van Baerlestraat 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-364588.html"
+   },
+   {
+    "id": "gmb-2023-197690",
+    "titel": "Besluit apv vergunning Verleend - Van Baerlestraat 98",
+    "soort": "andere vergunning",
+    "datum": "2023-05-08",
+    "onderwerp": "Stremmen, Van Baerlestraat 98, 4 mei 2023, Van Baerlestraat 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-197690.html"
+   },
+   {
+    "id": "gmb-2022-468924",
+    "titel": "Besluit apv vergunning Verleend Van Baerlestraat 98",
+    "soort": "andere vergunning",
+    "datum": "2022-10-21",
+    "onderwerp": "stremming+RVV, Van Baerlestraat 98, 27-10-2022, Van Baerlestraat 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-468924.html"
+   },
+   {
+    "id": "gmb-2022-160366",
+    "titel": "Besluit apv vergunning Verleend Concertgebouwplein 10",
+    "soort": "andere vergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "object Concertgebouwplein 10, 11-4-2022 t/m 1-7-2022, Concertgebouwplein 10",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-160366.html"
+   },
+   {
+    "id": "gmb-2021-380237",
+    "titel": "Besluit apv vergunning Verleend Van Baerlestraat 98",
+    "soort": "andere vergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "TVM Stremmen, Van Baerlestraat 98, 28/10/2021, Van Baerlestraat 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380237.html"
+   },
+   {
+    "id": "gmb-2021-380400",
+    "titel": "Besluit Besluit toestemming tijdelijk terras Verlenging verleend Van Baerlestraat 98",
+    "soort": "exploitatievergunning",
+    "datum": "2021-10-28",
+    "onderwerp": "Verlenging verleend: toestemming tijdelijk terrtas op adres Van Baerlestraat 98",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-380400.html"
+   },
+   {
+    "id": "stcrt-2019-57342",
+    "titel": "Faillissementen, surseances en schuldsaneringen",
+    "soort": "Gerechtelijke aankondigingen | Faillissementen, surseances en schuldsaneringen",
+    "datum": "2019-10-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2019-57342.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.K1908BPSTD-VG03",
+   "naam": "Museumkwartier - Valeriusbuurt 2022",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2023-11-09",
+   "opp_m2": 1389605,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.K1005BPSTD-VG01",
+   "naam": "Museumkwartier Valeriusbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2011-05-25",
+   "opp_m2": 1394025,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": [
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_1.2.html",
+     "tekst": "n daarnaast ook veel functiemenging. In het Museumkwartier zijn veel detailhandelsbedrijven, hotels en restaurants te vinden. In de Willemsparkbuurt daarentegen zijn vrij veel woningen omgebouwd tot kantoren. Opvallende locatie binnen het Museumkwartier is het Museumplein met de omliggende musea en het Concertgebouw. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.1.html",
+     "tekst": "artier bebouwd. Reeds in 1883 waren door Amsterdam pogingen ondernomen om de gemeente Nieuwer Amstel te annexeren, maar die gemeente verzette zich heftig tegen haar machtige buur. De HBS aan het Roelof Hartplein, de brandweerkazerne op de hoek van de Van Baerlestraat, schuin tegenover het Concertgebouw en een nieuw stadhuis aan de Amsteldijk - het latere Gemeentearchief - dateren uit die tijd. In 1921 vond de annexatie van Nieuwer-Amstel plaats. De grond tussen de Willemsparkweg en de De Lairessestraat werd, voor de annexatie, door de gemeente Nieuwer-Amstel uitgegeven aan de bouwonderneming 'Maatschappij Weltevreden'. Deze strook liep van het Concertgebouw tot aan de Amstelveenseweg. Het st"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.1.html",
+     "tekst": "t latere Gemeentearchief - dateren uit die tijd. In 1921 vond de annexatie van Nieuwer-Amstel plaats. De grond tussen de Willemsparkweg en de De Lairessestraat werd, voor de annexatie, door de gemeente Nieuwer-Amstel uitgegeven aan de bouwonderneming 'Maatschappij Weltevreden'. Deze strook liep van het Concertgebouw tot aan de Amstelveenseweg. Het stratenplan voor de Johannes Verhulststraat tot aan het Valeriusplein en in het verlengde hiervan de Lomanstraat en verder de Valeriusstraat, werd ontworpen door A.L. van Gendt. Vanaf circa 1915 is de strook grond tussen de De Lairessestraat / Cornelis Krusemanstraat en het Noorder Amstelkanaal uitgegeven in grote percelen voor de bouw van onder an"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.2.html",
+     "tekst": "groot plein dat als groene long van belang zou zijn voor de gezondheidstoestand van de bewoners in de omliggende wijken. De monumentale en symmetrische vorm van het Rijksmuseum als stadspoort naar het nieuw te bouwen stadsdeel vroeg om een brede allee in het verlengde van de doorrit. De ligging van het Concertgebouw en het Stedelijk Museum maakte de stedenbouwkundige indeling van het Museumplein lastig. Het Concertgebouw (1888) ligt een kleine slag gedraaid en iets terzijde van de zichtas vanuit het Rijksmuseum. Het Stedelijk Museum (1894) ligt, net als het Rijksmuseum, met zijn rug naar het Museumplein gericht. Tot een goede inrichting van het Museumplein kwam het niet. Het terrein werd ver"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.2.html",
+     "tekst": "gende wijken. De monumentale en symmetrische vorm van het Rijksmuseum als stadspoort naar het nieuw te bouwen stadsdeel vroeg om een brede allee in het verlengde van de doorrit. De ligging van het Concertgebouw en het Stedelijk Museum maakte de stedenbouwkundige indeling van het Museumplein lastig. Het Concertgebouw (1888) ligt een kleine slag gedraaid en iets terzijde van de zichtas vanuit het Rijksmuseum. Het Stedelijk Museum (1894) ligt, net als het Rijksmuseum, met zijn rug naar het Museumplein gericht. Tot een goede inrichting van het Museumplein kwam het niet. Het terrein werd verhuurd voor grootschalige manifestaties en sportactiviteiten. Vanaf 1952 werd een nieuw inrichtingsplan van "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.2.html",
+     "tekst": " van een middenweg tot aan het Rijksmuseum. De snelweg is echter nooit voltooid. In de jaren '90 is het Museumplein heringericht door de Deen Sven-Ingvar Andersson. Sterke punten van het nieuwe Museumplein zijn de versterking van de zichtlijnen, de parkaanleg, de open ruimte die voor het Concertgebouw is vrijgelaten en de terugdringing van de auto's en bussen. De asymmetrie in het gebruik werd versterkt door aan de westzijde het voetgangersverkeer te concentreren, terwijl het fietsverkeer naar een kronkelend parcours aan de oostzijde werd verwezen. Het 'ezels-oor' aan de Van Baerlestraat heeft een vanzelfsprekende plek veroverd. De laantjes, de lichtlijn en het straatmeubilair versterken het"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.2.html",
+     "tekst": "splein, J.W. Brouwersstraat is een onderdeel van de plaatselijk vanaf het Museumplein zichtbare omringende bebouwing en vormt voor wat betreft schaal, structuur, materiaalgebruik en detaillering een rustige, bijna ongemerkte overgang van het Museumplein met zijn monumentale bebouwing naar de achter het Concertgebouw gelegen gave woonstraten. Een stedenbouwkundig waardevol element in het gebied rond het Museumplein vormt de Harmoniehof. De Harmoniehof is een woonbuurtje, gebouwd in de stijl van de Amsterdamse School, dat door zijn schaal een harmonieus geheel met zijn omgeving vormt. Vrijwel de gehele buurt is op de kaart cultuurhistorisch waardevolle bebouwing opgenomen. <"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.4.html",
+     "tekst": "in trek bij kapitaalkrachtige bewoners en bedrijven als woon- en werkbuurt. 2.4.1 Museumplein en omstreken Het gebied rondom het Museumplein bevat een aantal stedelijke functies. Met de grote musea en het Concertgebouw trekt de wijk jaarlijks miljoenen bezoekers uit binnen- en buitenland. In samenhang hiermee zijn er in de wijk circa 40 hotels, pensions en dergelijke gesitueerd. Overige bovenwijkse voorzieningen zijn een aantal scholen voor voortgezet onderwijs, het Zuiderbad en de Jellinek Kliniek. In totaal zijn in de wijk circa 150 voorzieningen op het gebied van onderwijs, sport en recreatie, cultuur, etc. "
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.5.html",
+     "tekst": "garage van Q-park. Deze garage is bedoeld voor de bezoekers van de vele voorzieningen (winkels, supermarkt, horeca, musea, kantoren) op en rond het Museumplein. De ingang van de parkeergarage is gesitueerd bij de ingang van de supermarkt. De uitgang van de parkeergarage bevindt zich recht tegenover het Concertgebouw; de uitrit maakt deel uit van het kruispunt Van Baerlestraat / Concertgebouwplein / GabriÃ«l Metsustraat. Voor toeristen-bussen is een aparte busgarage, eveneens ondergronds gesitueerd. De ingang van deze parkeergarage bevindt zich aan de Paulus Potterstraat, de uitgang ervan aan de Hobbemastraat. Voor het overige vindt het parkeren binnen het plangebied hoofdzakelijk plaats in d"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_2.5.html",
+     "tekst": "Willemsparkweg de allure van een entree tot het villapark. Speciaal zijn de schuinstaande platanen in de Lomanstraat. Deze overkappen in de zomer de straatruimte en werken daardoor als een soort zonnescherm. Concertgebouwbuurt In het gebied rond het concertgebouw hebben vrijwel alle straten bomen. De datering, soort en hoogte van deze bomen verschilt per straat, waardoor ook het ruimtelijk effect verschilt. Zo staan er bijvoorbeeld in de Johannes Verhulststraat monumentale iepen, terwijl er in de Van Breestraat acacia's staan. Kenmerkend voor de buurt is het raster van pleintjes op de kruispunten. Op deze pleintjes staan veelal kastanjes, welke een omslot"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_3.2.html",
+     "tekst": "De Structuurvisie door de gemeenteraad vastgesteld op 17 februari 2011. In de structuurvisie wordt het Museumkwartier als een unieke plek in Amsterdam met vier culturele instellingen van wereldniveau beschreven. Het gaat hierbij om het Rijksmuseum, Stedelijk Museum, Van Gogh Museum en het Concertgebouw. Het Museumkwartier is bovendien een belangrijke toeristische trekpleister. Alle vier de culturele instellingen zijn aan het verbouwen of hebben plannen daarvoor. De verwachting in de structuurvisie is dat hierdoor het aantal bezoekers groeit naar 5 miljoen per jaar. Door de aanleg van de Noord/Zuidlijn zal een groot deel van de bezoekers straks het Museumplein vanuit een andere richting benad"
+    },
+    {
+     "doc": "https://ruimtelijkeplannen.nl/documents/NL.IMRO.0363.K1005BPSTD-VG01/t_NL.IMRO.0363.K1005BPSTD-VG01_4.3.html",
+     "tekst": "t. Binnen een winkelstraat zijn functies als bedrijven, woningen en kantoren ongewenst. Deze functies zijn een bedreiging voor een aaneengesloten en sterk winkelfront. Het Museumplein, met de daarbij behorende randen, kent een specifiek gebruik. Door de aanwezigheid van grote musea en het concertgebouw vormt het Museumplein een belangrijk cultureel centrum. Aan de noord-westzijde en de zuid-oostzijde zijn grote kantoorpanden aanwezig. Er zijn weinig publiekgerichte functies aanwezig in de panden rond het Museumplein. Beleid In de keuzenotitie is een onderscheid gemaakt in deelgebieden waar bepaalde niet-w"
+    }
+   ]
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 2,
+  "bekendmakingen": 12,
+  "plannen": 41,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 58,
+ "pand_adressen": [
+  "Van Baerlestraat 98"
+ ]
+}

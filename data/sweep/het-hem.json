@@ -1,0 +1,2063 @@
+{
+ "id": "het-hem",
+ "naam": "Het HEM",
+ "adres": "Hemkade 18, 1506 PR Zaandam",
+ "termen": [
+  "Hemkade 18",
+  "1506PR",
+  "1506 PR",
+  "Het HEM"
+ ],
+ "pand": "0479100000083185",
+ "status": "unsure",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 1
+ },
+ "bouwdossiers": {
+  "n": 0,
+  "openbaar": 0,
+  "laatste": null,
+  "dossiers": []
+ },
+ "bekendmakingen": {
+  "n": 282,
+  "gezocht": [
+   "Hemkade 18",
+   "Hemkade 18G",
+   "Middenweg 51",
+   "Middenweg 53",
+   "Middenweg 55",
+   "Middenweg 57",
+   "Middenweg 59",
+   "Middenweg 61",
+   "Middenweg 63",
+   "Middenweg 65",
+   "Middenweg 67",
+   "Middenweg 69",
+   "Vulhuis 4"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-453425",
+    "titel": "Gemeente Moerdijk – Besluit Omgevingsvergunning – Heniff Depot B.V. - Middenweg 53, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-28",
+    "onderwerp": "Gemeente Moerdijk heeft een besluit genomen in het kader van de Omgevingswet over een aanvraag voor een omgevingsvergunning voor de locatie Middenweg 53, 4782PM Moerdijk.",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-453425.html",
+    "zaak": "Rx.Mission zaak Z2026-00007840"
+   },
+   {
+    "id": "wsb-2026-24484",
+    "titel": "Verleende omgevingsvergunning voor een wateractiviteit ter hoogte van Middenweg 61 1394AD Nederhorst den Berg - AGV - AGV2026-003443",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-09-18",
+    "onderwerp": "Omgevingsvergunning Water, Gemeente Wijdemeren, ter hoogte van Middenweg 61 in Nederhorst den Berg",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-24484.html",
+    "zaak": "AGV2026-003443"
+   },
+   {
+    "id": "bgr-2026-1928",
+    "titel": "Toestemming voor het inzetten van een graafmachine en kraan voor het vervangen van de bovenleidingsmas ter hoogte van Middenweg 65-67 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-17",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2026-1928.html"
+   },
+   {
+    "id": "gmb-2026-435241",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning, voor het splitsen van de woning op locatie Middenweg 63, 1394AD Nederhorst den Berg",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-16",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Middenweg 63, 1394AD Nederhorst den Berg. Startdatum:10 september 2026 datum besluit: 14 september 2026",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-435241.html",
+    "zaak": "Rx.Mission zaak Z2026-00000950"
+   },
+   {
+    "id": "gmb-2026-432635",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning, Middenweg 63, 1394AD Nederhorst den Berg",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-15",
+    "onderwerp": "Betreft: Aanvraag op locatie Middenweg 63, 1394AD Nederhorst den Berg startdatum: 10 september 2026",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-432635.html",
+    "zaak": "Rx.Mission zaak Z2026-00000950"
+   },
+   {
+    "id": "wsb-2026-19497",
+    "titel": "Nieuwe aanvraag omgevingsvergunning voor een wateractiviteit, ter hoogte van Middenweg 61 1394AD Nederhorst den Berg - AGV - AGV2026-003443",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-07-23",
+    "onderwerp": "Omgevingsvergunning Water, Gemeente Wijdemeren, ter hoogte van Middenweg 61 in Nederhorst den Berg",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-19497.html",
+    "zaak": "AGV2026-003443"
+   },
+   {
+    "id": "gmb-2026-321238",
+    "titel": "Kennisgeving besluit Middenweg 51, 7906LK Hoogeveen, het aanleggen van een uitrit, Verzenddatum: 2 juli 2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-07-06",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Middenweg 51, 7906LK Hoogeveen",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-321238.html",
+    "zaak": "Rx.Mission zaak Z2026-00001513"
+   },
+   {
+    "id": "gmb-2026-296416",
+    "titel": "Ingekomen aanvraag omgevingsvergunning, Middenweg 51, 7906LK Hoogeveen: het aanleggen van een uitrit (18 juni 2026)",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-22",
+    "onderwerp": "Betreft: Aanvraag op locatie Middenweg 51, 7906LK Hoogeveen",
+    "activiteit": "uitweg en inrit",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-296416.html",
+    "zaak": "Rx.Mission zaak Z2026-00001513"
+   },
+   {
+    "id": "gmb-2026-296907",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 53-3 1098AD Amsterdam, Middenweg 53A-3 1098AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-22",
+    "onderwerp": "realiseren van een dakterras, kozijnwijzigingen in de achtergevel op de derde verdieping, indelingswijzigingen, buitenunits en een dakopbouw .........",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-296907.html",
+    "zaak": "Z2026-024967"
+   },
+   {
+    "id": "gmb-2026-271602",
+    "titel": "Gemeente Moerdijk – Besluit ambtshalve maatwerkvoorschriften –  Omgevingsplan - Indaver Groencompost B.V.  - Middenweg 57, 4782PM Moerdijk",
+    "soort": "andere beschikking",
+    "datum": "2026-06-09",
+    "onderwerp": "Gemeente Moerdijk heeft een besluit genomen in het kader van de Omgevingswet tot het ambtshalve op grond van het Omgevingsplan maatwerkvoorschriften op te leggen voor de locatie Middenweg 57, 4782PM Moerdijk.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-271602.html",
+    "zaak": "Rx.Mission zaak Z2026-00009129"
+   },
+   {
+    "id": "prb-2026-9505",
+    "titel": "Provincie Noord-Brabant - Beschikking aanvraag omgevingsvergunning - Indaver Groencompost B.V. - Middenweg 57, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-06-08",
+    "onderwerp": "Gedeputeerde Staten van Noord-Brabant hebben een besluit genomen in het kader van de Omgevingswet over een aanvraag voor een omgevingsvergunning voor de locatie Middenweg 57, 4782PM Moerdijk.",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-9505.html",
+    "zaak": "Rx.Mission zaak Z2025-00029720"
+   },
+   {
+    "id": "prb-2026-8243",
+    "titel": "Ontbrandingstoestemming vuurwerk - Tussen Hemkade 18 en de Middenweg, Zaandam - 11 juli 2026",
+    "soort": "andere beschikking",
+    "datum": "2026-05-15",
+    "onderwerp": "Vuurwerk tbv het Joy x Flow festival, Hembrugterrein, Middenweg te Zaandam.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-8243.html",
+    "zaak": "OD2026-0024184"
+   },
+   {
+    "id": "gmb-2026-198424",
+    "titel": "Gemeente Moerdijk – Besluit verlengen beslistermijn omgevingsvergunning - Heniff Depot B.V. - Middenweg 53, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-24",
+    "onderwerp": "Burgemeester en wethouders hebben in het kader van de Omgevingswet een besluit genomen over het verlengen van de beslistermijn voor een omgevingsvergunning voor de locatie Middenweg 53, 4782PM Moerdijk.",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-198424.html",
+    "zaak": "Rx.Mission zaak Z2026-00007840"
+   },
+   {
+    "id": "gmb-2026-182575",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Middenweg 57-1 1098AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-17",
+    "onderwerp": "legaliseren van een muurdoorbraak op de 1e etage van de woning",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-182575.html",
+    "zaak": "Z2026-009079"
+   },
+   {
+    "id": "gmb-2026-181669",
+    "titel": "Toestemming voor het plaatsen van een kap tussen twee bestaande bedrijfsruimten en het verlengen van een bestaande bedrijsruimte op de locatie Middenweg 63 a te Breezand, zaaknummer Z-585367",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-04-16",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-181669.html"
+   },
+   {
+    "id": "gmb-2026-114979",
+    "titel": "Gemeente Moerdijk – aanvraag omgevingsvergunning – Heniff Depot B.V. - Middenweg 53, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-12",
+    "onderwerp": "Gemeente Moerdijk heeft in het kader van de Omgevingswet een aanvraag voor een omgevingsvergunning ontvangen voor de locatie Middenweg 53, 4782PM Moerdijk.",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-114979.html",
+    "zaak": "Rx.Mission zaak Z2026-00007840"
+   },
+   {
+    "id": "gmb-2026-108577",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Middenweg 51-H 1098AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "wijzigen van de reclame-uitingen aan de voorgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108577.html",
+    "zaak": "Z2026-003023"
+   },
+   {
+    "id": "gmb-2026-108791",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Middenweg 63-H 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-10",
+    "onderwerp": "legaliseren van de reclame-uiting aan de voorgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-108791.html",
+    "zaak": "Z2026-008556"
+   },
+   {
+    "id": "gmb-2026-106453",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 57-1 1098AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-09",
+    "onderwerp": "legaliseren van een muurdoorbraak op de 1e etage van de woning",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-106453.html",
+    "zaak": "Z2026-009079"
+   },
+   {
+    "id": "gmb-2026-101057",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 63-H 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-03-05",
+    "onderwerp": "legalisering reclame",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-101057.html",
+    "zaak": "Z2026-008556"
+   },
+   {
+    "id": "gmb-2026-39171",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 51-H 1098AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-29",
+    "onderwerp": "wijzigen van de reclame uitingen aan de voorgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-39171.html",
+    "zaak": "Z2026-003023"
+   },
+   {
+    "id": "gmb-2026-13662",
+    "titel": "Gemeente Haarlem, omgevingsvergunning verleend, Middenweg 69 2024XA Haarlem, 0392-2025-0174831, het plaatsen van een dakkapel aan de voorgevel van de woning, verzonden 09-01-2026",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-13",
+    "onderwerp": "het plaatsen van een dakkapel aan de voorgevel van de woning",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-13662.html",
+    "zaak": "0392-2025-0174831"
+   },
+   {
+    "id": "prb-2026-295",
+    "titel": "Provincie Noord-Brabant - aanvraag omgevingsvergunning - Indaver Groencompost B.V. - Middenweg 57, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-09",
+    "onderwerp": "Gedeputeerde Staten van Noord-Brabant hebben in het kader van de Omgevingswet een aanvraag voor een omgevingsvergunning ontvangen voor de locatie Middenweg 57, 4782PM Moerdijk.",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-295.html",
+    "zaak": "Rx.Mission zaak Z2025-00029720"
+   },
+   {
+    "id": "prb-2026-296",
+    "titel": "Provincie Noord-Brabant - Besluit verlengen beslistermijn omgevingsvergunning - Indaver Groencompost B.V. - Middenweg 57, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-09",
+    "onderwerp": "Gedeputeerde Staten van Noord-Brabant hebben in het kader van de Omgevingswet een besluit genomen over het verlengen van de beslistermijn voor een omgevingsvergunning voor de locatie Middenweg 57, 4782PM Moerdijk.",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2026-296.html",
+    "zaak": "Rx.Mission zaak Z2025-00029720"
+   },
+   {
+    "id": "gmb-2025-523845",
+    "titel": "Hollands Kroon - week 48 - verleende reguliere omgevingsvergunning B(OPA) - Middenweg 59-61, Breezand",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-12-02",
+    "onderwerp": "het wijzigen van de functie van de bedrijfsbebouwing van agrarisch naar wonen ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-523845.html",
+    "zaak": "Z-533767"
+   },
+   {
+    "id": "gmb-2025-511031",
+    "titel": "Gemeente Haarlem, ingekomen aanvraag omgevingsvergunning, Middenweg 69 2024XA Haarlem, 0392-2025-0174831, plaatsen dakkapel voorgevel, ontvangen op 21-11-2025",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-25",
+    "onderwerp": "plaatsen dakkapel voorgevel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-511031.html"
+   },
+   {
+    "id": "gmb-2025-494712",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Middenweg 53 Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-11-14",
+    "onderwerp": "realiseren van balkons op de tweede verdieping",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-494712.html",
+    "zaak": "Z2025-039206"
+   },
+   {
+    "id": "gmb-2025-439180",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-10",
+    "onderwerp": "realiseren van balkons op de tweede verdieping",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-439180.html",
+    "zaak": "Z2025-039206"
+   },
+   {
+    "id": "gmb-2025-439178",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-10-10",
+    "onderwerp": "realiseren van balkons op de tweede verdieping",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-439178.html",
+    "zaak": "Z2025-039206"
+   },
+   {
+    "id": "gmb-2025-422508",
+    "titel": "Besluit omgevingsvergunning reguliere procedure gedeeltelijk verleend Middenweg 59 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-30",
+    "onderwerp": "legaliseren van de reclame-uiting en de gevelbanken aan de voorzijdes van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-422508.html",
+    "zaak": "Z2025-036242"
+   },
+   {
+    "id": "gmb-2025-409022",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend Middenweg 53-1 1098AD Amsterdam, Middenweg 53-2 1098AD Amsterdam, Middenweg 53-3 1098AD Amsterdam, Middenweg 53-H 1098AD Amsterdam, Middenweg 53A-1 1098AD Amsterdam, Middenweg 53A-2 1098AD Amsterdam, Middenweg 53A-3 1098AD Amsterdam, Middenweg 53A-H 1098AD Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-22",
+    "onderwerp": "wijzigen van de winkelpuien op de begane grond en de kozijnen in de voorgevel van de bovenliggende woningen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-409022.html",
+    "zaak": "Z2025-026372"
+   },
+   {
+    "id": "gmb-2025-381168",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 59 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-09-03",
+    "onderwerp": "legaliseren van de reclame-uiting en de gevelbanken aan de voorzijdes van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-381168.html",
+    "zaak": "Z2025-036242"
+   },
+   {
+    "id": "gmb-2025-290140",
+    "titel": "Besluit aanvraag omgevingsvergunning voor het splitsen van de bestaande bovenwoning in twee woningen aan Middenweg 55 en 55A (voorlopige huisnummers) in Andijk (reguliere voorbereidingsprocedure)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-03",
+    "onderwerp": "Betreft: Besluit op locatie Middenweg 55 en 55A (voorlopige huisnummers) in Andijk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-290140.html",
+    "zaak": "Rx.Mission zaak Z2025-00001041"
+   },
+   {
+    "id": "prb-2025-10738",
+    "titel": "Beschikking uitgebreid Wabo voor Indaver Groencompost B.V. - Middenweg 57, 4782PM Moerdijk - OLO 6367959 - 2023-035978",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-07-03",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Middenweg 57, 4782PM Moerdijk",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-10738.html"
+   },
+   {
+    "id": "gmb-2025-252601",
+    "titel": "Kennisgeving aanvraag omgevingsvergunning voor splitsen van de bestaande bovenwoning in twee woningen, Middenweg 55 in Andijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-06-11",
+    "onderwerp": "Betreft: Aanvraag op locatie Middenweg 55 in Andijk",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-252601.html",
+    "zaak": "Rx.Mission zaak Z2025-00001041"
+   },
+   {
+    "id": "gmb-2025-227251",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 69 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-23",
+    "onderwerp": "legaliseren van de reclame uitingen aan de voorgevel van het gebouw",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-227251.html",
+    "zaak": "Z2025-021834"
+   },
+   {
+    "id": "prb-2025-7520",
+    "titel": "Ontwerpbeschikking uitgebreid Wabo - Indaver Groencompost B.V. - Middenweg 57, 4782PM Moerdijk - OLO 6367959 - 2023-035978",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-09",
+    "onderwerp": "Betreft: ontwerpbesluit op locatie Middenweg 57, 4782PM Moerdijk",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2025-7520.html",
+    "zaak": "Rx.Mission zaak 2023-035978"
+   },
+   {
+    "id": "gmb-2025-190378",
+    "titel": "Vergunningvrij (Middenweg 59, 3474 KC Zegveld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-05-01",
+    "onderwerp": "het vervangen van een dakkapel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-190378.html",
+    "zaak": "L-25-008982"
+   },
+   {
+    "id": "gmb-2025-86713",
+    "titel": "Ingekomen verzoek (Middenweg 59, 3474 KC Zegveld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-28",
+    "onderwerp": "het vervangen en aanpassen van een dakkapel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-86713.html",
+    "zaak": "L-25-008982"
+   },
+   {
+    "id": "gmb-2025-84917",
+    "titel": "Gemeente Hollands Kroon - 2025 week 8 ingekomen aanvraag omgevingsvergunning van Middenweg 59 Breezand (Z-533767)",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-27",
+    "onderwerp": "het wijzigen van de functie van de bedrijfsbebouwing van agrarisch naar wonen Middenweg 59 en 61 in Breezand (percelen 6476/ 6474/ 6544)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-84917.html",
+    "zaak": "Z-533767"
+   },
+   {
+    "id": "bgr-2025-404",
+    "titel": "Toestemming voor het oprichten, ca 9 weken laten staan en gebruiken van een werksteiger van ca 12 meter hoog voor de gevel van Middenweg 53 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2025-02-20",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2025-404.html"
+   },
+   {
+    "id": "bgr-2024-2095",
+    "titel": "Aanvraag vergunning voor het inzetten ca 15 weken laten staan en gebruiken van een werksteiger van ca 18 meter hoog voor de gevel van Middenweg 51 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-31",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-2095.html"
+   },
+   {
+    "id": "bgr-2024-2087",
+    "titel": "Toestemming voor het inzetten ca 15 weken laten staan en gebruiken van een werksteiger van ca 18 meter hoog voor de gevel van Middenweg 51 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-31",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-2087.html"
+   },
+   {
+    "id": "gmb-2024-456949",
+    "titel": "Besluit voor het uitbreiden van een woning aan de Middenweg 63, 7255WR Hengelo (Gld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-10-30",
+    "onderwerp": "Betreft: Beschikking op aanvraag op locatie Middenweg 63, 7255WR Hengelo (Gld)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-456949.html",
+    "zaak": "Rx.Mission zaak Z2024-2018"
+   },
+   {
+    "id": "bgr-2024-1766",
+    "titel": "Toestemming voor het inzetten ca 4 weken laten staan en gebruiken van een werksteiger van ca 12 meter hoog aan Middenweg 53 te Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-26",
+    "onderwerp": "",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/bgr-2024-1766.html"
+   },
+   {
+    "id": "gmb-2024-382126",
+    "titel": "Aanvraag vergunning voor het uitbreiden van een woning aan de Middenweg 63, 7255WR Hengelo (Gld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-09-06",
+    "onderwerp": "Betreft: Aanvraag op locatie Middenweg 63, 7255WR Hengelo (Gld)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-382126.html",
+    "zaak": "Rx.Mission zaak Z2024-2018"
+   },
+   {
+    "id": "gmb-2024-340447",
+    "titel": "Geen vergunning nodig voor het verbouwen en vergroten van een woning aan de Middenweg 63, 7255WR Hengelo (Gld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-08-02",
+    "onderwerp": "Betreft: Vergunningvrij verklaard op locatie Middenweg 63, 7255WR Hengelo (Gld)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-340447.html",
+    "zaak": "Rx.Mission zaak Z2024-1317"
+   },
+   {
+    "id": "gmb-2024-301005",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 59 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-07-10",
+    "onderwerp": "wijzigen gebruik van winkel naar horeca 1, met bijbehorend terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-301005.html",
+    "zaak": "Z2024-016712"
+   },
+   {
+    "id": "gmb-2024-274787",
+    "titel": "Besluit omgevingsvergunning reguliere procedure geweigerd Middenweg 59 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-24",
+    "onderwerp": "wijzigen van het gebruik naar horeca 1",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-274787.html",
+    "zaak": "Z2024-000952"
+   },
+   {
+    "id": "gmb-2024-255180",
+    "titel": "Verlengen beslistermijn beoordelen van de aanvraag voor het het verbouwen en vergroten van een woning aan de Middenweg 63, 7255WR Hengelo (Gld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-12",
+    "onderwerp": "Betreft: Beschikking verlenging beslistermijn op locatie Middenweg 63, 7255WR Hengelo (Gld)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-255180.html",
+    "zaak": "Rx.Mission zaak Z2024-1317"
+   },
+   {
+    "id": "gmb-2024-243607",
+    "titel": "Aanvraag vergunning voor het verbouwen en vergroten van een woning aan de Middenweg 63, 7255WR Hengelo (Gld)",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-05",
+    "onderwerp": "Betreft: Aanvraag op locatie Middenweg 63, 7255WR Hengelo (Gld)",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-243607.html",
+    "zaak": "Rx.Mission zaak Z2024-1317"
+   },
+   {
+    "id": "gmb-2024-240480",
+    "titel": "Verleende omgevingsvergunning - Middenweg 47, 1505 RK Zaandam, Middenweg 62, 1505 RK Zaandam, Warmperserij 48, 1505 RL Zaandam, Middenweg 59, 1505 RK Zaandam - het wijzigen van de brandcompartimenteri",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-06-04",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-240480.html",
+    "zaak": "O2024027266"
+   },
+   {
+    "id": "gmb-2024-164677",
+    "titel": "Aanvraag omgevingsvergunning - Middenweg 47, 1505 RK Zaandam, Middenweg 62, 1505 RK Zaandam, Warmperserij 48, 1505 RL Zaandam, Middenweg 59, 1505 RK Zaandam - het wijzigen van de brandcompartimenterin",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-04-15",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-164677.html",
+    "zaak": "O2024027266"
+   },
+   {
+    "id": "gmb-2024-124410",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Middenweg 59 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-20",
+    "onderwerp": "wijzigen van het gebruik naar horeca 1",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-124410.html",
+    "zaak": "Z2024-000952"
+   },
+   {
+    "id": "gmb-2024-124405",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 59 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-03-20",
+    "onderwerp": "wijzigen van het gebruik naar horeca 1",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-124405.html",
+    "zaak": "Z2024-000952"
+   },
+   {
+    "id": "gmb-2024-76474",
+    "titel": "Verlenging beslistermijn omgevingsvergunning Middenweg 51-H 1098AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-19",
+    "onderwerp": "renoveren van een bestaande garage",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-76474.html",
+    "zaak": "Z2023-O005813"
+   },
+   {
+    "id": "gmb-2024-65917",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 51-H 1098AC Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-02-12",
+    "onderwerp": "renoveren van een bestaande garage",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-65917.html",
+    "zaak": "Z2023-O005813"
+   },
+   {
+    "id": "gmb-2023-535898",
+    "titel": "Besluit omgevingsvergunning reguliere procedure Middenweg 69 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-12-14",
+    "onderwerp": "het plaatsen van een nieuwe trap in het magazijn",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-535898.html",
+    "zaak": "Z2023-O005254"
+   },
+   {
+    "id": "gmb-2023-503439",
+    "titel": "Aanvraag omgevingsvergunning Middenweg 69 1098AE Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-24",
+    "onderwerp": "het plaatsen van een nieuwe trap in het magazijn",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-503439.html",
+    "zaak": "Z2023-O005254"
+   },
+   {
+    "id": "gmb-2023-342577",
+    "titel": "Sloopmelding geaccepteerd, verwijderen van asbesthoudende materialen, Middenweg 69 1782BB Den Helder",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-08-04",
+    "onderwerp": "verwijderen van asbesthoudende materialen, Middenweg 69 1782BB Den Helder",
+    "activiteit": "slopen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-342577.html"
+   },
+   {
+    "id": "prb-2023-7349",
+    "titel": "Wet milieubeheer MER beoordeling - Indaver Groencompost B.V. - Aanmeldingsnotitie m.e.r. - Middenweg 57 Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-29",
+    "onderwerp": "Betreft: besluit MER beoordeling op locatie Middenweg 57  te Moerdijk",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-7349.html"
+   },
+   {
+    "id": "gmb-2022-530868",
+    "titel": "Besluit/beoordeling (Zegveld, Middenweg 53)",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-01",
+    "onderwerp": "het plaatsen van twee dakkapellen",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-530868.html"
+   },
+   {
+    "id": "gmb-2022-410683",
+    "titel": "Ingekomen aanvraag/melding (Zegveld, Middenweg 53)",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-09-15",
+    "onderwerp": "het plaatsen van een dakkapel",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-410683.html"
+   },
+   {
+    "id": "gmb-2022-176938",
+    "titel": "Omgevingsvergunning - Beschikking aanvraag buiten behandeling gesteld, Oude Middenweg 55  te Den Haag",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-20",
+    "onderwerp": "Het brandveilig in gebruik nemen van het pand Oude Middenweg 55",
+    "activiteit": "brandveilig gebruik",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-176938.html"
+   },
+   {
+    "id": "gmb-2022-161274",
+    "titel": "Hollands Kroon –herroeping intrekkings besluit omgevingsvergunning vergroten van de bedrijfsruimte Middenweg 65a Breezand",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-04-11",
+    "onderwerp": "herroeping intrekkingsbesluit Middenweg 65 a Breezand",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-161274.html"
+   },
+   {
+    "id": "prb-2022-509",
+    "titel": "KENNISGEVING WET NATUURBESCHERMING, Indaver Groencompost BV, Middenweg 57, 4782 PM te Moerdijk, Z/126491",
+    "soort": "andere beschikking",
+    "datum": "2022-01-13",
+    "onderwerp": "PNB Wnb Vergunning Gebieden; Middenweg 57 Moerdijk: Indaver Groencompost B.V.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2022-509.html"
+   },
+   {
+    "id": "prb-2021-10962",
+    "titel": "KENNISGEVING WET NATUURBESCHERMING, Indaver Groencompost BV, Middenweg 57, 4782 PM te Moerdijk, Z/126491",
+    "soort": "andere beschikking",
+    "datum": "2021-11-16",
+    "onderwerp": "PNB Wnb Vergunning Gebieden; Middenweg 57 Moerdijk: Indaver Groencompost B.V.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-10962.html"
+   },
+   {
+    "id": "gmb-2021-320034",
+    "titel": "Haarlem, verleende vergunning van rechtswege Middenweg 65, 2021-05393, bouwen van dakkapel in voordakvlak, verzonden 13 september 2021",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-09-17",
+    "onderwerp": "",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-320034.html"
+   },
+   {
+    "id": "gmb-2021-294069",
+    "titel": "Omgevingsvergunning - Aangevraagd, Oude Middenweg 55  te Den Haag",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-08-30",
+    "onderwerp": "Het brandveilig in gebruik nemen van het pand Oude Middenweg 55",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-294069.html"
+   },
+   {
+    "id": "prb-2021-6986",
+    "titel": "KENNISGEVING WET NATUURBESCHERMING, Indaver Groencompost BV, Middenweg 57, 4782 PM te Moerdijk, Z/126491",
+    "soort": "andere beschikking",
+    "datum": "2021-08-11",
+    "onderwerp": "PNB Wnb Vergunning Gebieden; Middenweg 57 Moerdijk: Indaver Groencompost B.V.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-6986.html"
+   },
+   {
+    "id": "prb-2021-5934",
+    "titel": "Aanvraag omgevingsvergunning voor OLO 6147565 Indaver Groencompost B.V., - Middenweg 57, 4782PM Moerdijk",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-20",
+    "onderwerp": "Betreft: de vervanging van twee tanks (bassins) voor de opslag van percolaatwater op locatie Middenweg 57, 4782PM Moerdijk",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2021-5934.html"
+   },
+   {
+    "id": "gmb-2021-235284",
+    "titel": "Haarlem, ingekomen aanvraag omgevingsvergunning Middenweg 65, 2021-05393, plaatsen dakkapel voorgevel, 13 juli 2021",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-07-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-235284.html"
+   },
+   {
+    "id": "gmb-2021-202605",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-202605.html"
+   },
+   {
+    "id": "gmb-2021-198138",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-198138.html"
+   },
+   {
+    "id": "gmb-2021-188184",
+    "titel": "Kennisgeving ontvangst aanvraag evenementenvergunning Middenweg 53, 1462HD Middenbeemster",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-06-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-188184.html"
+   },
+   {
+    "id": "gmb-2021-179504",
+    "titel": "Beschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-179504.html"
+   },
+   {
+    "id": "gmb-2021-179551",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-06-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-179551.html"
+   },
+   {
+    "id": "gmb-2021-148047",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-05-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-148047.html"
+   },
+   {
+    "id": "gmb-2021-123663",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-04-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-123663.html"
+   },
+   {
+    "id": "gmb-2021-98678",
+    "titel": "Ontwerpbeschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2021-03-31",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-98678.html"
+   },
+   {
+    "id": "gmb-2021-72862",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2021-03-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-72862.html"
+   },
+   {
+    "id": "gmb-2020-344887",
+    "titel": "Meldingen Wet milieubeheer",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-12-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-344887.html"
+   },
+   {
+    "id": "wsb-2020-13499",
+    "titel": "20.0926545 verleende vergunning voor het verbreden van een dam met hierin te verlengen duiker in de noordwestelijke wegsloot, plaatsen beschoeiing, bij Middenweg 53 in Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-12-01",
+    "onderwerp": "het verbreden van een dam met hierin te verlengen duiker in de noordwestelijke wegsloot, plaatsen beschoeiing, bij Middenweg 53 in Breezand",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2020-13499.html"
+   },
+   {
+    "id": "gmb-2020-308359",
+    "titel": "Hollands Kroon - RECTIFICATIE 2020 week 36, ingekomen aanvraag omgevingsvergunning van Middenweg 61 b Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-11-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-308359.html"
+   },
+   {
+    "id": "gmb-2020-250317",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-09-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-250317.html"
+   },
+   {
+    "id": "gmb-2020-186379",
+    "titel": "Verleende omgevingsvergunning voor het vergroten van een woning op de locatie Middenweg 57, 1746 EB in Dirkshorn",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-186379.html"
+   },
+   {
+    "id": "gmb-2020-184642",
+    "titel": "Kennisgeving besluit op aanvraag omgevingsvergunning Middenweg 51 te Nederhorst den Berg",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-07-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-184642.html"
+   },
+   {
+    "id": "gmb-2020-169792",
+    "titel": "Aanvraag omgevingsvergunning voor het vergroten van een woning op de locatie Middenweg 57, 1746 EB in Dirkshorn",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-07-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-169792.html"
+   },
+   {
+    "id": "gmb-2020-144958",
+    "titel": "Beschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-06-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-144958.html"
+   },
+   {
+    "id": "gmb-2020-115243",
+    "titel": "Kennisgeving ontvangst aanvraag omgevingsvergunning Middenweg 51 te Nederhorst den Berg",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2020-05-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-115243.html"
+   },
+   {
+    "id": "gmb-2020-84882",
+    "titel": "Ontwerpbeschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-04-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-84882.html"
+   },
+   {
+    "id": "gmb-2020-4523",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2020-01-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2020-4523.html"
+   },
+   {
+    "id": "gmb-2019-315394",
+    "titel": "Meldingen Wet milieubeheer",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-315394.html"
+   },
+   {
+    "id": "gmb-2019-315369",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-315369.html"
+   },
+   {
+    "id": "gmb-2019-274552",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-11-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-274552.html"
+   },
+   {
+    "id": "gmb-2019-254636",
+    "titel": "Middenweg 55 Muntendam, Verleende omgevingsvergunning (reguliere procedure) Z2019-00005616",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-254636.html"
+   },
+   {
+    "id": "gmb-2019-253797",
+    "titel": "Middenweg 55 te Muntendam, Melding Activiteitenbesluit Z2019-00009236",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-253797.html"
+   },
+   {
+    "id": "gmb-2019-250969",
+    "titel": "beschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-10-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-250969.html"
+   },
+   {
+    "id": "gmb-2019-208420",
+    "titel": "Gemeente Aalsmeer - sloopmelding ontvangen - Middenweg 53 in Aalsmeer",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-08-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-208420.html"
+   },
+   {
+    "id": "gmb-2019-199278",
+    "titel": "Gemeente Aalsmeer - melding mobiel puinbreken ontvangen - Middenweg 55 in Aalsmeer",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-08-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-199278.html"
+   },
+   {
+    "id": "gmb-2019-197499",
+    "titel": "Ontwerpbeschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-08-07",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-197499.html"
+   },
+   {
+    "id": "gmb-2019-163875",
+    "titel": "Middenweg 55 Muntendam Verlenging beslistermijn omgevingsvergunning (reguliere procedure) Z2019-00005616",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-07-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-163875.html"
+   },
+   {
+    "id": "gmb-2019-150256",
+    "titel": "Gemeente Medemblik, Verleende omgevingsvergunning, Middenweg 57, Andijk week 25",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-06-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-150256.html"
+   },
+   {
+    "id": "gmb-2019-127328",
+    "titel": "Middenweg  55  Muntendam aanvraag omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-05-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-127328.html"
+   },
+   {
+    "id": "gmb-2019-119645",
+    "titel": "Gemeente Medemblik, Aanvraag omgevingsvergunning, Middenweg 57, Andijk week 20",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-05-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-119645.html"
+   },
+   {
+    "id": "gmb-2019-108922",
+    "titel": "Gemeente Aalsmeer – melding akkoord voor mobiel puinbreken– Middenweg 55",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-05-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-108922.html"
+   },
+   {
+    "id": "wsb-2019-3554",
+    "titel": "19.0759148 verleende vergunning voor het plaatsen van een damwand/beschoeiing in de waterloop aan de westzijde van Middenweg 59 in Bovenkarspel",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-04-01",
+    "onderwerp": "het plaatsen van een damwand/beschoeiing in de waterloop aan de westzijde van Middenweg 59 in Bovenkarspel",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2019-3554.html"
+   },
+   {
+    "id": "gmb-2019-39339",
+    "titel": "Gemeente Castricum, verleende Omgevingsvergunning (regulier), Middenweg 51 in Limmen, het vergroten van de woning 11 februari 2019 (WABO1802091)",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2019-02-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-39339.html"
+   },
+   {
+    "id": "gmb-2019-1500",
+    "titel": "Gemeente Castricum, ontvangen aanvraag Omgevingsvergunning, Middenweg 51 in Limmen, het vergroten van de woning (WABO1802091)",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2019-01-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2019-1500.html"
+   },
+   {
+    "id": "gmb-2018-258113",
+    "titel": "Gemeente Aalsmeer - sloopmelding akkoord - Middenweg 53 in Aalsmeer",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-12-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-258113.html"
+   },
+   {
+    "id": "gmb-2018-248402",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-11-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-248402.html"
+   },
+   {
+    "id": "gmb-2018-226804",
+    "titel": "Gemeente Aalsmeer - sloopmelding akkoord - Middenweg 53 ea in Aalsmeer",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-10-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-226804.html"
+   },
+   {
+    "id": "gmb-2018-216787",
+    "titel": "omgevingsvergunning: Middenweg 63 in Hengelo (Gld), het kappen van 2 beuken",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-10-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-216787.html"
+   },
+   {
+    "id": "gmb-2018-184775",
+    "titel": "omgevingsvergunning: Middenweg 63 in Hengelo (Gld), het kappen van 2 beuken",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-184775.html"
+   },
+   {
+    "id": "gmb-2018-172700",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-08-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-172700.html"
+   },
+   {
+    "id": "gmb-2018-151857",
+    "titel": "Beschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-07-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-151857.html"
+   },
+   {
+    "id": "gmb-2018-127286",
+    "titel": "Middenweg 55 te Muntendam, Melding Activiteitenbesluit",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-06-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-127286.html"
+   },
+   {
+    "id": "gmb-2018-123495",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-06-12",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-123495.html"
+   },
+   {
+    "id": "gmb-2018-110344",
+    "titel": "Beschikking Wabo intrekken vergunning op verzoek, uitgebreide procedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-05-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-110344.html"
+   },
+   {
+    "id": "gmb-2018-109561",
+    "titel": "Middenweg 55 te Muntendam, Melding Activiteitenbesluit",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-05-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-109561.html"
+   },
+   {
+    "id": "gmb-2018-106084",
+    "titel": "Ontwerpbeschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-05-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-106084.html"
+   },
+   {
+    "id": "gmb-2018-73516",
+    "titel": "Hollands Kroon - week 14 verleende reguliere omgevingsvergunning Middenweg 53 te Breezand",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-04-10",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-73516.html"
+   },
+   {
+    "id": "gmb-2018-54760",
+    "titel": "Hollandskroon week 10. Verleende uitgebreide omgevingsvergunning: Middenweg 65, 1764 KM Breezand, voor het brandveilig gebruiken van een bedrijfswoning ten behoeve van de huisvesting van tijdelijke arbeidsmigranten.",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-03-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-54760.html"
+   },
+   {
+    "id": "stcrt-2018-15630",
+    "titel": "Hollandskroon week 10. Verleende uitgebreide omgevingsvergunning: Middenweg 65, 1764 KM Breezand, voor het brandveilig gebruiken van een bedrijfswoning ten behoeve van de huisvesting van tijdelijke arbeidsmigranten.",
+    "soort": "Vergunningen",
+    "datum": "2018-03-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2018-15630.html"
+   },
+   {
+    "id": "gmb-2018-40742",
+    "titel": "Wet milieubeheer opleggen maatwerkvoorschriften",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-02-27",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-40742.html"
+   },
+   {
+    "id": "gmb-2018-37952",
+    "titel": "Ontwerpbeschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-02-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-37952.html"
+   },
+   {
+    "id": "gmb-2018-20845",
+    "titel": "Hollands Kroon - Week 5 - verlengen beslistermijn aanvraag omgevingsvergunning, Middenweg 53 in Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-01-31",
+    "onderwerp": "Z-186645",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-20845.html"
+   },
+   {
+    "id": "stcrt-2018-2790",
+    "titel": "Hollands Kroon - week  2 Ontwerp omgevingsvergunning voor het brandveilig gebruik van een bedrijfsgebouw aan de Middenweg 65 in Breezand",
+    "soort": "Vergunningen",
+    "datum": "2018-01-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2018-2790.html"
+   },
+   {
+    "id": "gmb-2018-9589",
+    "titel": "Hollands Kroon - week  2 Ontwerp omgevingsvergunning voor het brandveilig gebruik van een bedrijfsgebouw aan de Middenweg 65 in Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2018-01-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-9589.html"
+   },
+   {
+    "id": "gmb-2018-776",
+    "titel": "Haarlem, verleende omgevingsvergunning Middenweg 57, 2017-09600, gewijzigd uitvoeren voorgevel en verhogen dak t.o.v. eerder verleende dakopbouw (2017-00358), ontheffing handelen in strijd met regels ruimtelijke ordening, verzonden 22 december 2017",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2018-01-02",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2018-776.html"
+   },
+   {
+    "id": "gmb-2017-226960",
+    "titel": "Haarlem, ingekomen aanvraag omgevingsvergunning Middenweg 57, 2017-09600, aanpassing op reeds vergunde dakopbouw, 17 december 2017",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-12-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-226960.html"
+   },
+   {
+    "id": "gmb-2017-225297",
+    "titel": "Omgevingsvergunning verleend voor het tijdelijk plaatsen van een  reclameschep en  reclamebord, Green Park Aalsmeer, tegenover Middenweg 53, kadaststraal bekend G 9626, Aalsmeer - Zaaknummer Z-2017/050076",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-12-21",
+    "onderwerp": "Het tijdelijk plaatsen van een 12 meter hoge reclameschep met daarnaast een verwijzend reclamebord van 1 december 2017 tot 1 december 2022.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-225297.html"
+   },
+   {
+    "id": "gmb-2017-223055",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-12-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-223055.html"
+   },
+   {
+    "id": "gmb-2017-220928",
+    "titel": "Hollands Kroon - week 50, ingekomen aanvraag omgevingsvergunning Middenweg 53, Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-12-14",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-220928.html"
+   },
+   {
+    "id": "gmb-2017-214719",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-12-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-214719.html"
+   },
+   {
+    "id": "gmb-2017-177384",
+    "titel": "Aanvraag omgevingsvergunning voor het tijdelijk plaatsen van een  reclameschep, Green Park Aalsmeer, tegenover Middenweg 53, kadaststraal bekend G 9626, Aalsmeer - Zaaknummer Z-2017/050076",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-10-12",
+    "onderwerp": "Het tijdelijk plaatsen van een 12 meter hoge reclameschep met daarnaast een verwijzend reclamebord van 1 december 2017 tot 1 december 2022.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-177384.html"
+   },
+   {
+    "id": "gmb-2017-126497",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-07-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-126497.html"
+   },
+   {
+    "id": "gmb-2017-75001",
+    "titel": "Haarlem, verleende omgevingsvergunning Middenweg 57, 2017-00358, realiseren dakopbouw en aanbouw met dakterras, ontheffing handelen in strijd met regels ruimtelijke ordening, verzonden 1 mei 2017",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-05-05",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-75001.html"
+   },
+   {
+    "id": "gmb-2017-71665",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-05-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-71665.html"
+   },
+   {
+    "id": "gmb-2017-26921",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-02-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-26921.html"
+   },
+   {
+    "id": "gmb-2017-26976",
+    "titel": "Meldingen Wet milieubeheer",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-02-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-26976.html"
+   },
+   {
+    "id": "gmb-2017-22744",
+    "titel": "Verleende omgevingsvergunningen",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2017-02-13",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-22744.html"
+   },
+   {
+    "id": "gmb-2017-18955",
+    "titel": "Hollands Kroon - week 4 ingekomen aanvraag omgevingsvergunning Middenweg 65,  1764 KM Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-02-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-18955.html"
+   },
+   {
+    "id": "gmb-2017-10992",
+    "titel": "Haarlem, aanvraag omgevingsvergunning Middenweg 57, 2017-00358, realiseren aanbouw en opbouw, 17 januari 2017",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2017-01-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2017-10992.html"
+   },
+   {
+    "id": "gmb-2016-177755",
+    "titel": "Ingediende aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-12-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-177755.html"
+   },
+   {
+    "id": "gmb-2016-162068",
+    "titel": "Beschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-11-21",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-162068.html"
+   },
+   {
+    "id": "gmb-2016-128353",
+    "titel": "Ontwerp beschikking Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-09-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-128353.html"
+   },
+   {
+    "id": "gmb-2016-109704",
+    "titel": "Ontwerp beschikking fase 1 Wabo uitgebreide voorbereidingsprocedure",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-08-08",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-109704.html"
+   },
+   {
+    "id": "gmb-2016-97121",
+    "titel": "Aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-07-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-97121.html"
+   },
+   {
+    "id": "stcrt-2016-25618",
+    "titel": "Hollands Kroon - week 19 Verleende omgevingsvergunning brandveilig gebruik Middenweg 53 , 1764 KL Breezand",
+    "soort": "Vergunningen",
+    "datum": "2016-05-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2016-25618.html"
+   },
+   {
+    "id": "gmb-2016-61459",
+    "titel": "Hollands Kroon - week 19 Verleende omgevingsvergunning brandveilig gebruik Middenweg 53 , 1764 KL Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-05-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-61459.html"
+   },
+   {
+    "id": "gmb-2016-42987",
+    "titel": "Aanvraag omgevingsvergunning voor maken van een avegaarboring, Middenweg 55, Aalsmeer - Zaaknummer Z-2016/017836",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-04-07",
+    "onderwerp": "het maken van een avegaarboring tbv. duiker Kruising N201",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-42987.html"
+   },
+   {
+    "id": "gmb-2016-39351",
+    "titel": "Hollands Kroon, week 10 verleende reguliere omgevingsvergunning Middenweg 53, 1764 KL Breezand",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-04-01",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-39351.html"
+   },
+   {
+    "id": "gmb-2016-37664",
+    "titel": "Aanvragen voor een omgevingsvergunning",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-03-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-37664.html"
+   },
+   {
+    "id": "gmb-2016-33109",
+    "titel": "Hollands Kroon - week 9 ingekomen aanvraag omgevingsvergunning Middenweg 53, 1764 KL Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-03-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-33109.html"
+   },
+   {
+    "id": "stcrt-2016-13693",
+    "titel": "Hollands Kroon, week 11 ontwerp omgevingsvergunning Middenweg 53, 1764 KL Breezand",
+    "soort": "Vergunningen",
+    "datum": "2016-03-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2016-13693.html"
+   },
+   {
+    "id": "gmb-2016-30851",
+    "titel": "Hollands Kroon, week 11 ontwerp omgevingsvergunning Middenweg 53, 1764 KL Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2016-03-16",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-30851.html"
+   },
+   {
+    "id": "gmb-2016-31072",
+    "titel": "Hollands Kroon, week 10 verleende reguliere omgevingsvergunning Middenweg 53, 1764 KL Breezand",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-03-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-31072.html"
+   },
+   {
+    "id": "gmb-2016-19791",
+    "titel": "Verleende omgevingsvergunning voor het vervangen van een tuinbouwkas door een schuurkas op de locatie Middenweg 59, 1746 EB in Dirkshorn",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2016-02-19",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2016-19791.html"
+   },
+   {
+    "id": "gmb-2015-127650",
+    "titel": "Aanvraag omgevingsvergunning voor het vervangen van een tuinbouwkas door een schuurkas op de locatie Middenweg 59, 1746 EB in Dirkshorn",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-127650.html"
+   },
+   {
+    "id": "gmb-2015-118026",
+    "titel": "Hollands Kroon - week 49 ingekomen aanvraag omgevingsvergunning Middenweg 53, 1764 KL Breezand",
+    "soort": "Beschikkingen | aanvraag",
+    "datum": "2015-12-09",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2015-118026.html"
+   },
+   {
+    "id": "gmb-2014-54909",
+    "titel": "Ontheffing geluid/tuinfeest ",
+    "soort": "Beschikkingen | afhandeling",
+    "datum": "2014-10-03",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2014-54909.html"
+   },
+   {
+    "id": "stcrt-2014-8469",
+    "titel": "Beschikking omgevingsvergunning in afwijking van het bestemmingsplan Green Park Aalsmeer, Middenweg en dg 3, 5 en 7, doorgaande wegverbinding Middenweg (uitgebreide procedure) en besluit hogere waarden Wet geluidhinder, Aalsmeer",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-03-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-8469.html"
+   },
+   {
+    "id": "stcrt-2014-8439",
+    "titel": "Beschikking omgevingsvergunning in afwijking van het bestemmingsplan Green Park Aalsmeer, Middenweg en dg 3, 5 en 7, doorgaande wegverbinding Middenweg (uitgebreide procedure) en besluit hogere waarden Wet geluidhinder, Amstelveen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-03-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-8439.html"
+   },
+   {
+    "id": "stcrt-2013-29425",
+    "titel": "Ontwerpbeschikking omgevingsvergunning in afwijking van bestemmingsplan Green Park Aalsmeer, Middenweg en dg 3, 5 en 7, doorgaande wegverbinding Middenweg, Aalsmeer",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-10-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-29425.html"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-453425",
+   "gmb-2026-435241",
+   "gmb-2026-432635",
+   "wsb-2026-19497",
+   "gmb-2026-296416",
+   "gmb-2026-296907",
+   "prb-2026-9505",
+   "gmb-2026-198424",
+   "gmb-2026-182575",
+   "gmb-2026-114979",
+   "gmb-2026-108577",
+   "gmb-2026-108791",
+   "gmb-2026-106453",
+   "gmb-2026-101057",
+   "gmb-2026-39171",
+   "prb-2026-295",
+   "prb-2026-296",
+   "gmb-2025-511031",
+   "gmb-2025-494712",
+   "gmb-2025-439180",
+   "gmb-2025-439178",
+   "gmb-2025-422508",
+   "gmb-2025-409022",
+   "gmb-2025-381168",
+   "gmb-2025-290140",
+   "gmb-2025-252601",
+   "gmb-2025-227251",
+   "gmb-2025-84917",
+   "bgr-2024-2095",
+   "gmb-2024-456949",
+   "gmb-2024-382126",
+   "gmb-2024-301005",
+   "gmb-2024-274787",
+   "gmb-2024-255180",
+   "gmb-2024-243607",
+   "gmb-2024-164677",
+   "gmb-2024-124405",
+   "gmb-2024-65917",
+   "gmb-2023-535898",
+   "gmb-2023-503439",
+   "gmb-2022-530868",
+   "gmb-2022-410683",
+   "gmb-2022-176938",
+   "gmb-2022-161274",
+   "prb-2021-5934",
+   "gmb-2021-235284",
+   "gmb-2020-308359",
+   "gmb-2020-184642",
+   "gmb-2020-169792",
+   "gmb-2020-115243",
+   "gmb-2019-127328",
+   "gmb-2019-119645",
+   "gmb-2019-1500",
+   "gmb-2018-20845",
+   "gmb-2017-226960",
+   "gmb-2017-220928",
+   "gmb-2017-177384",
+   "gmb-2017-18955",
+   "gmb-2017-10992",
+   "gmb-2016-42987",
+   "gmb-2016-33109",
+   "gmb-2015-127650",
+   "gmb-2015-118026",
+   "stcrt-2014-8469",
+   "stcrt-2014-8439"
+  ],
+  "zaaknummers": [
+   "AGV2026-003443",
+   "O2024027266",
+   "Rx.Mission zaak Z2024-1317",
+   "Rx.Mission zaak Z2024-2018",
+   "Rx.Mission zaak Z2025-00001041",
+   "Rx.Mission zaak Z2025-00029720",
+   "Rx.Mission zaak Z2026-00000950",
+   "Rx.Mission zaak Z2026-00001513",
+   "Rx.Mission zaak Z2026-00007840",
+   "Z-533767",
+   "Z2023-O005254",
+   "Z2023-O005813",
+   "Z2024-000952",
+   "Z2024-016712",
+   "Z2025-021834",
+   "Z2025-026372",
+   "Z2025-036242",
+   "Z2025-039206",
+   "Z2026-003023",
+   "Z2026-008556",
+   "Z2026-009079",
+   "Z2026-024967"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-271602",
+    "titel": "Gemeente Moerdijk – Besluit ambtshalve maatwerkvoorschriften –  Omgevingsplan - Indaver Groencompost B.V.  - Middenweg 57, 4782PM Moerdijk",
+    "soort": "andere beschikking",
+    "datum": "2026-06-09",
+    "onderwerp": "Gemeente Moerdijk heeft een besluit genomen in het kader van de Omgevingswet tot het ambtshalve op grond van het Omgevingsplan maatwerkvoorschriften op te leggen voor de locatie Middenweg 57, 4782PM Moerdijk.",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-271602.html",
+    "zaak": "Rx.Mission zaak Z2026-00009129"
+   },
+   {
+    "id": "gmb-2024-299424",
+    "titel": "Bestemmingsplan Beneden Verlaat 60 vastgesteld",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2024-07-09",
+    "onderwerp": "Het bestemmingsplan gaat over de percelen Beneden Verlaat 60 (bestaande bebouwing wordt gesloopt) en Middenweg 63 (bedrijvigheid vervalt) in Veendam. ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-299424.html"
+   },
+   {
+    "id": "gmb-2024-274944",
+    "titel": "Vastgesteld bestemmingsplan ‘Middenweg 63, Nederhorst den Berg’",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2024-06-25",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-274944.html"
+   },
+   {
+    "id": "gmb-2023-567925",
+    "titel": "Ontwerpbestemmingsplan Beneden Verlaat 60 te Veendam",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2023-12-28",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-567925.html"
+   },
+   {
+    "id": "gmb-2023-492440",
+    "titel": "Ontwerpbestemmingsplan Middenweg 63  te Nederhorst den Berg",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2023-11-22",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-492440.html"
+   },
+   {
+    "id": "stcrt-2014-8469",
+    "titel": "Beschikking omgevingsvergunning in afwijking van het bestemmingsplan Green Park Aalsmeer, Middenweg en dg 3, 5 en 7, doorgaande wegverbinding Middenweg (uitgebreide procedure) en besluit hogere waarden Wet geluidhinder, Aalsmeer",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-03-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-8469.html"
+   },
+   {
+    "id": "stcrt-2014-8439",
+    "titel": "Beschikking omgevingsvergunning in afwijking van het bestemmingsplan Green Park Aalsmeer, Middenweg en dg 3, 5 en 7, doorgaande wegverbinding Middenweg (uitgebreide procedure) en besluit hogere waarden Wet geluidhinder, Amstelveen",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2014-03-20",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2014-8439.html"
+   },
+   {
+    "id": "stcrt-2013-29425",
+    "titel": "Ontwerpbeschikking omgevingsvergunning in afwijking van bestemmingsplan Green Park Aalsmeer, Middenweg en dg 3, 5 en 7, doorgaande wegverbinding Middenweg, Aalsmeer",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2013-10-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2013-29425.html"
+   },
+   {
+    "id": "stcrt-2012-21222",
+    "titel": "Projectbesluit Middenweg 69a, Castricum",
+    "soort": "Ruimtelijke plannen",
+    "datum": "2012-10-17",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-21222.html"
+   },
+   {
+    "id": "stcrt-2012-11251",
+    "titel": "Publicatieontwerp projectbesluit Middenweg 69a in Limmen",
+    "soort": "Vergunningen",
+    "datum": "2012-06-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/stcrt-2012-11251.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-455307",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 51 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-09-29",
+    "onderwerp": "TVM parkeervak,Middenweg 51 4 1098AC, 20261001, Middenweg ter hoogte van nummer: 51",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-455307.html"
+   },
+   {
+    "id": "gmb-2026-455309",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 53 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-29",
+    "onderwerp": "TVM parkeervak,Object,Middenweg 53 B 2 1098AD, 20260929, Middenweg ter hoogte van nummer: 53",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-455309.html"
+   },
+   {
+    "id": "gmb-2026-437102",
+    "titel": "Besluit splitsingsvergunning Middenweg 57-1 1098AD Amsterdam, Middenweg 57-2 1098AD Amsterdam, Middenweg 57-H 1098AD Amsterdam, [] , [] , []",
+    "soort": "andere vergunning",
+    "datum": "2026-09-17",
+    "onderwerp": "Splitsingsvergunning Middenweg 57-H, 57-1, 57-2",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-437102.html"
+   },
+   {
+    "id": "gmb-2026-428865",
+    "titel": "Besluit voor splitsingsvergunning Verleend - Middenweg 57-H in Amsterdam en Middenweg 57-2 in Amsterdam en Middenweg 57-1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-09-14",
+    "onderwerp": "Het splitsen van het gebouw in 3 appartementsrechten op adres Middenweg 57-H en Middenweg 57-2 en Middenweg 57-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-428865.html"
+   },
+   {
+    "id": "gmb-2026-355144",
+    "titel": "Kennisgeving ontvangst melding, Middenweg 69, 5916RK Venlo",
+    "soort": "omgevingsmelding",
+    "datum": "2026-07-23",
+    "onderwerp": "Betreft: Melding op locatie Middenweg 69, 5916RK Venlo",
+    "activiteit": "milieu",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-355144.html"
+   },
+   {
+    "id": "gmb-2026-342536",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 69 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-17",
+    "onderwerp": "TVM parkeervak,Middenweg 69 1098AE, 20260719, Middenweg ter hoogte van nummer: 69",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-342536.html"
+   },
+   {
+    "id": "gmb-2026-336795",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 69 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-07-14",
+    "onderwerp": "TVM parkeervak,Middenweg 69 1098AE, 20260714, Middenweg ter hoogte van nummer: 69",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-336795.html"
+   },
+   {
+    "id": "blg-1261492",
+    "titel": "Landelijke verkenning van de standaardisatie van de productstructuur binnen de Wmo 2015",
+    "soort": "Bijlage",
+    "datum": "2026-07-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/blg-1261492.html"
+   },
+   {
+    "id": "gmb-2026-317904",
+    "titel": "Besluit tot het verlenen van een evenementenvergunning voor het evenement Floraliaweekend Noordbeemster op 29 augustus en 30 augustus 2026, in een schuur op het adres Middenweg 53 te Noordbeemster",
+    "soort": "evenementenvergunning",
+    "datum": "2026-07-03",
+    "onderwerp": "Betreft: beschikking op aanvraag op locatie Middenweg 53 schuur Noordbeemster te Purmerend",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-317904.html"
+   },
+   {
+    "id": "wsb-2026-14902",
+    "titel": "Kennisgeving aanvraag vergunning voor het onder andere plaatsen van nieuwe dam met duiker, aanbrengen van verharding en dempen en graven van oppervlaktewater bij Middenweg 59 in Dirkshorn",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-06-10",
+    "onderwerp": "het onder andere plaatsen van nieuwe dam met duiker, aanbrengen van verharding en dempen en graven van oppervlaktewater bij Middenweg 59 in Dirkshorn",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-14902.html"
+   },
+   {
+    "id": "gmb-2026-272565",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 51 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-06-09",
+    "onderwerp": "Object,Middenweg 51 H 1098AC, 20260615, Middenweg ter hoogte van nummer: 51",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-272565.html"
+   },
+   {
+    "id": "gmb-2026-259941",
+    "titel": "Besluit aanvraag Alcoholwetvergunning model A voor Mariska's Corner aan de Middenweg 57, 1619BN Andijk",
+    "soort": "andere vergunning",
+    "datum": "2026-06-03",
+    "onderwerp": "Betreft: besluit aanvraag Alcoholwet vergunning commercieel op locatie Middenweg 57, 1619BN Andijk",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-259941.html"
+   },
+   {
+    "id": "gmb-2026-252951",
+    "titel": "Aanvraag splitsingsvergunning Middenweg 53-1 1098AD Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-29",
+    "onderwerp": "Splitsingsvergunning",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-252951.html"
+   },
+   {
+    "id": "gmb-2026-251738",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 53 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-29",
+    "onderwerp": "TVM parkeervak,Middenweg 53 1 1098AD, 20260604, Middenweg ter hoogte van nummer: 53",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-251738.html"
+   },
+   {
+    "id": "gmb-2026-246692",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 53 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-05-27",
+    "onderwerp": "Object,Middenweg 53 H 1098AD, 20260529, Middenweg ter hoogte van nummer: 53",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-246692.html"
+   },
+   {
+    "id": "gmb-2026-227097",
+    "titel": "Aanvraag evenementenvergunning voor het Floraliaweekend Noordbeemster op 29 augustus 2026 en 30 augustus 2026, Middenweg 53 te Noordbeemster.",
+    "soort": "evenementenvergunning",
+    "datum": "2026-05-13",
+    "onderwerp": "Betreft: aanvraag op locatie Middenweg 53 schuur Noordbeemster te Purmerend",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-227097.html"
+   },
+   {
+    "id": "gmb-2026-202248",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 51 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2026-04-29",
+    "onderwerp": "TVM parkeervak,Object,Middenweg 51 4 1098AC, 20260429, Middenweg ter hoogte van nummer: 51",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-202248.html"
+   },
+   {
+    "id": "gmb-2026-151717",
+    "titel": "Aanvraag voor splitsingsvergunning Middenweg 57-1 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2026-03-31",
+    "onderwerp": "Aanvraag voor het mogen splitsen van het gebouw in appartementsrechten op adres Middenweg 57-1",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-151717.html"
+   },
+   {
+    "id": "wsb-2026-6416",
+    "titel": "Maatwerkbesluit voor het verwijderen, wijzigen en maken van dammen met duiker nabij Middenweg 53 in Breezand",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2026-03-13",
+    "onderwerp": "het verwijderen, wijzigen en maken van dammen met duiker nabij Middenweg 53 in Breezand",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2026-6416.html"
+   },
+   {
+    "id": "gmb-2026-101742",
+    "titel": "Hollands Kroon Verleende evenementenvergunning voor Kapiteyn 100 jaar historie",
+    "soort": "evenementenvergunning",
+    "datum": "2026-03-06",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-101742.html"
+   },
+   {
+    "id": "gmb-2026-79296",
+    "titel": "Hollands Kroon Ingekomen aanvraag evenementenvergunning van Kapiteyn B.V., Middenweg 65, in Breezand",
+    "soort": "evenementenvergunning",
+    "datum": "2026-02-23",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-79296.html"
+   },
+   {
+    "id": "gmb-2025-544165",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 59 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-12-15",
+    "onderwerp": "Object,Middenweg 59 1098AE, 20251217, Middenweg ter hoogte van nummer: 59",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-544165.html"
+   },
+   {
+    "id": "gmb-2025-458332",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 57 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-23",
+    "onderwerp": "Object,Middenweg 57 1 1098AD, 20251028, Middenweg ter hoogte van nummer: 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-458332.html"
+   },
+   {
+    "id": "gmb-2025-453995",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 57 in Amsterdam",
+    "soort": "andere vergunning",
+    "datum": "2025-10-21",
+    "onderwerp": "Object,Middenweg 57 H 1098AD, 20251023, Middenweg ter hoogte van nummer: 57",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-453995.html"
+   },
+   {
+    "id": "gmb-2025-299812",
+    "titel": "Toestemming voor Floralia Noordbeemster van 30 augustus 2025 tot en met 31 augustus 2025 ter hoogte van Middenweg 53, 1463HC Noordbeemster",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-09",
+    "onderwerp": "Betreft:  besluit op locatie Middenweg 53, 1463HC Noordbeemster",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-299812.html"
+   },
+   {
+    "id": "gmb-2025-299805",
+    "titel": "Aanvraag vergunning voor Floralia Noordbeemster 30 en 31-8-2025, Middenweg 53, 1463HC Noordbeemster",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-09",
+    "onderwerp": "Betreft: aanvraag op locatie Middenweg 53, 1463HC Noordbeemster",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-299805.html"
+   },
+   {
+    "id": "gmb-2025-286016",
+    "titel": "Besluit apv vergunning Verleend - Middenweg ter hoogte van nummer: 51 in AMSTERDAM",
+    "soort": "andere vergunning",
+    "datum": "2025-07-01",
+    "onderwerp": "TVM parkeervak,Object,Middenweg 51 3 1098AC, 20250701, Middenweg ter hoogte van nummer: 51",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-286016.html"
+   },
+   {
+    "id": "wsb-2025-11959",
+    "titel": "Kennisgeving aanvraag vergunning voor het verwijderen en leggen van dammen met duiker nabij Middenweg 53 in Breezand",
+    "soort": "vergunning voor activiteiten op of in oppervlaktewater",
+    "datum": "2025-05-16",
+    "onderwerp": "het verwijderen en leggen van dammen met duiker nabij Middenweg 53 in Breezand",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/wsb-2025-11959.html"
+   },
+   {
+    "id": "gmb-2025-142621",
+    "titel": "Toestemming voor de Jubileumvoorstelling van de Toneelvereniging Middenbeemster 1 april,5 april,6 april,11 april en 12 april 2025 , Middenweg 53, 1462HD Middenbeemster",
+    "soort": "evenementenvergunning",
+    "datum": "2025-04-02",
+    "onderwerp": "Betreft:  besluit op locatie Middenweg 53, 1462HD Middenbeemster",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-142621.html"
+   },
+   {
+    "id": "gmb-2025-81603",
+    "titel": "Aanvraag vergunning voor de jubileumvoorstelling toneelvereniging Middenbeemster,  1 april, 5 april, 6 april,11 april en 12 april 2025, Middenweg 53, 1462HD Middenbeemster",
+    "soort": "evenementenvergunning",
+    "datum": "2025-02-26",
+    "onderwerp": "Betreft: aanvraag op locatie Middenweg 53, 1462HD Middenbeemster",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-81603.html"
+   }
+  ]
+ },
+ "plannen": [],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 23,
+  "bekendmakingen": 30,
+  "plannen": 0,
+  "woo": 16
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 122,
+ "pand_adressen": [
+  "Hemkade 18G",
+  "Middenweg 51",
+  "Middenweg 53",
+  "Middenweg 55",
+  "Middenweg 57",
+  "Middenweg 59",
+  "Middenweg 61",
+  "Middenweg 63",
+  "Middenweg 65",
+  "Middenweg 67",
+  "Middenweg 69",
+  "Vulhuis 4"
+ ]
+}

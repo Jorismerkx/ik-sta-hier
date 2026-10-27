@@ -1,0 +1,554 @@
+{
+ "id": "ijland",
+ "naam": "IJland",
+ "adres": "Tt. Vasumweg 171, 1033 SG Amsterdam",
+ "termen": [
+  "Tt. Vasumweg 171",
+  "1033SG",
+  "1033 SG",
+  "IJland"
+ ],
+ "pand": null,
+ "status": "open",
+ "huidig": {
+  "basis": null,
+  "confidence": "laag",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "fout": "geen pand"
+ },
+ "bekendmakingen": {
+  "n": 55,
+  "gezocht": [
+   "Tt. Vasumweg 171"
+  ],
+  "vergunningen": [
+   {
+    "id": "gmb-2026-442472",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-09-21",
+    "onderwerp": "Keerkingpark bij Undercurrent 1",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-442472.html",
+    "zaak": "Z2026-018501"
+   },
+   {
+    "id": "gmb-2026-35658",
+    "titel": "Besluit omgevingsvergunning reguliere procedure verleend tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2026-01-27",
+    "onderwerp": "het verlengen van de tijdelijke vergunning van de evenementenlocatie, pagodetenten en het terras van Undercurrent ",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-35658.html",
+    "zaak": "Z2024-037171"
+   },
+   {
+    "id": "gmb-2024-499673",
+    "titel": "Aanvraag omgevingsvergunning",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-11-28",
+    "onderwerp": "Undercurrent TT Vasumweg 171",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-499673.html",
+    "zaak": "Z2024-037171"
+   },
+   {
+    "id": "gmb-2024-191000",
+    "titel": "Beslissing op bezwaar omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2024-05-01",
+    "onderwerp": "verlengen van de tijdelijke vergunning van Undercurrent",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-191000.html",
+    "zaak": "Z2023-N001291"
+   },
+   {
+    "id": "gmb-2023-505364",
+    "titel": "Verlenging beslistermijn omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2023-11-27",
+    "onderwerp": "verlengen van de tijdelijke vergunning van Undercurrent",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-505364.html",
+    "zaak": "Z2023-N001291"
+   },
+   {
+    "id": "gmb-2023-505452",
+    "titel": "Besluit omgevingsvergunning reguliere procedure tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-11-27",
+    "onderwerp": "verlengen van de tijdelijke vergunning van Undercurrent",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-505452.html",
+    "zaak": "Z2023-N001291"
+   },
+   {
+    "id": "gmb-2023-274700",
+    "titel": "Aanvraag omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-06-23",
+    "onderwerp": "Verlenging tijdelijke vergunning Undercurrent",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-274700.html",
+    "zaak": "Z2023-N001291"
+   },
+   {
+    "id": "gmb-2023-226223",
+    "titel": "Besluit tijdelijke omgevingsvergunning reguliere procedure tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-05-24",
+    "onderwerp": " realiseren van tijdelijke pagodetenten, een afdekzeil, een omheining en terras",
+    "activiteit": "ruimtelijke ordening",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-226223.html"
+   },
+   {
+    "id": "gmb-2023-142400",
+    "titel": "Ingetrokken aanvraag omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2023-04-03",
+    "onderwerp": "het realiseren van tijdelijke pagodetenten, een afdekzeil en een omheining ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-142400.html",
+    "zaak": "Z2022-N000861"
+   },
+   {
+    "id": "gmb-2023-57187",
+    "titel": "Verlenging beslistermijn omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2023-02-09",
+    "onderwerp": "plaatsen van een tijdelijk terras",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-57187.html",
+    "zaak": "Z2022-N003154"
+   },
+   {
+    "id": "gmb-2022-558531",
+    "titel": "Aanvraag omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-12-16",
+    "onderwerp": "plaatsen van een tijdelijk terras",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-558531.html",
+    "zaak": "Z2022-N003154"
+   },
+   {
+    "id": "gmb-2022-341232",
+    "titel": "Besluit omgevingsvergunning reguliere procedure tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-07-26",
+    "onderwerp": "het verlengen van de tijdelijke vergunning voor het (ver)plaatsen (afmeren) van met bestemming er van tot evenementengebouw, het plaatsen van meerpale",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-341232.html",
+    "zaak": "Z2021-N003810"
+   },
+   {
+    "id": "gmb-2022-275518",
+    "titel": "Aanvraag omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2022-06-17",
+    "onderwerp": "het realiseren van tijdelijke pagodetenten, een afdekzeil en een omheining ",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-275518.html",
+    "zaak": "Z2022-N000861"
+   },
+   {
+    "id": "gmb-2022-144653",
+    "titel": "Verlenging beslistermijn omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "andere beschikking",
+    "datum": "2022-03-31",
+    "onderwerp": "het verlengen van de tijdelijke vergunning voor het (ver)plaatsen (afmeren) van met bestemming er van tot evenementengebouw, het plaatsen van meerpale",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-144653.html",
+    "zaak": "Z2021-N003810"
+   },
+   {
+    "id": "gmb-2021-470006",
+    "titel": "Aanvraag omgevingsvergunning tt. Vasumweg 171 1033SG Amsterdam",
+    "soort": "omgevingsvergunning",
+    "datum": "2021-12-23",
+    "onderwerp": "het verlengen van de tijdelijke vergunning voor het (ver)plaatsen (afmeren) van met bestemming er van tot evenementengebouw, het plaatsen van meerpale",
+    "activiteit": "bouwen",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2021-470006.html",
+    "zaak": "Z2021-N003810"
+   }
+  ],
+  "met_tekeningen": [
+   "gmb-2026-442472",
+   "gmb-2026-35658",
+   "gmb-2024-499673",
+   "gmb-2023-505452",
+   "gmb-2023-274700",
+   "gmb-2023-226223",
+   "gmb-2023-142400",
+   "gmb-2022-558531",
+   "gmb-2022-341232",
+   "gmb-2022-275518",
+   "gmb-2021-470006"
+  ],
+  "zaaknummers": [
+   "Z2021-N003810",
+   "Z2022-N000861",
+   "Z2022-N003154",
+   "Z2023-N001291",
+   "Z2024-037171",
+   "Z2026-018501"
+  ],
+  "plannen": [
+   {
+    "id": "gmb-2026-430670",
+    "titel": "Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2026-09-15",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.html"
+   },
+   {
+    "id": "gmb-2025-368550",
+    "titel": "ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+    "soort": "ruimtelijk plan of omgevingsdocument",
+    "datum": "2025-08-29",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.html"
+   }
+  ],
+  "overig": [
+   {
+    "id": "gmb-2026-251845",
+    "titel": "Besluit (Verlenging) exploitatievergunning horecabedrijf Verleend - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2026-05-29",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-251845.html"
+   },
+   {
+    "id": "gmb-2026-171397",
+    "titel": "Aanvraag (Verlenging) exploitatievergunning horecabedrijf - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2026-04-13",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-171397.html"
+   },
+   {
+    "id": "gmb-2026-47902",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2026-02-03",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-47902.html"
+   },
+   {
+    "id": "gmb-2025-565968",
+    "titel": "Publicatie voornemen om een grond- en waterhuurovereenkomst te sluiten met Triple 777 Investment B.V. en Undercurrent Beheer B.V. voor de huur van een perceel grond en water gelegen aan de Tt. Vasumweg 171 te Amsterdam",
+    "soort": "andere voorlichtingsinformatie",
+    "datum": "2025-12-24",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-565968.html"
+   },
+   {
+    "id": "gmb-2025-433732",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2025-10-07",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-433732.html"
+   },
+   {
+    "id": "gmb-2025-407886",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2025-09-22",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-407886.html"
+   },
+   {
+    "id": "gmb-2025-276928",
+    "titel": "Besluit evenementenvergunning Verleend - tt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2025-06-26",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-276928.html"
+   },
+   {
+    "id": "gmb-2025-201699",
+    "titel": "Aanvraag evenementenvergunning tt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2025-05-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-201699.html"
+   },
+   {
+    "id": "gmb-2024-460264",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2024-11-01",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-460264.html"
+   },
+   {
+    "id": "gmb-2024-434577",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2024",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2024-10-11",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-434577.html"
+   },
+   {
+    "id": "gmb-2024-404095",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2024-09-24",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-404095.html"
+   },
+   {
+    "id": "gmb-2024-338917",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2024-08-02",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-338917.html"
+   },
+   {
+    "id": "gmb-2024-316129",
+    "titel": "Besluit evenementenvergunning Afgebroken (Ingetrokken) - tt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2024-07-19",
+    "onderwerp": "Afgebroken (Ingetrokken): evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-316129.html"
+   },
+   {
+    "id": "gmb-2024-261230",
+    "titel": "Aanvraag evenementenvergunning tt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2024-06-17",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-261230.html"
+   },
+   {
+    "id": "gmb-2024-172547",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2024-04-19",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-172547.html"
+   },
+   {
+    "id": "gmb-2023-548996",
+    "titel": "Aanvraag evenementenvergunning tt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2023-12-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-548996.html"
+   },
+   {
+    "id": "gmb-2023-447960",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2023",
+    "soort": "andere vergunning",
+    "datum": "2023-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-447960.html"
+   },
+   {
+    "id": "gmb-2023-441491",
+    "titel": "Besluit alcoholwetvergunning Verleend - tt. Vasumweg 171 in",
+    "soort": "andere vergunning",
+    "datum": "2023-10-16",
+    "onderwerp": "Verleend: alcoholwetvergunning op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-441491.html"
+   },
+   {
+    "id": "gmb-2023-391504",
+    "titel": "Besluit ontheffing geluidvoorschriften en openingstijden Verleend tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2023-09-12",
+    "onderwerp": "Verleend: ontheffing geluidsvoorschriften en openingstijden op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-391504.html"
+   },
+   {
+    "id": "gmb-2023-369522",
+    "titel": "Aanvraag alcoholwetvergunning tt. Vasumweg 171",
+    "soort": "andere vergunning",
+    "datum": "2023-08-25",
+    "onderwerp": "Aanvraag voor een alcoholwetvergunning op adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-369522.html"
+   },
+   {
+    "id": "gmb-2023-369528",
+    "titel": "Besluit (Wijziging) exploitatievergunning horecabedrijf Verleend - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2023-08-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-369528.html"
+   },
+   {
+    "id": "prb-2023-9008",
+    "titel": "Melding Vuurwerk - Tt. Vasumweg 171, Amsterdam",
+    "soort": "overige overheidsinformatie",
+    "datum": "2023-08-01",
+    "onderwerp": "Bekendmaking van Provincie Noord-Holland",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/prb-2023-9008.html"
+   },
+   {
+    "id": "gmb-2023-283218",
+    "titel": "Aanvraag (Wijziging) exploitatievergunning horecabedrijf - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2023-06-29",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-283218.html"
+   },
+   {
+    "id": "gmb-2023-256011",
+    "titel": "Besluit evenementenvergunning Verleendtt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-13",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-256011.html"
+   },
+   {
+    "id": "gmb-2023-227461",
+    "titel": "Besluit exploitatievergunning horecabedrijf Verleend - tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2023-05-25",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-227461.html"
+   },
+   {
+    "id": "gmb-2023-199594",
+    "titel": "Aanvraag evenementenvergunning tt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2023-05-09",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-199594.html"
+   },
+   {
+    "id": "gmb-2023-120712",
+    "titel": "Besluit evenementenvergunning Verleendtt. Vasumweg 171 in",
+    "soort": "evenementenvergunning",
+    "datum": "2023-03-21",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-120712.html"
+   },
+   {
+    "id": "gmb-2023-36341",
+    "titel": "Aanvraag exploitatievergunning horecabedrijf tt. Vasumweg 171 in",
+    "soort": "exploitatievergunning",
+    "datum": "2023-01-27",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres tt. Vasumweg 171 in ",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-36341.html"
+   },
+   {
+    "id": "gmb-2022-552447",
+    "titel": "Aanvraag evenementenvergunning tt. Vasumweg 171",
+    "soort": "evenementenvergunning",
+    "datum": "2022-12-13",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres tt. Vasumweg 171",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-552447.html"
+   },
+   {
+    "id": "gmb-2022-466401",
+    "titel": "Ontheffing openingstijden voor het Amsterdam Dance Event 2022",
+    "soort": "ander besluit van algemene strekking",
+    "datum": "2022-10-18",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-466401.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.N1101BPSTD-VG01",
+   "naam": "Cornelis Douwesterrein II",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-06-20",
+   "opp_m2": 1239253,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1302PBPSTD-VG01",
+   "naam": "Eerste partiële herziening Cornelis Douwesterrein II (Windturbines)",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2013-11-22",
+   "opp_m2": 1239253,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  },
+  {
+   "id": "NL.IMRO.0363.N1102PBPSTD-OH01",
+   "naam": "BP_Herziening geluidszone Cornelis Douwesterrein",
+   "type": "bestemmingsplan",
+   "status": "onherroepelijk",
+   "datum": "2012-08-16",
+   "opp_m2": 2620059,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 15,
+  "plannen": 37,
+  "woo": 1
+ },
+ "gescand": [
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-430670.pdf",
+   "bron": "bekendmaking gmb-2026-430670: Besluit van de raad van de gemeente Amsterdam tot wijziging van de Algemene Plaatselijke Verordening 2008 en het Omgevingsplan gemeente Amsterdam in verband met het implementeren van het Horecabeleid 2025 en het aan het omgevingsplan toevoegen van regels over darkstores en evenementenlocaties (Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties)",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  },
+  {
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-368550.pdf",
+   "bron": "bekendmaking gmb-2025-368550: ONTWERP Wijzigingsbesluit Omgevingsplan gemeente Amsterdam: Toevoeging van regels over horeca, darkstores en evenementenlocaties",
+   "noemingen": 1,
+   "kandidaten": 0,
+   "scan_zonder_tekst": false
+  }
+ ],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 168,
+ "pand_adressen": []
+}

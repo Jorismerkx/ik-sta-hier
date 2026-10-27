@@ -1,0 +1,333 @@
+{
+ "id": "podium-mozaiek",
+ "naam": "Podium Mozaïek",
+ "adres": "Bos en Lommerweg 191, 1055 DT Amsterdam",
+ "termen": [
+  "Bos en Lommerweg 191",
+  "1055DT",
+  "1055 DT",
+  "Podium Mozaïek"
+ ],
+ "pand": "0363100012122803",
+ "status": null,
+ "huidig": {
+  "basis": null,
+  "confidence": "middel",
+  "zalen": 2
+ },
+ "bouwdossiers": {
+  "n": 15,
+  "openbaar": 15,
+  "laatste": "2007-01-01",
+  "dossiers": [
+   {
+    "dossier": "SJ_47613",
+    "titel": "Bos en Lommerweg 191",
+    "datum": "2007-01-01",
+    "soort": "tijdelijke vergunning",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 19,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_47613"
+   },
+   {
+    "dossier": "SJ_40861",
+    "titel": "Vier Heemskinderenstraat 56",
+    "datum": "2005-04-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 10,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40861"
+   },
+   {
+    "dossier": "SJ_40855",
+    "titel": "Vier Heemskinderenstraat 56",
+    "datum": "2004-10-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40855"
+   },
+   {
+    "dossier": "SJ_40820",
+    "titel": "Vier Heemskinderenstraat 56",
+    "datum": "2004-06-01",
+    "soort": "deelgoedkeuring",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 325,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40820"
+   },
+   {
+    "dossier": "SJ_40810",
+    "titel": "Vier Heemskinderenstraat 56",
+    "datum": "2004-01-01",
+    "soort": "monument",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40810"
+   },
+   {
+    "dossier": "SJ_40641",
+    "titel": "Bos en Lommerweg 189",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 18,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40641"
+   },
+   {
+    "dossier": "SJ_40680",
+    "titel": "Bos en Lommerweg 189",
+    "datum": "2004-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 70,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40680"
+   },
+   {
+    "dossier": "SJ_40637",
+    "titel": "Bos en Lommerweg 189 - 191",
+    "datum": "2004-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 3,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40637"
+   },
+   {
+    "dossier": "SJ_40649",
+    "titel": "Bos en Lommerweg 189",
+    "datum": "2003-01-01",
+    "soort": "sloop",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 54,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40649"
+   },
+   {
+    "dossier": "SJ_40765",
+    "titel": "Vier Heemskinderenstraat 56",
+    "datum": "2003-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 175,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40765"
+   },
+   {
+    "dossier": "SJ_40764",
+    "titel": "Vier Heemskinderenstraat 56",
+    "datum": "1982-01-01",
+    "soort": "bijgebouw",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 11,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_40764"
+   },
+   {
+    "dossier": "SJ_74915",
+    "titel": "Bos en Lommerweg 189",
+    "datum": "1969-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_74915"
+   },
+   {
+    "dossier": "SJ_36563",
+    "titel": "Bos en Lommerweg 191; Vier Heemskinderenstraat 55 - 57",
+    "datum": "1954-01-01",
+    "soort": "oprichting",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 162,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_36563"
+   },
+   {
+    "dossier": "SJ_36583",
+    "titel": "Bos en Lommerweg 191; Vier Heemskinderenstraat 56 - 57",
+    "datum": "1954-01-01",
+    "soort": "verbouwing",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 9,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_36583"
+   },
+   {
+    "dossier": "SJ_36529",
+    "titel": "Bos en Lommerweg 191; Vier Heemskinderenstraat 55 - 57",
+    "datum": "1954-01-01",
+    "soort": "adresbeschikking",
+    "toegang": "PUBLIC",
+    "olo": null,
+    "bestanden": 1,
+    "omschrijving": [],
+    "url": "https://bouwdossiers.amsterdam.nl/bouwdossier/SJ_36529"
+   }
+  ]
+ },
+ "bekendmakingen": {
+  "n": 11,
+  "gezocht": [
+   "Bos en Lommerweg 191",
+   "Bos en Lommerweg 189",
+   "Vier Heemskinderenstraat 56"
+  ],
+  "vergunningen": [],
+  "met_tekeningen": [],
+  "zaaknummers": [],
+  "plannen": [],
+  "overig": [
+   {
+    "id": "gmb-2025-384920",
+    "titel": "Besluit evenementenvergunning Verleend - Bos en Lommerweg 191 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-09-05",
+    "onderwerp": "Verleend: evenementenvergunning ter hoogte van adres Bos en Lommerweg 191 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-384920.html"
+   },
+   {
+    "id": "gmb-2025-317919",
+    "titel": "Aanvraag evenementenvergunning Bos en Lommerweg 191 in Amsterdam",
+    "soort": "evenementenvergunning",
+    "datum": "2025-07-21",
+    "onderwerp": "Aanvraag voor een evenementenvergunning ter hoogte van adres Bos en Lommerweg 191 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-317919.html"
+   },
+   {
+    "id": "gmb-2025-160884",
+    "titel": "Besluit (Nieuw) exploitatievergunning horecabedrijf Verleend - Bos en Lommerweg 191 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2025-04-14",
+    "onderwerp": "Verleend: exploitatievergunning horecabedrijf op adres Bos en Lommerweg 191 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2025-160884.html"
+   },
+   {
+    "id": "gmb-2024-451719",
+    "titel": "Aanvraag (Nieuw) exploitatievergunning horecabedrijf - Bos en Lommerweg 191 in Amsterdam",
+    "soort": "exploitatievergunning",
+    "datum": "2024-10-28",
+    "onderwerp": "Aanvraag voor een exploitatievergunning horecabedrijf op adres Bos en Lommerweg 191 in Amsterdam",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2024-451719.html"
+   },
+   {
+    "id": "gmb-2023-371278",
+    "titel": "Besluit apv vergunning Verleend - Bos en Lommerweg 191",
+    "soort": "andere vergunning",
+    "datum": "2023-08-28",
+    "onderwerp": "RVV, Bos en Lommerweg 191, 29-8-23, Bos en Lommerweg 191",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-371278.html"
+   },
+   {
+    "id": "gmb-2023-266777",
+    "titel": "Besluit evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-06-19",
+    "onderwerp": "Evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-266777.html"
+   },
+   {
+    "id": "gmb-2023-168377",
+    "titel": "Aanvraag evenementenvergunning Queer & Pride 2023 in AMSTERDAM",
+    "soort": "evenementenvergunning",
+    "datum": "2023-04-18",
+    "onderwerp": "Aanvraag voor een evenementenvergunning voor Queer en Pride Amsterdam 2023 op diverse locaties in AMSTERDAM",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2023-168377.html"
+   },
+   {
+    "id": "gmb-2022-537182",
+    "titel": "Besluit apv vergunning Verleend Vier Heemskinderenstraat 56",
+    "soort": "andere vergunning",
+    "datum": "2022-12-05",
+    "onderwerp": "TVM 13 vakken, 5x RVV, Vier Heemskinderenstraat 47-54, 9-12-2022, Vier Heemskinderenstraat 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-537182.html"
+   },
+   {
+    "id": "gmb-2022-305209",
+    "titel": "Besluit aanleg belanghebbenden parkeerplaats Verleend Bos en Lommerweg 189",
+    "soort": "andere vergunning",
+    "datum": "2022-07-05",
+    "onderwerp": "Het aanleggen van een parkeerplaats ter hoogte van adres Bos en Lommerweg 189",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-305209.html"
+   },
+   {
+    "id": "gmb-2022-273953",
+    "titel": "Besluit apv vergunning Verleend Vier Heemskinderenstraat 56",
+    "soort": "andere vergunning",
+    "datum": "2022-06-17",
+    "onderwerp": "RVV verlenen, Vier Heemskinderenstraat 56",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/gmb-2022-273953.html"
+   },
+   {
+    "id": "kst-28989-30-b1",
+    "titel": "Rapportage 'Huis voor de Culturele Dialoog'",
+    "soort": "Bijlage",
+    "datum": "2006-03-30",
+    "onderwerp": "",
+    "activiteit": "",
+    "url": "https://zoek.officielebekendmakingen.nl/kst-28989-30-b1.html"
+   }
+  ]
+ },
+ "plannen": [
+  {
+   "id": "NL.IMRO.0363.E1401BPSTD-VG01",
+   "naam": "Landlust en Gibraltarbuurt",
+   "type": "bestemmingsplan",
+   "status": "vastgesteld",
+   "datum": "2016-06-01",
+   "opp_m2": 606842,
+   "pdfs": [],
+   "figuren": [],
+   "noemingen": []
+  }
+ ],
+ "woo": [],
+ "tijden": {
+  "bouwdossiers": 0,
+  "bekendmakingen": 0,
+  "plannen": 1,
+  "woo": 1
+ },
+ "gescand": [],
+ "kandidaten": [],
+ "contactvellen": [],
+ "figuren": [],
+ "duur_s": 4,
+ "pand_adressen": [
+  "Bos en Lommerweg 189",
+  "Bos en Lommerweg 191",
+  "Vier Heemskinderenstraat 56"
+ ]
+}
