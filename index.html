@@ -26,11 +26,11 @@
         <div class="wall" id="wall"></div>
         <div class="welcome">
           <h1 class="big">Ik sta<br>hier<span class="dot">.</span></h1>
-          <p class="lead">Slecht bereik in de club? Wijs op de plattegrond aan waar je staat en stuur dat door.</p>
+          <p class="lead">Kwijt in de club? Zet je puntje op de plattegrond en je vrienden zien meteen waar je staat.</p>
           <ol class="steps">
-            <li><span>1</span>Kies je club en zaal</li>
-            <li><span>2</span>Zet je puntje</li>
-            <li><span>3</span>Deel via WhatsApp</li>
+            <li><span>1</span>Maak een event met je vrienden</li>
+            <li><span>2</span>Tik op Waar sta je?</li>
+            <li><span>3</span>Zet je puntje, iedereen ziet het</li>
           </ol>
           <button id="start" class="cta">Begin</button>
           <p class="fine" id="welcome-count"></p>
@@ -56,13 +56,21 @@
           <button id="locate" aria-label="Mijn locatie"><svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="3" fill="currentColor"/><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 1v4M12 19v4M1 12h4M19 12h4" stroke="currentColor" stroke-width="2"/></svg></button>
           <div id="map-card" class="hidden"></div>
         </div>
-        <div id="pane-favs" class="pane">
-          <div id="favs"></div>
+        <div id="pane-friends" class="pane">
+          <div id="friends" class="scroll"></div>
+        </div>
+        <div id="pane-events" class="pane">
+          <div id="events" class="scroll"></div>
         </div>
         <nav class="tabbar">
           <button class="tab active" data-tab="list"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Lijst</span></button>
           <button class="tab" data-tab="map"><svg viewBox="0 0 24 24"><path d="M12 21s-6-5.3-6-10a6 6 0 0 1 12 0c0 4.7-6 10-6 10z" fill="none" stroke="currentColor" stroke-width="2.2"/><circle cx="12" cy="11" r="2.2" fill="currentColor"/></svg><span>Kaart</span></button>
-          <button class="tab" data-tab="favs"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Favorieten</span></button>
+          <button id="here" class="here" aria-label="Waar sta je?">
+            <span class="here-btn"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2" fill="currentColor"/><circle cx="12" cy="12" r="8.6" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></span>
+            <span class="here-label">Waar sta je?</span>
+          </button>
+          <button class="tab" data-tab="friends"><svg viewBox="0 0 24 24"><circle cx="9" cy="8.5" r="3.5" fill="none" stroke="currentColor" stroke-width="2.1"/><path d="M2.5 20c.6-3.6 3.3-5.6 6.5-5.6s5.9 2 6.5 5.6" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/><path d="M15.5 4.6a3.5 3.5 0 0 1 0 7.8M18 14.8c2 .8 3.2 2.6 3.5 5.2" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/></svg><span>Vrienden</span></button>
+          <button class="tab" data-tab="events"><svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3" fill="none" stroke="currentColor" stroke-width="2.1"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/></svg><span>Events</span><i class="badge hidden" id="events-badge"></i></button>
         </nav>
       </section>
 
@@ -119,6 +127,53 @@
         </div>
       </section>
 
+      <!-- EVENT: wie, waar, en de feed -->
+      <section id="view-event" class="view">
+        <header class="top plan-top">
+          <button class="back" data-back="home" aria-label="Terug">‹</button>
+          <div class="venue-title">
+            <h2 id="e-title"></h2>
+            <p id="e-sub" class="sub"></p>
+          </div>
+          <button id="e-more" class="round" aria-label="Meer">···</button>
+        </header>
+        <div id="e-members" class="members"></div>
+        <div id="e-notify" class="notify hidden"></div>
+        <div id="e-feed" class="feed"></div>
+        <div class="e-actions">
+          <button id="e-ping" class="act ghost"><svg viewBox="0 0 24 24"><path d="M12 3a6 6 0 0 0-6 6v3.5L4 16h16l-2-3.5V9a6 6 0 0 0-6-6zM9.5 19a2.5 2.5 0 0 0 5 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Waar zijn jullie?</button>
+          <button id="e-pin" class="act hot"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="currentColor"/><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg>Ik sta hier</button>
+        </div>
+      </section>
+
+      <!-- NIEUW EVENT -->
+      <section id="view-event-new" class="view">
+        <header class="top plan-top">
+          <button class="back" data-back="home" aria-label="Terug">‹</button>
+          <div class="venue-title"><h2>Nieuw event</h2><p class="sub">Een avond uit met je groep</p></div>
+        </header>
+        <form id="ne-form" class="form" autocomplete="off">
+          <label class="field">
+            <span>Club</span>
+            <button type="button" id="ne-venue" class="picker">Kies een club</button>
+          </label>
+          <div id="ne-rooms-wrap" class="field hidden">
+            <span>Zalen</span>
+            <div id="ne-rooms" class="choice"></div>
+          </div>
+          <div class="field-row">
+            <label class="field"><span>Datum</span><input id="ne-date" type="date" required></label>
+            <label class="field"><span>Tijd</span><input id="ne-time" type="time" value="23:00"></label>
+          </div>
+          <label class="field"><span>Naam <em>(mag leeg)</em></span><input id="ne-title" type="text" maxlength="60" placeholder="Avond in …"></label>
+          <div class="field">
+            <span>Vrienden</span>
+            <div id="ne-friends" class="choice"></div>
+          </div>
+          <button type="submit" class="cta" id="ne-save">Maak event</button>
+        </form>
+      </section>
+
       <!-- OVER -->
       <section id="view-about" class="view">
         <header class="top plan-top">
@@ -128,6 +183,7 @@
         <div class="about">
           <p><strong>Ik sta hier</strong> is een plattegrond-app voor het uitgaan in Amsterdam. Elke zaal is versimpeld tot wat je nodig hebt om aan te wijzen waar je staat: podium of DJ, bars, ingang, trap.</p>
           <p>Zet je puntje, deel het plaatje. Werkt ook zonder bereik: de plattegronden zitten in de app.</p>
+          <p><strong>Events en vrienden.</strong> Maak een event voor je avond, nodig je vrienden uit en tik in de club op <em>Waar sta je?</em>. Met <em>Waar zijn jullie?</em> krijgt je groep een melding; met <em>Ik sta hier</em> ziet iedereen je puntje op de plattegrond. Je profiel is alleen een naam, zonder wachtwoord of telefoonnummer. De app gebruikt geen GPS: alleen de plek die je zelf aantikt gaat naar je groep. Zonder bereik wacht je puntje en gaat het vanzelf zodra je weer verbinding hebt.</p>
           <p>Elke zaal staat op de echte pandomtrek uit de BAG (Kadaster). Waar de venue een plattegrond, technische rider of zaaltekening publiceert, is de zaal daarvan overgetrokken: dan staat er <em>Echte plattegrond</em> bij. Staat er <em>indicatief</em> bij, dan is de indeling een schatting. Klopt iets niet? Tik op "Klopt niet" en stuur een foto van de zaal.</p>
           <p id="about-stats" class="fine"></p>
           <p class="fine">Foto's: websites van de venues, Amsterdam Dance Event en Wikimedia Commons. Kaart: OpenStreetMap. Plattegrond fout of foto niet oké? <a id="about-mail" href="#">Mail</a>.</p>
@@ -136,6 +192,8 @@
       </section>
 
       <div id="offline" class="hidden">Offline, plattegronden werken gewoon</div>
+      <div id="alert" class="hidden" role="alert"></div>
+      <div id="sheet" class="hidden"><div class="sheet-bg"></div><div class="sheet-card"><div class="grip"></div><div id="sheet-body"></div></div></div>
       <div id="toast"></div>
     </div>
   </div>
@@ -144,7 +202,9 @@
   </div>
 </div>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="config.js"></script>
 <script src="plan.js"></script>
 <script src="app.js"></script>
+<script src="social.js"></script>
 </body>
 </html>

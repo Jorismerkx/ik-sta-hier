@@ -7,23 +7,51 @@ plattegronden zitten in de app, delen gaat als gewoon plaatje.
 ## Lokaal draaien
 
 ```
-cd ik-sta-hier
-python -m http.server 8765
+cd ik-sta-hier/server
+npm install
+node server.js
 ```
 
-Open http://localhost:8765 op de desktop (iPhone-frame) of op je telefoon in hetzelfde wifi-netwerk
-via http://<ip-van-je-pc>:8765. Delen via WhatsApp werkt alleen op een echte telefoon (Web Share API);
-in de desktopbrowser wordt het plaatje gedownload.
+Open http://localhost:8787 op de desktop (iPhone-frame) of op je telefoon in hetzelfde wifi-netwerk
+via http://<ip-van-je-pc>:8787. De server levert de app én de API voor vrienden en events.
+Alleen de plattegronden bekijken kan ook zonder server: `python -m http.server 8765` in de hoofdmap.
+Delen via WhatsApp werkt alleen op een echte telefoon (Web Share API); in de desktopbrowser wordt het plaatje gedownload.
+
+## Vrienden, events en "Waar sta je?"
+
+- **Profiel**: alleen een naam. De server geeft een token terug dat op het toestel blijft; geen wachtwoord, geen GPS.
+- **Vrienden**: via je vriendlink (WhatsApp) of je code van 6 tekens. Vriendschap geldt altijd twee kanten op.
+- **Event**: club, zalen (alle of een paar), datum en tijd, vrienden. Uitgenodigde vrienden zien het event meteen
+  (live via SSE, en als melding). Anderen doen mee via de uitnodigingslink (`#e/<code>`) in WhatsApp.
+- **Feed** van een event: geen chat. Alleen *Waar zijn jullie?* (ping met SOS-trilling) en *Ik sta hier* (puntje op de
+  plattegrond, met automatische omschrijving zoals "rechts voor, bij de bar"). Tik een puntje aan om het groot te zien,
+  samen met de laatste plek van de anderen.
+- **De knop in het midden** (*Waar sta je?*) werkt op het event van vanavond (12:00 tot 08:00 de ochtend erna).
+- **Zonder bereik** gaan pings en puntjes in een wachtrij en worden ze verstuurd zodra er verbinding is; voor het puntje
+  biedt de app ook een kant-en-klare sms aan.
+- **Meldingen**: web-push (VAPID). Werkt in Chrome op Android en in Safari op iPhone als de app op het beginscherm staat
+  (iOS 16.4+). In de native Capacitor-app zijn pushmeldingen nog niet aangesloten (vereist APNs/FCM); daar komen
+  updates binnen zolang de app open is.
+
+Server: `server/server.js` (Node 22.13+, ingebouwde SQLite, alleen `web-push` als pakket). Data in `DATA_DIR`
+(standaard `server/data/`): `ish.db` en `vapid.json`. Test: `python -X utf8 tools/social_test.py` (drie gebruikers,
+start zelf een tijdelijke server).
+
+**Online zetten**: de `Dockerfile` bouwt server + app in één container (Railway, Render, Fly.io). Zet een volume op
+`/data`. Draait de app ergens anders (GitHub Pages, de iOS/Android-app), vul dan in `config.js` bij `api` het adres van
+de server in.
 
 ## Structuur
 
 - `index.html`, `style.css`, `app.js` — de app (lijst, kaart, zalen, pen, delen)
-- `plan.js` — renderer: zaal-spec (JSON) → SVG-kaartje 900x1600
+- `social.js` — vrienden, events, feed, wachtrij zonder bereik, meldingen; `config.js` — adres van de server
+- `server/` — API, live updates (SSE), web-push, en de webapp zelf
+- `plan.js` — renderer: zaal-spec (JSON) → SVG-kaartje 900x1600, plus puntjes van vrienden en `Plan.where()`
 - `data/venues.json` — alle venues (samengevoegd)
 - `data/batches/*.json` — bronbestanden per batch, zie `SPEC-ZAAL.md`
 - `tools/merge.py` — batches samenvoegen + controleren
 - `tools/geocode.py` — ontbrekende coördinaten ophalen (Nominatim)
-- `tools/shot.py` — screenshots/test via Playwright
+- `tools/shot.py` — screenshots/test via Playwright; `tools/social_test.py` — end-to-end test vrienden/events
 
 ## Werkwijze data
 

@@ -1,6 +1,6 @@
 /* Service worker: app-schil + data + foto's offline. Kaarttegels worden gecachet zodra ze gezien zijn. */
-const VERSION = 'ish-691d7bfa97';
-const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'plan.js', 'data/venues.json', 'manifest.webmanifest',
+const VERSION = 'ish-eb133bf3f3';
+const SHELL = ['./', 'index.html', 'style.css', 'config.js', 'app.js', 'plan.js', 'social.js', 'data/venues.json', 'manifest.webmanifest',
   'img/icon-192.png', 'img/icon-512.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'];
 const TILE_LIMIT = 600;
@@ -17,9 +17,28 @@ async function trimCache(name, limit) {
   if (keys.length > limit) await Promise.all(keys.slice(0, keys.length - limit).map(k => c.delete(k)));
 }
 
+// meldingen: "Jonas zoekt jullie" (SOS-trilling), "Sanne staat hier", uitnodigingen
+self.addEventListener('push', e => {
+  let m = {};
+  try { m = e.data ? e.data.json() : {}; } catch { m = { title: 'Ik sta hier', body: e.data && e.data.text() }; }
+  e.waitUntil(self.registration.showNotification(m.title || 'Ik sta hier', {
+    body: m.body || '', icon: 'img/icon-192.png', badge: 'img/icon-192.png', tag: m.tag, renotify: !!m.tag,
+    vibrate: m.vibrate, requireInteraction: !!m.urgent, data: { url: m.url || '' },
+  }));
+});
+self.addEventListener('notificationclick', e => {
+  e.notification.close();
+  const hash = (e.notification.data && e.notification.data.url) || '';
+  e.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then(list => {
+    const c = list.find(w => new URL(w.url).pathname.startsWith(new URL(self.registration.scope).pathname));
+    if (c) { c.postMessage({ open: hash }); return c.focus(); }
+    return self.clients.openWindow(self.registration.scope + hash);
+  }));
+});
+
 self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
-  if (e.request.method !== 'GET') return;
+  if (e.request.method !== 'GET' || url.pathname.includes('/api/')) return; // server-API nooit cachen
   // kaarttegels: cache first, bijvullen
   if (url.hostname.endsWith('openstreetmap.org')) {
     e.respondWith(caches.open('tiles').then(async c => {

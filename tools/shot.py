@@ -65,7 +65,7 @@ async def main():
         # favoriet via planscherm
         await pg.click('#p-fav'); await pg.wait_for_timeout(200)
         assert 'on' in (await pg.get_attribute('#p-fav', 'class')), 'ster niet goud'
-        await pg.click('.plan-top .back'); await pg.wait_for_timeout(200)
+        await pg.click('#view-plan .back'); await pg.wait_for_timeout(200)
         assert await pg.locator('#view-venue.active').count(), 'terug naar venue faalt'
         assert 'on' in (await pg.get_attribute('#v-fav', 'class')), 'ster venue niet goud'
         await pg.screenshot(path=os.path.join(OUT, '3b-venue-fav.png'))
@@ -73,10 +73,10 @@ async def main():
         assert await pg.locator('#view-home.active').count(), 'terug naar home faalt'
         await pg.click('#q-clear'); await pg.wait_for_timeout(200)
         assert await pg.locator('#list .recent').count() >= 1, 'recent ontbreekt'
-        await pg.click('.tab[data-tab="favs"]'); await pg.wait_for_timeout(200)
-        assert await pg.locator('#favs .row').count() == 1, 'favorietenlijst leeg'
+        await pg.click('.chip[data-a="Favorieten"]'); await pg.wait_for_timeout(200)
+        assert await pg.locator('#list .row').count() == 1, 'favorietenlijst leeg'
         await pg.screenshot(path=os.path.join(OUT, '3c-favorieten.png'))
-        await pg.click('.tab[data-tab="list"]')
+        await pg.click('.chip[data-a="Alle"]')
         await pg.click('#info'); await pg.wait_for_timeout(200)
         await pg.screenshot(path=os.path.join(OUT, '6-over.png'))
         # deep link

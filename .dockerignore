@@ -1,0 +1,14 @@
+*
+!index.html
+!style.css
+!config.js
+!app.js
+!plan.js
+!social.js
+!sw.js
+!manifest.webmanifest
+!data/venues.json
+!img/**
+!server/package.json
+!server/package-lock.json
+!server/*.js

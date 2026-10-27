@@ -5,7 +5,7 @@
 
   const FEEDBACK_MAIL = 'joris.merkx@agyle.nl';
   let VENUES = [];
-  let current = { venue: null, room: null };
+  let current = { venue: null, room: null, ctx: null };
   let map, markers = [], selMarker = null, meMarker = null;
   let area = 'Alle';
   const AREAS = ['Alle', 'Centrum', 'Noord', 'West', 'Oost', 'Zuid', 'Zuidoost', 'Rand'];
@@ -36,8 +36,9 @@
   // ---------- views ----------
   function show(id) {
     $$('.view').forEach(v => v.classList.toggle('active', v.id === 'view-' + id));
-    if (id === 'home') { renderList(); renderFavs(); if (map) setTimeout(() => map.invalidateSize(), 50); }
-    if (id !== 'venue' && id !== 'plan') history.replaceState(null, '', location.pathname);
+    if (id === 'home') { renderList(); if (map) setTimeout(() => map.invalidateSize(), 50); }
+    if (id !== 'venue' && id !== 'plan' && id !== 'event') history.replaceState(null, '', location.pathname);
+    if (window.Social) Social.onShow(id);
   }
   $$('.back').forEach(b => b.addEventListener('click', () => show(b.dataset.back)));
   $('#info').addEventListener('click', () => show('about'));
@@ -52,16 +53,20 @@
   $('#start').addEventListener('click', () => { store.set('welcomed', true); show('home'); });
 
   // ---------- tabs (onderbalk) ----------
-  $$('.tab').forEach(t => t.addEventListener('click', () => {
-    $$('.tab').forEach(x => x.classList.toggle('active', x === t));
-    $$('.pane').forEach(p => p.classList.toggle('active', p.id === 'pane-' + t.dataset.tab));
-    $('#chips').classList.toggle('hidden', t.dataset.tab === 'favs');
-    store.set('tab', t.dataset.tab);
-    if (t.dataset.tab === 'map') { ensureMap(); setTimeout(() => map.invalidateSize(), 30); }
-    if (t.dataset.tab === 'favs') renderFavs();
-  }));
+  function selectTab(tab) {
+    $$('.tab').forEach(x => x.classList.toggle('active', x.dataset.tab === tab));
+    $$('.pane').forEach(p => p.classList.toggle('active', p.id === 'pane-' + tab));
+    const venues = tab === 'list' || tab === 'map';
+    $('#chips').classList.toggle('hidden', !venues);
+    $('.search').classList.toggle('hidden', !venues);
+    store.set('tab', tab);
+    if (tab === 'map') { ensureMap(); setTimeout(() => map.invalidateSize(), 30); }
+    if (window.Social) Social.onTab(tab);
+  }
+  $$('.tab').forEach(t => t.addEventListener('click', () => selectTab(t.dataset.tab)));
 
-  // ---------- favorieten ----------
+  // ---------- favorieten (chip in de lijst) ----------
+  const FAV = 'Favorieten';
   const favs = () => store.get('favs', []);
   const isFav = v => favs().includes(v.id);
   function toggleFav(v) {
@@ -69,7 +74,7 @@
     const f = favs().filter(id => id !== v.id);
     if (!isFav(v)) { f.unshift(v.id); toast('Opgeslagen bij favorieten'); if (navigator.vibrate) navigator.vibrate(15); }
     else toast('Uit favorieten gehaald');
-    store.set('favs', f); syncFavButtons(); renderFavs();
+    store.set('favs', f); syncFavButtons(); renderList();
   }
   function syncFavButtons() {
     const v = current.venue; if (!v) return;
@@ -77,38 +82,24 @@
   }
   $('#v-fav').addEventListener('click', () => toggleFav(current.venue));
   $('#p-fav').addEventListener('click', () => toggleFav(current.venue));
-  function renderFavs() {
-    const el = $('#favs');
-    const s = norm(q.value.trim());
-    const items = favs().map(id => VENUES.find(v => v.id === id)).filter(Boolean).filter(v => !s || norm(v.name).includes(s) || norm(v.aka).includes(s));
-    if (!items.length) {
-      el.innerHTML = `<div class="empty"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><br>${s ? 'Niets gevonden in je favorieten.' : 'Nog geen favorieten.<br>Open een club en tik op de ster, dan staat hij hier de hele avond klaar.'}</div>`;
-      return;
-    }
-    el.innerHTML = `<div class="letter">Favorieten</div>` + items.map(v => `
-      <button class="row" data-id="${v.id}">
-        ${swatch(v)}
-        <div class="meta"><div class="name">${esc(v.name)}</div><div class="info">${esc(v.area || '')} · ${roomsLabel(v)}</div></div>
-        <div class="chev">›</div>
-      </button>`).join('');
-    $$('#favs .row').forEach(r => r.addEventListener('click', () => openVenue(r.dataset.id)));
-  }
 
   // ---------- chips ----------
   function renderChips() {
     const counts = {}; VENUES.forEach(v => { const g = areaGroup(v); counts[g] = (counts[g] || 0) + 1; });
-    $('#chips').innerHTML = AREAS.filter(a => a === 'Alle' || counts[a]).map(a => `<button class="chip ${a === area ? 'active' : ''}" data-a="${a}">${a}</button>`).join('');
+    const chips = ['Alle', FAV, ...AREAS.slice(1).filter(a => counts[a])];
+    $('#chips').innerHTML = chips.map(a => `<button class="chip ${a === area ? 'active' : ''} ${a === FAV ? 'fav-chip' : ''}" data-a="${a}">${a === FAV ? '★ ' : ''}${a}</button>`).join('');
     $$('.chip').forEach(c => c.addEventListener('click', () => { area = c.dataset.a; renderChips(); renderList(); applyMapFilter(); }));
   }
 
   // ---------- search ----------
   const q = $('#q');
-  q.addEventListener('input', () => { $('.search').classList.toggle('has-q', !!q.value); renderList(); applyMapFilter(); renderFavs(); });
+  q.addEventListener('input', () => { $('.search').classList.toggle('has-q', !!q.value); renderList(); applyMapFilter(); });
   $('#q-clear').addEventListener('click', () => { q.value = ''; q.dispatchEvent(new Event('input')); q.blur(); });
 
   function filtered() {
     const s = norm(q.value.trim());
-    return VENUES.filter(v => (area === 'Alle' || areaGroup(v) === area) &&
+    const fav = new Set(favs());
+    return VENUES.filter(v => (area === 'Alle' || (area === FAV ? fav.has(v.id) : areaGroup(v) === area)) &&
       (!s || norm(v.name).includes(s) || norm(v.aka).includes(s) || norm(v.area).includes(s) || norm(v.address).includes(s) || (v.rooms || []).some(r => norm(r.name).includes(s))));
   }
 
@@ -121,7 +112,12 @@
     if (recent.length && !q.value && area === 'Alle') {
       html += `<div class="letter">Recent</div><div class="recent-strip">${recent.map(v => `<button class="recent" data-id="${v.id}">${swatch(v)}<div class="name">${esc(v.name)}</div></button>`).join('')}</div>`;
     }
-    if (!items.length) { list.innerHTML = html + '<div class="empty">Niets gevonden.</div>'; return; }
+    if (!items.length) {
+      list.innerHTML = html + (area === FAV && !q.value
+        ? `<div class="empty fav-empty"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><br>Nog geen favorieten.<br>Open een club en tik op de ster.</div>`
+        : '<div class="empty">Niets gevonden.</div>');
+      return;
+    }
     const groups = {};
     items.forEach(v => { const L = norm(v.name)[0].toUpperCase(); const k = /[A-Z]/.test(L) ? L : '#'; (groups[k] = groups[k] || []).push(v); });
     const keys = Object.keys(groups).sort((a, b) => a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b));
@@ -215,14 +211,18 @@
   let strokes = [];
   let drawing = null;
 
-  function openPlan(v, r, backTo) {
-    current.venue = v; current.room = r;
-    $('.plan-top .back').dataset.back = backTo;
+  /** ctx (optioneel, vanuit een event): { dots, hint, onSend({room, x, y, label}) } — dan wordt "Deel" "Stuur" naar de groep. */
+  function openPlan(v, r, backTo, ctx = null) {
+    current.venue = v; current.room = r; current.ctx = ctx;
+    $('#view-plan .back').dataset.back = backTo;
     $('#p-name').textContent = v.name;
     $('#p-room').textContent = r.name + (v.rooms.length > 1 ? ` · ${v.name}` : '') + (v.confidence === 'laag' ? ' · indicatief' : '');
-    $('#plan-svg').innerHTML = Plan.render(v, r);
+    $('#plan-svg').innerHTML = Plan.render(v, r, ctx ? { dots: ctx.dots || [] } : {});
     strokes = []; $('#plan-hint').classList.remove('off');
-    location.hash = v.id + '/' + v.rooms.indexOf(r);
+    $('#plan-hint').textContent = ctx ? (ctx.hint || 'Tik waar je staat, dan Stuur') : 'Tik waar je staat';
+    $('#p-share').textContent = ctx ? 'Stuur' : 'Deel';
+    $('#p-share').classList.toggle('send', !!ctx);
+    if (!ctx) location.hash = v.id + '/' + v.rooms.indexOf(r);
     syncFavButtons();
     show('plan');
     sizeInk(); setTimeout(sizeInk, 30);
@@ -315,6 +315,12 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
   }
   $('#p-share').addEventListener('click', async () => {
     const v = current.venue, r = current.room;
+    if (current.ctx) {
+      const dot = strokes.find(s => s.type === 'dot');
+      if (!dot) { toast('Tik eerst waar je staat'); return; }
+      current.ctx.onSend({ room: v.rooms.indexOf(r), x: Math.round(dot.x), y: Math.round(dot.y), label: Plan.where(r, dot.x, dot.y) });
+      return;
+    }
     if (!strokes.length) { toast('Zet eerst je puntje'); return; }
     try {
       const blob = await composeImage();
@@ -348,6 +354,22 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
   const standalone = window.matchMedia('(display-mode: standalone)').matches || navigator.standalone;
   if (isIOS && !standalone) $('#install-tip').classList.remove('hidden');
 
+  // ---------- gedeeld met social.js ----------
+  window.App = {
+    $, $$, esc, toast, store, show, swatch, initials, openPlan, openVenue, selectTab,
+    venues: () => VENUES, venue: id => VENUES.find(v => v.id === id),
+    welcomed: () => { store.set('welcomed', true); },
+  };
+
+  function route(hash) {
+    if (window.Social && Social.route(hash)) return;
+    const [vid, ri] = hash.split('/');
+    if (vid && VENUES.find(v => v.id === vid)) {
+      const v = VENUES.find(x => x.id === vid);
+      if (ri !== undefined && v.rooms[+ri]) openPlan(v, v.rooms[+ri], v.rooms.length > 1 ? 'venue' : 'home'); else openVenue(vid);
+    } else show(store.get('welcomed') ? 'home' : 'welcome');
+  }
+
   // ---------- init ----------
   fetch('data/venues.json').then(r => r.json()).then(data => {
     VENUES = data.map(v => ({ ...v, id: v.id || norm(v.name).replace(/[^a-z0-9]+/g, '-') }))
@@ -356,13 +378,11 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
     $('#welcome-count').textContent = `${VENUES.length} clubs en venues, ${nr} zalen`;
     $('#about-stats').textContent = `${VENUES.length} venues, ${nr} zalen. Gesloten clubs staan er niet in.`;
     renderChips(); renderList(); buildWall(); netState();
+    if (window.Social) Social.init();
     const tab = store.get('tab', 'list');
-    if (tab !== 'list') $(`.tab[data-tab="${tab}"]`).click();
-    const hash = location.hash.slice(1);
-    const [vid, ri] = hash.split('/');
-    if (vid && VENUES.find(v => v.id === vid)) {
-      const v = VENUES.find(x => x.id === vid);
-      if (ri !== undefined && v.rooms[+ri]) openPlan(v, v.rooms[+ri], v.rooms.length > 1 ? 'venue' : 'home'); else openVenue(vid);
-    } else show(store.get('welcomed') ? 'home' : 'welcome');
+    selectTab(['list', 'map', 'friends', 'events'].includes(tab) ? tab : 'list');
+    route(location.hash.slice(1));
+    // links uit meldingen en uitnodigingen terwijl de app al open is
+    window.addEventListener('hashchange', () => { if (window.Social && Social.route(location.hash.slice(1))) return; });
   }).catch(e => { console.error(e); show('home'); $('#list').innerHTML = '<div class="empty">Kon venues niet laden. Start via een lokale server (zie README).</div>'; });
 })();

@@ -18,3 +18,5 @@ data/sweep/plannen-0363.json
 data/sweep/_log*.txt
 data/sweep/_err*.txt
 data/sweep/_pid.txt
+server/node_modules/
+server/data/

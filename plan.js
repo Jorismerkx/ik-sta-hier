@@ -170,6 +170,15 @@
       }
     });
 
+    // puntjes van vrienden (canvascoördinaten 900x1600, alleen op de grote kaart)
+    if (!mini) (opts.dots || []).forEach(d => {
+      const r = d.focus ? 30 : 24;
+      if (d.focus) out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r + 18}" fill="none" stroke="#fff" stroke-width="4" opacity=".8"/>`);
+      out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r}" fill="#fff" stroke="#000" stroke-width="4"/>`);
+      out.push(`<text x="${d.x}" y="${d.y + r * 0.36}" fill="#000" font-size="${r * 0.9}" font-weight="900" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif">${esc(d.initials || '')}</text>`);
+      if (d.name) out.push(T(d.x, d.y - r - (d.focus ? 30 : 14), d.name, d.focus ? 30 : 22, 800));
+    });
+
     // voet
     if (!opts.noFooter && !mini) {
       out.push(T(W / 2, H - 100, 'IK STA HIER', 28, 800));
@@ -178,5 +187,32 @@
     return out.join('');
   }
 
-  global.Plan = { render, colorFor, W, H, PALETTE };
+  /** Plek in woorden, vanuit de zaal gezien met DJ/podium boven: "rechts voor, bij de bar". */
+  function where(room, x, y) {
+    const m = makeMapper(room, BOX), b = bounds(room);
+    const [x0, y0] = m([b.minx, b.miny]), [x1, y1] = m([b.maxx, b.maxy]);
+    const u = (x - x0) / ((x1 - x0) || 1), v = (y - y0) / ((y1 - y0) || 1);
+    const hor = u < 0.36 ? 'links' : u > 0.64 ? 'rechts' : '';
+    const ver = v < 0.36 ? 'voor' : v > 0.64 ? 'achter' : 'midden';
+    let deel = hor ? `${hor} ${ver}` : (ver === 'midden' ? 'in het midden' : ver);
+    if (u < -0.05 || u > 1.05 || v < -0.05 || v > 1.05) deel = 'buiten de zaal';
+    const NAMEN = { bar: 'de bar', dj: 'de DJ', stage: 'het podium', in: 'de ingang', wc: 'de wc', smoke: 'de rookruimte', stairs: 'de trap', cloak: 'de garderobe', lift: 'de lift' };
+    let best = null;
+    (room.features || []).forEach(f => {
+      if (!NAMEN[f.t] || (f.t === 'in' && f.label && f.label !== 'IN')) return; // doorgang naar een andere zaal: geen ingang
+      let p;
+      if (f.a) { // dichtstbijzijnde punt op de lijn
+        const [ax, ay] = m(f.a), [bx, by] = m(f.b), dx = bx - ax, dy = by - ay;
+        const t = Math.max(0, Math.min(1, ((x - ax) * dx + (y - ay) * dy) / ((dx * dx + dy * dy) || 1)));
+        p = [ax + t * dx, ay + t * dy];
+      } else if (typeof f.w === 'number') {
+        const [rx, ry] = m([f.x, f.y]); p = [Math.max(rx, Math.min(rx + f.w * m.s, x)), Math.max(ry, Math.min(ry + f.h * m.s, y))];
+      } else p = m([f.x, f.y]);
+      const d = Math.hypot(p[0] - x, p[1] - y);
+      if (!best || d < best.d) best = { d, naam: NAMEN[f.t] };
+    });
+    return best && best.d < 110 ? `${deel}, bij ${best.naam}` : deel;
+  }
+
+  global.Plan = { render, where, colorFor, W, H, PALETTE };
 })(window);
