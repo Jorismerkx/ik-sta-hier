@@ -8,6 +8,7 @@
 !sw.js
 !manifest.webmanifest
 !data/venues.json
+!data/agenda.json
 !img/**
 !server/package.json
 !server/package-lock.json

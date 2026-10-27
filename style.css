@@ -207,8 +207,8 @@ h2 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line
 .pill-btn.wa { background: #1fa855; color: #fff; }
 .wa-ic { width: 20px; height: 20px; flex: none; }
 .add-friend { display: flex; gap: 8px; margin-top: 10px; }
-.add-friend input { flex: 1; min-width: 0; height: 46px; border-radius: 14px; border: 1px solid #2a2a2a; background: var(--panel); color: #fff; padding: 0 14px; font-size: 16px; letter-spacing: .12em; text-transform: uppercase; outline: none; }
-.add-friend input::placeholder { letter-spacing: 0; text-transform: none; color: #666; }
+.add-friend input { flex: 1; min-width: 0; height: 46px; border-radius: 14px; border: 1px solid #2a2a2a; background: var(--panel); color: #fff; padding: 0 14px; font-size: 16px; outline: none; }
+.add-friend input::placeholder { color: #666; }
 .mini-btn { background: #fff; color: #000; font-weight: 800; font-size: 14px; padding: 0 16px; height: 46px; border-radius: 14px; flex: none; }
 .notify { margin-top: 10px; }
 .notify-in { display: flex; align-items: center; gap: 10px; background: rgba(255,45,45,.12); border: 1px solid rgba(255,45,45,.35); border-radius: 14px; padding: 10px 12px; font-size: 13px; color: #ffd4d4; line-height: 1.35; }
@@ -281,6 +281,26 @@ h2 { margin: 0; font-size: 22px; font-weight: 800; letter-spacing: -0.02em; line
 .opt.on { background: #fff; color: #000; }
 .form .cta { margin-top: 6px; flex: none; }
 .cta:disabled { opacity: .5; }
+
+/* programma van de club (zoals de agenda van TicketSwap) */
+.agenda { display: flex; flex-direction: column; gap: 6px; max-height: 300px; overflow-y: auto; }
+.ag-row { display: flex; flex-direction: column; gap: 3px; text-align: left; padding: 10px 12px; border-radius: 14px; background: var(--panel); border: 1.5px solid #222; }
+.ag-row.on { border-color: #fff; background: #1d1d1d; }
+.ag-date { display: flex; align-items: center; gap: 6px; color: #ff6b6b; font-size: 12px; font-weight: 700; }
+.ag-date svg { width: 14px; height: 14px; }
+.ag-title { font-size: 15px; font-weight: 800; }
+/* na afloop: cijfer en terugblik */
+.e-rate { flex: none; padding: 10px 16px calc(14px + var(--safe-bottom)); border-top: 1px solid var(--line); background: #050505; }
+.rate-head { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; margin-bottom: 8px; font-size: 15px; }
+.rate-head span { color: var(--muted); font-size: 13px; }
+.rate-head b { color: #fff; }
+.rate-row { display: grid; grid-template-columns: repeat(10, 1fr); gap: 4px; }
+.rate { height: 40px; border-radius: 10px; background: var(--panel2); font-weight: 800; font-size: 15px; }
+.rate.on { background: var(--accent); color: #fff; }
+.recap { display: flex; gap: 12px; align-items: center; background: var(--panel); border-radius: 18px; padding: 12px; flex: none; }
+.recap .b-where strong { font-size: 17px; }
+.score { color: #f5b400; font-weight: 800; }
+.logout { color: #888; margin-top: 18px; }
 
 /* ---------- onderblad ---------- */
 #sheet { position: absolute; inset: 0; z-index: 900; }

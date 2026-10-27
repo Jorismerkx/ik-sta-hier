@@ -19,13 +19,17 @@ Delen via WhatsApp werkt alleen op een echte telefoon (Web Share API); in de des
 
 ## Vrienden, events en "Waar sta je?"
 
-- **Profiel**: alleen een naam. De server geeft een token terug dat op het toestel blijft; geen wachtwoord, geen GPS.
-- **Vrienden**: via je vriendlink (WhatsApp) of je code van 6 tekens. Vriendschap geldt altijd twee kanten op.
-- **Event**: club, zalen (alle of een paar), datum en tijd, vrienden. Uitgenodigde vrienden zien het event meteen
+- **Account**: gebruikersnaam + wachtwoord, niets te verifiëren (geen e-mail, telefoon of GPS). Elk toestel krijgt een
+  eigen sessie, dus het werkt ook als app op het beginscherm naast Safari, en op een tweede telefoon.
+- **Vrienden**: via je vriendlink (WhatsApp), gebruikersnaam of code van 6 tekens. Vriendschap geldt altijd twee kanten op.
+- **Event**: club, dan het programma van die club (feest kiezen vult naam, datum en tijd; of een gewone avond),
+  zalen (alle of een paar), datum en tijd, vrienden. Uitgenodigde vrienden zien het event meteen
   (live via SSE, en als melding). Anderen doen mee via de uitnodigingslink (`#e/<code>`) in WhatsApp.
 - **Feed** van een event: geen chat. Alleen *Waar zijn jullie?* (ping met SOS-trilling) en *Ik sta hier* (puntje op de
   plattegrond, met automatische omschrijving zoals "rechts voor, bij de bar"). Tik een puntje aan om het groot te zien,
   samen met de laatste plek van de anderen.
+- **Na afloop** (vanaf 08:00 de ochtend erna): iedereen geeft de avond een cijfer (1-10) en de feed opent met een
+  terugblik: alle puntjes in de zaal waar jullie het meest stonden, en waar dat meestal was.
 - **De knop in het midden** (*Waar sta je?*) werkt op het event van vanavond (12:00 tot 08:00 de ochtend erna).
 - **Zonder bereik** gaan pings en puntjes in een wachtrij en worden ze verstuurd zodra er verbinding is; voor het puntje
   biedt de app ook een kant-en-klare sms aan.
@@ -36,6 +40,10 @@ Delen via WhatsApp werkt alleen op een echte telefoon (Web Share API); in de des
 Server: `server/server.js` (Node 22.13+, ingebouwde SQLite, alleen `web-push` als pakket). Data in `DATA_DIR`
 (standaard `server/data/`): `ish.db` en `vapid.json`. Test: `python -X utf8 tools/social_test.py` (drie gebruikers,
 start zelf een tijdelijke server).
+
+**Agenda**: `python -X utf8 tools/agenda.py` haalt per club de komende feesten van de eigen website (schema.org
+Event-data, respecteert robots.txt) naar `data/agenda.json`. TicketSwap en Resident Advisor hebben geen open API en
+worden niet gescrapet.
 
 **Online zetten**: de `Dockerfile` bouwt server + app in één container (Railway, Render, Fly.io). Zet een volume op
 `/data`. Draait de app ergens anders (GitHub Pages, de iOS/Android-app), vul dan in `config.js` bij `api` het adres van

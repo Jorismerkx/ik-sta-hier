@@ -26,8 +26,10 @@ const VENUES = new Map(JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'venue
 // ---------- hulpjes ----------
 class Fout extends Error { constructor(status, msg) { super(msg); this.status = status; } }
 const tekst = (v, max) => String(v ?? '').replace(/\s+/g, ' ').trim().slice(0, max);
-const DATUM = /^\d{4}-\d{2}-\d{2}$/, TIJD = /^\d{2}:\d{2}$/;
+const DATUM = /^\d{4}-\d{2}-\d{2}$/, TIJD = /^\d{2}:\d{2}$/, NAAM = /^[A-Za-z0-9._-]{3,20}$/;
 const datumNL = d => new Date(d + 'T12:00:00').toLocaleDateString('nl-NL', { weekday: 'short', day: 'numeric', month: 'short' });
+const vandaag = () => new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Amsterdam' }); // YYYY-MM-DD in Amsterdam
+const pogingen = new Map(); // mislukte logins per ip + naam
 
 function send(res, status, body, headers = {}) {
   res.writeHead(status, { 'content-type': 'application/json; charset=utf-8', 'cache-control': 'no-store', ...headers });
@@ -41,20 +43,17 @@ function readBody(req) {
     req.on('error', reject);
   });
 }
-function auth(req, url) {
-  const h = req.headers.authorization || '';
-  const token = h.startsWith('Bearer ') ? h.slice(7) : url.searchParams.get('t');
-  return token ? db.userByToken(token) : null;
-}
+const tokenOf = (req, url) => { const h = req.headers.authorization || ''; return h.startsWith('Bearer ') ? h.slice(7) : url.searchParams.get('t'); };
+function auth(req, url) { const token = tokenOf(req, url); return token ? db.userByToken(token) : null; }
 
 // ---------- weergave ----------
 const feedView = f => f && ({ id: f.id, event: f.event, user: { id: f.user, name: f.name }, kind: f.kind,
   room: f.room, x: f.x, y: f.y, label: f.label, at: f.created });
-function eventView(id) {
+function eventView(id, meId) {
   const e = db.event(id); if (!e) return null;
   const v = VENUES.get(e.venue);
   return { id: e.id, title: e.title, venue: e.venue, venueName: v ? v.name : e.venue, rooms: e.rooms, date: e.date, time: e.time,
-    owner: e.owner, invite: e.invite, members: db.members(id), last: feedView(db.lastFeed(id)) };
+    link: e.link, owner: e.owner, invite: e.invite, members: db.members(id), last: feedView(db.lastFeed(id)), rating: db.rating(id, meId) };
 }
 const plek = (e, f) => { const v = VENUES.get(e.venue); return [v && v.rooms[f.room], f.label].filter(Boolean).join(' · '); };
 
@@ -79,12 +78,26 @@ const routes = [
   ['GET', /^\/api\/health$/, false, () => ({ ok: true })],
   ['GET', /^\/api\/push$/, false, () => ({ key: VAPID_PUBLIC })],
 
-  // account op dit toestel: alleen een naam, geen wachtwoord
-  ['POST', /^\/api\/me$/, false, async ({ body }) => {
-    const name = tekst(body.name, 30);
-    if (name.length < 1) throw new Fout(400, 'naam ontbreekt');
-    return db.createUser(name);
+  // account: gebruikersnaam + wachtwoord, niets te verifiëren; elk toestel krijgt een eigen sessie
+  ['POST', /^\/api\/register$/, false, ({ body }) => {
+    const username = String(body.username || '').trim(), password = String(body.password || '');
+    if (!NAAM.test(username)) throw new Fout(400, 'Gebruikersnaam: 3 tot 20 letters of cijfers');
+    if (password.length < 4) throw new Fout(400, 'Wachtwoord: minstens 4 tekens');
+    if (db.userByName(username)) throw new Fout(409, 'Die gebruikersnaam is al bezet');
+    const u = db.createUser(username, password);
+    return { ...u, token: db.newSession(u.id) };
   }],
+  ['POST', /^\/api\/login$/, false, ({ body, ip }) => {
+    const username = String(body.username || '').trim(), k = ip + '|' + username.toLowerCase();
+    const p = pogingen.get(k) || { n: 0, t: Date.now() };
+    if (Date.now() - p.t > 10 * 60e3) { p.n = 0; p.t = Date.now(); }
+    if (p.n >= 8) throw new Fout(429, 'Te vaak geprobeerd, wacht even');
+    const u = db.login(username, String(body.password || ''));
+    if (!u) { p.n++; pogingen.set(k, p); throw new Fout(401, 'Gebruikersnaam of wachtwoord klopt niet'); }
+    pogingen.delete(k);
+    return { ...u, token: db.newSession(u.id) };
+  }],
+  ['POST', /^\/api\/logout$/, true, ({ token }) => { db.endSession(token); return { ok: true }; }],
   ['GET', /^\/api\/me$/, true, ({ me }) => me],
   ['PATCH', /^\/api\/me$/, true, ({ me, body }) => {
     const name = tekst(body.name, 30); if (!name) throw new Fout(400, 'naam ontbreekt');
@@ -97,8 +110,10 @@ const routes = [
   }],
   ['GET', /^\/api\/friends$/, true, ({ me }) => db.friends(me.id)],
   ['POST', /^\/api\/friends$/, true, ({ me, body }) => {
-    const u = db.userByCode(tekst(body.code, 12)); if (!u) throw new Fout(404, 'code onbekend');
-    if (u.id === me.id) throw new Fout(400, 'dat is je eigen code');
+    const wie = tekst(body.who || body.code, 30).replace(/^@/, '');
+    const u = (/^[A-Z2-9]{6}$/i.test(wie) && db.userByCode(wie)) || db.userByName(wie);
+    if (!u) throw new Fout(404, 'Niemand gevonden met die naam of code');
+    if (u.id === me.id) throw new Fout(400, 'Dat ben je zelf');
     const nieuw = !db.areFriends(me.id, u.id);
     db.befriend(me.id, u.id);
     if (nieuw) {
@@ -110,23 +125,24 @@ const routes = [
   ['DELETE', /^\/api\/friends\/([\w-]+)$/, true, ({ me, m }) => { db.unfriend(me.id, m[1]); return { ok: true }; }],
 
   // events
-  ['GET', /^\/api\/events$/, true, ({ me }) => db.eventsOf(me.id).map(eventView)],
+  ['GET', /^\/api\/events$/, true, ({ me }) => db.eventsOf(me.id).map(id => eventView(id, me.id))],
   ['POST', /^\/api\/events$/, true, ({ me, body }) => {
     const v = VENUES.get(body.venue); if (!v) throw new Fout(400, 'onbekende club');
     const rooms = (Array.isArray(body.rooms) ? body.rooms : []).map(Number).filter(i => Number.isInteger(i) && i >= 0 && i < v.rooms.length);
     if (!DATUM.test(body.date || '')) throw new Fout(400, 'datum ontbreekt');
     const time = TIJD.test(body.time || '') ? body.time : null;
+    const link = /^https?:\/\/\S+$/.test(body.link || '') ? String(body.link).slice(0, 300) : null; // feest uit de agenda
     const id = db.createEvent({ owner: me.id, title: tekst(body.title, 60) || `Avond in ${v.name}`, venue: body.venue,
-      rooms: [...new Set(rooms)].sort((a, b) => a - b), date: body.date, time });
+      rooms: [...new Set(rooms)].sort((a, b) => a - b), date: body.date, time, link });
     db.addMember(id, me.id);
     db.addFeed({ event: id, user: me.id, kind: 'create' });
     const vrienden = new Set(db.friends(me.id).map(f => f.id));
     for (const uid of (body.friends || []).filter(u => vrienden.has(u))) uitnodigen(id, me, uid);
-    return eventView(id);
+    return eventView(id, me.id);
   }],
   ['GET', /^\/api\/events\/([\w-]+)$/, true, ({ me, m }) => {
     if (!db.isMember(m[1], me.id)) throw new Fout(404, 'event niet gevonden');
-    return { ...eventView(m[1]), feed: db.feed(m[1]).map(feedView) };
+    return { ...eventView(m[1], me.id), feed: db.feed(m[1]).map(feedView) };
   }],
   ['DELETE', /^\/api\/events\/([\w-]+)$/, true, ({ me, m }) => {
     const e = db.event(m[1]); if (!e || !db.isMember(e.id, me.id)) throw new Fout(404, 'event niet gevonden');
@@ -141,7 +157,17 @@ const routes = [
     if (!db.isMember(m[1], me.id)) throw new Fout(404, 'event niet gevonden');
     const vrienden = new Set(db.friends(me.id).map(f => f.id));
     for (const uid of (body.friends || []).filter(u => vrienden.has(u))) uitnodigen(m[1], me, uid);
-    return eventView(m[1]);
+    return eventView(m[1], me.id);
+  }],
+  ['POST', /^\/api\/events\/([\w-]+)\/rating$/, true, ({ me, m, body }) => {
+    const e = db.event(m[1]); if (!e || !db.isMember(e.id, me.id)) throw new Fout(404, 'event niet gevonden');
+    if (e.date > vandaag()) throw new Fout(400, 'Beoordelen kan vanaf de avond zelf');
+    const score = Number(body.score);
+    if (!Number.isInteger(score) || score < 1 || score > 10) throw new Fout(400, 'Cijfer van 1 tot 10');
+    const eerste = db.rating(e.id, me.id).mine == null;
+    db.rate(e.id, me.id, score);
+    if (eerste) feedNaarGroep(e, feedView(db.addFeed({ event: e.id, user: me.id, kind: 'rate', label: String(score) })));
+    return eventView(e.id, me.id);
   }],
   ['POST', /^\/api\/events\/([\w-]+)\/ping$/, true, ({ me, m }) => {
     const e = db.event(m[1]); if (!e || !db.isMember(e.id, me.id)) throw new Fout(404, 'event niet gevonden');
@@ -175,7 +201,7 @@ const routes = [
       db.befriend(me.id, e.owner);
       feedNaarGroep(e, feedView(db.addFeed({ event: e.id, user: me.id, kind: 'join' })));
     }
-    return eventView(e.id);
+    return eventView(e.id, me.id);
   }],
 
   // meldingen
@@ -219,10 +245,11 @@ async function api(req, res, url) {
     for (const [method, re, needAuth, fn] of routes) {
       const m = url.pathname.match(re);
       if (!m || method !== req.method) continue;
-      const me = auth(req, url);
+      const token = tokenOf(req, url), me = token ? db.userByToken(token) : null;
       if (needAuth && !me) throw new Fout(401, 'niet ingelogd');
       const body = ['POST', 'PATCH'].includes(method) ? await readBody(req) : {};
-      return send(res, 200, await fn({ me, m, body }), cors);
+      const ip = (req.headers['x-forwarded-for'] || req.socket.remoteAddress || '').split(',')[0].trim();
+      return send(res, 200, await fn({ me, m, body, token, ip }), cors);
     }
     throw new Fout(404, 'onbekend pad');
   } catch (e) {
@@ -234,7 +261,7 @@ async function api(req, res, url) {
 // ---------- de webapp zelf (alleen wat de app nodig heeft) ----------
 const TYPES = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8',
   '.json': 'application/json; charset=utf-8', '.webmanifest': 'application/manifest+json', '.png': 'image/png', '.jpg': 'image/jpeg', '.svg': 'image/svg+xml' };
-const OPEN = /^\/(index\.html|style\.css|app\.js|plan\.js|social\.js|config\.js|sw\.js|manifest\.webmanifest|data\/venues\.json|img\/[\w\-./]+\.(png|jpg|svg))$/;
+const OPEN = /^\/(index\.html|style\.css|app\.js|plan\.js|social\.js|config\.js|sw\.js|manifest\.webmanifest|data\/(venues|agenda)\.json|img\/[\w\-./]+\.(png|jpg|svg))$/;
 function statisch(req, res, url) {
   const p = url.pathname === '/' ? '/index.html' : decodeURIComponent(url.pathname);
   if (!OPEN.test(p) || p.includes('..')) { res.writeHead(404); return res.end('niet gevonden'); }

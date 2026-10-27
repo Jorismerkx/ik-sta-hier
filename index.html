@@ -140,6 +140,7 @@
         <div id="e-members" class="members"></div>
         <div id="e-notify" class="notify hidden"></div>
         <div id="e-feed" class="feed"></div>
+        <div id="e-rate" class="e-rate hidden"></div>
         <div class="e-actions">
           <button id="e-ping" class="act ghost"><svg viewBox="0 0 24 24"><path d="M12 3a6 6 0 0 0-6 6v3.5L4 16h16l-2-3.5V9a6 6 0 0 0-6-6zM9.5 19a2.5 2.5 0 0 0 5 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Waar zijn jullie?</button>
           <button id="e-pin" class="act hot"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="currentColor"/><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg>Ik sta hier</button>
@@ -157,6 +158,10 @@
             <span>Club</span>
             <button type="button" id="ne-venue" class="picker">Kies een club</button>
           </label>
+          <div id="ne-agenda-wrap" class="field hidden">
+            <span>Wat ga je doen?</span>
+            <div id="ne-agenda" class="agenda"></div>
+          </div>
           <div id="ne-rooms-wrap" class="field hidden">
             <span>Zalen</span>
             <div id="ne-rooms" class="choice"></div>
@@ -183,8 +188,8 @@
         <div class="about">
           <p><strong>Ik sta hier</strong> is een plattegrond-app voor het uitgaan in Amsterdam. Elke zaal is versimpeld tot wat je nodig hebt om aan te wijzen waar je staat: podium of DJ, bars, ingang, trap.</p>
           <p>Zet je puntje, deel het plaatje. Werkt ook zonder bereik: de plattegronden zitten in de app.</p>
-          <p><strong>Events en vrienden.</strong> Maak een event voor je avond, nodig je vrienden uit en tik in de club op <em>Waar sta je?</em>. Met <em>Waar zijn jullie?</em> krijgt je groep een melding; met <em>Ik sta hier</em> ziet iedereen je puntje op de plattegrond. Je profiel is alleen een naam, zonder wachtwoord of telefoonnummer. De app gebruikt geen GPS: alleen de plek die je zelf aantikt gaat naar je groep. Zonder bereik wacht je puntje en gaat het vanzelf zodra je weer verbinding hebt.</p>
-          <p>Elke zaal staat op de echte pandomtrek uit de BAG (Kadaster). Waar de venue een plattegrond, technische rider of zaaltekening publiceert, is de zaal daarvan overgetrokken: dan staat er <em>Echte plattegrond</em> bij. Staat er <em>indicatief</em> bij, dan is de indeling een schatting. Klopt iets niet? Tik op "Klopt niet" en stuur een foto van de zaal.</p>
+          <p><strong>Events en vrienden.</strong> Maak een event voor je avond, nodig je vrienden uit en tik in de club op <em>Waar sta je?</em>. Met <em>Waar zijn jullie?</em> krijgt je groep een melding; met <em>Ik sta hier</em> ziet iedereen je puntje op de plattegrond. Je account is een gebruikersnaam met wachtwoord, zonder e-mail of telefoonnummer, zodat hij op al je toestellen werkt. De app gebruikt geen GPS: alleen de plek die je zelf aantikt gaat naar je groep. Zonder bereik wacht je puntje en gaat het vanzelf zodra je weer verbinding hebt.</p>
+          <p>Elke zaal staat op de echte pandomtrek uit de BAG (Kadaster). Waar de venue een plattegrond, technische rider of zaaltekening publiceert, is de zaal daarvan overgetrokken: dan staat er <em>Echte plattegrond</em> bij. Staat er <em>indicatief</em> bij, dan is de indeling een schatting. Staat er <em>Plattegrond van de club zelf</em>, dan komt de tekening van de club. Klopt iets niet? Tik op "Klopt niet" en stuur een foto van de zaal.</p>
           <p id="about-stats" class="fine"></p>
           <p class="fine">Foto's: websites van de venues, Amsterdam Dance Event en Wikimedia Commons. Kaart: OpenStreetMap. Plattegrond fout of foto niet oké? <a id="about-mail" href="#">Mail</a>.</p>
           <div id="install-tip" class="tip hidden"><strong>Zet op je beginscherm</strong><br>Safari: tik op <span class="ios-share">⎙</span> en kies "Zet op beginscherm". Dan opent het als app en werkt het offline.</div>

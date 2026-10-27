@@ -1,6 +1,6 @@
 /* Service worker: app-schil + data + foto's offline. Kaarttegels worden gecachet zodra ze gezien zijn. */
-const VERSION = 'ish-448ca2fb77';
-const SHELL = ['./', 'index.html', 'style.css', 'config.js', 'app.js', 'plan.js', 'social.js', 'data/venues.json', 'manifest.webmanifest',
+const VERSION = 'ish-3dcddbb2cf';
+const SHELL = ['./', 'index.html', 'style.css', 'config.js', 'app.js', 'plan.js', 'social.js', 'data/venues.json', 'data/agenda.json', 'manifest.webmanifest',
   'img/icon-192.png', 'img/icon-512.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'];
 const TILE_LIMIT = 600;
@@ -59,7 +59,7 @@ self.addEventListener('fetch', e => {
     return;
   }
   // data: network first (verse plattegronden), anders cache
-  if (url.pathname.endsWith('venues.json')) {
+  if (url.pathname.endsWith('venues.json') || url.pathname.endsWith('agenda.json')) {
     e.respondWith(fetch(e.request).then(r => { caches.open(VERSION).then(c => c.put(e.request, r.clone())); return r; }).catch(() => caches.match(e.request)));
     return;
   }

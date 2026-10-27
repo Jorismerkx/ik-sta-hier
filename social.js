@@ -57,6 +57,7 @@
     const start = new Date(ev.date + 'T12:00:00').getTime();
     return now >= start && now < start + 20 * 3600e3; // van 12:00 tot 08:00 de ochtend erna
   }
+  const isPast = (ev, now = Date.now()) => now >= new Date(ev.date + 'T12:00:00').getTime() + 20 * 3600e3;
   function dayLabel(ev) {
     if (isActive(ev)) return 'Vanavond';
     const d = new Date(ev.date + 'T12:00:00'), t = new Date(today() + 'T12:00:00');
@@ -99,22 +100,36 @@
   $('#sheet .sheet-bg').addEventListener('click', closeSheet);
 
   // ---------- profiel ----------
+  // gebruikersnaam + wachtwoord, niets te verifiëren; zo werkt je account ook op een ander toestel of als app op je beginscherm
   function ensureMe(reason) {
     if (me) return Promise.resolve(me);
     return new Promise(resolve => {
-      sheet(`<h3>Hoe heet je?</h3><p class="sheet-sub">${esc(reason || 'Zo zien je vrienden wie er zoekt of waar je staat. Alleen een naam, geen wachtwoord.')}</p>
-        <form class="name-form"><input id="me-name" maxlength="30" placeholder="Je naam" autocomplete="nickname" required><button class="cta">Verder</button></form>`, el => {
-        const f = el.querySelector('form'), inp = el.querySelector('input');
-        setTimeout(() => inp.focus(), 250);
+      const open = mode => sheet(`<h3>${mode === 'login' ? 'Inloggen' : 'Maak je account'}</h3>
+        <p class="sheet-sub">${esc(reason || 'Een gebruikersnaam en een wachtwoord. Geen e-mail, geen telefoonnummer, niets te verifiëren.')}</p>
+        <form class="name-form" id="me-form">
+          <input name="username" maxlength="20" placeholder="Gebruikersnaam" autocomplete="username" autocapitalize="off" autocorrect="off" spellcheck="false" required>
+          <input name="password" type="password" minlength="4" placeholder="Wachtwoord" autocomplete="${mode === 'login' ? 'current-password' : 'new-password'}" required>
+          <button class="cta">${mode === 'login' ? 'Inloggen' : 'Account maken'}</button>
+        </form>
+        <button class="sheet-row center" data-s="switch">${mode === 'login' ? 'Nog geen account? Maak er een' : 'Heb je al een account? Log in'}</button>`, el => {
+        const f = el.querySelector('form');
+        setTimeout(() => f.username.focus(), 250);
+        el.querySelector('[data-s="switch"]').onclick = () => open(mode === 'login' ? 'register' : 'login');
         f.addEventListener('submit', async e => {
           e.preventDefault();
           try {
-            me = await api('POST', '/me', { name: inp.value });
-            store.set('me', me); closeSheet(); connect(); loadAll(); renderAll(); resolve(me);
+            me = await api('POST', mode === 'login' ? '/login' : '/register', { username: f.username.value.trim(), password: f.password.value });
+            store.set('me', me); closeSheet(); connect(); loadAll(true); renderAll(); resolve(me);
           } catch (err) { toast(err.offline ? 'Geen verbinding met de server' : err.message); }
         });
       });
+      open('register');
     });
+  }
+  async function logout() {
+    if (!confirm('Uitloggen op dit toestel?')) return;
+    try { await api('POST', '/logout'); } catch {}
+    forget(); toast('Uitgelogd');
   }
 
   // ---------- laden + live ----------
@@ -173,7 +188,8 @@
     el.classList.remove('hidden'); el.classList.add('show');
     el.querySelector('.al-go').onclick = () => { hideAlarm(); openEvent(ev.id, { then: 'antwoord' }); };
     el.querySelector('.al-x').onclick = hideAlarm;
-    clearTimeout(alarm.t); alarm.t = setTimeout(hideAlarm, 25000);
+    alarm.event = ev.id;
+    clearTimeout(alarm.t); alarm.t = setTimeout(hideAlarm, 12000);
   }
   function hideAlarm() { $('#alert').classList.remove('show'); setTimeout(() => $('#alert').classList.add('hidden'), 250); }
 
@@ -279,7 +295,7 @@
   // ---------- vrienden ----------
   function intro(title, text) {
     return `<div class="hello"><div class="hello-dot"></div><h3>${title}</h3><p>${text}</p><button class="cta" data-act="profiel">Maak je profiel</button>
-      <p class="fine">Alleen een naam. Geen wachtwoord, geen telefoonnummer, geen GPS.</p></div>`;
+      <p class="fine">Gebruikersnaam en wachtwoord. Geen e-mail, geen telefoonnummer, geen GPS.</p></div>`;
   }
   function renderFriends() {
     const el = $('#friends'); if (!el) return;
@@ -288,19 +304,20 @@
       ${reachable ? '' : '<div class="offline-note">Geen verbinding met de server. Je lijst ververst zodra je weer online bent.</div>'}
       <div class="me-card">
         ${avatar(me, 'av big')}
-        <div class="me-meta"><button class="me-name" data-act="rename">${esc(me.name)}</button><div class="me-code">Jouw code <strong>${esc(me.code)}</strong></div></div>
+        <div class="me-meta"><button class="me-name" data-act="rename">${esc(me.name)}</button><div class="me-code">@${esc(me.username)} · code <strong>${esc(me.code)}</strong></div></div>
       </div>
       <div class="btn-row">
         <button class="pill-btn wa" data-act="invite-friend">${waIcon()}Stuur je link via WhatsApp</button>
       </div>
       <form class="add-friend" data-act="add">
-        <input name="code" maxlength="6" placeholder="Code van een vriend" autocapitalize="characters" autocomplete="off">
+        <input name="who" maxlength="20" placeholder="Gebruikersnaam of code" autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off">
         <button class="mini-btn">Voeg toe</button>
       </form>
       ${pushBanner() ? `<div class="notify">${pushBanner()}</div>` : ''}
       <div class="letter">Vrienden${friends.length ? ` · ${friends.length}` : ''}</div>
       ${friends.length ? friends.map(f => `<div class="row friend">${avatar(f)}<div class="meta"><div class="name">${esc(f.name)}</div></div><button class="x" data-del="${f.id}" aria-label="Verwijder">×</button></div>`).join('')
-        : `<div class="empty small">Nog geen vrienden. Stuur je link via WhatsApp: wie hem opent, staat meteen in je lijst. Of vul hun code hierboven in.</div>`}`;
+        : `<div class="empty small">Nog geen vrienden. Stuur je link via WhatsApp: wie hem opent, staat meteen in je lijst. Of vul hun gebruikersnaam hierboven in.</div>`}
+      <button class="sheet-row center logout" data-act="logout">Uitloggen</button>`;
     bind(el);
   }
 
@@ -319,7 +336,7 @@
       const last = ev.last ? lastLine(ev.last) : '';
       return `<button class="ev-card ${isActive(ev) ? 'live' : ''}" data-ev="${ev.id}">
         ${v ? App.swatch(v) : '<div class="swatch"></div>'}
-        <div class="meta"><div class="name">${esc(ev.title)}</div><div class="info">${esc(whenLabel(ev))} · ${esc(ev.venueName)}</div>
+        <div class="meta"><div class="name">${esc(ev.title)}</div><div class="info">${esc(whenLabel(ev))} · ${esc(ev.venueName)}${ev.rating && ev.rating.avg ? ` · <b class="score">★ ${String(ev.rating.avg).replace('.', ',')}</b>` : ''}</div>
         <div class="faces">${ev.members.slice(0, 6).map(m => avatar(m, 'av tiny')).join('')}${ev.members.length > 6 ? `<span class="more">+${ev.members.length - 6}</span>` : ''}${last ? `<span class="last">${esc(last)}</span>` : ''}</div></div>
         <div class="chev">›</div></button>`;
     };
@@ -334,7 +351,8 @@
   }
   function lastLine(f) {
     const n = f.user.name;
-    return { ping: `${n} zoekt jullie`, pin: `${n} staat hier`, join: `${n} doet mee`, create: `${n} maakte het event`, leave: `${n} is weg` }[f.kind] || '';
+    return { ping: `${n} zoekt jullie`, pin: `${n} staat hier`, join: `${n} doet mee`, create: `${n} maakte het event`, leave: `${n} is weg`,
+      rate: `${n} gaf een ${f.label}` }[f.kind] || '';
   }
 
   async function openEvent(id, opts = {}) {
@@ -342,6 +360,7 @@
     const cached = events.find(e => e.id === id);
     if (!open || open.id !== id) open = cached ? { ...cached, feed: [] } : null;
     store.set('lastEvent', id);
+    if (alarm.event === id) hideAlarm(); // je bent er al: de melding mag weg
     history.replaceState(null, '', '#event/' + id);
     if (open && !opts.quiet) { renderEvent(); App.show('event'); }
     try {
@@ -362,16 +381,21 @@
     const zalen = ev.rooms.length && v ? ' · ' + ev.rooms.map(i => v.rooms[i] && v.rooms[i].name).filter(Boolean).join(', ') : '';
     $('#e-sub').textContent = `${whenLabel(ev)} · ${ev.venueName}${zalen}`;
     $('#e-members').innerHTML = ev.members.map(m => `<div class="mem">${avatar(m)}<span>${esc(m.id === me.id ? 'Jij' : m.name)}</span></div>`).join('')
-      + `<button class="mem add" data-act="invite"><span class="av plus">+</span><span>Uitnodigen</span></button>`;
-    const nb = pushBanner(); $('#e-notify').innerHTML = nb; $('#e-notify').classList.toggle('hidden', !nb);
+      + `<button class="mem add" data-act="invite"><span class="av plus">+</span><span>Uitnodigen</span></button>`
+      + (ev.link ? `<a class="mem add" href="${esc(ev.link)}" target="_blank" rel="noopener"><span class="av plus">↗</span><span>Programma</span></a>` : '');
+    const klaar = isPast(ev);
+    const nb = klaar ? '' : pushBanner(); $('#e-notify').innerHTML = nb; $('#e-notify').classList.toggle('hidden', !nb);
+    $('.e-actions').classList.toggle('hidden', klaar);
+    $('#e-rate').classList.toggle('hidden', !klaar);
+    if (klaar) renderRating(ev);
     renderOpenFeed();
     bind($('#view-event'));
   }
   function itemHtml(f, pending) {
     const mine = me && f.user.id === me.id, who = mine ? 'Jij' : f.user.name;
     const time = pending ? 'wacht op bereik…' : clock(f.at);
-    if (['create', 'join', 'leave'].includes(f.kind)) {
-      const t = { create: `${who} maakte het event`, join: `${who} doet mee`, leave: `${who} is weg` }[f.kind];
+    if (['create', 'join', 'leave', 'rate'].includes(f.kind)) {
+      const t = { create: `${who} maakte het event`, join: `${who} doet mee`, leave: `${who} is weg`, rate: `${who} gaf de avond een ${f.label}` }[f.kind];
       return `<div class="sys">${esc(t)} · ${time}</div>`;
     }
     const head = `<div class="b-head">${mine ? '' : avatar(f.user, 'av tiny')}<span>${esc(who)}</span><time>${time}</time></div>`;
@@ -390,12 +414,38 @@
     if (!open || !$('#e-feed')) return;
     const pend = outbox.filter(o => o.event === open.id).map(o => ({ id: o.id, user: me, kind: o.kind, room: o.body.room, x: o.body.x, y: o.body.y, label: o.body.label, at: o.at }));
     const items = (open.feed || []).map(f => itemHtml(f, false)).concat(pend.map(f => itemHtml(f, true)));
+    if (isPast(open)) items.unshift(recapHtml(open));
     const el = $('#e-feed');
     const atEnd = el.scrollHeight - el.scrollTop - el.clientHeight < 80;
     el.innerHTML = items.length ? items.join('') : '<div class="empty small">Nog niets. Tik in de club op <em>Ik sta hier</em> of vraag <em>Waar zijn jullie?</em></div>';
-    if (atEnd || renderOpenFeed.first !== open.id) el.scrollTop = el.scrollHeight;
+    if (renderOpenFeed.first !== open.id && isPast(open)) el.scrollTop = 0; // afgelopen: begin bij de terugblik
+    else if (atEnd || renderOpenFeed.first !== open.id) el.scrollTop = el.scrollHeight;
     renderOpenFeed.first = open.id;
     bind(el);
+  }
+  // terugblik: alle puntjes van de avond in de zaal waar jullie het meest stonden, met het midden ervan
+  function recapHtml(ev) {
+    const v = venueOf(ev), pins = (ev.feed || []).filter(f => f.kind === 'pin');
+    if (!v || !pins.length) return '';
+    const per = new Map(); pins.forEach(f => per.set(f.room, (per.get(f.room) || []).concat([f])));
+    const [room, list] = [...per.entries()].sort((a, b) => b[1].length - a[1].length)[0];
+    const r = v.rooms[room]; if (!r) return '';
+    const cx = list.reduce((a, f) => a + f.x, 0) / list.length, cy = list.reduce((a, f) => a + f.y, 0) / list.length;
+    const dots = list.map(f => ({ x: f.x, y: f.y, small: true })).concat([{ x: cx, y: cy, initials: '★', focus: true }]);
+    return `<div class="recap"><div class="b-map">${Plan.render(v, r, { noFooter: true, dots })}</div>
+      <div class="b-where"><strong>Waar jullie stonden</strong><span>Meestal ${esc(Plan.where(r, cx, cy))}</span>
+      <em>${esc(r.name)} · ${pins.length} ${pins.length === 1 ? 'puntje' : 'puntjes'}</em></div></div>`;
+  }
+  function renderRating(ev) {
+    const r = ev.rating || {};
+    $('#e-rate').innerHTML = `<div class="rate-head"><strong>Hoe was de avond?</strong>${r.avg ? `<span>Gemiddeld <b>${String(r.avg).replace('.', ',')}</b> · ${r.n} ${r.n === 1 ? 'cijfer' : 'cijfers'}</span>` : '<span>Geef een cijfer</span>'}</div>
+      <div class="rate-row">${Array.from({ length: 10 }, (_, i) => `<button class="rate ${r.mine === i + 1 ? 'on' : ''}" data-score="${i + 1}">${i + 1}</button>`).join('')}</div>`;
+    $$('#e-rate .rate').forEach(b => b.onclick = async () => {
+      try {
+        const upd = await api('POST', `/events/${ev.id}/rating`, { score: +b.dataset.score });
+        open = { ...open, rating: upd.rating }; upsert(upd); renderRating(open); renderEvents(); buzz(15);
+      } catch (e) { toast(e.offline ? 'Geen verbinding' : e.message); }
+    });
   }
   function addItem(item) {
     if (!open || !open.feed || open.feed.some(f => f.id === item.id)) return;
@@ -438,10 +488,32 @@
   }
 
   // ---------- nieuw event ----------
-  const form = { venue: null, rooms: [], friends: new Set() };
+  const form = { venue: null, rooms: [], friends: new Set(), pick: null, link: null };
+  let agenda = null; // data/agenda.json: komende feesten per club (tools/agenda.py)
+  async function loadAgenda() {
+    if (!agenda) { try { agenda = await fetch('data/agenda.json').then(r => (r.ok ? r.json() : {})); } catch { agenda = {}; } }
+    return agenda;
+  }
+  const CAL = '<svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>';
+  function renderAgenda(v) {
+    $('#ne-agenda-wrap').classList.toggle('hidden', !v);
+    if (!v) return;
+    const list = ((agenda || {})[v.id] || []).filter(e => e.date >= today()).slice(0, 15);
+    const dag = e => new Date(e.date + 'T12:00:00').toLocaleDateString('nl-NL', { weekday: 'short', day: 'numeric', month: 'short' }) + (e.time ? `, ${e.time}` : '');
+    $('#ne-agenda').innerHTML = `<button type="button" class="ag-row ${form.pick === null ? 'on' : ''}" data-i="-1"><span class="ag-date">Zelf kiezen</span><span class="ag-title">Gewone avond, geen feest</span></button>`
+      + (list.length ? list.map((e, i) => `<button type="button" class="ag-row ${form.pick === i ? 'on' : ''}" data-i="${i}"><span class="ag-date">${CAL}${esc(dag(e))}</span><span class="ag-title">${esc(e.title)}</span></button>`).join('')
+        : `<p class="fine">${agenda ? 'Geen programma gevonden voor deze club; kies hieronder zelf de datum en tijd.' : 'Programma laden…'}</p>`);
+    $$('#ne-agenda .ag-row').forEach(b => b.onclick = () => {
+      const i = +b.dataset.i;
+      if (i < 0) { if (form.pick !== null) $('#ne-title').value = ''; form.pick = null; form.link = null; }
+      else { const e = list[i]; form.pick = i; form.link = e.url; $('#ne-date').value = e.date; if (e.time) $('#ne-time').value = e.time; $('#ne-title').value = e.title; }
+      renderAgenda(v);
+    });
+  }
   async function openNew(venueId) {
     await ensureMe('Maak eerst je profiel, dan kun je je vrienden uitnodigen.');
-    form.venue = venueId || null; form.rooms = []; form.friends = new Set();
+    form.venue = venueId || null; form.rooms = []; form.friends = new Set(); form.pick = null; form.link = null;
+    loadAgenda().then(() => App.venue(form.venue) && renderAgenda(App.venue(form.venue)));
     $('#ne-date').value = today(); $('#ne-date').min = today();
     $('#ne-time').value = '23:00'; $('#ne-title').value = '';
     renderNew(); App.show('event-new');
@@ -451,6 +523,7 @@
     $('#ne-venue').innerHTML = v ? `${App.swatch(v)}<span>${esc(v.name)}</span>` : '<span class="ph">Kies een club</span>';
     $('#ne-venue').classList.toggle('chosen', !!v);
     $('#ne-title').placeholder = v ? `Avond in ${v.name}` : 'Avond in …';
+    renderAgenda(v);
     const multi = v && v.rooms.length > 1;
     $('#ne-rooms-wrap').classList.toggle('hidden', !multi);
     if (multi) {
@@ -476,7 +549,9 @@
     };
     sheet(`<h3>Welke club?</h3><div class="search sheet-search"><input id="vs-q" type="search" placeholder="Zoek een club" autocomplete="off"></div><div class="vs-list">${list('')}</div>`, el => {
       const q = el.querySelector('#vs-q'), box = el.querySelector('.vs-list');
-      const wire = () => box.querySelectorAll('.row').forEach(r => r.onclick = () => { form.venue = r.dataset.id; form.rooms = []; closeSheet(); renderNew(); });
+      const wire = () => box.querySelectorAll('.row').forEach(r => r.onclick = () => {
+        form.venue = r.dataset.id; form.rooms = []; form.pick = null; form.link = null; $('#ne-title').value = ''; closeSheet(); renderNew();
+      });
       q.addEventListener('input', () => { box.innerHTML = list(q.value); wire(); });
       wire();
     });
@@ -489,7 +564,7 @@
     $('#ne-save').disabled = true;
     try {
       const ev = await api('POST', '/events', { venue: form.venue, rooms: form.rooms, date: $('#ne-date').value, time: $('#ne-time').value,
-        title: $('#ne-title').value, friends: [...form.friends] });
+        title: $('#ne-title').value, link: form.link, friends: [...form.friends] });
       upsert(ev); renderEvents();
       await openEvent(ev.id);
       sheet(`<h3>Event staat klaar</h3><p class="sheet-sub">${form.friends.size ? 'Je vrienden zien hem al in hun Events. ' : ''}Stuur de uitnodiging naar de rest van je groep: wie de link opent, doet meteen mee.</p>
@@ -542,7 +617,7 @@
       b.addEventListener('click', () => ({
         profiel: () => ensureMe(), new: () => openNew(), push: () => enablePush(), 'invite-friend': inviteFriend,
         invite: () => open && (friends.some(f => !open.members.find(m => m.id === f.id)) ? inviteChoice() : inviteEvent(open)),
-        here: () => open && iAmHere(open), rename,
+        here: () => open && iAmHere(open), rename, logout,
       }[act] || (() => {}))());
     });
     root.querySelectorAll('[data-del]').forEach(b => b.onclick = async () => {
@@ -561,10 +636,10 @@
   }
   async function addFriend(e) {
     e.preventDefault();
-    const code = e.target.code.value.trim().toUpperCase();
-    if (code.length < 6) { toast('Een code heeft 6 tekens'); return; }
-    try { const f = await api('POST', '/friends', { code }); toast(`${f.name} staat in je vrienden`); e.target.reset(); loadFriends(); }
-    catch (err) { toast(err.status === 404 ? 'Die code kennen we niet' : err.message); }
+    const who = e.target.who.value.trim();
+    if (who.length < 3) { toast('Vul een gebruikersnaam of code in'); return; }
+    try { const f = await api('POST', '/friends', { who }); toast(`${f.name} staat in je vrienden`); e.target.reset(); loadFriends(); }
+    catch (err) { toast(err.message); }
   }
   function rename() {
     sheet(`<h3>Je naam</h3><form class="name-form"><input maxlength="30" value="${esc(me.name)}" required><button class="cta">Bewaar</button></form>`, el => {

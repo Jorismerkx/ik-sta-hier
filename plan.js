@@ -172,6 +172,7 @@
 
     // puntjes van vrienden (canvascoördinaten 900x1600, alleen op de grote kaart)
     if (!mini) (opts.dots || []).forEach(d => {
+      if (d.small) { out.push(`<circle cx="${d.x}" cy="${d.y}" r="11" fill="#fff" stroke="#000" stroke-width="3" opacity=".75"/>`); return; }
       const r = d.focus ? 30 : 24;
       if (d.focus) out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r + 18}" fill="none" stroke="#fff" stroke-width="4" opacity=".8"/>`);
       out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r}" fill="#fff" stroke="#000" stroke-width="4"/>`);

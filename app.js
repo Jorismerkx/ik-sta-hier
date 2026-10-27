@@ -191,7 +191,8 @@
     if (v.capacity) meta.push(`<span class="pill">${v.capacity} pers.</span>`);
     if (v.website) meta.push(`<a class="pill" href="${esc(v.website)}" target="_blank" rel="noopener">Website ↗</a>`);
     if (v.lat) meta.push(`<a class="pill" href="https://maps.apple.com/?q=${encodeURIComponent(v.name)}&ll=${v.lat},${v.lng}" target="_blank" rel="noopener">Route ↗</a>`);
-    if (v.basis === 'plattegrond' || v.confidence === 'hoog') meta.push(`<span class="pill ok">Echte plattegrond</span>`);
+    if (v.verified) meta.push(`<span class="pill ok">✓ Plattegrond van de club zelf</span>`);
+    else if (v.basis === 'plattegrond' || v.confidence === 'hoog') meta.push(`<span class="pill ok">Echte plattegrond</span>`);
     else if (v.confidence === 'laag') meta.push(`<span class="pill warn">Indicatief</span>`);
     $('#v-meta').innerHTML = meta.join('');
     const el = $('#v-rooms');

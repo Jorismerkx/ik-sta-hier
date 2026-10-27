@@ -35,11 +35,14 @@ async def shot(pg, naam):
     await pg.wait_for_timeout(350)  # onderblad en toasts uitgeschoven
     await pg.screenshot(path=os.path.join(OUT, naam + '.png'))
 
-async def profiel(pg, naam):
-    await pg.wait_for_selector('#sheet.open #me-name', timeout=5000)
-    await pg.fill('#me-name', naam)
-    await pg.click('#sheet .name-form .cta')
-    await pg.wait_for_timeout(500)
+async def profiel(pg, naam, login=False):
+    await pg.wait_for_selector('#sheet.open #me-form', timeout=5000)
+    if login:
+        await pg.click('#sheet [data-s="switch"]'); await pg.wait_for_timeout(200)
+    await pg.fill('#me-form [name="username"]', naam)
+    await pg.fill('#me-form [name="password"]', 'geheim-' + naam.lower())
+    await pg.click('#me-form .cta')
+    await pg.wait_for_timeout(600)
 
 async def tik_op_plan(pg, fx=0.62, fy=0.58):
     await pg.wait_for_selector('#view-plan.active')
@@ -82,7 +85,14 @@ async def main():
             await joris.wait_for_selector('#view-event-new.active')
             await joris.click('#ne-venue')
             await joris.fill('#vs-q', 'paradiso'); await joris.wait_for_timeout(200)
-            await joris.click('.vs-list .row >> nth=0'); await joris.wait_for_timeout(300)
+            await joris.click('.vs-list .row >> nth=0'); await joris.wait_for_timeout(600)
+            # programma van de club (agenda): een feest kiezen vult naam, datum en tijd
+            if await joris.locator('#ne-agenda .ag-row').count() > 1:
+                await joris.click('#ne-agenda .ag-row >> nth=1'); await joris.wait_for_timeout(200)
+                assert await joris.input_value('#ne-title'), 'feest uit de agenda vult de naam niet'
+                await shot(joris, '05a-agenda-gekozen')
+                await joris.click('#ne-agenda .ag-row >> nth=0')  # toch een gewone avond, vandaag
+                await joris.fill('#ne-date', await joris.evaluate("new Date().toLocaleDateString('sv-SE')"))
             await joris.click('#ne-friends .opt >> nth=0')
             await shot(joris, '05-nieuw-event')
             await joris.click('#ne-save')
@@ -160,8 +170,32 @@ async def main():
             await sanne.wait_for_function("!document.querySelector('#e-feed .bubble.pending')", timeout=20000)
             await shot(joris, '17-joris-ziet-sanne')
 
-            # 11. de tabbalk en de lijst met favorietenchip
+            # 11. Joris logt in op een tweede toestel en ziet zijn events
+            j2ctx, joris2 = await user(b, 'joris2')
+            await joris2.goto(BASE, wait_until='networkidle')
+            await joris2.click('#start'); await joris2.click('.tab[data-tab="events"]')
+            await joris2.click('#events [data-act="profiel"]')
+            await profiel(joris2, 'Joris', login=True)
+            await joris2.wait_for_selector('#events .ev-card', timeout=6000)
+            await shot(joris2, '18a-tweede-toestel')
+
+            # 12. afgelopen avond: puntje, cijfer en terugblik
+            past = await joris.evaluate('''async () => {
+                const t = JSON.parse(localStorage.getItem('me')).token, h = { 'content-type': 'application/json', authorization: 'Bearer ' + t };
+                const d = new Date(Date.now() - 2 * 864e5).toLocaleDateString('sv-SE');
+                const ev = await (await fetch('api/events', { method: 'POST', headers: h, body: JSON.stringify({ venue: 'paradiso', rooms: [], date: d, time: '23:00', title: 'Vorige week' }) })).json();
+                for (const [x, y] of [[420, 640], [470, 700], [440, 760]])
+                  await fetch(`api/events/${ev.id}/pin`, { method: 'POST', headers: h, body: JSON.stringify({ room: 0, x, y, label: 'test' }) });
+                return ev.id; }''')
+            await joris.goto(BASE + '#event/' + past, wait_until='networkidle')
+            await joris.wait_for_selector('#e-rate:not(.hidden) .rate', timeout=6000)
+            await joris.click('#e-rate .rate[data-score="9"]'); await joris.wait_for_timeout(600)
+            assert await joris.locator('#e-rate .rate.on').inner_text() == '9', 'cijfer niet opgeslagen'
+            assert await joris.locator('#e-feed .recap').count(), 'terugblik ontbreekt'
+            await shot(joris, '18b-beoordelen-terugblik')
             await joris.click('#view-event .back'); await joris.wait_for_timeout(300)
+
+            # 13. de tabbalk en de lijst met favorietenchip
             await joris.click('.tab[data-tab="list"]'); await joris.wait_for_timeout(200)
             await shot(joris, '18-lijst-tabbalk')
 

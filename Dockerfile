@@ -5,7 +5,7 @@ WORKDIR /app
 COPY server/package.json server/package-lock.json server/
 RUN cd server && npm ci --omit=dev
 COPY index.html style.css config.js app.js plan.js social.js sw.js manifest.webmanifest ./
-COPY data/venues.json data/
+COPY data/venues.json data/agenda.json data/
 COPY img img
 COPY server/*.js server/
 ENV PORT=8080 DATA_DIR=/data
