@@ -6,6 +6,7 @@
   const render = /\.onrender\.com$/.test(location.hostname);
   window.ISH_CONFIG = {
     api: lokaal || render ? '' : 'https://ik-sta-hier.onrender.com',
+    demo: /\.github\.io$/.test(location.hostname), // tot de server online staat: GitHub Pages in demostand (demo.js)
     web: lokaal ? '' : 'https://jorismerkx.github.io/ik-sta-hier/', // uitnodigingslinks wijzen naar de app op GitHub Pages
   };
 })();

@@ -92,7 +92,7 @@ if errs:
 # service-worker versie: hash over data + schil, zodat de app na elke wijziging ververst
 import hashlib
 h = hashlib.md5()
-for f in ['data/venues.json', 'index.html', 'style.css', 'config.js', 'app.js', 'plan.js', 'social.js']:
+for f in ['data/venues.json', 'index.html', 'style.css', 'config.js', 'app.js', 'plan.js', 'social.js', 'demo.js']:
     h.update(open(os.path.join(ROOT, f), 'rb').read())
 swp = os.path.join(ROOT, 'sw.js'); sw = open(swp, encoding='utf-8').read()
 sw = re.sub(r"const VERSION = '[^']*';", f"const VERSION = 'ish-{h.hexdigest()[:10]}';", sw)

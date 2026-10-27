@@ -5,6 +5,7 @@
 !app.js
 !plan.js
 !social.js
+!demo.js
 !sw.js
 !manifest.webmanifest
 !data/venues.json

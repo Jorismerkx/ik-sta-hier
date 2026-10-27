@@ -11,6 +11,7 @@
   const WEB = (CFG.web || (location.protocol.startsWith('http') ? location.origin + location.pathname : '')).replace(/#.*$/, '');
   const SOS = [90, 60, 90, 60, 90, 180, 260, 80, 260, 80, 260, 180, 90, 60, 90, 60, 90];
   const native = () => !!(window.Capacitor && Capacitor.isNativePlatform && Capacitor.isNativePlatform());
+  const DEMO = !!CFG.demo && !!window.DemoApi; // zonder server: alles op dit toestel (demo.js)
 
   let me = store.get('me', null);            // { id, name, code, token }
   let friends = store.get('friends', []);
@@ -22,6 +23,10 @@
 
   // ---------- server ----------
   async function api(method, path, body) {
+    if (DEMO) {
+      try { return await DemoApi.request(method, path, body, me && me.token); }
+      catch (e) { if (e.status === 401 && me && path !== '/me') forget(); throw e; }
+    }
     let r;
     try {
       r = await fetch(API + path, {
@@ -147,6 +152,7 @@
   async function loadFriends() { try { friends = await api('GET', '/friends'); save(); renderFriends(); } catch {} }
 
   function connect() {
+    if (DEMO) { DemoApi.listen(onFeed); return; }
     if (!me || es || typeof EventSource === 'undefined') return;
     es = new EventSource(`${API}/stream?t=${encodeURIComponent(me.token)}`);
     es.addEventListener('feed', e => onFeed(JSON.parse(e.data)));
@@ -268,7 +274,7 @@
 
   // ---------- meldingen (web-push) ----------
   const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
-  const pushable = () => 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window && location.protocol !== 'file:';
+  const pushable = () => !DEMO && 'serviceWorker' in navigator && 'PushManager' in window && 'Notification' in window && location.protocol !== 'file:';
   const pushOn = () => pushable() && Notification.permission === 'granted' && store.get('push') === (me && me.id);
   function b64u8(s) { const p = '='.repeat((4 - s.length % 4) % 4), b = atob((s + p).replace(/-/g, '+').replace(/_/g, '/')); return Uint8Array.from(b, c => c.charCodeAt(0)); }
   async function enablePush(silent) {
@@ -287,6 +293,7 @@
   function pushBanner() {
     if (pushOn()) return '';
     if (pushable()) return `<div class="notify-in"><span>Krijg een seintje als je groep je zoekt</span><button class="mini-btn" data-act="push">Zet aan</button></div>`;
+    if (DEMO) return `<div class="notify-in demo"><span><strong>Demo zonder server.</strong> Alles blijft op dit toestel; Jonas, Sanne en Mo zijn nepvrienden die antwoorden als je vraagt waar ze zijn.</span></div>`;
     if (isIOS && !native()) return `<div class="notify-in"><span>Meldingen op iPhone: zet de app op je beginscherm (deel-knop, "Zet op beginscherm")</span></div>`;
     return '';
   }
@@ -342,6 +349,7 @@
     };
     el.innerHTML = `
       ${reachable ? '' : '<div class="offline-note">Geen verbinding met de server. Je ziet de laatst bekende stand.</div>'}
+      ${DEMO ? `<div class="notify">${pushBanner()}</div>` : ''}
       <button class="new-ev" data-act="new"><span>+</span>Nieuw event</button>
       ${act.length ? `<div class="letter">Vanavond</div>${act.map(card).join('')}` : ''}
       ${komend.length ? `<div class="letter">Komend</div>${komend.map(card).join('')}` : ''}
