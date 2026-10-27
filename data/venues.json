@@ -18018,14 +18018,18 @@
  {
   "id": "shelter",
   "name": "Shelter",
+  "aka": "A'DAM Toren",
   "address": "Overhoeksplein 3, 1031 KS Amsterdam",
   "area": "Noord",
   "lat": 52.3843,
   "lng": 4.9014,
   "website": "https://www.shelteramsterdam.nl",
-  "source": "Geen plattegrond openbaar; de club ligt in de kelder naast/onder de A'DAM Toren (KIVI-presentaties 2015: 'kelder - club' onder de plint, plafond ca. 2,9 m), dus de BAG-omtrek van de toren is geen clubmuur. Indeling uit beschrijvingen: DJ Mag 2026 (twee Funktion-One-zalen Club en Restroom, lage plafonds, centrale booth, 360-graden LED-plafond, 1000 cap.), LSI (vier speakerpunten rond de dansvloer, ruimte naast/achter de DJ, speakers bij de bar, rookruimte en toiletten), shelteramsterdam.nl (luik op het Overhoeksplein, kluisjes, rookruimte). Maten en posities van bar, wc en rookruimte geschat.",
-  "confidence": "laag",
-  "note": "Ingang via het opengeklapte luik op het Overhoeksplein, daarna trap en gang naar beneden. Club: DJ-booth centraal voor de dansvloer onder het LED-plafond. Restroom is de kleine tweede zaal (sinds 2024). Geen telefoons op de dansvloer. Let op: indeling geschat, alleen DJ-booth en LED-plafond zijn zeker.",
+  "capacity": 1000,
+  "photo": true,
+  "source": "Club: muren, 8 pilaren, Bar 1 en DJ-booth overgetrokken van de installatietekening van de kelder (-1) in het Fieldlab-ventilatierapport van bba binnenmilieu (versie 9-6-2021, Kamerstukken-bijlage blg-996930), geschaald op de 331 m2 clubvloer uit het Fieldlab-onderzoeksrapport (blg-996927). Ingang, looproute en ligging naast de torenkelder bevestigd met de plattegrond met cameraposities in blg-996927 (fig. 1). Stand van voor de verbouwing van jan-feb 2024 (LED-plafond, Restroom). Restroom getekend als de voormalige lounge naast de zaal: ligging aangenomen, niet bevestigd.",
+  "confidence": "middel",
+  "basis": "plattegrond",
+  "note": "Ingang via het opengeklapte luik op het Overhoeksplein, trap naar beneden, dan door de gang met de kluisjes en Bar 2. Je komt de Club halverwege de linkermuur binnen. De zaal is lang en laag (ca. 25 x 13,5 m) met twee rijen van vier pilaren; volgens de tekening van 2021 staat de DJ aan de korte kant (boven) en zit Bar 1 rechts achterin. Aan de overkant van de DJ zitten de deuren naar de lounge/Restroom en de wc's. Let op: na de verbouwing van 2024 noemt DJ Mag een 'centralised booth', dus de DJ kan verplaatst zijn; de ligging van de Restroom is aangenomen. Geen telefoons op de dansvloer.",
   "rooms": [
    {
     "name": "Club",
@@ -18035,102 +18039,117 @@
       0
      ],
      [
-      24,
+      13.5,
       0
      ],
      [
-      24,
-      20
+      13.5,
+      20.9
+     ],
+     [
+      12.5,
+      20.9
+     ],
+     [
+      12.5,
+      22.6
+     ],
+     [
+      11.1,
+      22.6
+     ],
+     [
+      11.1,
+      25.1
      ],
      [
       0,
-      20
+      25.1
      ]
     ],
     "features": [
      {
       "t": "dj",
-      "x": 10.5,
-      "y": 1.6,
-      "w": 3,
-      "h": 2
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        4.5,
-        4.5
-       ],
-       [
-        19.5,
-        4.5
-       ],
-       [
-        19.5,
-        15
-       ],
-       [
-        4.5,
-        15
-       ]
-      ],
-      "text": "DANSVLOER",
-      "dash": true
+      "x": 2.8,
+      "y": 0.5,
+      "w": 5.7,
+      "h": 3.2
      },
      {
       "t": "bar",
       "a": [
-       24,
-       6
+       8.8,
+       14.2
       ],
       "b": [
-       24,
-       15
+       8.8,
+       22.5
       ],
-      "side": -1
+      "label": "BAR 1"
      },
      {
-      "t": "in",
-      "a": [
-       3,
-       20
-      ],
-      "b": [
-       7,
-       20
-      ],
-      "label": "TRAP NAAR LUIK"
+      "t": "pillar",
+      "x": 2.9,
+      "y": 4.0
      },
      {
-      "t": "wc",
-      "x": 11,
-      "y": 18.3
+      "t": "pillar",
+      "x": 8.5,
+      "y": 4.0
      },
      {
-      "t": "label",
-      "x": 16,
-      "y": 18.3,
-      "text": "KLUISJES",
-      "size": 18
+      "t": "pillar",
+      "x": 2.9,
+      "y": 9.7
      },
      {
-      "t": "smoke",
-      "x": 21.5,
-      "y": 18.3
+      "t": "pillar",
+      "x": 8.5,
+      "y": 9.7
+     },
+     {
+      "t": "pillar",
+      "x": 2.9,
+      "y": 17.0
+     },
+     {
+      "t": "pillar",
+      "x": 8.5,
+      "y": 17.0
+     },
+     {
+      "t": "pillar",
+      "x": 2.9,
+      "y": 23.0
+     },
+     {
+      "t": "pillar",
+      "x": 8.5,
+      "y": 23.0
      },
      {
       "t": "in",
       "a": [
        0,
-       1.5
+       9.7
       ],
       "b": [
        0,
-       4
+       12.5
       ],
-      "side": -1,
-      "label": "RESTROOM"
+      "label": "IN: GANG / BAR 2"
+     },
+     {
+      "t": "in",
+      "a": [
+       1.5,
+       25.1
+      ],
+      "b": [
+       8.6,
+       25.1
+      ],
+      "label": "NAAR RESTROOM / WC"
      }
     ]
    },
@@ -18142,55 +18161,81 @@
       0
      ],
      [
-      11,
+      7.2,
       0
      ],
      [
-      11,
-      8
+      7.2,
+      10.5
      ],
      [
       0,
-      8
+      10.5
      ]
     ],
     "features": [
      {
-      "t": "dj",
-      "x": 4,
-      "y": 0.8,
-      "w": 3,
-      "h": 1.6
+      "t": "in",
+      "a": [
+       1.5,
+       0
+      ],
+      "b": [
+       5.5,
+       0
+      ],
+      "label": "NAAR CLUB"
      },
      {
       "t": "in",
       "a": [
-       4,
-       8
+       7.2,
+       1.0
       ],
       "b": [
-       7,
-       8
+       7.2,
+       2.6
       ],
-      "label": "NAAR CLUB"
+      "label": "WC",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       2.5
+      ],
+      "b": [
+       0,
+       4.5
+      ],
+      "label": "GANG / TRAP"
+     },
+     {
+      "t": "label",
+      "x": 3.6,
+      "y": 6.5,
+      "text": "LIGGING AANGENOMEN",
+      "size": 14
      }
     ]
    }
   ],
-  "photo": true,
-  "capacity": 1000,
-  "basis": "schatting",
   "bronnen": [
-   "https://shelteramsterdam.nl/",
-   "https://shelteramsterdam.nl/faq",
-   "https://shelteramsterdam.nl/contact",
-   "https://lsionline.co.uk/news/shelter-raises-the-game-with-funktion-one",
+   "https://zoek.officielebekendmakingen.nl/blg-996930.html",
+   "https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-996930/1/pdf/blg-996930.pdf",
+   "https://zoek.officielebekendmakingen.nl/blg-996927.html",
+   "https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-996927/1/pdf/blg-996927.pdf",
+   "https://zoek.officielebekendmakingen.nl/blg-997544.html",
+   "https://kivi.nl/_Resources/Persistent/e/9/b/c/e9bc776aac349ef98789f303f82efc25caec02f9/DGMR%20-%20KIVI%20Bouw%20-%20A%27DAM%20Toren.pdf",
+   "https://adamtoren.nl/venue/shelter/",
+   "https://web.archive.org/web/20260310190132/https://www.vaultamsterdam.events/spaces",
+   "https://djmag.com/top100clubs/2024/95/shelter",
    "https://djmag.com/top100clubs/2026/90/shelter-amsterdam",
    "https://mixmag.net/read/amsterdam-club-shelter-reopen-month-long-renovation-work-news",
-   "https://kivi.nl/_Resources/Persistent/e/9/b/c/e9bc776aac349ef98789f303f82efc25caec02f9/DGMR%20-%20KIVI%20Bouw%20-%20A%27DAM%20Toren.pdf",
-   "https://www.locaties.nl/en-US/space/vault_amsterdam-203845"
-  ],
-  "aka": "A'DAM Toren"
+   "https://lsionline.co.uk/news/shelter-raises-the-game-with-funktion-one",
+   "https://shelteramsterdam.nl/contact"
+  ]
  },
  {
   "id": "sissis",
@@ -23050,97 +23095,359 @@
   "lat": 52.39397,
   "lng": 4.85148,
   "website": "https://www.elementenstraat.nl",
-  "confidence": "laag",
-  "basis": "bag+fotos",
-  "source": "Geen plattegrond openbaar (elementenstraat.nl heeft alleen events, about en gallery). Pand uit BAG (Isolatorweg 36 / Elementenstraat 25, 81 x 52 m, 7827 m2 vloer over meerdere lagen, deels kantoor) + luchtfoto. elementenstraat.nl/about en amsterdamnow: in 2014 gestript tot een 'modular concrete maze' met meerdere zalen, 3000 bezoekers; iamsterdam: vier zalen, ca. 2500; zaalnamen wisselen per event (Intercell: Core/Vortex/Nano, elders 'Main room'). Sinds 2023 zit ook AMAZE (ID&T, acht belevingsruimtes) op Elementenstraat 25. Daarom alleen het pand met ingang getekend en de zalen niet ingedeeld. Ingang bij het adrespunt aan de Elementenstraat; rookplein = buitenterrein in de zuidoosthoek (luchtfoto), niet bevestigd.",
+  "confidence": "middel",
+  "basis": "plattegrond",
+  "source": "Plattegrond begane grond 'Herindeling Isolatorweg 36/Elementenstraat 25, voorstel functie-indeling' (MSTRS advies&ontwerp, 08-03-2013, tek. 2013-000-0), bijlage 2 bij de Ruimtelijke onderbouwing The Element (Oranjewoud, 2013), die zelf bijlage 2 is bij bestemmingsplan Sloterdijk I (NL.IMRO.0363.B1104BPGST-VG02). Zaal 1 (noordhal, 835 m2), Zaal 2 (368 m2), Zaal 3 (217 m2), gang, chill-zaal (382 m2), entree/garderobe, toiletten en de binnenplaats zijn overgetrokken; maat en ligging kloppen met het BAG-pand (80,1 x 49,8 m, binnenplaats 15 x 20 m in de zuidoosthoek). Beperking: het is een voorstel van vóór de opening (25 april 2014), en sinds 2021 zit AMAZE (ID&T) in hetzelfde pand. AMAZE noemt de club nu '3 stage areas, 1.500 m2, tot 2.500 bezoekers'; dat past bij Zaal 1 + 2 + 3 (samen ca. 1.420 m2), maar welk deel AMAZE gebruikt is niet openbaar. DJ-plekken staan niet op de tekening en zijn niet getekend. Rookplek op de binnenplaats is niet bevestigd (huisregels: roken alleen op aangewezen plekken).",
   "bronnen": [
+   "https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb2.pdf",
+   "https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/t_NL.IMRO.0363.B1104BPGST-VG02.html",
+   "https://api.notubiz.nl/document/2386804/1",
+   "https://web.archive.org/web/2014/http://www.elementenstraat.nl/warehouse/",
+   "https://www.amaze-amsterdam.com/the-club",
+   "https://www.amaze-amsterdam.com/event-venue",
    "https://elementenstraat.nl/about",
    "https://elementenstraat.nl/terms-conditions",
-   "https://elementenstraat.nl/events",
+   "https://zoek.officielebekendmakingen.nl/gmb-2026-188061.html",
    "https://www.iamsterdam.com/uit/agenda/nachtleven/clubbing/warehouse-elementenstraat",
-   "https://www.amsterdamnow.com/en/uitgaan/the-warehouse-elementenstraat-nachtclub-sloterdijk/",
-   "https://www.amsterdamnow.com/en/uitgaan/amaze-by-idt-audiovisuele-belevenis/",
-   "https://festivalfans.nl/event/intercell-indoor/",
    "https://service.pdok.nl/lv/bag/wfs/v2_0",
    "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
   ],
-  "note": "Groot betonnen complex (oude pindabranderij) met drie à vier zalen die per event anders heten en anders worden ingedeeld: check het timetable van je event. Ingang aan de Elementenstraat, lockers aanwezig, roken alleen buiten. Indeling binnen onbekend.",
+  "note": "Ingang via de poort aan de Elementenstraat (oostkant): over de binnenplaats naar entree en garderobe. Daarachter de chill-ruimte; de toiletten zitten langs de zuidmuur. Vanuit de chill loopt een gang naar het noorden met Zaal 3 links en Zaal 2 rechts (smalle hal met een rij pilaren in het midden) en eindigt in Zaal 1, de grote noordhal. Zaal 1 en Zaal 2 hebben ook een opening naar elkaar. De namen wisselen per event (bv. Core/Vortex/Nano) en de indeling komt van een tekening uit 2013: check het timetable. Roken alleen op de aangewezen plek, waarschijnlijk de binnenplaats.",
+  "photo": true,
+  "capacity": 2500,
   "rooms": [
    {
-    "name": "Warehouse (alle zalen)",
+    "name": "Begane grond (alle zalen, indeling 2013)",
     "outline": [
      [
-      4.8,
-      80.8
-     ],
-     [
-      51.8,
-      79.5
-     ],
-     [
-      50.0,
-      14.4
-     ],
-     [
-      30.1,
-      14.9
-     ],
-     [
-      29.7,
+      49.8,
       0.0
      ],
      [
-      0.0,
-      0.8
+      49.8,
+      80.1
      ],
      [
-      2.0,
-      80.9
+      0.0,
+      80.1
+     ],
+     [
+      0.0,
+      0.0
      ]
     ],
     "features": [
      {
+      "t": "poly",
+      "pts": [
+       [
+        49.8,
+        31.0
+       ],
+       [
+        49.8,
+        72.5
+       ],
+       [
+        29.8,
+        72.5
+       ],
+       [
+        29.8,
+        31.0
+       ]
+      ],
+      "text": "ZAAL 1",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        29.8,
+        41.6
+       ],
+       [
+        29.8,
+        80.1
+       ],
+       [
+        26.8,
+        80.1
+       ],
+       [
+        22.8,
+        80.1
+       ],
+       [
+        19.9,
+        80.1
+       ],
+       [
+        19.9,
+        41.6
+       ]
+      ],
+      "text": "ZAAL 2",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        29.8,
+        12.7
+       ],
+       [
+        29.8,
+        36.0
+       ],
+       [
+        19.9,
+        36.0
+       ],
+       [
+        19.9,
+        12.7
+       ]
+      ],
+      "text": "ZAAL 3",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        29.8,
+        36.0
+       ],
+       [
+        29.8,
+        41.6
+       ],
+       [
+        19.9,
+        41.6
+       ],
+       [
+        19.9,
+        56.8
+       ],
+       [
+        4.9,
+        56.8
+       ],
+       [
+        4.9,
+        50.0
+       ],
+       [
+        4.9,
+        42.0
+       ],
+       [
+        4.9,
+        36.0
+       ]
+      ],
+      "text": "CHILL",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        19.9,
+        56.8
+       ],
+       [
+        19.9,
+        64.9
+       ],
+       [
+        4.9,
+        64.9
+       ],
+       [
+        4.9,
+        56.8
+       ]
+      ],
+      "text": "ENTREE",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        19.9,
+        64.9
+       ],
+       [
+        19.9,
+        80.1
+       ],
+       [
+        0.0,
+        80.1
+       ],
+       [
+        0.0,
+        64.9
+       ]
+      ],
+      "text": "BINNENPLAATS",
+      "dash": true
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        49.8,
+        0.0
+       ],
+       [
+        49.8,
+        31.0
+       ],
+       [
+        29.8,
+        31.0
+       ],
+       [
+        29.8,
+        12.7
+       ],
+       [
+        19.9,
+        12.7
+       ],
+       [
+        19.9,
+        36.0
+       ],
+       [
+        0.0,
+        36.0
+       ],
+       [
+        0.0,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        9.8,
+        0.0
+       ],
+       [
+        14.8,
+        0.0
+       ],
+       [
+        19.8,
+        0.0
+       ],
+       [
+        24.8,
+        0.0
+       ],
+       [
+        29.8,
+        0.0
+       ],
+       [
+        34.8,
+        0.0
+       ],
+       [
+        39.8,
+        0.0
+       ],
+       [
+        44.8,
+        0.0
+       ]
+      ],
+      "text": "GEEN PUBLIEK",
+      "dash": true
+     },
+     {
       "t": "in",
       "a": [
-       35.8,
-       80.0
+       29.8,
+       36.2
       ],
       "b": [
        29.8,
-       80.0
+       41.4
       ],
-      "label": "IN"
-     },
-     {
-      "t": "label",
-      "x": 26.3,
-      "y": 38.1,
-      "text": "3-4 ZALEN",
-      "size": 26
-     },
-     {
-      "t": "label",
-      "x": 26.3,
-      "y": 42.6,
-      "text": "INDELING PER EVENT",
-      "size": 18
+      "label": " "
      },
      {
       "t": "in",
       "a": [
-       36.3,
-       14.6
+       28.3,
+       36.0
       ],
       "b": [
-       42.3,
-       14.6
+       22.3,
+       36.0
       ],
-      "label": "ROKEN"
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       28.5,
+       41.6
+      ],
+      "b": [
+       26.2,
+       41.6
+      ],
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       29.8,
+       59.0
+      ],
+      "b": [
+       29.8,
+       64.7
+      ],
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       16.0,
+       80.1
+      ],
+      "b": [
+       13.1,
+       80.1
+      ],
+      "label": "IN",
+      "side": 1
+     },
+     {
+      "t": "wc",
+      "x": 2.4,
+      "y": 51.2
      }
     ]
    }
-  ],
-  "photo": true
+  ]
  },
  {
   "id": "waterkant",

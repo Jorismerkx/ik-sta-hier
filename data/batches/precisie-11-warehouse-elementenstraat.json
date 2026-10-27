@@ -1,0 +1,364 @@
+[
+ {
+  "id": "warehouse-elementenstraat",
+  "name": "Warehouse Elementenstraat",
+  "address": "Elementenstraat 25, 1014 AR Amsterdam",
+  "area": "Westpoort",
+  "lat": 52.39397,
+  "lng": 4.85148,
+  "website": "https://www.elementenstraat.nl",
+  "confidence": "middel",
+  "basis": "plattegrond",
+  "source": "Plattegrond begane grond 'Herindeling Isolatorweg 36/Elementenstraat 25, voorstel functie-indeling' (MSTRS advies&ontwerp, 08-03-2013, tek. 2013-000-0), bijlage 2 bij de Ruimtelijke onderbouwing The Element (Oranjewoud, 2013), die zelf bijlage 2 is bij bestemmingsplan Sloterdijk I (NL.IMRO.0363.B1104BPGST-VG02). Zaal 1 (noordhal, 835 m2), Zaal 2 (368 m2), Zaal 3 (217 m2), gang, chill-zaal (382 m2), entree/garderobe, toiletten en de binnenplaats zijn overgetrokken; maat en ligging kloppen met het BAG-pand (80,1 x 49,8 m, binnenplaats 15 x 20 m in de zuidoosthoek). Beperking: het is een voorstel van vóór de opening (25 april 2014), en sinds 2021 zit AMAZE (ID&T) in hetzelfde pand. AMAZE noemt de club nu '3 stage areas, 1.500 m2, tot 2.500 bezoekers'; dat past bij Zaal 1 + 2 + 3 (samen ca. 1.420 m2), maar welk deel AMAZE gebruikt is niet openbaar. DJ-plekken staan niet op de tekening en zijn niet getekend. Rookplek op de binnenplaats is niet bevestigd (huisregels: roken alleen op aangewezen plekken).",
+  "bronnen": [
+   "https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/b_NL.IMRO.0363.B1104BPGST-VG02_tb2.pdf",
+   "https://www.ruimtelijkeplannen.nl/documents/NL.IMRO.0363.B1104BPGST-VG02/t_NL.IMRO.0363.B1104BPGST-VG02.html",
+   "https://api.notubiz.nl/document/2386804/1",
+   "https://web.archive.org/web/2014/http://www.elementenstraat.nl/warehouse/",
+   "https://www.amaze-amsterdam.com/the-club",
+   "https://www.amaze-amsterdam.com/event-venue",
+   "https://elementenstraat.nl/about",
+   "https://elementenstraat.nl/terms-conditions",
+   "https://zoek.officielebekendmakingen.nl/gmb-2026-188061.html",
+   "https://www.iamsterdam.com/uit/agenda/nachtleven/clubbing/warehouse-elementenstraat",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Ingang via de poort aan de Elementenstraat (oostkant): over de binnenplaats naar entree en garderobe. Daarachter de chill-ruimte; de toiletten zitten langs de zuidmuur. Vanuit de chill loopt een gang naar het noorden met Zaal 3 links en Zaal 2 rechts (smalle hal met een rij pilaren in het midden) en eindigt in Zaal 1, de grote noordhal. Zaal 1 en Zaal 2 hebben ook een opening naar elkaar. De namen wisselen per event (bv. Core/Vortex/Nano) en de indeling komt van een tekening uit 2013: check het timetable. Roken alleen op de aangewezen plek, waarschijnlijk de binnenplaats.",
+  "photo": true,
+  "capacity": 2500,
+  "rooms": [
+   {
+    "name": "Begane grond (alle zalen, indeling 2013)",
+    "outline": [
+     [
+      49.8,
+      0.0
+     ],
+     [
+      49.8,
+      80.1
+     ],
+     [
+      0.0,
+      80.1
+     ],
+     [
+      0.0,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "poly",
+      "pts": [
+       [
+        49.8,
+        31.0
+       ],
+       [
+        49.8,
+        72.5
+       ],
+       [
+        29.8,
+        72.5
+       ],
+       [
+        29.8,
+        31.0
+       ]
+      ],
+      "text": "ZAAL 1",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        29.8,
+        41.6
+       ],
+       [
+        29.8,
+        80.1
+       ],
+       [
+        26.8,
+        80.1
+       ],
+       [
+        22.8,
+        80.1
+       ],
+       [
+        19.9,
+        80.1
+       ],
+       [
+        19.9,
+        41.6
+       ]
+      ],
+      "text": "ZAAL 2",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        29.8,
+        12.7
+       ],
+       [
+        29.8,
+        36.0
+       ],
+       [
+        19.9,
+        36.0
+       ],
+       [
+        19.9,
+        12.7
+       ]
+      ],
+      "text": "ZAAL 3",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        29.8,
+        36.0
+       ],
+       [
+        29.8,
+        41.6
+       ],
+       [
+        19.9,
+        41.6
+       ],
+       [
+        19.9,
+        56.8
+       ],
+       [
+        4.9,
+        56.8
+       ],
+       [
+        4.9,
+        50.0
+       ],
+       [
+        4.9,
+        42.0
+       ],
+       [
+        4.9,
+        36.0
+       ]
+      ],
+      "text": "CHILL",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        19.9,
+        56.8
+       ],
+       [
+        19.9,
+        64.9
+       ],
+       [
+        4.9,
+        64.9
+       ],
+       [
+        4.9,
+        56.8
+       ]
+      ],
+      "text": "ENTREE",
+      "w": 5,
+      "o": 0.9
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        19.9,
+        64.9
+       ],
+       [
+        19.9,
+        80.1
+       ],
+       [
+        0.0,
+        80.1
+       ],
+       [
+        0.0,
+        64.9
+       ]
+      ],
+      "text": "BINNENPLAATS",
+      "dash": true
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        49.8,
+        0.0
+       ],
+       [
+        49.8,
+        31.0
+       ],
+       [
+        29.8,
+        31.0
+       ],
+       [
+        29.8,
+        12.7
+       ],
+       [
+        19.9,
+        12.7
+       ],
+       [
+        19.9,
+        36.0
+       ],
+       [
+        0.0,
+        36.0
+       ],
+       [
+        0.0,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        9.8,
+        0.0
+       ],
+       [
+        14.8,
+        0.0
+       ],
+       [
+        19.8,
+        0.0
+       ],
+       [
+        24.8,
+        0.0
+       ],
+       [
+        29.8,
+        0.0
+       ],
+       [
+        34.8,
+        0.0
+       ],
+       [
+        39.8,
+        0.0
+       ],
+       [
+        44.8,
+        0.0
+       ]
+      ],
+      "text": "GEEN PUBLIEK",
+      "dash": true
+     },
+     {
+      "t": "in",
+      "a": [
+       29.8,
+       36.2
+      ],
+      "b": [
+       29.8,
+       41.4
+      ],
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       28.3,
+       36.0
+      ],
+      "b": [
+       22.3,
+       36.0
+      ],
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       28.5,
+       41.6
+      ],
+      "b": [
+       26.2,
+       41.6
+      ],
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       29.8,
+       59.0
+      ],
+      "b": [
+       29.8,
+       64.7
+      ],
+      "label": " "
+     },
+     {
+      "t": "in",
+      "a": [
+       16.0,
+       80.1
+      ],
+      "b": [
+       13.1,
+       80.1
+      ],
+      "label": "IN",
+      "side": 1
+     },
+     {
+      "t": "wc",
+      "x": 2.4,
+      "y": 51.2
+     }
+    ]
+   }
+  ]
+ }
+]

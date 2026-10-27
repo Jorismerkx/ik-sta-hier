@@ -1,0 +1,224 @@
+[
+ {
+  "id": "shelter",
+  "name": "Shelter",
+  "aka": "A'DAM Toren",
+  "address": "Overhoeksplein 3, 1031 KS Amsterdam",
+  "area": "Noord",
+  "lat": 52.3843,
+  "lng": 4.9014,
+  "website": "https://www.shelteramsterdam.nl",
+  "capacity": 1000,
+  "photo": true,
+  "source": "Club: muren, 8 pilaren, Bar 1 en DJ-booth overgetrokken van de installatietekening van de kelder (-1) in het Fieldlab-ventilatierapport van bba binnenmilieu (versie 9-6-2021, Kamerstukken-bijlage blg-996930), geschaald op de 331 m2 clubvloer uit het Fieldlab-onderzoeksrapport (blg-996927). Ingang, looproute en ligging naast de torenkelder bevestigd met de plattegrond met cameraposities in blg-996927 (fig. 1). Stand van voor de verbouwing van jan-feb 2024 (LED-plafond, Restroom). Restroom getekend als de voormalige lounge naast de zaal: ligging aangenomen, niet bevestigd.",
+  "confidence": "middel",
+  "basis": "plattegrond",
+  "note": "Ingang via het opengeklapte luik op het Overhoeksplein, trap naar beneden, dan door de gang met de kluisjes en Bar 2. Je komt de Club halverwege de linkermuur binnen. De zaal is lang en laag (ca. 25 x 13,5 m) met twee rijen van vier pilaren; volgens de tekening van 2021 staat de DJ aan de korte kant (boven) en zit Bar 1 rechts achterin. Aan de overkant van de DJ zitten de deuren naar de lounge/Restroom en de wc's. Let op: na de verbouwing van 2024 noemt DJ Mag een 'centralised booth', dus de DJ kan verplaatst zijn; de ligging van de Restroom is aangenomen. Geen telefoons op de dansvloer.",
+  "rooms": [
+   {
+    "name": "Club",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      13.5,
+      0
+     ],
+     [
+      13.5,
+      20.9
+     ],
+     [
+      12.5,
+      20.9
+     ],
+     [
+      12.5,
+      22.6
+     ],
+     [
+      11.1,
+      22.6
+     ],
+     [
+      11.1,
+      25.1
+     ],
+     [
+      0,
+      25.1
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 2.8,
+      "y": 0.5,
+      "w": 5.7,
+      "h": 3.2
+     },
+     {
+      "t": "bar",
+      "a": [
+       8.8,
+       14.2
+      ],
+      "b": [
+       8.8,
+       22.5
+      ],
+      "label": "BAR 1"
+     },
+     {
+      "t": "pillar",
+      "x": 2.9,
+      "y": 4.0
+     },
+     {
+      "t": "pillar",
+      "x": 8.5,
+      "y": 4.0
+     },
+     {
+      "t": "pillar",
+      "x": 2.9,
+      "y": 9.7
+     },
+     {
+      "t": "pillar",
+      "x": 8.5,
+      "y": 9.7
+     },
+     {
+      "t": "pillar",
+      "x": 2.9,
+      "y": 17.0
+     },
+     {
+      "t": "pillar",
+      "x": 8.5,
+      "y": 17.0
+     },
+     {
+      "t": "pillar",
+      "x": 2.9,
+      "y": 23.0
+     },
+     {
+      "t": "pillar",
+      "x": 8.5,
+      "y": 23.0
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       9.7
+      ],
+      "b": [
+       0,
+       12.5
+      ],
+      "label": "IN: GANG / BAR 2"
+     },
+     {
+      "t": "in",
+      "a": [
+       1.5,
+       25.1
+      ],
+      "b": [
+       8.6,
+       25.1
+      ],
+      "label": "NAAR RESTROOM / WC"
+     }
+    ]
+   },
+   {
+    "name": "Restroom",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      7.2,
+      0
+     ],
+     [
+      7.2,
+      10.5
+     ],
+     [
+      0,
+      10.5
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       1.5,
+       0
+      ],
+      "b": [
+       5.5,
+       0
+      ],
+      "label": "NAAR CLUB"
+     },
+     {
+      "t": "in",
+      "a": [
+       7.2,
+       1.0
+      ],
+      "b": [
+       7.2,
+       2.6
+      ],
+      "label": "WC",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       2.5
+      ],
+      "b": [
+       0,
+       4.5
+      ],
+      "label": "GANG / TRAP"
+     },
+     {
+      "t": "label",
+      "x": 3.6,
+      "y": 6.5,
+      "text": "LIGGING AANGENOMEN",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "bronnen": [
+   "https://zoek.officielebekendmakingen.nl/blg-996930.html",
+   "https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-996930/1/pdf/blg-996930.pdf",
+   "https://zoek.officielebekendmakingen.nl/blg-996927.html",
+   "https://repository.overheid.nl/frbr/officielepublicaties/blg/onopgemaakt/blg-996927/1/pdf/blg-996927.pdf",
+   "https://zoek.officielebekendmakingen.nl/blg-997544.html",
+   "https://kivi.nl/_Resources/Persistent/e/9/b/c/e9bc776aac349ef98789f303f82efc25caec02f9/DGMR%20-%20KIVI%20Bouw%20-%20A%27DAM%20Toren.pdf",
+   "https://adamtoren.nl/venue/shelter/",
+   "https://web.archive.org/web/20260310190132/https://www.vaultamsterdam.events/spaces",
+   "https://djmag.com/top100clubs/2024/95/shelter",
+   "https://djmag.com/top100clubs/2026/90/shelter-amsterdam",
+   "https://mixmag.net/read/amsterdam-club-shelter-reopen-month-long-renovation-work-news",
+   "https://lsionline.co.uk/news/shelter-raises-the-game-with-funktion-one",
+   "https://shelteramsterdam.nl/contact"
+  ]
+ }
+]
