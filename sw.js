@@ -1,12 +1,13 @@
 /* Service worker: app-schil + data + foto's offline. Kaarttegels worden gecachet zodra ze gezien zijn. */
-const VERSION = 'ish-e2097c5bca';
+const VERSION = 'ish-448ca2fb77';
 const SHELL = ['./', 'index.html', 'style.css', 'config.js', 'app.js', 'plan.js', 'social.js', 'data/venues.json', 'manifest.webmanifest',
   'img/icon-192.png', 'img/icon-512.png',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css', 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'];
 const TILE_LIMIT = 600;
 
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
+  // cache: 'reload': altijd vers van de server, niet de oude versie uit de browsercache
+  e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL.map(u => new Request(u, { cache: 'reload' })))).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== VERSION && k !== 'tiles' && k !== 'photos').map(k => caches.delete(k)))).then(() => self.clients.claim()));

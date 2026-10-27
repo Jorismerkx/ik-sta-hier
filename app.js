@@ -348,6 +348,9 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
   function netState() { $('#offline').classList.toggle('hidden', navigator.onLine !== false); }
   window.addEventListener('online', netState); window.addEventListener('offline', netState);
   if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
+    // nieuwe versie actief? één keer herladen, anders blijft de oude schil (css/js) staan tot de volgende start
+    const hadSW = !!navigator.serviceWorker.controller;
+    navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadSW && !netState.reloaded) { netState.reloaded = true; location.reload(); } });
     navigator.serviceWorker.register('sw.js').catch(e => console.warn('sw', e));
   }
   const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);

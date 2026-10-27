@@ -241,7 +241,7 @@ function statisch(req, res, url) {
   const file = path.join(ROOT, p);
   fs.stat(file, (err, st) => {
     if (err || !st.isFile()) { res.writeHead(404); return res.end('niet gevonden'); }
-    const vers = /\.(html|js|json|webmanifest)$/.test(p);
+    const vers = /\.(html|css|js|json|webmanifest)$/.test(p); // app-schil altijd verversen; foto's mogen een dag in de cache
     res.writeHead(200, { 'content-type': TYPES[path.extname(p)] || 'application/octet-stream', 'content-length': st.size,
       'cache-control': vers ? 'no-cache' : 'public, max-age=86400' });
     fs.createReadStream(file).pipe(res);
