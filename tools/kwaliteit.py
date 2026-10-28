@@ -1,5 +1,5 @@
 """Overzicht per venue hoe goed de plattegrond is, per type (club, twijfel, bar, podium).
-Gebruik: python tools/kwaliteit.py  ->  data/kwaliteit.md
+Gebruik: python tools/kwaliteit.py  ->  data/kwaliteit.md en data/kwaliteit.json
 """
 import json, os, collections
 
@@ -31,6 +31,13 @@ def niveau(v):
     if b == 'schatting': return 'geschat'
     return 'oud'
 
+def oordeel(v):
+    """goed = muren kloppen en DJ/bar/ingang staan goed; twijfel = muren kloppen, binnenkant onzeker."""
+    n = niveau(v)
+    if n == 'echt' or (n == 'gemeten' and v.get('confidence') in ('middel', 'hoog')): return 'goed'
+    if n == 'gemeten': return 'twijfel'
+    return 'niet goed'
+
 rows = collections.defaultdict(list)
 for v in venues:
     rows[v.get('type', '?')].append(v)
@@ -46,13 +53,20 @@ for t, kop in TYPES:
     c = collections.Counter(niveau(v) for v in vs)
     tel.update({(t, n): c[n] for n in NIVEAU})
     out += [f'## {kop} ({len(vs)})', '', ' · '.join(f'{n} {c[n]}' for n in NIVEAU), '',
-            '| Venue | Zalen | Niveau | Zekerheid | Openbare tekening |', '|---|---|---|---|---|']
+            '| Venue | Zalen | Oordeel | Niveau | Zekerheid | Openbare tekening |', '|---|---|---|---|---|---|']
     for v in vs:
         s = sweep.get(v['id'], {}).get('categorie')
-        out.append(f'| {v["name"]} | {len(v["rooms"])} | {niveau(v)} | {v.get("confidence", "")} | {VERBETER.get(s, "nog niet gezocht")} |')
+        out.append(f'| {v["name"]} | {len(v["rooms"])} | {oordeel(v)} | {niveau(v)} | {v.get("confidence", "")} | {VERBETER.get(s, "nog niet gezocht")} |')
     out.append('')
 
 open(os.path.join(ROOT, 'data', 'kwaliteit.md'), 'w', encoding='utf-8').write('\n'.join(out))
+rij = lambda v: {'id': v['id'], 'naam': v['name'], 'type': v.get('type'), 'wijk': v.get('area'), 'zalen': [r['name'] for r in v['rooms']],
+                 'oordeel': oordeel(v), 'niveau': niveau(v), 'zekerheid': v.get('confidence'),
+                 'tekening': VERBETER.get(sweep.get(v['id'], {}).get('categorie'), 'nog niet gezocht'), 'bron': v.get('source', '')}
+json.dump([rij(v) for v in venues], open(os.path.join(ROOT, 'data', 'kwaliteit.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+oo = collections.Counter((v.get('type'), oordeel(v)) for v in venues)
+for t, kop in TYPES:
+    print(f'{kop:26}', '  '.join(f'{o} {oo[(t, o)]:2}' for o in ('goed', 'twijfel', 'niet goed')))
 for t, kop in TYPES:
     print(f'{kop:26}', '  '.join(f'{n} {tel[(t, n)]:2}' for n in NIVEAU))
-print('-> data/kwaliteit.md')
+print('-> data/kwaliteit.md, data/kwaliteit.json')

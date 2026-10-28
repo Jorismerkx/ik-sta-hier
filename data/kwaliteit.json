@@ -1,0 +1,1600 @@
+[
+ {
+  "id": "50-hertz",
+  "naam": "50:HERTZ House & Techno Cafe",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Café"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "ADE 2026 / iamsterdam listings (Groove Kitchen, Deep Stories, Animarum: 'Halvemaansteeg 14, 1017 CR, Rembrandt Square'), beschreven als compact house/techno-café; runt ook de 50:HERTZ Club Train. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "afas-live",
+  "naam": "AFAS Live",
+  "type": "podium",
+  "wijk": "Zuidoost",
+  "zalen": [
+   "Black Box"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Rider AFAS Live april 2022 (officieel): Black Box 61 x 43 m, podium aan de kopse kant bij de toneeltoren, grote bar ingebouwd aan de Foyer-zijde en aan de Pathé-zijde (lange zijden), VIP-loges boven de bars, vast balkon (666, 3e verdieping, eigen bar) en inschuifbare tribune aan de achterkant, entree/foyer aan de Boulevard. Isometrische tekening gezien."
+ },
+ {
+  "id": "akhnaton",
+  "naam": "Akhnaton",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club",
+   "Bar + terras"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Buitenmuren uit BAG (pand 0363100012179320, 11,4 x 23,3 m, twee smalle huizen) + luchtfoto. Indeling: akhnaton.nl/verhuur (club ~200 met podium en DJ-booth, bar ~50 grenzend aan de club met openslaande deuren naar het terras op de Kolk, vide op de 1e verdieping met raam naar het terras), oude verhuurtekst 2009/2012 (zaal + aangrenzend café + entree met garderobe + vide = ~230 m2) en de venue-foto's (lange bar langs de zijwand richting podium, DJ-booth tegenover het podium). Geen plattegrond; plek van club en bar binnen het pand en de zijde van de bar zijn afgeleid. Let op: buurpand nr. 23 (BAG, bouwjaar 1995) heeft 492 m2 bijeenkomstfunctie; mogelijk loopt de club daarin door."
+ },
+ {
+  "id": "bar-benelux",
+  "naam": "Bar Benelux",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "amsterdamnow.com (cocktailbar in oud schoolgebouw met ruwe muren en plek voor een dansvloer, vr/za tot 03:00; overdag Eurosoft Café), yourlittleblackbook. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "bar-twenty-two",
+  "naam": "Bar Twenty Two",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "ADE-venuepagina, iamsterdam (Visions, Housetribe ADE-showcases), werkzoeken.nl (do-za club met DJ's): bar met DJ's aan het Leidseplein. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "bijlmer-parktheater",
+  "naam": "Bijlmer Parktheater",
+  "type": "podium",
+  "wijk": "Zuidoost",
+  "zalen": [
+   "Theaterzaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "Paul de Ruiter architecten / AV&Entertainment (rechthoekige zaal met twee oorvormige zijvakken: 164 vaste stoelen + 28 los + 2x45 zij, circus- en theateropstelling; 3 studio's, ruime foyer, 2000 m2); ingang indicatief"
+ },
+ {
+  "id": "bimhuis",
+  "naam": "Bimhuis",
+  "type": "podium",
+  "wijk": "Oost",
+  "zalen": [
+   "Concertzaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Bimhuis brochure 2026 (arena-opstelling rond het podium, glazen gevel direct achter het podium, café-restaurant sluit direct aan op de zaal), Wikipedia NL (250 zit / 375 totaal, bar net buiten de zaal in het café), bimhuis.nl/verhuur. Geen plattegrond."
+ },
+ {
+  "id": "bitterzoet",
+  "naam": "Bitterzoet",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Zaal",
+   "Balkon (boven)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Overgetrokken van de venue map (p. 9) in 'Bitterzoet General & Technical Details 2026 v2.2' (assets.paradiso.nl): stramien 2x4,5 m, assen 1-7 om de 3 m, podium 6x3 m tussen as 5 en 6, bar langs de linkermuur, kolommen, schuine en geknikte rechtergevel. Buitenmuren gecontroleerd met de BAG-omtrek (25,4 x 10-12 m, knik in de gevel valt samen). Balkon/lounge boven en de verhoging rechts uit de venue-foto's in dezelfde PDF en de toegankelijkheidspagina."
+ },
+ {
+  "id": "bourbon-street",
+  "naam": "Bourbon Street",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "bourbonstreet.nl (live music 7 nachten per week), inyourpocket en wanderlog (schuurachtige zaal, lange bar met kroonluchters, dansen voor het podium, geen backstage), iamsterdam. Geen plattegrond; positie podium en bar geschat."
+ },
+ {
+  "id": "bret",
+  "naam": "BRET",
+  "type": "club",
+  "wijk": "Sloterdijk",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "Geen plattegrond openbaar. Pand uit BAG (Orlyplein 76, 12,2 x 12,1 m, 277 m2 over twee lagen) + luchtfoto: rode containerkubus, luifel met BRET-letters aan de zuidkant (biertuin met picknicktafels), aanbouw aan de westkant, dakterras midden op het dak. bret.bar: club in het weekend, garderobe of locker verplicht, roken alleen buiten, dakterras met glazen wanden, biertuin als amfitheater. Video (YouTube, Sven Väth @ BRET): één clubzaal met vide en een galerij erboven, booth midden tussen het publiek. Plek van DJ, bar, galerij en trap geschat."
+ },
+ {
+  "id": "cafe-cafe-bar",
+  "naam": "Café Café Bar",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Café / club",
+   "Terras"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "nog niet gezocht",
+  "bron": "Café Café (Younique Concepts) zit in het lage hoekblok van de Stopera op de hoek Amstel/Zwanenburgwal, het voormalige Dantzig (eigen site: Amstel 1, 1011 VW; zelfde telefoonnummer; BAG-vbo Zwanenburgwal 15, 511 m2 bijeenkomstfunctie). Buitenmuren: BAG-pand Stopera (vertices 110/113/116) en luchtfoto PDOK: laag blok ca. 23,5 x 23,6 m met een hoger voordeel van 16 x 15,7 m op de hoek (glasgevels naar het terras). Binnenindeling afgeleid uit de RA-foto's (sept. 2025: DJ-booth voor de glasgevel, lange bar rechts met tap, pilaar met klimop links bij het glas) en de headervideo op de eigen site. Positie van bar, DJ, pilaar en deur geschat, niet van een plattegrond. Terras: luchtfoto (ca. 6 m diep langs west- en zuidgevel). Club-opening ADE 2025 (RA), ADE 2026-event 22-10-2026."
+ },
+ {
+  "id": "cafe-de-ceuvel",
+  "naam": "Café de Ceuvel",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Café + terras"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "deceuvel.nl (adres, openingstijden, terugkerende evenementen), iamsterdam (café aan het water, steiger, vuurkorven), NH Nieuws/AT5 (terrein blijft tot begin 2028). Geen plattegrond; indeling geschat."
+ },
+ {
+  "id": "cafe-de-duivel",
+  "naam": "Café de Duivel",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Café"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "patta.nl (sinds 1992, kleine hiphopbar), cityzeum, thesource.com (showcase feb 2026), schlouk-map (20:00-03/04:00). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "lux",
+  "naam": "Café Lux",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "cafelux.nl (open, gelaagd interieur, DJ's in het weekend), inyourpocket (spiegelwanden, rood plafond). Geen indeling bekend; indicatief."
+ },
+ {
+  "id": "weber",
+  "naam": "Café Weber",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Begane grond"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "cafeweber.nl (drie niveaus, DJ's in het weekend), inyourpocket (kelder met zitplaatsen, druk in het weekend), schlouk-map (terras). Geen indeling bekend; indicatief."
+ },
+ {
+  "id": "canvas",
+  "naam": "Canvas",
+  "type": "club",
+  "wijk": "Oost",
+  "zalen": [
+   "Canvas (7e verdieping)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Geen plattegrond gevonden (events-brochure geeft alleen Klein Canvas 12,1 x 6,7 m + dakterras 109 m2). Basis: BAG-toren Volkshotel (ca. 15 x 51 m) en luchtfoto (terrassen aan beide kopse kanten van de 7e laag), foto's op volkshotel.nl: ovale eilandbar met rode ring midden in de zaal, glazen gevels aan beide lange zijden, DJ bij de glazen terrasdeur, treden vanuit de liftlobby recht op de bar af. Onzeker: lengte van de zaal, kant van de liftlobby en precieze plek van de DJ."
+ },
+ {
+  "id": "channel40",
+  "naam": "Channel40",
+  "type": "twijfel",
+  "wijk": "Centrum",
+  "zalen": [
+   "Kelder"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "amsterdamnow.com (intieme kelderclub met pub erboven, team Garage Noord, Beursstraat 1), RA-nieuws okt 2022 (opening, 'Warmoesstraat'; hoek Beursstraat/Warmoesstraat), iamsterdam (vermeldt 'voorheen'/digitaal). Fysieke status onzeker; indicatief"
+ },
+ {
+  "id": "chicago-social-club",
+  "naam": "Chicago Social Club",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club (main hall)",
+   "Bar (Leidseplein-kant)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "chicagosocialclub.nl/rental (2026: Main Hall 500 staand met groot podium, Bar 1 op de begane grond in de zaal, Bar 2 op het balkon; Bar Area 150) en /about (bar ook doordeweeks, op clubavonden via de clubingang); foto's op de homepage (podium met truss, opname vanaf het balkon). BAG: Leidseplein 12 (Chicago) en Korte Leidsedwarsstraat 18 (Jimmy Woo) liggen in hetzelfde pand 0363100012168737 (1862), samen met sportschool Splash (Lijnbaansgracht 241); footprint.py opnieuw draaien geeft geen ander pand. De smalle staart van dat pand aan het Leidseplein (ca. 5 x 15 m, met het adrespunt Leidseplein 12) is gebruikt voor de bar. Geen plattegrond gevonden: maat en indeling van de clubzaal (plek bar 1, trap, balkondiepte) zijn geschat."
+ },
+ {
+  "id": "chin-chin-club",
+  "naam": "Chin Chin Club",
+  "type": "club",
+  "wijk": "Centrum (Jordaan)",
+  "zalen": [
+   "Club / Le Souterrain"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "chinchinclub.nl (kelder 'Le Souterrain': restaurant/dinnershow, cocktailbar, karaoke, nightclub do-za; 4 ruimtes 900 m2), locaties.nl (club/restaurant 367 m2 tot 500, cocktailbar 85 m2, Peacock bar 70 m2, verlichte dansvloer, DJ-booth), iamsterdam (bar is het middelpunt). Posities indicatief"
+ },
+ {
+  "id": "cinetol",
+  "naam": "Cinetol",
+  "type": "podium",
+  "wijk": "Zuid",
+  "zalen": [
+   "Zaal",
+   "Etage"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "cinetol.nl/over-cinetol (poppodium/broedplaats in De Pijp, Tolbar eetcafé met groot terras aan de Tolstraat als 'gezicht' van het gebouw) + hirespace (Zaal 155 m2, 150 staand; Etage 60 staand) + ADE-venuepagina. Geen plattegrond; indicatief."
+ },
+ {
+  "id": "club-8",
+  "naam": "Club 8",
+  "type": "twijfel",
+  "wijk": "De Baarsjes",
+  "zalen": [
+   "Club (boven)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "inyourpocket (restaurant + poolhal beneden, graffiti-dansclub boven, elektro-nachten), cityzeum (juni 2026: boven bar + pooltafels, rock/indie). Of de bovenverdieping nog als club draait is onzeker; indicatief"
+ },
+ {
+  "id": "club-baggerbeest",
+  "naam": "Club Baggerbeest",
+  "type": "bar",
+  "wijk": "Zeeburgereiland",
+  "zalen": [
+   "Zaal",
+   "Bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "baggerbeest.nl (broedplaats met Bar Baggerbeest, di-zo, vr/za tot 04:00, en een zaal voor programma), ADE 2026-listings (10+ events, Pompstation x Club Baggerbeest dagfeest). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "club-church",
+  "naam": "Club Church",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Begane grond (bar + dansvloer)"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Muren uit BAG-pand 0363100012172459 en 3D BAG: aan de Kerkstraat een voorhuis (8,5 x 8 m, dak 14-16 m) met daarachter een hoge achterzaal (ca. 9 x 8,3 m plus nis, dak 10,7 m); samen ca. 170 m2, gelijk aan het BAG-verblijfsobject Kerkstraat 52 (171 m2). Indeling: nighttours (begane grond bar + dansvloer, balkon erboven voor cruising, kelder met toiletten, douche, cabines en darkroom, binnenkomst via de garderobe), clubchurch.nl (5 cabines, darkroom, 2 douches, smoking lounge naast de bar) en interieurfoto’s clubchurch.nl (dansvloer met stalen balkon en trap, podium met CHURCH-neon tegen de achterwand, bar achter de balkonwand). Plek van bar, rookruimte, garderobe en keldertrap in het voorhuis is afgeleid, niet ingemeten."
+ },
+ {
+  "id": "club-john-doe",
+  "naam": "Club John Doe",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "BAG: het 1800 m2-pand is een gemengd complex uit 1985 (kantoren nr 33-35, winkels, horeca). De club is alleen verblijfsobject Rembrandtplein 31 (170 m2, bijeenkomstfunctie), begane grond van het lage middendeel aan het pleintje naast het glazen paviljoen (luchtfoto + gevelfoto met John Doe-neon en ENTREE-luifel). Eén zaal; clubjohndoe.nl: garderobe verplicht, roken alleen buiten. Positie van DJ en bar geschat."
+ },
+ {
+  "id": "club-lite",
+  "naam": "Club Lite",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "In Your Pocket (Jan van Galenstraat 24, open 20:00-02:00, Chocolate Club / Nataraj-feesten, alcoholvrij concept). Eigen site niet bereikbaar; geen capaciteit of plattegrond. Indicatief."
+ },
+ {
+  "id": "club-nyx",
+  "naam": "Club NYX",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "1e verdieping: Main room",
+   "2e verdieping: Small room + balkon",
+   "3e verdieping: Relax + WC (met DJ)",
+   "Begane grond (ingang, garderobe, Exit)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Overgetrokken van de plattegronden (begane grond t/m 3e verdieping) in de Club NYX venue-brochure (nov 2024), op maat gezet op het BAG-pand 0363100012175806 (14,8 x 13,2 m, 600 m2). Straatgevel links, tuinkant rechts (gecontroleerd met de dakvorm op de luchtfoto). Main room 450, small room 150, 3e verdieping ca. 50-100."
+ },
+ {
+  "id": "club-prime",
+  "naam": "Club Prime",
+  "type": "twijfel",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "iamsterdam clubpagina (Rembrandtplein 22, elke avond, tot 03/05:00, VIP-tafels), clubprime.nl (onderhoudspagina: 'elke avond vanaf 22:00', Instagram primeclubamsterdam). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "club-raum",
+  "naam": "Club RAUM",
+  "type": "club",
+  "wijk": "Sloterdijk",
+  "zalen": [
+   "Begane grond (Nexus, Arena)",
+   "Studio (boven)"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Geen plattegrond openbaar en fotoverbod binnen. Pand uit BAG (Basisweg 35 = Humberweg 3, voormalige boekbinderij, 49 x 50 m, 2683 m2 vloer, dus maar een klein deel op een verdieping) + luchtfoto (westhelft met apart noordblok, hogere oosthal). Zalen 2026 uit het timetable van SPIELRAUM 55HRS (clubraum.nl): STUDIO, NEXUS, ARENA; bars 'Studio bar' en 'Expo bar'; café The Boutique. ADE-artikel 2026: Studio boven, Expo was de dansvloer beneden en is vervangen door Nexus (meer volume en hoogte, eigen bar en wc's, gangen). clubraum.nl/news: booth als altaar in een kathedraal-indeling. 10 Magazine (2025): Arena = amfitheater met glazen wanden, lockers en wc's in rood licht, betonnen café. Welk deel van het pand welke zaal is, en alle posities binnen, zijn geschat."
+ },
+ {
+  "id": "club-smokey",
+  "naam": "Club Smokey",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club (begane grond + balkon)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Buitenmuren uit BAG-pand 0363100012171125 (121 m2 grondvlak, gevel ca. 10 m aan het plein, 8-14 m diep); club = verblijfsobject Rembrandtplein 20 (180 m2, dus begane grond + mezzanine), woningen 18A-F erboven. Foto's op clubsmokey.nl tonen DJ-booth met SMOKEY-neon, een bar met flessenwand en een balkon met sierhek. Plaats van DJ, bar, trap en balkon is geschat."
+ },
+ {
+  "id": "club-up",
+  "naam": "Club Up",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club Up (1e verdieping)"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "BAG-pand Korte Leidsedwarsstraat 26 (0363100012174394, 1868, ca. 12,5 x 15,7 m) als buitenmuur van de clubverdieping, straatgevel onder. Indeling uit de foto's op clubup.nl/rental (DJ-booth tegen de bakstenen achterwand, lange bar rechts daarvan, verhoogde lounge met statafels langs de linkerwand, pilaar bij de bar), clubup.nl/aboutus (club in het pand achter De Kring, altijd met de trap omhoog, op sommige avonden doorloop naar De Kring), clubup.nl/for-promoters-and-collectives (225), amsterdamsights (laag plafond, lounges naast de dansvloer) en In Your Pocket (smalle ingang tussen twee hoge panden). Dat de DJ tegen de achterwand aan de kant van De Kring staat is afgeleid, niet bevestigd; plek van de straattrap en de doorgang naar De Kring geschat."
+ },
+ {
+  "id": "cue",
+  "naam": "CUE",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Listening bar (kelder)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "theinfatuation.com, iamsterdam best vinyl bars, ADE-venuepagina (open sinds okt 2024): vinyl listening bar in de kelder, Michelin-restaurant boven; wo-za 18-01. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "de-balie",
+  "naam": "De Balie",
+  "type": "podium",
+  "wijk": "Centrum",
+  "zalen": [
+   "Grote Zaal",
+   "Salon"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "debalie.nl zaalverhuur + iamsterdam venue finder (Grote Zaal 19,5x9,5 m, 7 m hoog, uitschuifbare tribune, 220 zittend/400 receptie; Salon 9,5x6,5 m, 85-100); ingangen indicatief"
+ },
+ {
+  "id": "de-brakke-grond",
+  "naam": "De Brakke Grond",
+  "type": "podium",
+  "wijk": "Centrum",
+  "zalen": [
+   "Grote zaal",
+   "Rode zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "brakkegrond.nl/grote-zaal (20x20 m, 7 m hoog, uitschuifbare tribune 170-300, zonder tribune 500) en /rode-zaal (7,9x8,4 m, 9 m hoog, balkons aan drie zijden met loges, 120 zit, 300 staand), iamsterdam venue finder. Technische tekeningen alleen via Google Drive; niet gezien."
+ },
+ {
+  "id": "de-kroon",
+  "naam": "De Kroon",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Lounge / club (1e verdieping)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "iamsterdam (restaurant, bar en lounge met zicht op het Rembrandtplein; na middernacht club vr/za, Latin Nights), fodors (U-vormige bar rond vitrinekasten, op de verdieping boven de clubs), escape.nl jobs (zelfde verdieping als Escape deLuxe/Studio). Posities indicatief"
+ },
+ {
+  "id": "de-meervaart",
+  "naam": "De Meervaart",
+  "type": "podium",
+  "wijk": "Nieuw-West",
+  "zalen": [
+   "Rode Zaal",
+   "Blauwe Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "meervaart.nl meetings & events (Rode Zaal 800 = 523 zaal + 277 balkon, podium 10x10 m, zaal 20x19 m, foyer 685 m2; Blauwe Zaal 22x14 m, 270, inklapbaar podium) + locaties.nl"
+ },
+ {
+  "id": "de-nieuwe-anita",
+  "naam": "De Nieuwe Anita",
+  "type": "podium",
+  "wijk": "West",
+  "zalen": [
+   "Café (begane grond)",
+   "Zaal (kelder)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "denieuweanita.nl/about (café op de begane grond; de zaal achter voor concerten, film en literatuur ligt onder de grond en is via de trap bereikbaar; vanaf het balkon op de begane grond kijk je erin; toiletten twee treden omhoog), Mediamatic (bar dient ook als podium), Artstalk/TimeOut (deur vermomd als boekenkast naar het balkon boven het podium), NH Nieuws (balkon), foto Cinemanita vanaf het balkon (lange zaal, scherm/podium langs de lange wand, techtafel aan de kopse kant). BAG/3D BAG: café in de plint van het woonblok uit 1992 aan de straat, met direct erachter een laag volume (dak 4-6 m) dat past bij een verdiepte zaal met balkon; de precieze muren van de zaal zijn niet vast te stellen. Maten en posities geschat."
+ },
+ {
+  "id": "de-trut",
+  "naam": "De Trut",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Kelder"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "nog niet gezocht",
+  "bron": "Kelder overgetrokken van de eigen plattegrond 'plattegrond Trut 2025 NL' op trutfonds.nl (bar, DJ, wc's, pilaren, garderobe/kapstokken, ingangsgang; de twee nooduitgangen zijn weggelaten), gedraaid zodat de DJ boven staat. Ligging en maat gecontroleerd met de Tetterode-plattegrond L0 op trutfonds.nl (geschiedenis) en de beschrijving van het Bilderdijkblok op davecarrsmith.co.uk (semi-kelder in de oostelijke helft van de vier middelste traveeën, ingang 165E via een afgeschotte gang in de passage van nr. 167). Schaal: oostelijke helft van het 23,2 m diepe blok (BAG) en BAG-vbo 165E = 185 m2; daaruit ca. 63 px/m, zaal ca. 11,7 x 18,2 m inclusief wc en garderobe. Capaciteit ca. 220 volgens een oudere uitgaansgids (niet officieel)."
+ },
+ {
+  "id": "delamar",
+  "naam": "DeLaMar Theater",
+  "type": "podium",
+  "wijk": "Centrum",
+  "zalen": [
+   "Wim Sonneveldzaal",
+   "Mary Dresselhuyszaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "delamar.nl business/spaces + floor-plan (Wim Sonneveldzaal 949, begane grond; Mary Dresselhuyszaal 601 = 381 parterre + 220 balkon, 1e verdieping); klassieke theaterindeling"
+ },
+ {
+  "id": "doka",
+  "naam": "Doka",
+  "type": "club",
+  "wijk": "Oost",
+  "zalen": [
+   "Doka (kelder)"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Maat van de zaal officieel 8,1 x 14,5 m (118 m2, staand 100) uit de Volkshotel events-brochure 2024; BAG-pand is het hele Volkshotel (alleen referentie). Indeling uit foto's van volkshotel.nl (2014, 2015, 2022) en de brochure: DJ-booth (houten \"Doka Studio Booth\") met klein podium en gordijn aan de korte kant, verhoogd plateau met drie booths langs de lange wand, bar met krukken aan de andere korte kant. Onzeker: precieze plek van de trap/ingang (afgeleid uit een foto met trapleuning naast de bar)."
+ },
+ {
+  "id": "eagle-amsterdam",
+  "naam": "Eagle Amsterdam",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Begane grond (bar + dansvloer)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "eagleamsterdam.com (intieme dansvloer, DJ's elk weekend, darkroom boven en in de kelder; do-zo vanaf 22:00), travelgay/nighttours/timeout (begane grond bar + dansvloer voorin, boven zitruimte/pooltafel, kelder darkroom en rookruimte). Posities indicatief"
+ },
+ {
+  "id": "escape",
+  "naam": "Escape",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Escape Club (main)",
+   "Escape deLux (verdieping, Amstel-kant)"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Hal uit BAG-pand 0363100012171128 (1290 m2, incl. Heck's op nr 15) + luchtfoto: hoofdzaal is het lange dak van ca. 17 x 35 m achter de foyer (ex-bioscoop Rembrandtpleintheater 1966-1986, zaal + balkon). Indeling uit escape.nl (VIP-tafelvideo: Main Stage, Main Floor, Sky Lounge, Balcony; techniek: bar 1 en bar 2), zaalfoto's op locaties.nl (theateropstelling: podium voorin, verhoogde Sky Lounge langs de zijmuur) en brochures Rembrandtplein/deLux (deLux op de verdieping, ingang Amstel 70). Geen echte plattegrond gevonden; zijkant van Sky Lounge/VIP en plaats van de bars zijn van foto's afgeleid."
+ },
+ {
+  "id": "exit-cafe",
+  "naam": "Exit Café",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Café"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "nighttours (begane grond van het NYX-pand, deelt de deur met de club, café-ingang rechts van de rij; toiletten en garderobe achterin links), reguliers.net (nauwelijks zitplaatsen, geen rookruimte, terras het hele jaar), exitamsterdam.nl (dansvloer, paal, DJ's). Geen plattegrond; barpositie geschat."
+ },
+ {
+  "id": "fc-hyena",
+  "naam": "FC Hyena",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Bar / Petit Resto"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "fchyena.nl (bioscoop, Petit Resto, wijnbar, groot terras aan het IJ), Kidsproof/iamsterdam (twee filmzalen). Geen clubnachten gevonden; indeling geschat."
+ },
+ {
+  "id": "frascati",
+  "naam": "Frascati",
+  "type": "podium",
+  "wijk": "Centrum",
+  "zalen": [
+   "Zaal 1"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "iamsterdam en Wikipedia NL (vier zalen; Frascati 4 in de voormalige Engelenbak op Nes 71), Time Out. Zaalverhuurpagina onbereikbaar; geen capaciteiten of indeling gevonden. Indicatief als vlakkevloerzaal met tribune."
+ },
+ {
+  "id": "garage-noord",
+  "naam": "Garage Noord",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "Garage (main room)",
+   "Bar40 (boven)"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Geen plattegrond gevonden. BAG-pand 0363100012079768 is het juiste pand (verblijfsobject Gedempt Hamerkanaal 40 ligt erin): 12,4 x 9,7 m, 3D BAG-dakhoogte ca. 6,5-8 m, dus twee lagen. Mixcloud/baby ganoush: Bar40 boven, Garage beneden; amsterdamnow: kas van Sichuan Territory voor de club, grenzend aan de dansvloer; garagenoord.com/info: oude autogarage, begane grond rolstoeltoegankelijk; foto ingang: turquoise glazen portaal in het steegje. Muren en buren uit BAG + luchtfoto; DJ-plek, bar en trap naar Bar40 niet bevestigd."
+ },
+ {
+  "id": "gashouder",
+  "naam": "Gashouder",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Main Hall"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "BAG-pand + PDOK-luchtfoto (ronde gashouder; binnendiameter 54 m volgens technical specs) + gashouder.nl/technical-specs (podium 18 x 9 m, aparte backstage- en frontstage-laaddeur, goederenlift naar de kelder) + FAQ (hoofdingang, personenlift naar lobby op -1 en naar het balkon). Podium aan de westkant: daar liggen de backstage-aanbouwen en het laadterrein; ingang aan het Klönneplein (oost). Ligging van de twee bars, FOH, trap naar -1 en het nieuwe balkon is niet bevestigd (geen plattegrond gepubliceerd). Heropend als cultuurpodium per 30 okt 2026."
+ },
+ {
+  "id": "hangar",
+  "naam": "Hangar",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Restaurant / bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "hangar.amsterdam (adres, openingstijden tot 03:00 vr/za, verhuur voor feesten), Amsterdam Now/Indagare (industrieel-tropisch restaurant, groot terras met palmen aan het water, podium voor events). Geen plattegrond; indeling geschat."
+ },
+ {
+  "id": "hannekes-boom",
+  "naam": "Hannekes Boom",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Binnen + terras"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "hannekesboom.nl (vr/za tot 03:00, binnenruimte, terras aan het water met steiger), iamsterdam (huis-DJ elke vr/za, terras, dakterras, haven), thevendry (terras 100, dakterras 120). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "concertgebouw",
+  "naam": "Het Concertgebouw",
+  "type": "podium",
+  "wijk": "Zuid",
+  "zalen": [
+   "Grote Zaal",
+   "Kleine Zaal"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Concertgebouw brochure zaalverhuur (Grote Zaal 1974, stoelen uitneembaar; Kleine Zaal ovaal 437) + Wikipedia (Grote Zaal 44x28x17 m schoenendoos, orgel achter podium, balkon rondom; Kleine Zaal 20x15 m achter de Grote Zaal)"
+ },
+ {
+  "id": "het-veronicaschip",
+  "naam": "Het Veronicaschip",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "De Buik (Club Veronica)",
+   "Bovendek"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "hetveronicaschip.nl (vier ruimtes: Bovendek, Tussendek, De Buik met Club Veronica, drijvend terras; 20-700 gasten) + Mixmag/AT5 (dansvloer onder in het ruim, Funktion-One, 300-350 in de club); indeling indicatief"
+ },
+ {
+  "id": "ijver",
+  "naam": "IJver",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Café / zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "ijveramsterdam.nl (café-restaurant in de NDSM-loods, 20 tapkranen, binnen-buitenterras, feestzalen; ADE-programma 22-25 okt 2026), eventlocations (250 zittend / 1000 staand), locaties.nl (5 ruimtes). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "ita",
+  "naam": "Internationaal Theater Amsterdam",
+  "type": "podium",
+  "wijk": "Centrum",
+  "zalen": [
+   "Grote Zaal",
+   "Rabozaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "ita.nl zalen (Grote Zaal hoefijzer met loges en balkons, 750 theater; Rabozaal moderne vlakke-vloerzaal met laag podium, 500 theater) + locaties.nl; indeling Rabozaal indicatief"
+ },
+ {
+  "id": "jimmy-woo",
+  "naam": "Jimmy Woo",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Lounge (boven)",
+   "Club (beneden)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "jimmywoo.com/rental en /business (2026: twee verdiepingen, lounge boven met verlichte dansvloer, club beneden met 12.000 lampjes, op beide verdiepingen DJ-booth, bar en VIP-tafels, ca. 600) en de foto van de lounge op /rental (verlichte vloer in het midden, bar aan de kopse kant, banken langs beide wanden, twee pilaren). technoairlines: trap langs de garderobe omhoog naar de lounge, tweede trap omlaag naar de club. BAG: Korte Leidsedwarsstraat 18 ligt in hetzelfde pand als Chicago Social Club en sportschool Splash (0363100012168737, 1862); de clubs zijn delen van dat complex, dus het pand levert geen eigen buitenmuren en footprint.py opnieuw draaien helpt niet. Maten, DJ-plek boven, plek van de bar beneden en van de trap naar de club zijn geschat."
+ },
+ {
+  "id": "johan-cruijff-arena",
+  "naam": "Johan Cruijff ArenA",
+  "type": "podium",
+  "wijk": "Zuidoost",
+  "zalen": [
+   "Stadion (concertopstelling)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "IQ Magazine/sportsvenuebusiness (concertcapaciteit 50.000-71.000 afhankelijk van end-stage/centre-stage), stadiumdb. Plattegrondpagina gaf een serverfout; sterk versimpeld (vloer + twee ringen)."
+ },
+ {
+  "id": "kanarie-club",
+  "naam": "Kanarie Club",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Hal (begane grond)",
+   "Poolbar (vide)",
+   "Garden & terras (buiten)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Plattegronden Level 0 en Level 1 van Studio Modijefsky (yatzer.com), op schaal gezet met de BAG-omtrek van De Hallen (annex 3,2 m + twee tramhallen van 9,7 en 9,6 m, getrapte kop 6 m) en gecontroleerd op de luchtfoto (hal aan de noordwestkop bij het Bellamyplein, Garden op de binnenplaats aan de westkant). Ruimtes: kanarieclub.nl/groepen (Poolbar 120 m2 op de vide, Kanarie Garden)."
+ },
+ {
+  "id": "klaproos",
+  "naam": "Klaproos",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Hoofdruimte"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "iamsterdam (Papaverhoek 39; pizzeria/wijnbar, DJ's vr/za, vr/za tot 03:00, meerdere ruimtes), amsterdamnow (vr/za wordt het restaurant een bar met DJ en dansen), ADE-listings 2024-2026. Masterlijst-adres Papaverweg 40 klopt niet. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "carre",
+  "naam": "Koninklijk Theater Carré",
+  "type": "podium",
+  "wijk": "Centrum",
+  "zalen": [
+   "Grote Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "carre.nl bezoekersinfo (vakken stalles, parterre, loge, balkon, galerij met eigen ingang) + Carthalia/Wikipedia (circusgebouw 1887, ronde piste, ca. 1700-2000 plaatsen); ADE 2026 venue"
+ },
+ {
+  "id": "lab111",
+  "naam": "LAB111",
+  "type": "podium",
+  "wijk": "West",
+  "zalen": [
+   "Bar Strangelove",
+   "LAB8½ (Kapel)",
+   "LAB1"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "LAB111 verhuurbrochure 2026 (totaal ca. 500; Bar Strangelove op de begane grond; LAB8½ = voormalige kapel, 94 m2, 100 staand; LAB1 1e verdieping, 128 stoelen, verbouwd tot juli 2026; LAB2-4 in het souterrain); bar/DJ-positie indicatief"
+ },
+ {
+  "id": "lofi",
+  "naam": "Lofi",
+  "type": "club",
+  "wijk": "Sloterdijk",
+  "zalen": [
+   "Club",
+   "Colorfloor",
+   "Courtyard (buiten)"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Geen plattegrond openbaar (lofi.amsterdam heeft alleen video-impressies). Pand uit BAG (Basisweg 63, L-vorm 36,5 x 35,8 m, 1523 m2 vloer, dus deels twee lagen) + luchtfoto: noordoostblok met eigen dak (waarschijnlijk twee lagen, wc's boven), zuidblok 24 x 21 m met daklichten, westvleugel 12 x 23 m, courtyard ten zuiden. Courtyard uit luchtfoto + dronebeelden (YouTube, Marlon Hoffstadt @ Lofi 2026): dansvloer onder een cortenstalen pergola, DJ-booth aan de oostkant onder een terras op containers, sculptuur aan de westkant, containers langs de gevel. Binnen: booth voor een wand met glas/ramen (video Massano @ Lofi 2026). Zalen 2026 (Club, Colorfloor, Courtyard) uit lofi.amsterdam/events en technoairlines. Club = zuidblok en Colorfloor = westvleugel is een aanname; DJ-plek binnen en bars zijn geschat."
+ },
+ {
+  "id": "madam",
+  "naam": "Madam",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Skybar & dansvloer (20e)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Gevel (29 x 29 m, diagonaal gedraaid), kern met liften en toiletten, bar en VR-ruimte overgetrokken van architectentekening T-99-20 '20e verdieping - Panoramadeck' (Claus en Kaan / OeverZaaijer, 19-10-2022, 1:50) zoals gepubliceerd op locaties.nl. DJ-plek tegenover de bar bij het raam afgeleid uit Madam-by-Night-foto's (madamamsterdam.nl, 2026); de tekening zelf toont geen DJ."
+ },
+ {
+  "id": "maloe-melo",
+  "naam": "Maloe Melo",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Café (voor)",
+   "Concertzaal (achter)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "maloemelo.com (oudste blues/rockcafé, wo-za 21-03/04), vanupied/cityzeum (twee ruimtes: café met bar bij de ingang, betaalde concertzaal met podium verder naar achteren), timeout. Posities indicatief"
+ },
+ {
+  "id": "melkweg",
+  "naam": "Melkweg",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Max",
+   "OZ (Oude Zaal)",
+   "UP (2e verdieping)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Officiële patch & views 2026-27 (melkweg.nl/technical-specs): 'THE MAX hall plot', 'THE MAX stage roof' en 'OUDE ZAAL plot' zijn bovenaanzichten met muren, balkons, trappen, FOH en pilaren. Schaal (1:80) geijkt op de house riders 2026-27: Max-podium totaal 14 x 6,5 m, OZ-podium 8 x 4,75 m met 2 x 1 m zijpodium, Max-balkons 2 x 17 m. Toegankelijkheidspagina's: Max direct links na de hoofdingang (2 bars, beide begane grond, balkon via trap), OZ rechts (1 bar begane grond, balkon ook via lift/1e verdieping), UP op de 2e verdieping (tribune, foyer met bar gedeeld met Cinema). De Max-bar rechts onder het balkon staat op de tekening; de tweede Max-bar staat niet op de tekening en is daarom niet getekend. OZ-bar rechtsachter onder het balkon volgens de foto vanaf het podium op melkweg.nl. Ingang van Max en OZ vanuit de foyer achterin aangenomen. UP: geen tekening gevonden, schematisch uit de rider (podium 6 x 4 m + 3 m zijpodium, tribune achterin)."
+ },
+ {
+  "id": "mewe",
+  "naam": "MEWE",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "amsterdamnow.com (maart 2025: boutique club over twee verdiepingen, bites tot middernacht, Jeffrey van Alphen/Vladimir Orelio/Saïd Bardan), mastersexpo.com (2025). Zelfde adres als het vroegere Club Maïa. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "mezrab",
+  "naam": "Mezrab",
+  "type": "bar",
+  "wijk": "Oost",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "mezrab.nl (zaal ca. 10 m breed x 17 m diep, podium 3 x 6 m, lange bar langs de zaal, DJ-set, zaterdag dansavonden, lockers), EuroBiCon (café, dansvloer en podium; terras voor het gebouw), Wikipedia (cap. 230)."
+ },
+ {
+  "id": "montmartre-xl",
+  "naam": "Montmartre XL",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "reguliers.net (1983-2023 Halvemaansteeg 17; sept 2024 Reguliersdwarsstraat 129; sinds feb 2026 nr. 48 naast Blend XL; gelijkvloers, WC begane grond), gayamsterdam-guide (open). Geen indeling van de nieuwe locatie bekend; indicatief."
+ },
+ {
+  "id": "murmur",
+  "naam": "murmur",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "Listening bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "amsterdamnow.com en tablejourney (listening bar in industrieel pand, zelfgebouwd speakersysteem, natuurwijn, vinylsets van 6+ uur; geen dansvloer of DJ-booth, wel een klein podium; vr/za 19-01). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "muziekgebouw",
+  "naam": "Muziekgebouw aan 't IJ",
+  "type": "podium",
+  "wijk": "Oost",
+  "zalen": [
+   "Grote Zaal",
+   "Kleine Zaal (3e verdieping)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Wikipedia NL (Grote Zaal 20x30 m, 725 zit, twee smalle balkons, losse stoelen; Kleine Zaal 19x8 m op de 3e verdieping met glazen pui naar Foyerdeck 3), eventplanner.net, uniquevenuesofamsterdam (Grote Zaal party 1500, Kleine Zaal party 250). Technische fiches achter cookie-wall; geen plattegrond."
+ },
+ {
+  "id": "nachbar",
+  "naam": "Nachbar",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Vorm uit BAG: L-vormig pand 0363100012167527 met een vleugel van ~6 m breed vanaf de NZ Voorburgwal; de club (BAG nr. 169A, bijeenkomstfunctie 220 m2) is hier getekend als de 6 m brede strook van ~30 m diep (oppervlak klopt). Indeling uit de beschrijving van voorganger Club NL in hetzelfde pand (lange bar bij binnenkomst, DJ en dansvloer aan het eind) en AmsterdamNow over Nachbar (350, één donkere zaal). Kant van de bar en precieze diepte onbevestigd."
+ },
+ {
+  "id": "noorderlicht-cafe",
+  "naam": "Noorderlicht Café",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Café + terras"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "ndsm.nl (adres, 'occasional party'), iamsterdam/Rodi (verbouwing, nieuwbouw op dezelfde plek twee keer zo groot, heropening gepland 2025), Afar (DJ-nights, terras aan het water). Geen plattegrond; indeling geschat."
+ },
+ {
+  "id": "northbound",
+  "naam": "Northbound",
+  "type": "twijfel",
+  "wijk": "Noord",
+  "zalen": [
+   "Hal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Enige bron: amsterdamnow.com 'nieuwe clubs in Amsterdam' (voormalige scheepswerf, techno, 550). Geen eigen site, ticketpagina of tweede bron gevonden; indicatief"
+ },
+ {
+  "id": "occii",
+  "naam": "OCCII",
+  "type": "club",
+  "wijk": "Zuid",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Buitenmuren uit het BAG-pand (strook van de voormalige paardentramremise, 1884) + luchtfoto; deel van OCCII volgens de plattegrond van De Binnenpret (OCCII aan de straatkant, verderop ateliers). Binnen: occii.org/tech-info (podium 5 x 4,5 m, 60 cm hoog, klein hok achter het podium), zaalfoto's op occii.org (bar en geluidstafel achterin de zaal, foyer met bar richting straat), occii.org/info (hoge deuren = hoofdingang) en FAQ (capaciteit 225). Onzeker: exacte grens zaal/foyer en lengte van de bar."
+ },
+ {
+  "id": "oedipus-craft-space",
+  "naam": "Oedipus Craft Space",
+  "type": "bar",
+  "wijk": "Noord",
+  "zalen": [
+   "Taproom / eventruimte"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "oedipus.com (Craft Space in Noord: taproom, Spätkauf, eventruimte, live muziek), iamsterdam (oude proeflokaal gesloten mei 2024, verhuisd), Mes Prestiges mei 2026 (taproom Schaafstraat 21, Hamerkwartier). Adres controleren. Geen plattegrond; indeling geschat."
+ },
+ {
+  "id": "oliva",
+  "naam": "Oliva",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Rembrandtzaal (Area 2)",
+   "Amstelzaal",
+   "Cocktailbar (balkon)",
+   "'t Barretje"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "nog niet gezocht",
+  "bron": "Geen plattegrond gevonden (de eventbrochure staat alleen achter een WeTransfer-link). Amstelzaal en Cocktailbar: breedte en gevel van de strook aan de Amstel uit de BAG-omtrek (pand 0363100012171127, 10,3 m breed) en PDOK-luchtfoto. Binnenindeling uit de eigen foto's van Oliva (eventpagina september 2026, fotoshoot TK Photography 2024, opnamen 2020) en beschrijvingen: partypagina (grote zaal met DJ, tweede discozaal, kleinste barretje), FAQ (twee ingangen: Rembrandtplein 17 en Amstel 80, alles gelijkvloers), eventpagina (Rembrandtzaal, Amstelzaal met eigen ingang aan de Amstel, Cocktailbar; max. 900 gasten, in 2024 850 staand) en locaties.nl ('t Barretje). Area 2 = Rembrandtzaal: DJ-booth midden op de kopse wand, bar rechts achterin, deur met patrijspoort links (foto's 2020-2026); maat 12 x 11 m geschat uit foto's (site noemt 104 m2). Amstelzaal: verhoging met DJ en VIVA OLIVA-letters, trap naar de Cocktailbar op het balkon, roze bar en spiegelwand eronder (foto's). Ligging van Area 2 en 't Barretje in het pand is aangenomen; vorm van 't Barretje geschat."
+ },
+ {
+  "id": "oosterbar",
+  "naam": "Oosterbar",
+  "type": "club",
+  "wijk": "Oost",
+  "zalen": [
+   "Kelder"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Amsterdam Now (kelder van Generator Hostel, oude ketelruimte, vr hiphop/za house, tot 04:00), Headbox (180 staand), Live the World. Geen plattegrond; indeling geschat."
+ },
+ {
+  "id": "ot301",
+  "naam": "OT301",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Studio 1 + 2 (begane grond)",
+   "Ventilator cinema + bar (2e verdieping)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "ot301.nl/public-spaces: Studios op de begane grond, Studio 1 (podium, hoog plafond, groot videoscherm) met daaraan Studio 2 (lager, bar en chill), samen ca. 230 m2 voor 300-400 man; Ventilator cinema en bar op de 2e verdieping (bar in de voormalige ventilatiekamer, geen lift). Studio 301 tech list (Google Doc): podiumdelen 2x1 m, scherm 5x4 m in Studio 1. BAG/3D BAG: hoofdblok 18,9 x 16 m (dak 21 m) plus lagere westvleugel; geen aparte lage hal, de studio zit dus in het hoofdblok. Geen plattegrond gevonden: maten op schaal van 230 m2, posities van podium, bar en ingang geschat."
+ },
+ {
+  "id": "p60",
+  "naam": "P60",
+  "type": "podium",
+  "wijk": "Amstelveen",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "iamsterdam / p60.nl (poppodium met concertzaal 600 staand, café, clubnachten techno/electro/indie, 2090 m2); zaalindeling indicatief"
+ },
+ {
+  "id": "pacific",
+  "naam": "Pacific",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Restaurant / bar"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "Buitenmuren uit BAG + luchtfoto: de westelijke kop van de lange hal aan de Polonceaukade, vier panden met bijeenkomstfunctie (Polonceaukade 22-23, Pazzanistraat 45-47), samen ca. 24 x 21,5 m in twee vleugels, met groot terras aan de west- en zuidkant. Hele afkoop 450 staand (pacificamsterdam.nl). Binnenindeling (bar, dj-plek, privéruimte onder glazen dak) niet gevonden in plattegronden of riders; dj en ingang zijn indicatief. Coördinaten gecorrigeerd naar het gebouw (oude lat/lng lag op het plein bij de oostelijke kop)."
+ },
+ {
+  "id": "pakhuis-de-zwijger",
+  "naam": "Pakhuis de Zwijger",
+  "type": "podium",
+  "wijk": "Oost",
+  "zalen": [
+   "Grote Zaal (2e verdieping)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Zaalverhuurbrochure 2026 (Grote Zaal 2e verdieping, 20x15 m, geen vast podium, receptie 600, regie op balkon 3e verdieping; foto: laag podium aan de korte zijde met groot scherm), dezwijger.nl/venue-rental, iamsterdam venue finder. Geen plattegrond; ingang en bar geschat."
+ },
+ {
+  "id": "panama",
+  "naam": "Panama",
+  "type": "club",
+  "wijk": "Oost",
+  "zalen": [
+   "Grote Zaal (Theater-Nachtclub)",
+   "Studio"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Officiële plattegrond in de Panama-brochure (panama.nl, met m2 per ruimte) + lichtplan club room van Luxonos in de technical rider 2025 (balkonrand, hoofdbar, trappen, ingang) + rider/brochure-tekst (podium 7 x 2,8 m, DJ-booth vast aan het podium, 3 bars, balkon 150 p.). BAG-pand (Oostelijke Handelskade 4) bevestigt de maten. Studio: bar langs de raamwand en DJ tegen de achterwand uit de foto's op panama.nl/venue-hire."
+ },
+ {
+  "id": "paradiso",
+  "naam": "Paradiso",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Grote Zaal",
+   "Balkon Grote Zaal (1e verdieping)",
+   "Kleine Zaal (Bovenzaal, 1e verdieping)",
+   "Kelder (café / clubzaal)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Officiële zaaltekeningen van Paradiso (assets.paradiso.nl, venue specs): Main Hall layout okt 2022, Upstairs/small hall jan 2022 en Basement jan 2022, op schaal gezet met de maatlijnen (o.a. 10,25 m tussen de balkons, podium 3,20 + 2,55 m, small hall 7,31 x 11,68 m, kelder 14,40 m). Balkonrand (stippellijn) en verhogingen uit dezelfde tekening. Houserider maart 2025 (1500 / 210, podium 9,8 x 5,75 m) en toegankelijkheidspagina (balkon met balkonbar, alleen open bij uitverkochte shows; Bovenzaal-deur links naast de lift, bar achterin; kelder-café). BAG-pand (1880) bevestigt zaalbreedte ca. 20 m en de apsis aan de Singelgrachtkant. Verbouwing '100 Jaar Paradiso' (jan 2026) is nog alleen een visie; de nieuwe nachtingang rechts van het gebouw (oude fietsenkelder) is gerealiseerd. Niet op de tekeningen: plek van de balkonbar, de balkondeuren (trappenhuizen achter de zaal, links en rechts aangenomen) en de DJ-plek in de kelder."
+ },
+ {
+  "id": "parallel",
+  "naam": "Parallel",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "DJ Mag / Mixmag (maart 2022: nieuwe club achter het Tolhuistuin-gebouw, voormalige Paradiso Noord-zaal, onder beheer van Paradiso), paradiso.nl programma (Feels Right, Terra). Eén zaal; indeling indicatief"
+ },
+ {
+  "id": "podium-mozaiek",
+  "naam": "Podium Mozaïek",
+  "type": "podium",
+  "wijk": "West",
+  "zalen": [
+   "Theaterzaal (2e verdieping)",
+   "Café Mozaïek"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "podiummozaiek.nl/verhuur/ruimtes (theaterzaal 2e verdieping max 350, zitplaatsen aan drie zijden rond vlakke vloer; café met klein podium en volledige bar; twee studio's à 60) + hirespace. Geen plattegrond; posities indicatief."
+ },
+ {
+  "id": "prik",
+  "naam": "Prik",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Bar"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "prikamsterdam.nl (adres, straatterras, DJ's), iamsterdam, nighttours, amsterdam.info (dansvloer, roken buiten). Geen plattegrond; één ruimte, posities geschat."
+ },
+ {
+  "id": "q-factory",
+  "naam": "Q-Factory",
+  "type": "club",
+  "wijk": "Oost",
+  "zalen": [
+   "Grote Zaal (Main Hall)",
+   "Kleine Zaal (Q-Club)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Officiële floorplans Grote Zaal (2021/22) en Kleine Zaal van Q-Factory (technische pagina oude site q-factory-amsterdam.nl, via archive.org) met maten: GZ 19 x 15 m + podium 4,7 m, bar 9 m, verhoging 4,2 x 9,5 m; KZ 10 x 17 m, podium 6 x 5 m, balkon 2,7 x 19 m. Capaciteit 850 / 275 (q-factory.com/zakelijk, brochure 2026). Oude tekening met balkon in de Grote Zaal vervalt: staat niet op de plattegrond."
+ },
+ {
+  "id": "radio-radio",
+  "naam": "Radio Radio",
+  "type": "club",
+  "wijk": "West",
+  "zalen": [
+   "Club"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Footprint opnieuw gedraaid op het juiste gebouw (oud: los BAG-pandje van 84 m2): de kop aan de oostkant van de lange hal aan Pazzanistraat/Polonceaukade. Radio Radio zit in de noordvleugel: BAG-pand 6627 (Pazzanistraat 1, 552 m2 bijeenkomstfunctie = club + bovenbar) plus pand 6566 (Pazzanistraat 3), samen 24,5 x 11 m. Binnenindeling uit de rental deck 2026 en venuefoto's op radioradio.radio: lange lage zaal, dj-booth tegen de korte kopgevel onder de ronde 'zon' met nooddeur ernaast, lange tegelbar langs de lange wand achterin, trap naar de Upstairs Music Bar (80 pers.). Dat de dj aan de westkant (tegen de lange hal) staat en de ingang aan de oostkant is afgeleid uit de ligging, niet bevestigd."
+ },
+ {
+  "id": "radion",
+  "naam": "RADION",
+  "type": "club",
+  "wijk": "Nieuw-West",
+  "zalen": [
+   "Main room",
+   "Bovenkamer"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Geen plattegrond gevonden. radion.amsterdam (2026): main room met VOID-systeem, tweede zaal (Bovenkamer) met Prof Sound-stack, Club Care-booth naast de ingang van de Bovenkamer, lockers en tokenbalies; foto op radion.amsterdam toont een lange DJ-booth langs de wand met treden in de vloer. BAG-pand is het hele ACTA-complex (toren + laagbouw, 1969), dus geen bruikbare zaalmuren. Vorm en maten van beide zalen geschat."
+ },
+ {
+  "id": "shelter",
+  "naam": "Shelter",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "Club",
+   "Restroom"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "middel",
+  "tekening": "tekening van een deel van het pand",
+  "bron": "Club: muren, 8 pilaren, Bar 1 en DJ-booth overgetrokken van de installatietekening van de kelder (-1) in het Fieldlab-ventilatierapport van bba binnenmilieu (versie 9-6-2021, Kamerstukken-bijlage blg-996930), geschaald op de 331 m2 clubvloer uit het Fieldlab-onderzoeksrapport (blg-996927). Ingang, looproute en ligging naast de torenkelder bevestigd met de plattegrond met cameraposities in blg-996927 (fig. 1). Stand van voor de verbouwing van jan-feb 2024 (LED-plafond, Restroom). Restroom getekend als de voormalige lounge naast de zaal: ligging aangenomen, niet bevestigd."
+ },
+ {
+  "id": "shu",
+  "naam": "SHU",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Begane grond"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "nog niet gezocht",
+  "bron": "Buitenmuren uit BAG: pand 0363100012175877 (Handboogstraat 15, 4,0-4,5 x 16,2 m); SHU zit in verblijfsobject 15-H (130 m2 bijeenkomstfunctie, begane grond, de verdiepingen zijn woningen/kantoor). Indeling uit de fotoserie van Chantal Arnts (18-06-2024, op chantalarnts.com, locaties.nl en amsterdamnow), waarin de ruimtes elkaar overlappen: voorin de marmeren bar met spiegelplafond langs de linkermuur, een oranje bank tegen de voorwand met een boog naar de smalle gang met geblokte vloer, op de overgang naar achteren een platenkast met DJ-plek (rechts), dan de gouden bar (ook links) en achterin de lounge met open haard (rechts) en een stalen deur in de achterwand. Beschrijvingen: Bart's Boekje (drie ruimtes, plek voor 180), amsterdamnow (cocktailbar, lounge, dansvloer), locaties.nl (Main Room 80 m2 + VIP Room 15 m2). Aangenomen, niet bevestigd met een foto van de gevel: de marmeren bar ligt aan de straatkant (en de lounge achterin) en de bars staan tegen de noordmuur (kant nr. 11). Maten binnen de zaal geschat."
+ },
+ {
+  "id": "sissis",
+  "naam": "Sissi's",
+  "type": "club",
+  "wijk": "Zuid (De Schinkel)",
+  "zalen": [
+   "Zaal 1",
+   "Zaal 2"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "sissisamsterdam.nl (vr/za 18-04, resto + club + karaoke; ADE 2026-avonden), amsterdamnow (oude fabriekshal in De Schinkel: twee clubzalen, bruin café, terras Sunny Side, deli). Masterlijst-adres Theophile de Bockstraat klopt niet. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "skatecafe",
+  "naam": "Skatecafé",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "Skatecafé (hal met ramp)",
+   "Dick & Dick"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "Geen plattegrond gevonden. BAG-pand 0363100012122913 (nr. 42): kop 12,4 x 18,5 m tegen Garage Noord, smallere strook 9,2 x 21,9 m met sheddak; terras met picknicktafels aan de straatkant (luchtfoto PDOK). skatecafe.nl: twee zaken, Skatecafé (restaurant met ramp) en spelletjescafé Dick & Dick (bruine kroeg); foto skatecafe.nl: mini-ramp dwars door de zaal met tafels ervoor; ADE: rave-ruimtes (\"bunkers\") en de ramp; Patta (2026): grote nachten over vier areas, ook in omliggende loodsen (c41: Skatecafé huurt 3000 m2 loodsen eromheen). Toewijzing hal = kop, Dick & Dick = strook is afgeleid, DJ-plekken niet bevestigd."
+ },
+ {
+  "id": "soho",
+  "naam": "Soho",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Begane grond",
+   "Boven (1e verdieping)"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Buitenmuren uit BAG-pand 0363100012175623 (11 x 17 m, 443 m2 over drie lagen). Begane grond uit de officiële rondgang-video op soho-amsterdam.com (ingang midden aan de straat, ovale centrale bar aan de oostkant, dansvloer met podiumrand langs de westmuur, achterin verhoogde lounge met rode banken, trap en DJ-meubel linksachter, toilet naast de trap) en de beschrijving op dezelfde site (centrale bar, dansvloer erachter, trap naar tweede niveau met bar en cocktailhoek). Bovenverdieping alleen uit beschrijvingen (nighttours, amsterdam.info): posities daar geschat."
+ },
+ {
+  "id": "soulkitchen",
+  "naam": "SoulKitchen",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Restaurant / club"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "amsterdamnow (mei 2024: restaurant-cocktailbar-club in het oude Club Abe/Blue Ivy-pand naast AIR, Nikkei-keuken, na het eten dansen), iamsterdam dine & dance (ombouw naar club rond 23:30), RA (REECORDS ADE). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "spijker-bar",
+  "naam": "Spijker Bar",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Bar (souterrain)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "inyourpocket, misterb&b, travelgay: donkere souterrainbar (sinds 1978), pooltafel achterin, schermen bij de bar, kleine rookruimte en darkroom boven. Geen DJ-info; indicatief"
+ },
+ {
+  "id": "studio-k",
+  "naam": "Studio",
+  "type": "bar",
+  "wijk": "Oost",
+  "zalen": [
+   "Café / zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "studio-k.nu (café-restaurant, 3 filmzalen, terras, clubnacht-listing), studio-k.nu/zaalhuur (SK1-SK4, SK4 borrelruimte met vaste bar maar geen DJ), Amsterdam Now. Geen plattegrond; indeling geschat."
+ },
+ {
+  "id": "supperclub",
+  "naam": "Supperclub",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "La Salle Neige",
+   "L'Entresol (balkon)"
+  ],
+  "oordeel": "goed",
+  "niveau": "gemeten",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Breedte en richting van de zaal uit BAG + luchtfoto (hoofdvolume 9,5 m breed onder één lange nok); indeling uit de projectbeschrijving van concrete (e-architect: ovale Salle Neige, DJ-booth en podium tegenover de ingang, binnenkomst via de keuken onder L'Entresol, marmeren bar op de dansvloer, bedden langs de wanden, L'Entresol met eigen bar en rookruimte Le Fumoir) plus foto's, supper.nl/private-events (La Salle Neige 500, L'Entresol 30-65 met eigen bar) en het restaurant (begane vloer + balkon). Le Bar Rouge bestaat hier niet meer (hing in het oude pand). Lengte van de zaal en kant van de trap geschat."
+ },
+ {
+  "id": "taboo",
+  "naam": "Taboo Bar",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Begane grond",
+   "1e verdieping (lounge)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "reguliers.net (begane grond bar met podium voor dragshows; 1e verdieping toiletten, twee zitgedeeltes en rookruimte; gelijkvloers), nighttours (twee verdiepingen, lounge boven, terras gedeeld met Taboo Kantine), inyourpocket. Geen plattegrond; posities geschat."
+ },
+ {
+  "id": "the-other-side",
+  "naam": "The Other Side",
+  "type": "club",
+  "wijk": "Houthavens",
+  "zalen": [
+   "Main Room",
+   "Room 2",
+   "The Outer Side (buiten)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Officiele plattegrond \"TOS Clubdesign 2025 - standaardsetup\" op the-other-side.nl/business (Floorplan), geschaald op de BAG-hal (25,5 m breed; Main Room ca. 25,5 x 25,4 m). Capaciteit 900 / 200 / buiten 100 (zelfde pagina)."
+ },
+ {
+  "id": "the-waterhole",
+  "naam": "The Waterhole",
+  "type": "bar",
+  "wijk": "Centrum",
+  "zalen": [
+   "Bar (begane grond)"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "waterhole.nl (live music bar, pooltafels, programma elke dag), iamsterdam (Tap & Dine restaurant op de 1e verdieping, terras), inyourpocket (roadhouse, drie pooltafels, live muziek bijna elke avond). Geen plattegrond; posities geschat."
+ },
+ {
+  "id": "theater-amsterdam",
+  "naam": "Theater Amsterdam",
+  "type": "podium",
+  "wijk": "Houthavens",
+  "zalen": [
+   "Auditorium",
+   "Blackbox"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "theateramsterdam.nl (Auditorium 926 stoelen / tot 1100, 60x50 m, projectiescherm 50x10 m; Blackbox 1200 m2 tot 2000 staand, leeg te bouwen; Foyer; Mezzanine), iamsterdam venue-finder. Bars/ingangen indicatief"
+ },
+ {
+  "id": "thuishaven",
+  "naam": "Thuishaven",
+  "type": "club",
+  "wijk": "Westpoort",
+  "zalen": [
+   "Terrein (overzicht)",
+   "Loods (hangar, nachtshows)",
+   "Circustent",
+   "Mainstage (buiten, zomer)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "middel",
+  "tekening": "tekening van een deel van het pand",
+  "bron": "Terreinplattegrond van thuishavenb2b.nl (OUTLINE-PLATTEGROND-THUISHAVEN, met hotspots Loods, Mainstage, Circustent, Stier Container, Barhuis), passend gelegd op BAG (Loods 2017, Circustent 2017 met twee zeecontainers) en de PDOK-luchtfoto (afwijking < 1,5 m). Ingang west via de wachtrij-hekken en het entreehuisje (luchtfoto). Binnenindeling Loods (DJ, bar, lounge-vide), podium Circustent en podium Mainstage zijn geschat uit beschrijvingen en foto’s."
+ },
+ {
+  "id": "toekomstmuziek",
+  "naam": "Toekomstmuziek",
+  "type": "club",
+  "wijk": "Houthavens",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "geschat",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Buitenmuren uit BAG-pand 0363100012110275 (417 m2): hal ca. 15 x 22 m met drie lichtstraten plus lage aanbouw ca. 15 x 6 m aan de straatkant (luchtfoto PDOK). Geen plattegrond, rider of bruikbare interieurfoto gevonden; podium, bar en ingang zijn geschat."
+ },
+ {
+  "id": "tolhuistuin",
+  "naam": "Tolhuistuin",
+  "type": "club",
+  "wijk": "Noord",
+  "zalen": [
+   "Club",
+   "Balkon",
+   "Zonzij",
+   "Tuin"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "hoog",
+  "tekening": "tekening is al gebruikt",
+  "bron": "Club en Balkon overgetrokken van de officiele Paradiso-plattegrond 'Tolhuistuin - Club, nights' (apr 2022, schaal 1:100, maten in meters omgerekend) en gecheckt met de concertversie, rider mei 2026 (podium 1 m hoog, 550 staand) en tolhuistuin.nl (zaal 12 x 22 x 7 m). Zonzij (14 x 14 m, podium 6 x 4 m) en Tuin indicatief."
+ },
+ {
+  "id": "disco-dolly",
+  "naam": "Tuftuf",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Benedenzaal",
+   "Boven"
+  ],
+  "oordeel": "twijfel",
+  "niveau": "gemeten",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Disco Dolly (2013-eind 2023, in het pand van Dansen bij Jansen) is op 14-02-2025 heropend als Tuftuf, after-dinner club 25+ (vr/za vanaf 21:00). Buitenmuren uit BAG (pand 0363100012167923, 8,6 x 17 m; Handboogstraat 11 = bijeenkomstfunctie 210 m2). locaties.nl: hoofdzaal ~200 m2 (10-250) en boven ~80 m2 (20-100) met tweede bar; Bart's Boekje: dansvloer beneden, boven vaak privéfeesten. Foto's (locaties.nl): lange bar met achterwand vol flessen, plafond vol discoballen boven de dansvloer, DJ-booth, zitjes. Posities binnen de zalen geschat."
+ },
+ {
+  "id": "under-hans",
+  "naam": "Under Hans",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Basement"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "hansbrinker.com/club (agenda t/m dec 2026, events soms gesplitst in UPSTAIRS en BASEMENT), amsterdamnow (rauwe kelderclub onder Hans Brinker Hostel, eigen bar en sound), hostelworld (open okt-apr), tixel. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "vondelbunker",
+  "naam": "Vondelbunker",
+  "type": "club",
+  "wijk": "Zuid",
+  "zalen": [
+   "Bunker"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "viatravelers/Lonely Planet (schuilkelder 1947 onder de brug van de 1e Constantijn Huygensstraat; ondergrondse concertzaal, bar, expo-ruimte; betonnen smalle openingen). Eigen site achter botbescherming; geen capaciteit (ca. 150) of plattegrond. Indicatief."
+ },
+ {
+  "id": "vrankrijk",
+  "naam": "Vrankrijk",
+  "type": "club",
+  "wijk": "Centrum",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "Wikipedia (gelegaliseerd kraakpand, evenementenruimte op de begane grond sinds 1984, punk/queer feesten), vrankrijk.org agenda (Punk Night vr, WTF Queer Wednesday), cityzeum. Geen plattegrond; indicatief"
+ },
+ {
+  "id": "warehouse-elementenstraat",
+  "naam": "Warehouse Elementenstraat",
+  "type": "club",
+  "wijk": "Westpoort",
+  "zalen": [
+   "Begane grond (alle zalen, indeling 2013)"
+  ],
+  "oordeel": "goed",
+  "niveau": "echt",
+  "zekerheid": "middel",
+  "tekening": "tekening van een deel van het pand",
+  "bron": "Plattegrond begane grond 'Herindeling Isolatorweg 36/Elementenstraat 25, voorstel functie-indeling' (MSTRS advies&ontwerp, 08-03-2013, tek. 2013-000-0), bijlage 2 bij de Ruimtelijke onderbouwing The Element (Oranjewoud, 2013), die zelf bijlage 2 is bij bestemmingsplan Sloterdijk I (NL.IMRO.0363.B1104BPGST-VG02). Zaal 1 (noordhal, 835 m2), Zaal 2 (368 m2), Zaal 3 (217 m2), gang, chill-zaal (382 m2), entree/garderobe, toiletten en de binnenplaats zijn overgetrokken; maat en ligging kloppen met het BAG-pand (80,1 x 49,8 m, binnenplaats 15 x 20 m in de zuidoosthoek). Beperking: het is een voorstel van vóór de opening (25 april 2014), en sinds 2021 zit AMAZE (ID&T) in hetzelfde pand. AMAZE noemt de club nu '3 stage areas, 1.500 m2, tot 2.500 bezoekers'; dat past bij Zaal 1 + 2 + 3 (samen ca. 1.420 m2), maar welk deel AMAZE gebruikt is niet openbaar. DJ-plekken staan niet op de tekening en zijn niet getekend. Rookplek op de binnenplaats is niet bevestigd (huisregels: roken alleen op aangewezen plekken)."
+ },
+ {
+  "id": "waterkant",
+  "naam": "Waterkant",
+  "type": "bar",
+  "wijk": "Centrum (Jordaan)",
+  "zalen": [
+   "Binnen + terras"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "geen openbare stukken gevonden",
+  "bron": "iamexpat (Surinaamse bar-restaurant met dansvloer), suitcasemag 'drink + dance Amsterdam', enprimeurclub (groot terras aan het water onder de parkeergarage). Geen plattegrond; indicatief"
+ },
+ {
+  "id": "zaal-100",
+  "naam": "Zaal 100",
+  "type": "podium",
+  "wijk": "West",
+  "zalen": [
+   "Zaal"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "laag",
+  "tekening": "alleen bouwdossier Stadsarchief (niet bruikbaar)",
+  "bron": "zaal100.nl (Zaal 100, Galerie 100, Restaurant 100; podium 'voor ongehoord geluid') + Doek Festival/Songkick. Geen capaciteit (klein, ca. 100-150) of plattegrond; indicatief."
+ },
+ {
+  "id": "ziggo-dome",
+  "naam": "Ziggo Dome",
+  "type": "podium",
+  "wijk": "Zuidoost",
+  "zalen": [
+   "Arena"
+  ],
+  "oordeel": "niet goed",
+  "niveau": "oud",
+  "zekerheid": "middel",
+  "tekening": "binnenvergunning met zaaknummer: tekening op te vragen bij de gemeente",
+  "bron": "ziggo.nl (17.000 p., vloer 6.300, twee ringen met tribunes, 90 x 90 x 30 m), In Your Pocket (ringen 4.830 en 4.700, bovenring soms afgehangen). Plattegrondpagina laadde niet; sterk versimpeld."
+ }
+]
