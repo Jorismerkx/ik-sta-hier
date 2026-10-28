@@ -17,7 +17,12 @@ async def main():
         await pg.goto(BASE, wait_until='networkidle')
         await pg.wait_for_timeout(800)
         await pg.screenshot(path=os.path.join(OUT, '0-welkom.png'))
-        await pg.click('#start')
+        await pg.click('#ob-next'); await pg.wait_for_timeout(700)
+        await pg.screenshot(path=os.path.join(OUT, '0b-welkom-2.png'))
+        await pg.click('#ob-next'); await pg.wait_for_timeout(700)
+        await pg.screenshot(path=os.path.join(OUT, '0c-welkom-3.png'))
+        assert (await pg.text_content('#ob-next')).strip().lower() == 'begin', 'laatste slide'
+        await pg.click('#ob-next')
         await pg.wait_for_timeout(400)
         await pg.screenshot(path=os.path.join(OUT, '1-lijst.png'))
         # zoeken
@@ -69,7 +74,7 @@ async def main():
         assert await pg.locator('#view-venue.active').count(), 'terug naar venue faalt'
         assert 'on' in (await pg.get_attribute('#v-fav', 'class')), 'ster venue niet goud'
         await pg.screenshot(path=os.path.join(OUT, '3b-venue-fav.png'))
-        await pg.click('.hero .back'); await pg.wait_for_timeout(200)
+        await pg.click('#view-venue .back'); await pg.wait_for_timeout(200)
         assert await pg.locator('#view-home.active').count(), 'terug naar home faalt'
         await pg.click('#q-clear'); await pg.wait_for_timeout(200)
         assert await pg.locator('#list .recent').count() >= 1, 'recent ontbreekt'

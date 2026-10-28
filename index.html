@@ -21,72 +21,71 @@
   <div id="phone">
     <div id="screen">
 
-      <!-- WELKOM -->
+      <!-- WELKOM: drie kleurvlakken met één zin -->
       <section id="view-welcome" class="view">
-        <div class="wall" id="wall"></div>
-        <div class="welcome">
-          <h1 class="big">Ik sta<br>hier<span class="dot">.</span></h1>
-          <p class="lead">Kwijt in de club? Zet je puntje op de plattegrond en je vrienden zien meteen waar je staat.</p>
-          <ol class="steps">
-            <li><span>1</span>Maak een event met je vrienden</li>
-            <li><span>2</span>Tik op Waar sta je?</li>
-            <li><span>3</span>Zet je puntje, iedereen ziet het</li>
-          </ol>
-          <button id="start" class="cta">Begin</button>
+        <div class="ob-top"><span class="logo">Ik sta hier<span class="dot">.</span></span><button id="start">Overslaan</button></div>
+        <div class="ob" id="ob"></div>
+        <div class="ob-foot">
+          <div class="ob-dots" id="ob-dots"></div>
+          <button id="ob-next" class="btn block">Volgende</button>
           <p class="fine" id="welcome-count"></p>
         </div>
       </section>
 
-      <!-- HOME: lijst + kaart -->
+      <!-- HOME: lijst, kaart, vrienden, events -->
       <section id="view-home" class="view">
         <header class="top">
-          <div class="brand"><h1>Ik sta hier<span class="dot">.</span></h1><button id="info" aria-label="Over">i</button></div>
+          <div class="brand"><h1 class="logo">Ik sta hier<span class="dot">.</span></h1><button id="info" class="icon-btn" aria-label="Over">i</button></div>
           <div class="search">
-            <svg viewBox="0 0 24 24" width="18" height="18"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+            <svg viewBox="0 0 24 24" width="18" height="18"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
             <input id="q" type="search" placeholder="Zoek een club of zaal" autocomplete="off" autocorrect="off" autocapitalize="off" enterkeyhint="search">
             <button id="q-clear" aria-label="Wis">×</button>
           </div>
         </header>
         <div id="chips"></div>
-        <div id="pane-list" class="pane active">
-          <div id="list"></div>
-        </div>
+        <div id="pane-list" class="pane active"><div id="list"></div></div>
         <div id="pane-map" class="pane">
           <div id="map"></div>
           <button id="locate" aria-label="Mijn locatie"><svg viewBox="0 0 24 24" width="20" height="20"><circle cx="12" cy="12" r="3" fill="currentColor"/><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 1v4M12 19v4M1 12h4M19 12h4" stroke="currentColor" stroke-width="2"/></svg></button>
           <div id="map-card" class="hidden"></div>
         </div>
-        <div id="pane-friends" class="pane">
-          <div id="friends" class="scroll"></div>
-        </div>
-        <div id="pane-events" class="pane">
-          <div id="events" class="scroll"></div>
-        </div>
+        <div id="pane-friends" class="pane"><div id="friends" class="scroll"></div></div>
+        <div id="pane-events" class="pane"><div id="events" class="scroll"></div></div>
         <nav class="tabbar">
-          <button class="tab active" data-tab="list"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Lijst</span></button>
-          <button class="tab" data-tab="map"><svg viewBox="0 0 24 24"><path d="M12 21s-6-5.3-6-10a6 6 0 0 1 12 0c0 4.7-6 10-6 10z" fill="none" stroke="currentColor" stroke-width="2.2"/><circle cx="12" cy="11" r="2.2" fill="currentColor"/></svg><span>Kaart</span></button>
+          <button class="tab active" data-tab="list"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h16" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg><span>Clubs</span></button>
+          <button class="tab" data-tab="map"><svg viewBox="0 0 24 24"><path d="M12 21s-6-5.3-6-10a6 6 0 0 1 12 0c0 4.7-6 10-6 10z" fill="none" stroke="currentColor" stroke-width="2.4"/><circle cx="12" cy="11" r="2.2" fill="currentColor"/></svg><span>Kaart</span></button>
           <button id="here" class="here" aria-label="Waar sta je?">
-            <span class="here-btn"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2" fill="currentColor"/><circle cx="12" cy="12" r="8.6" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></span>
+            <span class="here-btn"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2" fill="currentColor"/><circle cx="12" cy="12" r="8.6" fill="none" stroke="currentColor" stroke-width="2.4"/></svg></span>
             <span class="here-label">Waar sta je?</span>
           </button>
-          <button class="tab" data-tab="friends"><svg viewBox="0 0 24 24"><circle cx="9" cy="8.5" r="3.5" fill="none" stroke="currentColor" stroke-width="2.1"/><path d="M2.5 20c.6-3.6 3.3-5.6 6.5-5.6s5.9 2 6.5 5.6" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/><path d="M15.5 4.6a3.5 3.5 0 0 1 0 7.8M18 14.8c2 .8 3.2 2.6 3.5 5.2" fill="none" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/></svg><span>Vrienden</span></button>
-          <button class="tab" data-tab="events"><svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3" fill="none" stroke="currentColor" stroke-width="2.1"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="2.1" stroke-linecap="round"/></svg><span>Events</span><i class="badge hidden" id="events-badge"></i></button>
+          <button class="tab" data-tab="friends"><svg viewBox="0 0 24 24"><circle cx="9" cy="8.5" r="3.5" fill="none" stroke="currentColor" stroke-width="2.3"/><path d="M2.5 20c.6-3.6 3.3-5.6 6.5-5.6s5.9 2 6.5 5.6" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round"/><path d="M15.5 4.6a3.5 3.5 0 0 1 0 7.8M18 14.8c2 .8 3.2 2.6 3.5 5.2" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round"/></svg><span>Vrienden</span></button>
+          <button class="tab" data-tab="events"><svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3" fill="none" stroke="currentColor" stroke-width="2.3"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="2.3" stroke-linecap="round"/></svg><span>Events</span><i class="badge hidden" id="events-badge"></i></button>
         </nav>
       </section>
 
-      <!-- VENUE: zalen -->
+      <!-- VENUE: kleurvlak met de naam, je event, zalen, programma -->
       <section id="view-venue" class="view">
-        <div class="hero" id="v-hero">
-          <button class="back" data-back="home" aria-label="Terug">‹</button>
-          <button class="fav" id="v-fav" aria-label="Favoriet"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></button>
-          <div class="hero-text">
-            <h2 id="v-name"></h2>
+        <div class="v-scroll" id="v-scroll">
+          <div class="poster" id="v-hero">
+            <div class="poster-bar">
+              <button class="back" data-back="home" aria-label="Terug">‹</button>
+              <button class="fav" id="v-fav" aria-label="Favoriet"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></button>
+            </div>
+            <p class="eyebrow" id="v-kind"></p>
+            <h2 id="v-name" class="display"></h2>
             <p id="v-addr"></p>
           </div>
+          <div class="venue-body">
+            <div class="venue-meta" id="v-meta"></div>
+            <div id="v-tonight" class="hidden"></div>
+            <div class="sect"><p class="label">Zalen</p><div id="v-rooms" class="rooms"></div><p class="note hidden" id="v-note"></p></div>
+            <div class="sect hidden" id="v-agenda-wrap"><p class="label">Programma</p><div id="v-agenda" class="ag-list"></div></div>
+            <div class="sect hidden" id="v-photo-wrap"><p class="label">Foto</p><img id="v-photo" class="v-photo" alt="" loading="lazy"></div>
+          </div>
         </div>
-        <div class="venue-body">
-          <div class="venue-meta" id="v-meta"></div>
-          <div id="v-rooms" class="rooms"></div>
+        <div class="actionbar">
+          <button id="v-here" class="btn red">Ik sta hier</button>
+          <button id="v-new" class="btn white">Maak event</button>
         </div>
       </section>
 
@@ -101,6 +100,7 @@
           <button class="fav" id="p-fav" aria-label="Favoriet"><svg viewBox="0 0 24 24"><path d="M12 3.5l2.6 5.4 5.9.8-4.3 4.1 1.1 5.9L12 16.9l-5.3 2.8 1.1-5.9-4.3-4.1 5.9-.8z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></button>
           <button id="p-share" class="share">Deel</button>
         </header>
+        <div id="p-rooms" class="hidden"></div>
         <div id="plan-wrap">
           <div id="plan-card">
             <div id="plan-svg"></div>
@@ -109,41 +109,32 @@
           </div>
         </div>
         <div class="tools">
-          <button class="tool active" data-tool="dot" title="Puntje">
-            <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" fill="currentColor"/></svg><span>Punt</span>
-          </button>
-          <button class="tool" data-tool="pen" title="Pen">
-            <svg viewBox="0 0 24 24"><path d="M4 20l4-1 10-10-3-3L5 16z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Pen</span>
-          </button>
-          <button class="tool" data-tool="undo" title="Ongedaan">
-            <svg viewBox="0 0 24 24"><path d="M9 7H4v5M4.5 12A8 8 0 1 1 6 17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Terug</span>
-          </button>
-          <button class="tool" data-tool="clear" title="Wis">
-            <svg viewBox="0 0 24 24"><path d="M5 7h14M9 7V4h6v3M7 7l1 13h8l1-13" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg><span>Wis</span>
-          </button>
-          <button class="tool" data-tool="report" title="Klopt niet">
-            <svg viewBox="0 0 24 24"><path d="M12 3 2 21h20L12 3z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M12 10v5M12 18v.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>Klopt niet</span>
-          </button>
+          <button class="tool active" data-tool="dot" title="Puntje"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="5" fill="currentColor"/><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/></svg><span>Punt</span></button>
+          <button class="tool" data-tool="pen" title="Pen"><svg viewBox="0 0 24 24"><path d="M4 20l4-1 10-10-3-3L5 16z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg><span>Pen</span></button>
+          <button class="tool" data-tool="undo" title="Ongedaan"><svg viewBox="0 0 24 24"><path d="M9 7H4v5M4.5 12A8 8 0 1 1 6 17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Terug</span></button>
+          <button class="tool" data-tool="clear" title="Wis"><svg viewBox="0 0 24 24"><path d="M5 7h14M9 7V4h6v3M7 7l1 13h8l1-13" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg><span>Wis</span></button>
+          <button class="tool" data-tool="report" title="Klopt niet"><svg viewBox="0 0 24 24"><path d="M12 3 2 21h20L12 3z" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/><path d="M12 10v5M12 18v.5" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><span>Klopt niet</span></button>
         </div>
       </section>
 
-      <!-- EVENT: wie, waar, en de feed -->
+      <!-- EVENT: kleurvlak, wie gaat, feed, twee knoppen -->
       <section id="view-event" class="view">
-        <header class="top plan-top">
-          <button class="back" data-back="home" aria-label="Terug">‹</button>
-          <div class="venue-title">
-            <h2 id="e-title"></h2>
-            <p id="e-sub" class="sub"></p>
+        <header class="e-head" id="e-head">
+          <div class="e-bar">
+            <button class="back" data-back="home" aria-label="Terug">‹</button>
+            <button id="e-more" class="round" aria-label="Meer">···</button>
           </div>
-          <button id="e-more" class="round" aria-label="Meer">···</button>
+          <p class="eyebrow" id="e-when"></p>
+          <h2 id="e-title" class="display"></h2>
+          <p id="e-sub" class="sub"></p>
         </header>
-        <div id="e-members" class="members"></div>
+        <div class="e-who"><p class="label">Wie gaat</p><div id="e-members" class="members"></div></div>
         <div id="e-notify" class="notify hidden"></div>
         <div id="e-feed" class="feed"></div>
         <div id="e-rate" class="e-rate hidden"></div>
         <div class="e-actions">
-          <button id="e-ping" class="act ghost"><svg viewBox="0 0 24 24"><path d="M12 3a6 6 0 0 0-6 6v3.5L4 16h16l-2-3.5V9a6 6 0 0 0-6-6zM9.5 19a2.5 2.5 0 0 0 5 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Waar zijn jullie?</button>
-          <button id="e-pin" class="act hot"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="currentColor"/><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2.2"/></svg>Ik sta hier</button>
+          <button id="e-ping" class="act ghost"><svg viewBox="0 0 24 24"><path d="M12 3a6 6 0 0 0-6 6v3.5L4 16h16l-2-3.5V9a6 6 0 0 0-6-6zM9.5 19a2.5 2.5 0 0 0 5 0" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linejoin="round"/></svg>Waar zijn jullie?</button>
+          <button id="e-pin" class="act hot"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="currentColor"/><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="2.4"/></svg>Ik sta hier</button>
         </div>
       </section>
 
@@ -151,13 +142,13 @@
       <section id="view-event-new" class="view">
         <header class="top plan-top">
           <button class="back" data-back="home" aria-label="Terug">‹</button>
-          <div class="venue-title"><h2>Nieuw event</h2><p class="sub">Een avond uit met je groep</p></div>
         </header>
         <form id="ne-form" class="form" autocomplete="off">
-          <label class="field">
+          <h2 class="display form-title">Nieuw event</h2>
+          <div class="field">
             <span>Club</span>
             <button type="button" id="ne-venue" class="picker">Kies een club</button>
-          </label>
+          </div>
           <div id="ne-agenda-wrap" class="field hidden">
             <span>Wat ga je doen?</span>
             <div id="ne-agenda" class="agenda"></div>
@@ -172,20 +163,33 @@
           </div>
           <label class="field"><span>Naam <em>(mag leeg)</em></span><input id="ne-title" type="text" maxlength="60" placeholder="Avond in …"></label>
           <div class="field">
-            <span>Vrienden</span>
+            <span>Wie gaan er mee?</span>
             <div id="ne-friends" class="choice"></div>
           </div>
           <button type="submit" class="cta" id="ne-save">Maak event</button>
         </form>
       </section>
 
+      <!-- MIJN KAART: QR-code om in de club te laten scannen -->
+      <section id="view-card" class="view">
+        <header class="top plan-top">
+          <button class="back" data-back="home" aria-label="Terug">‹</button>
+          <div class="venue-title"><h2>Mijn kaart</h2><p class="sub">Laat scannen, dan zijn jullie vrienden</p></div>
+        </header>
+        <div class="mycard-wrap"><div class="mycard" id="mycard"></div></div>
+        <div class="actionbar">
+          <button id="c-wa" class="btn white">WhatsApp</button>
+          <button id="c-copy" class="btn ghost">Kopieer link</button>
+        </div>
+      </section>
+
       <!-- OVER -->
       <section id="view-about" class="view">
         <header class="top plan-top">
           <button class="back" data-back="home" aria-label="Terug">‹</button>
-          <div class="venue-title"><h2>Over</h2></div>
         </header>
         <div class="about">
+          <h2 class="display">Over</h2>
           <p><strong>Ik sta hier</strong> is een plattegrond-app voor het uitgaan in Amsterdam. Elke zaal is versimpeld tot wat je nodig hebt om aan te wijzen waar je staat: podium of DJ, bars, ingang, trap.</p>
           <p>Zet je puntje, deel het plaatje. Werkt ook zonder bereik: de plattegronden zitten in de app.</p>
           <p><strong>Events en vrienden.</strong> Maak een event voor je avond, nodig je vrienden uit en tik in de club op <em>Waar sta je?</em>. Met <em>Waar zijn jullie?</em> krijgt je groep een melding; met <em>Ik sta hier</em> ziet iedereen je puntje op de plattegrond. Je account is een gebruikersnaam met wachtwoord, zonder e-mail of telefoonnummer, zodat hij op al je toestellen werkt. De app gebruikt geen GPS: alleen de plek die je zelf aantikt gaat naar je groep. Zonder bereik wacht je puntje en gaat het vanzelf zodra je weer verbinding hebt.</p>
@@ -209,6 +213,7 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="config.js"></script>
 <script src="plan.js"></script>
+<script src="qr.js"></script>
 <script src="app.js"></script>
 <script src="demo.js"></script>
 <script src="social.js"></script>

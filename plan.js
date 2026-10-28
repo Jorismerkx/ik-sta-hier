@@ -175,8 +175,9 @@
       if (d.small) { out.push(`<circle cx="${d.x}" cy="${d.y}" r="11" fill="#fff" stroke="#000" stroke-width="3" opacity=".75"/>`); return; }
       const r = d.focus ? 30 : 24;
       if (d.focus) out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r + 18}" fill="none" stroke="#fff" stroke-width="4" opacity=".8"/>`);
-      out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r}" fill="#fff" stroke="#000" stroke-width="4"/>`);
-      out.push(`<text x="${d.x}" y="${d.y + r * 0.36}" fill="#000" font-size="${r * 0.9}" font-weight="900" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif">${esc(d.initials || '')}</text>`);
+      out.push(`<circle cx="${d.x}" cy="${d.y}" r="${r}" fill="${d.color || '#fff'}" stroke="${d.color ? '#fff' : '#000'}" stroke-width="${d.color ? 6 : 4}"/>`);
+      const ini = d.initials || '';
+      out.push(`<text x="${d.x}" y="${d.y + r * 0.36}" fill="${d.color ? '#fff' : '#000'}" font-size="${r * (ini.length > 2 ? 0.66 : 0.9)}" font-weight="900" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif">${esc(ini)}</text>`);
       if (d.name) out.push(T(d.x, d.y - r - (d.focus ? 30 : 14), d.name, d.focus ? 30 : 22, 800));
     });
 

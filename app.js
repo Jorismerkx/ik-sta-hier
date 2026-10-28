@@ -1,4 +1,4 @@
-/* app.js — Ik sta hier */
+/* app.js — Ik sta hier: onboarding, lijst, kaart, venuepagina en plattegrond. Vrienden en events staan in social.js. */
 (function () {
   const $ = s => document.querySelector(s);
   const $$ = s => Array.from(document.querySelectorAll(s));
@@ -10,6 +10,8 @@
   let area = 'Alle';
   const AREAS = ['Alle', 'Centrum', 'Noord', 'West', 'Oost', 'Zuid', 'Zuidoost', 'Rand'];
   const AREA_MAP = { 'Sloterdijk': 'West', 'Westpoort': 'West', 'Nieuw-West': 'West', 'Houthavens': 'West', 'De Baarsjes': 'West', 'Zeeburgereiland': 'Oost', 'Overamstel': 'Oost', 'Zaandam': 'Rand', 'Halfweg': 'Rand', 'Amstelveen': 'Rand' };
+  const TYPES = { Clubs: v => v.type === 'club' || v.type === 'twijfel' || !v.type, Bars: v => v.type === 'bar', Podia: v => v.type === 'podium' };
+  const KIND = { club: 'Club', twijfel: 'Club', bar: 'Bar', podium: 'Podium' };
 
   // ---------- helpers ----------
   const norm = s => (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
@@ -24,14 +26,31 @@
   }
   const colorOf = v => v.color || Plan.colorFor(v.name);
   const photoOf = v => v.photo ? `img/venues/${v.id}.jpg` : null;
-  function swatch(v, cls = 'swatch') {
-    const p = photoOf(v);
-    return p ? `<div class="${cls} photo" style="background-image:url('${p}');background-color:${colorOf(v)}">${initials(v.name)}</div>`
-             : `<div class="${cls}" style="background:${colorOf(v)}">${initials(v.name)}</div>`;
-  }
+  const kindOf = v => KIND[v.type] || 'Club';
   const roomsLabel = v => (v.rooms || []).length === 1 ? '1 zaal' : `${(v.rooms || []).length} zalen`;
   const areaGroup = v => AREA_MAP[v.area] || (v.area || '').split(' ')[0];
   const esc = s => String(s || '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const thumbs = new Map();
+  /** Vlakje in de clubkleur met de mini-plattegrond van de eerste zaal. */
+  function thumb(v, cls = 'thumb-sq') {
+    if (!thumbs.has(v.id)) thumbs.set(v.id, (v.rooms || [])[0] ? Plan.render(v, v.rooms[0], { mini: true }) : '');
+    return `<div class="${cls}" style="background:${colorOf(v)}">${thumbs.get(v.id)}</div>`;
+  }
+  const swatch = v => thumb(v);
+
+  // programma per club (data/agenda.json, tools/agenda.py)
+  let agenda = null;
+  async function loadAgenda() {
+    if (!agenda) { try { agenda = await fetch('data/agenda.json').then(r => (r.ok ? r.json() : {})); } catch { agenda = {}; } }
+    return agenda;
+  }
+  const pad = n => String(n).padStart(2, '0');
+  const todayStr = (d = new Date()) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
+  /** Wit datumblok: dag en maand. */
+  function datebox(date, live) {
+    const d = new Date(date + 'T12:00:00');
+    return `<span class="datebox ${live ? 'live' : ''}"><b>${d.getDate()}</b><i>${d.toLocaleDateString('nl-NL', { month: 'short' }).replace('.', '')}</i></span>`;
+  }
 
   // ---------- views ----------
   function show(id) {
@@ -44,13 +63,45 @@
   $('#info').addEventListener('click', () => show('about'));
   $('#about-mail').href = `mailto:${FEEDBACK_MAIL}?subject=${encodeURIComponent('Ik sta hier: feedback')}`;
 
-  // ---------- welkom ----------
-  function buildWall() {
-    const withPhoto = VENUES.filter(v => v.photo);
-    const pick = withPhoto.sort(() => Math.random() - 0.5).slice(0, 18);
-    $('#wall').innerHTML = pick.map(v => `<div style="background-image:url('${photoOf(v)}')"></div>`).join('');
+  // ---------- onboarding: drie kleurvlakken ----------
+  const OB = [
+    { pick: ['paradiso', 'melkweg'], text: 'Zie waar je vrienden staan', sub: 'Elke club in Amsterdam als plattegrond. Je vrienden zijn de bolletjes.',
+      dots: [{ x: 330, y: 720, initials: 'JM' }, { x: 560, y: 790, initials: 'SA' }, { x: 440, y: 1010, initials: 'MO' }] },
+    { pick: ['shelter', 'bitterzoet'], text: 'Zet je puntje', sub: 'Tik op de plattegrond waar je staat. Je groep ziet het meteen, ook als je bereik slecht is.',
+      dots: [{ x: 450, y: 860, initials: 'JIJ', color: '#ff2d2d', focus: true }] },
+    { pick: ['melkweg', 'paradiso'], text: 'Ping zonder te typen', sub: 'Eén tik op "Waar zijn jullie?" en je hele groep trilt. Geen chat, geen gedoe.', ping: true,
+      dots: [{ x: 380, y: 900, initials: 'JM', focus: true, name: 'JONAS' }] },
+  ];
+  let obIndex = 0;
+  function buildOnboarding() {
+    const slides = OB.map((s, i) => {
+      const v = s.pick.map(id => VENUES.find(x => x.id === id)).find(Boolean) || VENUES.filter(x => x.basis === 'plattegrond')[i] || VENUES[i];
+      if (!v || !v.rooms.length) return '';
+      s.color = colorOf(v);
+      const room = v.rooms.reduce((a, r) => ((r.features || []).length > (a.features || []).length ? r : a), v.rooms[0]);
+      return `<div class="ob-slide" style="--c:${s.color}">
+        <div class="ob-plan">${Plan.render(v, room, { noFooter: true, dots: s.dots })}
+          ${s.ping ? '<div class="ob-ping"><span class="av" style="background:#000">JM</span><strong>Jonas: waar zijn jullie?</strong><span>Stuur mijn plek</span></div>' : ''}</div>
+        <div class="ob-text"><h1 class="display">${esc(s.text)}</h1><p>${esc(s.sub)}</p></div></div>`;
+    }).join('');
+    $('#ob').innerHTML = slides;
+    $('#ob-dots').innerHTML = OB.map((_, i) => `<i class="${i ? '' : 'on'}"></i>`).join('');
+    obGo(0, false);
   }
-  $('#start').addEventListener('click', () => { store.set('welcomed', true); show('home'); });
+  function obGo(i, scroll = true) {
+    obIndex = Math.max(0, Math.min(OB.length - 1, i));
+    $('#view-welcome').style.setProperty('--ob-c', OB[obIndex].color || '#ff1a1a');
+    $$('#ob-dots i').forEach((d, j) => d.classList.toggle('on', j === obIndex));
+    $('#ob-next').textContent = obIndex === OB.length - 1 ? 'Begin' : 'Volgende';
+    if (scroll) $('#ob').scrollTo({ left: obIndex * $('#ob').clientWidth, behavior: 'smooth' });
+  }
+  $('#ob').addEventListener('scroll', () => {
+    const i = Math.round($('#ob').scrollLeft / ($('#ob').clientWidth || 1));
+    if (i !== obIndex) obGo(i, false);
+  }, { passive: true });
+  const begin = () => { store.set('welcomed', true); show('home'); };
+  $('#ob-next').addEventListener('click', () => (obIndex === OB.length - 1 ? begin() : obGo(obIndex + 1)));
+  $('#start').addEventListener('click', begin);
 
   // ---------- tabs (onderbalk) ----------
   function selectTab(tab) {
@@ -65,7 +116,7 @@
   }
   $$('.tab').forEach(t => t.addEventListener('click', () => selectTab(t.dataset.tab)));
 
-  // ---------- favorieten (chip in de lijst) ----------
+  // ---------- favorieten ----------
   const FAV = 'Favorieten';
   const favs = () => store.get('favs', []);
   const isFav = v => favs().includes(v.id);
@@ -83,15 +134,16 @@
   $('#v-fav').addEventListener('click', () => toggleFav(current.venue));
   $('#p-fav').addEventListener('click', () => toggleFav(current.venue));
 
-  // ---------- chips ----------
+  // ---------- chips: soort, favorieten, wijk ----------
   function renderChips() {
     const counts = {}; VENUES.forEach(v => { const g = areaGroup(v); counts[g] = (counts[g] || 0) + 1; });
-    const chips = ['Alle', FAV, ...AREAS.slice(1).filter(a => counts[a])];
-    $('#chips').innerHTML = chips.map(a => `<button class="chip ${a === area ? 'active' : ''} ${a === FAV ? 'fav-chip' : ''}" data-a="${a}">${a === FAV ? '★ ' : ''}${a}</button>`).join('');
-    $$('.chip').forEach(c => c.addEventListener('click', () => { area = c.dataset.a; renderChips(); renderList(); applyMapFilter(); }));
+    const chip = a => `<button class="chip ${a === area ? 'active' : ''} ${a === FAV ? 'fav-chip' : ''}" data-a="${a}">${a === FAV ? '★ ' : ''}${a}</button>`;
+    const types = Object.keys(TYPES).filter(t => VENUES.some(TYPES[t]));
+    $('#chips').innerHTML = ['Alle', FAV, ...types].map(chip).join('') + '<span class="chip-sep"></span>' + AREAS.slice(1).filter(a => counts[a]).map(chip).join('');
+    $$('#chips .chip').forEach(c => c.addEventListener('click', () => { area = c.dataset.a; renderChips(); renderList(); applyMapFilter(); }));
   }
 
-  // ---------- search ----------
+  // ---------- zoeken ----------
   const q = $('#q');
   q.addEventListener('input', () => { $('.search').classList.toggle('has-q', !!q.value); renderList(); applyMapFilter(); });
   $('#q-clear').addEventListener('click', () => { q.value = ''; q.dispatchEvent(new Event('input')); q.blur(); });
@@ -99,18 +151,19 @@
   function filtered() {
     const s = norm(q.value.trim());
     const fav = new Set(favs());
-    return VENUES.filter(v => (area === 'Alle' || (area === FAV ? fav.has(v.id) : areaGroup(v) === area)) &&
+    const ok = v => area === 'Alle' || (area === FAV ? fav.has(v.id) : TYPES[area] ? TYPES[area](v) : areaGroup(v) === area);
+    return VENUES.filter(v => ok(v) &&
       (!s || norm(v.name).includes(s) || norm(v.aka).includes(s) || norm(v.area).includes(s) || norm(v.address).includes(s) || (v.rooms || []).some(r => norm(r.name).includes(s))));
   }
 
-  // ---------- list ----------
+  // ---------- lijst ----------
   function renderList() {
     const list = $('#list');
     const items = filtered();
     let html = '';
     const recent = store.get('recent', []).map(id => VENUES.find(v => v.id === id)).filter(Boolean);
     if (recent.length && !q.value && area === 'Alle') {
-      html += `<div class="letter">Recent</div><div class="recent-strip">${recent.map(v => `<button class="recent" data-id="${v.id}">${swatch(v)}<div class="name">${esc(v.name)}</div></button>`).join('')}</div>`;
+      html += `<div class="letter">Recent</div><div class="recent-strip">${recent.map(v => `<button class="recent" data-id="${v.id}" style="background:${colorOf(v)}"><span>${esc(v.name)}</span></button>`).join('')}</div>`;
     }
     if (!items.length) {
       list.innerHTML = html + (area === FAV && !q.value
@@ -123,22 +176,23 @@
     const keys = Object.keys(groups).sort((a, b) => a === '#' ? 1 : b === '#' ? -1 : a.localeCompare(b));
     html += keys.map(k => `<div class="letter" id="L-${k}">${k}</div>` + groups[k].map(v => `
       <button class="row" data-id="${v.id}">
-        ${swatch(v)}
+        ${thumb(v)}
         <div class="meta"><div class="name">${esc(v.name)}</div><div class="info">${esc(v.area || '')} · ${roomsLabel(v)}</div></div>
+        ${v.type === 'bar' || v.type === 'podium' ? `<span class="tag">${kindOf(v)}</span>` : ''}
         <div class="chev">›</div>
       </button>`).join('')).join('');
     list.innerHTML = html;
     $$('#list .row, #list .recent').forEach(r => r.addEventListener('click', () => openVenue(r.dataset.id)));
   }
 
-  // ---------- map ----------
+  // ---------- kaart ----------
   function ensureMap() {
     if (map) return;
     map = L.map('map', { zoomControl: false, attributionControl: true }).setView([52.3702, 4.8952], 12);
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap', className: 'dark-tiles' }).addTo(map);
     VENUES.forEach(v => {
       if (typeof v.lat !== 'number' || typeof v.lng !== 'number') return;
-      const icon = L.divIcon({ className: '', html: `<div class="pin" style="background:${colorOf(v)}"></div>`, iconSize: [14, 14], iconAnchor: [7, 7] });
+      const icon = L.divIcon({ className: '', html: `<div class="pin" style="background:${colorOf(v)}"></div>`, iconSize: [16, 16], iconAnchor: [8, 8] });
       const mk = L.marker([v.lat, v.lng], { icon }).addTo(map);
       mk.venue = v;
       mk.on('click', () => selectMarker(mk));
@@ -152,7 +206,7 @@
     selMarker = mk; mk.getElement().firstChild.classList.add('sel');
     const v = mk.venue;
     const card = $('#map-card');
-    card.innerHTML = `${swatch(v)}<div class="meta"><div class="name">${esc(v.name)}</div><div class="info">${esc(v.address || '')}</div></div><button class="go">Open</button>`;
+    card.innerHTML = `${thumb(v)}<div class="meta"><div class="name">${esc(v.name)}</div><div class="info">${esc(v.address || '')}</div></div><button class="go">Open</button>`;
     card.classList.remove('hidden');
     card.querySelector('.go').addEventListener('click', () => openVenue(v.id));
     map.panTo(mk.getLatLng());
@@ -172,40 +226,70 @@
     }, () => toast('Locatie niet beschikbaar'), { enableHighAccuracy: true, timeout: 8000 });
   });
 
-  // ---------- venue ----------
+  // ---------- venuepagina ----------
   function remember(v) {
     const r = store.get('recent', []).filter(id => id !== v.id); r.unshift(v.id); store.set('recent', r.slice(0, 8));
   }
-  function openVenue(id, opts = {}) {
+  function openVenue(id) {
     const v = VENUES.find(x => x.id === id); if (!v) return;
     current.venue = v; remember(v);
     const rooms = v.rooms || [];
-    if (rooms.length === 1 && !opts.force) { openPlan(v, rooms[0], 'home'); return; }
+    $('#v-hero').style.setProperty('--c', colorOf(v));
+    $('#v-kind').textContent = [kindOf(v), v.area].filter(Boolean).join(' · ');
     $('#v-name').textContent = v.name;
+    $('#v-name').classList.toggle('long', v.name.length > 14 || v.name.split(' ').some(w => w.length > 9));
     $('#v-addr').textContent = v.address || '';
-    const hero = $('#v-hero');
-    hero.style.backgroundImage = v.photo ? `url('${photoOf(v)}')` : 'none';
-    hero.style.backgroundColor = colorOf(v);
-    const meta = [];
-    meta.push(`<span class="pill">${roomsLabel(v)}</span>`);
+
+    const meta = [`<span class="pill">${roomsLabel(v)}</span>`];
     if (v.capacity) meta.push(`<span class="pill">${v.capacity} pers.</span>`);
+    if (v.verified) meta.push('<span class="pill ok">✓ Van de club zelf</span>');
+    else if (v.basis === 'plattegrond' || v.confidence === 'hoog') meta.push('<span class="pill ok">Echte plattegrond</span>');
+    else if (v.confidence === 'laag') meta.push('<span class="pill warn">Indicatief</span>');
     if (v.website) meta.push(`<a class="pill" href="${esc(v.website)}" target="_blank" rel="noopener">Website ↗</a>`);
     if (v.lat) meta.push(`<a class="pill" href="https://maps.apple.com/?q=${encodeURIComponent(v.name)}&ll=${v.lat},${v.lng}" target="_blank" rel="noopener">Route ↗</a>`);
-    if (v.verified) meta.push(`<span class="pill ok">✓ Plattegrond van de club zelf</span>`);
-    else if (v.basis === 'plattegrond' || v.confidence === 'hoog') meta.push(`<span class="pill ok">Echte plattegrond</span>`);
-    else if (v.confidence === 'laag') meta.push(`<span class="pill warn">Indicatief</span>`);
     $('#v-meta').innerHTML = meta.join('');
+
+    // jouw event vanavond in deze club
+    const ev = window.Social && Social.tonightAt(v.id);
+    const tn = $('#v-tonight');
+    tn.classList.toggle('hidden', !ev);
+    if (ev) {
+      tn.innerHTML = `<button class="tonight">${datebox(ev.date, true)}<div class="meta"><strong>${esc(ev.title)}</strong><span>Jouw event vanavond · ${ev.members.length} ${ev.members.length === 1 ? 'persoon' : 'personen'}</span></div><em>Open</em></button>`;
+      tn.querySelector('button').onclick = () => Social.open(ev.id);
+    }
+
     const el = $('#v-rooms');
-    el.innerHTML = `<h3>Zalen</h3>` + rooms.map((r, i) => `<button class="room-card" data-i="${i}"><div class="thumb">${Plan.render(v, r, { mini: true })}</div><div class="cap">${esc(r.name)}</div></button>`).join('')
-      + (v.note || v.confidence === 'laag' ? `<div class="note">${v.confidence === 'laag' ? 'Indicatieve plattegrond, geen officiële tekening gevonden. ' : ''}${esc(v.note || '')}</div>` : '');
+    el.innerHTML = rooms.map((r, i) => `<button class="room-card ${rooms.length === 1 ? 'one' : ''}" data-i="${i}"><div class="thumb" style="background:${colorOf(v)}">${Plan.render(v, r, { mini: true })}</div><div class="cap">${esc(r.name)}</div></button>`).join('');
     $$('#v-rooms .room-card').forEach(b => b.addEventListener('click', () => openPlan(v, rooms[+b.dataset.i], 'venue')));
-    $('.venue-body').scrollTop = 0;
+    const note = (v.confidence === 'laag' ? 'Indicatieve plattegrond, geen officiële tekening gevonden. ' : '') + (v.note || '');
+    $('#v-note').textContent = note; $('#v-note').classList.toggle('hidden', !note);
+
+    $('#v-agenda-wrap').classList.add('hidden');
+    loadAgenda().then(a => {
+      if (current.venue !== v) return;
+      const list = ((a || {})[v.id] || []).filter(e => e.date >= todayStr()).slice(0, 4);
+      $('#v-agenda-wrap').classList.toggle('hidden', !list.length);
+      $('#v-agenda').innerHTML = list.map(e => `<a class="ag-item" href="${esc(e.url)}" target="_blank" rel="noopener">${datebox(e.date)}<div class="meta"><strong>${esc(e.title)}</strong><span>${new Date(e.date + 'T12:00:00').toLocaleDateString('nl-NL', { weekday: 'long' })}${e.time ? ' · ' + e.time : ''}</span></div></a>`).join('');
+    });
+
+    const p = photoOf(v);
+    $('#v-photo-wrap').classList.toggle('hidden', !p);
+    if (p) $('#v-photo').src = p;
+
+    $('#v-scroll').scrollTop = 0;
     location.hash = v.id;
     syncFavButtons();
     show('venue');
   }
+  $('#v-here').addEventListener('click', () => {
+    const v = current.venue; if (!v) return;
+    const ev = window.Social && Social.tonightAt(v.id);
+    if (ev) { Social.here(ev); return; }
+    openPlan(v, v.rooms[0], 'venue');
+  });
+  $('#v-new').addEventListener('click', () => { if (current.venue && window.Social) Social.newEvent(current.venue.id); });
 
-  // ---------- plan + tekenen ----------
+  // ---------- plattegrond + tekenen ----------
   const ink = $('#plan-ink');
   const ctx = ink.getContext('2d');
   let tool = 'dot';
@@ -217,12 +301,19 @@
     current.venue = v; current.room = r; current.ctx = ctx;
     $('#view-plan .back').dataset.back = backTo;
     $('#p-name').textContent = v.name;
-    $('#p-room').textContent = r.name + (v.rooms.length > 1 ? ` · ${v.name}` : '') + (v.confidence === 'laag' ? ' · indicatief' : '');
+    $('#p-room').textContent = r.name + (v.confidence === 'laag' ? ' · indicatief' : '');
     $('#plan-svg').innerHTML = Plan.render(v, r, ctx ? { dots: ctx.dots || [] } : {});
     strokes = []; $('#plan-hint').classList.remove('off');
     $('#plan-hint').textContent = ctx ? (ctx.hint || 'Tik waar je staat, dan Stuur') : 'Tik waar je staat';
     $('#p-share').textContent = ctx ? 'Stuur' : 'Deel';
     $('#p-share').classList.toggle('send', !!ctx);
+    // andere zalen van deze club (alleen buiten een event)
+    const multi = !ctx && v.rooms.length > 1;
+    $('#p-rooms').classList.toggle('hidden', !multi);
+    if (multi) {
+      $('#p-rooms').innerHTML = v.rooms.map((x, i) => `<button class="chip ${x === r ? 'active' : ''}" data-i="${i}">${esc(x.name)}</button>`).join('');
+      $$('#p-rooms .chip').forEach(b => b.onclick = () => openPlan(v, v.rooms[+b.dataset.i], backTo));
+    }
     if (!ctx) location.hash = v.id + '/' + v.rooms.indexOf(r);
     syncFavButtons();
     show('plan');
@@ -247,13 +338,16 @@
     const rect = ink.getBoundingClientRect();
     return [(e.clientX - rect.left) / rect.width * Plan.W, (e.clientY - rect.top) / rect.height * Plan.H];
   }
-  function drawStrokes(c, scale) {
+  /** Jouw puntje: rood met witte rand en een label erboven ("JIJ" in de app, "IK" op het gedeelde plaatje). */
+  function drawStrokes(c, scale, label = 'JIJ') {
     c.lineCap = 'round'; c.lineJoin = 'round';
     strokes.forEach(s => {
       if (s.type === 'dot') {
-        c.beginPath(); c.arc(s.x * scale, s.y * scale, 14 * scale, 0, Math.PI * 2); c.fillStyle = '#fff'; c.fill();
-        c.beginPath(); c.arc(s.x * scale, s.y * scale, 9 * scale, 0, Math.PI * 2); c.fillStyle = '#000'; c.fill();
-        c.beginPath(); c.arc(s.x * scale, s.y * scale, 28 * scale, 0, Math.PI * 2); c.strokeStyle = '#fff'; c.lineWidth = 3 * scale; c.stroke();
+        const x = s.x * scale, y = s.y * scale;
+        c.beginPath(); c.arc(x, y, 34 * scale, 0, Math.PI * 2); c.strokeStyle = 'rgba(255,255,255,.85)'; c.lineWidth = 4 * scale; c.stroke();
+        c.beginPath(); c.arc(x, y, 20 * scale, 0, Math.PI * 2); c.fillStyle = '#ff2d2d'; c.fill(); c.strokeStyle = '#fff'; c.lineWidth = 6 * scale; c.stroke();
+        c.font = `900 ${28 * scale}px -apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif`; c.textAlign = 'center'; c.fillStyle = '#fff';
+        c.fillText(label, x, y - 48 * scale);
       } else {
         c.beginPath(); c.strokeStyle = '#000'; c.lineWidth = 12 * scale;
         s.pts.forEach((p, i) => i ? c.lineTo(p[0] * scale, p[1] * scale) : c.moveTo(p[0] * scale, p[1] * scale));
@@ -287,11 +381,7 @@
     if (t === 'clear') { strokes = []; redraw(); return; }
     if (t === 'report') {
       const v = current.venue, r = current.room;
-      const body = `Venue: ${v.name}
-Zaal: ${r.name}
-
-Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
-`;
+      const body = `Venue: ${v.name}\nZaal: ${r.name}\n\nWat klopt er niet? (stuur ook een foto van de zaal als je die hebt)\n`;
       location.href = `mailto:${FEEDBACK_MAIL}?subject=${encodeURIComponent('Ik sta hier: ' + v.name + ' / ' + r.name)}&body=${encodeURIComponent(body)}`;
       return;
     }
@@ -310,7 +400,7 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
     c.width = Plan.W * scale; c.height = Plan.H * scale;
     const cc = c.getContext('2d');
     cc.drawImage(img, 0, 0, c.width, c.height);
-    drawStrokes(cc, scale);
+    drawStrokes(cc, scale, 'IK');
     URL.revokeObjectURL(url);
     return new Promise(res => c.toBlob(res, 'image/png'));
   }
@@ -360,7 +450,7 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
 
   // ---------- gedeeld met social.js ----------
   window.App = {
-    $, $$, esc, toast, store, show, swatch, initials, openPlan, openVenue, selectTab,
+    $, $$, esc, toast, store, show, swatch, thumb, datebox, colorOf, initials, openPlan, openVenue, selectTab, loadAgenda,
     venues: () => VENUES, venue: id => VENUES.find(v => v.id === id),
     welcomed: () => { store.set('welcomed', true); },
   };
@@ -370,7 +460,7 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
     const [vid, ri] = hash.split('/');
     if (vid && VENUES.find(v => v.id === vid)) {
       const v = VENUES.find(x => x.id === vid);
-      if (ri !== undefined && v.rooms[+ri]) openPlan(v, v.rooms[+ri], v.rooms.length > 1 ? 'venue' : 'home'); else openVenue(vid);
+      if (ri !== undefined && v.rooms[+ri]) { openVenue(vid); openPlan(v, v.rooms[+ri], 'venue'); } else openVenue(vid);
     } else show(store.get('welcomed') ? 'home' : 'welcome');
   }
 
@@ -379,9 +469,9 @@ Wat klopt er niet? (stuur ook een foto van de zaal als je die hebt)
     VENUES = data.map(v => ({ ...v, id: v.id || norm(v.name).replace(/[^a-z0-9]+/g, '-') }))
       .sort((a, b) => norm(a.name).localeCompare(norm(b.name)));
     const nr = VENUES.reduce((a, v) => a + (v.rooms || []).length, 0);
-    $('#welcome-count').textContent = `${VENUES.length} clubs en venues, ${nr} zalen`;
-    $('#about-stats').textContent = `${VENUES.length} venues, ${nr} zalen. Gesloten clubs staan er niet in.`;
-    renderChips(); renderList(); buildWall(); netState();
+    $('#welcome-count').textContent = `${VENUES.length} clubs, bars en podia · ${nr} zalen`;
+    $('#about-stats').textContent = `${VENUES.length} venues, ${nr} zalen. Gesloten clubs en losse eventlocaties staan er niet in.`;
+    renderChips(); renderList(); buildOnboarding(); netState();
     if (window.Social) Social.init();
     const tab = store.get('tab', 'list');
     selectTab(['list', 'map', 'friends', 'events'].includes(tab) ? tab : 'list');

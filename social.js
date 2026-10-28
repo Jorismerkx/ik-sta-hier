@@ -49,11 +49,15 @@
   // ---------- kleine helpers ----------
   const initials = name => App.initials(name || '?');
   const AV = ['#2e5bff', '#00a651', '#ff6a00', '#7b2cff', '#ff2f8e', '#00a3a3', '#c99a00', '#d6006e', '#0a8cff', '#8a5cff', '#00b36b', '#e0442a'];
+  const ownColor = key => { let h = 7; for (const c of String(key)) h = (h * 33 + c.charCodeAt(0)) >>> 0; return AV[h % AV.length]; };
   const avColor = key => {
     const i = open && open.members ? open.members.findIndex(m => m.id === key) : -1; // binnen een event: iedereen een eigen kleur
-    if (i >= 0) return AV[i % AV.length];
-    let h = 7; for (const c of String(key)) h = (h * 33 + c.charCodeAt(0)) >>> 0; return AV[h % AV.length];
+    return i >= 0 ? AV[i % AV.length] : ownColor(key);
   };
+  const QR_ICON = '<svg viewBox="0 0 24 24"><path d="M4 4h6v6H4zM14 4h6v6h-6zM4 14h6v6H4z" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M14 14h2v2h-2zM18 14h2v2h-2zM14 18h2v2h-2zM18 18h2v2h-2zM16 16h2v2h-2z" fill="currentColor"/></svg>';
+  const LINK_ICON = '<svg viewBox="0 0 24 24"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1 1M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1-1" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>';
+  const SHARE_ICON = '<svg viewBox="0 0 24 24"><path d="M12 15V3M7.5 7.5 12 3l4.5 4.5M5 12v7.5h14V12" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  const LOCK_ICON = '<svg viewBox="0 0 24 24"><rect x="5" y="10.5" width="14" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8 10.5V8a4 4 0 0 1 8 0v2.5" fill="none" stroke="currentColor" stroke-width="2"/></svg>';
   const avatar = (u, cls = 'av') => `<span class="${cls}" style="background:${avColor(u.id || u.name)}">${esc(initials(u.name))}</span>`;
   const pad = n => String(n).padStart(2, '0');
   const today = (d = new Date()) => `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}`;
@@ -189,7 +193,7 @@
     if (!ev) return;
     buzz(SOS); beep();
     const el = $('#alert');
-    el.innerHTML = `${avatar(item.user)}<div class="al-text"><strong>${esc(item.user.name)} zoekt jullie</strong><span>${esc(ev.venueName || '')}</span></div>
+    el.innerHTML = `${avatar(item.user)}<div class="al-text"><strong>${esc(item.user.name)}: waar zijn jullie?</strong><span>${esc(ev.venueName || '')}</span></div>
       <button class="al-go">Stuur mijn plek</button><button class="al-x" aria-label="Sluit">×</button>`;
     el.classList.remove('hidden'); el.classList.add('show');
     el.querySelector('.al-go').onclick = () => { hideAlarm(); openEvent(ev.id, { then: 'antwoord' }); };
@@ -236,7 +240,7 @@
     const v = venueOf(ev); if (!v) { toast('Club niet gevonden'); return; }
     const rooms = roomsOf(ev);
     if (rooms.length === 1) return planFor(ev, rooms[0]);
-    sheet(`<h3>In welke zaal sta je?</h3><div class="room-pick">${rooms.map(i => `<button class="room-card" data-i="${i}"><div class="thumb">${Plan.render(v, v.rooms[i], { mini: true })}</div><div class="cap">${esc(v.rooms[i].name)}</div></button>`).join('')}</div>`,
+    sheet(`<h3>In welke zaal sta je?</h3><div class="room-pick">${rooms.map(i => `<button class="room-card" data-i="${i}"><div class="thumb" style="background:${App.colorOf(v)}">${Plan.render(v, v.rooms[i], { mini: true })}</div><div class="cap">${esc(v.rooms[i].name)}</div></button>`).join('')}</div>`,
       el => el.querySelectorAll('.room-card').forEach(b => b.addEventListener('click', () => { closeSheet(); planFor(ev, +b.dataset.i); })));
   }
   function planFor(ev, i, focus) {
@@ -270,7 +274,35 @@
     window.open(`https://wa.me/?text=${encodeURIComponent(`${text} ${url}`)}`, '_blank', 'noopener');
   }
   const inviteEvent = ev => share(`Ga je mee? ${ev.title}: ${ev.venueName}, ${whenLabel(ev).toLowerCase()}. Doe mee in Ik sta hier, dan vinden we elkaar binnen:`, `${WEB}#e/${ev.invite}`);
-  const inviteFriend = () => share(`Voeg me toe in Ik sta hier, dan vinden we elkaar in de club:`, `${WEB}#vriend/${me.code}`);
+  const friendLink = () => `${WEB}#vriend/${me.code}`;
+  const inviteFriend = () => share(`Voeg me toe in Ik sta hier, dan vinden we elkaar in de club:`, friendLink());
+  async function copyLink() {
+    try { await navigator.clipboard.writeText(friendLink()); toast('Link gekopieerd'); }
+    catch { toast(friendLink()); }
+  }
+  async function shareLink() {
+    const text = 'Voeg me toe in Ik sta hier, dan vinden we elkaar in de club:';
+    if (native() && Capacitor.Plugins.Share) { try { await Capacitor.Plugins.Share.share({ text: `${text} ${friendLink()}`, dialogTitle: 'Deel je link' }); } catch {} return; }
+    if (navigator.share) { try { await navigator.share({ title: 'Ik sta hier', text, url: friendLink() }); } catch {} return; }
+    copyLink();
+  }
+
+  // ---------- mijn kaart: QR-code om in de club te laten scannen ----------
+  async function openCard() {
+    await ensureMe('Maak eerst je profiel, dan krijg je je eigen kaart.');
+    let qr = '';
+    try { qr = QR.svg(friendLink()); } catch { qr = ''; }
+    const c = $('#mycard');
+    c.style.setProperty('--c', ownColor(me.id));
+    c.innerHTML = `<div class="brand-s">Ik sta hier<span class="dot">.</span></div>
+      <div class="who">${avatar(me)}<div><h2 class="display">${esc(me.name)}</h2><div class="user">@${esc(me.username || '')}</div></div></div>
+      ${qr ? `<div class="qr">${qr}</div>` : ''}
+      <div class="code"><span>Code</span><b>${esc(me.code)}</b></div>
+      <p class="how">Scan met je camera of vul de code in bij Vrienden. Dan zien jullie elkaar op de plattegrond.</p>`;
+    App.show('card');
+  }
+  $('#c-wa').addEventListener('click', () => me && inviteFriend());
+  $('#c-copy').addEventListener('click', () => me && copyLink());
 
   // ---------- meldingen (web-push) ----------
   const isIOS = /iphone|ipad|ipod/i.test(navigator.userAgent);
@@ -301,7 +333,7 @@
 
   // ---------- vrienden ----------
   function intro(title, text) {
-    return `<div class="hello"><div class="hello-dot"></div><h3>${title}</h3><p>${text}</p><button class="cta" data-act="profiel">Maak je profiel</button>
+    return `<div class="hello"><div class="hello-dot"></div><h3 class="display">${title}</h3><p>${text}</p><button class="cta" data-act="profiel">Maak je profiel</button>
       <p class="fine">Gebruikersnaam en wachtwoord. Geen e-mail, geen telefoonnummer, geen GPS.</p></div>`;
   }
   function renderFriends() {
@@ -309,12 +341,17 @@
     if (!me) { el.innerHTML = intro('Vind elkaar in de club', 'Voeg je vrienden toe, maak een event voor je avond en zie op de plattegrond waar iedereen staat.'); return bind(el); }
     el.innerHTML = `
       ${reachable ? '' : '<div class="offline-note">Geen verbinding met de server. Je lijst ververst zodra je weer online bent.</div>'}
-      <div class="me-card">
-        ${avatar(me, 'av big')}
-        <div class="me-meta"><button class="me-name" data-act="rename">${esc(me.name)}</button><div class="me-code">@${esc(me.username)} · code <strong>${esc(me.code)}</strong></div></div>
+      <div class="me-card" style="--c:${ownColor(me.id)}">
+        <div class="me-row">
+          ${avatar(me, 'av big')}
+          <div class="me-meta"><button class="me-name" data-act="rename">${esc(me.name)}</button><div class="me-code">@${esc(me.username)} · code <strong>${esc(me.code)}</strong></div></div>
+        </div>
+        <button class="btn white block" data-act="card">${QR_ICON}Mijn kaart</button>
       </div>
-      <div class="btn-row">
-        <button class="pill-btn wa" data-act="invite-friend">${waIcon()}Stuur je link via WhatsApp</button>
+      <div class="share-row">
+        <button class="share-btn" data-act="invite-friend"><span>${waIcon()}</span><span>WhatsApp</span></button>
+        <button class="share-btn" data-act="copy-link"><span>${LINK_ICON}</span><span>Kopieer link</span></button>
+        <button class="share-btn" data-act="share-link"><span>${SHARE_ICON}</span><span>Delen</span></button>
       </div>
       <form class="add-friend" data-act="add">
         <input name="who" maxlength="20" placeholder="Gebruikersnaam of code" autocapitalize="off" autocorrect="off" spellcheck="false" autocomplete="off">
@@ -323,7 +360,8 @@
       ${pushBanner() ? `<div class="notify">${pushBanner()}</div>` : ''}
       <div class="letter">Vrienden${friends.length ? ` · ${friends.length}` : ''}</div>
       ${friends.length ? friends.map(f => `<div class="row friend">${avatar(f)}<div class="meta"><div class="name">${esc(f.name)}</div></div><button class="x" data-del="${f.id}" aria-label="Verwijder">×</button></div>`).join('')
-        : `<div class="empty small">Nog geen vrienden. Stuur je link via WhatsApp: wie hem opent, staat meteen in je lijst. Of vul hun gebruikersnaam hierboven in.</div>`}
+        : `<div class="empty small">Nog geen vrienden. Stuur je link via WhatsApp of laat je kaart scannen: wie hem opent, staat meteen in je lijst.</div>`}
+      <div class="privacy">${LOCK_ICON}<span>De app gebruikt geen GPS. Je plek gaat alleen naar je event als jij hem stuurt, en je puntje verdwijnt om 08:00.</span></div>
       <button class="sheet-row center logout" data-act="logout">Uitloggen</button>`;
     bind(el);
   }
@@ -339,18 +377,19 @@
     const komend = events.filter(e => !isActive(e) && e.date >= t).reverse();
     const geweest = events.filter(e => !isActive(e) && e.date < t).slice(0, 6);
     const card = ev => {
-      const v = venueOf(ev);
+      const v = venueOf(ev), live = isActive(ev), past = !live && ev.date < t;
       const last = ev.last ? lastLine(ev.last) : '';
-      return `<button class="ev-card ${isActive(ev) ? 'live' : ''}" data-ev="${ev.id}">
-        ${v ? App.swatch(v) : '<div class="swatch"></div>'}
-        <div class="meta"><div class="name">${esc(ev.title)}</div><div class="info">${esc(whenLabel(ev))} · ${esc(ev.venueName)}${ev.rating && ev.rating.avg ? ` · <b class="score">★ ${String(ev.rating.avg).replace('.', ',')}</b>` : ''}</div>
-        <div class="faces">${ev.members.slice(0, 6).map(m => avatar(m, 'av tiny')).join('')}${ev.members.length > 6 ? `<span class="more">+${ev.members.length - 6}</span>` : ''}${last ? `<span class="last">${esc(last)}</span>` : ''}</div></div>
-        <div class="chev">›</div></button>`;
+      return `<button class="ev-card ${live ? 'live' : ''} ${past ? 'past' : ''}" data-ev="${ev.id}" style="--c:${v ? App.colorOf(v) : '#333'}">
+        <div class="meta">${live ? '<span class="live-tag">Live</span>' : ''}<div class="name">${esc(ev.title)}</div>
+          <div class="info">${esc(ev.venueName)}${ev.time ? ' · ' + esc(ev.time) : ''}${ev.rating && ev.rating.avg ? ` · <b class="score">★ ${String(ev.rating.avg).replace('.', ',')}</b>` : ''}</div></div>
+        ${App.datebox(ev.date)}
+        <div class="faces">${ev.members.slice(0, 6).map(m => avatar(m, 'av tiny')).join('')}${ev.members.length > 6 ? `<span class="more">+${ev.members.length - 6}</span>` : ''}${last ? `<span class="last">${esc(last)}</span>` : ''}</div>
+        </button>`;
     };
     el.innerHTML = `
       ${reachable ? '' : '<div class="offline-note">Geen verbinding met de server. Je ziet de laatst bekende stand.</div>'}
       ${DEMO ? `<div class="notify">${pushBanner()}</div>` : ''}
-      <button class="new-ev" data-act="new"><span>+</span>Nieuw event</button>
+      <button class="new-ev btn white block" data-act="new"><span>+</span>Nieuw event</button>
       ${act.length ? `<div class="letter">Vanavond</div>${act.map(card).join('')}` : ''}
       ${komend.length ? `<div class="letter">Komend</div>${komend.map(card).join('')}` : ''}
       ${geweest.length ? `<div class="letter">Geweest</div>${geweest.map(card).join('')}` : ''}
@@ -385,11 +424,15 @@
   function renderEvent() {
     if (!open) return;
     const ev = open, v = venueOf(ev);
+    $('#e-head').style.setProperty('--c', v ? App.colorOf(v) : '#333');
+    $('#e-when').textContent = whenLabel(ev);
     $('#e-title').textContent = ev.title;
     const zalen = ev.rooms.length && v ? ' · ' + ev.rooms.map(i => v.rooms[i] && v.rooms[i].name).filter(Boolean).join(', ') : '';
-    $('#e-sub').textContent = `${whenLabel(ev)} · ${ev.venueName}${zalen}`;
-    $('#e-members').innerHTML = ev.members.map(m => `<div class="mem">${avatar(m)}<span>${esc(m.id === me.id ? 'Jij' : m.name)}</span></div>`).join('')
-      + `<button class="mem add" data-act="invite"><span class="av plus">+</span><span>Uitnodigen</span></button>`
+    $('#e-sub').textContent = `${ev.venueName}${zalen}`;
+    // binnen = de afgelopen 3 uur een puntje gestuurd (groene ring), zoals "Who's in?"
+    const binnen = new Set((ev.feed || []).filter(f => f.kind === 'pin' && Date.now() - f.at < 3 * 3600e3).map(f => f.user.id));
+    $('#e-members').innerHTML = ev.members.map(m => `<div class="mem ${binnen.has(m.id) && !isPast(ev) ? 'in' : ''}">${avatar(m)}<span>${esc(m.id === me.id ? 'Jij' : m.name)}</span>${binnen.has(m.id) && !isPast(ev) ? '<span class="st">binnen</span>' : ''}</div>`).join('')
+      + `<button class="mem add" data-act="invite"><span class="av plus">+</span><span>Nodig uit</span></button>`
       + (ev.link ? `<a class="mem add" href="${esc(ev.link)}" target="_blank" rel="noopener"><span class="av plus">↗</span><span>Programma</span></a>` : '');
     const klaar = isPast(ev);
     const nb = klaar ? '' : pushBanner(); $('#e-notify').innerHTML = nb; $('#e-notify').classList.toggle('hidden', !nb);
@@ -502,14 +545,13 @@
     if (!agenda) { try { agenda = await fetch('data/agenda.json').then(r => (r.ok ? r.json() : {})); } catch { agenda = {}; } }
     return agenda;
   }
-  const CAL = '<svg viewBox="0 0 24 24"><rect x="3.5" y="5" width="17" height="15.5" rx="3" fill="none" stroke="currentColor" stroke-width="2.2"/><path d="M3.5 10h17M8 3v4M16 3v4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>';
   function renderAgenda(v) {
     $('#ne-agenda-wrap').classList.toggle('hidden', !v);
     if (!v) return;
     const list = ((agenda || {})[v.id] || []).filter(e => e.date >= today()).slice(0, 15);
     const dag = e => new Date(e.date + 'T12:00:00').toLocaleDateString('nl-NL', { weekday: 'short', day: 'numeric', month: 'short' }) + (e.time ? `, ${e.time}` : '');
-    $('#ne-agenda').innerHTML = `<button type="button" class="ag-row ${form.pick === null ? 'on' : ''}" data-i="-1"><span class="ag-date">Zelf kiezen</span><span class="ag-title">Gewone avond, geen feest</span></button>`
-      + (list.length ? list.map((e, i) => `<button type="button" class="ag-row ${form.pick === i ? 'on' : ''}" data-i="${i}"><span class="ag-date">${CAL}${esc(dag(e))}</span><span class="ag-title">${esc(e.title)}</span></button>`).join('')
+    $('#ne-agenda').innerHTML = `<button type="button" class="ag-row ${form.pick === null ? 'on' : ''}" data-i="-1"><span class="ag-free">+</span><span class="meta"><span class="ag-date">Zelf kiezen</span><span class="ag-title">Gewone avond, geen feest</span></span></button>`
+      + (list.length ? list.map((e, i) => `<button type="button" class="ag-row ${form.pick === i ? 'on' : ''}" data-i="${i}">${App.datebox(e.date)}<span class="meta"><span class="ag-date">${esc(dag(e))}</span><span class="ag-title">${esc(e.title)}</span></span></button>`).join('')
         : `<p class="fine">${agenda ? 'Geen programma gevonden voor deze club; kies hieronder zelf de datum en tijd.' : 'Programma laden…'}</p>`);
     $$('#ne-agenda .ag-row').forEach(b => b.onclick = () => {
       const i = +b.dataset.i;
@@ -528,8 +570,9 @@
   }
   function renderNew() {
     const v = form.venue && App.venue(form.venue);
-    $('#ne-venue').innerHTML = v ? `${App.swatch(v)}<span>${esc(v.name)}</span>` : '<span class="ph">Kies een club</span>';
+    $('#ne-venue').innerHTML = v ? `<span class="pk-name">${esc(v.name)}</span>` : '<span class="ag-free">+</span><span class="ph">Kies een club</span>';
     $('#ne-venue').classList.toggle('chosen', !!v);
+    $('#ne-venue').style.setProperty('--c', v ? App.colorOf(v) : '');
     $('#ne-title').placeholder = v ? `Avond in ${v.name}` : 'Avond in …';
     renderAgenda(v);
     const multi = v && v.rooms.length > 1;
@@ -624,6 +667,7 @@
       if (act === 'add') return b.addEventListener('submit', addFriend);
       b.addEventListener('click', () => ({
         profiel: () => ensureMe(), new: () => openNew(), push: () => enablePush(), 'invite-friend': inviteFriend,
+        card: openCard, 'copy-link': copyLink, 'share-link': shareLink,
         invite: () => open && (friends.some(f => !open.members.find(m => m.id === f.id)) ? inviteChoice() : inviteEvent(open)),
         here: () => open && iAmHere(open), rename, logout,
       }[act] || (() => {}))());
@@ -683,7 +727,7 @@
     App.show('home'); App.selectTab('events'); history.replaceState(null, '', location.pathname);
     let info; try { info = await api('GET', `/invite/${invite}`); } catch (e) { toast(e.offline ? 'Geen verbinding' : 'Deze uitnodiging werkt niet (meer)'); return; }
     const v = App.venue(info.venue);
-    sheet(`<div class="invite">${v ? App.swatch(v, 'swatch big') : ''}<p class="eyebrow">${esc(info.host || 'Iemand')} nodigt je uit</p><h3>${esc(info.title)}</h3>
+    sheet(`<div class="invite"><div class="poster-s" style="--c:${v ? App.colorOf(v) : '#333'}"><p class="eyebrow">${esc(info.host || 'Iemand')} nodigt je uit</p><h3 class="display">${esc(info.title)}</h3></div>
       <p class="sheet-sub">${esc(info.venueName)} · ${esc(whenLabel(info))} · ${info.members} ${info.members === 1 ? 'persoon' : 'personen'}</p>
       <button class="cta" data-s="join">Doe mee</button></div>`, el => {
       el.querySelector('[data-s="join"]').onclick = async () => {
@@ -701,6 +745,11 @@
       if (me) { connect(); loadAll(true); flush(); if (pushOn()) enablePush(true); }
     },
     route,
+    /** Jouw event dat vanavond in deze club loopt (voor de venuepagina). */
+    tonightAt: venueId => (me ? activeEvents().find(e => e.venue === venueId) : null) || null,
+    open: id => openEvent(id),
+    here: async ev => { await openEvent(ev.id, { quiet: true }); iAmHere(open); },
+    newEvent: venueId => openNew(venueId),
     onShow(id) { if (id === 'home') { renderFriends(); renderEvents(); } if (id === 'event') renderEvent(); },
     onTab(tab) { if (tab === 'friends' || tab === 'events') { renderAll(); loadAll(); } },
   };
