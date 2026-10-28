@@ -20,3 +20,6 @@ data/sweep/_err*.txt
 data/sweep/_pid.txt
 server/node_modules/
 server/data/
+
+# contactgegevens voor de mailcampagne: persoonsgegevens, niet in de (openbare) repo
+data/contacten/
