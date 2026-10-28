@@ -598,5 +598,35 @@
   "lat": 52.36486,
   "lng": 4.88252,
   "q": "Korte Leidsedwarsstraat 49, 1017 PW Amsterdam"
+ },
+ "air": {
+  "lat": 52.36611,
+  "lng": 4.89945,
+  "q": "Amstelstraat 24, 1017 DA Amsterdam"
+ },
+ "cafe-cafe-bar": {
+  "lat": 52.36768,
+  "lng": 4.90023,
+  "q": "Amstel 1, 1011 PN Amsterdam"
+ },
+ "dansen-bij-jansen": {
+  "lat": 52.36809,
+  "lng": 4.89024,
+  "q": "Handboogstraat 11, 1012 XM Amsterdam"
+ },
+ "de-trut": {
+  "lat": 52.3679,
+  "lng": 4.87199,
+  "q": "Bilderdijkstraat 165E, 1053 KP Amsterdam"
+ },
+ "oliva": {
+  "lat": 52.36642,
+  "lng": 4.8967,
+  "q": "Rembrandtplein 17, 1017 CT Amsterdam"
+ },
+ "shu": {
+  "lat": 52.36802,
+  "lng": 4.89027,
+  "q": "Handboogstraat 15H, 1012 XM Amsterdam"
  }
 }

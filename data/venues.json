@@ -63,79 +63,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36655,
   "lng": 4.89573,
-  "photo": true
- },
- {
-  "id": "a-lab",
-  "name": "A Lab",
-  "address": "Overhoeksplein 2, 1031 KS Amsterdam",
-  "area": "Noord",
-  "lat": 52.3845,
-  "lng": 4.9027,
-  "website": "https://www.a-lab.nl",
-  "status": "open",
-  "source": "iamsterdam venue finder (The Playground 277,6 m2, max 130; verder Kaleidoscope 30, Boardroom 12) in het voormalige Shell-lab naast de A'DAM Toren; indeling indicatief",
-  "confidence": "laag",
-  "note": "Creatieve broedplaats; events in The Playground op de begane grond, ingang Overhoeksplein naast het Shelter/A'DAM-complex.",
-  "rooms": [
-   {
-    "name": "The Playground",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      100
-     ],
-     [
-      0,
-      100
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 4,
-      "w": 50,
-      "h": 14,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       40
-      ],
-      "b": [
-       0,
-       75
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       100
-      ],
-      "b": [
-       60,
-       100
-      ],
-      "label": "IN (OVERHOEKSPLEIN)"
-     }
-    ]
-   }
-  ],
   "photo": true
  },
  {
@@ -261,6 +191,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -484,581 +415,8 @@
    "https://akhnaton.nl/wp-content/uploads/2025/10/Akhnaton-dj-booth-uitzicht.webp",
    "https://akhnaton.nl/wp-content/uploads/2025/10/Akhnaton-vide.webp",
    "BAG pand 0363100012179320 (PDOK)"
-  ]
- },
- {
-  "id": "amsterdam-roest",
-  "name": "Amsterdam Roest",
-  "address": "Jacob Bontiusplaats 1, 1018 LL Amsterdam",
-  "area": "Oost",
-  "website": "https://amsterdamroest.nl",
-  "source": "Website onbereikbaar tijdens research; op basis van algemene kennis (fabriekshal op Oostenburg met bar, stadsstrand en terras aan de Wittenburgervaart, feesten en ADE-events). Indicatief.",
-  "confidence": "laag",
-  "note": "Hal met bar en DJ; strand en terras aan het water buiten. Indeling geschat, controleren.",
-  "rooms": [
-   {
-    "name": "Hal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       30
-      ],
-      "b": [
-       0,
-       80
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       110
-      ],
-      "b": [
-       60,
-       110
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        100,
-        10
-       ],
-       [
-        150,
-        10
-       ],
-       [
-        150,
-        110
-       ],
-       [
-        100,
-        110
-       ]
-      ],
-      "text": "STRAND / TERRAS",
-      "dash": true
-     }
-    ]
-   }
   ],
-  "lat": 52.37196,
-  "lng": 4.92652,
-  "photo": true
- },
- {
-  "id": "artis",
-  "name": "ARTIS",
-  "address": "Plantage Kerklaan 38-40, 1018 CZ Amsterdam",
-  "area": "Centrum",
-  "lat": 52.3663,
-  "lng": 4.9115,
-  "website": "https://www.artis.nl",
-  "status": "open",
-  "source": "ARTIS capacity & rates 2026 (Planetarium 450 receptie, na sluitingstijd; rond podium in het midden onder de koepel) + ADE 2026 programma (Dome Concerts in Planetarium, 4DSOUND in Aquarium); Aquarium indicatief",
-  "confidence": "middel",
-  "note": "Planetarium: ronde zaal onder de koepel met het podium in het midden; ingang via de ARTIS-hoofdingang Plantage Kerklaan. Aquarium: lange zaal met bakken aan beide kanten.",
-  "rooms": [
-   {
-    "name": "Planetarium",
-    "round": {
-     "cx": 50,
-     "cy": 50,
-     "r": 50
-    },
-    "features": [
-     {
-      "t": "label",
-      "x": 50,
-      "y": 14,
-      "text": "KOEPEL",
-      "size": 12
-     },
-     {
-      "t": "dj",
-      "x": 40,
-      "y": 42,
-      "w": 20,
-      "h": 16,
-      "label": "PODIUM"
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       100
-      ],
-      "b": [
-       60,
-       100
-      ],
-      "label": "IN (FOYER)"
-     }
-    ]
-   },
-   {
-    "name": "Aquarium",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      200
-     ],
-     [
-      0,
-      200
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10,
-      "label": "DJ / 4DSOUND"
-     },
-     {
-      "t": "line",
-      "a": [
-       10,
-       0
-      ],
-      "b": [
-       10,
-       200
-      ]
-     },
-     {
-      "t": "line",
-      "a": [
-       90,
-       0
-      ],
-      "b": [
-       90,
-       200
-      ]
-     },
-     {
-      "t": "label",
-      "x": 5,
-      "y": 100,
-      "text": "AQUARIA",
-      "size": 9
-     },
-     {
-      "t": "label",
-      "x": 95,
-      "y": 100,
-      "text": "AQUARIA",
-      "size": 9
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       200
-      ],
-      "b": [
-       60,
-       200
-      ],
-      "label": "IN (TRAP)"
-     }
-    ]
-   }
-  ],
-  "aka": "Planetarium & Aquarium",
-  "photo": true
- },
- {
-  "id": "bajes-amsterdam",
-  "name": "Bajes Amsterdam",
-  "address": "H.J.E. Wenckebachweg 48, 1096 AN Amsterdam",
-  "area": "Oost",
-  "lat": 52.33725,
-  "lng": 4.92533,
-  "website": "https://www.bajes.amsterdam",
-  "capacity": 2900,
-  "status": "open",
-  "aka": "Levenslang",
-  "rooms": [
-   {
-    "name": "De Ketel (Blok K, voorheen Levenslang)",
-    "outline": [
-     [
-      22.6,
-      19.7
-     ],
-     [
-      4.4,
-      19.7
-     ],
-     [
-      4.4,
-      14.0
-     ],
-     [
-      0.0,
-      14.0
-     ],
-     [
-      0.0,
-      0.0
-     ],
-     [
-      21.4,
-      0.0
-     ],
-     [
-      21.4,
-      6.4
-     ],
-     [
-      22.6,
-      6.4
-     ]
-    ],
-    "features": [
-     {
-      "t": "poly",
-      "pts": [
-       [
-        4.4,
-        0.1
-       ],
-       [
-        21.3,
-        0.1
-       ],
-       [
-        21.3,
-        3.8
-       ],
-       [
-        4.4,
-        3.8
-       ]
-      ],
-      "dash": true,
-      "text": "BROUWERIJ (ACHTER GLAS)"
-     },
-     {
-      "t": "dj",
-      "x": 7.9,
-      "y": 4.0,
-      "w": 4.0,
-      "h": 1.4
-     },
-     {
-      "t": "bar",
-      "a": [
-       17.4,
-       6.4
-      ],
-      "b": [
-       17.4,
-       14.7
-      ],
-      "side": 1
-     },
-     {
-      "t": "stairs",
-      "x": 19.6,
-      "y": 15.6
-     },
-     {
-      "t": "stairs",
-      "x": 19.6,
-      "y": 5.5
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        21.4,
-        0.3
-       ],
-       [
-        26.2,
-        0.3
-       ],
-       [
-        26.2,
-        19.5
-       ],
-       [
-        22.6,
-        19.5
-       ],
-       [
-        22.6,
-        6.4
-       ],
-       [
-        21.4,
-        6.4
-       ]
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 24.4,
-      "y": 10.0,
-      "text": "BALKON",
-      "size": 16
-     },
-     {
-      "t": "stairs",
-      "x": 7.9,
-      "y": 16.1
-     },
-     {
-      "t": "pillar",
-      "x": 4.4,
-      "y": 11.7
-     },
-     {
-      "t": "pillar",
-      "x": 4.4,
-      "y": 9.5
-     },
-     {
-      "t": "in",
-      "a": [
-       0.0,
-       1.8
-      ],
-      "b": [
-       0.0,
-       3.0
-      ],
-      "side": -1,
-      "label": "IN"
-     },
-     {
-      "t": "in",
-      "a": [
-       4.4,
-       18.4
-      ],
-      "b": [
-       4.4,
-       19.6
-      ],
-      "side": -1,
-      "label": "GANG"
-     },
-     {
-      "t": "wc",
-      "x": 1.8,
-      "y": 8.6
-     }
-    ]
-   },
-   {
-    "name": "Centrale Keuken (Blok C)",
-    "outline": [
-     [
-      22.7,
-      57.4
-     ],
-     [
-      43.9,
-      57.4
-     ],
-     [
-      43.9,
-      0.0
-     ],
-     [
-      0,
-      0.0
-     ],
-     [
-      0,
-      21.1
-     ],
-     [
-      22.7,
-      21.1
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 27.8,
-      "y": 1.0,
-      "w": 10.0,
-      "h": 3.0
-     },
-     {
-      "t": "in",
-      "a": [
-       30.0,
-       57.4
-      ],
-      "b": [
-       37.0,
-       57.4
-      ],
-      "side": -1,
-      "label": "IN (VOORPLEIN)"
-     },
-     {
-      "t": "in",
-      "a": [
-       22.7,
-       33.4
-      ],
-      "b": [
-       22.7,
-       25.4
-      ],
-      "side": 1,
-      "label": "PATIO"
-     }
-    ]
-   },
-   {
-    "name": "Expeditie (Blok E)",
-    "outline": [
-     [
-      0,
-      13.0
-     ],
-     [
-      20.0,
-      13.0
-     ],
-     [
-      20.0,
-      0.0
-     ],
-     [
-      0,
-      0.0
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 7.0,
-      "y": 0.8,
-      "w": 6.0,
-      "h": 2.0
-     },
-     {
-      "t": "in",
-      "a": [
-       14.0,
-       13.0
-      ],
-      "b": [
-       18.0,
-       13.0
-      ],
-      "side": -1,
-      "label": "NAAR KETEL"
-     }
-    ]
-   },
-   {
-    "name": "Courtyard",
-    "outline": [
-     [
-      7.6,
-      15.1
-     ],
-     [
-      22.7,
-      15.1
-     ],
-     [
-      22.7,
-      0.0
-     ],
-     [
-      7.6,
-      0.0
-     ]
-    ],
-    "features": [
-     {
-      "t": "label",
-      "x": 15.2,
-      "y": 7.0,
-      "text": "GLAZEN DAK",
-      "size": 20
-     },
-     {
-      "t": "in",
-      "a": [
-       22.7,
-       4.3
-      ],
-      "b": [
-       22.7,
-       12.3
-      ],
-      "side": 1,
-      "label": "BLOK C"
-     }
-    ]
-   }
-  ],
-  "confidence": "middel",
-  "basis": "plattegrond",
-  "source": "De Ketel overgetrokken van de plattegrond in de Levenslang banqueting-brochure 2023 (zaal 300 m2 + balkon 100 m2, bar-eiland met trappen naar het balkon, brouwerij achter glazen wand, toiletten en BOH aan de noordkant, hellingbaan-ingang voorplein); schaal en ligging gecontroleerd met BAG-pand 0363100012094176 (zuidpoot 20 x 31 m langs het kanaal, schoorstenen). Courtyard = glasgedekte patio in de BAG (15 x 15 m = 225 m2, infodeck: 220 m2). Blok C (Centrale Keuken, 1800 m2) en Blok E (Expeditie, 250 m2) geplaatst in de rest van de kanaalvleugel op basis van oppervlakte en infodeck-foto's; niet bevestigd. Bajes-infodeck (locaties.nl) en bajes.amsterdam/bezoekersinfo (drie zalen, eigen ingang Blok C en Blok K, kluisjes, rookruimte).",
-  "bronnen": [
-   "https://www.locaties.nl/media/ppemuayl/levenslang-amsterdam-banqueting-2023.pdf",
-   "https://www.locaties.nl/media/ydlbbj1t/bajes-infodeck.pdf",
-   "https://bajes.amsterdam/bezoekersinfo",
-   "https://bajes.amsterdam/over",
-   "https://bajes.amsterdam/programma/slapfunk"
-  ],
-  "note": "Drie zalen in de oude Bijlmerbajes: De Ketel (Blok K, het oude Levenslang), de Centrale Keuken (Blok C) en de Expeditie (Blok E). Blok C en Blok K hebben elk een eigen ingang aan het voorplein; op de eventpagina staat waar je moet zijn. In De Ketel staat het bar-eiland aan de zuidkant met links en rechts een trap naar het balkon; de toiletten zitten aan de noordkant. Kluisjes bij de ingang (geen garderobe), rookruimte binnen. Onzeker: DJ-plek in De Ketel en de ligging en indeling van Blok C en Blok E.",
-  "photo": true
+  "type": "club"
  },
  {
   "id": "bar-benelux",
@@ -1126,6 +484,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.38391,
   "lng": 4.92176,
   "photo": true
@@ -1196,229 +555,9 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.36452,
   "lng": 4.88255,
-  "photo": true
- },
- {
-  "id": "beurs-van-berlage",
-  "name": "Beurs van Berlage",
-  "address": "Damrak 243, 1012 ZJ Amsterdam",
-  "area": "Centrum",
-  "website": "https://beursvanberlage.com",
-  "source": "Officiële plattegrond Grote Zaal (beursvanberlage.com NL-Grote-zaal.pdf, 2026): rechthoek 45x37 m, hoofdentree aan de korte zijde naast de Beursfoyer, Bistro Berlage aan de andere korte zijde, zuilenrijen/arcaden langs beide lange zijden met galerijen erboven, laad/los aan de Beursstraat; receptie 1600. Effectenbeurszaal en Graanbeurszaal: 37,5 x 18,5 m (uniquevenues, zaalpagina's), geen plattegrond.",
-  "confidence": "hoog",
-  "note": "Grote Zaal: binnen via de hoofdentree aan de korte kant, podium meestal aan de overkant (bij de Bistro). Zuilengalerijen links en rechts. Bars: niet op de tekening.",
-  "rooms": [
-   {
-    "name": "Grote Zaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      82,
-      0
-     ],
-     [
-      82,
-      100
-     ],
-     [
-      0,
-      100
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 16,
-      "y": 4,
-      "w": 50,
-      "h": 14,
-      "label": "PODIUM (WISSELT)"
-     },
-     {
-      "t": "label",
-      "x": 41,
-      "y": -6,
-      "text": "BISTRO BERLAGE",
-      "size": 12
-     },
-     {
-      "t": "pillar",
-      "x": 14,
-      "y": 30
-     },
-     {
-      "t": "pillar",
-      "x": 14,
-      "y": 55
-     },
-     {
-      "t": "pillar",
-      "x": 14,
-      "y": 80
-     },
-     {
-      "t": "pillar",
-      "x": 68,
-      "y": 30
-     },
-     {
-      "t": "pillar",
-      "x": 68,
-      "y": 55
-     },
-     {
-      "t": "pillar",
-      "x": 68,
-      "y": 80
-     },
-     {
-      "t": "label",
-      "x": 7,
-      "y": 45,
-      "text": "GALERIJ",
-      "size": 11
-     },
-     {
-      "t": "label",
-      "x": 75,
-      "y": 45,
-      "text": "GALERIJ",
-      "size": 11
-     },
-     {
-      "t": "in",
-      "a": [
-       30,
-       100
-      ],
-      "b": [
-       52,
-       100
-      ],
-      "label": "HOOFDENTREE"
-     },
-     {
-      "t": "label",
-      "x": 70,
-      "y": 108,
-      "text": "FOYER / TRAP",
-      "size": 11
-     }
-    ]
-   },
-   {
-    "name": "Effectenbeurszaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      49,
-      0
-     ],
-     [
-      49,
-      100
-     ],
-     [
-      0,
-      100
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 6,
-      "y": 4,
-      "w": 37,
-      "h": 14
-     },
-     {
-      "t": "label",
-      "x": 24,
-      "y": -6,
-      "text": "LED-CURVE",
-      "size": 11
-     },
-     {
-      "t": "in",
-      "a": [
-       15,
-       100
-      ],
-      "b": [
-       34,
-       100
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "label",
-      "x": 24,
-      "y": 88,
-      "text": "INDICATIEF",
-      "size": 12
-     }
-    ]
-   },
-   {
-    "name": "Graanbeurszaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      49,
-      0
-     ],
-     [
-      49,
-      100
-     ],
-     [
-      0,
-      100
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 6,
-      "y": 4,
-      "w": 37,
-      "h": 14
-     },
-     {
-      "t": "in",
-      "a": [
-       15,
-       100
-      ],
-      "b": [
-       34,
-       100
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "label",
-      "x": 24,
-      "y": 88,
-      "text": "INDICATIEF",
-      "size": 12
-     }
-    ]
-   }
-  ],
-  "lat": 52.37502,
-  "lng": 4.89626,
   "photo": true
  },
  {
@@ -1531,6 +670,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -1645,6 +785,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -1933,7 +1074,8 @@
    "https://www.paradiso.nl/info/praktische-informatie-voor-je-bezoek-aan-de-locaties-van-paradiso/toegankelijkheid-bitterzoet",
    "https://www.bitterzoet.com/info/",
    "BAG pand 0363100012171035 (PDOK)"
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "bourbon-street",
@@ -2023,6 +1165,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36388,
   "lng": 4.88535,
   "photo": true
@@ -2135,6 +1278,196 @@
     ]
    }
   ],
+  "type": "club",
+  "photo": true
+ },
+ {
+  "id": "cafe-cafe-bar",
+  "name": "Café Café Bar",
+  "aka": "Café Café Cafe Cafe Bar Dantzig Stopera",
+  "address": "Amstel 1, 1011 VW Amsterdam",
+  "area": "Centrum",
+  "lat": 52.367659,
+  "lng": 4.899596,
+  "website": "https://cafecafe-restaurant.nl/cafecafebar",
+  "capacity": 400,
+  "status": "open",
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Café Café (Younique Concepts) zit in het lage hoekblok van de Stopera op de hoek Amstel/Zwanenburgwal, het voormalige Dantzig (eigen site: Amstel 1, 1011 VW; zelfde telefoonnummer; BAG-vbo Zwanenburgwal 15, 511 m2 bijeenkomstfunctie). Buitenmuren: BAG-pand Stopera (vertices 110/113/116) en luchtfoto PDOK: laag blok ca. 23,5 x 23,6 m met een hoger voordeel van 16 x 15,7 m op de hoek (glasgevels naar het terras). Binnenindeling afgeleid uit de RA-foto's (sept. 2025: DJ-booth voor de glasgevel, lange bar rechts met tap, pilaar met klimop links bij het glas) en de headervideo op de eigen site. Positie van bar, DJ, pilaar en deur geschat, niet van een plattegrond. Terras: luchtfoto (ca. 6 m diep langs west- en zuidgevel). Club-opening ADE 2025 (RA), ADE 2026-event 22-10-2026.",
+  "bronnen": [
+   "https://ra.co/news/83714",
+   "https://cafecafe-restaurant.nl/cafecafebar",
+   "https://cafecafe-restaurant.nl/groepen",
+   "https://cafecafe-restaurant.nl/wiewezijn",
+   "https://cafecafe-restaurant.nl/media_items/26-cafe-cafe-header_v2",
+   "https://www.amsterdam-dance-event.nl/en/venues/cafe-cafe-amsterdam/2716146/",
+   "https://www.amsterdam-dance-event.nl/en/program/2026/hyperactive-world-amsterdam/2857711/",
+   "https://www.amsterdamnow.com/en/restaurants/cafe-the-new-hotspot-where-nostalgia-and-innovation-come-together",
+   "https://youniqueconcepts.nl",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Overdag restaurant, 's avonds en tijdens events club (ca. 400 man) in het glazen hoekgebouw van de Stopera aan de Amstel, waar vroeger Dantzig zat. Niet de hoofdingang van het stadhuis of de opera: loop over de kade naar de hoek Amstel/Zwanenburgwal, het terras ligt om het gebouw heen. Binnen staat de DJ voor de glasgevel aan de Zwanenburgwalkant (boven op de kaart), de lange bar met tap loopt rechts, links langs het glas staat een pilaar met planten. De ligging van bar, DJ en deur is geschat uit foto's; bij events kan de DJ elders staan.",
+  "rooms": [
+   {
+    "name": "Café / club",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      23.5,
+      0
+     ],
+     [
+      23.5,
+      23.6
+     ],
+     [
+      0,
+      23.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 5.5,
+      "y": 0.9,
+      "w": 3.0,
+      "h": 1.6
+     },
+     {
+      "t": "bar",
+      "a": [
+       13.4,
+       5.5
+      ],
+      "b": [
+       13.4,
+       13.8
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "pillar",
+      "x": 2.6,
+      "y": 11.0
+     },
+     {
+      "t": "line",
+      "a": [
+       15.6,
+       0
+      ],
+      "b": [
+       15.6,
+       15.7
+      ],
+      "dash": true
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       15.7
+      ],
+      "b": [
+       15.6,
+       15.7
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 19.6,
+      "y": 19.6,
+      "text": "ACHTERDEEL",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       12.6
+      ],
+      "b": [
+       0,
+       15.0
+      ],
+      "label": "IN",
+      "side": 1
+     }
+    ]
+   },
+   {
+    "name": "Terras",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      23.0,
+      0
+     ],
+     [
+      23.0,
+      6.0
+     ],
+     [
+      6.0,
+      6.0
+     ],
+     [
+      6.0,
+      22.0
+     ],
+     [
+      0,
+      22.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       6.0,
+       18.6
+      ],
+      "b": [
+       6.0,
+       21.0
+      ],
+      "label": "DEUR",
+      "side": -1
+     },
+     {
+      "t": "label",
+      "x": 14.5,
+      "y": 3.0,
+      "text": "WESTKANT (ZWANENBURGWAL)",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 3.0,
+      "y": 13.0,
+      "text": "AMSTEL",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 15.0,
+      "y": 10.5,
+      "text": "CAFÉ (BINNEN)",
+      "size": 20
+     }
+    ]
+   }
+  ],
+  "type": "club",
   "photo": true
  },
  {
@@ -2224,6 +1557,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.39315,
   "lng": 4.91076,
   "photo": true
@@ -2294,6 +1628,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36609,
   "lng": 4.89354,
   "photo": false
@@ -2388,6 +1723,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36487,
   "lng": 4.88074,
   "photo": true
@@ -2477,6 +1813,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36497,
   "lng": 4.88059,
   "photo": true
@@ -2669,6 +2006,7 @@
    "https://www.locaties.nl/media/2u3bsxf0/vh_events-brochure-2024-en.pdf"
   ],
   "note": "Met de lift naar de 7e verdieping; via een paar treden sta je recht voor de ronde bar. Na ca. 23:00 worden de tafels opzij gezet en is het hele restaurant dansvloer; de DJ staat bij de deur naar het terras. Terras om af te koelen en te roken. Klein Canvas is een aparte zaal voor besloten feesten.",
+  "type": "club",
   "photo": true
  },
  {
@@ -2737,6 +2075,7 @@
    }
   ],
   "aka": "kanaal40",
+  "type": "twijfel",
   "lat": 52.37519,
   "lng": 4.89734,
   "photo": false
@@ -2914,6 +2253,7 @@
    "https://www.technoairlines.com/club/chicago-social-club-amsterdam",
    "https://service.pdok.nl/lv/bag/wfs/v2_0"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -3015,6 +2355,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.37277,
   "lng": 4.87884,
   "photo": true
@@ -3143,6 +2484,7 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.35274,
   "lng": 4.90667,
   "photo": true
@@ -3214,6 +2556,7 @@
     ]
    }
   ],
+  "type": "twijfel",
   "lat": 52.37124,
   "lng": 4.86195,
   "photo": true
@@ -3343,6 +2686,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.37491,
   "lng": 4.95999,
   "photo": true
@@ -3548,7 +2892,8 @@
    "https://www.nighttours.com/amsterdam/gayguide/club-church.html",
    "https://www.timeout.com/amsterdam/nightlife/church",
    "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012172459"
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "club-john-doe",
@@ -3648,6 +2993,7 @@
    "https://directory-hub.onrender.com/nl/amsterdam/venues/club-john-doe"
   ],
   "note": "Eén zaal van ca. 170 m2 op de begane grond, ingang onder de zwarte ENTREE-luifel naast het glazen paviljoen. Garderobe is verplicht (bij de ingang), roken alleen buiten. Plek van DJ en bar is geschat.",
+  "type": "club",
   "photo": true
  },
  {
@@ -3721,6 +3067,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.37579,
   "lng": 4.86508,
   "photo": false
@@ -4325,6 +3672,7 @@
    "https://clubnyx.nl/wp-content/uploads/2024/11/ClubNYX_Venue_Brochure_english_kleinv2.pdf"
   ],
   "note": "Ingang en garderobe op de begane grond (gedeeld pand met Exit Café). Trap linksboven naar de Main room op de 1e verdieping (DJ achterin, lange bar langs de straatkant). Small room op de 2e, bereikbaar via de trap of via het balkon boven de dansvloer. Bovenin: relax-ruimte en de toiletten met eigen DJ.",
+  "type": "club",
   "photo": true
  },
  {
@@ -4393,6 +3741,7 @@
     ]
    }
   ],
+  "type": "twijfel",
   "lat": 52.36563,
   "lng": 4.89631,
   "photo": true
@@ -4591,6 +3940,7 @@
     ]
    }
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -4727,6 +4077,7 @@
    "https://service.pdok.nl/lv/bag/wfs/v2_0 (verblijfsobject Rembrandtplein 20, 180 m2)"
   ],
   "note": "Klein pand (ca. 120 m2) met de ingang aan het plein en een balkon (mezzanine) boven. Plek van DJ, bar en trap is geschat: kijk naar het blauwe SMOKEY-neon achter de DJ.",
+  "type": "club",
   "photo": true
  },
  {
@@ -4879,6 +4230,7 @@
    "https://www.inyourpocket.com/Amsterdam/Club-Up_93458v",
    "https://service.pdok.nl/lv/bag/wfs/v2_0"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -4949,6 +4301,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36443,
   "lng": 4.89793,
   "photo": true
@@ -5098,6 +4451,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -5287,165 +4641,9 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.37115,
   "lng": 4.89386,
-  "photo": true
- },
- {
-  "id": "de-duif",
-  "name": "De Duif",
-  "address": "Prinsengracht 756, 1017 JD Amsterdam",
-  "area": "Centrum",
-  "lat": 52.3614,
-  "lng": 4.8967,
-  "website": "https://stadsherstel.nl/eventlocatie/de-duif/",
-  "source": "Officiële plattegronden Stadsherstel (De-Duif-Plattegrond-maten-en-namen-2020.pdf, intekenmodel, faciliteitenoverzicht): hoofdingang Prinsengracht via tochtportalen, altaar/podium in de apsis recht tegenover de ingang met vier zuilen, sacristieën links en rechts naast het altaar, galerijen boven de zijbeuken en orgelgalerij boven de ingang, wenteltrappen bij de ingang, toiletten in het souterrain, zij-ingang (oprit) rechts. Receptie 540. Bar niet op de tekening.",
-  "confidence": "hoog",
-  "note": "Binnenkomen aan de Prinsengracht, podium helemaal achterin in de apsis. WC in het souterrain, balkons links en rechts boven de zijbeuken.",
-  "rooms": [
-   {
-    "name": "Kerkzaal",
-    "outline": [
-     [
-      0,
-      200
-     ],
-     [
-      100,
-      200
-     ],
-     [
-      100,
-      50
-     ],
-     [
-      96,
-      32
-     ],
-     [
-      85,
-      15
-     ],
-     [
-      70,
-      4
-     ],
-     [
-      50,
-      0
-     ],
-     [
-      30,
-      4
-     ],
-     [
-      15,
-      15
-     ],
-     [
-      4,
-      32
-     ],
-     [
-      0,
-      50
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 28,
-      "y": 10,
-      "w": 44,
-      "h": 22,
-      "label": "PODIUM / ALTAAR"
-     },
-     {
-      "t": "pillar",
-      "x": 26,
-      "y": 14
-     },
-     {
-      "t": "pillar",
-      "x": 74,
-      "y": 14
-     },
-     {
-      "t": "pillar",
-      "x": 26,
-      "y": 36
-     },
-     {
-      "t": "pillar",
-      "x": 74,
-      "y": 36
-     },
-     {
-      "t": "label",
-      "x": 12,
-      "y": 40,
-      "text": "SACRISTIE",
-      "size": 11
-     },
-     {
-      "t": "label",
-      "x": 88,
-      "y": 40,
-      "text": "SACRISTIE",
-      "size": 11
-     },
-     {
-      "t": "label",
-      "x": 12,
-      "y": 110,
-      "text": "GALERIJ BOVEN",
-      "size": 11
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 188,
-      "text": "ORGEL BOVEN",
-      "size": 12
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       200
-      ],
-      "b": [
-       60,
-       200
-      ],
-      "label": "IN (PRINSENGRACHT)"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       180
-      ],
-      "b": [
-       100,
-       192
-      ],
-      "label": "ZIJ-INGANG",
-      "side": -1
-     },
-     {
-      "t": "stairs",
-      "x": 10,
-      "y": 190
-     },
-     {
-      "t": "wc",
-      "x": 30,
-      "y": 210
-     }
-    ]
-   }
-  ],
   "photo": true
  },
  {
@@ -5529,6 +4727,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.36642,
   "lng": 4.89679,
   "photo": true
@@ -5684,6 +4883,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -5919,247 +5119,177 @@
    "https://www.nhnieuws.nl/nieuws/349784/cultureel-cafe-de-nieuwe-anita-bestaat-20-jaar-was-nooit-de-bedoeling",
    "https://denieuweanita.nl/wp-content/uploads/2026/03/DNA-breien-49-1024x683.jpg",
    "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012136487"
-  ]
+  ],
+  "type": "podium"
  },
  {
-  "id": "de-rode-hoed",
-  "name": "De Rode Hoed",
-  "address": "Keizersgracht 102, 1015 CV Amsterdam",
-  "area": "Centrum",
-  "lat": 52.376,
-  "lng": 4.8865,
-  "website": "https://www.rodehoed.nl",
+  "id": "de-trut",
+  "name": "De Trut",
+  "aka": "Trut Trutfonds Tetterode",
+  "address": "Bilderdijkstraat 165E, 1053 KP Amsterdam",
+  "area": "West",
+  "website": "https://www.trutfonds.nl",
+  "capacity": 220,
   "status": "open",
-  "source": "amerpodia.nl evenementenlocaties (Oosterhuiszaal 360 m2, 450) + locaties.nl (houten pilaren, twee galerijen/balkons); schuilkerk, podium op de plek van de preekstoel indicatief",
-  "confidence": "middel",
-  "note": "Binnenkomen via het grachtenpand aan de Keizersgracht, de zaal ligt erachter. Twee galerijen boven elkaar langs de zijkanten en achterwand.",
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Kelder overgetrokken van de eigen plattegrond 'plattegrond Trut 2025 NL' op trutfonds.nl (bar, DJ, wc's, pilaren, garderobe/kapstokken, ingangsgang; de twee nooduitgangen zijn weggelaten), gedraaid zodat de DJ boven staat. Ligging en maat gecontroleerd met de Tetterode-plattegrond L0 op trutfonds.nl (geschiedenis) en de beschrijving van het Bilderdijkblok op davecarrsmith.co.uk (semi-kelder in de oostelijke helft van de vier middelste traveeën, ingang 165E via een afgeschotte gang in de passage van nr. 167). Schaal: oostelijke helft van het 23,2 m diepe blok (BAG) en BAG-vbo 165E = 185 m2; daaruit ca. 63 px/m, zaal ca. 11,7 x 18,2 m inclusief wc en garderobe. Capaciteit ca. 220 volgens een oudere uitgaansgids (niet officieel).",
+  "bronnen": [
+   "https://www.trutfonds.nl/agenda-en-line-up.html",
+   "https://www.trutfonds.nl/images/agenda-en-line-up/plattegrond%20Trut%202025%20NL.png",
+   "https://www.trutfonds.nl/geschiedenis.html",
+   "https://www.trutfonds.nl/images/geschiedenis/plattegrond%20tetterode%20de%20trut.jpg",
+   "https://www.trutfonds.nl/toegankelijkheid.html",
+   "https://www.trutfonds.nl/contact-nl.html",
+   "https://www.trutfonds.nl/",
+   "https://davecarrsmith.co.uk/D-WWW_TET-14_bd.htm",
+   "https://outxout.com/venue/verenigingdetrutamsterdam",
+   "https://www.nighttours.com/amsterdam/gayguide/trut.html"
+  ],
+  "note": "Alleen zondag 22.00-03.00. Ingang is deur 165E aan de Bilderdijkstraat: door de lange afgeschotte gang en de trap naar beneden kom je linksonder binnen in het halletje; de garderobe (kapstokken) is de strook rechtsonder. De DJ staat linksvoor, de bar loopt langs de rechtermuur, de wc's zitten rechtsvoor naast de bar. Midden op de dansvloer staat één pilaar, een tweede staat bij de overgang naar de garderobe. Je telefoon moet uit, dus spreek vooraf een plek af: 'bij de pilaar', 'bij de garderobe' of 'eind van de bar'. Alleen trappen, geen lift.",
   "rooms": [
    {
-    "name": "Oosterhuiszaal",
+    "name": "Kelder",
     "outline": [
      [
-      0,
-      0
+      0.0,
+      2.4
      ],
      [
-      100,
-      0
+      5.8,
+      2.4
      ],
      [
-      100,
-      125
+      5.8,
+      0.0
      ],
      [
-      0,
-      125
+      11.7,
+      0.0
+     ],
+     [
+      11.7,
+      18.2
+     ],
+     [
+      2.3,
+      18.2
+     ],
+     [
+      2.3,
+      15.8
+     ],
+     [
+      1.4,
+      15.8
+     ],
+     [
+      1.4,
+      14.2
+     ],
+     [
+      0.0,
+      14.2
      ]
     ],
     "features": [
      {
-      "t": "stage",
-      "x": 25,
-      "y": 4,
-      "w": 50,
-      "h": 18,
-      "label": "PODIUM"
+      "t": "dj",
+      "x": 1.5,
+      "y": 2.4,
+      "w": 2.5,
+      "h": 2.0
      },
      {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        0
-       ],
-       [
-        14,
-        0
-       ],
-       [
-        14,
-        125
-       ],
-       [
-        0,
-        125
-       ]
+      "t": "bar",
+      "a": [
+       10.0,
+       5.8
       ],
-      "o": 0.5
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        86,
-        0
-       ],
-       [
-        100,
-        0
-       ],
-       [
-        100,
-        125
-       ],
-       [
-        86,
-        125
-       ]
+      "b": [
+       10.0,
+       11.9
       ],
-      "o": 0.5
+      "label": "BAR"
      },
      {
-      "t": "label",
-      "x": 7,
-      "y": 62,
-      "text": "GALERIJ",
-      "size": 11
+      "t": "pillar",
+      "x": 5.8,
+      "y": 8.1
      },
      {
-      "t": "label",
-      "x": 93,
-      "y": 62,
-      "text": "GALERIJ",
-      "size": 11
+      "t": "pillar",
+      "x": 5.8,
+      "y": 13.8
      },
      {
       "t": "line",
       "a": [
-       14,
-       108
+       10.6,
+       2.6
       ],
       "b": [
-       86,
-       108
+       7.0,
+       2.6
       ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 117,
-      "text": "GALERIJ (BOVEN)",
-      "size": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       14,
-       70
-      ],
-      "b": [
-       14,
-       100
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       125
-      ],
-      "b": [
-       60,
-       125
-      ],
-      "label": "IN (KEIZERSGRACHT)"
-     }
-    ]
-   }
-  ],
-  "photo": true
- },
- {
-  "id": "de-wester",
-  "name": "De Wester",
-  "address": "Klönneplein 2, 1014 DD Amsterdam",
-  "area": "West",
-  "website": "https://westergas.nl",
-  "source": "Westergas/De Wester brochure 2026 (700 m2, 46x16 m, 9,7 m hoog, podium 6x3 m, max 770 feest; geen vaste bars) + Westergasfabriek-factsheet 2016.",
-  "confidence": "middel",
-  "note": "Lange smalle hal ('nachtclub-achtig'). Podium aan kopse kant, ingang aan de andere kop vanaf het Klönneplein; bars zijn mobiel en staan meestal langs de lange zijde.",
-  "rooms": [
-   {
-    "name": "Zaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      290
-     ],
-     [
-      0,
-      290
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 15,
-      "y": 6,
-      "w": 70,
-      "h": 24
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       110
-      ],
-      "b": [
-       100,
-       170
-      ],
-      "side": -1,
-      "label": "BAR (mobiel)"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       200
-      ],
-      "b": [
-       0,
-       250
-      ],
-      "label": "BAR (mobiel)"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       290
-      ],
-      "b": [
-       65,
-       290
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "cloak",
-      "x": 80,
-      "y": 275
+      "w": 4,
+      "o": 0.9
      },
      {
       "t": "wc",
-      "x": 20,
-      "y": 275
+      "x": 8.8,
+      "y": 1.2
+     },
+     {
+      "t": "line",
+      "a": [
+       5.3,
+       14.2
+      ],
+      "b": [
+       1.4,
+       14.2
+      ],
+      "w": 4,
+      "o": 0.9
+     },
+     {
+      "t": "line",
+      "a": [
+       10.3,
+       15.4
+      ],
+      "b": [
+       5.8,
+       15.4
+      ],
+      "w": 4,
+      "o": 0.9
+     },
+     {
+      "t": "cloak",
+      "x": 8.7,
+      "y": 16.8
+     },
+     {
+      "t": "in",
+      "a": [
+       2.6,
+       18.2
+      ],
+      "b": [
+       4.0,
+       18.2
+      ],
+      "label": "IN: GANG + TRAP",
+      "side": 1
      }
     ]
    }
   ],
-  "aka": "Transformatorhuis",
-  "lat": 52.38682,
-  "lng": 4.86979,
+  "type": "club",
+  "lat": 52.3679,
+  "lng": 4.87199,
   "photo": true
  },
  {
@@ -6361,6 +5491,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -6469,6 +5600,7 @@
    "https://www.volkshotel.nl/content/uploads/2014/04/Volkshotel-Doka-web-2-LR.jpg"
   ],
   "note": "Kelder van het Volkshotel (Wibautstraat 150). Langwerpige ruimte: DJ-booth en klein podium aan de ene korte kant, bar aan de andere; de booths staan op een verhoging langs de wand. Alleen pin, beperkte capaciteit.",
+  "type": "club",
   "photo": true
  },
  {
@@ -6549,6 +5681,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.37465,
   "lng": 4.89702,
   "photo": true
@@ -6856,6 +5989,7 @@
    "https://nl.wikipedia.org/wiki/Rembrandtplein_(Amsterdam)"
   ],
   "note": "Je komt via de foyer achterin de zaal binnen, onder het balkon bij de bars. Het main stage met DJ en LED-wall is aan de overkant (Amstel-kant); de Sky Lounge is de verhoogde VIP-strook langs de linkermuur richting podium. deLux (za, eigen DJ) zit op de verdieping aan de Amstel-kant, ook bereikbaar via Amstel 70.",
+  "type": "club",
   "photo": true
  },
  {
@@ -6952,191 +6086,9 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.36627,
   "lng": 4.89132,
-  "photo": true
- },
- {
-  "id": "eye-filmmuseum",
-  "name": "EYE Filmmuseum",
-  "address": "IJpromenade 1, 1031 KT Amsterdam",
-  "area": "Noord",
-  "lat": 52.3843,
-  "lng": 4.9005,
-  "website": "https://www.eyefilm.nl",
-  "status": "open",
-  "source": "EYE plattegrond PDF (niveau 1: hoofdingang, receptie, shop, Arena/restaurant, Zaal 2 & 3; niveau 2: Zaal 1, foyer; niveau -1: Zaal 4, IJ-Lounge, Waterfront, Arenaplateau) + EYE Events tarieven (Arena 900 receptie, alleen als 'Eye Exclusive'; Arena DJ set; Zaal 1 315 stoelen)",
-  "confidence": "middel",
-  "note": "Hoofdingang aan de landzijde; de Arena is de grote open ruimte met brede zittrappen die afdalen naar de glaswand aan het IJ. Bar-restaurant in de Arena, zaaldeuren 2 & 3 aan de zijkant, Zaal 1 een verdieping hoger.",
-  "rooms": [
-   {
-    "name": "Arena",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      120
-     ],
-     [
-      0,
-      120
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 2,
-      "w": 60,
-      "h": 14,
-      "label": "PODIUM / DJ (GLASWAND IJ)"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        10,
-        40
-       ],
-       [
-        90,
-        40
-       ],
-       [
-        90,
-        85
-       ],
-       [
-        10,
-        85
-       ]
-      ],
-      "dash": true,
-      "text": "ZITTRAPPEN"
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       30
-      ],
-      "b": [
-       100,
-       70
-      ],
-      "side": -1,
-      "label": "BAR / RESTAURANT"
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       60
-      ],
-      "b": [
-       0,
-       76
-      ],
-      "side": 1,
-      "label": "ZAAL 2 & 3"
-     },
-     {
-      "t": "stairs",
-      "x": 88,
-      "y": 108,
-      "label": "TRAP ZAAL 1 (BOVEN)"
-     },
-     {
-      "t": "cloak",
-      "x": 14,
-      "y": 108
-     },
-     {
-      "t": "in",
-      "a": [
-       38,
-       120
-      ],
-      "b": [
-       62,
-       120
-      ],
-      "label": "IN (HOOFDINGANG)"
-     }
-    ]
-   },
-   {
-    "name": "Zaal 1",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      120
-     ],
-     [
-      0,
-      120
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 10,
-      "y": 2,
-      "w": 80,
-      "h": 10,
-      "label": "SCHERM"
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 60,
-      "text": "315 STOELEN",
-      "size": 12
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       98
-      ],
-      "b": [
-       0,
-       114
-      ],
-      "side": 1,
-      "label": "IN (FOYER)"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       98
-      ],
-      "b": [
-       100,
-       114
-      ],
-      "side": -1,
-      "label": "IN (FOYER)"
-     }
-    ]
-   }
-  ],
   "photo": true
  },
  {
@@ -7233,384 +6185,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.38341,
   "lng": 4.92893,
-  "photo": true
- },
- {
-  "id": "felix-meritis",
-  "name": "Felix Meritis",
-  "address": "Keizersgracht 324, 1016 EZ Amsterdam",
-  "area": "Centrum",
-  "lat": 52.37,
-  "lng": 4.8842,
-  "website": "https://felixmeritis.nl",
-  "source": "Plattegronden MATH Architecten 2021 via amerpodia.nl (Concertzaal: ovaal, ingang aan het smalle einde vanuit het centrale trappenhuis, omloop rondom, mobiel podium, balkon boven de ingang, aansluitpunt mobiele bar links; Shaffyzaal: zelfde ovaal met dwarswand, foyer met lange bar aan de ingangszijde; Zuilenzaal: rechthoek langs de gracht met 2x4 zuilen). iamsterdam venue finder (capaciteiten: Concertzaal 400, Shaffyzaal 200, Zuilenzaal 200).",
-  "confidence": "hoog",
-  "note": "Concertzaal begane grond, Zuilenzaal 1e, Shaffyzaal 2e verdieping; alles via het centrale trappenhuis (lift aanwezig). Podia zijn mobiel.",
-  "rooms": [
-   {
-    "name": "Concertzaal (begane grond)",
-    "outline": [
-     [
-      50,
-      0
-     ],
-     [
-      72,
-      4
-     ],
-     [
-      90,
-      16
-     ],
-     [
-      98,
-      34
-     ],
-     [
-      100,
-      65
-     ],
-     [
-      98,
-      96
-     ],
-     [
-      90,
-      114
-     ],
-     [
-      72,
-      126
-     ],
-     [
-      50,
-      130
-     ],
-     [
-      28,
-      126
-     ],
-     [
-      10,
-      114
-     ],
-     [
-      2,
-      96
-     ],
-     [
-      0,
-      65
-     ],
-     [
-      2,
-      34
-     ],
-     [
-      10,
-      16
-     ],
-     [
-      28,
-      4
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 26,
-      "y": 10,
-      "w": 48,
-      "h": 16,
-      "label": "PODIUM (MOBIEL)"
-     },
-     {
-      "t": "line",
-      "a": [
-       12,
-       108
-      ],
-      "b": [
-       88,
-       108
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 118,
-      "text": "BALKON BOVEN",
-      "size": 14
-     },
-     {
-      "t": "label",
-      "x": 12,
-      "y": 65,
-      "text": "BAR",
-      "size": 16
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       129
-      ],
-      "b": [
-       60,
-       129
-      ],
-      "label": "IN (TRAPPENHUIS)"
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       60
-      ],
-      "b": [
-       1,
-       72
-      ],
-      "label": "OMLOOP",
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       60
-      ],
-      "b": [
-       99,
-       72
-      ],
-      "label": "OMLOOP",
-      "side": -1
-     }
-    ]
-   },
-   {
-    "name": "Shaffyzaal (2e verdieping)",
-    "outline": [
-     [
-      50,
-      0
-     ],
-     [
-      72,
-      4
-     ],
-     [
-      90,
-      16
-     ],
-     [
-      98,
-      34
-     ],
-     [
-      100,
-      65
-     ],
-     [
-      98,
-      96
-     ],
-     [
-      90,
-      114
-     ],
-     [
-      72,
-      126
-     ],
-     [
-      50,
-      130
-     ],
-     [
-      28,
-      126
-     ],
-     [
-      10,
-      114
-     ],
-     [
-      2,
-      96
-     ],
-     [
-      0,
-      65
-     ],
-     [
-      2,
-      34
-     ],
-     [
-      10,
-      16
-     ],
-     [
-      28,
-      4
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 26,
-      "y": 10,
-      "w": 48,
-      "h": 16,
-      "label": "PODIUM (MOBIEL)"
-     },
-     {
-      "t": "line",
-      "a": [
-       2,
-       95
-      ],
-      "b": [
-       98,
-       95
-      ]
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 104,
-      "text": "SHAFFYFOYER",
-      "size": 14
-     },
-     {
-      "t": "bar",
-      "a": [
-       22,
-       98
-      ],
-      "b": [
-       22,
-       116
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       129
-      ],
-      "b": [
-       60,
-       129
-      ],
-      "label": "IN (TRAPPENHUIS)"
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 82,
-      "text": "BALKON BOVEN",
-      "size": 12
-     }
-    ]
-   },
-   {
-    "name": "Zuilenzaal (1e verdieping)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      130,
-      0
-     ],
-     [
-      130,
-      70
-     ],
-     [
-      0,
-      70
-     ]
-    ],
-    "features": [
-     {
-      "t": "pillar",
-      "x": 25,
-      "y": 16
-     },
-     {
-      "t": "pillar",
-      "x": 52,
-      "y": 16
-     },
-     {
-      "t": "pillar",
-      "x": 78,
-      "y": 16
-     },
-     {
-      "t": "pillar",
-      "x": 105,
-      "y": 16
-     },
-     {
-      "t": "pillar",
-      "x": 25,
-      "y": 54
-     },
-     {
-      "t": "pillar",
-      "x": 52,
-      "y": 54
-     },
-     {
-      "t": "pillar",
-      "x": 78,
-      "y": 54
-     },
-     {
-      "t": "pillar",
-      "x": 105,
-      "y": 54
-     },
-     {
-      "t": "label",
-      "x": 65,
-      "y": 78,
-      "text": "RAMEN OP DE GRACHT",
-      "size": 14
-     },
-     {
-      "t": "label",
-      "x": 8,
-      "y": 35,
-      "text": "BAR",
-      "size": 14
-     },
-     {
-      "t": "in",
-      "a": [
-       55,
-       0
-      ],
-      "b": [
-       75,
-       0
-      ],
-      "label": "IN (TRAPPENHUIS)",
-      "side": -1
-     }
-    ]
-   }
-  ],
   "photo": true
  },
  {
@@ -7697,6 +6274,7 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.37034,
   "lng": 4.89365,
   "photo": true
@@ -7810,6 +6388,7 @@
    "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012079768"
   ],
   "note": "Kleine club in een oude autogarage, twee vloeren: de main room (Garage) beneden en Bar40 boven. Ingang via het turquoise glazen portaal in het steegje aan de noordkant; het restaurant Sichuan Territory zit in de glazen kas ervoor, aan de andere kant van de dansvloerwand. Skatecafé is de buurman (nr. 42). Onzeker: waar DJ, bar en trap precies staan.",
+  "type": "club",
   "photo": true
  },
  {
@@ -7925,213 +6504,7 @@
     ]
    }
   ],
-  "photo": true
- },
- {
-  "id": "h7-warehouse",
-  "name": "H7 Warehouse",
-  "address": "Humberweg 7, 1043 AC Amsterdam",
-  "area": "Sloterdijk",
-  "lat": 52.3905,
-  "lng": 4.83089,
-  "capacity": 812,
-  "status": "open",
-  "confidence": "middel",
-  "basis": "bag+fotos",
-  "source": "Geen plattegrond openbaar. De hal is niet het BAG-pand Humberweg 5/7 maar het buurpand Rhôneweg 12 (BAG 0363100012075700, bijeenkomstfunctie, 30 x 39,7 m; de venue heette tot 2013 Rhone Warehouse); footprint daarom opnieuw gedraaid op dat pand. Buitenmuren uit BAG + luchtfoto (hoog hallendeel met twee daklichtstroken aan de noordkant, lager voorhuis aan de Rhôneweg). Indeling: trifec.one (zaal 812, ingebouwde bar, lockers, backstage, groot balkon met zicht op de vloer, binnentuin 600 m2), partyflock (Rhone Warehouse, 'De Binnenplaats', 'Black Box met groot balkon'), foto's h7.nl 2022 en intravel (podium/booth aan de kopse kant, balkon er tegenover). Binnentuin = ommuurd BAG-perceel met bijeenkomstfunctie tussen Humberweg 7 en de hal. Podium op de noordwand afgeleid uit het dak; plek van bar en lockers geschat.",
-  "bronnen": [
-   "https://h7.nl/",
-   "https://trifec.one/h7-warehouse",
-   "https://partyflock.nl/location/16534:H7-Warehouse",
-   "https://intravel.net/images/places/large/2025/05/23/31426-383619-h7-warehouse-amsterdam.webp",
-   "https://service.pdok.nl/lv/bag/wfs/v2_0",
-   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
-  ],
-  "note": "Je komt binnen via Humberweg 7 en loopt over de binnentuin (rookplek) naar de hal. Podium/DJ aan de kopse kant tegenover het balkon; vanaf het balkon overzie je de hele vloer. Bar en lockers in het voorste deel (indicatief).",
-  "website": "https://h7.nl",
-  "rooms": [
-   {
-    "name": "Warehouse",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      29.9,
-      0.0
-     ],
-     [
-      30.0,
-      39.7
-     ],
-     [
-      17.4,
-      39.7
-     ],
-     [
-      17.4,
-      37.2
-     ],
-     [
-      13.9,
-      37.2
-     ],
-     [
-      13.9,
-      39.7
-     ],
-     [
-      0.0,
-      39.7
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 8.3,
-      "y": 0.5,
-      "w": 14.0,
-      "h": 4.4,
-      "label": "PODIUM / DJ"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0.0,
-        19.9
-       ],
-       [
-        30.0,
-        19.9
-       ],
-       [
-        30.0,
-        24.9
-       ],
-       [
-        0.0,
-        24.9
-       ]
-      ],
-      "dash": true,
-      "text": "BALKON (BOVEN)"
-     },
-     {
-      "t": "in",
-      "a": [
-       0.0,
-       28.9
-      ],
-      "b": [
-       0.0,
-       33.9
-      ],
-      "label": "TUIN"
-     },
-     {
-      "t": "bar",
-      "a": [
-       30.0,
-       26.9
-      ],
-      "b": [
-       30.0,
-       35.9
-      ]
-     },
-     {
-      "t": "cloak",
-      "x": 7.8,
-      "y": 34.9,
-      "label": "LOCKERS"
-     }
-    ]
-   },
-   {
-    "name": "Binnentuin (buiten)",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      19.9,
-      0.0
-     ],
-     [
-      19.9,
-      25.1
-     ],
-     [
-      0.0,
-      25.1
-     ]
-    ],
-    "features": [
-     {
-      "t": "in",
-      "a": [
-       0.0,
-       0.6
-      ],
-      "b": [
-       0.0,
-       5.6
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "label",
-      "x": 6.7,
-      "y": 3.1,
-      "text": "HUMBERWEG 7",
-      "size": 16
-     },
-     {
-      "t": "in",
-      "a": [
-       19.9,
-       19.1
-      ],
-      "b": [
-       19.9,
-       14.1
-      ],
-      "label": "HAL"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0.0,
-        19.6
-       ],
-       [
-        19.9,
-        19.6
-       ],
-       [
-        19.9,
-        25.1
-       ],
-       [
-        0.0,
-        25.1
-       ]
-      ],
-      "dash": true,
-      "text": "OVERDEKT"
-     },
-     {
-      "t": "smoke",
-      "x": 10.2,
-      "y": 11.1
-     }
-    ]
-   }
-  ],
+  "type": "club",
   "photo": true
  },
  {
@@ -8221,6 +6594,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.38373,
   "lng": 4.93093,
   "photo": true
@@ -8327,382 +6701,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.37629,
   "lng": 4.91162,
-  "photo": true
- },
- {
-  "id": "havenpark",
-  "name": "Havenpark",
-  "address": "Wethouder van Essenweg, 1046 AV Amsterdam",
-  "area": "Westpoort",
-  "website": "https://festivalfans.nl/locatie/havenpark/",
-  "source": "trifec.one/festivalfans (festivalterrein naast Sloterdijk, max ca. 15.000; Strafwerk, Elrow, Dockyard, Music On; ADE-editie Dockyard x Mystic Garden met vijf stages, grotendeels buiten met enkele overdekte). Indeling verschilt per festival; sterk indicatief.",
-  "confidence": "laag",
-  "note": "Open festivalterrein zonder vaste indeling: per event andere stages en tenten. Overzicht is een schets van een typische opstelling (mainstage achterin, tenten langs de zijkanten, ingang aan de Wethouder van Essenweg).",
-  "rooms": [
-   {
-    "name": "Terrein (typisch)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      130
-     ],
-     [
-      0,
-      130
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 5,
-      "w": 50,
-      "h": 18,
-      "label": "MAINSTAGE"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        5,
-        40
-       ],
-       [
-        30,
-        40
-       ],
-       [
-        30,
-        70
-       ],
-       [
-        5,
-        70
-       ]
-      ],
-      "text": "TENT 2"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        70,
-        40
-       ],
-       [
-        95,
-        40
-       ],
-       [
-        95,
-        70
-       ],
-       [
-        70,
-        70
-       ]
-      ],
-      "text": "TENT 3"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        5,
-        80
-       ],
-       [
-        30,
-        80
-       ],
-       [
-        30,
-        105
-       ],
-       [
-        5,
-        105
-       ]
-      ],
-      "text": "STAGE 4"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        70,
-        80
-       ],
-       [
-        95,
-        80
-       ],
-       [
-        95,
-        105
-       ],
-       [
-        70,
-        105
-       ]
-      ],
-      "text": "STAGE 5"
-     },
-     {
-      "t": "bar",
-      "a": [
-       35,
-       60
-      ],
-      "b": [
-       65,
-       60
-      ],
-      "label": "BARS (midden)"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       130
-      ],
-      "b": [
-       65,
-       130
-      ],
-      "label": "IN / LOCKERS"
-     },
-     {
-      "t": "wc",
-      "x": 50,
-      "y": 115
-     }
-    ]
-   }
-  ],
-  "aka": "N1-terrein",
-  "lat": 52.39294,
-  "lng": 4.77484,
-  "photo": true
- },
- {
-  "id": "hemkade-48",
-  "name": "Hemkade 48",
-  "address": "Hemkade 48, 1506 PS Zaandam",
-  "area": "Zaandam",
-  "website": "https://www.hemkade48.nl",
-  "status": "open",
-  "source": "hemkade48.nl business + locaties.nl (Main Hall 1175 m2, 3000 staand, bar van 30 m, L'Acoustics; The Black Box/Zaal 3 630 m2, 1000; Entry Hall 400 m2, 500; Dock Terrace 260 m2; The Yard 5000 m2); positie bar/podium indicatief",
-  "confidence": "laag",
-  "note": "Voormalige fabriekshal aan het Noordzeekanaal, sinds 1994. Via de entreehal naar de Main Hall; Black Box is de tweede zaal, terras aan het water.",
-  "rooms": [
-   {
-    "name": "Main Hall",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      75
-     ],
-     [
-      0,
-      75
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 2,
-      "w": 60,
-      "h": 14,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       8
-      ],
-      "b": [
-       100,
-       68
-      ],
-      "side": -1,
-      "label": "BAR 30 M"
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       58
-      ],
-      "b": [
-       0,
-       72
-      ],
-      "side": 1,
-      "label": "NAAR BLACK BOX / TERRAS"
-     },
-     {
-      "t": "wc",
-      "x": 15,
-      "y": 66
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       75
-      ],
-      "b": [
-       60,
-       75
-      ],
-      "label": "IN (ENTREEHAL)"
-     }
-    ]
-   },
-   {
-    "name": "The Black Box (Zaal 3)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      60
-     ],
-     [
-      0,
-      60
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 2,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       45
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       60
-      ],
-      "b": [
-       60,
-       60
-      ],
-      "label": "IN"
-     }
-    ]
-   },
-   {
-    "name": "Entreehal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      60
-     ],
-     [
-      0,
-      60
-     ]
-    ],
-    "features": [
-     {
-      "t": "in",
-      "a": [
-       35,
-       0
-      ],
-      "b": [
-       65,
-       0
-      ],
-      "side": -1,
-      "label": "NAAR MAIN HALL"
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       15
-      ],
-      "b": [
-       100,
-       45
-      ],
-      "side": -1
-     },
-     {
-      "t": "cloak",
-      "x": 15,
-      "y": 48
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       60
-      ],
-      "b": [
-       60,
-       60
-      ],
-      "label": "IN (HOOFDINGANG)"
-     }
-    ]
-   }
-  ],
-  "aka": "North Sea Venue",
-  "lat": 52.42219,
-  "lng": 4.81964,
   "photo": true
  },
  {
@@ -8963,289 +6964,7 @@
     ]
    }
   ],
-  "photo": true
- },
- {
-  "id": "het-hem",
-  "name": "Het HEM",
-  "address": "Hemkade 18, 1506 PR Zaandam",
-  "area": "Zaandam",
-  "website": "https://www.hethem.nl",
-  "status": "unsure",
-  "source": "hethem.nl (gebouw gesloten voor renovatie sinds juni 2024, programma elders; voormalige kogelfabriek met lange hallen op het Hembrugterrein); geen eventzaal bevestigd, indicatief",
-  "confidence": "laag",
-  "note": "Gebouw dicht voor renovatie; controleer of een event echt in Het HEM is of bij buurman Taets. Lange fabriekshal, indicatief getekend.",
-  "rooms": [
-   {
-    "name": "Hal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      250
-     ],
-     [
-      0,
-      250
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 6,
-      "w": 60,
-      "h": 20,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       120
-      ],
-      "b": [
-       0,
-       160
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       250
-      ],
-      "b": [
-       65,
-       250
-      ],
-      "label": "IN"
-     }
-    ]
-   }
-  ],
-  "lat": 52.42035,
-  "lng": 4.83585,
-  "photo": true
- },
- {
-  "id": "het-sieraad",
-  "name": "Het Sieraad",
-  "address": "Postjesweg 1, 1057 DT Amsterdam",
-  "area": "West",
-  "website": "https://www.het-sieraad.nl",
-  "lat": 52.36436,
-  "lng": 4.85704,
-  "confidence": "middel",
-  "basis": "bag+fotos",
-  "source": "Atrium: vorm van het glazen dak (waaier, ca. 27 m breed aan de noordkant, smal aan de zuidpunt) overgetrokken van de PDOK-luchtfoto binnen het BAG-pand en 2 m ingekort tot de opgegeven 755 m2. Brochure Het Sieraad (3D-plattegrond met zalen 1-7 rond het atrium) + foto's hetsieraadevents.nl: podium voor het hoge glas-in-loodraam aan de smalle kant; bij zakelijke events staat het podium soms aan de brede noordgevel. Ingang vanaf de Postjesweg (noord) aangenomen. Plaatwerkerij (140 m2, vaste koperen bar) en Timmerlokaal (140 m2, aan de gracht, cashcards volgens de huisregels) zijn indicatieve rechthoeken: ligging en vorm niet uit een plattegrond.",
-  "bronnen": [
-   "https://www.locaties.nl/media/qnyantd3/hetsieraad-brochure-gecomprimeerd.pdf",
-   "https://hetsieraadevents.nl/spaces/atrium",
-   "https://hetsieraadevents.nl/spaces/de-plaatwerkerij",
-   "https://hetsieraadevents.nl/spaces/timmerlokaal",
-   "https://hetsieraad.nl/information",
-   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
-  ],
-  "note": "Clubnachten in het Atrium onder het glazen dak; de dj staat aan de smalle kant voor het hoge glas-in-loodraam. Cashcards haal je in het Timmerlokaal. Lockers aanwezig, roken alleen buiten.",
-  "rooms": [
-   {
-    "name": "Atrium",
-    "outline": [
-     [
-      28.1,
-      41.5
-     ],
-     [
-      6.2,
-      36.3
-     ],
-     [
-      7.9,
-      29.3
-     ],
-     [
-      4.0,
-      22.0
-     ],
-     [
-      0.0,
-      17.6
-     ],
-     [
-      15.1,
-      0.0
-     ],
-     [
-      19.2,
-      3.4
-     ],
-     [
-      23.6,
-      8.2
-     ],
-     [
-      27.5,
-      16.4
-     ],
-     [
-      28.7,
-      26.2
-     ],
-     [
-      28.6,
-      34.8
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 13.0,
-      "y": 2.8,
-      "w": 5.2,
-      "h": 3.0,
-      "label": "DJ"
-     },
-     {
-      "t": "label",
-      "x": 14.3,
-      "y": 22.8,
-      "text": "GLAZEN DAK",
-      "size": 20
-     },
-     {
-      "t": "in",
-      "a": [
-       19.4,
-       39.4
-      ],
-      "b": [
-       15.9,
-       38.6
-      ],
-      "label": "IN"
-     }
-    ]
-   },
-   {
-    "name": "De Plaatwerkerij",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      10,
-      0
-     ],
-     [
-      10,
-      14
-     ],
-     [
-      0,
-      14
-     ]
-    ],
-    "features": [
-     {
-      "t": "bar",
-      "a": [
-       10,
-       4.5
-      ],
-      "b": [
-       10,
-       10.5
-      ],
-      "side": -1,
-      "label": "KOPEREN BAR"
-     },
-     {
-      "t": "in",
-      "a": [
-       3.5,
-       14
-      ],
-      "b": [
-       6.0,
-       14
-      ],
-      "label": "NAAR ATRIUM"
-     }
-    ]
-   },
-   {
-    "name": "Het Timmerlokaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      9,
-      0
-     ],
-     [
-      9,
-      15.5
-     ],
-     [
-      0,
-      15.5
-     ]
-    ],
-    "features": [
-     {
-      "t": "bar",
-      "a": [
-       9,
-       4
-      ],
-      "b": [
-       9,
-       11
-      ],
-      "side": -1,
-      "label": "BAR"
-     },
-     {
-      "t": "label",
-      "x": 6.3,
-      "y": 7.5,
-      "text": "CASHCARDS",
-      "size": 18
-     },
-     {
-      "t": "label",
-      "x": 2.4,
-      "y": 7.8,
-      "text": "RAMEN (GRACHT)",
-      "size": 16
-     },
-     {
-      "t": "in",
-      "a": [
-       3.5,
-       15.5
-      ],
-      "b": [
-       6.0,
-       15.5
-      ],
-      "label": "NAAR ATRIUM"
-     }
-    ]
-   }
-  ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -9390,286 +7109,9 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.40138,
   "lng": 4.89022,
-  "photo": true
- },
- {
-  "id": "hotel-arena",
-  "name": "Hotel Arena",
-  "address": "'s-Gravesandestraat 55, 1092 AA Amsterdam",
-  "area": "Oost",
-  "website": "https://hotelarena.nl",
-  "source": "Officiële plattegronden Kapel en Vide op hotelarena.nl/en/space/kapel (apsis met podium, 2x4 zuilen, dubbele hoofdingang tegenover de apsis, trap naar de vide bij de ingang), capaciteitstabel (Kapel + Vide party 950). Barpositie staat niet op de tekening.",
-  "confidence": "hoog",
-  "note": "Je komt binnen recht tegenover het podium in de apsis. Trap naar het balkon (de Vide) links bij de ingang. Bar: positie niet op de plattegrond.",
-  "rooms": [
-   {
-    "name": "Kapel",
-    "outline": [
-     [
-      0,
-      200
-     ],
-     [
-      100,
-      200
-     ],
-     [
-      100,
-      50
-     ],
-     [
-      96,
-      32
-     ],
-     [
-      85,
-      15
-     ],
-     [
-      70,
-      4
-     ],
-     [
-      50,
-      0
-     ],
-     [
-      30,
-      4
-     ],
-     [
-      15,
-      15
-     ],
-     [
-      4,
-      32
-     ],
-     [
-      0,
-      50
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 12,
-      "w": 50,
-      "h": 22
-     },
-     {
-      "t": "pillar",
-      "x": 28,
-      "y": 70
-     },
-     {
-      "t": "pillar",
-      "x": 72,
-      "y": 70
-     },
-     {
-      "t": "pillar",
-      "x": 28,
-      "y": 115
-     },
-     {
-      "t": "pillar",
-      "x": 72,
-      "y": 115
-     },
-     {
-      "t": "pillar",
-      "x": 28,
-      "y": 160
-     },
-     {
-      "t": "pillar",
-      "x": 72,
-      "y": 160
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 48,
-      "text": "VIDE (BALKON) BOVEN",
-      "size": 14
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       200
-      ],
-      "b": [
-       60,
-       200
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "stairs",
-      "x": 12,
-      "y": 190,
-      "label": "TRAP VIDE"
-     }
-    ]
-   }
-  ],
-  "aka": "Kapel",
-  "lat": 52.36123,
-  "lng": 4.9163,
-  "photo": true
- },
- {
-  "id": "ijland",
-  "name": "IJland",
-  "address": "Tt. Vasumweg 171, 1033 SG Amsterdam",
-  "area": "Noord",
-  "website": "https://ijland.nl",
-  "status": "open",
-  "capacity": 1100,
-  "source": "ijland.nl/location (grote zaal 500 m2, kleine zaal 105 m2, waterterras 300 m2, klein terras 200 m2; feest beide zalen 800+, totaal tot 1500), amsterdamnow (tot 1100, Bay House), tixel. Posities indicatief",
-  "confidence": "laag",
-  "note": "Industriële hal aan het IJ bij NDSM: grote zaal, kleine zaal en groot waterterras (boten kunnen aanleggen).",
-  "rooms": [
-   {
-    "name": "Grote zaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 12
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       35
-      ],
-      "b": [
-       100,
-       80
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       110
-      ],
-      "b": [
-       60,
-       110
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       30
-      ],
-      "b": [
-       0,
-       60
-      ],
-      "label": "TERRAS (IJ)"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       95
-      ],
-      "b": [
-       100,
-       108
-      ],
-      "side": -1,
-      "label": "KLEINE ZAAL"
-     }
-    ]
-   },
-   {
-    "name": "Kleine zaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      70,
-      0
-     ],
-     [
-      70,
-      70
-     ],
-     [
-      0,
-      70
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 20,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       70,
-       20
-      ],
-      "b": [
-       70,
-       50
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       50
-      ],
-      "b": [
-       0,
-       64
-      ],
-      "label": "GROTE ZAAL"
-     }
-    ]
-   }
-  ],
-  "lat": 52.41113,
-  "lng": 4.87723,
   "photo": true
  },
  {
@@ -9759,6 +7201,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.40137,
   "lng": 4.89512,
   "photo": true
@@ -9981,6 +7424,7 @@
    }
   ],
   "aka": "Stadsschouwburg",
+  "type": "podium",
   "photo": true
  },
  {
@@ -10191,6 +7635,7 @@
    "https://www.technoairlines.com/club/jimmy-woo-amsterdam",
    "https://service.pdok.nl/lv/bag/wfs/v2_0"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -10338,6 +7783,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -10762,7 +8208,8 @@
    "https://media.yatzer.com/f2_kanarie_club_amsterdam_studio_modijefsky_level_1_yatzer-1.jpg",
    "https://kanarieclub.nl/groepen/",
    "BAG pand 0363100012236693 (PDOK) + PDOK luchtfoto"
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "klaproos",
@@ -10837,97 +8284,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.39368,
   "lng": 4.91209,
-  "photo": true
- },
- {
-  "id": "kompaszaal",
-  "name": "Kompaszaal",
-  "address": "KNSM-laan 311, 1019 LE Amsterdam",
-  "area": "Oost",
-  "website": "https://www.kompaszaal.nl",
-  "status": "open",
-  "capacity": 250,
-  "source": "kompaszaal.nl (balzaal ca. 500 m2 op de verdieping van de oude KNSM-aankomsthal, karakteristieke bar, podium/piano, lobby, terras met zicht op het IJ; swing/salsa/rock-'n-roll-avonden), eventlocations.com (200 zittend / 250 staand), Google-reviews (grote zaal boven via twee trappen). Posities indicatief",
-  "confidence": "middel",
-  "note": "Balzaal op de eerste verdieping (twee trappen omhoog); bar in de zaal, terras aan de IJ-kant.",
-  "rooms": [
-   {
-    "name": "Balzaal (1e verdieping)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 30,
-      "y": 4,
-      "w": 40,
-      "h": 12
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       40
-      ],
-      "b": [
-       100,
-       85
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       40
-      ],
-      "label": "TERRAS (IJ)"
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       110
-      ],
-      "b": [
-       60,
-       110
-      ],
-      "label": "LOBBY / TRAP"
-     },
-     {
-      "t": "stairs",
-      "x": 20,
-      "y": 100,
-      "label": "TRAP"
-     }
-    ]
-   }
-  ],
-  "lat": 52.3773,
-  "lng": 4.93978,
   "photo": true
  },
  {
@@ -11122,188 +8481,7 @@
     ]
    }
   ],
-  "photo": true
- },
- {
-  "id": "kromhouthal",
-  "name": "Kromhouthal",
-  "address": "Gedempt Hamerkanaal 231, 1021 KP Amsterdam",
-  "area": "Noord",
-  "lat": 52.3833,
-  "lng": 4.92049,
-  "website": "https://www.kromhouthal.com",
-  "aka": "Kromhouthal 231",
-  "rooms": [
-   {
-    "name": "Hal",
-    "outline": [
-     [
-      0,
-      0.0
-     ],
-     [
-      33.1,
-      0.0
-     ],
-     [
-      33.1,
-      89.9
-     ],
-     [
-      25.3,
-      89.9
-     ],
-     [
-      25.3,
-      139.8
-     ],
-     [
-      9.8,
-      139.8
-     ],
-     [
-      9.8,
-      50.2
-     ],
-     [
-      0,
-      50.2
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 10.0,
-      "y": 1.0,
-      "w": 13.6,
-      "h": 7.0
-     },
-     {
-      "t": "line",
-      "a": [
-       9.8,
-       0.0
-      ],
-      "b": [
-       9.8,
-       50.2
-      ],
-      "dash": true,
-      "o": 0.5
-     },
-     {
-      "t": "line",
-      "a": [
-       23.8,
-       0.0
-      ],
-      "b": [
-       23.8,
-       89.9
-      ],
-      "dash": true,
-      "o": 0.5
-     },
-     {
-      "t": "label",
-      "x": 4.9,
-      "y": 24.0,
-      "text": "OOST",
-      "size": 16
-     },
-     {
-      "t": "label",
-      "x": 28.5,
-      "y": 40.0,
-      "text": "WEST",
-      "size": 16
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        9.8,
-        135.7
-       ],
-       [
-        9.8,
-        112.2
-       ],
-       [
-        15.7,
-        112.2
-       ],
-       [
-        15.7,
-        135.7
-       ]
-      ],
-      "dash": true,
-      "text": "VERHOGING"
-     },
-     {
-      "t": "in",
-      "a": [
-       12.1,
-       139.8
-      ],
-      "b": [
-       21.6,
-       139.8
-      ],
-      "side": 1,
-      "label": "ENTREE 1 (STRAAT)"
-     },
-     {
-      "t": "in",
-      "a": [
-       33.1,
-       50.5
-      ],
-      "b": [
-       33.1,
-       58.0
-      ],
-      "side": -1,
-      "label": "BINNENPLEIN"
-     },
-     {
-      "t": "in",
-      "a": [
-       9.8,
-       50.8
-      ],
-      "b": [
-       9.8,
-       55.6
-      ],
-      "side": 1,
-      "label": "OOSTINGANG"
-     },
-     {
-      "t": "wc",
-      "x": 4.0,
-      "y": 130.8
-     },
-     {
-      "t": "wc",
-      "x": 5.0,
-      "y": 61.8
-     }
-    ]
-   }
-  ],
-  "confidence": "hoog",
-  "basis": "plattegrond",
-  "source": "Officiële plattegrond begane grond Kromhouthal (1:400, 17 juli 2018, gelinkt op kromhouthal.com/locatie-informatie): centrale hal 139,8 x 33,1 m = 1a Kromhouthal (middenschip 14,3-15,5 m breed) + 1b Kromhouthal Oost (50,2 x 8,5 m, zuidelijk deel oostbeuk) + 1c Kromhouthal West (89,9 x 8,5 m). Noordelijk deel oostbeuk = keuken, toiletten en kantoren; noordelijk deel westbeuk = ander gebruik. Maten en ingangen (Entree 1 noordgevel, oostingang, ingangstent-zone op het binnenplein) overgetrokken; hal-as en lengte gecontroleerd met BAG-pand 0363100012243116. Podium aan de zuidkop afgeleid uit feestfoto kromhouthal.com (podium aan de kop, beide zijbeuken open met kraanbaan erboven). Bars per evenement, niet getekend.",
-  "bronnen": [
-   "https://kromhouthal.com/wp-content/uploads/2023/02/Kromhouthal-Detailplattegrond-BG-.pdf",
-   "https://kromhouthal.com/locatie-informatie/",
-   "https://kromhouthal.com/service-faciliteiten/",
-   "https://kromhouthal.com/wp-content/uploads/2024/03/Trifinance-feest-foto.jpg",
-   "https://www.patta.nl/blogs/news/order-tattoo-music-art-jam-2026"
-  ],
-  "note": "Eén lange fabriekshal (140 x 33 m) met middenschip en twee zijbeuken onder de kraanbanen: Oost (bij het podium) en West. Podium en bars worden per evenement opgebouwd; hier getekend met het podium aan de IJ-kant (zuid). Hoofdingang Entree 1 aan de straatkant (noord), met de lage verhoging rechts ernaast; bij grote events kan de ingang via een tent op het binnenplein (westkant) lopen. WC's aan de oostkant: bij Entree 1 en halverwege de hal. In 2026 ook als \"Kromhouthal 231\" aangekondigd.",
+  "type": "podium",
   "photo": true
  },
  {
@@ -11488,6 +8666,7 @@
     ]
    }
   ],
+  "type": "podium",
   "photo": true
  },
  {
@@ -11771,213 +8950,7 @@
     ]
    }
   ],
-  "photo": true
- },
- {
-  "id": "loods-6",
-  "name": "Loods 6",
-  "address": "KNSM-laan 143, 1019 LB Amsterdam",
-  "area": "Oost",
-  "website": "https://www.loods6.nl",
-  "status": "unsure",
-  "capacity": 600,
-  "source": "loods6.nl (Bagagehal als culturele evenementenhal; CURRENTS ADE 2026), hirespace (Bagagehal ca. 397 m2, 600 staand, eigen ingang), locaties.nl (Bagagehal ca. 880 m2, 2-600). Vooral expo/events, geen vaste club; indicatief",
-  "confidence": "laag",
-  "note": "Bagagehal op de begane grond van Loods 6 met eigen ingang; per event ingericht.",
-  "rooms": [
-   {
-    "name": "Bagagehal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      70
-     ],
-     [
-      0,
-      70
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       55
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       70
-      ],
-      "b": [
-       60,
-       70
-      ]
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 35
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 35
-     }
-    ]
-   }
-  ],
-  "lat": 52.37727,
-  "lng": 4.93877,
-  "photo": true
- },
- {
-  "id": "westergas-machinegebouw",
-  "name": "Machinegebouw",
-  "address": "Pazzanistraat 37, 1014 DB Amsterdam",
-  "area": "West",
-  "website": "https://www.westergas.nl",
-  "status": "open",
-  "source": "Westergasfabriek factsheet (Machinegebouw grote hal 270 m2, 24,7x11x12,1 m, 265 receptie; kleine hal/Kapel 60 m2, 10,9x5,5 m, 50) + Greater Venues (vrijstaand, lichte hal onder houten dak met aangrenzende kapel); bar/ingang indicatief",
-  "confidence": "middel",
-  "note": "Klein vrijstaand gebouw op het Westergasterrein, naast Pacific/Radio Radio. Grote hal met de Kapel als zijzaal.",
-  "rooms": [
-   {
-    "name": "Grote hal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      225
-     ],
-     [
-      0,
-      225
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 5,
-      "w": 60,
-      "h": 20,
-      "label": "PODIUM"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       30
-      ],
-      "b": [
-       100,
-       50
-      ],
-      "side": -1,
-      "label": "NAAR KAPEL"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       150
-      ],
-      "b": [
-       0,
-       190
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       225
-      ],
-      "b": [
-       65,
-       225
-      ],
-      "label": "IN"
-     }
-    ]
-   },
-   {
-    "name": "Kapel",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      198
-     ],
-     [
-      0,
-      198
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 4,
-      "w": 50,
-      "h": 18,
-      "label": "PODIUM"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       198
-      ],
-      "b": [
-       65,
-       198
-      ],
-      "label": "IN (VANUIT GROTE HAL)"
-     }
-    ]
-   }
-  ],
-  "aka": "Westergas",
-  "lat": 52.38611,
-  "lng": 4.87214,
+  "type": "club",
   "photo": true
  },
  {
@@ -12148,7 +9121,8 @@
    "https://madamamsterdam.nl/groups/",
    "https://madamamsterdam.nl/visit/",
    "https://kivi.nl/_Resources/Persistent/4/8/c/5/48c599d6c32b299f9a51c22f217a06c8668f41bc/RoyalHaskoning-%20Amsterdam%20Overhoeks%20KIVI%2022%20oktober%202015.pdf"
-  ]
+  ],
+  "type": "bar"
  },
  {
   "id": "maloe-melo",
@@ -12276,267 +9250,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.37006,
   "lng": 4.87772,
-  "photo": true
- },
- {
-  "id": "mediahaven",
-  "name": "Mediahaven",
-  "address": "Moermanskkade 107, 1013 BC Amsterdam",
-  "area": "West",
-  "lat": 52.39944,
-  "lng": 4.87168,
-  "website": "https://loveland.nl/ade/mediahaven/",
-  "note": "Tv-studiocomplex in de Houthavens, alleen open bij events (Loveland ADE e.a.). Studio 1 is de grote hal (12 m hoog), Studio 2 is kleiner met ramen naar het IJ, de basement is de rauwe derde ruimte met de wc's. DJ-posities wisselen per event.",
-  "rooms": [
-   {
-    "name": "Studio 1 (Mediahaven 1)",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      86.6,
-      0.0
-     ],
-     [
-      86.6,
-      100.0
-     ],
-     [
-      0.0,
-      100.0
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 27.6,
-      "y": 2.6,
-      "w": 31.6,
-      "h": 10.5,
-      "label": "DJ"
-     },
-     {
-      "t": "in",
-      "a": [
-       31.6,
-       100.0
-      ],
-      "b": [
-       55.3,
-       100.0
-      ],
-      "label": "NAAR STUDIO 2 / IN"
-     },
-     {
-      "t": "label",
-      "x": 43.2,
-      "y": 52.6,
-      "text": "GROTE STUDIO, 12 M HOOG"
-     }
-    ]
-   },
-   {
-    "name": "Studio 2 (Mediahaven 2)",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      100.0,
-      0.0
-     ],
-     [
-      100.0,
-      100.0
-     ],
-     [
-      0.0,
-      100.0
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 30.0,
-      "y": 4.0,
-      "w": 40.0,
-      "h": 14.0,
-      "label": "DJ"
-     },
-     {
-      "t": "in",
-      "a": [
-       0.0,
-       70.0
-      ],
-      "b": [
-       0.0,
-       90.0
-      ],
-      "label": "STUDIO 1"
-     },
-     {
-      "t": "label",
-      "x": 65.0,
-      "y": 55.0,
-      "text": "GLAZEN GEVEL"
-     },
-     {
-      "t": "in",
-      "a": [
-       40.0,
-       100.0
-      ],
-      "b": [
-       65.0,
-       100.0
-      ],
-      "label": "ENTREE (TRAP)"
-     }
-    ]
-   },
-   {
-    "name": "Basement",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      100.0,
-      0.0
-     ],
-     [
-      100.0,
-      77.8
-     ],
-     [
-      0.0,
-      77.8
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 33.3,
-      "y": 3.9,
-      "w": 33.3,
-      "h": 12.2,
-      "label": "DJ"
-     },
-     {
-      "t": "stairs",
-      "x": 27.8,
-      "y": 63.9,
-      "label": "TRAP NAAR BOVEN"
-     },
-     {
-      "t": "wc",
-      "x": 80.6,
-      "y": 63.9
-     }
-    ]
-   }
-  ],
-  "confidence": "laag",
-  "basis": "schatting",
-  "source": "BAG-pand 0363100012240348 (2012, 79,5 x 32,9 m) + luchtfoto: westblok met groen dak ca. 38 x 33 m = Mediahaven 1 (1.200 m2, 12,15 m hoog volgens Gravity Media), oostblok aan het IJ met Mediahaven 2 (400 m2). Loveland: drie verbonden ruimtes, van 12 m hoog tot een basement; festivalfans 2018: grote en kleinere zaal, klein zaaltje en wc's in de basement. Locatiefoto Loveland: donker studioblok, ernaast een studio achter een glazen gevel en de entree met trap. Geen plattegrond (site Gravity Media/EMG achter Cloudflare); posities DJ, ingang en maat Studio 2/basement geschat.",
-  "bronnen": [
-   "https://loveland.nl/ade/mediahaven/",
-   "https://loveland.nl/ade/faq/",
-   "https://loveland.nl/ade/wp-content/uploads/sites/4/2019/06/loc-2-1239x400.jpg",
-   "https://www.gravitymedia.com/facilities/studios-mediahaven/",
-   "https://festivalfans.nl/report-circoloco-x-loveland-ade-2018/"
-  ],
-  "photo": true
- },
- {
-  "id": "mediamatic-biotoop",
-  "name": "Mediamatic Biotoop",
-  "address": "Dijksgracht 6, 1019 BS Amsterdam",
-  "area": "Centrum",
-  "lat": 52.3765,
-  "lng": 4.9097,
-  "website": "https://www.mediamatic.net",
-  "status": "open",
-  "source": "mediamatic.net (Sluisdeurenloods: hoofdgebouw, max 150 staand, groot scherm + geluid; kas met Mediamatic Bar/ETEN ernaast op het Dijkspark); indeling indicatief",
-  "confidence": "laag",
-  "note": "Terrein aan het Oosterdok naast Hannekes Boom. De loods is de eventzaal; de bar zit in de kas (serres) ernaast.",
-  "rooms": [
-   {
-    "name": "Sluisdeurenloods",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      55
-     ],
-     [
-      0,
-      55
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 3,
-      "w": 30,
-      "h": 10,
-      "label": "DJ / SCHERM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       45
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       55
-      ],
-      "b": [
-       60,
-       55
-      ],
-      "label": "IN (DIJKSPARK)"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       35
-      ],
-      "b": [
-       100,
-       50
-      ],
-      "side": -1,
-      "label": "NAAR KAS / BAR"
-     }
-    ]
-   }
-  ],
   "photo": true
  },
  {
@@ -13027,6 +9743,7 @@
    "https://www.melkweg.nl/nl/zaalverhuur/",
    "https://www.melkweg.nl/nl/praktische-info/"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -13095,6 +9812,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.36492,
   "lng": 4.88221,
   "photo": true
@@ -13194,6 +9912,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.376,
   "lng": 4.92759,
   "photo": true
@@ -13292,6 +10011,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.3662,
   "lng": 4.89171,
   "photo": true
@@ -13362,6 +10082,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.38543,
   "lng": 4.92798,
   "photo": true
@@ -13519,6 +10240,7 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.37827,
   "lng": 4.91311,
   "photo": true
@@ -13630,182 +10352,8 @@
    "https://zoek.officielebekendmakingen.nl/gmb-2026-1109.pdf",
    "https://linktr.ee/nachbar169",
    "BAG pand 0363100012167527 (PDOK)"
-  ]
- },
- {
-  "id": "ndsm-loods",
-  "name": "NDSM Loods",
-  "address": "NDSM-Plein 93, 1033 WC Amsterdam",
-  "area": "Noord",
-  "lat": 52.40129,
-  "lng": 4.8957,
-  "website": "https://www.ndsm.nl",
-  "rooms": [
-   {
-    "name": "Noordstrook",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      20,
-      0
-     ],
-     [
-      20,
-      150
-     ],
-     [
-      0,
-      150
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 3.0,
-      "y": 2.0,
-      "w": 14.0,
-      "h": 9.0
-     },
-     {
-      "t": "label",
-      "x": 33.0,
-      "y": 75.0,
-      "text": "KUNSTSTAD",
-      "size": 18
-     },
-     {
-      "t": "label",
-      "x": -13.0,
-      "y": 75.0,
-      "text": "WATERKANT",
-      "size": 18
-     },
-     {
-      "t": "in",
-      "a": [
-       6.0,
-       150.0
-      ],
-      "b": [
-       14.0,
-       150.0
-      ],
-      "side": -1,
-      "label": "DOCKLANDS"
-     }
-    ]
-   },
-   {
-    "name": "Underskate",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      20,
-      0
-     ],
-     [
-      20,
-      75
-     ],
-     [
-      0,
-      75
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 4.0,
-      "y": 2.0,
-      "w": 12.0,
-      "h": 7.0
-     },
-     {
-      "t": "label",
-      "x": 10.0,
-      "y": 38.0,
-      "text": "SKATEVLOER BOVEN",
-      "size": 15
-     },
-     {
-      "t": "in",
-      "a": [
-       4.0,
-       75.0
-      ],
-      "b": [
-       16.0,
-       75.0
-      ],
-      "side": -1,
-      "label": "SCHUIFDEUREN DOCKLANDS"
-     }
-    ]
-   },
-   {
-    "name": "NDSM Theater",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      15,
-      0
-     ],
-     [
-      15,
-      13.5
-     ],
-     [
-      0,
-      13.5
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 3.0,
-      "y": 0.8,
-      "w": 9.0,
-      "h": 3.0
-     },
-     {
-      "t": "in",
-      "a": [
-       6.0,
-       13.5
-      ],
-      "b": [
-       9.0,
-       13.5
-      ],
-      "side": -1,
-      "label": "IN"
-     }
-    ]
-   }
   ],
-  "confidence": "laag",
-  "basis": "bag+fotos",
-  "source": "Geen plattegrond van de loods gevonden. Maten van ndsmloods.nl/verhuur (2026): Noordstrook ca. 20 x 150 m (3000 m2, 24 m hoog, gerenoveerd), Underskate ca. 20 x 75 m onder de oude skatebaan (7 m hoog, schuifdeuren naar de Docklands), Upperskate erboven (NDSM Fuse), NDSM Theater 200 m2 in de zuidoosthoek. BAG-pand 0363100012062886 (ca. 160 x 125 m) en PDOK-luchtfoto: beuken NW-ZO, Noordstrook langs de NO-gevel. Ligging Underskate (NW-kop, zuidwestkant) afgeleid uit de verhuurteksten; podium- en barposities per evenement, niet bevestigd.",
-  "bronnen": [
-   "https://www.ndsmloods.nl/verhuur/",
-   "https://www.ndsmloods.nl/verhuur/noordstrook-2/",
-   "https://www.ndsmloods.nl/verhuur/underskate/",
-   "https://www.ndsmloods.nl/verhuur/upperskate/",
-   "https://www.ndsmloods.nl/verhuur/pleintje/",
-   "https://www.ndsmloods.nl/bezoek/ndsm-loods/",
-   "https://www.ndsm.nl/over/plattegrond-ndsm-werf"
-  ],
-  "note": "Enorme scheepsbouwloods (ca. 160 x 125 m); de Kunststad (ateliers) neemt het midden in. Feesten zitten meestal in de Noordstrook (lange hoge hal langs de waterkant) of in de Underskate (lager, onder de oude skatevloer, met schuifdeuren naar de Docklands aan de kop van de loods). Het NDSM Theater zit in de zuidoosthoek. Podium en bars worden per evenement opgebouwd: kijk bij binnenkomst waar het podium staat.",
-  "photo": true
+  "type": "bar"
  },
  {
   "id": "noorderlicht-cafe",
@@ -13894,6 +10442,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.39957,
   "lng": 4.89698,
   "photo": true
@@ -13968,159 +10517,10 @@
     ]
    }
   ],
+  "type": "twijfel",
   "lat": 52.38416,
   "lng": 4.921,
   "photo": false
- },
- {
-  "id": "nxt-museum",
-  "name": "Nxt Museum",
-  "address": "Asterweg 22, 1031 HP Amsterdam",
-  "area": "Noord",
-  "website": "https://nxtmuseum.com",
-  "source": "Zaalmaten uit iamsterdam venue finder (Nxt Stage 359 m2, 21,3 x 12,7 m, 8,5 m hoog; Entrance Hall 128 m2, 25 x 4,5 m; hele museum 1300 m2, 2000 pers.) en nxtmuseum.com (Stage 400 staand). BAG: hoofdhal ca. 43,6 x 30,4 m plus smalle aanbouw aan de Asterweg, maar de plek van de Stage in de hal is niet bekend. DJ voor de lange projectiewand uit eventfoto's; verbinding Entreehal-Stage geschat. Venue-hire-brochure (PDF) gaf 403.",
-  "confidence": "laag",
-  "note": "Clubnachten (ADE) in de Nxt Stage, een zwarte doos van 8,5 m hoog met projecties op wand en vloer; de DJ staat voor de grote projectiewand. Je komt binnen via de lange Entreehal met LED-wand aan de Asterweg. Plek van bars en de route door het museum zijn niet bekend (indeling geschat).",
-  "rooms": [
-   {
-    "name": "Nxt Stage",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      21.3,
-      0
-     ],
-     [
-      21.3,
-      12.7
-     ],
-     [
-      0,
-      12.7
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 9.15,
-      "y": 0.9,
-      "w": 3,
-      "h": 1.6
-     },
-     {
-      "t": "line",
-      "a": [
-       0.4,
-       0.35
-      ],
-      "b": [
-       20.9,
-       0.35
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 4.6,
-      "y": 1.6,
-      "text": "PROJECTIEWAND",
-      "size": 18
-     },
-     {
-      "t": "in",
-      "a": [
-       8.6,
-       12.7
-      ],
-      "b": [
-       12.7,
-       12.7
-      ],
-      "label": "NAAR ENTREEHAL"
-     }
-    ]
-   },
-   {
-    "name": "Entreehal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      4.5,
-      0
-     ],
-     [
-      4.5,
-      25
-     ],
-     [
-      0,
-      25
-     ]
-    ],
-    "features": [
-     {
-      "t": "line",
-      "a": [
-       0.3,
-       0.35
-      ],
-      "b": [
-       4.2,
-       0.35
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 2.25,
-      "y": 1.6,
-      "text": "LED-WAND",
-      "size": 18
-     },
-     {
-      "t": "in",
-      "a": [
-       4.5,
-       3
-      ],
-      "b": [
-       4.5,
-       6.5
-      ],
-      "side": -1,
-      "label": "NAAR STAGE"
-     },
-     {
-      "t": "in",
-      "a": [
-       1,
-       25
-      ],
-      "b": [
-       3.5,
-       25
-      ],
-      "label": "IN (ASTERWEG)"
-     }
-    ]
-   }
-  ],
-  "lat": 52.39119,
-  "lng": 4.90404,
-  "photo": true,
-  "basis": "schatting",
-  "bronnen": [
-   "https://www.iamsterdam.com/en/conventions/venue-finder/nxt-museum",
-   "https://nxtmuseum.com/b2b/plan-an-event/",
-   "https://nxtmuseum.com/ade/",
-   "http://nxtmuseum.com/ade-house-rules"
-  ]
  },
  {
   "id": "occii",
@@ -14247,287 +10647,7 @@
    "https://occii.org/wp-content/uploads/2017/11/IMG_5221a.jpg"
   ],
   "note": "Binnen via de hoge houten deuren aan de Amstelveenseweg (tegenover de zuidingang van het Vondelpark); door de foyer loop je de lange zaal in, het podium staat helemaal achterin. Bar en geluidstafel staan achter in de zaal, aan de kant van de ingang. Capaciteit ca. 225, roken buiten.",
-  "photo": true
- },
- {
-  "id": "oceandiva",
-  "name": "Oceandiva",
-  "address": "Passenger Terminal Amsterdam, Piet Heinkade 27, 1019 BR Amsterdam (aanlegplaats wisselt per event)",
-  "area": "Centrum",
-  "website": "https://www.oceandiva.eu",
-  "status": "open",
-  "source": "oceandiva.eu/ships (Original 85,5x16,7 m, 2500 m2, 4 ruimtes: glazen foyer, balkon, centrale ruimte met podium, buitendek/terras, 6 bars, 100-1500; Futura 61x11 m, 1250 m2, centrale ruimte 4 m hoog met LED-bars, VIP-dek, loungedek, buitendek, 4 bars, 100-600) + ADE 2026 boat parties; dekindeling indicatief",
-  "confidence": "laag",
-  "note": "Opstappen via de loopplank bij de glazen foyer (achtersteven); podium in de centrale ruimte, balkon kijkt erop uit, buitendek bovenop. Aanlegplaats staat op je ticket (meestal Passenger Terminal / Veemkade of Javakade).",
-  "rooms": [
-   {
-    "name": "Original - Hoofddek",
-    "outline": [
-     [
-      0,
-      40
-     ],
-     [
-      50,
-      0
-     ],
-     [
-      100,
-      40
-     ],
-     [
-      100,
-      320
-     ],
-     [
-      0,
-      320
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 30,
-      "w": 60,
-      "h": 20,
-      "label": "PODIUM"
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 95,
-      "text": "BALKON (BOVEN)",
-      "size": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       120
-      ],
-      "b": [
-       0,
-       160
-      ],
-      "side": 1
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       120
-      ],
-      "b": [
-       100,
-       160
-      ],
-      "side": -1
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 200,
-      "text": "CENTRALE RUIMTE",
-      "size": 12
-     },
-     {
-      "t": "stairs",
-      "x": 15,
-      "y": 298,
-      "label": "TRAP BUITENDEK"
-     },
-     {
-      "t": "stairs",
-      "x": 85,
-      "y": 298,
-      "label": "TRAP BUITENDEK"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       320
-      ],
-      "b": [
-       65,
-       320
-      ],
-      "label": "IN (GLAZEN FOYER / LOOPPLANK)"
-     }
-    ]
-   },
-   {
-    "name": "Original - Buitendek",
-    "outline": [
-     [
-      0,
-      40
-     ],
-     [
-      50,
-      0
-     ],
-     [
-      100,
-      40
-     ],
-     [
-      100,
-      320
-     ],
-     [
-      0,
-      320
-     ]
-    ],
-    "features": [
-     {
-      "t": "label",
-      "x": 50,
-      "y": 150,
-      "text": "BUITENDEK 360°",
-      "size": 12
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       200
-      ],
-      "b": [
-       0,
-       240
-      ],
-      "side": 1
-     },
-     {
-      "t": "stairs",
-      "x": 15,
-      "y": 298,
-      "label": "TRAP NAAR BENEDEN"
-     },
-     {
-      "t": "stairs",
-      "x": 85,
-      "y": 298,
-      "label": "TRAP NAAR BENEDEN"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        20,
-        60
-       ],
-       [
-        80,
-        60
-       ],
-       [
-        80,
-        130
-       ],
-       [
-        20,
-        130
-       ]
-      ],
-      "dash": true,
-      "text": "TERRAS (TENT MOGELIJK)"
-     }
-    ]
-   },
-   {
-    "name": "Futura - Centrale ruimte",
-    "outline": [
-     [
-      0,
-      40
-     ],
-     [
-      50,
-      0
-     ],
-     [
-      100,
-      40
-     ],
-     [
-      100,
-      280
-     ],
-     [
-      0,
-      280
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 40,
-      "w": 30,
-      "h": 14,
-      "label": "DJ / PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       110
-      ],
-      "b": [
-       0,
-       150
-      ],
-      "side": 1,
-      "label": "LED-BAR"
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       110
-      ],
-      "b": [
-       100,
-       150
-      ],
-      "side": -1,
-      "label": "LED-BAR"
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 225,
-      "text": "LOUNGEDEK",
-      "size": 11
-     },
-     {
-      "t": "stairs",
-      "x": 15,
-      "y": 260,
-      "label": "TRAP VIP-DEK / BUITENDEK"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       280
-      ],
-      "b": [
-       65,
-       280
-      ],
-      "label": "IN (LOOPPLANK)"
-     }
-    ]
-   }
-  ],
-  "aka": "Original & Futura",
-  "lat": 52.37826,
-  "lng": 4.91593,
+  "type": "club",
   "photo": true
  },
  {
@@ -14618,8 +10738,388 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.38523,
   "lng": 4.92368,
+  "photo": true
+ },
+ {
+  "id": "oliva",
+  "name": "Oliva",
+  "aka": "Claire",
+  "address": "Rembrandtplein 17, 1017 CT Amsterdam",
+  "area": "Centrum",
+  "website": "https://oliva-amsterdam.nl",
+  "capacity": 900,
+  "status": "open",
+  "rooms": [
+   {
+    "name": "Rembrandtzaal (Area 2)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      12,
+      0
+     ],
+     [
+      12,
+      11
+     ],
+     [
+      0,
+      11
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 4.5,
+      "y": 0.5,
+      "w": 3.0,
+      "h": 1.4
+     },
+     {
+      "t": "bar",
+      "a": [
+       10.7,
+       5.6
+      ],
+      "b": [
+       10.7,
+       10.0
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       1.9
+      ],
+      "b": [
+       0,
+       3.3
+      ],
+      "label": "NAAR GANG"
+     },
+     {
+      "t": "label",
+      "x": 2.2,
+      "y": 4.6,
+      "text": "AREA 2",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 6.0,
+      "y": 6.2,
+      "text": "DANSVLOER",
+      "size": 18
+     }
+    ]
+   },
+   {
+    "name": "Amstelzaal",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      0.1,
+      17.0
+     ],
+     [
+      10.5,
+      17.0
+     ],
+     [
+      10.5,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 0.8,
+      "y": 0.5,
+      "w": 2.8,
+      "h": 1.4
+     },
+     {
+      "t": "label",
+      "x": 7.0,
+      "y": 1.1,
+      "text": "VIVA OLIVA",
+      "size": 18
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       7.6
+      ],
+      "b": [
+       9.0,
+       7.6
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 4.6,
+      "y": 6.6,
+      "text": "VERHOGING",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        9.1,
+        6.0
+       ],
+       [
+        10.5,
+        6.0
+       ],
+       [
+        10.5,
+        11.0
+       ],
+       [
+        9.1,
+        11.0
+       ]
+      ]
+     },
+     {
+      "t": "stairs",
+      "x": 7.6,
+      "y": 9.2,
+      "label": "TRAP"
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       11.0
+      ],
+      "b": [
+       10.5,
+       11.0
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 5.0,
+      "y": 11.9,
+      "text": "COCKTAILBAR BOVEN",
+      "size": 15
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.5,
+       8.4
+      ],
+      "b": [
+       1.5,
+       15.8
+      ],
+      "side": -1,
+      "label": "ROZE BAR"
+     },
+     {
+      "t": "label",
+      "x": 8.5,
+      "y": 14.4,
+      "text": "SPIEGELS",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       4.4,
+       17.0
+      ],
+      "b": [
+       6.4,
+       17.0
+      ],
+      "label": "IN: AMSTEL 80"
+     },
+     {
+      "t": "in",
+      "a": [
+       10.5,
+       1.8
+      ],
+      "b": [
+       10.5,
+       3.4
+      ],
+      "side": -1,
+      "label": "NAAR GANG"
+     }
+    ]
+   },
+   {
+    "name": "Cocktailbar (balkon)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      0.1,
+      6.0
+     ],
+     [
+      10.4,
+      6.0
+     ],
+     [
+      10.4,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "label",
+      "x": 5.0,
+      "y": 1.0,
+      "text": "RELING, ZICHT OP AMSTELZAAL",
+      "size": 15
+     },
+     {
+      "t": "in",
+      "a": [
+       8.4,
+       0
+      ],
+      "b": [
+       9.8,
+       0
+      ],
+      "side": -1,
+      "label": "TRAP"
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.5,
+       2.0
+      ],
+      "b": [
+       1.5,
+       5.4
+      ],
+      "side": -1
+     },
+     {
+      "t": "label",
+      "x": 5.6,
+      "y": 5.3,
+      "text": "RAMEN AAN DE AMSTEL",
+      "size": 15
+     }
+    ]
+   },
+   {
+    "name": "'t Barretje",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      5.5,
+      0
+     ],
+     [
+      5.5,
+      4.4
+     ],
+     [
+      0,
+      4.4
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       0.8,
+       1.2
+      ],
+      "b": [
+       4.7,
+       1.2
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       2.0,
+       4.4
+      ],
+      "b": [
+       3.5,
+       4.4
+      ]
+     },
+     {
+      "t": "label",
+      "x": 2.75,
+      "y": 2.9,
+      "text": "VORM GESCHAT",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond gevonden (de eventbrochure staat alleen achter een WeTransfer-link). Amstelzaal en Cocktailbar: breedte en gevel van de strook aan de Amstel uit de BAG-omtrek (pand 0363100012171127, 10,3 m breed) en PDOK-luchtfoto. Binnenindeling uit de eigen foto's van Oliva (eventpagina september 2026, fotoshoot TK Photography 2024, opnamen 2020) en beschrijvingen: partypagina (grote zaal met DJ, tweede discozaal, kleinste barretje), FAQ (twee ingangen: Rembrandtplein 17 en Amstel 80, alles gelijkvloers), eventpagina (Rembrandtzaal, Amstelzaal met eigen ingang aan de Amstel, Cocktailbar; max. 900 gasten, in 2024 850 staand) en locaties.nl ('t Barretje). Area 2 = Rembrandtzaal: DJ-booth midden op de kopse wand, bar rechts achterin, deur met patrijspoort links (foto's 2020-2026); maat 12 x 11 m geschat uit foto's (site noemt 104 m2). Amstelzaal: verhoging met DJ en VIVA OLIVA-letters, trap naar de Cocktailbar op het balkon, roze bar en spiegelwand eronder (foto's). Ligging van Area 2 en 't Barretje in het pand is aangenomen; vorm van 't Barretje geschat.",
+  "bronnen": [
+   "https://oliva-amsterdam.nl/en/events-en/",
+   "https://oliva-amsterdam.nl/events/",
+   "https://oliva-amsterdam.nl/en/party-en/",
+   "https://oliva-amsterdam.nl/en/frequently-asked-questions/",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-Amstelzaal-events.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-Cocktailbar-events.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-event-sfeerbeeld.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-kick-off-en-congres.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-event-gallery.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/home-business.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/WhatsApp-Image-2020-07-08-at-13.54.18-2-1024x682-1.jpeg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-71-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-74-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-21-van-133-1024x682-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-52-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-91-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-93-van-133-683x1024-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/013-6.png",
+   "https://web.archive.org/web/20240229023107/https://oliva-amsterdam.nl/en/events-en/",
+   "https://web.archive.org/web/20211209042905/https://oliva-amsterdam.nl/en/party-en/",
+   "https://web.archive.org/web/20190122092946/http://www.claire.nl/info/",
+   "https://www.locaties.nl/en-US/venue/oliva-163187",
+   "https://www.amsterdamnow.com/en/?p=83398",
+   "https://www.amsterdam-dance-event.nl/en/program/2026/rumours-only-x-lotus-lab-ade-special/2803332/",
+   "https://www.amsterdam-dance-event.nl/en/venues/claire/38814/",
+   "https://www.cityzeum.com/studio-80",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Oliva loopt door het blok van het Rembrandtplein tot de Amstel, bijna alles gelijkvloers. Hoofdingang Rembrandtplein 17: een lange gang met kluisjes en planten (de 'oase') naar achteren. Tweede ingang aan de achterkant, Amstel 80 (restaurantkant, vooral bij diners en events). Area 2 (zaal 2 in de agenda, voor events Rembrandtzaal) is de discozaal met de grote spiegelbol en de gouden DJ-booth onder een boog; de bar staat rechts achterin, de deur met het patrijspoortje links bij het AREA 2-neonbord. In de Amstelzaal staat de DJ op de verhoging bij de VIVA OLIVA-letters; daaronder de roze neonbar en de spiegelwand, en een trap naar de Cocktailbar op het balkon (ramen aan de Amstel). 't Barretje is het kleinste barretje, met bakstenen muren en meezingers. Onzeker: waar Area 2 en 't Barretje precies in het pand liggen en welke zaal op clubavonden 'zaal 1' is; tekening op basis van foto's, niet van een plattegrond. Deurbeleid streng: 21+, geen petten of korte broeken.",
+  "type": "club",
+  "lat": 52.36642,
+  "lng": 4.8967,
   "photo": true
  },
  {
@@ -14692,6 +11192,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.36088,
   "lng": 4.91891,
   "photo": true
@@ -14899,101 +11400,8 @@
    "https://www.ot301.nl/public-spaces",
    "https://docs.google.com/document/d/1eAP6nNXyp1d10tfphTEaynUPyEuRgRb1BqpM1s0n_Ug/edit",
    "https://api.3dbag.nl/collections/pand/items/NL.IMBAG.Pand.0363100012138646"
-  ]
- },
- {
-  "id": "oude-kerk",
-  "name": "Oude Kerk",
-  "address": "Oudekerksplein 23, 1012 GX Amsterdam",
-  "area": "Centrum",
-  "lat": 52.3743,
-  "lng": 4.8981,
-  "website": "https://www.oudekerk.nl",
-  "status": "open",
-  "source": "oudekerk.nl agenda (ADE: Oude Kerk x Minimal Collective, 22-24 okt 2026) + algemene plattegrond hallenkerk (koor oost, groot orgel west, zuidportaal); opstelling per event anders",
-  "confidence": "laag",
-  "note": "Hallenkerk met pilaren; koor aan de oostkant (hier boven), groot orgel boven de westmuur. Ingang via het zuidportaal aan het Oudekerksplein. Podiumplek wisselt per event.",
-  "rooms": [
-   {
-    "name": "Kerk (schip & koor)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      130
-     ],
-     [
-      0,
-      130
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 4,
-      "w": 50,
-      "h": 22,
-      "label": "KOOR / PODIUM"
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 50
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 50
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 95
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 95
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 72,
-      "text": "SCHIP",
-      "size": 13
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 122,
-      "text": "GROOT ORGEL (BOVEN)",
-      "size": 10
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       98
-      ],
-      "b": [
-       100,
-       114
-      ],
-      "side": -1,
-      "label": "IN (OUDEKERKSPLEIN)"
-     }
-    ]
-   }
   ],
-  "photo": true
+  "type": "club"
  },
  {
   "id": "p60",
@@ -15082,6 +11490,7 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.3027,
   "lng": 4.85876,
   "photo": true
@@ -15220,6 +11629,7 @@
     ]
    }
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -15308,6 +11718,7 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.37678,
   "lng": 4.92215,
   "photo": true
@@ -15581,6 +11992,7 @@
    "https://panama.nl/venue-hire/"
   ],
   "note": "Vanuit de entreehal (kassa; garderobe, kluisjes en wc beneden) loop je via de kleine entree links achterin de Grote Zaal in; rechtdoor is de Studio. Het balkon (U-vorm boven de achterkant en zijkanten, eigen bar) bereik je via de trap direct bij de ingang of de trappen naast het podium. Hoofdbar achterin onder het balkon, champagnebar in de uitbouw rechts. Roken alleen buiten.",
+  "type": "club",
   "photo": true
  },
  {
@@ -16258,6 +12670,7 @@
    "https://www.paradiso.nl/nieuws/paradiso-presenteert-visie-voor-renovatie-en-nieuwbouw/2819660",
    "https://assets.paradiso.nl/downloads/2026_100_jaar_Paradiso_BidBoek-1770128070.pdf"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -16331,170 +12744,9 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.38335,
   "lng": 4.90365,
-  "photo": true
- },
- {
-  "id": "plantage-dok",
-  "name": "Plantage Dok",
-  "address": "Plantage Doklaan 8-12, 1018 CM Amsterdam",
-  "area": "Centrum",
-  "website": "https://www.plantagedok.nl",
-  "status": "unsure",
-  "capacity": 200,
-  "source": "plantagedok.nl (kunstcollectief in voormalige kerk: Dokzaal als evenementenruimte, Dokhuis Galerie, volkskeuken do/wo; muziekavonden Subbacultcha etc.), RA (Desert Flower 2025). Geen vaste clubnachten; indicatief",
-  "confidence": "laag",
-  "note": "Dokzaal in een oude kerk; incidentele feesten en concerten, geen vast clubprogramma.",
-  "rooms": [
-   {
-    "name": "Dokzaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      80,
-      0
-     ],
-     [
-      80,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 4,
-      "w": 40,
-      "h": 14
-     },
-     {
-      "t": "bar",
-      "a": [
-       80,
-       40
-      ],
-      "b": [
-       80,
-       85
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       30,
-       110
-      ],
-      "b": [
-       50,
-       110
-      ]
-     }
-    ]
-   }
-  ],
-  "lat": 52.3683,
-  "lng": 4.91117,
-  "photo": true
- },
- {
-  "id": "pllek",
-  "name": "Pllek",
-  "address": "TT Neveritaweg 59, 1033 WB Amsterdam",
-  "area": "Noord",
-  "website": "https://pllek.nl",
-  "source": "pllek.nl (open 2026, zaal naast restaurant, verhuur tot 350), iamsterdam venue finder (zaal 198 m2, 18 x 11 m, max 200, containers), locaties.nl (zaal 300, terras op het strand 200, dj-booth). Geen plattegrond; indeling geschat.",
-  "confidence": "laag",
-  "note": "Zaal grenst aan het restaurant; terras en strandje aan het IJ.",
-  "rooms": [
-   {
-    "name": "Zaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      60
-     ],
-     [
-      0,
-      60
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       15
-      ],
-      "b": [
-       0,
-       45
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       20
-      ],
-      "b": [
-       100,
-       35
-      ],
-      "side": -1,
-      "label": "RESTAURANT"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        60
-       ],
-       [
-        100,
-        60
-       ],
-       [
-        100,
-        90
-       ],
-       [
-        0,
-        90
-       ]
-      ],
-      "text": "TERRAS / STRAND",
-      "dash": true
-     }
-    ]
-   }
-  ],
-  "lat": 52.39913,
-  "lng": 4.8931,
   "photo": true
  },
  {
@@ -16705,160 +12957,9 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.38008,
   "lng": 4.85413,
-  "photo": true
- },
- {
-  "id": "posthoornkerk",
-  "name": "Posthoornkerk",
-  "address": "Haarlemmerstraat 124-126, 1013 EX Amsterdam",
-  "area": "Centrum",
-  "website": "https://stadsherstel.nl/en/eventlocatie/posthoornkerk/",
-  "source": "Officiële plattegrond Stadsherstel (Plattegrond-Maten-Namen-Posthoornkerk 1:250): ingang Haarlemmerstraat via tochtportaal in het voorste deel, zwarte gordijnen scheiden het voorste deel van het schip, toiletten links en rechts bij die overgang, 2x3 zuilen, podium 6x8 m verhoogd in de klaverbladapsis achterin met vleugel, vier wenteltrappen naar de galerijen boven de zijbeuken. Receptie 300. Bar niet op de tekening (keuken in de zijnissen).",
-  "confidence": "hoog",
-  "note": "Binnen via de Haarlemmerstraat; eerst het voorste deel, dan door het gordijn het schip in. Podium helemaal achterin in de apsis.",
-  "rooms": [
-   {
-    "name": "Kerkzaal",
-    "outline": [
-     [
-      0,
-      200
-     ],
-     [
-      100,
-      200
-     ],
-     [
-      100,
-      40
-     ],
-     [
-      90,
-      28
-     ],
-     [
-      78,
-      22
-     ],
-     [
-      72,
-      10
-     ],
-     [
-      60,
-      3
-     ],
-     [
-      50,
-      0
-     ],
-     [
-      40,
-      3
-     ],
-     [
-      28,
-      10
-     ],
-     [
-      22,
-      22
-     ],
-     [
-      10,
-      28
-     ],
-     [
-      0,
-      40
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 30,
-      "y": 10,
-      "w": 40,
-      "h": 22
-     },
-     {
-      "t": "pillar",
-      "x": 26,
-      "y": 60
-     },
-     {
-      "t": "pillar",
-      "x": 74,
-      "y": 60
-     },
-     {
-      "t": "pillar",
-      "x": 26,
-      "y": 95
-     },
-     {
-      "t": "pillar",
-      "x": 74,
-      "y": 95
-     },
-     {
-      "t": "pillar",
-      "x": 26,
-      "y": 130
-     },
-     {
-      "t": "pillar",
-      "x": 74,
-      "y": 130
-     },
-     {
-      "t": "line",
-      "a": [
-       0,
-       155
-      ],
-      "b": [
-       100,
-       155
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 178,
-      "text": "VOORSTE DEEL (GORDIJN)",
-      "size": 12
-     },
-     {
-      "t": "wc",
-      "x": 10,
-      "y": 148
-     },
-     {
-      "t": "wc",
-      "x": 90,
-      "y": 148
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       200
-      ],
-      "b": [
-       60,
-       200
-      ],
-      "label": "IN (HAARLEMMERSTRAAT)"
-     }
-    ]
-   }
-  ],
-  "lat": 52.3814,
-  "lng": 4.88946,
   "photo": true
  },
  {
@@ -16955,6 +13056,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.37471,
   "lng": 4.89084,
   "photo": true
@@ -17168,6 +13270,7 @@
    "https://heyzine.com/flip-book/070db2a761.html"
   ],
   "note": "Beide zalen liggen op de eerste verdieping aan het foyerdeck (centrale trap of lift vanuit het atrium; foyerbar, lockers en wc op het deck). Grote Zaal: bar links langs de wand, verhoging achterin; Kleine Zaal heeft geen eigen bar maar een balkon over de hele lengte (deuren links). Tijdens ADE draaien Main Hall en Q-Club tegelijk. Roken alleen buiten.",
+  "type": "club",
   "photo": true
  },
  {
@@ -17281,6 +13384,7 @@
     ]
    }
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -17443,576 +13547,7 @@
    "https://radion.amsterdam/program/club-night/",
    "https://www.technoairlines.com/club/radion-amsterdam"
   ],
-  "photo": true
- },
- {
-  "id": "rai-amsterdam",
-  "name": "RAI Amsterdam",
-  "address": "Europaplein 24, 1078 GZ Amsterdam",
-  "area": "Zuid",
-  "lat": 52.3414,
-  "lng": 4.8883,
-  "website": "https://www.rai.nl",
-  "source": "RAI venue-brochure 04/25 met hallenoverzicht en plattegrond (Hal 1/Europahal 15.000 m2 + balkon 18.240 m2, max 10.000; Hal 8 12.600 m2, max 10.000; Hal 5 11.395 m2, max 8.390; ingangen C t/m R; Hal 1 aan Entrance D/E-zijde bij station RAI; Hal 8-12 aan de Europaboulevard-zijde). Indeling binnen een hal is per event anders; podium/bars indicatief.",
-  "confidence": "middel",
-  "note": "Alleen de grote hallen die voor dance-events worden gebruikt. Europahal (Hal 1) is het monument met balkon rondom; Hal 8 en Hal 5 zijn vlakke beurshallen. Lege hallen: bars en podium staan per event anders, maar het podium staat meestal aan de kopse kant tegenover de entree.",
-  "rooms": [
-   {
-    "name": "Europahal (Hal 1)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      150
-     ],
-     [
-      0,
-      150
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 6,
-      "w": 60,
-      "h": 22
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        0
-       ],
-       [
-        10,
-        0
-       ],
-       [
-        10,
-        150
-       ],
-       [
-        0,
-        150
-       ]
-      ],
-      "o": 0.5
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        90,
-        0
-       ],
-       [
-        100,
-        0
-       ],
-       [
-        100,
-        150
-       ],
-       [
-        90,
-        150
-       ]
-      ],
-      "o": 0.5
-     },
-     {
-      "t": "label",
-      "x": 5,
-      "y": 75,
-      "text": "BALKON",
-      "size": 14
-     },
-     {
-      "t": "label",
-      "x": 95,
-      "y": 75,
-      "text": "BALKON",
-      "size": 14
-     },
-     {
-      "t": "bar",
-      "a": [
-       10,
-       60
-      ],
-      "b": [
-       10,
-       120
-      ]
-     },
-     {
-      "t": "bar",
-      "a": [
-       90,
-       60
-      ],
-      "b": [
-       90,
-       120
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       150
-      ],
-      "b": [
-       65,
-       150
-      ],
-      "label": "IN (Entrance D/E)"
-     },
-     {
-      "t": "stairs",
-      "x": 15,
-      "y": 140,
-      "label": "TRAP BALKON"
-     },
-     {
-      "t": "stairs",
-      "x": 85,
-      "y": 140,
-      "label": "TRAP BALKON"
-     }
-    ]
-   },
-   {
-    "name": "Hal 8",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      120
-     ],
-     [
-      0,
-      120
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 6,
-      "w": 60,
-      "h": 22
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       50
-      ],
-      "b": [
-       0,
-       100
-      ]
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       50
-      ],
-      "b": [
-       100,
-       100
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       120
-      ],
-      "b": [
-       65,
-       120
-      ],
-      "label": "IN (Entrance K/L)"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       105
-      ],
-      "b": [
-       100,
-       118
-      ],
-      "side": -1,
-      "label": "NAAR HAL 9/12"
-     },
-     {
-      "t": "wc",
-      "x": 15,
-      "y": 112
-     }
-    ]
-   },
-   {
-    "name": "Hal 5",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      120
-     ],
-     [
-      0,
-      120
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 6,
-      "w": 60,
-      "h": 22
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       50
-      ],
-      "b": [
-       0,
-       100
-      ]
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       50
-      ],
-      "b": [
-       100,
-       100
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       120
-      ],
-      "b": [
-       65,
-       120
-      ],
-      "label": "IN (Entrance G/H)"
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       105
-      ],
-      "b": [
-       0,
-       118
-      ],
-      "label": "NAAR HAL 4/7"
-     },
-     {
-      "t": "wc",
-      "x": 85,
-      "y": 112
-     }
-    ]
-   }
-  ],
-  "photo": true
- },
- {
-  "id": "raw-factory",
-  "name": "RAW Factory",
-  "address": "Joan Muyskenweg 39, 1114 AN Amsterdam",
-  "area": "Overamstel",
-  "status": "unsure",
-  "capacity": 2500,
-  "source": "trifec.one, followthebeat.nl, festivalinfo.nl, ADE-programma 2026: G-Star RAW hoofdkantoor (OMA), flexibele indeling tot 2500, twee verdiepingen; Audio Obscura speelt hier ADE 2026 (22-24 okt) als laatste editie. Geen plattegrond; indicatief",
-  "confidence": "laag",
-  "note": "Twee vloeren: hoofdvloer beneden en een tweede ruimte (Garage) op de verdieping. Audio Obscura verlaat de locatie na ADE 2026; gebruik daarna onzeker.",
-  "rooms": [
-   {
-    "name": "Main Floor",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      130
-     ],
-     [
-      0,
-      130
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 12
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       40
-      ],
-      "b": [
-       0,
-       90
-      ]
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       40
-      ],
-      "b": [
-       100,
-       90
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       130
-      ],
-      "b": [
-       60,
-       130
-      ]
-     },
-     {
-      "t": "stairs",
-      "x": 90,
-      "y": 120,
-      "label": "TRAP 2E VLOER"
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 50
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 50
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 95
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 95
-     }
-    ]
-   },
-   {
-    "name": "Garage (2e vloer)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      80
-     ],
-     [
-      0,
-      80
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       25
-      ],
-      "b": [
-       0,
-       60
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       80,
-       80
-      ],
-      "b": [
-       95,
-       80
-      ],
-      "label": "TRAP"
-     }
-    ]
-   }
-  ],
-  "lat": 52.33349,
-  "lng": 4.91469,
-  "photo": true
- },
- {
-  "id": "ruigoord",
-  "name": "Ruigoord",
-  "address": "Ruigoord 76, 1047 HH Amsterdam",
-  "area": "Westpoort",
-  "website": "https://www.ruigoord.nl",
-  "source": "ruigoord.nl (kerk = 'Electric Church', feesten, Maanzin-vollemaansfeesten, Salon als tweede ruimte; adres Ruigoord 76) + AT5 (vanaf 1-1-2026 minder vaak en met minder mensen in de kerk vanwege veiligheid). Geen capaciteit (ca. 400) of plattegrond; indicatief.",
-  "confidence": "laag",
-  "note": "Oud dorpskerkje in de kunstenaarsvrijplaats: podium op de plek van het altaar, bar achterin bij de ingang, dansvloer in het schip. Roken buiten op het kerkplein.",
-  "rooms": [
-   {
-    "name": "Kerk",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      170
-     ],
-     [
-      0,
-      170
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 5,
-      "w": 60,
-      "h": 20,
-      "label": "PODIUM (altaar)"
-     },
-     {
-      "t": "pillar",
-      "x": 20,
-      "y": 60
-     },
-     {
-      "t": "pillar",
-      "x": 80,
-      "y": 60
-     },
-     {
-      "t": "pillar",
-      "x": 20,
-      "y": 110
-     },
-     {
-      "t": "pillar",
-      "x": 80,
-      "y": 110
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       125
-      ],
-      "b": [
-       100,
-       160
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       38,
-       170
-      ],
-      "b": [
-       62,
-       170
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "smoke",
-      "x": 50,
-      "y": 182
-     }
-    ]
-   }
-  ],
-  "aka": "kerk",
-  "lat": 52.41031,
-  "lng": 4.74911,
+  "type": "club",
   "photo": true
  },
  {
@@ -18235,7 +13770,180 @@
    "https://mixmag.net/read/amsterdam-club-shelter-reopen-month-long-renovation-work-news",
    "https://lsionline.co.uk/news/shelter-raises-the-game-with-funktion-one",
    "https://shelteramsterdam.nl/contact"
-  ]
+  ],
+  "type": "club"
+ },
+ {
+  "id": "shu",
+  "name": "SHU",
+  "aka": "SHU Amsterdam, Bloemenbar",
+  "address": "Handboogstraat 15H, 1012 XM Amsterdam",
+  "area": "Centrum",
+  "website": "https://www.shuamsterdam.com",
+  "capacity": 180,
+  "status": "open",
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Buitenmuren uit BAG: pand 0363100012175877 (Handboogstraat 15, 4,0-4,5 x 16,2 m); SHU zit in verblijfsobject 15-H (130 m2 bijeenkomstfunctie, begane grond, de verdiepingen zijn woningen/kantoor). Indeling uit de fotoserie van Chantal Arnts (18-06-2024, op chantalarnts.com, locaties.nl en amsterdamnow), waarin de ruimtes elkaar overlappen: voorin de marmeren bar met spiegelplafond langs de linkermuur, een oranje bank tegen de voorwand met een boog naar de smalle gang met geblokte vloer, op de overgang naar achteren een platenkast met DJ-plek (rechts), dan de gouden bar (ook links) en achterin de lounge met open haard (rechts) en een stalen deur in de achterwand. Beschrijvingen: Bart's Boekje (drie ruimtes, plek voor 180), amsterdamnow (cocktailbar, lounge, dansvloer), locaties.nl (Main Room 80 m2 + VIP Room 15 m2). Aangenomen, niet bevestigd met een foto van de gevel: de marmeren bar ligt aan de straatkant (en de lounge achterin) en de bars staan tegen de noordmuur (kant nr. 11). Maten binnen de zaal geschat.",
+  "bronnen": [
+   "https://www.shuamsterdam.com",
+   "https://www.locaties.nl/en-US/venue/shu-176058",
+   "https://www.chantalarnts.com/interior/shu",
+   "https://www.amsterdamnow.com/en/going-out-entertainment/shu-amsterdam-the-innovative-nightspot-in-the-heart-of-the-city",
+   "https://www.bartsboekje.com/en/cocktailbar-amsterdam/",
+   "https://mastersexpo.com/en/onvergetelijke-avond-bij-deze-nieuwe-hotspots-moet-je-zijn",
+   "https://joinpearl.co/bars/amsterdam/shu-amsterdam",
+   "https://zoek.officielebekendmakingen.nl/gmb-2024-330293.html",
+   "https://zoek.officielebekendmakingen.nl/gmb-2024-95005.html",
+   "https://www.inyourpocket.com/netherlands/amsterdam/venues/bloemenbar",
+   "https://www.nhnieuws.nl/nieuws/328564/disco-dolly-bloemenbar-stopt-amsterdam/",
+   "BAG pand 0363100012175877, verblijfsobject 0363010000658399 (PDOK)"
+  ],
+  "note": "Cocktailbar die rond middernacht club wordt (25+), sinds zomer 2024 in het pand van de vroegere Bloemenbar. Do-zo vanaf 22:00; vr/za alleen op de gastenlijst (via Instagram), dresscode relaxed chic. Het is één lange, smalle pijpenla: voorin de marmeren bar met het spiegelplafond (links), halverwege rechts de platenkast waar de DJ staat, daarachter de gouden bar (ook links) en helemaal achterin de lounge met de open haard en het gouden-teddybeerschilderij (VIP). 'Bij de marmeren bar', 'bij de platenkast' of 'in de lounge' is genoeg. Dat de marmeren bar aan de straatkant ligt is afgeleid uit foto's, niet bevestigd.",
+  "rooms": [
+   {
+    "name": "Begane grond",
+    "outline": [
+     [
+      4.0,
+      0.0
+     ],
+     [
+      0.0,
+      0.2
+     ],
+     [
+      0.0,
+      16.4
+     ],
+     [
+      4.5,
+      16.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       0.4,
+       16.38
+      ],
+      "b": [
+       1.5,
+       16.33
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "line",
+      "a": [
+       2.2,
+       15.0
+      ],
+      "b": [
+       4.46,
+       15.0
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       15.0
+      ],
+      "b": [
+       0.5,
+       15.0
+      ]
+     },
+     {
+      "t": "label",
+      "x": 3.3,
+      "y": 15.75,
+      "text": "SAS",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 3.3,
+      "y": 14.2,
+      "text": "ZITHOEK",
+      "size": 14
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.8,
+       13.6
+      ],
+      "b": [
+       1.8,
+       9.6
+      ],
+      "label": "MARMEREN BAR"
+     },
+     {
+      "t": "dj",
+      "x": 2.9,
+      "y": 7.6,
+      "w": 1.3,
+      "h": 1.2
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.9,
+       6.7
+      ],
+      "b": [
+       1.9,
+       3.7
+      ],
+      "label": "GOUDEN BAR"
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       3.1
+      ],
+      "b": [
+       1.2,
+       3.1
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       3.3,
+       3.1
+      ],
+      "b": [
+       4.1,
+       3.1
+      ]
+     },
+     {
+      "t": "label",
+      "x": 1.9,
+      "y": 1.2,
+      "text": "LOUNGE (VIP)",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 3.3,
+      "y": 2.2,
+      "text": "HAARD",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "type": "club",
+  "lat": 52.36802,
+  "lng": 4.89027,
+  "photo": true
  },
  {
   "id": "sissis",
@@ -18370,6 +14078,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.34483,
   "lng": 4.84258,
   "photo": true
@@ -18524,6 +14233,7 @@
    "https://skatecafe.weticket.io/amsterdam-750-jaar-electronicamsterdam-opening"
   ],
   "note": "Skatecafé (Gedempt Hamerkanaal 42) zit naast Garage Noord: ingang via het terras aan de straatkant. In de hal staat de mini-ramp dwars in de zaal, met restauranttafels eromheen (na 22:00 weggehaald). Daarachter het spelletjescafé Dick & Dick. Bij grote nachten worden ook loodsen eromheen gebruikt (tot vier areas) en soms gaan Skatecafé en Garage Noord samen open. Onzeker: plek van DJ en bar.",
+  "type": "club",
   "photo": true
  },
  {
@@ -18753,6 +14463,7 @@
    "https://www.soho-amsterdam.com/our/history"
   ],
   "note": "Beneden: binnen recht vooruit de ronde kop van de centrale bar, dansvloer links ervan en erachter. De trap naar boven staat achterin rechts, naast de DJ en het toilet. Boven: tweede (lange) bar en cocktailhoek; de indeling boven is geschat.",
+  "type": "club",
   "photo": true
  },
  {
@@ -18821,6 +14532,7 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.3661,
   "lng": 4.89971,
   "photo": true
@@ -18919,112 +14631,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36624,
   "lng": 4.88395,
-  "photo": true
- },
- {
-  "id": "stedelijk-museum",
-  "name": "Stedelijk Museum",
-  "address": "Museumplein 10, 1071 DJ Amsterdam",
-  "area": "Zuid",
-  "lat": 52.358,
-  "lng": 4.8798,
-  "website": "https://www.stedelijk.nl",
-  "status": "open",
-  "source": "stedelijk.nl venue hire + locaties.nl (Museumplein Entree 450-550 m2, begane grond, 500 feest / max 800) + eigen kennis van het Benthem Crouwel-gebouw (roltrap, shop, café); podium indicatief",
-  "confidence": "laag",
-  "note": "Entreehal onder de 'badkuip', ingang vanaf het Museumplein. Roltrap naar boven aan de ene kant, shop en café aan de andere; garderobe een trap lager.",
-  "rooms": [
-   {
-    "name": "Museumplein Entree",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "stairs",
-      "x": 85,
-      "y": 30,
-      "label": "ROLTRAP (BOVEN)"
-     },
-     {
-      "t": "label",
-      "x": 15,
-      "y": 30,
-      "text": "SHOP",
-      "size": 11
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       50
-      ],
-      "b": [
-       0,
-       85
-      ],
-      "side": 1,
-      "label": "CAFÉ"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       60
-      ],
-      "b": [
-       100,
-       76
-      ],
-      "side": -1,
-      "label": "NAAR OUDE GEBOUW"
-     },
-     {
-      "t": "stairs",
-      "x": 85,
-      "y": 100,
-      "label": "GARDEROBE (ONDER)"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       110
-      ],
-      "b": [
-       65,
-       110
-      ],
-      "label": "IN (MUSEUMPLEIN)"
-     }
-    ]
-   }
-  ],
-  "aka": "Museumplein Entree",
   "photo": true
  },
  {
@@ -19122,298 +14731,9 @@
    }
   ],
   "aka": "K",
+  "type": "bar",
   "lat": 52.36514,
   "lng": 4.9359,
-  "photo": true
- },
- {
-  "id": "sugar-city",
-  "name": "Sugar City",
-  "address": "Kristalpromenade 7, 1165 PD Halfweg",
-  "area": "Halfweg",
-  "lat": 52.3842,
-  "lng": 4.752,
-  "website": "https://www.sugarfactory.nl",
-  "status": "open",
-  "source": "sugarfactory.nl ruimtes (Middenfabriek 68x30 m, 2 lagen, 3000 beneden + 750 op de verdieping via industriële trap, oost/west apart te gebruiken, steunpilaren, grote deuren; Pulppersloods 1000 m2, 17 m hoog, massieve kolommen; Binnenstraat 900 m2 L-vormig, verbindt alles, entree/registratie; Bietenwasruimte 160 m2); positie bars indicatief",
-  "confidence": "middel",
-  "note": "Oude suikerfabriek bij de silo's van Halfweg. Je komt binnen via de Binnenstraat; die verbindt de Middenfabriek (grote hal met verdieping) met de Pulppersloods.",
-  "rooms": [
-   {
-    "name": "Middenfabriek",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      227
-     ],
-     [
-      0,
-      227
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 15,
-      "y": 6,
-      "w": 70,
-      "h": 22,
-      "label": "PODIUM"
-     },
-     {
-      "t": "pillar",
-      "x": 33,
-      "y": 80
-     },
-     {
-      "t": "pillar",
-      "x": 67,
-      "y": 80
-     },
-     {
-      "t": "pillar",
-      "x": 33,
-      "y": 150
-     },
-     {
-      "t": "pillar",
-      "x": 67,
-      "y": 150
-     },
-     {
-      "t": "line",
-      "a": [
-       0,
-       115
-      ],
-      "b": [
-       100,
-       115
-      ],
-      "dash": true
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       150
-      ],
-      "b": [
-       0,
-       200
-      ],
-      "side": 1
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       150
-      ],
-      "b": [
-       100,
-       200
-      ],
-      "side": -1
-     },
-     {
-      "t": "stairs",
-      "x": 88,
-      "y": 214,
-      "label": "TRAP VERDIEPING (750)"
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       227
-      ],
-      "b": [
-       65,
-       227
-      ],
-      "label": "IN (BINNENSTRAAT)"
-     }
-    ]
-   },
-   {
-    "name": "Pulppersloods",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      120
-     ],
-     [
-      0,
-      120
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 4,
-      "w": 60,
-      "h": 18,
-      "label": "PODIUM"
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 55
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 55
-     },
-     {
-      "t": "pillar",
-      "x": 30,
-      "y": 90
-     },
-     {
-      "t": "pillar",
-      "x": 70,
-      "y": 90
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       50
-      ],
-      "b": [
-       0,
-       90
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       120
-      ],
-      "b": [
-       65,
-       120
-      ],
-      "label": "IN (BINNENSTRAAT)"
-     }
-    ]
-   },
-   {
-    "name": "Binnenstraat",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      40,
-      0
-     ],
-     [
-      40,
-      120
-     ],
-     [
-      100,
-      120
-     ],
-     [
-      100,
-      160
-     ],
-     [
-      0,
-      160
-     ]
-    ],
-    "features": [
-     {
-      "t": "label",
-      "x": 20,
-      "y": 60,
-      "text": "BINNENSTRAAT",
-      "size": 10
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       40
-      ],
-      "side": 1,
-      "label": "NAAR MIDDENFABRIEK"
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       130
-      ],
-      "b": [
-       100,
-       150
-      ],
-      "side": -1,
-      "label": "NAAR PULPPERSLOODS"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       100
-      ],
-      "b": [
-       0,
-       140
-      ],
-      "side": 1
-     },
-     {
-      "t": "cloak",
-      "x": 20,
-      "y": 150
-     },
-     {
-      "t": "in",
-      "a": [
-       45,
-       160
-      ],
-      "b": [
-       75,
-       160
-      ],
-      "label": "IN (ENTREE)"
-     }
-    ]
-   }
-  ],
-  "aka": "SugarFactory",
   "photo": true
  },
  {
@@ -19755,7 +15075,8 @@
    "https://www.locaties.nl/en-US/venue/supperclub-14670",
    "https://nl.wikipedia.org/wiki/Odeon_(Amsterdam)",
    "BAG pand 0363100012171740 (PDOK)"
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "taboo",
@@ -19889,439 +15210,10 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.36646,
   "lng": 4.89099,
   "photo": true
- },
- {
-  "id": "taets-art-and-event-park",
-  "name": "Taets Art and Event Park",
-  "address": "Hemkade 16-18, 1506 PR Zaandam",
-  "area": "Zaandam",
-  "lat": 52.4211,
-  "lng": 4.8325,
-  "website": "https://www.taets.nl",
-  "status": "open",
-  "source": "iamsterdam venue finder / Taets (Hal 1: The Black Box 4100 m2 / 4000, The White Box 1500 m2 / 1500, Glass Pavilion 450 m2, Skyboxes; Yada Yada: The Marketplace 1191 m2 / 1000, The Cathedral 484 m2 / 420; Pand 43 Event Area 600 m2 / 450; Pand 41 Theatre 335 m2 / 300) + No Art ADE Festival 2026; indeling per hal indicatief",
-  "confidence": "laag",
-  "note": "Groot Hembrugterrein met meerdere panden; Black Box en White Box zitten in Hal 1 en kunnen gekoppeld worden. Vraag bij de entree welk pand je event heeft.",
-  "rooms": [
-   {
-    "name": "Hal 1 - The Black Box",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      50
-     ],
-     [
-      0,
-      50
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 2,
-      "w": 50,
-      "h": 12,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       15
-      ],
-      "b": [
-       0,
-       40
-      ],
-      "side": 1
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       15
-      ],
-      "b": [
-       100,
-       40
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       50
-      ],
-      "b": [
-       60,
-       50
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "in",
-      "a": [
-       85,
-       50
-      ],
-      "b": [
-       95,
-       50
-      ],
-      "label": "NAAR WHITE BOX"
-     }
-    ]
-   },
-   {
-    "name": "Hal 1 - The White Box",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      60
-     ],
-     [
-      0,
-      60
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 2,
-      "w": 50,
-      "h": 12,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       45
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       60
-      ],
-      "b": [
-       60,
-       60
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       50
-      ],
-      "b": [
-       0,
-       58
-      ],
-      "side": 1,
-      "label": "NAAR BLACK BOX"
-     }
-    ]
-   },
-   {
-    "name": "Yada Yada - The Marketplace",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      80
-     ],
-     [
-      0,
-      80
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 3,
-      "w": 50,
-      "h": 14,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       30
-      ],
-      "b": [
-       0,
-       60
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       80
-      ],
-      "b": [
-       60,
-       80
-      ],
-      "label": "IN"
-     }
-    ]
-   },
-   {
-    "name": "Pand 43 - The Event Area",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      70
-     ],
-     [
-      0,
-      70
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 3,
-      "w": 50,
-      "h": 14,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       25
-      ],
-      "b": [
-       100,
-       55
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       70
-      ],
-      "b": [
-       60,
-       70
-      ],
-      "label": "IN"
-     }
-    ]
-   },
-   {
-    "name": "Pand 41 - The Theatre",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      100
-     ],
-     [
-      0,
-      100
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 3,
-      "w": 60,
-      "h": 16,
-      "label": "PODIUM"
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       100
-      ],
-      "b": [
-       60,
-       100
-      ],
-      "label": "IN"
-     }
-    ]
-   }
-  ],
-  "photo": true
- },
- {
-  "id": "the-loft-adam",
-  "name": "The Loft",
-  "address": "Overhoeksplein 1, 1031 KS Amsterdam",
-  "area": "Noord",
-  "website": "https://theloftamsterdam.com",
-  "source": "Buitenmaat en kern uit het stramien van architectentekening T-99-20 van de A'DAM Toren (torenschacht 14 x 1,75 m = 24,5 m, kern stramien 5-11 x E-K, ca. 10,5 x 10,5 m; zelfde kern loopt door alle verdiepingen). A'DAM Events-brochure: 400 m2, hoogte 7 m en 3 m, 50-450 personen, 16e alleen in zijn geheel te huur. DJ voor de 7 m hoge ramen uit eventfoto's (A'DAM Events 2025, brochure). Geen plattegrond van de 16e gevonden.",
-  "confidence": "laag",
-  "note": "16e verdieping (Madam is de 20e). Met de lift van de torenlobby naar boven; de liftkern staat midden op de vloer. De DJ staat voor de 7 m hoge ramen aan de stadskant (uitzicht op IJ en Centraal), daar is het plafond dubbelhoog. Achter de kern is het plafond laag (17e verdieping erboven). Barposities wisselen per event en zijn niet getekend. Alleen open op eventdagen (vooral ADE).",
-  "rooms": [
-   {
-    "name": "The Loft (16e verdieping)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      24.5,
-      0
-     ],
-     [
-      24.5,
-      24.5
-     ],
-     [
-      0,
-      24.5
-     ]
-    ],
-    "features": [
-     {
-      "t": "poly",
-      "pts": [
-       [
-        7.02,
-        7.0
-       ],
-       [
-        17.43,
-        7.0
-       ],
-       [
-        17.43,
-        17.5
-       ],
-       [
-        7.02,
-        17.5
-       ]
-      ],
-      "text": "LIFTEN"
-     },
-     {
-      "t": "dj",
-      "x": 10.75,
-      "y": 0.7,
-      "w": 3.0,
-      "h": 1.5
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0.4,
-        0.4
-       ],
-       [
-        24.1,
-        0.4
-       ],
-       [
-        24.1,
-        6.4
-       ],
-       [
-        0.4,
-        6.4
-       ]
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 12.25,
-      "y": 4.6,
-      "text": "VIDE 7 M + HOGE RAMEN",
-      "size": 18
-     },
-     {
-      "t": "label",
-      "x": 12.25,
-      "y": 21.0,
-      "text": "LAAG PLAFOND (17E BOVEN)",
-      "size": 18
-     }
-    ]
-   }
-  ],
-  "aka": "A'DAM Toren",
-  "lat": 52.38362,
-  "lng": 4.90225,
-  "photo": true,
-  "capacity": 450,
-  "basis": "schatting",
-  "bronnen": [
-   "https://www.locaties.nl/media/2chj24c3/adam-toren_t-99-20_20e-verdieping.pdf",
-   "https://adam-events.nl/ruimtes/the-loft/",
-   "https://www.locaties.nl/media/lbaafq4s/theloft-party.pdf",
-   "https://www.locaties.nl/en-US/space/the_loft-32088",
-   "https://www.archilovers.com/projects/191690/the-loft.html",
-   "https://kivi.nl/_Resources/Persistent/5/6/d/9/56d999510202dc8c0ccf5cdb7aba9a9bceaaaae4/JPvanEesteren%20-%20ADAM%20presentatie%20stichting%20hoogbouw.pdf"
-  ]
  },
  {
   "id": "the-other-side",
@@ -20683,6 +15575,7 @@
    "https://the-other-side.nl/wp-content/uploads/2025/02/TOSClubdesign2025-Standaardsetup-white-1.png",
    "https://the-other-side.nl/about/"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -20763,6 +15656,7 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36486,
   "lng": 4.88252,
   "photo": true
@@ -20917,84 +15811,9 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.39695,
   "lng": 4.87726,
-  "photo": true
- },
- {
-  "id": "thomaskerk",
-  "name": "Thomaskerk",
-  "address": "Prinses Irenestraat 36, 1077 WX Amsterdam",
-  "area": "Zuid",
-  "website": "https://www.thomaskerk.nl",
-  "source": "RA/ADE (ZERØBPM ambient-meditatiemarathons tijdens ADE 2025 en 2026, zittend, geen alcohol) + iamsterdam (gele baksteenkerk van Karel Sijmons aan de rand van de Zuidas). Geen capaciteit (kerkzaal ca. 400) of plattegrond; indicatief.",
-  "confidence": "laag",
-  "note": "Alleen tijdens ADE in gebruik (ambient/zitconcerten). Vierkante kerkzaal: podium op de liturgische plek, publiek op stoelen/kussens, ingang via de hal aan de Prinses Irenestraat. Geen bar.",
-  "rooms": [
-   {
-    "name": "Kerkzaal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 5,
-      "w": 50,
-      "h": 18
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 60,
-      "text": "ZITPLEKKEN / KUSSENS",
-      "size": 12
-     },
-     {
-      "t": "in",
-      "a": [
-       35,
-       110
-      ],
-      "b": [
-       65,
-       110
-      ],
-      "label": "IN (hal)"
-     },
-     {
-      "t": "label",
-      "x": 85,
-      "y": 15,
-      "text": "ORGEL",
-      "size": 12
-     },
-     {
-      "t": "wc",
-      "x": 12,
-      "y": 100
-     }
-    ]
-   }
-  ],
-  "lat": 52.34209,
-  "lng": 4.87483,
   "photo": true
  },
  {
@@ -21525,124 +16344,8 @@
    "https://www.thuishavenb2b.nl/wp-content/uploads/2024/04/OUTLINE-PLATTEGROND-THUISHAVEN.png",
    "https://thuishaven.nl/veelgestelde-vragen/",
    "BAG panden 0363100012248225 (Loods) en 0363100012250577 (Circustent) via PDOK + PDOK luchtfoto"
-  ]
- },
- {
-  "id": "tillatec",
-  "name": "TILLATEC",
-  "address": "Dr. Jan van Breemenstraat 1, 1056 AB Amsterdam",
-  "area": "West",
-  "lat": 52.36995,
-  "lng": 4.84371,
-  "website": "https://www.tillatec.com",
-  "capacity": 900,
-  "note": "Sluit na de Closing Weekender (6-9 november 2026). Main room is een lange zaal met de DJ aan de kopse kant; tweede zaal kleiner. Tuin en binnenplaatsen voor roken en afspreken. Indeling geschat.",
-  "status": "open",
-  "rooms": [
-   {
-    "name": "Main room",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      53.6,
-      0.0
-     ],
-     [
-      53.6,
-      100.0
-     ],
-     [
-      0.0,
-      100.0
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 16.1,
-      "y": 2.9,
-      "w": 21.4,
-      "h": 8.6,
-      "label": "DJ"
-     },
-     {
-      "t": "label",
-      "x": 26.8,
-      "y": 46.4,
-      "text": "LANGE ZAAL, TONGEWELF"
-     },
-     {
-      "t": "in",
-      "a": [
-       19.6,
-       100.0
-      ],
-      "b": [
-       33.9,
-       100.0
-      ],
-      "label": "IN"
-     }
-    ]
-   },
-   {
-    "name": "Room 2",
-    "outline": [
-     [
-      0.0,
-      0.0
-     ],
-     [
-      100.0,
-      0.0
-     ],
-     [
-      100.0,
-      78.6
-     ],
-     [
-      0.0,
-      78.6
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 32.1,
-      "y": 5.0,
-      "w": 35.7,
-      "h": 14.3,
-      "label": "DJ"
-     },
-     {
-      "t": "in",
-      "a": [
-       35.7,
-       78.6
-      ],
-      "b": [
-       64.3,
-       78.6
-      ]
-     }
-    ]
-   }
   ],
-  "confidence": "laag",
-  "basis": "schatting",
-  "source": "Geen plattegrond gevonden. BAG-pand 0363100012195030 is het hele voormalige schoolcomplex (1966-67, sheddaken rond een binnentuin), dus niet bruikbaar als zaalmuren. Foto's op tillatec.com: lange zaal met tongewelf, hangende speakerclusters en de DJ-booth aan de kopse kant voor een raampartij. De School-tijd (RA/thespaces 2016): club in de oude fietsenstalling in de kelder, wc, rookplek en tuin boven. DJ Mag 2026: 900 capaciteit over twee zalen. Welke ruimtes Tillatec precies gebruikt, en vorm en maat, zijn geschat.",
-  "bronnen": [
-   "https://www.tillatec.com/about",
-   "https://www.tillatec.com/",
-   "https://de.ra.co/reviews/18363",
-   "https://thespaces.com/amsterdams-de-school-club-to-open-in-january-2016/",
-   "https://djmag.com/news/amsterdam-venue-tilla-tec-closing-down",
-   "https://hetarchief.deschoolamsterdam.nl/about/"
-  ],
-  "photo": true
+  "type": "club"
  },
  {
   "id": "toekomstmuziek",
@@ -21747,6 +16450,7 @@
    "https://www.toekomstmuziek.com/about/",
    "https://www.iamsterdam.com/en/whats-on/calendar/concerts-and-music/concerts/toekomstmuziek"
   ],
+  "type": "club",
   "photo": true
  },
  {
@@ -22191,7 +16895,8 @@
    "https://tolhuistuin.nl/verhuur/concertzaal",
    "https://tolhuistuin.nl/verhuur/tuinzaal",
    "https://tolhuistuin.nl/verhuur/tuin"
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "disco-dolly",
@@ -22349,7 +17054,8 @@
    "https://www.bartsboekje.com/en/clubs-amsterdam/",
    "https://www.nhnieuws.nl/nieuws/328564/disco-dolly-bloemenbar-stopt-amsterdam/",
    "BAG pand 0363100012167923 (PDOK)"
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "under-hans",
@@ -22428,184 +17134,9 @@
    }
   ],
   "aka": "Onder Hans",
+  "type": "club",
   "lat": 52.36321,
   "lng": 4.89008,
-  "photo": true
- },
- {
-  "id": "undercurrent",
-  "name": "Undercurrent",
-  "address": "tt. Vasumweg 93, 1033 SG Amsterdam",
-  "area": "Noord",
-  "website": "https://www.undercurrent-amsterdam.nl",
-  "source": "locaties.nl (grote hal 464-500 m2 met glazen gevel aan het IJ tot 1000 p., kleine hal/oud auditorium 105 m2, waterterras 350 m2, tuin), AT5 (drijvend gebouw verhuisd van Papaverweg naar tt. Vasumweg), iamsterdam (800 m2). Geen plattegrond; indeling geschat.",
-  "confidence": "laag",
-  "note": "Drijvend gebouw aan de NDSM-kant: grote hal met glazen wand aan het IJ, kleine hal ernaast, terras boven het water.",
-  "rooms": [
-   {
-    "name": "Grote hal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      90
-     ],
-     [
-      0,
-      90
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       25
-      ],
-      "b": [
-       0,
-       65
-      ]
-     },
-     {
-      "t": "line",
-      "a": [
-       100,
-       0
-      ],
-      "b": [
-       100,
-       90
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 86,
-      "y": 45,
-      "text": "GLAZEN GEVEL / IJ",
-      "size": 10
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       72
-      ],
-      "b": [
-       0,
-       84
-      ],
-      "label": "KLEINE HAL"
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       90
-      ],
-      "b": [
-       55,
-       90
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        90
-       ],
-       [
-        100,
-        90
-       ],
-       [
-        100,
-        120
-       ],
-       [
-        0,
-        120
-       ]
-      ],
-      "text": "WATERTERRAS",
-      "dash": true
-     }
-    ]
-   },
-   {
-    "name": "Kleine hal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      50
-     ],
-     [
-      0,
-      50
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       12
-      ],
-      "b": [
-       0,
-       38
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       100,
-       20
-      ],
-      "b": [
-       100,
-       35
-      ],
-      "side": -1,
-      "label": "GROTE HAL"
-     }
-    ]
-   }
-  ],
-  "lat": 52.40988,
-  "lng": 4.8812,
   "photo": true
  },
  {
@@ -22699,219 +17230,7 @@
     ]
    }
   ],
-  "photo": true
- },
- {
-  "id": "vondelkerk",
-  "name": "Vondelkerk",
-  "address": "Vondelstraat 120, 1054 GS Amsterdam",
-  "area": "Zuid",
-  "lat": 52.3606,
-  "lng": 4.8703,
-  "website": "https://stadsherstel.nl/eventlocatie/vondelkerk/",
-  "status": "unsure",
-  "source": "stadsherstel.nl (tijdelijk niet te huren door brandschade, restauratie loopt) + locaties.nl (265 m2, max 250, één ruimte); centraalbouw Cuypers, indicatief",
-  "confidence": "laag",
-  "note": "Door brand in de nieuwjaarsnacht gesloten voor restauratie; controleer of er echt een event is. Eén centrale ruimte onder de koepel.",
-  "rooms": [
-   {
-    "name": "Kerkzaal",
-    "outline": [
-     [
-      25,
-      0
-     ],
-     [
-      75,
-      0
-     ],
-     [
-      100,
-      25
-     ],
-     [
-      100,
-      75
-     ],
-     [
-      75,
-      100
-     ],
-     [
-      25,
-      100
-     ],
-     [
-      0,
-      75
-     ],
-     [
-      0,
-      25
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 30,
-      "y": 6,
-      "w": 40,
-      "h": 16,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       35
-      ],
-      "b": [
-       0,
-       65
-      ],
-      "side": 1
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       100
-      ],
-      "b": [
-       60,
-       100
-      ],
-      "label": "IN (VONDELSTRAAT)"
-     }
-    ]
-   }
-  ],
-  "photo": true
- },
- {
-  "id": "vondelpark3",
-  "name": "Vondelpark3",
-  "address": "Vondelpark 3, 1071 AA Amsterdam",
-  "area": "Zuid",
-  "website": "https://www.vondelpark3.nl",
-  "source": "Headbox/greatervenues (twee studio's op de eerste verdieping aan weerszijden van de centrale bar, elk ca. 200 staand, volledig te verduisteren; wintertuinen met glazen deuren naar het terras; restaurant 120, terras 150, French Room 100). vondelcs.nl is opgeheven; venue heet nu Vondelpark3. Geen plattegrond; indicatief.",
-  "confidence": "middel",
-  "note": "Voormalig filmmuseum/VondelCS in het Vondelpark. Boven: twee studio's met de bar in het midden ertussen; wintertuinen aan de terraszijde. Alleen incidenteel (ADE, besloten) feesten.",
-  "rooms": [
-   {
-    "name": "Studio's (1e verdieping)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      80
-     ],
-     [
-      0,
-      80
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 8,
-      "y": 4,
-      "w": 26,
-      "h": 12,
-      "label": "DJ STUDIO 1"
-     },
-     {
-      "t": "dj",
-      "x": 66,
-      "y": 4,
-      "w": 26,
-      "h": 12,
-      "label": "DJ STUDIO 2"
-     },
-     {
-      "t": "line",
-      "a": [
-       38,
-       0
-      ],
-      "b": [
-       38,
-       80
-      ],
-      "dash": true
-     },
-     {
-      "t": "line",
-      "a": [
-       62,
-       0
-      ],
-      "b": [
-       62,
-       80
-      ],
-      "dash": true
-     },
-     {
-      "t": "bar",
-      "a": [
-       40,
-       30
-      ],
-      "b": [
-       60,
-       30
-      ],
-      "label": "CENTRALE BAR"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        60
-       ],
-       [
-        100,
-        60
-       ],
-       [
-        100,
-        80
-       ],
-       [
-        0,
-        80
-       ]
-      ],
-      "text": "WINTERTUIN → TERRAS",
-      "dash": true
-     },
-     {
-      "t": "in",
-      "a": [
-       44,
-       80
-      ],
-      "b": [
-       56,
-       80
-      ],
-      "label": "TRAP ↓ IN"
-     }
-    ]
-   }
-  ],
-  "aka": "voorheen VondelCS",
-  "lat": 52.36108,
-  "lng": 4.875,
+  "type": "club",
   "photo": true
  },
  {
@@ -22981,110 +17300,9 @@
     ]
    }
   ],
+  "type": "club",
   "lat": 52.37167,
   "lng": 4.8892,
-  "photo": true
- },
- {
-  "id": "w-amsterdam",
-  "name": "W Amsterdam",
-  "address": "Spuistraat 175, 1012 VN Amsterdam",
-  "area": "Centrum",
-  "lat": 52.3735,
-  "lng": 4.8905,
-  "website": "https://www.marriott.com/hotels/travel/amswh-w-amsterdam/",
-  "status": "open",
-  "source": "Marriott/W Amsterdam + rooftop-gidsen (W Lounge op de 6e verdieping van het Exchange-gebouw, glazen lounge met vier terrassen, DJ-sets; WET DECK zwembad op het dak); indeling indicatief",
-  "confidence": "laag",
-  "note": "Met de lift vanuit de lobby naar de 6e verdieping. Terrassen rondom de glazen lounge, zwembad (WET DECK) een niveau hoger.",
-  "rooms": [
-   {
-    "name": "W Lounge (6e verdieping)",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      80
-     ],
-     [
-      0,
-      80
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 40,
-      "y": 4,
-      "w": 20,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       20
-      ],
-      "b": [
-       100,
-       55
-      ],
-      "side": -1
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        64
-       ],
-       [
-        100,
-        64
-       ],
-       [
-        100,
-        80
-       ],
-       [
-        0,
-        80
-       ]
-      ],
-      "dash": true,
-      "text": "TERRAS"
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 36,
-      "text": "WET DECK (DAK, BOVEN)",
-      "size": 10
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       34
-      ],
-      "side": 1,
-      "label": "LIFT / IN"
-     }
-    ]
-   }
-  ],
-  "aka": "W Lounge",
   "photo": true
  },
  {
@@ -23447,7 +17665,8 @@
      }
     ]
    }
-  ]
+  ],
+  "type": "club"
  },
  {
   "id": "waterkant",
@@ -23538,831 +17757,9 @@
     ]
    }
   ],
+  "type": "bar",
   "lat": 52.36972,
   "lng": 4.87619,
-  "photo": true
- },
- {
-  "id": "wereldmuseum",
-  "name": "Wereldmuseum",
-  "address": "Linnaeusstraat 2, 1092 CK Amsterdam",
-  "area": "Oost",
-  "lat": 52.3627,
-  "lng": 4.9218,
-  "website": "https://amsterdam.wereldmuseum.nl",
-  "status": "open",
-  "source": "wereldmuseum.nl / iamsterdam (centrale Lichthal met galerijen op drie verdiepingen, monument 1926) + eigen kennis (grote trap, entree via de Marmeren Hal aan de Linnaeusstraat); podium/bar indicatief",
-  "confidence": "laag",
-  "note": "De Lichthal is de centrale hal met galerijen rondom op drie verdiepingen. Binnenkomen via de Marmeren Hal (Linnaeusstraat), dan de grote trap.",
-  "rooms": [
-   {
-    "name": "Lichthal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      150
-     ],
-     [
-      0,
-      150
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 20,
-      "y": 4,
-      "w": 60,
-      "h": 18,
-      "label": "PODIUM"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        0
-       ],
-       [
-        12,
-        0
-       ],
-       [
-        12,
-        150
-       ],
-       [
-        0,
-        150
-       ]
-      ],
-      "o": 0.5
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        88,
-        0
-       ],
-       [
-        100,
-        0
-       ],
-       [
-        100,
-        150
-       ],
-       [
-        88,
-        150
-       ]
-      ],
-      "o": 0.5
-     },
-     {
-      "t": "label",
-      "x": 6,
-      "y": 75,
-      "text": "GALERIJ",
-      "size": 10
-     },
-     {
-      "t": "label",
-      "x": 94,
-      "y": 75,
-      "text": "GALERIJ",
-      "size": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       12,
-       90
-      ],
-      "b": [
-       12,
-       120
-      ],
-      "side": 1
-     },
-     {
-      "t": "stairs",
-      "x": 50,
-      "y": 128,
-      "label": "GROTE TRAP"
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       150
-      ],
-      "b": [
-       60,
-       150
-      ],
-      "label": "IN (MARMEREN HAL)"
-     }
-    ]
-   }
-  ],
-  "aka": "Tropenmuseum Tropenmuseum",
-  "photo": true
- },
- {
-  "id": "westweelde",
-  "name": "WestWeelde",
-  "address": "Klönneplein 4-6, 1014 DD Amsterdam",
-  "area": "West",
-  "website": "https://westweelde.nl",
-  "aka": "WesterUnie / WesterLiefde",
-  "lat": 52.38716,
-  "lng": 4.86943,
-  "confidence": "hoog",
-  "basis": "plattegrond",
-  "source": "Officiële plattegronden van WestWeelde (westweelde.nl/locaties: De Unie niveau 1 en balkon, De Liefde, Het Restaurant) op schaal overgetrokken (Unie 24 x 21,7 m, Liefde 12 x 22 m, Restaurant 20 x 9,5 m, maten volgens site en brochure 2025). Podium Unie = podiumdeck op de plattegrond + lichtplot Westerunie (nov 2024); podium Liefde aan de raamkant volgens lichtplot Westerliefde (feb 2025) en foto's (bar met boot rechts, raam boven het podium). De Unie is de clubzaal (850 pers.); De Liefde en Het Restaurant gaan open bij grotere clubnachten. Niet bevestigd: de tweede bar in De Unie (smalle balie aan de servicekant), dat de publieksingang via de ronde trap in de hoek tegenover het podium loopt, en welke deur van De Liefde de hoofdingang is.",
-  "bronnen": [
-   "https://westweelde.nl/locaties/de-unie",
-   "https://westweelde.nl/locaties/de-liefde",
-   "https://westweelde.nl/locaties/het-restaurant",
-   "https://westweelde.nl/club",
-   "https://cdn.sanity.io/images/qcf0k7mi/production/0a3e2fa704070cca83ab267e94cabd716908de8d-1080x1350.png",
-   "https://cdn.sanity.io/images/qcf0k7mi/production/082ea22ae6582eeacbef5c5d17ec45cf9c114313-1080x1350.png",
-   "https://cdn.sanity.io/images/qcf0k7mi/production/8a5ba9a7d97e875bc2bbbacaf09900381f70a44c-1080x1350.png",
-   "https://cdn.sanity.io/images/qcf0k7mi/production/882a155cc4c766378b252114b460020bc235c84a-1080x1350.png",
-   "https://indd.adobe.com/view/4c551351-486d-44ca-b78d-9036096eab94",
-   "https://indd.adobe.com/view/c02100b5-314e-499a-bf99-d25d93c6266e",
-   "https://cdn.sanity.io/files/qcf0k7mi/production/9585b9d9eb83570f60a2aa16747503d00da5e45c.pdf"
-  ],
-  "note": "Clubnachten zijn vooral in De Unie op de eerste verdieping: podium aan de korte kant, de grote bar staat onder het balkon tussen de twee trappen naar boven. De wc's zitten op het balkon. De Liefde (houten vloer, bar met de oude boot) en Het Restaurant met terras aan het Klönneplein gaan open bij grote edities.",
-  "rooms": [
-   {
-    "name": "De Unie (club, 1e verdieping)",
-    "outline": [
-     [
-      24.0,
-      21.7
-     ],
-     [
-      5.5,
-      21.7
-     ],
-     [
-      5.5,
-      18.5
-     ],
-     [
-      0.0,
-      18.5
-     ],
-     [
-      0.0,
-      3.1
-     ],
-     [
-      5.5,
-      3.1
-     ],
-     [
-      5.5,
-      0.0
-     ],
-     [
-      17.7,
-      0.0
-     ],
-     [
-      17.7,
-      6.8
-     ],
-     [
-      19.1,
-      6.8
-     ],
-     [
-      19.1,
-      15.1
-     ],
-     [
-      24.0,
-      15.1
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 9.2,
-      "y": 0.1,
-      "w": 6.1,
-      "h": 4.3,
-      "label": "PODIUM"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        17.7,
-        18.3
-       ],
-       [
-        13.6,
-        18.3
-       ],
-       [
-        13.6,
-        16.9
-       ],
-       [
-        10.6,
-        16.9
-       ],
-       [
-        10.6,
-        18.3
-       ],
-       [
-        4.0,
-        18.3
-       ],
-       [
-        4.0,
-        0.1
-       ],
-       [
-        17.7,
-        0.1
-       ]
-      ],
-      "dash": true,
-      "o": 0.5
-     },
-     {
-      "t": "label",
-      "x": 13.0,
-      "y": 20.2,
-      "text": "BALKON BOVEN",
-      "size": 18
-     },
-     {
-      "t": "bar",
-      "a": [
-       4.3,
-       14.8
-      ],
-      "b": [
-       4.3,
-       6.3
-      ],
-      "label": "BAR"
-     },
-     {
-      "t": "bar",
-      "a": [
-       19.1,
-       11.2
-      ],
-      "b": [
-       19.1,
-       6.7
-      ],
-      "side": -1,
-      "label": "BAR"
-     },
-     {
-      "t": "stairs",
-      "x": 5.2,
-      "y": 17.6,
-      "label": "TRAP BALKON"
-     },
-     {
-      "t": "stairs",
-      "x": 5.2,
-      "y": 3.8,
-      "label": "TRAP BALKON"
-     },
-     {
-      "t": "stairs",
-      "x": 19.9,
-      "y": 17.3,
-      "label": "TRAP ↓ INGANG"
-     }
-    ]
-   },
-   {
-    "name": "De Unie – balkon",
-    "outline": [
-     [
-      24.0,
-      21.6
-     ],
-     [
-      0.0,
-      21.6
-     ],
-     [
-      0.0,
-      0.0
-     ],
-     [
-      24.0,
-      0.0
-     ]
-    ],
-    "features": [
-     {
-      "t": "poly",
-      "pts": [
-       [
-        17.7,
-        18.3
-       ],
-       [
-        13.6,
-        18.3
-       ],
-       [
-        13.6,
-        16.8
-       ],
-       [
-        10.6,
-        16.8
-       ],
-       [
-        10.6,
-        18.3
-       ],
-       [
-        4.0,
-        18.3
-       ],
-       [
-        4.0,
-        0.0
-       ],
-       [
-        17.7,
-        0.0
-       ]
-      ],
-      "text": "VIDE (ZICHT OP ZAAL)"
-     },
-     {
-      "t": "label",
-      "x": 12.0,
-      "y": 1.6,
-      "text": "PODIUM ↓",
-      "size": 20
-     },
-     {
-      "t": "wc",
-      "x": 21.5,
-      "y": 11.0
-     },
-     {
-      "t": "stairs",
-      "x": 5.2,
-      "y": 17.5,
-      "label": "TRAP ↓"
-     },
-     {
-      "t": "stairs",
-      "x": 5.2,
-      "y": 3.8,
-      "label": "TRAP ↓"
-     },
-     {
-      "t": "stairs",
-      "x": 21.9,
-      "y": 19.9,
-      "label": "TRAP"
-     }
-    ]
-   },
-   {
-    "name": "De Liefde",
-    "outline": [
-     [
-      8.1,
-      22.3
-     ],
-     [
-      0.0,
-      22.3
-     ],
-     [
-      0.0,
-      0.0
-     ],
-     [
-      12.0,
-      0.0
-     ],
-     [
-      12.0,
-      19.2
-     ],
-     [
-      8.1,
-      19.2
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 3.0,
-      "y": 0.0,
-      "w": 6.0,
-      "h": 4.0,
-      "label": "PODIUM"
-     },
-     {
-      "t": "bar",
-      "a": [
-       8.5,
-       17.4
-      ],
-      "b": [
-       8.5,
-       12.0
-      ],
-      "side": -1,
-      "label": "BAR"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        10.5,
-        9.9
-       ],
-       [
-        9.2,
-        11.0
-       ],
-       [
-        8.6,
-        9.2
-       ]
-      ],
-      "text": "BOOT",
-      "o": 0.9
-     },
-     {
-      "t": "in",
-      "a": [
-       12.0,
-       8.8
-      ],
-      "b": [
-       12.0,
-       6.3
-      ],
-      "side": -1,
-      "label": "TERRAS"
-     },
-     {
-      "t": "in",
-      "a": [
-       0.0,
-       12.1
-      ],
-      "b": [
-       0.0,
-       10.1
-      ],
-      "side": -1,
-      "label": "WC"
-     },
-     {
-      "t": "in",
-      "a": [
-       3.1,
-       22.3
-      ],
-      "b": [
-       1.2,
-       22.3
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "in",
-      "a": [
-       2.2,
-       0.0
-      ],
-      "b": [
-       1.2,
-       0.0
-      ],
-      "label": "ZIJINGANG"
-     }
-    ]
-   },
-   {
-    "name": "Het Restaurant",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      20,
-      0
-     ],
-     [
-      20,
-      9.5
-     ],
-     [
-      0,
-      9.5
-     ]
-    ],
-    "features": [
-     {
-      "t": "poly",
-      "pts": [
-       [
-        7.7,
-        1.9
-       ],
-       [
-        13.1,
-        1.9
-       ],
-       [
-        13.1,
-        4.7
-       ],
-       [
-        7.7,
-        4.7
-       ]
-      ],
-      "text": "BAR",
-      "o": 0.95,
-      "w": 5
-     },
-     {
-      "t": "in",
-      "a": [
-       5.4,
-       0.0
-      ],
-      "b": [
-       7.4,
-       0.0
-      ],
-      "side": -1,
-      "label": " "
-     },
-     {
-      "t": "in",
-      "a": [
-       13.1,
-       0.0
-      ],
-      "b": [
-       15.1,
-       0.0
-      ],
-      "side": -1,
-      "label": " "
-     },
-     {
-      "t": "in",
-      "a": [
-       5.4,
-       9.5
-      ],
-      "b": [
-       7.4,
-       9.5
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "in",
-      "a": [
-       13.1,
-       9.5
-      ],
-      "b": [
-       15.1,
-       9.5
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "wc",
-      "x": 2.2,
-      "y": 7.6
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0.4,
-        -7.1
-       ],
-       [
-        20.0,
-        -7.1
-       ],
-       [
-        20.0,
-        0.0
-       ],
-       [
-        0.4,
-        0.0
-       ]
-      ],
-      "text": "TERRAS (KLÖNNEPLEIN)",
-      "dash": true
-     }
-    ]
-   }
-  ],
-  "photo": true
- },
- {
-  "id": "yellow-house",
-  "name": "Yellow House",
-  "address": "Danzigerbocht 45-R, 1013 AM Amsterdam",
-  "area": "West",
-  "website": "https://www.yellowhouse.amsterdam",
-  "source": "Yellow House brochure (main space 130 m2, 200 staand, met vide en entresol/balkon 45 m2; dakterras 180 m2, 500 staand, uitzicht op het IJ; twee verdiepingen, lift) + ADE-venuepagina + locaties.nl.",
-  "confidence": "middel",
-  "note": "Restaurant/rooftopbar in de Houthavens met clubnachten do-zo. Beneden de hoofdruimte met bar en dj, entresol/balkon erboven, dakterras met bar en zonsondergang over het IJ.",
-  "rooms": [
-   {
-    "name": "Main space",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      110
-     ],
-     [
-      0,
-      110
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 32,
-      "y": 5,
-      "w": 36,
-      "h": 14
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       35
-      ],
-      "b": [
-       100,
-       85
-      ],
-      "side": -1
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        0
-       ],
-       [
-        30,
-        0
-       ],
-       [
-        30,
-        45
-       ],
-       [
-        0,
-        45
-       ]
-      ],
-      "text": "ENTRESOL ↑",
-      "dash": true
-     },
-     {
-      "t": "stairs",
-      "x": 15,
-      "y": 55,
-      "label": "TRAP ↑ BALKON/TERRAS"
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       110
-      ],
-      "b": [
-       60,
-       110
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "wc",
-      "x": 85,
-      "y": 100
-     }
-    ]
-   },
-   {
-    "name": "Dakterras",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      100
-     ],
-     [
-      0,
-      100
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 12
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       30
-      ],
-      "b": [
-       0,
-       70
-      ]
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 50,
-      "text": "UITZICHT IJ →",
-      "size": 14
-     },
-     {
-      "t": "in",
-      "a": [
-       70,
-       100
-      ],
-      "b": [
-       90,
-       100
-      ],
-      "label": "TRAP / LIFT"
-     },
-     {
-      "t": "smoke",
-      "x": 20,
-      "y": 90
-     }
-    ]
-   }
-  ],
-  "lat": 52.39638,
-  "lng": 4.87439,
   "photo": true
  },
  {
@@ -24442,6 +17839,7 @@
     ]
    }
   ],
+  "type": "podium",
   "lat": 52.38302,
   "lng": 4.87806,
   "photo": true
@@ -24559,200 +17957,7 @@
     ]
    }
   ],
-  "photo": true
- },
- {
-  "id": "zuiderkerk",
-  "name": "Zuiderkerk",
-  "address": "Zuiderkerkhof 72, 1011 WB Amsterdam",
-  "area": "Centrum",
-  "lat": 52.3703,
-  "lng": 4.8997,
-  "website": "https://www.zuiderkerkamsterdam.nl",
-  "source": "Wikipedia EN (pseudobasiliek: middenschip met twee lagere zijbeuken, zes traveeën, Toscaanse zuilen), heeswijk.nl (zijbeuken met glazen wanden afgesloten, mezzanine), locaties.nl/greatervenues (Middenschip tot 500/600, Gaanderij boven tot 400, Rode zaal met bar, lift). Geen plattegrond; positie podium en ingang geschat.",
-  "confidence": "middel",
-  "note": "Lang middenschip met zuilenrijen; de zijbeuken zijn glazen zalen. Rode zaal met bar aan de zijkant, gaanderij (balkon) boven.",
-  "rooms": [
-   {
-    "name": "Middenschip",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      180
-     ],
-     [
-      0,
-      180
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 25,
-      "y": 4,
-      "w": 50,
-      "h": 18,
-      "label": "PODIUM (MOBIEL)"
-     },
-     {
-      "t": "pillar",
-      "x": 25,
-      "y": 45
-     },
-     {
-      "t": "pillar",
-      "x": 25,
-      "y": 95
-     },
-     {
-      "t": "pillar",
-      "x": 25,
-      "y": 145
-     },
-     {
-      "t": "pillar",
-      "x": 75,
-      "y": 45
-     },
-     {
-      "t": "pillar",
-      "x": 75,
-      "y": 95
-     },
-     {
-      "t": "pillar",
-      "x": 75,
-      "y": 145
-     },
-     {
-      "t": "label",
-      "x": 12,
-      "y": 90,
-      "text": "GLAZEN ZALEN",
-      "size": 11
-     },
-     {
-      "t": "label",
-      "x": 88,
-      "y": 90,
-      "text": "RODE ZAAL / BAR",
-      "size": 11
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 172,
-      "text": "GAANDERIJ BOVEN",
-      "size": 12
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       180
-      ],
-      "b": [
-       60,
-       180
-      ],
-      "label": "IN"
-     }
-    ]
-   }
-  ],
-  "photo": true
- },
- {
-  "id": "zuiveringshal-west",
-  "name": "Zuiveringshal West",
-  "address": "Pazzanistraat 37, 1014 DB Amsterdam",
-  "area": "West",
-  "website": "https://westergas.nl",
-  "source": "Westergasfabriek-factsheet 2016 (1.200 m2, 67x18 m, 17,6 m hoog, max 1.500). Sinds 2022 permanent Fabrique des Lumières; events alleen via hun verhuur. Indeling indicatief.",
-  "confidence": "laag",
-  "note": "Lange hal; sinds 2022 Fabrique des Lumières (digitale kunst). Alleen bij uitzondering clubnachten. Podium gewoonlijk aan de kopse kant, ingang aan de Pazzanistraat-zijde.",
-  "rooms": [
-   {
-    "name": "Hal",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      370
-     ],
-     [
-      0,
-      370
-     ]
-    ],
-    "features": [
-     {
-      "t": "stage",
-      "x": 15,
-      "y": 6,
-      "w": 70,
-      "h": 26
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       120
-      ],
-      "b": [
-       0,
-       190
-      ]
-     },
-     {
-      "t": "bar",
-      "a": [
-       100,
-       200
-      ],
-      "b": [
-       100,
-       270
-      ],
-      "side": -1
-     },
-     {
-      "t": "in",
-      "a": [
-       0,
-       330
-      ],
-      "b": [
-       0,
-       355
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "wc",
-      "x": 80,
-      "y": 350
-     }
-    ]
-   }
-  ],
-  "lat": 52.38611,
-  "lng": 4.87214,
+  "type": "podium",
   "photo": true
  }
 ]

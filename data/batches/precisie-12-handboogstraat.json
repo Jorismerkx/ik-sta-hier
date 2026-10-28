@@ -1,0 +1,170 @@
+[
+ {
+  "id": "shu",
+  "name": "SHU",
+  "aka": "SHU Amsterdam, Bloemenbar",
+  "address": "Handboogstraat 15H, 1012 XM Amsterdam",
+  "area": "Centrum",
+  "website": "https://www.shuamsterdam.com",
+  "capacity": 180,
+  "status": "open",
+  "confidence": "middel",
+  "basis": "bag+fotos",
+  "source": "Buitenmuren uit BAG: pand 0363100012175877 (Handboogstraat 15, 4,0-4,5 x 16,2 m); SHU zit in verblijfsobject 15-H (130 m2 bijeenkomstfunctie, begane grond, de verdiepingen zijn woningen/kantoor). Indeling uit de fotoserie van Chantal Arnts (18-06-2024, op chantalarnts.com, locaties.nl en amsterdamnow), waarin de ruimtes elkaar overlappen: voorin de marmeren bar met spiegelplafond langs de linkermuur, een oranje bank tegen de voorwand met een boog naar de smalle gang met geblokte vloer, op de overgang naar achteren een platenkast met DJ-plek (rechts), dan de gouden bar (ook links) en achterin de lounge met open haard (rechts) en een stalen deur in de achterwand. Beschrijvingen: Bart's Boekje (drie ruimtes, plek voor 180), amsterdamnow (cocktailbar, lounge, dansvloer), locaties.nl (Main Room 80 m2 + VIP Room 15 m2). Aangenomen, niet bevestigd met een foto van de gevel: de marmeren bar ligt aan de straatkant (en de lounge achterin) en de bars staan tegen de noordmuur (kant nr. 11). Maten binnen de zaal geschat.",
+  "bronnen": [
+   "https://www.shuamsterdam.com",
+   "https://www.locaties.nl/en-US/venue/shu-176058",
+   "https://www.chantalarnts.com/interior/shu",
+   "https://www.amsterdamnow.com/en/going-out-entertainment/shu-amsterdam-the-innovative-nightspot-in-the-heart-of-the-city",
+   "https://www.bartsboekje.com/en/cocktailbar-amsterdam/",
+   "https://mastersexpo.com/en/onvergetelijke-avond-bij-deze-nieuwe-hotspots-moet-je-zijn",
+   "https://joinpearl.co/bars/amsterdam/shu-amsterdam",
+   "https://zoek.officielebekendmakingen.nl/gmb-2024-330293.html",
+   "https://zoek.officielebekendmakingen.nl/gmb-2024-95005.html",
+   "https://www.inyourpocket.com/netherlands/amsterdam/venues/bloemenbar",
+   "https://www.nhnieuws.nl/nieuws/328564/disco-dolly-bloemenbar-stopt-amsterdam/",
+   "BAG pand 0363100012175877, verblijfsobject 0363010000658399 (PDOK)"
+  ],
+  "note": "Cocktailbar die rond middernacht club wordt (25+), sinds zomer 2024 in het pand van de vroegere Bloemenbar. Do-zo vanaf 22:00; vr/za alleen op de gastenlijst (via Instagram), dresscode relaxed chic. Het is één lange, smalle pijpenla: voorin de marmeren bar met het spiegelplafond (links), halverwege rechts de platenkast waar de DJ staat, daarachter de gouden bar (ook links) en helemaal achterin de lounge met de open haard en het gouden-teddybeerschilderij (VIP). 'Bij de marmeren bar', 'bij de platenkast' of 'in de lounge' is genoeg. Dat de marmeren bar aan de straatkant ligt is afgeleid uit foto's, niet bevestigd.",
+  "rooms": [
+   {
+    "name": "Begane grond",
+    "outline": [
+     [
+      4.0,
+      0.0
+     ],
+     [
+      0.0,
+      0.2
+     ],
+     [
+      0.0,
+      16.4
+     ],
+     [
+      4.5,
+      16.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       0.4,
+       16.38
+      ],
+      "b": [
+       1.5,
+       16.33
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "line",
+      "a": [
+       2.2,
+       15.0
+      ],
+      "b": [
+       4.46,
+       15.0
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       15.0
+      ],
+      "b": [
+       0.5,
+       15.0
+      ]
+     },
+     {
+      "t": "label",
+      "x": 3.3,
+      "y": 15.75,
+      "text": "SAS",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 3.3,
+      "y": 14.2,
+      "text": "ZITHOEK",
+      "size": 14
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.8,
+       13.6
+      ],
+      "b": [
+       1.8,
+       9.6
+      ],
+      "label": "MARMEREN BAR"
+     },
+     {
+      "t": "dj",
+      "x": 2.9,
+      "y": 7.6,
+      "w": 1.3,
+      "h": 1.2
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.9,
+       6.7
+      ],
+      "b": [
+       1.9,
+       3.7
+      ],
+      "label": "GOUDEN BAR"
+     },
+     {
+      "t": "line",
+      "a": [
+       0.0,
+       3.1
+      ],
+      "b": [
+       1.2,
+       3.1
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       3.3,
+       3.1
+      ],
+      "b": [
+       4.1,
+       3.1
+      ]
+     },
+     {
+      "t": "label",
+      "x": 1.9,
+      "y": 1.2,
+      "text": "LOUNGE (VIP)",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 3.3,
+      "y": 2.2,
+      "text": "HAARD",
+      "size": 14
+     }
+    ]
+   }
+  ]
+ }
+]

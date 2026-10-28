@@ -1,0 +1,377 @@
+[
+ {
+  "id": "oliva",
+  "name": "Oliva",
+  "aka": "Claire",
+  "address": "Rembrandtplein 17, 1017 CT Amsterdam",
+  "area": "Centrum",
+  "website": "https://oliva-amsterdam.nl",
+  "capacity": 900,
+  "status": "open",
+  "rooms": [
+   {
+    "name": "Rembrandtzaal (Area 2)",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      12,
+      0
+     ],
+     [
+      12,
+      11
+     ],
+     [
+      0,
+      11
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 4.5,
+      "y": 0.5,
+      "w": 3.0,
+      "h": 1.4
+     },
+     {
+      "t": "bar",
+      "a": [
+       10.7,
+       5.6
+      ],
+      "b": [
+       10.7,
+       10.0
+      ]
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       1.9
+      ],
+      "b": [
+       0,
+       3.3
+      ],
+      "label": "NAAR GANG"
+     },
+     {
+      "t": "label",
+      "x": 2.2,
+      "y": 4.6,
+      "text": "AREA 2",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 6.0,
+      "y": 6.2,
+      "text": "DANSVLOER",
+      "size": 18
+     }
+    ]
+   },
+   {
+    "name": "Amstelzaal",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      0.1,
+      17.0
+     ],
+     [
+      10.5,
+      17.0
+     ],
+     [
+      10.5,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 0.8,
+      "y": 0.5,
+      "w": 2.8,
+      "h": 1.4
+     },
+     {
+      "t": "label",
+      "x": 7.0,
+      "y": 1.1,
+      "text": "VIVA OLIVA",
+      "size": 18
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       7.6
+      ],
+      "b": [
+       9.0,
+       7.6
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 4.6,
+      "y": 6.6,
+      "text": "VERHOGING",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        9.1,
+        6.0
+       ],
+       [
+        10.5,
+        6.0
+       ],
+       [
+        10.5,
+        11.0
+       ],
+       [
+        9.1,
+        11.0
+       ]
+      ]
+     },
+     {
+      "t": "stairs",
+      "x": 7.6,
+      "y": 9.2,
+      "label": "TRAP"
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       11.0
+      ],
+      "b": [
+       10.5,
+       11.0
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 5.0,
+      "y": 11.9,
+      "text": "COCKTAILBAR BOVEN",
+      "size": 15
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.5,
+       8.4
+      ],
+      "b": [
+       1.5,
+       15.8
+      ],
+      "side": -1,
+      "label": "ROZE BAR"
+     },
+     {
+      "t": "label",
+      "x": 8.5,
+      "y": 14.4,
+      "text": "SPIEGELS",
+      "size": 16
+     },
+     {
+      "t": "in",
+      "a": [
+       4.4,
+       17.0
+      ],
+      "b": [
+       6.4,
+       17.0
+      ],
+      "label": "IN: AMSTEL 80"
+     },
+     {
+      "t": "in",
+      "a": [
+       10.5,
+       1.8
+      ],
+      "b": [
+       10.5,
+       3.4
+      ],
+      "side": -1,
+      "label": "NAAR GANG"
+     }
+    ]
+   },
+   {
+    "name": "Cocktailbar (balkon)",
+    "outline": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      0.1,
+      6.0
+     ],
+     [
+      10.4,
+      6.0
+     ],
+     [
+      10.4,
+      0.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "label",
+      "x": 5.0,
+      "y": 1.0,
+      "text": "RELING, ZICHT OP AMSTELZAAL",
+      "size": 15
+     },
+     {
+      "t": "in",
+      "a": [
+       8.4,
+       0
+      ],
+      "b": [
+       9.8,
+       0
+      ],
+      "side": -1,
+      "label": "TRAP"
+     },
+     {
+      "t": "bar",
+      "a": [
+       1.5,
+       2.0
+      ],
+      "b": [
+       1.5,
+       5.4
+      ],
+      "side": -1
+     },
+     {
+      "t": "label",
+      "x": 5.6,
+      "y": 5.3,
+      "text": "RAMEN AAN DE AMSTEL",
+      "size": 15
+     }
+    ]
+   },
+   {
+    "name": "'t Barretje",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      5.5,
+      0
+     ],
+     [
+      5.5,
+      4.4
+     ],
+     [
+      0,
+      4.4
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       0.8,
+       1.2
+      ],
+      "b": [
+       4.7,
+       1.2
+      ],
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       2.0,
+       4.4
+      ],
+      "b": [
+       3.5,
+       4.4
+      ]
+     },
+     {
+      "t": "label",
+      "x": 2.75,
+      "y": 2.9,
+      "text": "VORM GESCHAT",
+      "size": 14
+     }
+    ]
+   }
+  ],
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Geen plattegrond gevonden (de eventbrochure staat alleen achter een WeTransfer-link). Amstelzaal en Cocktailbar: breedte en gevel van de strook aan de Amstel uit de BAG-omtrek (pand 0363100012171127, 10,3 m breed) en PDOK-luchtfoto. Binnenindeling uit de eigen foto's van Oliva (eventpagina september 2026, fotoshoot TK Photography 2024, opnamen 2020) en beschrijvingen: partypagina (grote zaal met DJ, tweede discozaal, kleinste barretje), FAQ (twee ingangen: Rembrandtplein 17 en Amstel 80, alles gelijkvloers), eventpagina (Rembrandtzaal, Amstelzaal met eigen ingang aan de Amstel, Cocktailbar; max. 900 gasten, in 2024 850 staand) en locaties.nl ('t Barretje). Area 2 = Rembrandtzaal: DJ-booth midden op de kopse wand, bar rechts achterin, deur met patrijspoort links (foto's 2020-2026); maat 12 x 11 m geschat uit foto's (site noemt 104 m2). Amstelzaal: verhoging met DJ en VIVA OLIVA-letters, trap naar de Cocktailbar op het balkon, roze bar en spiegelwand eronder (foto's). Ligging van Area 2 en 't Barretje in het pand is aangenomen; vorm van 't Barretje geschat.",
+  "bronnen": [
+   "https://oliva-amsterdam.nl/en/events-en/",
+   "https://oliva-amsterdam.nl/events/",
+   "https://oliva-amsterdam.nl/en/party-en/",
+   "https://oliva-amsterdam.nl/en/frequently-asked-questions/",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-Amstelzaal-events.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-Cocktailbar-events.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-event-sfeerbeeld.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-kick-off-en-congres.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2026/09/Oliva-event-gallery.png",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/home-business.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/WhatsApp-Image-2020-07-08-at-13.54.18-2-1024x682-1.jpeg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-71-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-74-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-21-van-133-1024x682-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-52-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-91-van-133-1024x683-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/TK-Photography-93-van-133-683x1024-1.jpg",
+   "https://oliva-amsterdam.nl/wp-content/uploads/2024/01/013-6.png",
+   "https://web.archive.org/web/20240229023107/https://oliva-amsterdam.nl/en/events-en/",
+   "https://web.archive.org/web/20211209042905/https://oliva-amsterdam.nl/en/party-en/",
+   "https://web.archive.org/web/20190122092946/http://www.claire.nl/info/",
+   "https://www.locaties.nl/en-US/venue/oliva-163187",
+   "https://www.amsterdamnow.com/en/?p=83398",
+   "https://www.amsterdam-dance-event.nl/en/program/2026/rumours-only-x-lotus-lab-ade-special/2803332/",
+   "https://www.amsterdam-dance-event.nl/en/venues/claire/38814/",
+   "https://www.cityzeum.com/studio-80",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Oliva loopt door het blok van het Rembrandtplein tot de Amstel, bijna alles gelijkvloers. Hoofdingang Rembrandtplein 17: een lange gang met kluisjes en planten (de 'oase') naar achteren. Tweede ingang aan de achterkant, Amstel 80 (restaurantkant, vooral bij diners en events). Area 2 (zaal 2 in de agenda, voor events Rembrandtzaal) is de discozaal met de grote spiegelbol en de gouden DJ-booth onder een boog; de bar staat rechts achterin, de deur met het patrijspoortje links bij het AREA 2-neonbord. In de Amstelzaal staat de DJ op de verhoging bij de VIVA OLIVA-letters; daaronder de roze neonbar en de spiegelwand, en een trap naar de Cocktailbar op het balkon (ramen aan de Amstel). 't Barretje is het kleinste barretje, met bakstenen muren en meezingers. Onzeker: waar Area 2 en 't Barretje precies in het pand liggen en welke zaal op clubavonden 'zaal 1' is; tekening op basis van foto's, niet van een plattegrond. Deurbeleid streng: 21+, geen petten of korte broeken."
+ }
+]

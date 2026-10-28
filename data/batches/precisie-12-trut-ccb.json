@@ -1,0 +1,355 @@
+[
+ {
+  "id": "de-trut",
+  "name": "De Trut",
+  "aka": "Trut Trutfonds Tetterode",
+  "address": "Bilderdijkstraat 165E, 1053 KP Amsterdam",
+  "area": "West",
+  "website": "https://www.trutfonds.nl",
+  "capacity": 220,
+  "status": "open",
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Kelder overgetrokken van de eigen plattegrond 'plattegrond Trut 2025 NL' op trutfonds.nl (bar, DJ, wc's, pilaren, garderobe/kapstokken, ingangsgang; de twee nooduitgangen zijn weggelaten), gedraaid zodat de DJ boven staat. Ligging en maat gecontroleerd met de Tetterode-plattegrond L0 op trutfonds.nl (geschiedenis) en de beschrijving van het Bilderdijkblok op davecarrsmith.co.uk (semi-kelder in de oostelijke helft van de vier middelste traveeën, ingang 165E via een afgeschotte gang in de passage van nr. 167). Schaal: oostelijke helft van het 23,2 m diepe blok (BAG) en BAG-vbo 165E = 185 m2; daaruit ca. 63 px/m, zaal ca. 11,7 x 18,2 m inclusief wc en garderobe. Capaciteit ca. 220 volgens een oudere uitgaansgids (niet officieel).",
+  "bronnen": [
+   "https://www.trutfonds.nl/agenda-en-line-up.html",
+   "https://www.trutfonds.nl/images/agenda-en-line-up/plattegrond%20Trut%202025%20NL.png",
+   "https://www.trutfonds.nl/geschiedenis.html",
+   "https://www.trutfonds.nl/images/geschiedenis/plattegrond%20tetterode%20de%20trut.jpg",
+   "https://www.trutfonds.nl/toegankelijkheid.html",
+   "https://www.trutfonds.nl/contact-nl.html",
+   "https://www.trutfonds.nl/",
+   "https://davecarrsmith.co.uk/D-WWW_TET-14_bd.htm",
+   "https://outxout.com/venue/verenigingdetrutamsterdam",
+   "https://www.nighttours.com/amsterdam/gayguide/trut.html"
+  ],
+  "note": "Alleen zondag 22.00-03.00. Ingang is deur 165E aan de Bilderdijkstraat: door de lange afgeschotte gang en de trap naar beneden kom je linksonder binnen in het halletje; de garderobe (kapstokken) is de strook rechtsonder. De DJ staat linksvoor, de bar loopt langs de rechtermuur, de wc's zitten rechtsvoor naast de bar. Midden op de dansvloer staat één pilaar, een tweede staat bij de overgang naar de garderobe. Je telefoon moet uit, dus spreek vooraf een plek af: 'bij de pilaar', 'bij de garderobe' of 'eind van de bar'. Alleen trappen, geen lift.",
+  "rooms": [
+   {
+    "name": "Kelder",
+    "outline": [
+     [
+      0.0,
+      2.4
+     ],
+     [
+      5.8,
+      2.4
+     ],
+     [
+      5.8,
+      0.0
+     ],
+     [
+      11.7,
+      0.0
+     ],
+     [
+      11.7,
+      18.2
+     ],
+     [
+      2.3,
+      18.2
+     ],
+     [
+      2.3,
+      15.8
+     ],
+     [
+      1.4,
+      15.8
+     ],
+     [
+      1.4,
+      14.2
+     ],
+     [
+      0.0,
+      14.2
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 1.5,
+      "y": 2.4,
+      "w": 2.5,
+      "h": 2.0
+     },
+     {
+      "t": "bar",
+      "a": [
+       10.0,
+       5.8
+      ],
+      "b": [
+       10.0,
+       11.9
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "pillar",
+      "x": 5.8,
+      "y": 8.1
+     },
+     {
+      "t": "pillar",
+      "x": 5.8,
+      "y": 13.8
+     },
+     {
+      "t": "line",
+      "a": [
+       10.6,
+       2.6
+      ],
+      "b": [
+       7.0,
+       2.6
+      ],
+      "w": 4,
+      "o": 0.9
+     },
+     {
+      "t": "wc",
+      "x": 8.8,
+      "y": 1.2
+     },
+     {
+      "t": "line",
+      "a": [
+       5.3,
+       14.2
+      ],
+      "b": [
+       1.4,
+       14.2
+      ],
+      "w": 4,
+      "o": 0.9
+     },
+     {
+      "t": "line",
+      "a": [
+       10.3,
+       15.4
+      ],
+      "b": [
+       5.8,
+       15.4
+      ],
+      "w": 4,
+      "o": 0.9
+     },
+     {
+      "t": "cloak",
+      "x": 8.7,
+      "y": 16.8
+     },
+     {
+      "t": "in",
+      "a": [
+       2.6,
+       18.2
+      ],
+      "b": [
+       4.0,
+       18.2
+      ],
+      "label": "IN: GANG + TRAP",
+      "side": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cafe-cafe-bar",
+  "name": "Café Café Bar",
+  "aka": "Café Café Cafe Cafe Bar Dantzig Stopera",
+  "address": "Amstel 1, 1011 VW Amsterdam",
+  "area": "Centrum",
+  "lat": 52.367659,
+  "lng": 4.899596,
+  "website": "https://cafecafe-restaurant.nl/cafecafebar",
+  "capacity": 400,
+  "status": "open",
+  "confidence": "laag",
+  "basis": "bag+fotos",
+  "source": "Café Café (Younique Concepts) zit in het lage hoekblok van de Stopera op de hoek Amstel/Zwanenburgwal, het voormalige Dantzig (eigen site: Amstel 1, 1011 VW; zelfde telefoonnummer; BAG-vbo Zwanenburgwal 15, 511 m2 bijeenkomstfunctie). Buitenmuren: BAG-pand Stopera (vertices 110/113/116) en luchtfoto PDOK: laag blok ca. 23,5 x 23,6 m met een hoger voordeel van 16 x 15,7 m op de hoek (glasgevels naar het terras). Binnenindeling afgeleid uit de RA-foto's (sept. 2025: DJ-booth voor de glasgevel, lange bar rechts met tap, pilaar met klimop links bij het glas) en de headervideo op de eigen site. Positie van bar, DJ, pilaar en deur geschat, niet van een plattegrond. Terras: luchtfoto (ca. 6 m diep langs west- en zuidgevel). Club-opening ADE 2025 (RA), ADE 2026-event 22-10-2026.",
+  "bronnen": [
+   "https://ra.co/news/83714",
+   "https://cafecafe-restaurant.nl/cafecafebar",
+   "https://cafecafe-restaurant.nl/groepen",
+   "https://cafecafe-restaurant.nl/wiewezijn",
+   "https://cafecafe-restaurant.nl/media_items/26-cafe-cafe-header_v2",
+   "https://www.amsterdam-dance-event.nl/en/venues/cafe-cafe-amsterdam/2716146/",
+   "https://www.amsterdam-dance-event.nl/en/program/2026/hyperactive-world-amsterdam/2857711/",
+   "https://www.amsterdamnow.com/en/restaurants/cafe-the-new-hotspot-where-nostalgia-and-innovation-come-together",
+   "https://youniqueconcepts.nl",
+   "https://service.pdok.nl/lv/bag/wfs/v2_0",
+   "https://service.pdok.nl/hwh/luchtfotorgb/wms/v1_0"
+  ],
+  "note": "Overdag restaurant, 's avonds en tijdens events club (ca. 400 man) in het glazen hoekgebouw van de Stopera aan de Amstel, waar vroeger Dantzig zat. Niet de hoofdingang van het stadhuis of de opera: loop over de kade naar de hoek Amstel/Zwanenburgwal, het terras ligt om het gebouw heen. Binnen staat de DJ voor de glasgevel aan de Zwanenburgwalkant (boven op de kaart), de lange bar met tap loopt rechts, links langs het glas staat een pilaar met planten. De ligging van bar, DJ en deur is geschat uit foto's; bij events kan de DJ elders staan.",
+  "rooms": [
+   {
+    "name": "Café / club",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      23.5,
+      0
+     ],
+     [
+      23.5,
+      23.6
+     ],
+     [
+      0,
+      23.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "dj",
+      "x": 5.5,
+      "y": 0.9,
+      "w": 3.0,
+      "h": 1.6
+     },
+     {
+      "t": "bar",
+      "a": [
+       13.4,
+       5.5
+      ],
+      "b": [
+       13.4,
+       13.8
+      ],
+      "label": "BAR"
+     },
+     {
+      "t": "pillar",
+      "x": 2.6,
+      "y": 11.0
+     },
+     {
+      "t": "line",
+      "a": [
+       15.6,
+       0
+      ],
+      "b": [
+       15.6,
+       15.7
+      ],
+      "dash": true
+     },
+     {
+      "t": "line",
+      "a": [
+       0,
+       15.7
+      ],
+      "b": [
+       15.6,
+       15.7
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 19.6,
+      "y": 19.6,
+      "text": "ACHTERDEEL",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       0,
+       12.6
+      ],
+      "b": [
+       0,
+       15.0
+      ],
+      "label": "IN",
+      "side": 1
+     }
+    ]
+   },
+   {
+    "name": "Terras",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      23.0,
+      0
+     ],
+     [
+      23.0,
+      6.0
+     ],
+     [
+      6.0,
+      6.0
+     ],
+     [
+      6.0,
+      22.0
+     ],
+     [
+      0,
+      22.0
+     ]
+    ],
+    "features": [
+     {
+      "t": "in",
+      "a": [
+       6.0,
+       18.6
+      ],
+      "b": [
+       6.0,
+       21.0
+      ],
+      "label": "DEUR",
+      "side": -1
+     },
+     {
+      "t": "label",
+      "x": 14.5,
+      "y": 3.0,
+      "text": "WESTKANT (ZWANENBURGWAL)",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 3.0,
+      "y": 13.0,
+      "text": "AMSTEL",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 15.0,
+      "y": 10.5,
+      "text": "CAFÉ (BINNEN)",
+      "size": 20
+     }
+    ]
+   }
+  ]
+ }
+]
