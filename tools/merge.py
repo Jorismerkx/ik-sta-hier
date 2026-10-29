@@ -65,14 +65,14 @@ if os.path.exists(DEDUPE):
             v['name'] = m.group(1) if m else n
             if m: v['aka'] = (v.get('aka', '') + ' ' + m.group(2)).strip()
 
-# selectie: eventlocaties en gesloten zaken gaan eruit, de rest krijgt een type (club, twijfel, bar, podium)
+# selectie: eventlocaties, gesloten zaken en zalen die nee zeiden gaan eruit, de rest krijgt een type (club, twijfel, bar, podium)
 SEL = os.path.join(ROOT, 'data', 'selectie.json')
 if os.path.exists(SEL):
     cat = json.load(open(SEL, encoding='utf-8'))['categorie']
     for vid in list(venues):
         c = cat.get(vid)
         if c is None: errs.append(f'{vid}: niet ingedeeld in data/selectie.json')
-        elif c in ('eventlocatie', 'dicht'): venues.pop(vid)
+        elif c in ('eventlocatie', 'dicht', 'nee'): venues.pop(vid)
         else: venues[vid]['type'] = c
 
 GEO = os.path.join(ROOT, 'data', 'geo.json')

@@ -15,7 +15,7 @@
   "bitterzoet": "club",
   "bourbon-street": "bar",
   "bret": "club",
-  "cafe-de-ceuvel": "bar",
+  "cafe-de-ceuvel": "nee",
   "cafe-de-duivel": "bar",
   "canvas": "club",
   "carre": "podium",
@@ -50,7 +50,7 @@
   "escape": "club",
   "exit-cafe": "club",
   "eye-filmmuseum": "eventlocatie",
-  "fc-hyena": "bar",
+  "fc-hyena": "nee",
   "felix-meritis": "eventlocatie",
   "frascati": "podium",
   "garage-noord": "club",
@@ -211,6 +211,7 @@
   "bar": "bar/café met DJ; mag in de app, geen prioriteit voor de mailing",
   "podium": "concertzaal of theater; clubnachten alleen soms",
   "eventlocatie": "museum, kerk, hotel, hal of terrein: vooral ADE en losse events",
-  "dicht": "gesloten of voorlopig buiten gebruik"
+  "dicht": "gesloten of voorlopig buiten gebruik",
+  "nee": "zaal zei zelf nee op de campagne: te klein of te weinig feesten voor een plattegrond"
  }
 }

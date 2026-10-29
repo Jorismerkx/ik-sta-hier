@@ -1471,98 +1471,6 @@
   "photo": true
  },
  {
-  "id": "cafe-de-ceuvel",
-  "name": "Café de Ceuvel",
-  "address": "Korte Papaverweg 4, 1032 KB Amsterdam",
-  "area": "Noord",
-  "website": "https://deceuvel.nl",
-  "source": "deceuvel.nl (adres, openingstijden, terugkerende evenementen), iamsterdam (café aan het water, steiger, vuurkorven), NH Nieuws/AT5 (terrein blijft tot begin 2028). Geen plattegrond; indeling geschat.",
-  "confidence": "laag",
-  "note": "Klein café-gebouw met groot terras aan het water; feesten vooral buiten. Broedplaats blijft tot begin 2028.",
-  "rooms": [
-   {
-    "name": "Café + terras",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      90
-     ],
-     [
-      0,
-      90
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       25
-      ],
-      "b": [
-       0,
-       60
-      ]
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       90
-      ],
-      "b": [
-       55,
-       90
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        100,
-        0
-       ],
-       [
-        150,
-        0
-       ],
-       [
-        150,
-        90
-       ],
-       [
-        100,
-        90
-       ]
-      ],
-      "text": "TERRAS / STEIGER",
-      "dash": true
-     }
-    ]
-   }
-  ],
-  "type": "bar",
-  "lat": 52.39315,
-  "lng": 4.91076,
-  "photo": true
- },
- {
   "id": "cafe-de-duivel",
   "name": "Café de Duivel",
   "address": "Reguliersdwarsstraat 87, 1017 BK Amsterdam",
@@ -4459,10 +4367,9 @@
   "name": "De Brakke Grond",
   "address": "Nes 45, 1012 KD Amsterdam",
   "area": "Centrum",
+  "lat": 52.37115,
+  "lng": 4.89386,
   "website": "https://brakkegrond.nl",
-  "source": "brakkegrond.nl/grote-zaal (20x20 m, 7 m hoog, uitschuifbare tribune 170-300, zonder tribune 500) en /rode-zaal (7,9x8,4 m, 9 m hoog, balkons aan drie zijden met loges, 120 zit, 300 staand), iamsterdam venue finder. Technische tekeningen alleen via Google Drive; niet gezien.",
-  "confidence": "middel",
-  "note": "Grote zaal is een vierkante black box: speelvlak aan de ene kant, tribune aan de andere. Rode zaal: klein en hoog met balkons rondom.",
   "rooms": [
    {
     "name": "Grote zaal",
@@ -4472,45 +4379,45 @@
       0
      ],
      [
-      100,
+      19.3,
       0
      ],
      [
-      100,
-      100
+      19.3,
+      20.6
      ],
      [
       0,
-      100
+      20.6
      ]
     ],
     "features": [
      {
       "t": "stage",
-      "x": 15,
-      "y": 4,
-      "w": 70,
-      "h": 22,
+      "x": 2.0,
+      "y": 1.2,
+      "w": 15.3,
+      "h": 9.5,
       "label": "SPEELVLAK"
      },
      {
       "t": "poly",
       "pts": [
        [
-        8,
-        55
+        16.8,
+        20.4
        ],
        [
-        92,
-        55
+        2.0,
+        20.4
        ],
        [
-        92,
-        94
+        2.0,
+        12.7
        ],
        [
-        8,
-        94
+        16.8,
+        12.7
        ]
       ],
       "dash": true,
@@ -4519,15 +4426,65 @@
      {
       "t": "in",
       "a": [
-       0,
-       70
+       13.6,
+       20.6
       ],
       "b": [
-       0,
-       86
+       12.4,
+       20.6
       ],
       "label": "IN",
-      "side": 1
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       8.3,
+       20.6
+      ],
+      "b": [
+       7.1,
+       20.6
+      ],
+      "label": "IN",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       3.2,
+       20.6
+      ],
+      "b": [
+       2.0,
+       20.6
+      ],
+      "label": "IN",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       19.3,
+       19.4
+      ],
+      "b": [
+       19.3,
+       18.0
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       19.3,
+       2.5
+      ],
+      "b": [
+       19.3,
+       1.1
+      ],
+      "label": "IN"
      }
     ]
    },
@@ -4535,115 +4492,485 @@
     "name": "Rode zaal",
     "outline": [
      [
-      0,
+      14.1,
+      3.2
+     ],
+     [
+      14.1,
+      16.9
+     ],
+     [
+      0.0,
+      16.9
+     ],
+     [
+      0.0,
+      6.1
+     ],
+     [
+      2.7,
+      6.1
+     ],
+     [
+      2.7,
       0
      ],
      [
-      94,
+      11.4,
       0
      ],
      [
-      94,
-      100
-     ],
-     [
-      0,
-      100
+      11.4,
+      3.2
      ]
     ],
     "features": [
      {
       "t": "stage",
-      "x": 12,
-      "y": 4,
-      "w": 70,
-      "h": 18
-     },
-     {
-      "t": "line",
-      "a": [
-       10,
-       26
-      ],
-      "b": [
-       10,
-       100
-      ],
-      "dash": true
-     },
-     {
-      "t": "line",
-      "a": [
-       84,
-       26
-      ],
-      "b": [
-       84,
-       100
-      ],
-      "dash": true
-     },
-     {
-      "t": "line",
-      "a": [
-       10,
-       88
-      ],
-      "b": [
-       84,
-       88
-      ],
-      "dash": true
-     },
-     {
-      "t": "label",
-      "x": 47,
-      "y": 95,
-      "text": "BALKONS BOVEN",
-      "size": 12
+      "x": 3.6,
+      "y": 0.3,
+      "w": 6.7,
+      "h": 7.2,
+      "label": "TONEEL"
      },
      {
       "t": "poly",
       "pts": [
        [
-        18,
-        40
+        11.2,
+        8.1
        ],
        [
-        76,
-        40
+        11.2,
+        15.6
        ],
        [
-        76,
-        84
+        2.8,
+        15.6
        ],
        [
-        18,
-        84
+        2.8,
+        8.1
        ]
       ],
       "dash": true,
-      "text": "TRIBUNE"
+      "text": "STOELEN"
+     },
+     {
+      "t": "label",
+      "x": 7.0,
+      "y": 15.9,
+      "text": "BALKONS EN LOGES BOVEN",
+      "size": 14
      },
      {
       "t": "in",
       "a": [
-       0,
-       70
+       6.6,
+       16.9
       ],
       "b": [
-       0,
-       84
+       8.0,
+       16.9
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       12.7,
+       3.2
+      ],
+      "b": [
+       14.0,
+       3.2
       ],
       "label": "IN",
+      "side": -1
+     }
+    ]
+   },
+   {
+    "name": "Foyer en eetcafé",
+    "outline": [
+     [
+      11.5,
+      0.0
+     ],
+     [
+      14.7,
+      0.7
+     ],
+     [
+      14.7,
+      12.9
+     ],
+     [
+      19.3,
+      12.9
+     ],
+     [
+      19.3,
+      12.0
+     ],
+     [
+      30.2,
+      12.0
+     ],
+     [
+      30.2,
+      19.3
+     ],
+     [
+      7.4,
+      19.3
+     ],
+     [
+      7.4,
+      34.7
+     ],
+     [
+      0.0,
+      34.7
+     ],
+     [
+      0.0,
+      16.2
+     ],
+     [
+      8.1,
+      16.2
+     ],
+     [
+      8.8,
+      11.6
+     ]
+    ],
+    "features": [
+     {
+      "t": "bar",
+      "a": [
+       14.7,
+       1.8
+      ],
+      "b": [
+       14.7,
+       5.4
+      ],
       "side": 1
+     },
+     {
+      "t": "line",
+      "a": [
+       8.8,
+       11.6
+      ],
+      "b": [
+       11.2,
+       12.1
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       13.0,
+       12.5
+      ],
+      "b": [
+       14.7,
+       12.9
+      ]
+     },
+     {
+      "t": "label",
+      "x": 11.7,
+      "y": 9.2,
+      "text": "EETCAFÉ",
+      "size": 18
+     },
+     {
+      "t": "in",
+      "a": [
+       10.9,
+       2.5
+      ],
+      "b": [
+       10.1,
+       6.3
+      ],
+      "label": "TERRAS"
+     },
+     {
+      "t": "in",
+      "a": [
+       8.6,
+       12.5
+      ],
+      "b": [
+       8.2,
+       15.5
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       0.0,
+       19.1
+      ],
+      "b": [
+       0.0,
+       16.5
+      ],
+      "label": "IN"
+     },
+     {
+      "t": "in",
+      "a": [
+       21.3,
+       19.3
+      ],
+      "b": [
+       18.6,
+       19.3
+      ],
+      "label": "GROTE ZAAL",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       28.5,
+       12.0
+      ],
+      "b": [
+       30.0,
+       12.0
+      ],
+      "label": "EXPO",
+      "side": -1
+     },
+     {
+      "t": "in",
+      "a": [
+       7.4,
+       34.7
+      ],
+      "b": [
+       4.0,
+       34.7
+      ],
+      "label": "RODE ZAAL",
+      "side": -1
+     },
+     {
+      "t": "pillar",
+      "x": 3.4,
+      "y": 21.5
+     },
+     {
+      "t": "pillar",
+      "x": 3.4,
+      "y": 27.4
+     },
+     {
+      "t": "pillar",
+      "x": 3.4,
+      "y": 33.1
+     },
+     {
+      "t": "wc",
+      "x": 1.5,
+      "y": 24.6
+     }
+    ]
+   },
+   {
+    "name": "Witte zaal, Steegzaal, Tuinzaal",
+    "outline": [
+     [
+      0,
+      0
+     ],
+     [
+      31.3,
+      0
+     ],
+     [
+      31.3,
+      6.5
+     ],
+     [
+      26.8,
+      6.5
+     ],
+     [
+      26.8,
+      14.1
+     ],
+     [
+      13.8,
+      14.1
+     ],
+     [
+      13.8,
+      6.5
+     ],
+     [
+      8.5,
+      6.5
+     ],
+     [
+      8.5,
+      11.6
+     ],
+     [
+      0,
+      13.3
+     ]
+    ],
+    "features": [
+     {
+      "t": "line",
+      "a": [
+       18.15,
+       0
+      ],
+      "b": [
+       18.15,
+       4.75
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       8.5,
+       4.7
+      ],
+      "b": [
+       9.2,
+       4.7
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       10.0,
+       4.7
+      ],
+      "b": [
+       18.15,
+       4.7
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       18.15,
+       4.75
+      ],
+      "b": [
+       21.0,
+       4.75
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       21.9,
+       4.75
+      ],
+      "b": [
+       26.4,
+       4.75
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       27.3,
+       4.75
+      ],
+      "b": [
+       31.3,
+       4.75
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       13.8,
+       6.5
+      ],
+      "b": [
+       26.8,
+       6.5
+      ]
+     },
+     {
+      "t": "line",
+      "a": [
+       8.5,
+       4.7
+      ],
+      "b": [
+       8.5,
+       6.5
+      ]
+     },
+     {
+      "t": "label",
+      "x": 4.6,
+      "y": 3.0,
+      "text": "WITTE ZAAL",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 24.7,
+      "y": 2.6,
+      "text": "STEEGZAAL",
+      "size": 18
+     },
+     {
+      "t": "label",
+      "x": 20.3,
+      "y": 10.4,
+      "text": "TUINZAAL",
+      "size": 18
+     },
+     {
+      "t": "pillar",
+      "x": 4.1,
+      "y": 6.7
+     },
+     {
+      "t": "in",
+      "a": [
+       9.2,
+       6.5
+      ],
+      "b": [
+       11.8,
+       6.5
+      ],
+      "label": "FOYER"
      }
     ]
    }
   ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Eigen tekeningen van De Brakke Grond (begane grond 2024, Grote zaal 2025, Rode zaal 2D, Witte/Tuin/Steegzaal met maten), openbaar via de downloadmap op brakkegrond.nl/technische-informatie; hoofd techniek wees ons er op 29-10-2026 op. Maat uit de tekening (Grote zaal 19,3 x 20,6 m binnen, Rode zaal 17 m diep met toneel van ca. 8 x 8,6 m).",
+  "bronnen": [
+   "https://brakkegrond.nl/technische-informatie",
+   "https://drive.google.com/open?id=1HHtjdFUNrSdcdVzQEwLlq3pYwz3Smi_I",
+   "https://brakkegrond.nl/grote-zaal",
+   "https://brakkegrond.nl/rode-zaal",
+   "https://brakkegrond.nl/witte-zaal"
+  ],
+  "note": "Ingang vanaf het pleintje aan de Nes. De foyer loopt als een L om de Grote zaal heen, met het eetcafé en de bar aan het plein. De Rode zaal ligt achter de Grote zaal; de expozalen (Witte zaal, Steegzaal, Tuinzaal) via de gang achter de foyer.",
   "type": "podium",
-  "lat": 52.37115,
-  "lng": 4.89386,
   "photo": true
  },
  {
@@ -6089,105 +6416,6 @@
   "type": "club",
   "lat": 52.36627,
   "lng": 4.89132,
-  "photo": true
- },
- {
-  "id": "fc-hyena",
-  "name": "FC Hyena",
-  "address": "Aambeeldstraat 24, 1021 KB Amsterdam",
-  "area": "Noord",
-  "website": "https://www.fchyena.nl",
-  "source": "fchyena.nl (bioscoop, Petit Resto, wijnbar, groot terras aan het IJ), Kidsproof/iamsterdam (twee filmzalen). Geen clubnachten gevonden; indeling geschat.",
-  "confidence": "laag",
-  "note": "Boutique-bioscoop met bar en restaurant; feesten alleen incidenteel. Terras aan het IJ.",
-  "rooms": [
-   {
-    "name": "Bar / Petit Resto",
-    "outline": [
-     [
-      0,
-      0
-     ],
-     [
-      100,
-      0
-     ],
-     [
-      100,
-      80
-     ],
-     [
-      0,
-      80
-     ]
-    ],
-    "features": [
-     {
-      "t": "dj",
-      "x": 35,
-      "y": 4,
-      "w": 30,
-      "h": 10
-     },
-     {
-      "t": "bar",
-      "a": [
-       0,
-       20
-      ],
-      "b": [
-       0,
-       55
-      ]
-     },
-     {
-      "t": "label",
-      "x": 80,
-      "y": 40,
-      "text": "FILMZALEN",
-      "size": 11
-     },
-     {
-      "t": "in",
-      "a": [
-       40,
-       80
-      ],
-      "b": [
-       55,
-       80
-      ],
-      "label": "IN"
-     },
-     {
-      "t": "poly",
-      "pts": [
-       [
-        0,
-        80
-       ],
-       [
-        100,
-        80
-       ],
-       [
-        100,
-        110
-       ],
-       [
-        0,
-        110
-       ]
-      ],
-      "text": "TERRAS (IJ)",
-      "dash": true
-     }
-    ]
-   }
-  ],
-  "type": "bar",
-  "lat": 52.38341,
-  "lng": 4.92893,
   "photo": true
  },
  {
