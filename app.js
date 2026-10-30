@@ -31,8 +31,10 @@
   const areaGroup = v => AREA_MAP[v.area] || (v.area || '').split(' ')[0];
   const esc = s => String(s || '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const thumbs = new Map();
-  /** Vlakje in de clubkleur met de mini-plattegrond van de eerste zaal. */
+  /** Profielfoto van de club; zonder foto een vlakje in de clubkleur met de mini-plattegrond van de eerste zaal. */
   function thumb(v, cls = 'thumb-sq') {
+    const p = photoOf(v);
+    if (p) return `<div class="${cls}" style="background:${colorOf(v)} url('${p}') center/cover no-repeat"></div>`;
     if (!thumbs.has(v.id)) thumbs.set(v.id, (v.rooms || [])[0] ? Plan.render(v, v.rooms[0], { mini: true }) : '');
     return `<div class="${cls}" style="background:${colorOf(v)}">${thumbs.get(v.id)}</div>`;
   }
@@ -234,7 +236,10 @@
     const v = VENUES.find(x => x.id === id); if (!v) return;
     current.venue = v; remember(v);
     const rooms = v.rooms || [];
-    $('#v-hero').style.setProperty('--c', colorOf(v));
+    const hero = $('#v-hero'), p = photoOf(v);
+    hero.style.setProperty('--c', colorOf(v));
+    hero.style.setProperty('--photo', p ? `url('${p}')` : 'none');
+    hero.classList.toggle('has-photo', !!p);
     $('#v-kind').textContent = [kindOf(v), v.area].filter(Boolean).join(' · ');
     $('#v-name').textContent = v.name;
     $('#v-name').classList.toggle('long', v.name.length > 14 || v.name.split(' ').some(w => w.length > 9));
@@ -271,10 +276,6 @@
       $('#v-agenda-wrap').classList.toggle('hidden', !list.length);
       $('#v-agenda').innerHTML = list.map(e => `<a class="ag-item" href="${esc(e.url)}" target="_blank" rel="noopener">${datebox(e.date)}<div class="meta"><strong>${esc(e.title)}</strong><span>${new Date(e.date + 'T12:00:00').toLocaleDateString('nl-NL', { weekday: 'long' })}${e.time ? ' · ' + e.time : ''}</span></div></a>`).join('');
     });
-
-    const p = photoOf(v);
-    $('#v-photo-wrap').classList.toggle('hidden', !p);
-    if (p) $('#v-photo').src = p;
 
     $('#v-scroll').scrollTop = 0;
     location.hash = v.id;
