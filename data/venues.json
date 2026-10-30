@@ -6865,190 +6865,343 @@
   "lat": 52.3624,
   "lng": 4.9042,
   "website": "https://www.carre.nl",
-  "status": "open",
-  "source": "carre.nl bezoekersinfo (vakken stalles, parterre, loge, balkon, galerij met eigen ingang) + Carthalia/Wikipedia (circusgebouw 1887, ronde piste, ca. 1700-2000 plaatsen); ADE 2026 venue",
-  "confidence": "middel",
-  "note": "Hoofdingang aan de Amstel, tegenover het toneel. Galerij (engelenbak) heeft een aparte deur. Bars in de foyers rondom.",
   "rooms": [
    {
     "name": "Grote Zaal",
     "outline": [
      [
       0,
+      11
+     ],
+     [
+      26,
+      9
+     ],
+     [
+      31,
       0
      ],
      [
-      100,
+      70,
       0
      ],
      [
-      100,
-      85
+      75,
+      9
      ],
      [
-      88,
-      112
+      101,
+      11
      ],
      [
-      65,
-      128
-     ],
-     [
-      35,
-      128
-     ],
-     [
-      12,
-      112
+      101,
+      99
      ],
      [
       0,
-      85
+      99
      ]
     ],
     "features": [
      {
       "t": "stage",
-      "x": 12,
+      "x": 31,
       "y": 0,
-      "w": 76,
-      "h": 26,
+      "w": 39,
+      "h": 8,
       "label": "TONEEL"
      },
      {
       "t": "poly",
       "pts": [
        [
-        80,
-        62
+        31,
+        10
        ],
        [
-        76,
-        77
+        70,
+        10
        ],
        [
-        65,
-        88
+        70,
+        35
        ],
        [
-        50,
-        92
+        63,
+        40
        ],
        [
-        35,
-        88
+        59,
+        44
        ],
        [
-        24,
-        77
+        55,
+        48
        ],
        [
-        20,
-        62
+        46,
+        48
        ],
        [
-        24,
-        47
+        42,
+        44
        ],
        [
-        35,
-        36
+        38,
+        40
        ],
        [
-        50,
-        32
-       ],
-       [
-        65,
-        36
-       ],
-       [
-        76,
-        47
+        31,
+        35
        ]
       ],
       "dash": true
      },
      {
       "t": "label",
-      "x": 50,
-      "y": 62,
-      "text": "PISTE / STALLES",
-      "size": 13
-     },
-     {
-      "t": "label",
-      "x": 50,
-      "y": 106,
-      "text": "PARTERRE",
-      "size": 12
+      "x": 50.5,
+      "y": 27,
+      "text": "STALLES",
+      "size": 20
      },
      {
       "t": "poly",
       "pts": [
        [
-        10,
-        26
+        18,
+        10
        ],
        [
-        90,
-        26
+        18,
+        35
        ],
        [
-        90,
-        82
+        21,
+        47
+       ],
+       [
+        27,
+        55
+       ],
+       [
+        35,
+        59.5
+       ],
+       [
+        44,
+        61
+       ],
+       [
+        46,
+        57
+       ],
+       [
+        55,
+        57
+       ],
+       [
+        57,
+        61
+       ],
+       [
+        66,
+        59.5
+       ],
+       [
+        74,
+        55
        ],
        [
         80,
-        104
+        47
        ],
        [
-        62,
-        118
+        83,
+        35
        ],
        [
-        38,
-        118
+        83,
+        10
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 50.5,
+      "y": 51.5,
+      "text": "PARTERRE",
+      "size": 16
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        11,
+        10
        ],
        [
-        20,
-        104
+        11,
+        37
+       ],
+       [
+        13,
+        45
+       ],
+       [
+        17,
+        52
+       ],
+       [
+        22,
+        58
+       ],
+       [
+        30,
+        63
+       ],
+       [
+        40,
+        66
+       ],
+       [
+        46,
+        68
+       ],
+       [
+        55,
+        68
+       ],
+       [
+        61,
+        66
+       ],
+       [
+        71,
+        63
+       ],
+       [
+        79,
+        58
+       ],
+       [
+        84,
+        52
+       ],
+       [
+        88,
+        45
+       ],
+       [
+        90,
+        37
+       ],
+       [
+        90,
+        10
+       ]
+      ],
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 50.5,
+      "y": 63,
+      "text": "LOGES",
+      "size": 16
+     },
+     {
+      "t": "label",
+      "x": 50.5,
+      "y": 74,
+      "text": "BALKON",
+      "size": 18
+     },
+     {
+      "t": "poly",
+      "pts": [
+       [
+        0,
+        68
        ],
        [
         10,
-        82
+        76
+       ],
+       [
+        22,
+        80
+       ],
+       [
+        50.5,
+        81
+       ],
+       [
+        79,
+        80
+       ],
+       [
+        91,
+        76
+       ],
+       [
+        101,
+        68
+       ],
+       [
+        101,
+        99
+       ],
+       [
+        0,
+        99
        ]
       ],
-      "dash": true,
-      "text": "LOGES - 1E BALKON - 2E BALKON (BOVEN)"
+      "dash": true
+     },
+     {
+      "t": "label",
+      "x": 50.5,
+      "y": 89,
+      "text": "GALERIJ",
+      "size": 18
+     },
+     {
+      "t": "stairs",
+      "x": 19.5,
+      "y": 66,
+      "label": "TRAP"
+     },
+     {
+      "t": "stairs",
+      "x": 81.5,
+      "y": 66,
+      "label": "TRAP"
      },
      {
       "t": "in",
       "a": [
-       38,
-       128
+       44,
+       99
       ],
       "b": [
-       62,
-       128
+       57,
+       99
       ],
-      "label": "IN (FOYER AMSTEL)"
-     },
-     {
-      "t": "stairs",
-      "x": 8,
-      "y": 118,
-      "label": "TRAP BALKON"
-     },
-     {
-      "t": "stairs",
-      "x": 92,
-      "y": 118,
-      "label": "TRAP BALKON"
+      "label": "IN"
      }
     ]
    }
   ],
+  "confidence": "hoog",
+  "basis": "plattegrond",
+  "source": "Officiële zaalplattegrond van Carré (Stichting Tekening, 1756 stoelen: stalles 378, parterre 256, loges 238, balkon 559, galerij 325), openbaar op carre.nl/pagina/plattegrond; de klantenservice van Carré wees ons er op 30-10-2026 op. Nagetekend op dezelfde verhoudingen.",
+  "bronnen": [
+   "https://carre.nl/pagina/plattegrond",
+   "https://assets.carre.nl/f8a6358a-9531-4335-8931-395c162c0e0a/-/srgb/icc/plattegrond-carre.jpg",
+   "https://assets.carre.nl/3c7decce-617a-4088-8cea-5aaf2c8c56c1/-/inline/yes/20190701-zaalplattegrond-carr%C3%A9.pdf"
+  ],
+  "note": "Stalles op de vloer van de oude circuspiste, de parterre er in een hoefijzer omheen, daarbuiten de loges. Balkon en galerij liggen hoger en lopen rond tot achterin; de tekening is plat, net als die van Carré. Ingang vanuit de foyer aan de Amstel, achter in de zaal.",
   "type": "podium",
   "photo": true
  },
