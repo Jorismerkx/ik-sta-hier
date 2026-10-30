@@ -272,7 +272,7 @@
     $('#v-agenda-wrap').classList.add('hidden');
     loadAgenda().then(a => {
       if (current.venue !== v) return;
-      const list = ((a || {})[v.id] || []).filter(e => e.date >= todayStr()).slice(0, 4);
+      const list = ((a || {})[v.id] || []).filter(e => e.date >= todayStr() && /^https?:\/\//.test(e.url || '')).slice(0, 4);
       $('#v-agenda-wrap').classList.toggle('hidden', !list.length);
       $('#v-agenda').innerHTML = list.map(e => `<a class="ag-item" href="${esc(e.url)}" target="_blank" rel="noopener">${datebox(e.date)}<div class="meta"><strong>${esc(e.title)}</strong><span>${new Date(e.date + 'T12:00:00').toLocaleDateString('nl-NL', { weekday: 'long' })}${e.time ? ' · ' + e.time : ''}</span></div></a>`).join('');
     });

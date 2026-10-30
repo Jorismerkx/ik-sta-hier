@@ -1,0 +1,40 @@
+name: Agenda bijwerken
+
+# Elke ochtend de programma's van de clubs opnieuw ophalen (tools/agenda.py) en data/agenda.json bijwerken.
+# De app leest agenda.json network-first, dus na de Pages-build ziet iedereen het nieuwe programma.
+on:
+  schedule:
+    - cron: '17 4 * * *'   # 05:17 of 06:17 Amsterdamse tijd
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: agenda
+  cancel-in-progress: false
+
+jobs:
+  agenda:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests
+      - run: python -X utf8 tools/agenda.py
+      - name: Opslaan als er iets veranderd is
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add data/agenda.json
+          if git diff --cached --quiet; then echo "geen wijzigingen"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Agenda bijgewerkt"
+          git push origin HEAD:main HEAD:v2
+          # een push met de workflow-token start geen Pages-build vanzelf
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages-build niet aangevraagd"
