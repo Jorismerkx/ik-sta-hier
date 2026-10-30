@@ -261,7 +261,7 @@ async function api(req, res, url) {
 // ---------- de webapp zelf (alleen wat de app nodig heeft) ----------
 const TYPES = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8',
   '.json': 'application/json; charset=utf-8', '.webmanifest': 'application/manifest+json', '.png': 'image/png', '.jpg': 'image/jpeg', '.svg': 'image/svg+xml' };
-const OPEN = /^\/(index\.html|style\.css|app\.js|plan\.js|qr\.js|social\.js|demo\.js|config\.js|sw\.js|manifest\.webmanifest|data\/(venues|agenda)\.json|img\/[\w\-./]+\.(png|jpg|svg))$/;
+const OPEN = /^\/(index\.html|style\.css|app\.js|plan\.js|qr\.js|social\.js|config\.js|sw\.js|manifest\.webmanifest|data\/(venues|agenda)\.json|img\/[\w\-./]+\.(png|jpg|svg))$/;
 function statisch(req, res, url) {
   const p = url.pathname === '/' ? '/index.html' : decodeURIComponent(url.pathname);
   if (!OPEN.test(p) || p.includes('..')) { res.writeHead(404); return res.end('niet gevonden'); }

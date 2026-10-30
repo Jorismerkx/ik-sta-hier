@@ -165,7 +165,7 @@
     let html = '';
     const recent = store.get('recent', []).map(id => VENUES.find(v => v.id === id)).filter(Boolean);
     if (recent.length && !q.value && area === 'Alle') {
-      html += `<div class="letter">Recent</div><div class="recent-strip">${recent.map(v => `<button class="recent" data-id="${v.id}" style="background:${colorOf(v)}"><span>${esc(v.name)}</span></button>`).join('')}</div>`;
+      html += `<div class="letter">Recent</div><div class="recent-strip">${recent.map(v => `<button class="recent" data-id="${v.id}">${thumb(v, 'recent-ph')}<span>${esc(v.name)}</span></button>`).join('')}</div>`;
     }
     if (!items.length) {
       list.innerHTML = html + (area === FAV && !q.value
