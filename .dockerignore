@@ -4,8 +4,8 @@
 !config.js
 !app.js
 !plan.js
+!qr.js
 !social.js
-!demo.js
 !sw.js
 !manifest.webmanifest
 !data/venues.json
