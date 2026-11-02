@@ -104,34 +104,40 @@
   $('#sheet .sheet-bg').addEventListener('click', closeSheet);
 
   // ---------- profiel ----------
-  // gebruikersnaam + wachtwoord, niets te verifiëren; zo werkt je account ook op een ander toestel of als app op je beginscherm
+  // nieuw account: alleen een gebruikersnaam, de sessie blijft op dit toestel; oude accounts met wachtwoord kunnen nog inloggen
   function ensureMe(reason) {
     if (me) return Promise.resolve(me);
     return new Promise(resolve => {
       const open = mode => sheet(`<h3>${mode === 'login' ? 'Inloggen' : 'Maak je account'}</h3>
-        <p class="sheet-sub">${esc(reason || 'Een gebruikersnaam en een wachtwoord. Geen e-mail, geen telefoonnummer, niets te verifiëren.')}</p>
+        <p class="sheet-sub">${esc(reason || 'Alleen een gebruikersnaam. Geen wachtwoord, geen e-mail, niets te verifiëren.')}</p>
         <form class="name-form" id="me-form">
           <input name="username" maxlength="20" placeholder="Gebruikersnaam" autocomplete="username" autocapitalize="off" autocorrect="off" spellcheck="false" required>
-          <input name="password" type="password" minlength="4" placeholder="Wachtwoord" autocomplete="${mode === 'login' ? 'current-password' : 'new-password'}" required>
+          ${mode === 'login' ? '<input name="password" type="password" minlength="4" placeholder="Wachtwoord" autocomplete="current-password" required>' : ''}
           <button class="cta">${mode === 'login' ? 'Inloggen' : 'Account maken'}</button>
         </form>
-        <button class="sheet-row center" data-s="switch">${mode === 'login' ? 'Nog geen account? Maak er een' : 'Heb je al een account? Log in'}</button>`, el => {
+        <button class="sheet-row center" data-s="switch">${mode === 'login' ? 'Nog geen account? Kies een naam' : 'Account met wachtwoord? Log in'}</button>`, el => {
         const f = el.querySelector('form');
         setTimeout(() => f.username.focus(), 250);
         el.querySelector('[data-s="switch"]').onclick = () => open(mode === 'login' ? 'register' : 'login');
         f.addEventListener('submit', async e => {
           e.preventDefault();
           try {
-            me = await api('POST', mode === 'login' ? '/login' : '/register', { username: f.username.value.trim(), password: f.password.value });
-            store.set('me', me); closeSheet(); connect(); loadAll(true); renderAll(); resolve(me);
+            if (mode === 'login') { me = await api('POST', '/login', { username: f.username.value.trim(), password: f.password.value }); welkom(); }
+            else await signup(f.username.value.trim());
+            closeSheet(); resolve(me);
           } catch (err) { toast(err.offline ? 'Geen verbinding met de server' : err.message); }
         });
       });
       open('register');
     });
   }
+  async function signup(username) {
+    me = await api('POST', '/register', { username });
+    welkom(); return me;
+  }
+  function welkom() { store.set('me', me); connect(); loadAll(true); renderAll(); }
   async function logout() {
-    if (!confirm('Uitloggen op dit toestel?')) return;
+    if (!confirm('Uitloggen op dit toestel? Zonder wachtwoord kom je daarna niet meer in dit account.')) return;
     try { await api('POST', '/logout'); } catch {}
     forget(); toast('Uitgelogd');
   }
@@ -327,7 +333,7 @@
   // ---------- vrienden ----------
   function intro(title, text) {
     return `<div class="hello"><div class="hello-dot"></div><h3 class="display">${title}</h3><p>${text}</p><button class="cta" data-act="profiel">Maak je profiel</button>
-      <p class="fine">Gebruikersnaam en wachtwoord. Geen e-mail, geen telefoonnummer, geen GPS.</p></div>`;
+      <p class="fine">Alleen een gebruikersnaam. Geen wachtwoord, e-mail, telefoonnummer of GPS.</p></div>`;
   }
   function renderFriends() {
     const el = $('#friends'); if (!el) return;
@@ -732,6 +738,8 @@
   }
 
   window.Social = {
+    me: () => me,
+    signup,
     init() {
       renderAll();
       if (me) { connect(); loadAll(true); flush(); if (pushOn()) enablePush(true); }

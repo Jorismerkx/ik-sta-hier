@@ -23,13 +23,29 @@
 
       <!-- WELKOM: drie kleurvlakken met één zin -->
       <section id="view-welcome" class="view">
-        <div class="ob-top"><span class="logo">Ik sta hier<span class="dot">.</span></span><button id="start">Overslaan</button></div>
-        <div class="ob" id="ob"></div>
-        <div class="ob-foot">
-          <div class="ob-dots" id="ob-dots"></div>
-          <button id="ob-next" class="btn block">Volgende</button>
+        <div class="wall" id="wall"></div>
+        <div class="welcome">
+          <h1 class="big">Ik sta<br>hier<span class="dot">.</span></h1>
+          <p class="lead">Kwijt in de club? Zet je puntje op de plattegrond en je vrienden zien meteen waar je staat.</p>
+          <ol class="steps">
+            <li><span>1</span>Maak een event met je vrienden</li>
+            <li><span>2</span>Tik op Waar sta je?</li>
+            <li><span>3</span>Zet je puntje, iedereen ziet het</li>
+          </ol>
+          <button id="start" class="cta">Begin</button>
           <p class="fine" id="welcome-count"></p>
         </div>
+      </section>
+
+      <!-- NAAM: alleen een gebruikersnaam, dan de app -->
+      <section id="view-naam" class="view">
+        <form class="naam" id="naam-form" autocomplete="off" novalidate>
+          <h1 class="display">Hoe heet je?</h1>
+          <p class="lead">Kies een gebruikersnaam. Zo zien je vrienden wie er op de plattegrond staat.</p>
+          <input id="naam-input" name="username" maxlength="20" placeholder="Gebruikersnaam" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="go">
+          <p class="fine">3 tot 20 letters of cijfers. Geen wachtwoord, geen e-mail.</p>
+          <button class="cta" id="naam-go">Verder</button>
+        </form>
       </section>
 
       <!-- HOME: lijst, kaart, vrienden, events -->

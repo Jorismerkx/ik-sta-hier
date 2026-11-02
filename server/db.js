@@ -67,7 +67,7 @@ function open(dir) {
     // ---------- gebruikers en sessies (één sessie per toestel) ----------
     createUser(username, password) {
       const id = rid(9), c = code();
-      q('insert into users (id, username, name, code, pass, created) values (?, ?, ?, ?, ?, ?)').run(id, username, username, c, hashPass(password), now());
+      q('insert into users (id, username, name, code, pass, created) values (?, ?, ?, ?, ?, ?)').run(id, username, username, c, password ? hashPass(password) : '', now());
       return this.user(id);
     },
     login(username, password) {

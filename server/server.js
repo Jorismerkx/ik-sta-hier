@@ -78,11 +78,11 @@ const routes = [
   ['GET', /^\/api\/health$/, false, () => ({ ok: true })],
   ['GET', /^\/api\/push$/, false, () => ({ key: VAPID_PUBLIC })],
 
-  // account: gebruikersnaam + wachtwoord, niets te verifiëren; elk toestel krijgt een eigen sessie
+  // account: alleen een gebruikersnaam (wachtwoord mag, hoeft niet), niets te verifiëren; elk toestel krijgt een eigen sessie
   ['POST', /^\/api\/register$/, false, ({ body }) => {
     const username = String(body.username || '').trim(), password = String(body.password || '');
     if (!NAAM.test(username)) throw new Fout(400, 'Gebruikersnaam: 3 tot 20 letters of cijfers');
-    if (password.length < 4) throw new Fout(400, 'Wachtwoord: minstens 4 tekens');
+    if (password && password.length < 4) throw new Fout(400, 'Wachtwoord: minstens 4 tekens');
     if (db.userByName(username)) throw new Fout(409, 'Die gebruikersnaam is al bezet');
     const u = db.createUser(username, password);
     return { ...u, token: db.newSession(u.id) };

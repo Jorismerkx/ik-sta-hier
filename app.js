@@ -65,45 +65,25 @@
   $('#info').addEventListener('click', () => show('about'));
   $('#about-mail').href = `mailto:${FEEDBACK_MAIL}?subject=${encodeURIComponent('Ik sta hier: feedback')}`;
 
-  // ---------- onboarding: drie kleurvlakken ----------
-  const OB = [
-    { pick: ['paradiso', 'melkweg'], text: 'Zie waar je vrienden staan', sub: 'Elke club in Amsterdam als plattegrond. Je vrienden zijn de bolletjes.',
-      dots: [{ x: 330, y: 720, initials: 'JM' }, { x: 560, y: 790, initials: 'SA' }, { x: 440, y: 1010, initials: 'MO' }] },
-    { pick: ['shelter', 'bitterzoet'], text: 'Zet je puntje', sub: 'Tik op de plattegrond waar je staat. Je groep ziet het meteen, ook als je bereik slecht is.',
-      dots: [{ x: 450, y: 860, initials: 'JIJ', color: '#ff2d2d', focus: true }] },
-    { pick: ['melkweg', 'paradiso'], text: 'Ping zonder te typen', sub: 'Eén tik op "Waar zijn jullie?" en je hele groep trilt. Geen chat, geen gedoe.', ping: true,
-      dots: [{ x: 380, y: 900, initials: 'JM', focus: true, name: 'JONAS' }] },
-  ];
-  let obIndex = 0;
-  function buildOnboarding() {
-    const slides = OB.map((s, i) => {
-      const v = s.pick.map(id => VENUES.find(x => x.id === id)).find(Boolean) || VENUES.filter(x => x.basis === 'plattegrond')[i] || VENUES[i];
-      if (!v || !v.rooms.length) return '';
-      s.color = colorOf(v);
-      const room = v.rooms.reduce((a, r) => ((r.features || []).length > (a.features || []).length ? r : a), v.rooms[0]);
-      return `<div class="ob-slide" style="--c:${s.color}">
-        <div class="ob-plan">${Plan.render(v, room, { noFooter: true, dots: s.dots })}
-          ${s.ping ? '<div class="ob-ping"><span class="av" style="background:#000">JM</span><strong>Jonas: waar zijn jullie?</strong><span>Stuur mijn plek</span></div>' : ''}</div>
-        <div class="ob-text"><h1 class="display">${esc(s.text)}</h1><p>${esc(s.sub)}</p></div></div>`;
-    }).join('');
-    $('#ob').innerHTML = slides;
-    $('#ob-dots').innerHTML = OB.map((_, i) => `<i class="${i ? '' : 'on'}"></i>`).join('');
-    obGo(0, false);
+  // ---------- welkom: fotomuur, drie stappen, dan alleen een gebruikersnaam ----------
+  function buildWall() {
+    const pick = VENUES.filter(v => v.photo).sort(() => Math.random() - 0.5).slice(0, 18);
+    $('#wall').innerHTML = pick.map(v => `<div style="background-image:url('${photoOf(v)}')"></div>`).join('');
   }
-  function obGo(i, scroll = true) {
-    obIndex = Math.max(0, Math.min(OB.length - 1, i));
-    $('#view-welcome').style.setProperty('--ob-c', OB[obIndex].color || '#ff1a1a');
-    $$('#ob-dots i').forEach((d, j) => d.classList.toggle('on', j === obIndex));
-    $('#ob-next').textContent = obIndex === OB.length - 1 ? 'Begin' : 'Volgende';
-    if (scroll) $('#ob').scrollTo({ left: obIndex * $('#ob').clientWidth, behavior: 'smooth' });
-  }
-  $('#ob').addEventListener('scroll', () => {
-    const i = Math.round($('#ob').scrollLeft / ($('#ob').clientWidth || 1));
-    if (i !== obIndex) obGo(i, false);
-  }, { passive: true });
-  const begin = () => { store.set('welcomed', true); show('home'); };
-  $('#ob-next').addEventListener('click', () => (obIndex === OB.length - 1 ? begin() : obGo(obIndex + 1)));
-  $('#start').addEventListener('click', begin);
+  const klaar = () => { store.set('welkom', true); show('home'); };
+  $('#start').addEventListener('click', () => {
+    if (window.Social && Social.me()) return klaar();
+    show('naam'); setTimeout(() => $('#naam-input').focus(), 150);
+  });
+  $('#naam-form').addEventListener('submit', async e => {
+    e.preventDefault();
+    const naam = $('#naam-input').value.trim();
+    if (!/^[A-Za-z0-9._-]{3,20}$/.test(naam)) return toast('3 tot 20 letters of cijfers');
+    $('#naam-go').disabled = true;
+    try { await Social.signup(naam); klaar(); }
+    catch (err) { if (err.offline) { toast('Geen verbinding: kies je naam later'); klaar(); } else toast(err.message); }
+    finally { $('#naam-go').disabled = false; }
+  });
 
   // ---------- tabs (onderbalk) ----------
   function selectTab(tab) {
@@ -453,7 +433,7 @@
   window.App = {
     $, $$, esc, toast, store, show, swatch, thumb, datebox, colorOf, initials, openPlan, openVenue, selectTab, loadAgenda,
     venues: () => VENUES, venue: id => VENUES.find(v => v.id === id),
-    welcomed: () => { store.set('welcomed', true); },
+    welcomed: () => { store.set('welkom', true); },
   };
 
   function route(hash) {
@@ -462,7 +442,7 @@
     if (vid && VENUES.find(v => v.id === vid)) {
       const v = VENUES.find(x => x.id === vid);
       if (ri !== undefined && v.rooms[+ri]) { openVenue(vid); openPlan(v, v.rooms[+ri], 'venue'); } else openVenue(vid);
-    } else show(store.get('welcomed') ? 'home' : 'welcome');
+    } else show(store.get('welkom') ? 'home' : 'welcome');
   }
 
   // ---------- init ----------
@@ -472,7 +452,7 @@
     const nr = VENUES.reduce((a, v) => a + (v.rooms || []).length, 0);
     $('#welcome-count').textContent = `${VENUES.length} clubs, bars en podia · ${nr} zalen`;
     $('#about-stats').textContent = `${VENUES.length} venues, ${nr} zalen. Gesloten clubs en losse eventlocaties staan er niet in.`;
-    renderChips(); renderList(); buildOnboarding(); netState();
+    renderChips(); renderList(); buildWall(); netState();
     if (window.Social) Social.init();
     const tab = store.get('tab', 'list');
     selectTab(['list', 'map', 'friends', 'events'].includes(tab) ? tab : 'list');
