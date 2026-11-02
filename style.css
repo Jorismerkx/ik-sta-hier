@@ -163,9 +163,9 @@ h1, h2, h3 { margin: 0; }
 .tab svg { width: 24px; height: 24px; }
 .tab.active { color: #fff; }
 .badge { position: absolute; top: 0; right: 12px; min-width: 17px; height: 17px; padding: 0 5px; border-radius: 9px; background: var(--accent); color: #fff; font-size: 10px; font-style: normal; font-weight: 900; line-height: 17px; text-align: center; }
-.here { display: flex; flex-direction: column; align-items: center; gap: 5px; width: 86px; margin-top: -32px; }
-.here-btn { position: relative; width: 68px; height: 68px; border-radius: 50%; background: var(--accent); color: #fff; display: grid; place-items: center; box-shadow: 0 0 0 6px #000; transition: transform .12s; }
-.here-btn svg { width: 30px; height: 30px; }
+.here { display: flex; flex-direction: column; align-items: center; gap: 5px; width: 86px; margin-top: -26px; }
+.here-btn { position: relative; width: 58px; height: 58px; border-radius: 50%; background: var(--accent); color: #fff; display: grid; place-items: center; box-shadow: 0 0 0 6px #000; transition: transform .12s; }
+.here-btn svg { width: 26px; height: 26px; }
 .here:active .here-btn { transform: scale(.92); }
 .here-label { font-size: 10px; font-weight: 900; color: #fff; letter-spacing: .02em; text-transform: uppercase; white-space: nowrap; }
 .here.live .here-btn::after { content: ""; position: absolute; inset: -6px; border-radius: 50%; border: 3px solid var(--accent); animation: ring 1.8s ease-out infinite; }
